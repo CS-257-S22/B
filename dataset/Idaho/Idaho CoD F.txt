@@ -1,0 +1,682 @@
+"Notes"	"State"	"State Code"	"Single-Year Ages"	"Single-Year Ages Code"	"Cause of death"	"Cause of death Code"	Deaths	Population	Crude Rate
+	"Idaho"	"16"	"< 1 year"	"0"	"Newborn affected by incompetent cervix"	"P01.0"	10	54564	Unreliable
+	"Idaho"	"16"	"< 1 year"	"0"	"Extreme immaturity"	"P07.2"	17	54564	Unreliable
+	"Idaho"	"16"	"< 1 year"	"0"	"Edwards syndrome, unspecified"	"Q91.3"	12	54564	Unreliable
+	"Idaho"	"16"	"< 1 year"	"0"	"Sudden infant death syndrome - SIDS"	"R95"	15	54564	Unreliable
+	"Idaho"	"16"	"< 1 year"	"0"	"Other ill-defined and unspecified causes of mortality"	"R99"	12	54564	Unreliable
+	"Idaho"	"16"	"31 years"	"31"	"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X44"	10	55572	Unreliable
+	"Idaho"	"16"	"35 years"	"35"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	10	57102	Unreliable
+	"Idaho"	"16"	"44 years"	"44"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	10	49650	Unreliable
+	"Idaho"	"16"	"46 years"	"46"	"Acute myocardial infarction, unspecified"	"I21.9"	11	50105	Unreliable
+	"Idaho"	"16"	"50 years"	"50"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	14	49090	Unreliable
+	"Idaho"	"16"	"51 years"	"51"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	15	48719	Unreliable
+	"Idaho"	"16"	"53 years"	"53"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	14	50565	Unreliable
+	"Idaho"	"16"	"53 years"	"53"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	20	50565	39.6
+	"Idaho"	"16"	"54 years"	"54"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	12	51983	Unreliable
+	"Idaho"	"16"	"54 years"	"54"	"Acute myocardial infarction, unspecified"	"I21.9"	12	51983	Unreliable
+	"Idaho"	"16"	"55 years"	"55"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	11	53900	Unreliable
+	"Idaho"	"16"	"55 years"	"55"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	22	53900	40.8
+	"Idaho"	"16"	"55 years"	"55"	"Acute myocardial infarction, unspecified"	"I21.9"	12	53900	Unreliable
+	"Idaho"	"16"	"55 years"	"55"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	12	53900	Unreliable
+	"Idaho"	"16"	"56 years"	"56"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	21	54991	38.2
+	"Idaho"	"16"	"56 years"	"56"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	15	54991	Unreliable
+	"Idaho"	"16"	"56 years"	"56"	"Acute myocardial infarction, unspecified"	"I21.9"	13	54991	Unreliable
+	"Idaho"	"16"	"56 years"	"56"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	16	54991	Unreliable
+	"Idaho"	"16"	"57 years"	"57"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	19	55623	Unreliable
+	"Idaho"	"16"	"57 years"	"57"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	19	55623	Unreliable
+	"Idaho"	"16"	"57 years"	"57"	"Acute myocardial infarction, unspecified"	"I21.9"	20	55623	36.0
+	"Idaho"	"16"	"58 years"	"58"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	21	55921	37.6
+	"Idaho"	"16"	"58 years"	"58"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	18	55921	Unreliable
+	"Idaho"	"16"	"58 years"	"58"	"Acute myocardial infarction, unspecified"	"I21.9"	19	55921	Unreliable
+	"Idaho"	"16"	"58 years"	"58"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	11	55921	Unreliable
+	"Idaho"	"16"	"59 years"	"59"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	10	56137	Unreliable
+	"Idaho"	"16"	"59 years"	"59"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	22	56137	39.2
+	"Idaho"	"16"	"59 years"	"59"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	17	56137	Unreliable
+	"Idaho"	"16"	"59 years"	"59"	"Acute myocardial infarction, unspecified"	"I21.9"	13	56137	Unreliable
+	"Idaho"	"16"	"59 years"	"59"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	18	56137	Unreliable
+	"Idaho"	"16"	"60 years"	"60"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	11	55768	Unreliable
+	"Idaho"	"16"	"60 years"	"60"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	27	55768	48.4
+	"Idaho"	"16"	"60 years"	"60"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	23	55768	41.2
+	"Idaho"	"16"	"60 years"	"60"	"Malignant neoplasm of ovary"	"C56"	11	55768	Unreliable
+	"Idaho"	"16"	"60 years"	"60"	"Acute myocardial infarction, unspecified"	"I21.9"	11	55768	Unreliable
+	"Idaho"	"16"	"60 years"	"60"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	22	55768	39.4
+	"Idaho"	"16"	"61 years"	"61"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	28	55266	50.7
+	"Idaho"	"16"	"61 years"	"61"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	27	55266	48.9
+	"Idaho"	"16"	"61 years"	"61"	"Malignant neoplasm of ovary"	"C56"	13	55266	Unreliable
+	"Idaho"	"16"	"61 years"	"61"	"Acute myocardial infarction, unspecified"	"I21.9"	17	55266	Unreliable
+	"Idaho"	"16"	"61 years"	"61"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	21	55266	38.0
+	"Idaho"	"16"	"62 years"	"62"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	10	54899	Unreliable
+	"Idaho"	"16"	"62 years"	"62"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	25	54899	45.5
+	"Idaho"	"16"	"62 years"	"62"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	29	54899	52.8
+	"Idaho"	"16"	"62 years"	"62"	"Acute myocardial infarction, unspecified"	"I21.9"	17	54899	Unreliable
+	"Idaho"	"16"	"62 years"	"62"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	29	54899	52.8
+	"Idaho"	"16"	"63 years"	"63"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	22	54170	40.6
+	"Idaho"	"16"	"63 years"	"63"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	27	54170	49.8
+	"Idaho"	"16"	"63 years"	"63"	"Endometrium - Malignant neoplasms"	"C54.1"	10	54170	Unreliable
+	"Idaho"	"16"	"63 years"	"63"	"Malignant neoplasm without specification of site"	"C80"	10	54170	Unreliable
+	"Idaho"	"16"	"63 years"	"63"	"Acute myocardial infarction, unspecified"	"I21.9"	23	54170	42.5
+	"Idaho"	"16"	"63 years"	"63"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	23	54170	42.5
+	"Idaho"	"16"	"64 years"	"64"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	17	53004	Unreliable
+	"Idaho"	"16"	"64 years"	"64"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	42	53004	79.2
+	"Idaho"	"16"	"64 years"	"64"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	33	53004	62.3
+	"Idaho"	"16"	"64 years"	"64"	"Acute myocardial infarction, unspecified"	"I21.9"	25	53004	47.2
+	"Idaho"	"16"	"64 years"	"64"	"Atherosclerotic heart disease"	"I25.1"	10	53004	Unreliable
+	"Idaho"	"16"	"64 years"	"64"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	24	53004	45.3
+	"Idaho"	"16"	"64 years"	"64"	"COVID-19"	"U07.1"	10	53004	Unreliable
+	"Idaho"	"16"	"65 years"	"65"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	15	51818	Unreliable
+	"Idaho"	"16"	"65 years"	"65"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	33	51818	63.7
+	"Idaho"	"16"	"65 years"	"65"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	22	51818	42.5
+	"Idaho"	"16"	"65 years"	"65"	"Malignant neoplasm of ovary"	"C56"	16	51818	Unreliable
+	"Idaho"	"16"	"65 years"	"65"	"Unspecified diabetes mellitus, without complications"	"E14.9"	10	51818	Unreliable
+	"Idaho"	"16"	"65 years"	"65"	"Acute myocardial infarction, unspecified"	"I21.9"	16	51818	Unreliable
+	"Idaho"	"16"	"65 years"	"65"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	32	51818	61.8
+	"Idaho"	"16"	"66 years"	"66"	"Septicaemia, unspecified"	"A41.9"	10	50483	Unreliable
+	"Idaho"	"16"	"66 years"	"66"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	10	50483	Unreliable
+	"Idaho"	"16"	"66 years"	"66"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	12	50483	Unreliable
+	"Idaho"	"16"	"66 years"	"66"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	27	50483	53.5
+	"Idaho"	"16"	"66 years"	"66"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	20	50483	39.6
+	"Idaho"	"16"	"66 years"	"66"	"Malignant neoplasm of ovary"	"C56"	11	50483	Unreliable
+	"Idaho"	"16"	"66 years"	"66"	"Acute myocardial infarction, unspecified"	"I21.9"	30	50483	59.4
+	"Idaho"	"16"	"66 years"	"66"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	12	50483	Unreliable
+	"Idaho"	"16"	"66 years"	"66"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	39	50483	77.3
+	"Idaho"	"16"	"67 years"	"67"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	20	48634	41.1
+	"Idaho"	"16"	"67 years"	"67"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	38	48634	78.1
+	"Idaho"	"16"	"67 years"	"67"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	33	48634	67.9
+	"Idaho"	"16"	"67 years"	"67"	"Malignant neoplasm of ovary"	"C56"	18	48634	Unreliable
+	"Idaho"	"16"	"67 years"	"67"	"Acute myocardial infarction, unspecified"	"I21.9"	21	48634	43.2
+	"Idaho"	"16"	"67 years"	"67"	"Atherosclerotic heart disease"	"I25.1"	21	48634	43.2
+	"Idaho"	"16"	"67 years"	"67"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	31	48634	63.7
+	"Idaho"	"16"	"68 years"	"68"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	11	47107	Unreliable
+	"Idaho"	"16"	"68 years"	"68"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	26	47107	55.2
+	"Idaho"	"16"	"68 years"	"68"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	29	47107	61.6
+	"Idaho"	"16"	"68 years"	"68"	"Malignant neoplasm of ovary"	"C56"	10	47107	Unreliable
+	"Idaho"	"16"	"68 years"	"68"	"Acute myocardial infarction, unspecified"	"I21.9"	19	47107	Unreliable
+	"Idaho"	"16"	"68 years"	"68"	"Atherosclerotic heart disease"	"I25.1"	11	47107	Unreliable
+	"Idaho"	"16"	"68 years"	"68"	"Stroke, not specified as haemorrhage or infarction"	"I64"	11	47107	Unreliable
+	"Idaho"	"16"	"68 years"	"68"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	41	47107	87.0
+	"Idaho"	"16"	"69 years"	"69"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	11	45904	Unreliable
+	"Idaho"	"16"	"69 years"	"69"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	11	45904	Unreliable
+	"Idaho"	"16"	"69 years"	"69"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	47	45904	102.4
+	"Idaho"	"16"	"69 years"	"69"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	28	45904	61.0
+	"Idaho"	"16"	"69 years"	"69"	"Alzheimer disease, unspecified"	"G30.9"	12	45904	Unreliable
+	"Idaho"	"16"	"69 years"	"69"	"Acute myocardial infarction, unspecified"	"I21.9"	27	45904	58.8
+	"Idaho"	"16"	"69 years"	"69"	"Atherosclerotic heart disease"	"I25.1"	12	45904	Unreliable
+	"Idaho"	"16"	"69 years"	"69"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	42	45904	91.5
+	"Idaho"	"16"	"70 years"	"70"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	19	42846	Unreliable
+	"Idaho"	"16"	"70 years"	"70"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	51	42846	119.0
+	"Idaho"	"16"	"70 years"	"70"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	30	42846	70.0
+	"Idaho"	"16"	"70 years"	"70"	"Malignant neoplasm without specification of site"	"C80"	10	42846	Unreliable
+	"Idaho"	"16"	"70 years"	"70"	"Alzheimer disease, unspecified"	"G30.9"	16	42846	Unreliable
+	"Idaho"	"16"	"70 years"	"70"	"Acute myocardial infarction, unspecified"	"I21.9"	26	42846	60.7
+	"Idaho"	"16"	"70 years"	"70"	"Atherosclerotic heart disease"	"I25.1"	17	42846	Unreliable
+	"Idaho"	"16"	"70 years"	"70"	"Congestive heart failure"	"I50.0"	10	42846	Unreliable
+	"Idaho"	"16"	"70 years"	"70"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	49	42846	114.4
+	"Idaho"	"16"	"70 years"	"70"	"COVID-19"	"U07.1"	10	42846	Unreliable
+	"Idaho"	"16"	"71 years"	"71"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	14	40290	Unreliable
+	"Idaho"	"16"	"71 years"	"71"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	24	40290	59.6
+	"Idaho"	"16"	"71 years"	"71"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	51	40290	126.6
+	"Idaho"	"16"	"71 years"	"71"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	31	40290	76.9
+	"Idaho"	"16"	"71 years"	"71"	"Malignant neoplasm of ovary"	"C56"	13	40290	Unreliable
+	"Idaho"	"16"	"71 years"	"71"	"Unspecified dementia"	"F03"	10	40290	Unreliable
+	"Idaho"	"16"	"71 years"	"71"	"Alzheimer disease, unspecified"	"G30.9"	13	40290	Unreliable
+	"Idaho"	"16"	"71 years"	"71"	"Acute myocardial infarction, unspecified"	"I21.9"	25	40290	62.1
+	"Idaho"	"16"	"71 years"	"71"	"Atherosclerotic heart disease"	"I25.1"	13	40290	Unreliable
+	"Idaho"	"16"	"71 years"	"71"	"Congestive heart failure"	"I50.0"	11	40290	Unreliable
+	"Idaho"	"16"	"71 years"	"71"	"Stroke, not specified as haemorrhage or infarction"	"I64"	13	40290	Unreliable
+	"Idaho"	"16"	"71 years"	"71"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	48	40290	119.1
+	"Idaho"	"16"	"71 years"	"71"	"COVID-19"	"U07.1"	14	40290	Unreliable
+	"Idaho"	"16"	"72 years"	"72"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	24	37606	63.8
+	"Idaho"	"16"	"72 years"	"72"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	37	37606	98.4
+	"Idaho"	"16"	"72 years"	"72"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	28	37606	74.5
+	"Idaho"	"16"	"72 years"	"72"	"Malignant neoplasm of ovary"	"C56"	13	37606	Unreliable
+	"Idaho"	"16"	"72 years"	"72"	"Unspecified dementia"	"F03"	13	37606	Unreliable
+	"Idaho"	"16"	"72 years"	"72"	"Alzheimer disease, unspecified"	"G30.9"	24	37606	63.8
+	"Idaho"	"16"	"72 years"	"72"	"Acute myocardial infarction, unspecified"	"I21.9"	29	37606	77.1
+	"Idaho"	"16"	"72 years"	"72"	"Atherosclerotic heart disease"	"I25.1"	20	37606	53.2
+	"Idaho"	"16"	"72 years"	"72"	"Stroke, not specified as haemorrhage or infarction"	"I64"	10	37606	Unreliable
+	"Idaho"	"16"	"72 years"	"72"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	51	37606	135.6
+	"Idaho"	"16"	"72 years"	"72"	"COVID-19"	"U07.1"	17	37606	Unreliable
+	"Idaho"	"16"	"73 years"	"73"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	13	35477	Unreliable
+	"Idaho"	"16"	"73 years"	"73"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	50	35477	140.9
+	"Idaho"	"16"	"73 years"	"73"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	26	35477	73.3
+	"Idaho"	"16"	"73 years"	"73"	"Unspecified dementia"	"F03"	20	35477	56.4
+	"Idaho"	"16"	"73 years"	"73"	"Alzheimer disease, unspecified"	"G30.9"	32	35477	90.2
+	"Idaho"	"16"	"73 years"	"73"	"Acute myocardial infarction, unspecified"	"I21.9"	32	35477	90.2
+	"Idaho"	"16"	"73 years"	"73"	"Atherosclerotic heart disease"	"I25.1"	17	35477	Unreliable
+	"Idaho"	"16"	"73 years"	"73"	"Congestive heart failure"	"I50.0"	14	35477	Unreliable
+	"Idaho"	"16"	"73 years"	"73"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	68	35477	191.7
+	"Idaho"	"16"	"73 years"	"73"	"COVID-19"	"U07.1"	15	35477	Unreliable
+	"Idaho"	"16"	"74 years"	"74"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	19	31756	Unreliable
+	"Idaho"	"16"	"74 years"	"74"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	40	31756	126.0
+	"Idaho"	"16"	"74 years"	"74"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	21	31756	66.1
+	"Idaho"	"16"	"74 years"	"74"	"Malignant neoplasm of ovary"	"C56"	16	31756	Unreliable
+	"Idaho"	"16"	"74 years"	"74"	"Unspecified dementia"	"F03"	19	31756	Unreliable
+	"Idaho"	"16"	"74 years"	"74"	"Alzheimer disease, unspecified"	"G30.9"	27	31756	85.0
+	"Idaho"	"16"	"74 years"	"74"	"Acute myocardial infarction, unspecified"	"I21.9"	14	31756	Unreliable
+	"Idaho"	"16"	"74 years"	"74"	"Atherosclerotic heart disease"	"I25.1"	28	31756	88.2
+	"Idaho"	"16"	"74 years"	"74"	"Atrial fibrillation and flutter"	"I48"	13	31756	Unreliable
+	"Idaho"	"16"	"74 years"	"74"	"Stroke, not specified as haemorrhage or infarction"	"I64"	14	31756	Unreliable
+	"Idaho"	"16"	"74 years"	"74"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	53	31756	166.9
+	"Idaho"	"16"	"74 years"	"74"	"COVID-19"	"U07.1"	18	31756	Unreliable
+	"Idaho"	"16"	"75 years"	"75"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	11	30322	Unreliable
+	"Idaho"	"16"	"75 years"	"75"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	13	30322	Unreliable
+	"Idaho"	"16"	"75 years"	"75"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	58	30322	191.3
+	"Idaho"	"16"	"75 years"	"75"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	26	30322	85.7
+	"Idaho"	"16"	"75 years"	"75"	"Unspecified dementia"	"F03"	21	30322	69.3
+	"Idaho"	"16"	"75 years"	"75"	"Parkinson disease"	"G20"	11	30322	Unreliable
+	"Idaho"	"16"	"75 years"	"75"	"Alzheimer disease, unspecified"	"G30.9"	39	30322	128.6
+	"Idaho"	"16"	"75 years"	"75"	"Acute myocardial infarction, unspecified"	"I21.9"	20	30322	66.0
+	"Idaho"	"16"	"75 years"	"75"	"Atherosclerotic heart disease"	"I25.1"	25	30322	82.4
+	"Idaho"	"16"	"75 years"	"75"	"Congestive heart failure"	"I50.0"	14	30322	Unreliable
+	"Idaho"	"16"	"75 years"	"75"	"Stroke, not specified as haemorrhage or infarction"	"I64"	18	30322	Unreliable
+	"Idaho"	"16"	"75 years"	"75"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	10	30322	Unreliable
+	"Idaho"	"16"	"75 years"	"75"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	65	30322	214.4
+	"Idaho"	"16"	"76 years"	"76"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	14	28432	Unreliable
+	"Idaho"	"16"	"76 years"	"76"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	46	28432	161.8
+	"Idaho"	"16"	"76 years"	"76"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	21	28432	73.9
+	"Idaho"	"16"	"76 years"	"76"	"Malignant neoplasm without specification of site"	"C80"	12	28432	Unreliable
+	"Idaho"	"16"	"76 years"	"76"	"Non-insulin-dependent diabetes mellitus, with renal complications"	"E11.2"	11	28432	Unreliable
+	"Idaho"	"16"	"76 years"	"76"	"Unspecified dementia"	"F03"	22	28432	77.4
+	"Idaho"	"16"	"76 years"	"76"	"Alzheimer disease, unspecified"	"G30.9"	35	28432	123.1
+	"Idaho"	"16"	"76 years"	"76"	"Acute myocardial infarction, unspecified"	"I21.9"	28	28432	98.5
+	"Idaho"	"16"	"76 years"	"76"	"Atherosclerotic heart disease"	"I25.1"	26	28432	91.4
+	"Idaho"	"16"	"76 years"	"76"	"Congestive heart failure"	"I50.0"	14	28432	Unreliable
+	"Idaho"	"16"	"76 years"	"76"	"Stroke, not specified as haemorrhage or infarction"	"I64"	22	28432	77.4
+	"Idaho"	"16"	"76 years"	"76"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	77	28432	270.8
+	"Idaho"	"16"	"76 years"	"76"	"COVID-19"	"U07.1"	12	28432	Unreliable
+	"Idaho"	"16"	"77 years"	"77"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	15	26029	Unreliable
+	"Idaho"	"16"	"77 years"	"77"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	50	26029	192.1
+	"Idaho"	"16"	"77 years"	"77"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	31	26029	119.1
+	"Idaho"	"16"	"77 years"	"77"	"Malignant neoplasm of ovary"	"C56"	12	26029	Unreliable
+	"Idaho"	"16"	"77 years"	"77"	"Unspecified dementia"	"F03"	29	26029	111.4
+	"Idaho"	"16"	"77 years"	"77"	"Parkinson disease"	"G20"	14	26029	Unreliable
+	"Idaho"	"16"	"77 years"	"77"	"Alzheimer disease, unspecified"	"G30.9"	47	26029	180.6
+	"Idaho"	"16"	"77 years"	"77"	"Acute myocardial infarction, unspecified"	"I21.9"	38	26029	146.0
+	"Idaho"	"16"	"77 years"	"77"	"Atherosclerotic heart disease"	"I25.1"	16	26029	Unreliable
+	"Idaho"	"16"	"77 years"	"77"	"Atrial fibrillation and flutter"	"I48"	16	26029	Unreliable
+	"Idaho"	"16"	"77 years"	"77"	"Congestive heart failure"	"I50.0"	13	26029	Unreliable
+	"Idaho"	"16"	"77 years"	"77"	"Stroke, not specified as haemorrhage or infarction"	"I64"	15	26029	Unreliable
+	"Idaho"	"16"	"77 years"	"77"	"Chronic obstructive pulmonary disease with acute exacerbation, unspecified"	"J44.1"	11	26029	Unreliable
+	"Idaho"	"16"	"77 years"	"77"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	65	26029	249.7
+	"Idaho"	"16"	"77 years"	"77"	"COVID-19"	"U07.1"	19	26029	Unreliable
+	"Idaho"	"16"	"78 years"	"78"	"Septicaemia, unspecified"	"A41.9"	12	23723	Unreliable
+	"Idaho"	"16"	"78 years"	"78"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	12	23723	Unreliable
+	"Idaho"	"16"	"78 years"	"78"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	24	23723	101.2
+	"Idaho"	"16"	"78 years"	"78"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	44	23723	185.5
+	"Idaho"	"16"	"78 years"	"78"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	20	23723	84.3
+	"Idaho"	"16"	"78 years"	"78"	"Unspecified dementia"	"F03"	31	23723	130.7
+	"Idaho"	"16"	"78 years"	"78"	"Parkinson disease"	"G20"	16	23723	Unreliable
+	"Idaho"	"16"	"78 years"	"78"	"Alzheimer disease, unspecified"	"G30.9"	56	23723	236.1
+	"Idaho"	"16"	"78 years"	"78"	"Acute myocardial infarction, unspecified"	"I21.9"	27	23723	113.8
+	"Idaho"	"16"	"78 years"	"78"	"Atherosclerotic heart disease"	"I25.1"	16	23723	Unreliable
+	"Idaho"	"16"	"78 years"	"78"	"Congestive heart failure"	"I50.0"	10	23723	Unreliable
+	"Idaho"	"16"	"78 years"	"78"	"Heart failure, unspecified"	"I50.9"	13	23723	Unreliable
+	"Idaho"	"16"	"78 years"	"78"	"Stroke, not specified as haemorrhage or infarction"	"I64"	24	23723	101.2
+	"Idaho"	"16"	"78 years"	"78"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	63	23723	265.6
+	"Idaho"	"16"	"78 years"	"78"	"COVID-19"	"U07.1"	12	23723	Unreliable
+	"Idaho"	"16"	"79 years"	"79"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	16	21486	Unreliable
+	"Idaho"	"16"	"79 years"	"79"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	16	21486	Unreliable
+	"Idaho"	"16"	"79 years"	"79"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	57	21486	265.3
+	"Idaho"	"16"	"79 years"	"79"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	22	21486	102.4
+	"Idaho"	"16"	"79 years"	"79"	"Non-insulin-dependent diabetes mellitus, without complications"	"E11.9"	12	21486	Unreliable
+	"Idaho"	"16"	"79 years"	"79"	"Unspecified dementia"	"F03"	36	21486	167.6
+	"Idaho"	"16"	"79 years"	"79"	"Parkinson disease"	"G20"	21	21486	97.7
+	"Idaho"	"16"	"79 years"	"79"	"Alzheimer disease, unspecified"	"G30.9"	45	21486	209.4
+	"Idaho"	"16"	"79 years"	"79"	"Acute myocardial infarction, unspecified"	"I21.9"	30	21486	139.6
+	"Idaho"	"16"	"79 years"	"79"	"Atherosclerotic heart disease"	"I25.1"	27	21486	125.7
+	"Idaho"	"16"	"79 years"	"79"	"Aortic (valve) stenosis"	"I35.0"	10	21486	Unreliable
+	"Idaho"	"16"	"79 years"	"79"	"Atrial fibrillation and flutter"	"I48"	15	21486	Unreliable
+	"Idaho"	"16"	"79 years"	"79"	"Congestive heart failure"	"I50.0"	21	21486	97.7
+	"Idaho"	"16"	"79 years"	"79"	"Stroke, not specified as haemorrhage or infarction"	"I64"	25	21486	116.4
+	"Idaho"	"16"	"79 years"	"79"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	65	21486	302.5
+	"Idaho"	"16"	"79 years"	"79"	"COVID-19"	"U07.1"	17	21486	Unreliable
+	"Idaho"	"16"	"80 years"	"80"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	11	19722	Unreliable
+	"Idaho"	"16"	"80 years"	"80"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	42	19722	213.0
+	"Idaho"	"16"	"80 years"	"80"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	17	19722	Unreliable
+	"Idaho"	"16"	"80 years"	"80"	"Malignant neoplasm of ovary"	"C56"	11	19722	Unreliable
+	"Idaho"	"16"	"80 years"	"80"	"Unspecified dementia"	"F03"	37	19722	187.6
+	"Idaho"	"16"	"80 years"	"80"	"Parkinson disease"	"G20"	15	19722	Unreliable
+	"Idaho"	"16"	"80 years"	"80"	"Alzheimer disease, unspecified"	"G30.9"	72	19722	365.1
+	"Idaho"	"16"	"80 years"	"80"	"Acute myocardial infarction, unspecified"	"I21.9"	29	19722	147.0
+	"Idaho"	"16"	"80 years"	"80"	"Atherosclerotic heart disease"	"I25.1"	27	19722	136.9
+	"Idaho"	"16"	"80 years"	"80"	"Aortic (valve) stenosis"	"I35.0"	11	19722	Unreliable
+	"Idaho"	"16"	"80 years"	"80"	"Congestive heart failure"	"I50.0"	20	19722	101.4
+	"Idaho"	"16"	"80 years"	"80"	"Stroke, not specified as haemorrhage or infarction"	"I64"	18	19722	Unreliable
+	"Idaho"	"16"	"80 years"	"80"	"Pneumonia, unspecified"	"J18.9"	14	19722	Unreliable
+	"Idaho"	"16"	"80 years"	"80"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	61	19722	309.3
+	"Idaho"	"16"	"80 years"	"80"	"COVID-19"	"U07.1"	19	19722	Unreliable
+	"Idaho"	"16"	"81 years"	"81"	"Septicaemia, unspecified"	"A41.9"	10	18010	Unreliable
+	"Idaho"	"16"	"81 years"	"81"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	16	18010	Unreliable
+	"Idaho"	"16"	"81 years"	"81"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	37	18010	205.4
+	"Idaho"	"16"	"81 years"	"81"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	23	18010	127.7
+	"Idaho"	"16"	"81 years"	"81"	"Unspecified dementia"	"F03"	51	18010	283.2
+	"Idaho"	"16"	"81 years"	"81"	"Parkinson disease"	"G20"	16	18010	Unreliable
+	"Idaho"	"16"	"81 years"	"81"	"Alzheimer disease, unspecified"	"G30.9"	75	18010	416.4
+	"Idaho"	"16"	"81 years"	"81"	"Senile degeneration of brain, not elsewhere classified"	"G31.1"	10	18010	Unreliable
+	"Idaho"	"16"	"81 years"	"81"	"Acute myocardial infarction, unspecified"	"I21.9"	20	18010	111.0
+	"Idaho"	"16"	"81 years"	"81"	"Atherosclerotic heart disease"	"I25.1"	33	18010	183.2
+	"Idaho"	"16"	"81 years"	"81"	"Other secondary pulmonary hypertension"	"I27.2"	13	18010	Unreliable
+	"Idaho"	"16"	"81 years"	"81"	"Atrial fibrillation and flutter"	"I48"	12	18010	Unreliable
+	"Idaho"	"16"	"81 years"	"81"	"Congestive heart failure"	"I50.0"	27	18010	149.9
+	"Idaho"	"16"	"81 years"	"81"	"Stroke, not specified as haemorrhage or infarction"	"I64"	23	18010	127.7
+	"Idaho"	"16"	"81 years"	"81"	"Pneumonia, unspecified"	"J18.9"	10	18010	Unreliable
+	"Idaho"	"16"	"81 years"	"81"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	76	18010	422.0
+	"Idaho"	"16"	"81 years"	"81"	"COVID-19"	"U07.1"	18	18010	Unreliable
+	"Idaho"	"16"	"81 years"	"81"	"Other fall on same level"	"W18"	11	18010	Unreliable
+	"Idaho"	"16"	"82 years"	"82"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	12	16481	Unreliable
+	"Idaho"	"16"	"82 years"	"82"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	18	16481	Unreliable
+	"Idaho"	"16"	"82 years"	"82"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	45	16481	273.0
+	"Idaho"	"16"	"82 years"	"82"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	18	16481	Unreliable
+	"Idaho"	"16"	"82 years"	"82"	"Malignant neoplasm without specification of site"	"C80"	11	16481	Unreliable
+	"Idaho"	"16"	"82 years"	"82"	"Unspecified dementia"	"F03"	43	16481	260.9
+	"Idaho"	"16"	"82 years"	"82"	"Parkinson disease"	"G20"	19	16481	Unreliable
+	"Idaho"	"16"	"82 years"	"82"	"Alzheimer disease, unspecified"	"G30.9"	74	16481	449.0
+	"Idaho"	"16"	"82 years"	"82"	"Hypertensive heart disease with (congestive) heart failure"	"I11.0"	10	16481	Unreliable
+	"Idaho"	"16"	"82 years"	"82"	"Acute myocardial infarction, unspecified"	"I21.9"	30	16481	182.0
+	"Idaho"	"16"	"82 years"	"82"	"Atherosclerotic heart disease"	"I25.1"	35	16481	212.4
+	"Idaho"	"16"	"82 years"	"82"	"Atrial fibrillation and flutter"	"I48"	11	16481	Unreliable
+	"Idaho"	"16"	"82 years"	"82"	"Congestive heart failure"	"I50.0"	24	16481	145.6
+	"Idaho"	"16"	"82 years"	"82"	"Stroke, not specified as haemorrhage or infarction"	"I64"	34	16481	206.3
+	"Idaho"	"16"	"82 years"	"82"	"Sequelae of other and unspecified cerebrovascular diseases"	"I69.8"	10	16481	Unreliable
+	"Idaho"	"16"	"82 years"	"82"	"Pneumonia, unspecified"	"J18.9"	13	16481	Unreliable
+	"Idaho"	"16"	"82 years"	"82"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	56	16481	339.8
+	"Idaho"	"16"	"82 years"	"82"	"Pneumonitis due to food and vomit"	"J69.0"	10	16481	Unreliable
+	"Idaho"	"16"	"82 years"	"82"	"COVID-19"	"U07.1"	15	16481	Unreliable
+	"Idaho"	"16"	"82 years"	"82"	"Other fall on same level"	"W18"	15	16481	Unreliable
+	"Idaho"	"16"	"83 years"	"83"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	16	15034	Unreliable
+	"Idaho"	"16"	"83 years"	"83"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	12	15034	Unreliable
+	"Idaho"	"16"	"83 years"	"83"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	33	15034	219.5
+	"Idaho"	"16"	"83 years"	"83"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	19	15034	Unreliable
+	"Idaho"	"16"	"83 years"	"83"	"Vascular dementia, unspecified"	"F01.9"	14	15034	Unreliable
+	"Idaho"	"16"	"83 years"	"83"	"Unspecified dementia"	"F03"	65	15034	432.4
+	"Idaho"	"16"	"83 years"	"83"	"Parkinson disease"	"G20"	23	15034	153.0
+	"Idaho"	"16"	"83 years"	"83"	"Alzheimer disease, unspecified"	"G30.9"	79	15034	525.5
+	"Idaho"	"16"	"83 years"	"83"	"Hypertensive heart disease with (congestive) heart failure"	"I11.0"	13	15034	Unreliable
+	"Idaho"	"16"	"83 years"	"83"	"Acute myocardial infarction, unspecified"	"I21.9"	35	15034	232.8
+	"Idaho"	"16"	"83 years"	"83"	"Atherosclerotic heart disease"	"I25.1"	38	15034	252.8
+	"Idaho"	"16"	"83 years"	"83"	"Aortic (valve) stenosis"	"I35.0"	10	15034	Unreliable
+	"Idaho"	"16"	"83 years"	"83"	"Atrial fibrillation and flutter"	"I48"	22	15034	146.3
+	"Idaho"	"16"	"83 years"	"83"	"Congestive heart failure"	"I50.0"	29	15034	192.9
+	"Idaho"	"16"	"83 years"	"83"	"Heart failure, unspecified"	"I50.9"	11	15034	Unreliable
+	"Idaho"	"16"	"83 years"	"83"	"Stroke, not specified as haemorrhage or infarction"	"I64"	37	15034	246.1
+	"Idaho"	"16"	"83 years"	"83"	"Pneumonia, unspecified"	"J18.9"	10	15034	Unreliable
+	"Idaho"	"16"	"83 years"	"83"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	63	15034	419.1
+	"Idaho"	"16"	"83 years"	"83"	"COVID-19"	"U07.1"	20	15034	133.0
+	"Idaho"	"16"	"83 years"	"83"	"Other fall on same level"	"W18"	10	15034	Unreliable
+	"Idaho"	"16"	"84 years"	"84"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	13	13871	Unreliable
+	"Idaho"	"16"	"84 years"	"84"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	41	13871	295.6
+	"Idaho"	"16"	"84 years"	"84"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	22	13871	158.6
+	"Idaho"	"16"	"84 years"	"84"	"Malignant neoplasm of ovary"	"C56"	10	13871	Unreliable
+	"Idaho"	"16"	"84 years"	"84"	"Unspecified dementia"	"F03"	45	13871	324.4
+	"Idaho"	"16"	"84 years"	"84"	"Parkinson disease"	"G20"	16	13871	Unreliable
+	"Idaho"	"16"	"84 years"	"84"	"Alzheimer disease, unspecified"	"G30.9"	85	13871	612.8
+	"Idaho"	"16"	"84 years"	"84"	"Acute myocardial infarction, unspecified"	"I21.9"	32	13871	230.7
+	"Idaho"	"16"	"84 years"	"84"	"Atherosclerotic heart disease"	"I25.1"	35	13871	252.3
+	"Idaho"	"16"	"84 years"	"84"	"Atrial fibrillation and flutter"	"I48"	20	13871	144.2
+	"Idaho"	"16"	"84 years"	"84"	"Congestive heart failure"	"I50.0"	32	13871	230.7
+	"Idaho"	"16"	"84 years"	"84"	"Stroke, not specified as haemorrhage or infarction"	"I64"	29	13871	209.1
+	"Idaho"	"16"	"84 years"	"84"	"Sequelae of stroke, not specified as haemorrhage or infarction"	"I69.4"	12	13871	Unreliable
+	"Idaho"	"16"	"84 years"	"84"	"Pneumonia, unspecified"	"J18.9"	12	13871	Unreliable
+	"Idaho"	"16"	"84 years"	"84"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	53	13871	382.1
+	"Idaho"	"16"	"84 years"	"84"	"Pneumonitis due to food and vomit"	"J69.0"	11	13871	Unreliable
+	"Idaho"	"16"	"84 years"	"84"	"COVID-19"	"U07.1"	15	13871	Unreliable
+	"Idaho"	"16"	"84 years"	"84"	"Other fall on same level"	"W18"	14	13871	Unreliable
+	"Idaho"	"16"	"85 years"	"85"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	12	Not Applicable	Not Applicable
+	"Idaho"	"16"	"85 years"	"85"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	36	Not Applicable	Not Applicable
+	"Idaho"	"16"	"85 years"	"85"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	25	Not Applicable	Not Applicable
+	"Idaho"	"16"	"85 years"	"85"	"Vascular dementia, unspecified"	"F01.9"	13	Not Applicable	Not Applicable
+	"Idaho"	"16"	"85 years"	"85"	"Unspecified dementia"	"F03"	69	Not Applicable	Not Applicable
+	"Idaho"	"16"	"85 years"	"85"	"Parkinson disease"	"G20"	14	Not Applicable	Not Applicable
+	"Idaho"	"16"	"85 years"	"85"	"Alzheimer disease, unspecified"	"G30.9"	98	Not Applicable	Not Applicable
+	"Idaho"	"16"	"85 years"	"85"	"Senile degeneration of brain, not elsewhere classified"	"G31.1"	12	Not Applicable	Not Applicable
+	"Idaho"	"16"	"85 years"	"85"	"Hypertensive heart disease with (congestive) heart failure"	"I11.0"	12	Not Applicable	Not Applicable
+	"Idaho"	"16"	"85 years"	"85"	"Acute myocardial infarction, unspecified"	"I21.9"	29	Not Applicable	Not Applicable
+	"Idaho"	"16"	"85 years"	"85"	"Atherosclerotic heart disease"	"I25.1"	42	Not Applicable	Not Applicable
+	"Idaho"	"16"	"85 years"	"85"	"Aortic (valve) stenosis"	"I35.0"	14	Not Applicable	Not Applicable
+	"Idaho"	"16"	"85 years"	"85"	"Atrial fibrillation and flutter"	"I48"	30	Not Applicable	Not Applicable
+	"Idaho"	"16"	"85 years"	"85"	"Congestive heart failure"	"I50.0"	43	Not Applicable	Not Applicable
+	"Idaho"	"16"	"85 years"	"85"	"Cerebral infarction, unspecified"	"I63.9"	13	Not Applicable	Not Applicable
+	"Idaho"	"16"	"85 years"	"85"	"Stroke, not specified as haemorrhage or infarction"	"I64"	39	Not Applicable	Not Applicable
+	"Idaho"	"16"	"85 years"	"85"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	39	Not Applicable	Not Applicable
+	"Idaho"	"16"	"85 years"	"85"	"Pneumonitis due to food and vomit"	"J69.0"	10	Not Applicable	Not Applicable
+	"Idaho"	"16"	"85 years"	"85"	"COVID-19"	"U07.1"	14	Not Applicable	Not Applicable
+	"Idaho"	"16"	"85 years"	"85"	"Other fall on same level"	"W18"	20	Not Applicable	Not Applicable
+	"Idaho"	"16"	"86 years"	"86"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	14	Not Applicable	Not Applicable
+	"Idaho"	"16"	"86 years"	"86"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	10	Not Applicable	Not Applicable
+	"Idaho"	"16"	"86 years"	"86"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	26	Not Applicable	Not Applicable
+	"Idaho"	"16"	"86 years"	"86"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	16	Not Applicable	Not Applicable
+	"Idaho"	"16"	"86 years"	"86"	"Unspecified dementia"	"F03"	58	Not Applicable	Not Applicable
+	"Idaho"	"16"	"86 years"	"86"	"Parkinson disease"	"G20"	12	Not Applicable	Not Applicable
+	"Idaho"	"16"	"86 years"	"86"	"Alzheimer disease, unspecified"	"G30.9"	103	Not Applicable	Not Applicable
+	"Idaho"	"16"	"86 years"	"86"	"Senile degeneration of brain, not elsewhere classified"	"G31.1"	19	Not Applicable	Not Applicable
+	"Idaho"	"16"	"86 years"	"86"	"Essential (primary) hypertension"	"I10"	10	Not Applicable	Not Applicable
+	"Idaho"	"16"	"86 years"	"86"	"Hypertensive heart disease with (congestive) heart failure"	"I11.0"	10	Not Applicable	Not Applicable
+	"Idaho"	"16"	"86 years"	"86"	"Acute myocardial infarction, unspecified"	"I21.9"	30	Not Applicable	Not Applicable
+	"Idaho"	"16"	"86 years"	"86"	"Atherosclerotic heart disease"	"I25.1"	48	Not Applicable	Not Applicable
+	"Idaho"	"16"	"86 years"	"86"	"Other secondary pulmonary hypertension"	"I27.2"	14	Not Applicable	Not Applicable
+	"Idaho"	"16"	"86 years"	"86"	"Aortic (valve) stenosis"	"I35.0"	12	Not Applicable	Not Applicable
+	"Idaho"	"16"	"86 years"	"86"	"Atrial fibrillation and flutter"	"I48"	29	Not Applicable	Not Applicable
+	"Idaho"	"16"	"86 years"	"86"	"Congestive heart failure"	"I50.0"	40	Not Applicable	Not Applicable
+	"Idaho"	"16"	"86 years"	"86"	"Stroke, not specified as haemorrhage or infarction"	"I64"	35	Not Applicable	Not Applicable
+	"Idaho"	"16"	"86 years"	"86"	"Pneumonia, unspecified"	"J18.9"	23	Not Applicable	Not Applicable
+	"Idaho"	"16"	"86 years"	"86"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	44	Not Applicable	Not Applicable
+	"Idaho"	"16"	"86 years"	"86"	"Senility"	"R54"	10	Not Applicable	Not Applicable
+	"Idaho"	"16"	"86 years"	"86"	"COVID-19"	"U07.1"	18	Not Applicable	Not Applicable
+	"Idaho"	"16"	"86 years"	"86"	"Other fall on same level"	"W18"	28	Not Applicable	Not Applicable
+	"Idaho"	"16"	"87 years"	"87"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	13	Not Applicable	Not Applicable
+	"Idaho"	"16"	"87 years"	"87"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	20	Not Applicable	Not Applicable
+	"Idaho"	"16"	"87 years"	"87"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	26	Not Applicable	Not Applicable
+	"Idaho"	"16"	"87 years"	"87"	"Malignant neoplasm without specification of site"	"C80"	11	Not Applicable	Not Applicable
+	"Idaho"	"16"	"87 years"	"87"	"Vascular dementia, unspecified"	"F01.9"	13	Not Applicable	Not Applicable
+	"Idaho"	"16"	"87 years"	"87"	"Unspecified dementia"	"F03"	97	Not Applicable	Not Applicable
+	"Idaho"	"16"	"87 years"	"87"	"Parkinson disease"	"G20"	20	Not Applicable	Not Applicable
+	"Idaho"	"16"	"87 years"	"87"	"Alzheimer disease with late onset"	"G30.1"	11	Not Applicable	Not Applicable
+	"Idaho"	"16"	"87 years"	"87"	"Alzheimer disease, unspecified"	"G30.9"	111	Not Applicable	Not Applicable
+	"Idaho"	"16"	"87 years"	"87"	"Senile degeneration of brain, not elsewhere classified"	"G31.1"	14	Not Applicable	Not Applicable
+	"Idaho"	"16"	"87 years"	"87"	"Hypertensive heart disease with (congestive) heart failure"	"I11.0"	14	Not Applicable	Not Applicable
+	"Idaho"	"16"	"87 years"	"87"	"Acute myocardial infarction, unspecified"	"I21.9"	33	Not Applicable	Not Applicable
+	"Idaho"	"16"	"87 years"	"87"	"Atherosclerotic heart disease"	"I25.1"	53	Not Applicable	Not Applicable
+	"Idaho"	"16"	"87 years"	"87"	"Atrial fibrillation and flutter"	"I48"	33	Not Applicable	Not Applicable
+	"Idaho"	"16"	"87 years"	"87"	"Congestive heart failure"	"I50.0"	27	Not Applicable	Not Applicable
+	"Idaho"	"16"	"87 years"	"87"	"Heart failure, unspecified"	"I50.9"	12	Not Applicable	Not Applicable
+	"Idaho"	"16"	"87 years"	"87"	"Stroke, not specified as haemorrhage or infarction"	"I64"	38	Not Applicable	Not Applicable
+	"Idaho"	"16"	"87 years"	"87"	"Pneumonia, unspecified"	"J18.9"	13	Not Applicable	Not Applicable
+	"Idaho"	"16"	"87 years"	"87"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	47	Not Applicable	Not Applicable
+	"Idaho"	"16"	"87 years"	"87"	"Urinary tract infection, site not specified"	"N39.0"	10	Not Applicable	Not Applicable
+	"Idaho"	"16"	"87 years"	"87"	"COVID-19"	"U07.1"	20	Not Applicable	Not Applicable
+	"Idaho"	"16"	"87 years"	"87"	"Other fall on same level"	"W18"	19	Not Applicable	Not Applicable
+	"Idaho"	"16"	"88 years"	"88"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	16	Not Applicable	Not Applicable
+	"Idaho"	"16"	"88 years"	"88"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	13	Not Applicable	Not Applicable
+	"Idaho"	"16"	"88 years"	"88"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	27	Not Applicable	Not Applicable
+	"Idaho"	"16"	"88 years"	"88"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	15	Not Applicable	Not Applicable
+	"Idaho"	"16"	"88 years"	"88"	"Malignant neoplasm without specification of site"	"C80"	11	Not Applicable	Not Applicable
+	"Idaho"	"16"	"88 years"	"88"	"Non-insulin-dependent diabetes mellitus, without complications"	"E11.9"	10	Not Applicable	Not Applicable
+	"Idaho"	"16"	"88 years"	"88"	"Vascular dementia, unspecified"	"F01.9"	18	Not Applicable	Not Applicable
+	"Idaho"	"16"	"88 years"	"88"	"Unspecified dementia"	"F03"	81	Not Applicable	Not Applicable
+	"Idaho"	"16"	"88 years"	"88"	"Parkinson disease"	"G20"	22	Not Applicable	Not Applicable
+	"Idaho"	"16"	"88 years"	"88"	"Alzheimer disease with late onset"	"G30.1"	10	Not Applicable	Not Applicable
+	"Idaho"	"16"	"88 years"	"88"	"Alzheimer disease, unspecified"	"G30.9"	100	Not Applicable	Not Applicable
+	"Idaho"	"16"	"88 years"	"88"	"Senile degeneration of brain, not elsewhere classified"	"G31.1"	11	Not Applicable	Not Applicable
+	"Idaho"	"16"	"88 years"	"88"	"Hypertensive heart disease with (congestive) heart failure"	"I11.0"	18	Not Applicable	Not Applicable
+	"Idaho"	"16"	"88 years"	"88"	"Acute myocardial infarction, unspecified"	"I21.9"	24	Not Applicable	Not Applicable
+	"Idaho"	"16"	"88 years"	"88"	"Atherosclerotic heart disease"	"I25.1"	58	Not Applicable	Not Applicable
+	"Idaho"	"16"	"88 years"	"88"	"Aortic (valve) stenosis"	"I35.0"	17	Not Applicable	Not Applicable
+	"Idaho"	"16"	"88 years"	"88"	"Atrial fibrillation and flutter"	"I48"	29	Not Applicable	Not Applicable
+	"Idaho"	"16"	"88 years"	"88"	"Congestive heart failure"	"I50.0"	37	Not Applicable	Not Applicable
+	"Idaho"	"16"	"88 years"	"88"	"Heart failure, unspecified"	"I50.9"	16	Not Applicable	Not Applicable
+	"Idaho"	"16"	"88 years"	"88"	"Stroke, not specified as haemorrhage or infarction"	"I64"	40	Not Applicable	Not Applicable
+	"Idaho"	"16"	"88 years"	"88"	"Sequelae of stroke, not specified as haemorrhage or infarction"	"I69.4"	13	Not Applicable	Not Applicable
+	"Idaho"	"16"	"88 years"	"88"	"Pneumonia, unspecified"	"J18.9"	17	Not Applicable	Not Applicable
+	"Idaho"	"16"	"88 years"	"88"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	44	Not Applicable	Not Applicable
+	"Idaho"	"16"	"88 years"	"88"	"Pneumonitis due to food and vomit"	"J69.0"	14	Not Applicable	Not Applicable
+	"Idaho"	"16"	"88 years"	"88"	"Urinary tract infection, site not specified"	"N39.0"	20	Not Applicable	Not Applicable
+	"Idaho"	"16"	"88 years"	"88"	"Senility"	"R54"	12	Not Applicable	Not Applicable
+	"Idaho"	"16"	"88 years"	"88"	"COVID-19"	"U07.1"	18	Not Applicable	Not Applicable
+	"Idaho"	"16"	"88 years"	"88"	"Other fall on same level"	"W18"	14	Not Applicable	Not Applicable
+	"Idaho"	"16"	"89 years"	"89"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	21	Not Applicable	Not Applicable
+	"Idaho"	"16"	"89 years"	"89"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	11	Not Applicable	Not Applicable
+	"Idaho"	"16"	"89 years"	"89"	"Malignant neoplasm without specification of site"	"C80"	13	Not Applicable	Not Applicable
+	"Idaho"	"16"	"89 years"	"89"	"Vascular dementia, unspecified"	"F01.9"	15	Not Applicable	Not Applicable
+	"Idaho"	"16"	"89 years"	"89"	"Unspecified dementia"	"F03"	98	Not Applicable	Not Applicable
+	"Idaho"	"16"	"89 years"	"89"	"Parkinson disease"	"G20"	16	Not Applicable	Not Applicable
+	"Idaho"	"16"	"89 years"	"89"	"Alzheimer disease with late onset"	"G30.1"	13	Not Applicable	Not Applicable
+	"Idaho"	"16"	"89 years"	"89"	"Alzheimer disease, unspecified"	"G30.9"	115	Not Applicable	Not Applicable
+	"Idaho"	"16"	"89 years"	"89"	"Senile degeneration of brain, not elsewhere classified"	"G31.1"	14	Not Applicable	Not Applicable
+	"Idaho"	"16"	"89 years"	"89"	"Hypertensive heart disease with (congestive) heart failure"	"I11.0"	13	Not Applicable	Not Applicable
+	"Idaho"	"16"	"89 years"	"89"	"Hypertensive renal disease with renal failure"	"I12.0"	10	Not Applicable	Not Applicable
+	"Idaho"	"16"	"89 years"	"89"	"Acute myocardial infarction, unspecified"	"I21.9"	27	Not Applicable	Not Applicable
+	"Idaho"	"16"	"89 years"	"89"	"Atherosclerotic heart disease"	"I25.1"	57	Not Applicable	Not Applicable
+	"Idaho"	"16"	"89 years"	"89"	"Aortic (valve) stenosis"	"I35.0"	14	Not Applicable	Not Applicable
+	"Idaho"	"16"	"89 years"	"89"	"Atrial fibrillation and flutter"	"I48"	34	Not Applicable	Not Applicable
+	"Idaho"	"16"	"89 years"	"89"	"Congestive heart failure"	"I50.0"	43	Not Applicable	Not Applicable
+	"Idaho"	"16"	"89 years"	"89"	"Heart failure, unspecified"	"I50.9"	13	Not Applicable	Not Applicable
+	"Idaho"	"16"	"89 years"	"89"	"Stroke, not specified as haemorrhage or infarction"	"I64"	40	Not Applicable	Not Applicable
+	"Idaho"	"16"	"89 years"	"89"	"Sequelae of stroke, not specified as haemorrhage or infarction"	"I69.4"	11	Not Applicable	Not Applicable
+	"Idaho"	"16"	"89 years"	"89"	"Pneumonia, unspecified"	"J18.9"	16	Not Applicable	Not Applicable
+	"Idaho"	"16"	"89 years"	"89"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	52	Not Applicable	Not Applicable
+	"Idaho"	"16"	"89 years"	"89"	"Senility"	"R54"	22	Not Applicable	Not Applicable
+	"Idaho"	"16"	"89 years"	"89"	"COVID-19"	"U07.1"	20	Not Applicable	Not Applicable
+	"Idaho"	"16"	"89 years"	"89"	"Other fall on same level"	"W18"	15	Not Applicable	Not Applicable
+	"Idaho"	"16"	"90 years"	"90"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	11	Not Applicable	Not Applicable
+	"Idaho"	"16"	"90 years"	"90"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	18	Not Applicable	Not Applicable
+	"Idaho"	"16"	"90 years"	"90"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	18	Not Applicable	Not Applicable
+	"Idaho"	"16"	"90 years"	"90"	"Vascular dementia, unspecified"	"F01.9"	19	Not Applicable	Not Applicable
+	"Idaho"	"16"	"90 years"	"90"	"Unspecified dementia"	"F03"	104	Not Applicable	Not Applicable
+	"Idaho"	"16"	"90 years"	"90"	"Parkinson disease"	"G20"	21	Not Applicable	Not Applicable
+	"Idaho"	"16"	"90 years"	"90"	"Alzheimer disease with late onset"	"G30.1"	21	Not Applicable	Not Applicable
+	"Idaho"	"16"	"90 years"	"90"	"Alzheimer disease, unspecified"	"G30.9"	117	Not Applicable	Not Applicable
+	"Idaho"	"16"	"90 years"	"90"	"Senile degeneration of brain, not elsewhere classified"	"G31.1"	22	Not Applicable	Not Applicable
+	"Idaho"	"16"	"90 years"	"90"	"Hypertensive heart disease with (congestive) heart failure"	"I11.0"	19	Not Applicable	Not Applicable
+	"Idaho"	"16"	"90 years"	"90"	"Acute myocardial infarction, unspecified"	"I21.9"	38	Not Applicable	Not Applicable
+	"Idaho"	"16"	"90 years"	"90"	"Atherosclerotic heart disease"	"I25.1"	45	Not Applicable	Not Applicable
+	"Idaho"	"16"	"90 years"	"90"	"Aortic (valve) stenosis"	"I35.0"	19	Not Applicable	Not Applicable
+	"Idaho"	"16"	"90 years"	"90"	"Atrial fibrillation and flutter"	"I48"	42	Not Applicable	Not Applicable
+	"Idaho"	"16"	"90 years"	"90"	"Congestive heart failure"	"I50.0"	50	Not Applicable	Not Applicable
+	"Idaho"	"16"	"90 years"	"90"	"Heart failure, unspecified"	"I50.9"	10	Not Applicable	Not Applicable
+	"Idaho"	"16"	"90 years"	"90"	"Stroke, not specified as haemorrhage or infarction"	"I64"	41	Not Applicable	Not Applicable
+	"Idaho"	"16"	"90 years"	"90"	"Sequelae of stroke, not specified as haemorrhage or infarction"	"I69.4"	12	Not Applicable	Not Applicable
+	"Idaho"	"16"	"90 years"	"90"	"Pneumonia, unspecified"	"J18.9"	17	Not Applicable	Not Applicable
+	"Idaho"	"16"	"90 years"	"90"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	42	Not Applicable	Not Applicable
+	"Idaho"	"16"	"90 years"	"90"	"Senility"	"R54"	10	Not Applicable	Not Applicable
+	"Idaho"	"16"	"90 years"	"90"	"COVID-19"	"U07.1"	20	Not Applicable	Not Applicable
+	"Idaho"	"16"	"90 years"	"90"	"Other fall on same level"	"W18"	11	Not Applicable	Not Applicable
+	"Idaho"	"16"	"91 years"	"91"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	10	Not Applicable	Not Applicable
+	"Idaho"	"16"	"91 years"	"91"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	15	Not Applicable	Not Applicable
+	"Idaho"	"16"	"91 years"	"91"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	15	Not Applicable	Not Applicable
+	"Idaho"	"16"	"91 years"	"91"	"Malignant neoplasm without specification of site"	"C80"	12	Not Applicable	Not Applicable
+	"Idaho"	"16"	"91 years"	"91"	"Vascular dementia, unspecified"	"F01.9"	11	Not Applicable	Not Applicable
+	"Idaho"	"16"	"91 years"	"91"	"Unspecified dementia"	"F03"	95	Not Applicable	Not Applicable
+	"Idaho"	"16"	"91 years"	"91"	"Parkinson disease"	"G20"	19	Not Applicable	Not Applicable
+	"Idaho"	"16"	"91 years"	"91"	"Alzheimer disease with late onset"	"G30.1"	12	Not Applicable	Not Applicable
+	"Idaho"	"16"	"91 years"	"91"	"Alzheimer disease, unspecified"	"G30.9"	97	Not Applicable	Not Applicable
+	"Idaho"	"16"	"91 years"	"91"	"Senile degeneration of brain, not elsewhere classified"	"G31.1"	15	Not Applicable	Not Applicable
+	"Idaho"	"16"	"91 years"	"91"	"Essential (primary) hypertension"	"I10"	10	Not Applicable	Not Applicable
+	"Idaho"	"16"	"91 years"	"91"	"Hypertensive heart disease with (congestive) heart failure"	"I11.0"	22	Not Applicable	Not Applicable
+	"Idaho"	"16"	"91 years"	"91"	"Hypertensive renal disease with renal failure"	"I12.0"	10	Not Applicable	Not Applicable
+	"Idaho"	"16"	"91 years"	"91"	"Acute myocardial infarction, unspecified"	"I21.9"	39	Not Applicable	Not Applicable
+	"Idaho"	"16"	"91 years"	"91"	"Atherosclerotic heart disease"	"I25.1"	46	Not Applicable	Not Applicable
+	"Idaho"	"16"	"91 years"	"91"	"Aortic (valve) stenosis"	"I35.0"	16	Not Applicable	Not Applicable
+	"Idaho"	"16"	"91 years"	"91"	"Atrial fibrillation and flutter"	"I48"	33	Not Applicable	Not Applicable
+	"Idaho"	"16"	"91 years"	"91"	"Congestive heart failure"	"I50.0"	56	Not Applicable	Not Applicable
+	"Idaho"	"16"	"91 years"	"91"	"Heart failure, unspecified"	"I50.9"	10	Not Applicable	Not Applicable
+	"Idaho"	"16"	"91 years"	"91"	"Stroke, not specified as haemorrhage or infarction"	"I64"	36	Not Applicable	Not Applicable
+	"Idaho"	"16"	"91 years"	"91"	"Pneumonia, unspecified"	"J18.9"	13	Not Applicable	Not Applicable
+	"Idaho"	"16"	"91 years"	"91"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	28	Not Applicable	Not Applicable
+	"Idaho"	"16"	"91 years"	"91"	"Pneumonitis due to food and vomit"	"J69.0"	10	Not Applicable	Not Applicable
+	"Idaho"	"16"	"91 years"	"91"	"Senility"	"R54"	14	Not Applicable	Not Applicable
+	"Idaho"	"16"	"91 years"	"91"	"COVID-19"	"U07.1"	18	Not Applicable	Not Applicable
+	"Idaho"	"16"	"91 years"	"91"	"Other fall on same level"	"W18"	13	Not Applicable	Not Applicable
+	"Idaho"	"16"	"92 years"	"92"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	10	Not Applicable	Not Applicable
+	"Idaho"	"16"	"92 years"	"92"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	15	Not Applicable	Not Applicable
+	"Idaho"	"16"	"92 years"	"92"	"Vascular dementia, unspecified"	"F01.9"	14	Not Applicable	Not Applicable
+	"Idaho"	"16"	"92 years"	"92"	"Unspecified dementia"	"F03"	74	Not Applicable	Not Applicable
+	"Idaho"	"16"	"92 years"	"92"	"Parkinson disease"	"G20"	13	Not Applicable	Not Applicable
+	"Idaho"	"16"	"92 years"	"92"	"Alzheimer disease, unspecified"	"G30.9"	107	Not Applicable	Not Applicable
+	"Idaho"	"16"	"92 years"	"92"	"Senile degeneration of brain, not elsewhere classified"	"G31.1"	19	Not Applicable	Not Applicable
+	"Idaho"	"16"	"92 years"	"92"	"Hypertensive heart disease with (congestive) heart failure"	"I11.0"	14	Not Applicable	Not Applicable
+	"Idaho"	"16"	"92 years"	"92"	"Acute myocardial infarction, unspecified"	"I21.9"	25	Not Applicable	Not Applicable
+	"Idaho"	"16"	"92 years"	"92"	"Atherosclerotic heart disease"	"I25.1"	55	Not Applicable	Not Applicable
+	"Idaho"	"16"	"92 years"	"92"	"Ischaemic cardiomyopathy"	"I25.5"	11	Not Applicable	Not Applicable
+	"Idaho"	"16"	"92 years"	"92"	"Aortic (valve) stenosis"	"I35.0"	14	Not Applicable	Not Applicable
+	"Idaho"	"16"	"92 years"	"92"	"Atrial fibrillation and flutter"	"I48"	37	Not Applicable	Not Applicable
+	"Idaho"	"16"	"92 years"	"92"	"Congestive heart failure"	"I50.0"	51	Not Applicable	Not Applicable
+	"Idaho"	"16"	"92 years"	"92"	"Heart failure, unspecified"	"I50.9"	14	Not Applicable	Not Applicable
+	"Idaho"	"16"	"92 years"	"92"	"Stroke, not specified as haemorrhage or infarction"	"I64"	28	Not Applicable	Not Applicable
+	"Idaho"	"16"	"92 years"	"92"	"Pneumonia, unspecified"	"J18.9"	14	Not Applicable	Not Applicable
+	"Idaho"	"16"	"92 years"	"92"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	39	Not Applicable	Not Applicable
+	"Idaho"	"16"	"92 years"	"92"	"Urinary tract infection, site not specified"	"N39.0"	10	Not Applicable	Not Applicable
+	"Idaho"	"16"	"92 years"	"92"	"Senility"	"R54"	21	Not Applicable	Not Applicable
+	"Idaho"	"16"	"92 years"	"92"	"COVID-19"	"U07.1"	16	Not Applicable	Not Applicable
+	"Idaho"	"16"	"92 years"	"92"	"Other fall on same level"	"W18"	19	Not Applicable	Not Applicable
+	"Idaho"	"16"	"93 years"	"93"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	12	Not Applicable	Not Applicable
+	"Idaho"	"16"	"93 years"	"93"	"Vascular dementia, unspecified"	"F01.9"	12	Not Applicable	Not Applicable
+	"Idaho"	"16"	"93 years"	"93"	"Unspecified dementia"	"F03"	77	Not Applicable	Not Applicable
+	"Idaho"	"16"	"93 years"	"93"	"Alzheimer disease, unspecified"	"G30.9"	93	Not Applicable	Not Applicable
+	"Idaho"	"16"	"93 years"	"93"	"Senile degeneration of brain, not elsewhere classified"	"G31.1"	12	Not Applicable	Not Applicable
+	"Idaho"	"16"	"93 years"	"93"	"Hypertensive heart disease with (congestive) heart failure"	"I11.0"	16	Not Applicable	Not Applicable
+	"Idaho"	"16"	"93 years"	"93"	"Acute myocardial infarction, unspecified"	"I21.9"	25	Not Applicable	Not Applicable
+	"Idaho"	"16"	"93 years"	"93"	"Atherosclerotic heart disease"	"I25.1"	37	Not Applicable	Not Applicable
+	"Idaho"	"16"	"93 years"	"93"	"Aortic (valve) stenosis"	"I35.0"	14	Not Applicable	Not Applicable
+	"Idaho"	"16"	"93 years"	"93"	"Atrial fibrillation and flutter"	"I48"	30	Not Applicable	Not Applicable
+	"Idaho"	"16"	"93 years"	"93"	"Congestive heart failure"	"I50.0"	34	Not Applicable	Not Applicable
+	"Idaho"	"16"	"93 years"	"93"	"Stroke, not specified as haemorrhage or infarction"	"I64"	31	Not Applicable	Not Applicable
+	"Idaho"	"16"	"93 years"	"93"	"Pneumonia, unspecified"	"J18.9"	12	Not Applicable	Not Applicable
+	"Idaho"	"16"	"93 years"	"93"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	29	Not Applicable	Not Applicable
+	"Idaho"	"16"	"93 years"	"93"	"Senility"	"R54"	14	Not Applicable	Not Applicable
+	"Idaho"	"16"	"93 years"	"93"	"COVID-19"	"U07.1"	15	Not Applicable	Not Applicable
+	"Idaho"	"16"	"93 years"	"93"	"Other fall on same level"	"W18"	20	Not Applicable	Not Applicable
+	"Idaho"	"16"	"94 years"	"94"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	10	Not Applicable	Not Applicable
+	"Idaho"	"16"	"94 years"	"94"	"Unspecified dementia"	"F03"	81	Not Applicable	Not Applicable
+	"Idaho"	"16"	"94 years"	"94"	"Alzheimer disease, unspecified"	"G30.9"	83	Not Applicable	Not Applicable
+	"Idaho"	"16"	"94 years"	"94"	"Senile degeneration of brain, not elsewhere classified"	"G31.1"	11	Not Applicable	Not Applicable
+	"Idaho"	"16"	"94 years"	"94"	"Hypertensive heart disease with (congestive) heart failure"	"I11.0"	20	Not Applicable	Not Applicable
+	"Idaho"	"16"	"94 years"	"94"	"Acute myocardial infarction, unspecified"	"I21.9"	22	Not Applicable	Not Applicable
+	"Idaho"	"16"	"94 years"	"94"	"Atherosclerotic heart disease"	"I25.1"	59	Not Applicable	Not Applicable
+	"Idaho"	"16"	"94 years"	"94"	"Aortic (valve) stenosis"	"I35.0"	19	Not Applicable	Not Applicable
+	"Idaho"	"16"	"94 years"	"94"	"Atrial fibrillation and flutter"	"I48"	41	Not Applicable	Not Applicable
+	"Idaho"	"16"	"94 years"	"94"	"Congestive heart failure"	"I50.0"	51	Not Applicable	Not Applicable
+	"Idaho"	"16"	"94 years"	"94"	"Heart failure, unspecified"	"I50.9"	19	Not Applicable	Not Applicable
+	"Idaho"	"16"	"94 years"	"94"	"Stroke, not specified as haemorrhage or infarction"	"I64"	33	Not Applicable	Not Applicable
+	"Idaho"	"16"	"94 years"	"94"	"Pneumonia, unspecified"	"J18.9"	14	Not Applicable	Not Applicable
+	"Idaho"	"16"	"94 years"	"94"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	27	Not Applicable	Not Applicable
+	"Idaho"	"16"	"94 years"	"94"	"Pneumonitis due to food and vomit"	"J69.0"	10	Not Applicable	Not Applicable
+	"Idaho"	"16"	"94 years"	"94"	"Senility"	"R54"	15	Not Applicable	Not Applicable
+	"Idaho"	"16"	"94 years"	"94"	"COVID-19"	"U07.1"	12	Not Applicable	Not Applicable
+	"Idaho"	"16"	"94 years"	"94"	"Other fall on same level"	"W18"	20	Not Applicable	Not Applicable
+	"Idaho"	"16"	"95 years"	"95"	"Vascular dementia, unspecified"	"F01.9"	10	Not Applicable	Not Applicable
+	"Idaho"	"16"	"95 years"	"95"	"Unspecified dementia"	"F03"	76	Not Applicable	Not Applicable
+	"Idaho"	"16"	"95 years"	"95"	"Alzheimer disease, unspecified"	"G30.9"	75	Not Applicable	Not Applicable
+	"Idaho"	"16"	"95 years"	"95"	"Senile degeneration of brain, not elsewhere classified"	"G31.1"	10	Not Applicable	Not Applicable
+	"Idaho"	"16"	"95 years"	"95"	"Hypertensive heart disease with (congestive) heart failure"	"I11.0"	14	Not Applicable	Not Applicable
+	"Idaho"	"16"	"95 years"	"95"	"Acute myocardial infarction, unspecified"	"I21.9"	14	Not Applicable	Not Applicable
+	"Idaho"	"16"	"95 years"	"95"	"Atherosclerotic heart disease"	"I25.1"	44	Not Applicable	Not Applicable
+	"Idaho"	"16"	"95 years"	"95"	"Aortic (valve) stenosis"	"I35.0"	14	Not Applicable	Not Applicable
+	"Idaho"	"16"	"95 years"	"95"	"Atrial fibrillation and flutter"	"I48"	27	Not Applicable	Not Applicable
+	"Idaho"	"16"	"95 years"	"95"	"Congestive heart failure"	"I50.0"	35	Not Applicable	Not Applicable
+	"Idaho"	"16"	"95 years"	"95"	"Heart failure, unspecified"	"I50.9"	13	Not Applicable	Not Applicable
+	"Idaho"	"16"	"95 years"	"95"	"Stroke, not specified as haemorrhage or infarction"	"I64"	24	Not Applicable	Not Applicable
+	"Idaho"	"16"	"95 years"	"95"	"Pneumonia, unspecified"	"J18.9"	13	Not Applicable	Not Applicable
+	"Idaho"	"16"	"95 years"	"95"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	22	Not Applicable	Not Applicable
+	"Idaho"	"16"	"95 years"	"95"	"Senility"	"R54"	21	Not Applicable	Not Applicable
+	"Idaho"	"16"	"95 years"	"95"	"COVID-19"	"U07.1"	21	Not Applicable	Not Applicable
+	"Idaho"	"16"	"95 years"	"95"	"Other fall on same level"	"W18"	11	Not Applicable	Not Applicable
+	"Idaho"	"16"	"96 years"	"96"	"Unspecified dementia"	"F03"	54	Not Applicable	Not Applicable
+	"Idaho"	"16"	"96 years"	"96"	"Alzheimer disease, unspecified"	"G30.9"	65	Not Applicable	Not Applicable
+	"Idaho"	"16"	"96 years"	"96"	"Hypertensive heart disease with (congestive) heart failure"	"I11.0"	14	Not Applicable	Not Applicable
+	"Idaho"	"16"	"96 years"	"96"	"Acute myocardial infarction, unspecified"	"I21.9"	11	Not Applicable	Not Applicable
+	"Idaho"	"16"	"96 years"	"96"	"Atherosclerotic heart disease"	"I25.1"	35	Not Applicable	Not Applicable
+	"Idaho"	"16"	"96 years"	"96"	"Atrial fibrillation and flutter"	"I48"	25	Not Applicable	Not Applicable
+	"Idaho"	"16"	"96 years"	"96"	"Congestive heart failure"	"I50.0"	29	Not Applicable	Not Applicable
+	"Idaho"	"16"	"96 years"	"96"	"Stroke, not specified as haemorrhage or infarction"	"I64"	25	Not Applicable	Not Applicable
+	"Idaho"	"16"	"96 years"	"96"	"Pneumonia, unspecified"	"J18.9"	10	Not Applicable	Not Applicable
+	"Idaho"	"16"	"96 years"	"96"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	14	Not Applicable	Not Applicable
+	"Idaho"	"16"	"96 years"	"96"	"Senility"	"R54"	29	Not Applicable	Not Applicable
+	"Idaho"	"16"	"96 years"	"96"	"COVID-19"	"U07.1"	11	Not Applicable	Not Applicable
+	"Idaho"	"16"	"96 years"	"96"	"Other fall on same level"	"W18"	10	Not Applicable	Not Applicable
+	"Idaho"	"16"	"97 years"	"97"	"Unspecified dementia"	"F03"	43	Not Applicable	Not Applicable
+	"Idaho"	"16"	"97 years"	"97"	"Alzheimer disease, unspecified"	"G30.9"	48	Not Applicable	Not Applicable
+	"Idaho"	"16"	"97 years"	"97"	"Acute myocardial infarction, unspecified"	"I21.9"	11	Not Applicable	Not Applicable
+	"Idaho"	"16"	"97 years"	"97"	"Atherosclerotic heart disease"	"I25.1"	28	Not Applicable	Not Applicable
+	"Idaho"	"16"	"97 years"	"97"	"Atrial fibrillation and flutter"	"I48"	15	Not Applicable	Not Applicable
+	"Idaho"	"16"	"97 years"	"97"	"Congestive heart failure"	"I50.0"	24	Not Applicable	Not Applicable
+	"Idaho"	"16"	"97 years"	"97"	"Stroke, not specified as haemorrhage or infarction"	"I64"	13	Not Applicable	Not Applicable
+	"Idaho"	"16"	"97 years"	"97"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	13	Not Applicable	Not Applicable
+	"Idaho"	"16"	"97 years"	"97"	"Senility"	"R54"	16	Not Applicable	Not Applicable
+	"Idaho"	"16"	"97 years"	"97"	"COVID-19"	"U07.1"	10	Not Applicable	Not Applicable
+	"Idaho"	"16"	"97 years"	"97"	"Other fall on same level"	"W18"	11	Not Applicable	Not Applicable
+	"Idaho"	"16"	"98 years"	"98"	"Unspecified dementia"	"F03"	25	Not Applicable	Not Applicable
+	"Idaho"	"16"	"98 years"	"98"	"Alzheimer disease, unspecified"	"G30.9"	34	Not Applicable	Not Applicable
+	"Idaho"	"16"	"98 years"	"98"	"Hypertensive heart disease with (congestive) heart failure"	"I11.0"	11	Not Applicable	Not Applicable
+	"Idaho"	"16"	"98 years"	"98"	"Acute myocardial infarction, unspecified"	"I21.9"	17	Not Applicable	Not Applicable
+	"Idaho"	"16"	"98 years"	"98"	"Atherosclerotic heart disease"	"I25.1"	18	Not Applicable	Not Applicable
+	"Idaho"	"16"	"98 years"	"98"	"Atrial fibrillation and flutter"	"I48"	22	Not Applicable	Not Applicable
+	"Idaho"	"16"	"98 years"	"98"	"Congestive heart failure"	"I50.0"	18	Not Applicable	Not Applicable
+	"Idaho"	"16"	"98 years"	"98"	"Stroke, not specified as haemorrhage or infarction"	"I64"	15	Not Applicable	Not Applicable
+	"Idaho"	"16"	"98 years"	"98"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	11	Not Applicable	Not Applicable
+	"Idaho"	"16"	"98 years"	"98"	"Senility"	"R54"	12	Not Applicable	Not Applicable
+	"Idaho"	"16"	"99 years"	"99"	"Unspecified dementia"	"F03"	19	Not Applicable	Not Applicable
+	"Idaho"	"16"	"99 years"	"99"	"Alzheimer disease, unspecified"	"G30.9"	27	Not Applicable	Not Applicable
+	"Idaho"	"16"	"99 years"	"99"	"Atherosclerotic heart disease"	"I25.1"	20	Not Applicable	Not Applicable
+	"Idaho"	"16"	"99 years"	"99"	"Atrial fibrillation and flutter"	"I48"	11	Not Applicable	Not Applicable
+	"Idaho"	"16"	"99 years"	"99"	"Congestive heart failure"	"I50.0"	22	Not Applicable	Not Applicable
+	"Idaho"	"16"	"99 years"	"99"	"Senility"	"R54"	15	Not Applicable	Not Applicable
+	"Idaho"	"16"	"100+ years"	"100"	"Unspecified dementia"	"F03"	60	Not Applicable	Not Applicable
+	"Idaho"	"16"	"100+ years"	"100"	"Alzheimer disease, unspecified"	"G30.9"	45	Not Applicable	Not Applicable
+	"Idaho"	"16"	"100+ years"	"100"	"Hypertensive heart disease with (congestive) heart failure"	"I11.0"	17	Not Applicable	Not Applicable
+	"Idaho"	"16"	"100+ years"	"100"	"Acute myocardial infarction, unspecified"	"I21.9"	10	Not Applicable	Not Applicable
+	"Idaho"	"16"	"100+ years"	"100"	"Atherosclerotic heart disease"	"I25.1"	26	Not Applicable	Not Applicable
+	"Idaho"	"16"	"100+ years"	"100"	"Atrial fibrillation and flutter"	"I48"	24	Not Applicable	Not Applicable
+	"Idaho"	"16"	"100+ years"	"100"	"Congestive heart failure"	"I50.0"	41	Not Applicable	Not Applicable
+	"Idaho"	"16"	"100+ years"	"100"	"Stroke, not specified as haemorrhage or infarction"	"I64"	26	Not Applicable	Not Applicable
+	"Idaho"	"16"	"100+ years"	"100"	"Pneumonia, unspecified"	"J18.9"	11	Not Applicable	Not Applicable
+	"Idaho"	"16"	"100+ years"	"100"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	10	Not Applicable	Not Applicable
+	"Idaho"	"16"	"100+ years"	"100"	"Senility"	"R54"	29	Not Applicable	Not Applicable
+"---"
+"Dataset: Underlying Cause of Death, 1999-2020"
+"Query Parameters:"
+"Title: Idaho CoD F"
+"Gender: Female"
+"States: Idaho (16)"
+"Year/Month: 2016; 2017; 2018; 2019; 2020"
+"Group By: State; Single-Year Ages; Cause of death"
+"Show Totals: Disabled"
+"Show Zero Values: Disabled"
+"Show Suppressed: False"
+"Calculate Rates Per: 100,000"
+"Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/ucd.html for more information."
+"---"
+"Query Date: Apr 8, 2022 1:46:11 AM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. Underlying Cause of Death"
+"1999-2020 on CDC WONDER Online Database, released in 2021. Data are from the Multiple Cause of Death Files, 1999-2020, as"
+"compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative Program. Accessed"
+"at http://wonder.cdc.gov/ucd-icd10.html on Apr 8, 2022 1:46:11 AM"
+"---"
+Messages:
+"1. The full results are too long to be displayed. Due to suppression constraints rows that are zero, suppressed or a total will"
+"not be available."
+"---"
+Caveats:
+"1. Population and rates are labeled 'Not Applicable' when they include a subset of ages 85-100+ because populations are not"
+"available for those ages. More information: http://wonder.cdc.gov/wonder/help/ucd.html#Ages 85-100."
+"2. Death rates are flagged as Unreliable when the rate is calculated with a numerator of 20 or less. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Unreliable."
+"3. Deaths of persons with Age ""Not Stated"" are included in ""All"" counts and rates, but are not distributed among age groups,"
+"so are not included in age-specific counts, age-specific rates or in any age-adjusted rates. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Not Stated."
+"4. The population figures for year 2020 are bridged-race estimates of the July 1 resident population, from the Vintage 2020"
+"postcensal series released by NCHS on September 22, 2021. The population figures for year 2019 are bridged-race estimates of the"
+"July 1 resident population, from the Vintage 2019 postcensal series released by NCHS on July 9, 2020. The population figures for"
+"year 2018 are bridged-race estimates of the July 1 resident population, from the Vintage 2018 postcensal series released by NCHS"
+"on June 25, 2019. The population figures for year 2017 are bridged-race estimates of the July 1 resident population, from the"
+"Vintage 2017 postcensal series released by NCHS on June 27, 2018. The population figures for year 2016 are bridged-race"
+"estimates of the July 1 resident population, from the Vintage 2016 postcensal series released by NCHS on June 26, 2017. The"
+"population figures for year 2015 are bridged-race estimates of the July 1 resident population, from the Vintage 2015 postcensal"
+"series released by NCHS on June 28, 2016. The population figures for year 2014 are bridged-race estimates of the July 1 resident"
+"population, from the Vintage 2014 postcensal series released by NCHS on June 30, 2015. The population figures for year 2013 are"
+"bridged-race estimates of the July 1 resident population, from the Vintage 2013 postcensal series released by NCHS on June 26,"
+"2014. The population figures for year 2012 are bridged-race estimates of the July 1 resident population, from the Vintage 2012"
+"postcensal series released by NCHS on June 13, 2013. The population figures for year 2011 are bridged-race estimates of the July"
+"1 resident population, from the Vintage 2011 postcensal series released by NCHS on July 18, 2012. Population figures for 2010"
+"are April 1 Census counts. The population figures for years 2001 - 2009 are bridged-race estimates of the July 1 resident"
+"population, from the revised intercensal county-level 2000 - 2009 series released by NCHS on October 26, 2012. Population"
+"figures for 2000 are April 1 Census counts. Population figures for 1999 are from the 1990-1999 intercensal series of July 1"
+"estimates. Population figures for the infant age groups are the number of live births. <br/><b>Note:</b> Rates and population"
+"figures for years 2001 - 2009 differ slightly from previously published reports, due to use of the population estimates which"
+"were available at the time of release."
+"5. The population figures used in the calculation of death rates for the age group 'under 1 year' are the estimates of the"
+"resident population that is under one year of age. More information: http://wonder.cdc.gov/wonder/help/ucd.html#Age Group."
+"6. Beginning with the 2018 data, changes have been implemented that affect the counts for ICD-10 cause of death codes O00-O99"
+"compared to previous practice. In addition, data for the cause of death codes O00-O99 for 2003 through 2017 reflect differences"
+"in information available to individual states and probable errors. Caution should be used in interpreting these data. More"
+"information can be found at: https://www.cdc.gov/nchs/maternal-mortality/."
+"7. On March 11, 2021, the 2019 mortality data on CDC WONDER was updated with the 2019 mortality data updated by NCHS on March 4,"
+"2021 to include corrected information for residents of Texas affecting 5 records previously coded to cause code *U01.4,"
+"Terrorism involving firearms (homicide). The underlying and multiple cause of death codes for 5 records were corrected in the"
+"2019 data. Underlying and multiple cause of death codes for those 5 records were recoded to Assault (homicide) by other and"
+"unspecified firearm discharge, ICD-10 code X95. The corrected final death records replaces the data released on December 22,"
+"2020."
+"8. Changes to cause of death classification affect reporting trends. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#ICD-10 Changes."

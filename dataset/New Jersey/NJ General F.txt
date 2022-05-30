@@ -1,0 +1,162 @@
+"Notes"	"State"	"State Code"	"Single-Year Ages"	"Single-Year Ages Code"	Deaths	Population	Crude Rate
+	"New Jersey"	"34"	"< 1 year"	"0"	928	245752	377.6
+	"New Jersey"	"34"	"1 year"	"1"	49	250236	19.6
+	"New Jersey"	"34"	"2 years"	"2"	40	255343	15.7
+	"New Jersey"	"34"	"3 years"	"3"	20	256514	7.8
+	"New Jersey"	"34"	"4 years"	"4"	32	258715	12.4
+	"New Jersey"	"34"	"5 years"	"5"	18	259850	Unreliable
+	"New Jersey"	"34"	"6 years"	"6"	22	261266	8.4
+	"New Jersey"	"34"	"7 years"	"7"	21	261532	8.0
+	"New Jersey"	"34"	"8 years"	"8"	26	264127	9.8
+	"New Jersey"	"34"	"9 years"	"9"	25	267331	9.4
+	"New Jersey"	"34"	"10 years"	"10"	20	268368	7.5
+	"New Jersey"	"34"	"11 years"	"11"	21	270810	7.8
+	"New Jersey"	"34"	"12 years"	"12"	23	274941	8.4
+	"New Jersey"	"34"	"13 years"	"13"	28	276363	10.1
+	"New Jersey"	"34"	"14 years"	"14"	35	277428	12.6
+	"New Jersey"	"34"	"15 years"	"15"	33	279073	11.8
+	"New Jersey"	"34"	"16 years"	"16"	37	282110	13.1
+	"New Jersey"	"34"	"17 years"	"17"	58	282940	20.5
+	"New Jersey"	"34"	"18 years"	"18"	72	267239	26.9
+	"New Jersey"	"34"	"19 years"	"19"	80	249904	32.0
+	"New Jersey"	"34"	"20 years"	"20"	96	259713	37.0
+	"New Jersey"	"34"	"21 years"	"21"	114	269254	42.3
+	"New Jersey"	"34"	"22 years"	"22"	115	273728	42.0
+	"New Jersey"	"34"	"23 years"	"23"	143	276081	51.8
+	"New Jersey"	"34"	"24 years"	"24"	133	279799	47.5
+	"New Jersey"	"34"	"25 years"	"25"	181	283026	64.0
+	"New Jersey"	"34"	"26 years"	"26"	164	285174	57.5
+	"New Jersey"	"34"	"27 years"	"27"	184	284363	64.7
+	"New Jersey"	"34"	"28 years"	"28"	212	283941	74.7
+	"New Jersey"	"34"	"29 years"	"29"	225	284201	79.2
+	"New Jersey"	"34"	"30 years"	"30"	242	284608	85.0
+	"New Jersey"	"34"	"31 years"	"31"	272	284735	95.5
+	"New Jersey"	"34"	"32 years"	"32"	261	284909	91.6
+	"New Jersey"	"34"	"33 years"	"33"	264	287107	92.0
+	"New Jersey"	"34"	"34 years"	"34"	266	289598	91.9
+	"New Jersey"	"34"	"35 years"	"35"	267	290756	91.8
+	"New Jersey"	"34"	"36 years"	"36"	300	293060	102.4
+	"New Jersey"	"34"	"37 years"	"37"	310	293372	105.7
+	"New Jersey"	"34"	"38 years"	"38"	327	292182	111.9
+	"New Jersey"	"34"	"39 years"	"39"	335	290549	115.3
+	"New Jersey"	"34"	"40 years"	"40"	361	287054	125.8
+	"New Jersey"	"34"	"41 years"	"41"	361	284184	127.0
+	"New Jersey"	"34"	"42 years"	"42"	331	282667	117.1
+	"New Jersey"	"34"	"43 years"	"43"	352	282366	124.7
+	"New Jersey"	"34"	"44 years"	"44"	415	285201	145.5
+	"New Jersey"	"34"	"45 years"	"45"	495	293127	168.9
+	"New Jersey"	"34"	"46 years"	"46"	577	301807	191.2
+	"New Jersey"	"34"	"47 years"	"47"	599	308350	194.3
+	"New Jersey"	"34"	"48 years"	"48"	678	314050	215.9
+	"New Jersey"	"34"	"49 years"	"49"	724	317325	228.2
+	"New Jersey"	"34"	"50 years"	"50"	808	318733	253.5
+	"New Jersey"	"34"	"51 years"	"51"	927	321280	288.5
+	"New Jersey"	"34"	"52 years"	"52"	1034	326918	316.3
+	"New Jersey"	"34"	"53 years"	"53"	1123	331931	338.3
+	"New Jersey"	"34"	"54 years"	"54"	1186	334789	354.3
+	"New Jersey"	"34"	"55 years"	"55"	1370	336788	406.8
+	"New Jersey"	"34"	"56 years"	"56"	1447	335916	430.8
+	"New Jersey"	"34"	"57 years"	"57"	1545	332516	464.6
+	"New Jersey"	"34"	"58 years"	"58"	1657	329035	503.6
+	"New Jersey"	"34"	"59 years"	"59"	1841	325467	565.6
+	"New Jersey"	"34"	"60 years"	"60"	1916	318261	602.0
+	"New Jersey"	"34"	"61 years"	"61"	2012	309712	649.6
+	"New Jersey"	"34"	"62 years"	"62"	2075	299022	693.9
+	"New Jersey"	"34"	"63 years"	"63"	2141	286992	746.0
+	"New Jersey"	"34"	"64 years"	"64"	2229	273783	814.1
+	"New Jersey"	"34"	"65 years"	"65"	2354	262224	897.7
+	"New Jersey"	"34"	"66 years"	"66"	2366	250951	942.8
+	"New Jersey"	"34"	"67 years"	"67"	2491	241383	1032.0
+	"New Jersey"	"34"	"68 years"	"68"	2728	234653	1162.6
+	"New Jersey"	"34"	"69 years"	"69"	2850	233722	1219.4
+	"New Jersey"	"34"	"70 years"	"70"	3033	220296	1376.8
+	"New Jersey"	"34"	"71 years"	"71"	3245	208142	1559.0
+	"New Jersey"	"34"	"72 years"	"72"	3383	196563	1721.1
+	"New Jersey"	"34"	"73 years"	"73"	3565	187206	1904.3
+	"New Jersey"	"34"	"74 years"	"74"	3592	171028	2100.2
+	"New Jersey"	"34"	"75 years"	"75"	3771	162294	2323.6
+	"New Jersey"	"34"	"76 years"	"76"	3925	153000	2565.4
+	"New Jersey"	"34"	"77 years"	"77"	4086	144401	2829.6
+	"New Jersey"	"34"	"78 years"	"78"	4140	132361	3127.8
+	"New Jersey"	"34"	"79 years"	"79"	4222	123290	3424.4
+	"New Jersey"	"34"	"80 years"	"80"	4507	116130	3881.0
+	"New Jersey"	"34"	"81 years"	"81"	4891	109686	4459.1
+	"New Jersey"	"34"	"82 years"	"82"	5043	103231	4885.2
+	"New Jersey"	"34"	"83 years"	"83"	5381	95971	5606.9
+	"New Jersey"	"34"	"84 years"	"84"	5684	90784	6261.0
+	"New Jersey"	"34"	"85 years"	"85"	6118	Not Applicable	Not Applicable
+	"New Jersey"	"34"	"86 years"	"86"	6293	Not Applicable	Not Applicable
+	"New Jersey"	"34"	"87 years"	"87"	6973	Not Applicable	Not Applicable
+	"New Jersey"	"34"	"88 years"	"88"	7043	Not Applicable	Not Applicable
+	"New Jersey"	"34"	"89 years"	"89"	7228	Not Applicable	Not Applicable
+	"New Jersey"	"34"	"90 years"	"90"	7285	Not Applicable	Not Applicable
+	"New Jersey"	"34"	"91 years"	"91"	7086	Not Applicable	Not Applicable
+	"New Jersey"	"34"	"92 years"	"92"	6713	Not Applicable	Not Applicable
+	"New Jersey"	"34"	"93 years"	"93"	6387	Not Applicable	Not Applicable
+	"New Jersey"	"34"	"94 years"	"94"	5750	Not Applicable	Not Applicable
+	"New Jersey"	"34"	"95 years"	"95"	5138	Not Applicable	Not Applicable
+	"New Jersey"	"34"	"96 years"	"96"	4378	Not Applicable	Not Applicable
+	"New Jersey"	"34"	"97 years"	"97"	3592	Not Applicable	Not Applicable
+	"New Jersey"	"34"	"98 years"	"98"	2778	Not Applicable	Not Applicable
+	"New Jersey"	"34"	"99 years"	"99"	2056	Not Applicable	Not Applicable
+	"New Jersey"	"34"	"100+ years"	"100"	4399	Not Applicable	Not Applicable
+"---"
+"Dataset: Underlying Cause of Death, 1999-2020"
+"Query Parameters:"
+"Title: NJ General F"
+"Gender: Female"
+"States: New Jersey (34)"
+"Year/Month: 2016; 2017; 2018; 2019; 2020"
+"Group By: State; Single-Year Ages"
+"Show Totals: Disabled"
+"Show Zero Values: False"
+"Show Suppressed: False"
+"Calculate Rates Per: 100,000"
+"Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/ucd.html for more information."
+"---"
+"Query Date: Apr 11, 2022 2:26:11 AM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. Underlying Cause of Death"
+"1999-2020 on CDC WONDER Online Database, released in 2021. Data are from the Multiple Cause of Death Files, 1999-2020, as"
+"compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative Program. Accessed"
+"at http://wonder.cdc.gov/ucd-icd10.html on Apr 11, 2022 2:26:11 AM"
+"---"
+Messages:
+"1. Totals are not available for these results due to suppression constraints. More Information:"
+"http://wonder.cdc.gov/wonder/help/faq.html#Privacy."
+"2. Rows with suppressed Deaths are hidden. Use Quick Options above to show suppressed rows."
+"---"
+Caveats:
+"1. Population and rates are labeled 'Not Applicable' when they include a subset of ages 85-100+ because populations are not"
+"available for those ages. More information: http://wonder.cdc.gov/wonder/help/ucd.html#Ages 85-100."
+"2. Data are Suppressed when the data meet the criteria for confidentiality constraints. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Assurance of Confidentiality."
+"3. Death rates are flagged as Unreliable when the rate is calculated with a numerator of 20 or less. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Unreliable."
+"4. Deaths of persons with Age ""Not Stated"" are included in ""All"" counts and rates, but are not distributed among age groups,"
+"so are not included in age-specific counts, age-specific rates or in any age-adjusted rates. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Not Stated."
+"5. The population figures for year 2020 are bridged-race estimates of the July 1 resident population, from the Vintage 2020"
+"postcensal series released by NCHS on September 22, 2021. The population figures for year 2019 are bridged-race estimates of the"
+"July 1 resident population, from the Vintage 2019 postcensal series released by NCHS on July 9, 2020. The population figures for"
+"year 2018 are bridged-race estimates of the July 1 resident population, from the Vintage 2018 postcensal series released by NCHS"
+"on June 25, 2019. The population figures for year 2017 are bridged-race estimates of the July 1 resident population, from the"
+"Vintage 2017 postcensal series released by NCHS on June 27, 2018. The population figures for year 2016 are bridged-race"
+"estimates of the July 1 resident population, from the Vintage 2016 postcensal series released by NCHS on June 26, 2017. The"
+"population figures for year 2015 are bridged-race estimates of the July 1 resident population, from the Vintage 2015 postcensal"
+"series released by NCHS on June 28, 2016. The population figures for year 2014 are bridged-race estimates of the July 1 resident"
+"population, from the Vintage 2014 postcensal series released by NCHS on June 30, 2015. The population figures for year 2013 are"
+"bridged-race estimates of the July 1 resident population, from the Vintage 2013 postcensal series released by NCHS on June 26,"
+"2014. The population figures for year 2012 are bridged-race estimates of the July 1 resident population, from the Vintage 2012"
+"postcensal series released by NCHS on June 13, 2013. The population figures for year 2011 are bridged-race estimates of the July"
+"1 resident population, from the Vintage 2011 postcensal series released by NCHS on July 18, 2012. Population figures for 2010"
+"are April 1 Census counts. The population figures for years 2001 - 2009 are bridged-race estimates of the July 1 resident"
+"population, from the revised intercensal county-level 2000 - 2009 series released by NCHS on October 26, 2012. Population"
+"figures for 2000 are April 1 Census counts. Population figures for 1999 are from the 1990-1999 intercensal series of July 1"
+"estimates. Population figures for the infant age groups are the number of live births. <br/><b>Note:</b> Rates and population"
+"figures for years 2001 - 2009 differ slightly from previously published reports, due to use of the population estimates which"
+"were available at the time of release."
+"6. The population figures used in the calculation of death rates for the age group 'under 1 year' are the estimates of the"
+"resident population that is under one year of age. More information: http://wonder.cdc.gov/wonder/help/ucd.html#Age Group."

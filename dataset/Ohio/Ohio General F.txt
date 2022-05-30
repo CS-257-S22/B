@@ -1,0 +1,160 @@
+"Notes"	"State"	"State Code"	"Single-Year Ages"	"Single-Year Ages Code"	Deaths	Population	Crude Rate
+	"Ohio"	"39"	"< 1 year"	"0"	2095	329498	635.8
+	"Ohio"	"39"	"1 year"	"1"	133	334765	39.7
+	"Ohio"	"39"	"2 years"	"2"	73	341596	21.4
+	"Ohio"	"39"	"3 years"	"3"	73	343507	21.3
+	"Ohio"	"39"	"4 years"	"4"	53	344674	15.4
+	"Ohio"	"39"	"5 years"	"5"	43	344334	12.5
+	"Ohio"	"39"	"6 years"	"6"	46	344710	13.3
+	"Ohio"	"39"	"7 years"	"7"	29	344925	8.4
+	"Ohio"	"39"	"8 years"	"8"	33	347556	9.5
+	"Ohio"	"39"	"9 years"	"9"	40	351247	11.4
+	"Ohio"	"39"	"10 years"	"10"	30	355611	8.4
+	"Ohio"	"39"	"11 years"	"11"	38	358337	10.6
+	"Ohio"	"39"	"12 years"	"12"	46	361086	12.7
+	"Ohio"	"39"	"13 years"	"13"	49	361615	13.6
+	"Ohio"	"39"	"14 years"	"14"	67	362636	18.5
+	"Ohio"	"39"	"15 years"	"15"	72	365722	19.7
+	"Ohio"	"39"	"16 years"	"16"	90	369950	24.3
+	"Ohio"	"39"	"17 years"	"17"	114	373135	30.6
+	"Ohio"	"39"	"18 years"	"18"	165	368481	44.8
+	"Ohio"	"39"	"19 years"	"19"	167	377643	44.2
+	"Ohio"	"39"	"20 years"	"20"	192	369998	51.9
+	"Ohio"	"39"	"21 years"	"21"	247	367158	67.3
+	"Ohio"	"39"	"22 years"	"22"	232	373414	62.1
+	"Ohio"	"39"	"23 years"	"23"	290	374006	77.5
+	"Ohio"	"39"	"24 years"	"24"	302	381002	79.3
+	"Ohio"	"39"	"25 years"	"25"	307	388743	79.0
+	"Ohio"	"39"	"26 years"	"26"	350	394995	88.6
+	"Ohio"	"39"	"27 years"	"27"	410	397557	103.1
+	"Ohio"	"39"	"28 years"	"28"	431	395743	108.9
+	"Ohio"	"39"	"29 years"	"29"	467	388391	120.2
+	"Ohio"	"39"	"30 years"	"30"	458	380889	120.2
+	"Ohio"	"39"	"31 years"	"31"	453	373924	121.1
+	"Ohio"	"39"	"32 years"	"32"	535	366357	146.0
+	"Ohio"	"39"	"33 years"	"33"	566	364527	155.3
+	"Ohio"	"39"	"34 years"	"34"	543	364296	149.1
+	"Ohio"	"39"	"35 years"	"35"	576	363892	158.3
+	"Ohio"	"39"	"36 years"	"36"	611	364589	167.6
+	"Ohio"	"39"	"37 years"	"37"	622	363361	171.2
+	"Ohio"	"39"	"38 years"	"38"	588	359692	163.5
+	"Ohio"	"39"	"39 years"	"39"	737	353661	208.4
+	"Ohio"	"39"	"40 years"	"40"	682	346094	197.1
+	"Ohio"	"39"	"41 years"	"41"	709	340242	208.4
+	"Ohio"	"39"	"42 years"	"42"	712	335315	212.3
+	"Ohio"	"39"	"43 years"	"43"	732	335492	218.2
+	"Ohio"	"39"	"44 years"	"44"	844	340071	248.2
+	"Ohio"	"39"	"45 years"	"45"	889	352308	252.3
+	"Ohio"	"39"	"46 years"	"46"	1050	362353	289.8
+	"Ohio"	"39"	"47 years"	"47"	1141	369995	308.4
+	"Ohio"	"39"	"48 years"	"48"	1189	374364	317.6
+	"Ohio"	"39"	"49 years"	"49"	1349	374998	359.7
+	"Ohio"	"39"	"50 years"	"50"	1449	372115	389.4
+	"Ohio"	"39"	"51 years"	"51"	1554	373662	415.9
+	"Ohio"	"39"	"52 years"	"52"	1717	381576	450.0
+	"Ohio"	"39"	"53 years"	"53"	1878	391620	479.5
+	"Ohio"	"39"	"54 years"	"54"	2189	402171	544.3
+	"Ohio"	"39"	"55 years"	"55"	2412	412328	585.0
+	"Ohio"	"39"	"56 years"	"56"	2580	418818	616.0
+	"Ohio"	"39"	"57 years"	"57"	2855	422086	676.4
+	"Ohio"	"39"	"58 years"	"58"	2937	426281	689.0
+	"Ohio"	"39"	"59 years"	"59"	3344	427918	781.5
+	"Ohio"	"39"	"60 years"	"60"	3594	424263	847.1
+	"Ohio"	"39"	"61 years"	"61"	3691	418297	882.4
+	"Ohio"	"39"	"62 years"	"62"	3911	409599	954.8
+	"Ohio"	"39"	"63 years"	"63"	3949	397032	994.6
+	"Ohio"	"39"	"64 years"	"64"	4129	382465	1079.6
+	"Ohio"	"39"	"65 years"	"65"	4357	370381	1176.4
+	"Ohio"	"39"	"66 years"	"66"	4541	356542	1273.6
+	"Ohio"	"39"	"67 years"	"67"	4609	344676	1337.2
+	"Ohio"	"39"	"68 years"	"68"	4996	335060	1491.1
+	"Ohio"	"39"	"69 years"	"69"	5257	331715	1584.8
+	"Ohio"	"39"	"70 years"	"70"	5491	308262	1781.3
+	"Ohio"	"39"	"71 years"	"71"	5610	286663	1957.0
+	"Ohio"	"39"	"72 years"	"72"	5795	266384	2175.4
+	"Ohio"	"39"	"73 years"	"73"	6029	249292	2418.4
+	"Ohio"	"39"	"74 years"	"74"	5883	225071	2613.8
+	"Ohio"	"39"	"75 years"	"75"	6266	216477	2894.5
+	"Ohio"	"39"	"76 years"	"76"	6597	206727	3191.2
+	"Ohio"	"39"	"77 years"	"77"	6961	196193	3548.0
+	"Ohio"	"39"	"78 years"	"78"	7057	181937	3878.8
+	"Ohio"	"39"	"79 years"	"79"	7433	169587	4383.0
+	"Ohio"	"39"	"80 years"	"80"	7623	159353	4783.7
+	"Ohio"	"39"	"81 years"	"81"	7958	150697	5280.8
+	"Ohio"	"39"	"82 years"	"82"	8287	140206	5910.6
+	"Ohio"	"39"	"83 years"	"83"	8470	130683	6481.3
+	"Ohio"	"39"	"84 years"	"84"	9020	121102	7448.3
+	"Ohio"	"39"	"85 years"	"85"	9253	Not Applicable	Not Applicable
+	"Ohio"	"39"	"86 years"	"86"	9523	Not Applicable	Not Applicable
+	"Ohio"	"39"	"87 years"	"87"	9612	Not Applicable	Not Applicable
+	"Ohio"	"39"	"88 years"	"88"	9986	Not Applicable	Not Applicable
+	"Ohio"	"39"	"89 years"	"89"	10426	Not Applicable	Not Applicable
+	"Ohio"	"39"	"90 years"	"90"	10186	Not Applicable	Not Applicable
+	"Ohio"	"39"	"91 years"	"91"	9946	Not Applicable	Not Applicable
+	"Ohio"	"39"	"92 years"	"92"	9172	Not Applicable	Not Applicable
+	"Ohio"	"39"	"93 years"	"93"	8708	Not Applicable	Not Applicable
+	"Ohio"	"39"	"94 years"	"94"	7468	Not Applicable	Not Applicable
+	"Ohio"	"39"	"95 years"	"95"	6728	Not Applicable	Not Applicable
+	"Ohio"	"39"	"96 years"	"96"	5521	Not Applicable	Not Applicable
+	"Ohio"	"39"	"97 years"	"97"	4407	Not Applicable	Not Applicable
+	"Ohio"	"39"	"98 years"	"98"	3305	Not Applicable	Not Applicable
+	"Ohio"	"39"	"99 years"	"99"	2418	Not Applicable	Not Applicable
+	"Ohio"	"39"	"100+ years"	"100"	5001	Not Applicable	Not Applicable
+"---"
+"Dataset: Underlying Cause of Death, 1999-2020"
+"Query Parameters:"
+"Title: Ohio General F"
+"Gender: Female"
+"States: Ohio (39)"
+"Year/Month: 2016; 2017; 2018; 2019; 2020"
+"Group By: State; Single-Year Ages"
+"Show Totals: Disabled"
+"Show Zero Values: False"
+"Show Suppressed: False"
+"Calculate Rates Per: 100,000"
+"Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/ucd.html for more information."
+"---"
+"Query Date: Apr 11, 2022 2:41:02 AM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. Underlying Cause of Death"
+"1999-2020 on CDC WONDER Online Database, released in 2021. Data are from the Multiple Cause of Death Files, 1999-2020, as"
+"compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative Program. Accessed"
+"at http://wonder.cdc.gov/ucd-icd10.html on Apr 11, 2022 2:41:02 AM"
+"---"
+Messages:
+"1. Totals are not available for these results due to suppression constraints. More Information:"
+"http://wonder.cdc.gov/wonder/help/faq.html#Privacy."
+"2. Rows with suppressed Deaths are hidden. Use Quick Options above to show suppressed rows."
+"---"
+Caveats:
+"1. Population and rates are labeled 'Not Applicable' when they include a subset of ages 85-100+ because populations are not"
+"available for those ages. More information: http://wonder.cdc.gov/wonder/help/ucd.html#Ages 85-100."
+"2. Data are Suppressed when the data meet the criteria for confidentiality constraints. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Assurance of Confidentiality."
+"3. Deaths of persons with Age ""Not Stated"" are included in ""All"" counts and rates, but are not distributed among age groups,"
+"so are not included in age-specific counts, age-specific rates or in any age-adjusted rates. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Not Stated."
+"4. The population figures for year 2020 are bridged-race estimates of the July 1 resident population, from the Vintage 2020"
+"postcensal series released by NCHS on September 22, 2021. The population figures for year 2019 are bridged-race estimates of the"
+"July 1 resident population, from the Vintage 2019 postcensal series released by NCHS on July 9, 2020. The population figures for"
+"year 2018 are bridged-race estimates of the July 1 resident population, from the Vintage 2018 postcensal series released by NCHS"
+"on June 25, 2019. The population figures for year 2017 are bridged-race estimates of the July 1 resident population, from the"
+"Vintage 2017 postcensal series released by NCHS on June 27, 2018. The population figures for year 2016 are bridged-race"
+"estimates of the July 1 resident population, from the Vintage 2016 postcensal series released by NCHS on June 26, 2017. The"
+"population figures for year 2015 are bridged-race estimates of the July 1 resident population, from the Vintage 2015 postcensal"
+"series released by NCHS on June 28, 2016. The population figures for year 2014 are bridged-race estimates of the July 1 resident"
+"population, from the Vintage 2014 postcensal series released by NCHS on June 30, 2015. The population figures for year 2013 are"
+"bridged-race estimates of the July 1 resident population, from the Vintage 2013 postcensal series released by NCHS on June 26,"
+"2014. The population figures for year 2012 are bridged-race estimates of the July 1 resident population, from the Vintage 2012"
+"postcensal series released by NCHS on June 13, 2013. The population figures for year 2011 are bridged-race estimates of the July"
+"1 resident population, from the Vintage 2011 postcensal series released by NCHS on July 18, 2012. Population figures for 2010"
+"are April 1 Census counts. The population figures for years 2001 - 2009 are bridged-race estimates of the July 1 resident"
+"population, from the revised intercensal county-level 2000 - 2009 series released by NCHS on October 26, 2012. Population"
+"figures for 2000 are April 1 Census counts. Population figures for 1999 are from the 1990-1999 intercensal series of July 1"
+"estimates. Population figures for the infant age groups are the number of live births. <br/><b>Note:</b> Rates and population"
+"figures for years 2001 - 2009 differ slightly from previously published reports, due to use of the population estimates which"
+"were available at the time of release."
+"5. The population figures used in the calculation of death rates for the age group 'under 1 year' are the estimates of the"
+"resident population that is under one year of age. More information: http://wonder.cdc.gov/wonder/help/ucd.html#Age Group."

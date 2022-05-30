@@ -1,0 +1,665 @@
+"Notes"	"State"	"State Code"	"Single-Year Ages"	"Single-Year Ages Code"	"Cause of death"	"Cause of death Code"	Deaths	Population	Crude Rate
+	"New Hampshire"	"33"	"< 1 year"	"0"	"Extreme immaturity"	"P07.2"	12	29890	Unreliable
+	"New Hampshire"	"33"	"22 years"	"22"	"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X42"	10	43093	Unreliable
+	"New Hampshire"	"33"	"25 years"	"25"	"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X42"	12	40862	Unreliable
+	"New Hampshire"	"33"	"26 years"	"26"	"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X42"	12	40656	Unreliable
+	"New Hampshire"	"33"	"27 years"	"27"	"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X42"	10	40646	Unreliable
+	"New Hampshire"	"33"	"28 years"	"28"	"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X42"	14	40785	Unreliable
+	"New Hampshire"	"33"	"29 years"	"29"	"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X42"	20	40473	49.4
+	"New Hampshire"	"33"	"30 years"	"30"	"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X42"	17	40771	Unreliable
+	"New Hampshire"	"33"	"31 years"	"31"	"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X42"	15	40579	Unreliable
+	"New Hampshire"	"33"	"32 years"	"32"	"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X42"	10	40673	Unreliable
+	"New Hampshire"	"33"	"33 years"	"33"	"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X42"	13	40331	Unreliable
+	"New Hampshire"	"33"	"34 years"	"34"	"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X42"	17	40540	Unreliable
+	"New Hampshire"	"33"	"36 years"	"36"	"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X42"	11	39767	Unreliable
+	"New Hampshire"	"33"	"37 years"	"37"	"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X42"	13	39525	Unreliable
+	"New Hampshire"	"33"	"38 years"	"38"	"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X42"	12	39081	Unreliable
+	"New Hampshire"	"33"	"40 years"	"40"	"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X42"	10	37880	Unreliable
+	"New Hampshire"	"33"	"41 years"	"41"	"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X42"	11	37590	Unreliable
+	"New Hampshire"	"33"	"44 years"	"44"	"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X42"	11	39351	Unreliable
+	"New Hampshire"	"33"	"48 years"	"48"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	11	46675	Unreliable
+	"New Hampshire"	"33"	"48 years"	"48"	"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X42"	12	46675	Unreliable
+	"New Hampshire"	"33"	"49 years"	"49"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	11	47533	Unreliable
+	"New Hampshire"	"33"	"49 years"	"49"	"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X42"	10	47533	Unreliable
+	"New Hampshire"	"33"	"51 years"	"51"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	10	49200	Unreliable
+	"New Hampshire"	"33"	"52 years"	"52"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	12	50933	Unreliable
+	"New Hampshire"	"33"	"53 years"	"53"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	19	52454	Unreliable
+	"New Hampshire"	"33"	"53 years"	"53"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	14	52454	Unreliable
+	"New Hampshire"	"33"	"54 years"	"54"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	20	53964	37.1
+	"New Hampshire"	"33"	"54 years"	"54"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	22	53964	40.8
+	"New Hampshire"	"33"	"54 years"	"54"	"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X42"	12	53964	Unreliable
+	"New Hampshire"	"33"	"55 years"	"55"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	16	55645	Unreliable
+	"New Hampshire"	"33"	"56 years"	"56"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	28	56463	49.6
+	"New Hampshire"	"33"	"56 years"	"56"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	18	56463	Unreliable
+	"New Hampshire"	"33"	"57 years"	"57"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	25	56415	44.3
+	"New Hampshire"	"33"	"57 years"	"57"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	20	56415	35.5
+	"New Hampshire"	"33"	"57 years"	"57"	"Malignant neoplasm of ovary"	"C56"	10	56415	Unreliable
+	"New Hampshire"	"33"	"57 years"	"57"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	10	56415	Unreliable
+	"New Hampshire"	"33"	"58 years"	"58"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	10	56368	Unreliable
+	"New Hampshire"	"33"	"58 years"	"58"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	34	56368	60.3
+	"New Hampshire"	"33"	"58 years"	"58"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	21	56368	37.3
+	"New Hampshire"	"33"	"58 years"	"58"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	14	56368	Unreliable
+	"New Hampshire"	"33"	"59 years"	"59"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	37	56042	66.0
+	"New Hampshire"	"33"	"59 years"	"59"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	24	56042	42.8
+	"New Hampshire"	"33"	"59 years"	"59"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	11	56042	Unreliable
+	"New Hampshire"	"33"	"59 years"	"59"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	13	56042	Unreliable
+	"New Hampshire"	"33"	"60 years"	"60"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	14	54688	Unreliable
+	"New Hampshire"	"33"	"60 years"	"60"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	41	54688	75.0
+	"New Hampshire"	"33"	"60 years"	"60"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	19	54688	Unreliable
+	"New Hampshire"	"33"	"60 years"	"60"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	15	54688	Unreliable
+	"New Hampshire"	"33"	"61 years"	"61"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	15	53389	Unreliable
+	"New Hampshire"	"33"	"61 years"	"61"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	41	53389	76.8
+	"New Hampshire"	"33"	"61 years"	"61"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	21	53389	39.3
+	"New Hampshire"	"33"	"61 years"	"61"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	11	53389	Unreliable
+	"New Hampshire"	"33"	"61 years"	"61"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	18	53389	Unreliable
+	"New Hampshire"	"33"	"62 years"	"62"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	46	51572	89.2
+	"New Hampshire"	"33"	"62 years"	"62"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	15	51572	Unreliable
+	"New Hampshire"	"33"	"62 years"	"62"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	14	51572	Unreliable
+	"New Hampshire"	"33"	"62 years"	"62"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	15	51572	Unreliable
+	"New Hampshire"	"33"	"63 years"	"63"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	32	49915	64.1
+	"New Hampshire"	"33"	"63 years"	"63"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	26	49915	52.1
+	"New Hampshire"	"33"	"63 years"	"63"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	20	49915	40.1
+	"New Hampshire"	"33"	"64 years"	"64"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	43	47885	89.8
+	"New Hampshire"	"33"	"64 years"	"64"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	24	47885	50.1
+	"New Hampshire"	"33"	"64 years"	"64"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	17	47885	Unreliable
+	"New Hampshire"	"33"	"64 years"	"64"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	38	47885	79.4
+	"New Hampshire"	"33"	"65 years"	"65"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	36	46115	78.1
+	"New Hampshire"	"33"	"65 years"	"65"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	28	46115	60.7
+	"New Hampshire"	"33"	"65 years"	"65"	"Brain, unspecified - Malignant neoplasms"	"C71.9"	10	46115	Unreliable
+	"New Hampshire"	"33"	"65 years"	"65"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	19	46115	Unreliable
+	"New Hampshire"	"33"	"65 years"	"65"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	20	46115	43.4
+	"New Hampshire"	"33"	"66 years"	"66"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	14	44152	Unreliable
+	"New Hampshire"	"33"	"66 years"	"66"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	45	44152	101.9
+	"New Hampshire"	"33"	"66 years"	"66"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	21	44152	47.6
+	"New Hampshire"	"33"	"66 years"	"66"	"Malignant neoplasm of ovary"	"C56"	13	44152	Unreliable
+	"New Hampshire"	"33"	"66 years"	"66"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	10	44152	Unreliable
+	"New Hampshire"	"33"	"66 years"	"66"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	26	44152	58.9
+	"New Hampshire"	"33"	"67 years"	"67"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	53	42545	124.6
+	"New Hampshire"	"33"	"67 years"	"67"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	21	42545	49.4
+	"New Hampshire"	"33"	"67 years"	"67"	"Malignant neoplasm of ovary"	"C56"	11	42545	Unreliable
+	"New Hampshire"	"33"	"67 years"	"67"	"Atherosclerotic heart disease"	"I25.1"	10	42545	Unreliable
+	"New Hampshire"	"33"	"67 years"	"67"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	11	42545	Unreliable
+	"New Hampshire"	"33"	"68 years"	"68"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	13	41375	Unreliable
+	"New Hampshire"	"33"	"68 years"	"68"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	34	41375	82.2
+	"New Hampshire"	"33"	"68 years"	"68"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	24	41375	58.0
+	"New Hampshire"	"33"	"68 years"	"68"	"Malignant neoplasm of ovary"	"C56"	15	41375	Unreliable
+	"New Hampshire"	"33"	"68 years"	"68"	"Malignant neoplasm without specification of site"	"C80"	12	41375	Unreliable
+	"New Hampshire"	"33"	"68 years"	"68"	"Acute myocardial infarction, unspecified"	"I21.9"	11	41375	Unreliable
+	"New Hampshire"	"33"	"68 years"	"68"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	15	41375	Unreliable
+	"New Hampshire"	"33"	"68 years"	"68"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	32	41375	77.3
+	"New Hampshire"	"33"	"69 years"	"69"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	15	40799	Unreliable
+	"New Hampshire"	"33"	"69 years"	"69"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	46	40799	112.7
+	"New Hampshire"	"33"	"69 years"	"69"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	17	40799	Unreliable
+	"New Hampshire"	"33"	"69 years"	"69"	"Endometrium - Malignant neoplasms"	"C54.1"	10	40799	Unreliable
+	"New Hampshire"	"33"	"69 years"	"69"	"Malignant neoplasm of ovary"	"C56"	10	40799	Unreliable
+	"New Hampshire"	"33"	"69 years"	"69"	"Malignant neoplasm without specification of site"	"C80"	13	40799	Unreliable
+	"New Hampshire"	"33"	"69 years"	"69"	"Acute myocardial infarction, unspecified"	"I21.9"	16	40799	Unreliable
+	"New Hampshire"	"33"	"69 years"	"69"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	14	40799	Unreliable
+	"New Hampshire"	"33"	"69 years"	"69"	"Atherosclerotic heart disease"	"I25.1"	10	40799	Unreliable
+	"New Hampshire"	"33"	"69 years"	"69"	"Congestive heart failure"	"I50.0"	10	40799	Unreliable
+	"New Hampshire"	"33"	"69 years"	"69"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	27	40799	66.2
+	"New Hampshire"	"33"	"70 years"	"70"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	11	38241	Unreliable
+	"New Hampshire"	"33"	"70 years"	"70"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	15	38241	Unreliable
+	"New Hampshire"	"33"	"70 years"	"70"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	57	38241	149.1
+	"New Hampshire"	"33"	"70 years"	"70"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	26	38241	68.0
+	"New Hampshire"	"33"	"70 years"	"70"	"Malignant neoplasm of ovary"	"C56"	12	38241	Unreliable
+	"New Hampshire"	"33"	"70 years"	"70"	"Unspecified dementia"	"F03"	15	38241	Unreliable
+	"New Hampshire"	"33"	"70 years"	"70"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	18	38241	Unreliable
+	"New Hampshire"	"33"	"70 years"	"70"	"Atherosclerotic heart disease"	"I25.1"	13	38241	Unreliable
+	"New Hampshire"	"33"	"70 years"	"70"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	37	38241	96.8
+	"New Hampshire"	"33"	"71 years"	"71"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	21	35654	58.9
+	"New Hampshire"	"33"	"71 years"	"71"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	64	35654	179.5
+	"New Hampshire"	"33"	"71 years"	"71"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	26	35654	72.9
+	"New Hampshire"	"33"	"71 years"	"71"	"Malignant neoplasm without specification of site"	"C80"	12	35654	Unreliable
+	"New Hampshire"	"33"	"71 years"	"71"	"Unspecified dementia"	"F03"	11	35654	Unreliable
+	"New Hampshire"	"33"	"71 years"	"71"	"Alzheimer disease, unspecified"	"G30.9"	14	35654	Unreliable
+	"New Hampshire"	"33"	"71 years"	"71"	"Acute myocardial infarction, unspecified"	"I21.9"	11	35654	Unreliable
+	"New Hampshire"	"33"	"71 years"	"71"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	12	35654	Unreliable
+	"New Hampshire"	"33"	"71 years"	"71"	"Atherosclerotic heart disease"	"I25.1"	13	35654	Unreliable
+	"New Hampshire"	"33"	"71 years"	"71"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	27	35654	75.7
+	"New Hampshire"	"33"	"72 years"	"72"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	14	33150	Unreliable
+	"New Hampshire"	"33"	"72 years"	"72"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	18	33150	Unreliable
+	"New Hampshire"	"33"	"72 years"	"72"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	60	33150	181.0
+	"New Hampshire"	"33"	"72 years"	"72"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	28	33150	84.5
+	"New Hampshire"	"33"	"72 years"	"72"	"Unspecified dementia"	"F03"	12	33150	Unreliable
+	"New Hampshire"	"33"	"72 years"	"72"	"Alzheimer disease, unspecified"	"G30.9"	13	33150	Unreliable
+	"New Hampshire"	"33"	"72 years"	"72"	"Acute myocardial infarction, unspecified"	"I21.9"	18	33150	Unreliable
+	"New Hampshire"	"33"	"72 years"	"72"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	10	33150	Unreliable
+	"New Hampshire"	"33"	"72 years"	"72"	"Atherosclerotic heart disease"	"I25.1"	14	33150	Unreliable
+	"New Hampshire"	"33"	"72 years"	"72"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	34	33150	102.6
+	"New Hampshire"	"33"	"73 years"	"73"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	23	30868	74.5
+	"New Hampshire"	"33"	"73 years"	"73"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	70	30868	226.8
+	"New Hampshire"	"33"	"73 years"	"73"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	23	30868	74.5
+	"New Hampshire"	"33"	"73 years"	"73"	"Malignant neoplasm without specification of site"	"C80"	10	30868	Unreliable
+	"New Hampshire"	"33"	"73 years"	"73"	"Unspecified dementia"	"F03"	24	30868	77.8
+	"New Hampshire"	"33"	"73 years"	"73"	"Alzheimer disease, unspecified"	"G30.9"	20	30868	64.8
+	"New Hampshire"	"33"	"73 years"	"73"	"Acute myocardial infarction, unspecified"	"I21.9"	10	30868	Unreliable
+	"New Hampshire"	"33"	"73 years"	"73"	"Atherosclerotic heart disease"	"I25.1"	13	30868	Unreliable
+	"New Hampshire"	"33"	"73 years"	"73"	"Congestive heart failure"	"I50.0"	13	30868	Unreliable
+	"New Hampshire"	"33"	"73 years"	"73"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	45	30868	145.8
+	"New Hampshire"	"33"	"74 years"	"74"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	15	27333	Unreliable
+	"New Hampshire"	"33"	"74 years"	"74"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	56	27333	204.9
+	"New Hampshire"	"33"	"74 years"	"74"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	21	27333	76.8
+	"New Hampshire"	"33"	"74 years"	"74"	"Malignant neoplasm of ovary"	"C56"	12	27333	Unreliable
+	"New Hampshire"	"33"	"74 years"	"74"	"Malignant neoplasm without specification of site"	"C80"	12	27333	Unreliable
+	"New Hampshire"	"33"	"74 years"	"74"	"Unspecified dementia"	"F03"	23	27333	84.1
+	"New Hampshire"	"33"	"74 years"	"74"	"Alzheimer disease, unspecified"	"G30.9"	16	27333	Unreliable
+	"New Hampshire"	"33"	"74 years"	"74"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	12	27333	Unreliable
+	"New Hampshire"	"33"	"74 years"	"74"	"Atherosclerotic heart disease"	"I25.1"	11	27333	Unreliable
+	"New Hampshire"	"33"	"74 years"	"74"	"Congestive heart failure"	"I50.0"	10	27333	Unreliable
+	"New Hampshire"	"33"	"74 years"	"74"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	12	27333	Unreliable
+	"New Hampshire"	"33"	"74 years"	"74"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	45	27333	164.6
+	"New Hampshire"	"33"	"74 years"	"74"	"COVID-19"	"U07.1"	13	27333	Unreliable
+	"New Hampshire"	"33"	"75 years"	"75"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	12	25761	Unreliable
+	"New Hampshire"	"33"	"75 years"	"75"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	50	25761	194.1
+	"New Hampshire"	"33"	"75 years"	"75"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	17	25761	Unreliable
+	"New Hampshire"	"33"	"75 years"	"75"	"Malignant neoplasm of ovary"	"C56"	12	25761	Unreliable
+	"New Hampshire"	"33"	"75 years"	"75"	"Malignant neoplasm without specification of site"	"C80"	12	25761	Unreliable
+	"New Hampshire"	"33"	"75 years"	"75"	"Unspecified dementia"	"F03"	30	25761	116.5
+	"New Hampshire"	"33"	"75 years"	"75"	"Alzheimer disease, unspecified"	"G30.9"	27	25761	104.8
+	"New Hampshire"	"33"	"75 years"	"75"	"Acute myocardial infarction, unspecified"	"I21.9"	14	25761	Unreliable
+	"New Hampshire"	"33"	"75 years"	"75"	"Atherosclerotic heart disease"	"I25.1"	27	25761	104.8
+	"New Hampshire"	"33"	"75 years"	"75"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	41	25761	159.2
+	"New Hampshire"	"33"	"76 years"	"76"	"Septicaemia, unspecified"	"A41.9"	12	23894	Unreliable
+	"New Hampshire"	"33"	"76 years"	"76"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	23	23894	96.3
+	"New Hampshire"	"33"	"76 years"	"76"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	49	23894	205.1
+	"New Hampshire"	"33"	"76 years"	"76"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	26	23894	108.8
+	"New Hampshire"	"33"	"76 years"	"76"	"Malignant neoplasm without specification of site"	"C80"	16	23894	Unreliable
+	"New Hampshire"	"33"	"76 years"	"76"	"Unspecified dementia"	"F03"	26	23894	108.8
+	"New Hampshire"	"33"	"76 years"	"76"	"Parkinson disease"	"G20"	10	23894	Unreliable
+	"New Hampshire"	"33"	"76 years"	"76"	"Alzheimer disease, unspecified"	"G30.9"	32	23894	133.9
+	"New Hampshire"	"33"	"76 years"	"76"	"Acute myocardial infarction, unspecified"	"I21.9"	16	23894	Unreliable
+	"New Hampshire"	"33"	"76 years"	"76"	"Atherosclerotic heart disease"	"I25.1"	26	23894	108.8
+	"New Hampshire"	"33"	"76 years"	"76"	"Congestive heart failure"	"I50.0"	14	23894	Unreliable
+	"New Hampshire"	"33"	"76 years"	"76"	"Stroke, not specified as haemorrhage or infarction"	"I64"	16	23894	Unreliable
+	"New Hampshire"	"33"	"76 years"	"76"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	46	23894	192.5
+	"New Hampshire"	"33"	"77 years"	"77"	"Septicaemia, unspecified"	"A41.9"	10	21933	Unreliable
+	"New Hampshire"	"33"	"77 years"	"77"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	19	21933	Unreliable
+	"New Hampshire"	"33"	"77 years"	"77"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	62	21933	282.7
+	"New Hampshire"	"33"	"77 years"	"77"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	27	21933	123.1
+	"New Hampshire"	"33"	"77 years"	"77"	"Malignant neoplasm of ovary"	"C56"	12	21933	Unreliable
+	"New Hampshire"	"33"	"77 years"	"77"	"Malignant neoplasm without specification of site"	"C80"	11	21933	Unreliable
+	"New Hampshire"	"33"	"77 years"	"77"	"Unspecified dementia"	"F03"	39	21933	177.8
+	"New Hampshire"	"33"	"77 years"	"77"	"Alzheimer disease, unspecified"	"G30.9"	19	21933	Unreliable
+	"New Hampshire"	"33"	"77 years"	"77"	"Acute myocardial infarction, unspecified"	"I21.9"	13	21933	Unreliable
+	"New Hampshire"	"33"	"77 years"	"77"	"Atherosclerotic heart disease"	"I25.1"	23	21933	104.9
+	"New Hampshire"	"33"	"77 years"	"77"	"Congestive heart failure"	"I50.0"	14	21933	Unreliable
+	"New Hampshire"	"33"	"77 years"	"77"	"Pneumonia, unspecified"	"J18.9"	10	21933	Unreliable
+	"New Hampshire"	"33"	"77 years"	"77"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	12	21933	Unreliable
+	"New Hampshire"	"33"	"77 years"	"77"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	39	21933	177.8
+	"New Hampshire"	"33"	"78 years"	"78"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	52	19934	260.9
+	"New Hampshire"	"33"	"78 years"	"78"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	18	19934	Unreliable
+	"New Hampshire"	"33"	"78 years"	"78"	"Malignant neoplasm without specification of site"	"C80"	11	19934	Unreliable
+	"New Hampshire"	"33"	"78 years"	"78"	"Unspecified dementia"	"F03"	53	19934	265.9
+	"New Hampshire"	"33"	"78 years"	"78"	"Alzheimer disease, unspecified"	"G30.9"	29	19934	145.5
+	"New Hampshire"	"33"	"78 years"	"78"	"Acute myocardial infarction, unspecified"	"I21.9"	18	19934	Unreliable
+	"New Hampshire"	"33"	"78 years"	"78"	"Atherosclerotic heart disease"	"I25.1"	18	19934	Unreliable
+	"New Hampshire"	"33"	"78 years"	"78"	"Aortic (valve) stenosis"	"I35.0"	10	19934	Unreliable
+	"New Hampshire"	"33"	"78 years"	"78"	"Congestive heart failure"	"I50.0"	18	19934	Unreliable
+	"New Hampshire"	"33"	"78 years"	"78"	"Stroke, not specified as haemorrhage or infarction"	"I64"	10	19934	Unreliable
+	"New Hampshire"	"33"	"78 years"	"78"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	10	19934	Unreliable
+	"New Hampshire"	"33"	"78 years"	"78"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	41	19934	205.7
+	"New Hampshire"	"33"	"78 years"	"78"	"COVID-19"	"U07.1"	10	19934	Unreliable
+	"New Hampshire"	"33"	"78 years"	"78"	"Unspecified fall"	"W19"	10	19934	Unreliable
+	"New Hampshire"	"33"	"79 years"	"79"	"Septicaemia, unspecified"	"A41.9"	10	18246	Unreliable
+	"New Hampshire"	"33"	"79 years"	"79"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	13	18246	Unreliable
+	"New Hampshire"	"33"	"79 years"	"79"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	61	18246	334.3
+	"New Hampshire"	"33"	"79 years"	"79"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	14	18246	Unreliable
+	"New Hampshire"	"33"	"79 years"	"79"	"Malignant neoplasm without specification of site"	"C80"	12	18246	Unreliable
+	"New Hampshire"	"33"	"79 years"	"79"	"Unspecified dementia"	"F03"	51	18246	279.5
+	"New Hampshire"	"33"	"79 years"	"79"	"Parkinson disease"	"G20"	12	18246	Unreliable
+	"New Hampshire"	"33"	"79 years"	"79"	"Alzheimer disease, unspecified"	"G30.9"	30	18246	164.4
+	"New Hampshire"	"33"	"79 years"	"79"	"Acute myocardial infarction, unspecified"	"I21.9"	12	18246	Unreliable
+	"New Hampshire"	"33"	"79 years"	"79"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	19	18246	Unreliable
+	"New Hampshire"	"33"	"79 years"	"79"	"Atherosclerotic heart disease"	"I25.1"	34	18246	186.3
+	"New Hampshire"	"33"	"79 years"	"79"	"Congestive heart failure"	"I50.0"	25	18246	137.0
+	"New Hampshire"	"33"	"79 years"	"79"	"Stroke, not specified as haemorrhage or infarction"	"I64"	18	18246	Unreliable
+	"New Hampshire"	"33"	"79 years"	"79"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	32	18246	175.4
+	"New Hampshire"	"33"	"80 years"	"80"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	16	17132	Unreliable
+	"New Hampshire"	"33"	"80 years"	"80"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	44	17132	256.8
+	"New Hampshire"	"33"	"80 years"	"80"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	14	17132	Unreliable
+	"New Hampshire"	"33"	"80 years"	"80"	"Malignant neoplasm without specification of site"	"C80"	19	17132	Unreliable
+	"New Hampshire"	"33"	"80 years"	"80"	"Unspecified dementia"	"F03"	58	17132	338.5
+	"New Hampshire"	"33"	"80 years"	"80"	"Parkinson disease"	"G20"	10	17132	Unreliable
+	"New Hampshire"	"33"	"80 years"	"80"	"Alzheimer disease, unspecified"	"G30.9"	49	17132	286.0
+	"New Hampshire"	"33"	"80 years"	"80"	"Acute myocardial infarction, unspecified"	"I21.9"	15	17132	Unreliable
+	"New Hampshire"	"33"	"80 years"	"80"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	11	17132	Unreliable
+	"New Hampshire"	"33"	"80 years"	"80"	"Atherosclerotic heart disease"	"I25.1"	31	17132	180.9
+	"New Hampshire"	"33"	"80 years"	"80"	"Atrial fibrillation and flutter"	"I48"	10	17132	Unreliable
+	"New Hampshire"	"33"	"80 years"	"80"	"Congestive heart failure"	"I50.0"	23	17132	134.3
+	"New Hampshire"	"33"	"80 years"	"80"	"Stroke, not specified as haemorrhage or infarction"	"I64"	14	17132	Unreliable
+	"New Hampshire"	"33"	"80 years"	"80"	"Pneumonia, unspecified"	"J18.9"	11	17132	Unreliable
+	"New Hampshire"	"33"	"80 years"	"80"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	43	17132	251.0
+	"New Hampshire"	"33"	"80 years"	"80"	"COVID-19"	"U07.1"	14	17132	Unreliable
+	"New Hampshire"	"33"	"81 years"	"81"	"Septicaemia, unspecified"	"A41.9"	13	16133	Unreliable
+	"New Hampshire"	"33"	"81 years"	"81"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	22	16133	136.4
+	"New Hampshire"	"33"	"81 years"	"81"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	52	16133	322.3
+	"New Hampshire"	"33"	"81 years"	"81"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	15	16133	Unreliable
+	"New Hampshire"	"33"	"81 years"	"81"	"Malignant neoplasm without specification of site"	"C80"	15	16133	Unreliable
+	"New Hampshire"	"33"	"81 years"	"81"	"Unspecified dementia"	"F03"	72	16133	446.3
+	"New Hampshire"	"33"	"81 years"	"81"	"Parkinson disease"	"G20"	20	16133	124.0
+	"New Hampshire"	"33"	"81 years"	"81"	"Alzheimer disease, unspecified"	"G30.9"	53	16133	328.5
+	"New Hampshire"	"33"	"81 years"	"81"	"Acute myocardial infarction, unspecified"	"I21.9"	15	16133	Unreliable
+	"New Hampshire"	"33"	"81 years"	"81"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	12	16133	Unreliable
+	"New Hampshire"	"33"	"81 years"	"81"	"Atherosclerotic heart disease"	"I25.1"	27	16133	167.4
+	"New Hampshire"	"33"	"81 years"	"81"	"Atrial fibrillation and flutter"	"I48"	12	16133	Unreliable
+	"New Hampshire"	"33"	"81 years"	"81"	"Congestive heart failure"	"I50.0"	21	16133	130.2
+	"New Hampshire"	"33"	"81 years"	"81"	"Stroke, not specified as haemorrhage or infarction"	"I64"	18	16133	Unreliable
+	"New Hampshire"	"33"	"81 years"	"81"	"Pneumonia, unspecified"	"J18.9"	13	16133	Unreliable
+	"New Hampshire"	"33"	"81 years"	"81"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	52	16133	322.3
+	"New Hampshire"	"33"	"82 years"	"82"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	10	15092	Unreliable
+	"New Hampshire"	"33"	"82 years"	"82"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	47	15092	311.4
+	"New Hampshire"	"33"	"82 years"	"82"	"Malignant neoplasm without specification of site"	"C80"	14	15092	Unreliable
+	"New Hampshire"	"33"	"82 years"	"82"	"Unspecified dementia"	"F03"	77	15092	510.2
+	"New Hampshire"	"33"	"82 years"	"82"	"Parkinson disease"	"G20"	27	15092	178.9
+	"New Hampshire"	"33"	"82 years"	"82"	"Alzheimer disease, unspecified"	"G30.9"	60	15092	397.6
+	"New Hampshire"	"33"	"82 years"	"82"	"Acute myocardial infarction, unspecified"	"I21.9"	17	15092	Unreliable
+	"New Hampshire"	"33"	"82 years"	"82"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	10	15092	Unreliable
+	"New Hampshire"	"33"	"82 years"	"82"	"Atherosclerotic heart disease"	"I25.1"	34	15092	225.3
+	"New Hampshire"	"33"	"82 years"	"82"	"Congestive heart failure"	"I50.0"	17	15092	Unreliable
+	"New Hampshire"	"33"	"82 years"	"82"	"Stroke, not specified as haemorrhage or infarction"	"I64"	18	15092	Unreliable
+	"New Hampshire"	"33"	"82 years"	"82"	"Pneumonia, unspecified"	"J18.9"	15	15092	Unreliable
+	"New Hampshire"	"33"	"82 years"	"82"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	11	15092	Unreliable
+	"New Hampshire"	"33"	"82 years"	"82"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	41	15092	271.7
+	"New Hampshire"	"33"	"83 years"	"83"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	12	14091	Unreliable
+	"New Hampshire"	"33"	"83 years"	"83"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	36	14091	255.5
+	"New Hampshire"	"33"	"83 years"	"83"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	15	14091	Unreliable
+	"New Hampshire"	"33"	"83 years"	"83"	"Malignant neoplasm without specification of site"	"C80"	10	14091	Unreliable
+	"New Hampshire"	"33"	"83 years"	"83"	"Unspecified dementia"	"F03"	81	14091	574.8
+	"New Hampshire"	"33"	"83 years"	"83"	"Alzheimer disease, unspecified"	"G30.9"	52	14091	369.0
+	"New Hampshire"	"33"	"83 years"	"83"	"Acute myocardial infarction, unspecified"	"I21.9"	19	14091	Unreliable
+	"New Hampshire"	"33"	"83 years"	"83"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	11	14091	Unreliable
+	"New Hampshire"	"33"	"83 years"	"83"	"Atherosclerotic heart disease"	"I25.1"	33	14091	234.2
+	"New Hampshire"	"33"	"83 years"	"83"	"Other secondary pulmonary hypertension"	"I27.2"	11	14091	Unreliable
+	"New Hampshire"	"33"	"83 years"	"83"	"Atrial fibrillation and flutter"	"I48"	10	14091	Unreliable
+	"New Hampshire"	"33"	"83 years"	"83"	"Congestive heart failure"	"I50.0"	30	14091	212.9
+	"New Hampshire"	"33"	"83 years"	"83"	"Heart failure, unspecified"	"I50.9"	11	14091	Unreliable
+	"New Hampshire"	"33"	"83 years"	"83"	"Stroke, not specified as haemorrhage or infarction"	"I64"	19	14091	Unreliable
+	"New Hampshire"	"33"	"83 years"	"83"	"Pneumonia, unspecified"	"J18.9"	16	14091	Unreliable
+	"New Hampshire"	"33"	"83 years"	"83"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	18	14091	Unreliable
+	"New Hampshire"	"33"	"83 years"	"83"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	53	14091	376.1
+	"New Hampshire"	"33"	"83 years"	"83"	"COVID-19"	"U07.1"	14	14091	Unreliable
+	"New Hampshire"	"33"	"83 years"	"83"	"Other fall on same level"	"W18"	10	14091	Unreliable
+	"New Hampshire"	"33"	"83 years"	"83"	"Unspecified fall"	"W19"	10	14091	Unreliable
+	"New Hampshire"	"33"	"84 years"	"84"	"Septicaemia, unspecified"	"A41.9"	10	13633	Unreliable
+	"New Hampshire"	"33"	"84 years"	"84"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	13	13633	Unreliable
+	"New Hampshire"	"33"	"84 years"	"84"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	17	13633	Unreliable
+	"New Hampshire"	"33"	"84 years"	"84"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	32	13633	234.7
+	"New Hampshire"	"33"	"84 years"	"84"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	14	13633	Unreliable
+	"New Hampshire"	"33"	"84 years"	"84"	"Malignant neoplasm without specification of site"	"C80"	14	13633	Unreliable
+	"New Hampshire"	"33"	"84 years"	"84"	"Unspecified diabetes mellitus, without complications"	"E14.9"	12	13633	Unreliable
+	"New Hampshire"	"33"	"84 years"	"84"	"Vascular dementia, unspecified"	"F01.9"	10	13633	Unreliable
+	"New Hampshire"	"33"	"84 years"	"84"	"Unspecified dementia"	"F03"	100	13633	733.5
+	"New Hampshire"	"33"	"84 years"	"84"	"Parkinson disease"	"G20"	17	13633	Unreliable
+	"New Hampshire"	"33"	"84 years"	"84"	"Alzheimer disease, unspecified"	"G30.9"	55	13633	403.4
+	"New Hampshire"	"33"	"84 years"	"84"	"Acute myocardial infarction, unspecified"	"I21.9"	24	13633	176.0
+	"New Hampshire"	"33"	"84 years"	"84"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	10	13633	Unreliable
+	"New Hampshire"	"33"	"84 years"	"84"	"Atherosclerotic heart disease"	"I25.1"	47	13633	344.8
+	"New Hampshire"	"33"	"84 years"	"84"	"Aortic (valve) stenosis"	"I35.0"	11	13633	Unreliable
+	"New Hampshire"	"33"	"84 years"	"84"	"Atrial fibrillation and flutter"	"I48"	15	13633	Unreliable
+	"New Hampshire"	"33"	"84 years"	"84"	"Congestive heart failure"	"I50.0"	25	13633	183.4
+	"New Hampshire"	"33"	"84 years"	"84"	"Heart failure, unspecified"	"I50.9"	12	13633	Unreliable
+	"New Hampshire"	"33"	"84 years"	"84"	"Stroke, not specified as haemorrhage or infarction"	"I64"	17	13633	Unreliable
+	"New Hampshire"	"33"	"84 years"	"84"	"Pneumonia, unspecified"	"J18.9"	13	13633	Unreliable
+	"New Hampshire"	"33"	"84 years"	"84"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	48	13633	352.1
+	"New Hampshire"	"33"	"84 years"	"84"	"COVID-19"	"U07.1"	11	13633	Unreliable
+	"New Hampshire"	"33"	"84 years"	"84"	"Other fall on same level"	"W18"	11	13633	Unreliable
+	"New Hampshire"	"33"	"84 years"	"84"	"Unspecified fall"	"W19"	11	13633	Unreliable
+	"New Hampshire"	"33"	"85 years"	"85"	"Septicaemia, unspecified"	"A41.9"	11	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"85 years"	"85"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	10	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"85 years"	"85"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	11	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"85 years"	"85"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	37	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"85 years"	"85"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	14	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"85 years"	"85"	"Unspecified dementia"	"F03"	116	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"85 years"	"85"	"Parkinson disease"	"G20"	13	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"85 years"	"85"	"Alzheimer disease, unspecified"	"G30.9"	85	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"85 years"	"85"	"Essential (primary) hypertension"	"I10"	11	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"85 years"	"85"	"Acute myocardial infarction, unspecified"	"I21.9"	22	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"85 years"	"85"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	15	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"85 years"	"85"	"Atherosclerotic heart disease"	"I25.1"	48	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"85 years"	"85"	"Aortic (valve) stenosis"	"I35.0"	10	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"85 years"	"85"	"Atrial fibrillation and flutter"	"I48"	17	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"85 years"	"85"	"Congestive heart failure"	"I50.0"	40	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"85 years"	"85"	"Stroke, not specified as haemorrhage or infarction"	"I64"	24	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"85 years"	"85"	"Pneumonia, unspecified"	"J18.9"	14	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"85 years"	"85"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	68	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"85 years"	"85"	"Chronic renal failure, unspecified"	"N18.9"	10	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"85 years"	"85"	"COVID-19"	"U07.1"	11	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"85 years"	"85"	"Other fall on same level"	"W18"	10	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"86 years"	"86"	"Septicaemia, unspecified"	"A41.9"	14	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"86 years"	"86"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	12	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"86 years"	"86"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	12	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"86 years"	"86"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	33	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"86 years"	"86"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	21	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"86 years"	"86"	"Malignant neoplasm of ovary"	"C56"	10	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"86 years"	"86"	"Malignant neoplasm without specification of site"	"C80"	12	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"86 years"	"86"	"Vascular dementia, unspecified"	"F01.9"	13	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"86 years"	"86"	"Unspecified dementia"	"F03"	117	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"86 years"	"86"	"Parkinson disease"	"G20"	18	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"86 years"	"86"	"Alzheimer disease, unspecified"	"G30.9"	85	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"86 years"	"86"	"Essential (primary) hypertension"	"I10"	11	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"86 years"	"86"	"Acute myocardial infarction, unspecified"	"I21.9"	18	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"86 years"	"86"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	15	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"86 years"	"86"	"Atherosclerotic heart disease"	"I25.1"	52	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"86 years"	"86"	"Aortic (valve) stenosis"	"I35.0"	14	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"86 years"	"86"	"Atrial fibrillation and flutter"	"I48"	12	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"86 years"	"86"	"Congestive heart failure"	"I50.0"	41	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"86 years"	"86"	"Cardiovascular disease, unspecified"	"I51.6"	10	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"86 years"	"86"	"Stroke, not specified as haemorrhage or infarction"	"I64"	25	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"86 years"	"86"	"Pneumonia, unspecified"	"J18.9"	16	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"86 years"	"86"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	10	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"86 years"	"86"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	44	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"86 years"	"86"	"Pneumonitis due to food and vomit"	"J69.0"	10	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"86 years"	"86"	"COVID-19"	"U07.1"	16	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"86 years"	"86"	"Other fall on same level"	"W18"	16	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"87 years"	"87"	"Septicaemia, unspecified"	"A41.9"	13	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"87 years"	"87"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	12	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"87 years"	"87"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	14	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"87 years"	"87"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	34	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"87 years"	"87"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	18	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"87 years"	"87"	"Malignant neoplasm without specification of site"	"C80"	17	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"87 years"	"87"	"Vascular dementia, unspecified"	"F01.9"	19	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"87 years"	"87"	"Unspecified dementia"	"F03"	130	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"87 years"	"87"	"Parkinson disease"	"G20"	22	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"87 years"	"87"	"Alzheimer disease, unspecified"	"G30.9"	80	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"87 years"	"87"	"Acute myocardial infarction, unspecified"	"I21.9"	18	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"87 years"	"87"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	19	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"87 years"	"87"	"Atherosclerotic heart disease"	"I25.1"	45	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"87 years"	"87"	"Aortic (valve) stenosis"	"I35.0"	12	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"87 years"	"87"	"Atrial fibrillation and flutter"	"I48"	26	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"87 years"	"87"	"Congestive heart failure"	"I50.0"	42	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"87 years"	"87"	"Heart failure, unspecified"	"I50.9"	12	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"87 years"	"87"	"Cardiovascular disease, unspecified"	"I51.6"	11	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"87 years"	"87"	"Stroke, not specified as haemorrhage or infarction"	"I64"	31	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"87 years"	"87"	"Pneumonia, unspecified"	"J18.9"	23	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"87 years"	"87"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	51	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"87 years"	"87"	"Chronic renal failure, unspecified"	"N18.9"	11	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"87 years"	"87"	"COVID-19"	"U07.1"	22	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"87 years"	"87"	"Other fall on same level"	"W18"	15	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"87 years"	"87"	"Unspecified fall"	"W19"	13	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"88 years"	"88"	"Septicaemia, unspecified"	"A41.9"	10	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"88 years"	"88"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	22	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"88 years"	"88"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	13	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"88 years"	"88"	"Vascular dementia, unspecified"	"F01.9"	14	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"88 years"	"88"	"Unspecified dementia"	"F03"	150	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"88 years"	"88"	"Parkinson disease"	"G20"	15	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"88 years"	"88"	"Alzheimer disease, unspecified"	"G30.9"	90	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"88 years"	"88"	"Acute myocardial infarction, unspecified"	"I21.9"	23	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"88 years"	"88"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	14	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"88 years"	"88"	"Atherosclerotic heart disease"	"I25.1"	49	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"88 years"	"88"	"Other secondary pulmonary hypertension"	"I27.2"	10	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"88 years"	"88"	"Aortic (valve) stenosis"	"I35.0"	10	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"88 years"	"88"	"Atrial fibrillation and flutter"	"I48"	30	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"88 years"	"88"	"Congestive heart failure"	"I50.0"	48	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"88 years"	"88"	"Stroke, not specified as haemorrhage or infarction"	"I64"	31	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"88 years"	"88"	"Pneumonia, unspecified"	"J18.9"	14	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"88 years"	"88"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	14	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"88 years"	"88"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	42	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"88 years"	"88"	"Pneumonitis due to food and vomit"	"J69.0"	13	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"88 years"	"88"	"COVID-19"	"U07.1"	20	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"88 years"	"88"	"Other fall on same level"	"W18"	21	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"88 years"	"88"	"Unspecified fall"	"W19"	10	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"89 years"	"89"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	12	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"89 years"	"89"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	19	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"89 years"	"89"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	15	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"89 years"	"89"	"Vascular dementia, unspecified"	"F01.9"	10	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"89 years"	"89"	"Unspecified dementia"	"F03"	163	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"89 years"	"89"	"Parkinson disease"	"G20"	19	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"89 years"	"89"	"Alzheimer disease, unspecified"	"G30.9"	85	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"89 years"	"89"	"Hypertensive heart disease with (congestive) heart failure"	"I11.0"	11	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"89 years"	"89"	"Acute myocardial infarction, unspecified"	"I21.9"	20	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"89 years"	"89"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	21	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"89 years"	"89"	"Atherosclerotic heart disease"	"I25.1"	65	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"89 years"	"89"	"Aortic (valve) stenosis"	"I35.0"	17	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"89 years"	"89"	"Atrial fibrillation and flutter"	"I48"	25	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"89 years"	"89"	"Congestive heart failure"	"I50.0"	45	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"89 years"	"89"	"Heart failure, unspecified"	"I50.9"	10	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"89 years"	"89"	"Stroke, not specified as haemorrhage or infarction"	"I64"	33	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"89 years"	"89"	"Pneumonia, unspecified"	"J18.9"	15	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"89 years"	"89"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	48	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"89 years"	"89"	"Urinary tract infection, site not specified"	"N39.0"	10	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"89 years"	"89"	"COVID-19"	"U07.1"	18	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"89 years"	"89"	"Other fall on same level"	"W18"	18	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"90 years"	"90"	"Septicaemia, unspecified"	"A41.9"	10	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"90 years"	"90"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	12	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"90 years"	"90"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	13	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"90 years"	"90"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	20	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"90 years"	"90"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	10	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"90 years"	"90"	"Malignant neoplasm without specification of site"	"C80"	14	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"90 years"	"90"	"Vascular dementia, unspecified"	"F01.9"	14	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"90 years"	"90"	"Unspecified dementia"	"F03"	139	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"90 years"	"90"	"Parkinson disease"	"G20"	15	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"90 years"	"90"	"Alzheimer disease, unspecified"	"G30.9"	80	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"90 years"	"90"	"Hypertensive heart disease with (congestive) heart failure"	"I11.0"	13	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"90 years"	"90"	"Acute myocardial infarction, unspecified"	"I21.9"	25	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"90 years"	"90"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	21	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"90 years"	"90"	"Atherosclerotic heart disease"	"I25.1"	57	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"90 years"	"90"	"Aortic (valve) stenosis"	"I35.0"	22	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"90 years"	"90"	"Atrial fibrillation and flutter"	"I48"	17	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"90 years"	"90"	"Congestive heart failure"	"I50.0"	55	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"90 years"	"90"	"Cardiovascular disease, unspecified"	"I51.6"	13	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"90 years"	"90"	"Stroke, not specified as haemorrhage or infarction"	"I64"	43	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"90 years"	"90"	"Pneumonia, unspecified"	"J18.9"	25	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"90 years"	"90"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	36	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"90 years"	"90"	"Urinary tract infection, site not specified"	"N39.0"	13	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"90 years"	"90"	"Senility"	"R54"	10	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"90 years"	"90"	"COVID-19"	"U07.1"	13	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"90 years"	"90"	"Other fall on same level"	"W18"	24	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"90 years"	"90"	"Unspecified fall"	"W19"	17	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"91 years"	"91"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	18	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"91 years"	"91"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	14	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"91 years"	"91"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	11	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"91 years"	"91"	"Malignant neoplasm without specification of site"	"C80"	15	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"91 years"	"91"	"Vascular dementia, unspecified"	"F01.9"	19	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"91 years"	"91"	"Unspecified dementia"	"F03"	194	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"91 years"	"91"	"Parkinson disease"	"G20"	10	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"91 years"	"91"	"Alzheimer disease, unspecified"	"G30.9"	78	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"91 years"	"91"	"Hypertensive heart disease with (congestive) heart failure"	"I11.0"	10	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"91 years"	"91"	"Acute myocardial infarction, unspecified"	"I21.9"	23	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"91 years"	"91"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	16	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"91 years"	"91"	"Atherosclerotic heart disease"	"I25.1"	66	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"91 years"	"91"	"Aortic (valve) stenosis"	"I35.0"	12	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"91 years"	"91"	"Atrial fibrillation and flutter"	"I48"	26	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"91 years"	"91"	"Congestive heart failure"	"I50.0"	60	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"91 years"	"91"	"Cardiovascular disease, unspecified"	"I51.6"	10	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"91 years"	"91"	"Stroke, not specified as haemorrhage or infarction"	"I64"	34	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"91 years"	"91"	"Pneumonia, unspecified"	"J18.9"	23	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"91 years"	"91"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	35	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"91 years"	"91"	"COVID-19"	"U07.1"	19	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"91 years"	"91"	"Other fall on same level"	"W18"	13	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"92 years"	"92"	"Septicaemia, unspecified"	"A41.9"	10	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"92 years"	"92"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	10	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"92 years"	"92"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	10	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"92 years"	"92"	"Vascular dementia, unspecified"	"F01.9"	27	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"92 years"	"92"	"Unspecified dementia"	"F03"	180	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"92 years"	"92"	"Parkinson disease"	"G20"	16	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"92 years"	"92"	"Alzheimer disease, unspecified"	"G30.9"	69	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"92 years"	"92"	"Hypertensive heart disease with (congestive) heart failure"	"I11.0"	10	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"92 years"	"92"	"Acute myocardial infarction, unspecified"	"I21.9"	19	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"92 years"	"92"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	18	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"92 years"	"92"	"Atherosclerotic heart disease"	"I25.1"	69	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"92 years"	"92"	"Aortic (valve) stenosis"	"I35.0"	23	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"92 years"	"92"	"Atrial fibrillation and flutter"	"I48"	40	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"92 years"	"92"	"Congestive heart failure"	"I50.0"	38	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"92 years"	"92"	"Heart failure, unspecified"	"I50.9"	13	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"92 years"	"92"	"Cardiovascular disease, unspecified"	"I51.6"	14	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"92 years"	"92"	"Stroke, not specified as haemorrhage or infarction"	"I64"	29	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"92 years"	"92"	"Sequelae of other and unspecified cerebrovascular diseases"	"I69.8"	10	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"92 years"	"92"	"Pneumonia, unspecified"	"J18.9"	10	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"92 years"	"92"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	32	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"92 years"	"92"	"COVID-19"	"U07.1"	12	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"92 years"	"92"	"Other fall on same level"	"W18"	27	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"93 years"	"93"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	12	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"93 years"	"93"	"Vascular dementia, unspecified"	"F01.9"	22	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"93 years"	"93"	"Unspecified dementia"	"F03"	159	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"93 years"	"93"	"Alzheimer disease, unspecified"	"G30.9"	64	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"93 years"	"93"	"Essential (primary) hypertension"	"I10"	14	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"93 years"	"93"	"Hypertensive heart disease with (congestive) heart failure"	"I11.0"	12	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"93 years"	"93"	"Acute myocardial infarction, unspecified"	"I21.9"	24	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"93 years"	"93"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	14	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"93 years"	"93"	"Atherosclerotic heart disease"	"I25.1"	52	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"93 years"	"93"	"Aortic (valve) stenosis"	"I35.0"	22	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"93 years"	"93"	"Cardiac arrest, unspecified"	"I46.9"	10	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"93 years"	"93"	"Atrial fibrillation and flutter"	"I48"	28	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"93 years"	"93"	"Congestive heart failure"	"I50.0"	51	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"93 years"	"93"	"Cardiovascular disease, unspecified"	"I51.6"	13	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"93 years"	"93"	"Stroke, not specified as haemorrhage or infarction"	"I64"	37	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"93 years"	"93"	"Pneumonia, unspecified"	"J18.9"	15	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"93 years"	"93"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	22	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"93 years"	"93"	"Pneumonitis due to food and vomit"	"J69.0"	11	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"93 years"	"93"	"COVID-19"	"U07.1"	19	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"93 years"	"93"	"Other fall on same level"	"W18"	12	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"93 years"	"93"	"Unspecified fall"	"W19"	11	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"94 years"	"94"	"Vascular dementia, unspecified"	"F01.9"	15	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"94 years"	"94"	"Unspecified dementia"	"F03"	150	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"94 years"	"94"	"Alzheimer disease, unspecified"	"G30.9"	62	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"94 years"	"94"	"Acute myocardial infarction, unspecified"	"I21.9"	17	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"94 years"	"94"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	13	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"94 years"	"94"	"Atherosclerotic heart disease"	"I25.1"	69	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"94 years"	"94"	"Aortic (valve) stenosis"	"I35.0"	18	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"94 years"	"94"	"Atrial fibrillation and flutter"	"I48"	19	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"94 years"	"94"	"Congestive heart failure"	"I50.0"	49	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"94 years"	"94"	"Stroke, not specified as haemorrhage or infarction"	"I64"	33	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"94 years"	"94"	"Pneumonia, unspecified"	"J18.9"	21	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"94 years"	"94"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	11	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"94 years"	"94"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	21	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"94 years"	"94"	"COVID-19"	"U07.1"	12	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"94 years"	"94"	"Other fall on same level"	"W18"	13	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"94 years"	"94"	"Unspecified fall"	"W19"	12	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"95 years"	"95"	"Vascular dementia, unspecified"	"F01.9"	14	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"95 years"	"95"	"Unspecified dementia"	"F03"	119	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"95 years"	"95"	"Alzheimer disease, unspecified"	"G30.9"	69	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"95 years"	"95"	"Acute myocardial infarction, unspecified"	"I21.9"	11	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"95 years"	"95"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	14	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"95 years"	"95"	"Atherosclerotic heart disease"	"I25.1"	40	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"95 years"	"95"	"Aortic (valve) stenosis"	"I35.0"	12	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"95 years"	"95"	"Atrial fibrillation and flutter"	"I48"	26	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"95 years"	"95"	"Congestive heart failure"	"I50.0"	50	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"95 years"	"95"	"Heart failure, unspecified"	"I50.9"	12	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"95 years"	"95"	"Cardiovascular disease, unspecified"	"I51.6"	14	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"95 years"	"95"	"Stroke, not specified as haemorrhage or infarction"	"I64"	23	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"95 years"	"95"	"Pneumonia, unspecified"	"J18.9"	15	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"95 years"	"95"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	21	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"95 years"	"95"	"COVID-19"	"U07.1"	13	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"95 years"	"95"	"Other fall on same level"	"W18"	14	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"96 years"	"96"	"Unspecified dementia"	"F03"	117	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"96 years"	"96"	"Alzheimer disease, unspecified"	"G30.9"	46	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"96 years"	"96"	"Essential (primary) hypertension"	"I10"	13	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"96 years"	"96"	"Hypertensive heart disease with (congestive) heart failure"	"I11.0"	12	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"96 years"	"96"	"Acute myocardial infarction, unspecified"	"I21.9"	18	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"96 years"	"96"	"Atherosclerotic heart disease"	"I25.1"	41	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"96 years"	"96"	"Atrial fibrillation and flutter"	"I48"	24	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"96 years"	"96"	"Congestive heart failure"	"I50.0"	38	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"96 years"	"96"	"Stroke, not specified as haemorrhage or infarction"	"I64"	16	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"96 years"	"96"	"Pneumonia, unspecified"	"J18.9"	13	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"96 years"	"96"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	14	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"96 years"	"96"	"Other fall on same level"	"W18"	13	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"97 years"	"97"	"Unspecified dementia"	"F03"	83	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"97 years"	"97"	"Alzheimer disease, unspecified"	"G30.9"	52	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"97 years"	"97"	"Acute myocardial infarction, unspecified"	"I21.9"	12	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"97 years"	"97"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	10	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"97 years"	"97"	"Atherosclerotic heart disease"	"I25.1"	35	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"97 years"	"97"	"Aortic (valve) stenosis"	"I35.0"	13	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"97 years"	"97"	"Atrial fibrillation and flutter"	"I48"	15	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"97 years"	"97"	"Congestive heart failure"	"I50.0"	29	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"97 years"	"97"	"Stroke, not specified as haemorrhage or infarction"	"I64"	17	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"97 years"	"97"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	20	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"97 years"	"97"	"Senility"	"R54"	12	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"97 years"	"97"	"COVID-19"	"U07.1"	15	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"98 years"	"98"	"Unspecified dementia"	"F03"	75	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"98 years"	"98"	"Alzheimer disease, unspecified"	"G30.9"	34	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"98 years"	"98"	"Acute myocardial infarction, unspecified"	"I21.9"	13	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"98 years"	"98"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	14	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"98 years"	"98"	"Atherosclerotic heart disease"	"I25.1"	25	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"98 years"	"98"	"Congestive heart failure"	"I50.0"	28	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"98 years"	"98"	"Stroke, not specified as haemorrhage or infarction"	"I64"	13	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"99 years"	"99"	"Unspecified dementia"	"F03"	58	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"99 years"	"99"	"Alzheimer disease, unspecified"	"G30.9"	26	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"99 years"	"99"	"Atherosclerotic heart disease"	"I25.1"	24	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"99 years"	"99"	"Congestive heart failure"	"I50.0"	18	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"99 years"	"99"	"Stroke, not specified as haemorrhage or infarction"	"I64"	11	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"99 years"	"99"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	11	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"100+ years"	"100"	"Vascular dementia, unspecified"	"F01.9"	12	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"100+ years"	"100"	"Unspecified dementia"	"F03"	114	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"100+ years"	"100"	"Alzheimer disease, unspecified"	"G30.9"	30	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"100+ years"	"100"	"Essential (primary) hypertension"	"I10"	13	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"100+ years"	"100"	"Acute myocardial infarction, unspecified"	"I21.9"	12	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"100+ years"	"100"	"Atherosclerotic heart disease"	"I25.1"	54	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"100+ years"	"100"	"Aortic (valve) stenosis"	"I35.0"	12	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"100+ years"	"100"	"Atrial fibrillation and flutter"	"I48"	11	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"100+ years"	"100"	"Congestive heart failure"	"I50.0"	26	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"100+ years"	"100"	"Cardiovascular disease, unspecified"	"I51.6"	13	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"100+ years"	"100"	"Stroke, not specified as haemorrhage or infarction"	"I64"	18	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"100+ years"	"100"	"Pneumonia, unspecified"	"J18.9"	14	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"100+ years"	"100"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	10	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"100+ years"	"100"	"Senility"	"R54"	22	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"100+ years"	"100"	"Other fall on same level"	"W18"	10	Not Applicable	Not Applicable
+"---"
+"Dataset: Underlying Cause of Death, 1999-2020"
+"Query Parameters:"
+"Title: New Hampshire CoD F"
+"Gender: Female"
+"States: New Hampshire (33)"
+"Year/Month: 2016; 2017; 2018; 2019; 2020"
+"Group By: State; Single-Year Ages; Cause of death"
+"Show Totals: Disabled"
+"Show Zero Values: Disabled"
+"Show Suppressed: False"
+"Calculate Rates Per: 100,000"
+"Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/ucd.html for more information."
+"---"
+"Query Date: Apr 11, 2022 2:17:46 AM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. Underlying Cause of Death"
+"1999-2020 on CDC WONDER Online Database, released in 2021. Data are from the Multiple Cause of Death Files, 1999-2020, as"
+"compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative Program. Accessed"
+"at http://wonder.cdc.gov/ucd-icd10.html on Apr 11, 2022 2:17:46 AM"
+"---"
+Messages:
+"1. The full results are too long to be displayed. Due to suppression constraints rows that are zero, suppressed or a total will"
+"not be available."
+"---"
+Caveats:
+"1. Population and rates are labeled 'Not Applicable' when they include a subset of ages 85-100+ because populations are not"
+"available for those ages. More information: http://wonder.cdc.gov/wonder/help/ucd.html#Ages 85-100."
+"2. Death rates are flagged as Unreliable when the rate is calculated with a numerator of 20 or less. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Unreliable."
+"3. Deaths of persons with Age ""Not Stated"" are included in ""All"" counts and rates, but are not distributed among age groups,"
+"so are not included in age-specific counts, age-specific rates or in any age-adjusted rates. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Not Stated."
+"4. The population figures for year 2020 are bridged-race estimates of the July 1 resident population, from the Vintage 2020"
+"postcensal series released by NCHS on September 22, 2021. The population figures for year 2019 are bridged-race estimates of the"
+"July 1 resident population, from the Vintage 2019 postcensal series released by NCHS on July 9, 2020. The population figures for"
+"year 2018 are bridged-race estimates of the July 1 resident population, from the Vintage 2018 postcensal series released by NCHS"
+"on June 25, 2019. The population figures for year 2017 are bridged-race estimates of the July 1 resident population, from the"
+"Vintage 2017 postcensal series released by NCHS on June 27, 2018. The population figures for year 2016 are bridged-race"
+"estimates of the July 1 resident population, from the Vintage 2016 postcensal series released by NCHS on June 26, 2017. The"
+"population figures for year 2015 are bridged-race estimates of the July 1 resident population, from the Vintage 2015 postcensal"
+"series released by NCHS on June 28, 2016. The population figures for year 2014 are bridged-race estimates of the July 1 resident"
+"population, from the Vintage 2014 postcensal series released by NCHS on June 30, 2015. The population figures for year 2013 are"
+"bridged-race estimates of the July 1 resident population, from the Vintage 2013 postcensal series released by NCHS on June 26,"
+"2014. The population figures for year 2012 are bridged-race estimates of the July 1 resident population, from the Vintage 2012"
+"postcensal series released by NCHS on June 13, 2013. The population figures for year 2011 are bridged-race estimates of the July"
+"1 resident population, from the Vintage 2011 postcensal series released by NCHS on July 18, 2012. Population figures for 2010"
+"are April 1 Census counts. The population figures for years 2001 - 2009 are bridged-race estimates of the July 1 resident"
+"population, from the revised intercensal county-level 2000 - 2009 series released by NCHS on October 26, 2012. Population"
+"figures for 2000 are April 1 Census counts. Population figures for 1999 are from the 1990-1999 intercensal series of July 1"
+"estimates. Population figures for the infant age groups are the number of live births. <br/><b>Note:</b> Rates and population"
+"figures for years 2001 - 2009 differ slightly from previously published reports, due to use of the population estimates which"
+"were available at the time of release."
+"5. The population figures used in the calculation of death rates for the age group 'under 1 year' are the estimates of the"
+"resident population that is under one year of age. More information: http://wonder.cdc.gov/wonder/help/ucd.html#Age Group."
+"6. Beginning with the 2018 data, changes have been implemented that affect the counts for ICD-10 cause of death codes O00-O99"
+"compared to previous practice. In addition, data for the cause of death codes O00-O99 for 2003 through 2017 reflect differences"
+"in information available to individual states and probable errors. Caution should be used in interpreting these data. More"
+"information can be found at: https://www.cdc.gov/nchs/maternal-mortality/."
+"7. On March 11, 2021, the 2019 mortality data on CDC WONDER was updated with the 2019 mortality data updated by NCHS on March 4,"
+"2021 to include corrected information for residents of Texas affecting 5 records previously coded to cause code *U01.4,"
+"Terrorism involving firearms (homicide). The underlying and multiple cause of death codes for 5 records were corrected in the"
+"2019 data. Underlying and multiple cause of death codes for those 5 records were recoded to Assault (homicide) by other and"
+"unspecified firearm discharge, ICD-10 code X95. The corrected final death records replaces the data released on December 22,"
+"2020."
+"8. Changes to cause of death classification affect reporting trends. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#ICD-10 Changes."

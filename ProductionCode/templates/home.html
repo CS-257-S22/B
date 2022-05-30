@@ -1,0 +1,36 @@
+<html>
+    <head>
+        <title>Predictor of Passing</title>
+        <link rel="stylesheet" href="../static/datastyle.css">
+    </head>
+
+    <body>
+        <div id = 'header'> 
+            <h1>Predictor of Passing</h1>
+            <nav>
+                <ul>
+                    <li><a href="/home">Home</a></li>
+                    <li><a href="/dp">Deaths Per</a></li>
+                    <li><a href="/lc">Leading Cause</a></li>
+                    <!-- Not yet implemented -->
+                    <!--<li><a href="/wwid">When Will I Die?</a></li>-->
+                  </ul> 
+            </nav>
+        </div>
+        
+        <div id = "welcome">
+            <h2> Here's a macabre fact! </h2>
+            <p> {{fact}}</p>
+            <button id = "new_fact"> 
+                <a href = "/home">Another fact!</a>
+            </button> 
+        </div>
+
+        <div id = "ux">
+            <h2> Want more ways to interact with the death data? </h2>
+            <p> Use the navigation bar above to locate: </p>
+            <li> Leading Cause: find the leading cause of death based on a gender, age and/or state </li>
+            <li> Deaths Per: find the total number of deaths based on a cause, gender, age and/or state </li>
+        </div>
+    </body>
+</html>

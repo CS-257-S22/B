@@ -1,0 +1,161 @@
+"Notes"	"State"	"State Code"	"Single-Year Ages"	"Single-Year Ages Code"	Deaths	Population	Crude Rate
+	"Nevada"	"32"	"< 1 year"	"0"	555	92337	601.1
+	"Nevada"	"32"	"1 year"	"1"	53	93438	56.7
+	"Nevada"	"32"	"2 years"	"2"	26	95022	27.4
+	"Nevada"	"32"	"3 years"	"3"	20	96295	20.8
+	"Nevada"	"32"	"4 years"	"4"	14	96844	Unreliable
+	"Nevada"	"32"	"5 years"	"5"	13	97294	Unreliable
+	"Nevada"	"32"	"7 years"	"7"	14	98200	Unreliable
+	"Nevada"	"32"	"8 years"	"8"	15	99394	Unreliable
+	"Nevada"	"32"	"9 years"	"9"	17	100163	Unreliable
+	"Nevada"	"32"	"10 years"	"10"	11	100660	Unreliable
+	"Nevada"	"32"	"12 years"	"12"	20	100461	19.9
+	"Nevada"	"32"	"13 years"	"13"	21	99194	21.2
+	"Nevada"	"32"	"14 years"	"14"	34	98080	34.7
+	"Nevada"	"32"	"15 years"	"15"	39	98173	39.7
+	"Nevada"	"32"	"16 years"	"16"	52	98459	52.8
+	"Nevada"	"32"	"17 years"	"17"	72	97887	73.6
+	"Nevada"	"32"	"18 years"	"18"	106	90325	117.4
+	"Nevada"	"32"	"19 years"	"19"	110	82558	133.2
+	"Nevada"	"32"	"20 years"	"20"	119	85107	139.8
+	"Nevada"	"32"	"21 years"	"21"	143	89187	160.3
+	"Nevada"	"32"	"22 years"	"22"	122	93296	130.8
+	"Nevada"	"32"	"23 years"	"23"	162	98980	163.7
+	"Nevada"	"32"	"24 years"	"24"	160	103838	154.1
+	"Nevada"	"32"	"25 years"	"25"	167	109335	152.7
+	"Nevada"	"32"	"26 years"	"26"	177	114492	154.6
+	"Nevada"	"32"	"27 years"	"27"	182	117307	155.1
+	"Nevada"	"32"	"28 years"	"28"	166	117548	141.2
+	"Nevada"	"32"	"29 years"	"29"	181	117249	154.4
+	"Nevada"	"32"	"30 years"	"30"	176	115382	152.5
+	"Nevada"	"32"	"31 years"	"31"	186	113003	164.6
+	"Nevada"	"32"	"32 years"	"32"	202	111813	180.7
+	"Nevada"	"32"	"33 years"	"33"	226	110974	203.7
+	"Nevada"	"32"	"34 years"	"34"	231	109702	210.6
+	"Nevada"	"32"	"35 years"	"35"	213	108650	196.0
+	"Nevada"	"32"	"36 years"	"36"	231	108314	213.3
+	"Nevada"	"32"	"37 years"	"37"	228	107060	213.0
+	"Nevada"	"32"	"38 years"	"38"	250	104915	238.3
+	"Nevada"	"32"	"39 years"	"39"	269	103347	260.3
+	"Nevada"	"32"	"40 years"	"40"	284	101093	280.9
+	"Nevada"	"32"	"41 years"	"41"	265	97803	271.0
+	"Nevada"	"32"	"42 years"	"42"	282	96862	291.1
+	"Nevada"	"32"	"43 years"	"43"	308	96183	320.2
+	"Nevada"	"32"	"44 years"	"44"	332	96702	343.3
+	"Nevada"	"32"	"45 years"	"45"	345	98896	348.9
+	"Nevada"	"32"	"46 years"	"46"	412	100390	410.4
+	"Nevada"	"32"	"47 years"	"47"	434	101840	426.2
+	"Nevada"	"32"	"48 years"	"48"	495	102265	484.0
+	"Nevada"	"32"	"49 years"	"49"	520	101672	511.4
+	"Nevada"	"32"	"50 years"	"50"	587	100414	584.6
+	"Nevada"	"32"	"51 years"	"51"	551	98053	561.9
+	"Nevada"	"32"	"52 years"	"52"	671	98497	681.2
+	"Nevada"	"32"	"53 years"	"53"	729	99041	736.1
+	"Nevada"	"32"	"54 years"	"54"	805	99176	811.7
+	"Nevada"	"32"	"55 years"	"55"	875	99501	879.4
+	"Nevada"	"32"	"56 years"	"56"	924	98639	936.7
+	"Nevada"	"32"	"57 years"	"57"	1001	97495	1026.7
+	"Nevada"	"32"	"58 years"	"58"	1026	96051	1068.2
+	"Nevada"	"32"	"59 years"	"59"	1098	94654	1160.0
+	"Nevada"	"32"	"60 years"	"60"	1178	93115	1265.1
+	"Nevada"	"32"	"61 years"	"61"	1233	90208	1366.8
+	"Nevada"	"32"	"62 years"	"62"	1336	88563	1508.5
+	"Nevada"	"32"	"63 years"	"63"	1387	86262	1607.9
+	"Nevada"	"32"	"64 years"	"64"	1445	83585	1728.8
+	"Nevada"	"32"	"65 years"	"65"	1498	81205	1844.7
+	"Nevada"	"32"	"66 years"	"66"	1496	78816	1898.1
+	"Nevada"	"32"	"67 years"	"67"	1621	77204	2099.6
+	"Nevada"	"32"	"68 years"	"68"	1690	75954	2225.0
+	"Nevada"	"32"	"69 years"	"69"	1813	75744	2393.6
+	"Nevada"	"32"	"70 years"	"70"	1835	72252	2539.7
+	"Nevada"	"32"	"71 years"	"71"	1906	67760	2812.9
+	"Nevada"	"32"	"72 years"	"72"	1896	64228	2952.0
+	"Nevada"	"32"	"73 years"	"73"	1991	59846	3326.9
+	"Nevada"	"32"	"74 years"	"74"	1875	53518	3503.5
+	"Nevada"	"32"	"75 years"	"75"	1980	50007	3959.4
+	"Nevada"	"32"	"76 years"	"76"	1954	46369	4214.0
+	"Nevada"	"32"	"77 years"	"77"	1920	42324	4536.4
+	"Nevada"	"32"	"78 years"	"78"	1864	37738	4939.3
+	"Nevada"	"32"	"79 years"	"79"	1838	33917	5419.1
+	"Nevada"	"32"	"80 years"	"80"	1804	30715	5873.4
+	"Nevada"	"32"	"81 years"	"81"	1788	27100	6597.8
+	"Nevada"	"32"	"82 years"	"82"	1763	24014	7341.6
+	"Nevada"	"32"	"83 years"	"83"	1651	20913	7894.6
+	"Nevada"	"32"	"84 years"	"84"	1584	18573	8528.5
+	"Nevada"	"32"	"85 years"	"85"	1608	Not Applicable	Not Applicable
+	"Nevada"	"32"	"86 years"	"86"	1570	Not Applicable	Not Applicable
+	"Nevada"	"32"	"87 years"	"87"	1427	Not Applicable	Not Applicable
+	"Nevada"	"32"	"88 years"	"88"	1355	Not Applicable	Not Applicable
+	"Nevada"	"32"	"89 years"	"89"	1250	Not Applicable	Not Applicable
+	"Nevada"	"32"	"90 years"	"90"	1170	Not Applicable	Not Applicable
+	"Nevada"	"32"	"91 years"	"91"	953	Not Applicable	Not Applicable
+	"Nevada"	"32"	"92 years"	"92"	832	Not Applicable	Not Applicable
+	"Nevada"	"32"	"93 years"	"93"	721	Not Applicable	Not Applicable
+	"Nevada"	"32"	"94 years"	"94"	583	Not Applicable	Not Applicable
+	"Nevada"	"32"	"95 years"	"95"	407	Not Applicable	Not Applicable
+	"Nevada"	"32"	"96 years"	"96"	304	Not Applicable	Not Applicable
+	"Nevada"	"32"	"97 years"	"97"	229	Not Applicable	Not Applicable
+	"Nevada"	"32"	"98 years"	"98"	165	Not Applicable	Not Applicable
+	"Nevada"	"32"	"99 years"	"99"	108	Not Applicable	Not Applicable
+	"Nevada"	"32"	"100+ years"	"100"	170	Not Applicable	Not Applicable
+"Total"	"Nevada"	"32"			72146	7616768	947.2
+"Total"					72146	7616768	947.2
+"---"
+"Dataset: Underlying Cause of Death, 1999-2020"
+"Query Parameters:"
+"Title: Nevada General M"
+"Gender: Male"
+"States: Nevada (32)"
+"Year/Month: 2016; 2017; 2018; 2019; 2020"
+"Group By: State; Single-Year Ages"
+"Show Totals: True"
+"Show Zero Values: False"
+"Show Suppressed: False"
+"Calculate Rates Per: 100,000"
+"Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/ucd.html for more information."
+"---"
+"Query Date: Apr 11, 2022 1:43:26 AM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. Underlying Cause of Death"
+"1999-2020 on CDC WONDER Online Database, released in 2021. Data are from the Multiple Cause of Death Files, 1999-2020, as"
+"compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative Program. Accessed"
+"at http://wonder.cdc.gov/ucd-icd10.html on Apr 11, 2022 1:43:26 AM"
+"---"
+Messages:
+"1. Rows with suppressed Deaths are hidden, but the Deaths and Population values in those rows are included in the totals. Use"
+"Quick Options above to show suppressed rows."
+"---"
+Caveats:
+"1. Population and rates are labeled 'Not Applicable' when they include a subset of ages 85-100+ because populations are not"
+"available for those ages. More information: http://wonder.cdc.gov/wonder/help/ucd.html#Ages 85-100."
+"2. Data are Suppressed when the data meet the criteria for confidentiality constraints. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Assurance of Confidentiality."
+"3. Death rates are flagged as Unreliable when the rate is calculated with a numerator of 20 or less. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Unreliable."
+"4. Deaths of persons with Age ""Not Stated"" are included in ""All"" counts and rates, but are not distributed among age groups,"
+"so are not included in age-specific counts, age-specific rates or in any age-adjusted rates. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Not Stated."
+"5. The population figures for year 2020 are bridged-race estimates of the July 1 resident population, from the Vintage 2020"
+"postcensal series released by NCHS on September 22, 2021. The population figures for year 2019 are bridged-race estimates of the"
+"July 1 resident population, from the Vintage 2019 postcensal series released by NCHS on July 9, 2020. The population figures for"
+"year 2018 are bridged-race estimates of the July 1 resident population, from the Vintage 2018 postcensal series released by NCHS"
+"on June 25, 2019. The population figures for year 2017 are bridged-race estimates of the July 1 resident population, from the"
+"Vintage 2017 postcensal series released by NCHS on June 27, 2018. The population figures for year 2016 are bridged-race"
+"estimates of the July 1 resident population, from the Vintage 2016 postcensal series released by NCHS on June 26, 2017. The"
+"population figures for year 2015 are bridged-race estimates of the July 1 resident population, from the Vintage 2015 postcensal"
+"series released by NCHS on June 28, 2016. The population figures for year 2014 are bridged-race estimates of the July 1 resident"
+"population, from the Vintage 2014 postcensal series released by NCHS on June 30, 2015. The population figures for year 2013 are"
+"bridged-race estimates of the July 1 resident population, from the Vintage 2013 postcensal series released by NCHS on June 26,"
+"2014. The population figures for year 2012 are bridged-race estimates of the July 1 resident population, from the Vintage 2012"
+"postcensal series released by NCHS on June 13, 2013. The population figures for year 2011 are bridged-race estimates of the July"
+"1 resident population, from the Vintage 2011 postcensal series released by NCHS on July 18, 2012. Population figures for 2010"
+"are April 1 Census counts. The population figures for years 2001 - 2009 are bridged-race estimates of the July 1 resident"
+"population, from the revised intercensal county-level 2000 - 2009 series released by NCHS on October 26, 2012. Population"
+"figures for 2000 are April 1 Census counts. Population figures for 1999 are from the 1990-1999 intercensal series of July 1"
+"estimates. Population figures for the infant age groups are the number of live births. <br/><b>Note:</b> Rates and population"
+"figures for years 2001 - 2009 differ slightly from previously published reports, due to use of the population estimates which"
+"were available at the time of release."
+"6. The population figures used in the calculation of death rates for the age group 'under 1 year' are the estimates of the"
+"resident population that is under one year of age. More information: http://wonder.cdc.gov/wonder/help/ucd.html#Age Group."

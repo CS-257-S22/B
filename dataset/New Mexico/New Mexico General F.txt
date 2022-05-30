@@ -1,0 +1,157 @@
+"Notes"	"State"	"State Code"	"Single-Year Ages"	"Single-Year Ages Code"	Deaths	Population	Crude Rate
+	"New Mexico"	"35"	"< 1 year"	"0"	300	58350	514.1
+	"New Mexico"	"35"	"1 year"	"1"	32	59432	53.8
+	"New Mexico"	"35"	"2 years"	"2"	19	60505	Unreliable
+	"New Mexico"	"35"	"3 years"	"3"	10	62031	Unreliable
+	"New Mexico"	"35"	"5 years"	"5"	11	64536	Unreliable
+	"New Mexico"	"35"	"11 years"	"11"	12	68692	Unreliable
+	"New Mexico"	"35"	"12 years"	"12"	17	68920	Unreliable
+	"New Mexico"	"35"	"13 years"	"13"	13	68404	Unreliable
+	"New Mexico"	"35"	"14 years"	"14"	14	68233	Unreliable
+	"New Mexico"	"35"	"15 years"	"15"	17	68083	Unreliable
+	"New Mexico"	"35"	"16 years"	"16"	25	68361	36.6
+	"New Mexico"	"35"	"17 years"	"17"	28	68547	40.8
+	"New Mexico"	"35"	"18 years"	"18"	37	67376	54.9
+	"New Mexico"	"35"	"19 years"	"19"	32	66950	47.8
+	"New Mexico"	"35"	"20 years"	"20"	29	67234	43.1
+	"New Mexico"	"35"	"21 years"	"21"	40	67757	59.0
+	"New Mexico"	"35"	"22 years"	"22"	59	68162	86.6
+	"New Mexico"	"35"	"23 years"	"23"	40	69052	57.9
+	"New Mexico"	"35"	"24 years"	"24"	60	68675	87.4
+	"New Mexico"	"35"	"25 years"	"25"	55	69861	78.7
+	"New Mexico"	"35"	"26 years"	"26"	86	69780	123.2
+	"New Mexico"	"35"	"27 years"	"27"	94	70080	134.1
+	"New Mexico"	"35"	"28 years"	"28"	84	69177	121.4
+	"New Mexico"	"35"	"29 years"	"29"	116	68118	170.3
+	"New Mexico"	"35"	"30 years"	"30"	106	67520	157.0
+	"New Mexico"	"35"	"31 years"	"31"	123	67416	182.4
+	"New Mexico"	"35"	"32 years"	"32"	110	67017	164.1
+	"New Mexico"	"35"	"33 years"	"33"	125	67229	185.9
+	"New Mexico"	"35"	"34 years"	"34"	121	67218	180.0
+	"New Mexico"	"35"	"35 years"	"35"	112	67279	166.5
+	"New Mexico"	"35"	"36 years"	"36"	129	67068	192.3
+	"New Mexico"	"35"	"37 years"	"37"	123	65783	187.0
+	"New Mexico"	"35"	"38 years"	"38"	139	63927	217.4
+	"New Mexico"	"35"	"39 years"	"39"	144	62672	229.8
+	"New Mexico"	"35"	"40 years"	"40"	155	60944	254.3
+	"New Mexico"	"35"	"41 years"	"41"	144	59873	240.5
+	"New Mexico"	"35"	"42 years"	"42"	162	58717	275.9
+	"New Mexico"	"35"	"43 years"	"43"	169	58244	290.2
+	"New Mexico"	"35"	"44 years"	"44"	168	58172	288.8
+	"New Mexico"	"35"	"45 years"	"45"	181	58924	307.2
+	"New Mexico"	"35"	"46 years"	"46"	195	59705	326.6
+	"New Mexico"	"35"	"47 years"	"47"	206	60366	341.3
+	"New Mexico"	"35"	"48 years"	"48"	231	60659	380.8
+	"New Mexico"	"35"	"49 years"	"49"	271	60252	449.8
+	"New Mexico"	"35"	"50 years"	"50"	234	60143	389.1
+	"New Mexico"	"35"	"51 years"	"51"	263	60868	432.1
+	"New Mexico"	"35"	"52 years"	"52"	271	62137	436.1
+	"New Mexico"	"35"	"53 years"	"53"	339	64604	524.7
+	"New Mexico"	"35"	"54 years"	"54"	382	66913	570.9
+	"New Mexico"	"35"	"55 years"	"55"	411	69625	590.3
+	"New Mexico"	"35"	"56 years"	"56"	394	71208	553.3
+	"New Mexico"	"35"	"57 years"	"57"	430	72182	595.7
+	"New Mexico"	"35"	"58 years"	"58"	466	72800	640.1
+	"New Mexico"	"35"	"59 years"	"59"	515	72611	709.3
+	"New Mexico"	"35"	"60 years"	"60"	498	72452	687.4
+	"New Mexico"	"35"	"61 years"	"61"	568	71538	794.0
+	"New Mexico"	"35"	"62 years"	"62"	629	71136	884.2
+	"New Mexico"	"35"	"63 years"	"63"	581	70723	821.5
+	"New Mexico"	"35"	"64 years"	"64"	680	69057	984.7
+	"New Mexico"	"35"	"65 years"	"65"	678	67838	999.4
+	"New Mexico"	"35"	"66 years"	"66"	683	66178	1032.1
+	"New Mexico"	"35"	"67 years"	"67"	738	64520	1143.8
+	"New Mexico"	"35"	"68 years"	"68"	798	62654	1273.7
+	"New Mexico"	"35"	"69 years"	"69"	809	61725	1310.7
+	"New Mexico"	"35"	"70 years"	"70"	890	57877	1537.7
+	"New Mexico"	"35"	"71 years"	"71"	866	54326	1594.1
+	"New Mexico"	"35"	"72 years"	"72"	877	50822	1725.6
+	"New Mexico"	"35"	"73 years"	"73"	928	47265	1963.4
+	"New Mexico"	"35"	"74 years"	"74"	873	42684	2045.3
+	"New Mexico"	"35"	"75 years"	"75"	935	40419	2313.3
+	"New Mexico"	"35"	"76 years"	"76"	940	37613	2499.1
+	"New Mexico"	"35"	"77 years"	"77"	955	34962	2731.5
+	"New Mexico"	"35"	"78 years"	"78"	1017	32085	3169.7
+	"New Mexico"	"35"	"79 years"	"79"	1020	29607	3445.1
+	"New Mexico"	"35"	"80 years"	"80"	1055	27415	3848.3
+	"New Mexico"	"35"	"81 years"	"81"	1150	25666	4480.6
+	"New Mexico"	"35"	"82 years"	"82"	1155	23548	4904.9
+	"New Mexico"	"35"	"83 years"	"83"	1218	21429	5683.9
+	"New Mexico"	"35"	"84 years"	"84"	1269	19954	6359.6
+	"New Mexico"	"35"	"85 years"	"85"	1278	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"86 years"	"86"	1271	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"87 years"	"87"	1326	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"88 years"	"88"	1347	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"89 years"	"89"	1356	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"90 years"	"90"	1290	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"91 years"	"91"	1288	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"92 years"	"92"	1150	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"93 years"	"93"	1027	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"94 years"	"94"	922	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"95 years"	"95"	812	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"96 years"	"96"	724	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"97 years"	"97"	542	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"98 years"	"98"	411	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"99 years"	"99"	292	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"100+ years"	"100"	615	Not Applicable	Not Applicable
+"Total"	"New Mexico"	"35"			45551	5285678	861.8
+"Total"					45551	5285678	861.8
+"---"
+"Dataset: Underlying Cause of Death, 1999-2020"
+"Query Parameters:"
+"Title: New Mexico General F"
+"Gender: Female"
+"States: New Mexico (35)"
+"Year/Month: 2016; 2017; 2018; 2019; 2020"
+"Group By: State; Single-Year Ages"
+"Show Totals: True"
+"Show Zero Values: False"
+"Show Suppressed: False"
+"Calculate Rates Per: 100,000"
+"Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/ucd.html for more information."
+"---"
+"Query Date: Apr 11, 2022 2:29:41 AM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. Underlying Cause of Death"
+"1999-2020 on CDC WONDER Online Database, released in 2021. Data are from the Multiple Cause of Death Files, 1999-2020, as"
+"compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative Program. Accessed"
+"at http://wonder.cdc.gov/ucd-icd10.html on Apr 11, 2022 2:29:41 AM"
+"---"
+Messages:
+"1. Rows with suppressed Deaths are hidden, but the Deaths and Population values in those rows are included in the totals. Use"
+"Quick Options above to show suppressed rows."
+"---"
+Caveats:
+"1. Population and rates are labeled 'Not Applicable' when they include a subset of ages 85-100+ because populations are not"
+"available for those ages. More information: http://wonder.cdc.gov/wonder/help/ucd.html#Ages 85-100."
+"2. Data are Suppressed when the data meet the criteria for confidentiality constraints. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Assurance of Confidentiality."
+"3. Death rates are flagged as Unreliable when the rate is calculated with a numerator of 20 or less. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Unreliable."
+"4. Deaths of persons with Age ""Not Stated"" are included in ""All"" counts and rates, but are not distributed among age groups,"
+"so are not included in age-specific counts, age-specific rates or in any age-adjusted rates. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Not Stated."
+"5. The population figures for year 2020 are bridged-race estimates of the July 1 resident population, from the Vintage 2020"
+"postcensal series released by NCHS on September 22, 2021. The population figures for year 2019 are bridged-race estimates of the"
+"July 1 resident population, from the Vintage 2019 postcensal series released by NCHS on July 9, 2020. The population figures for"
+"year 2018 are bridged-race estimates of the July 1 resident population, from the Vintage 2018 postcensal series released by NCHS"
+"on June 25, 2019. The population figures for year 2017 are bridged-race estimates of the July 1 resident population, from the"
+"Vintage 2017 postcensal series released by NCHS on June 27, 2018. The population figures for year 2016 are bridged-race"
+"estimates of the July 1 resident population, from the Vintage 2016 postcensal series released by NCHS on June 26, 2017. The"
+"population figures for year 2015 are bridged-race estimates of the July 1 resident population, from the Vintage 2015 postcensal"
+"series released by NCHS on June 28, 2016. The population figures for year 2014 are bridged-race estimates of the July 1 resident"
+"population, from the Vintage 2014 postcensal series released by NCHS on June 30, 2015. The population figures for year 2013 are"
+"bridged-race estimates of the July 1 resident population, from the Vintage 2013 postcensal series released by NCHS on June 26,"
+"2014. The population figures for year 2012 are bridged-race estimates of the July 1 resident population, from the Vintage 2012"
+"postcensal series released by NCHS on June 13, 2013. The population figures for year 2011 are bridged-race estimates of the July"
+"1 resident population, from the Vintage 2011 postcensal series released by NCHS on July 18, 2012. Population figures for 2010"
+"are April 1 Census counts. The population figures for years 2001 - 2009 are bridged-race estimates of the July 1 resident"
+"population, from the revised intercensal county-level 2000 - 2009 series released by NCHS on October 26, 2012. Population"
+"figures for 2000 are April 1 Census counts. Population figures for 1999 are from the 1990-1999 intercensal series of July 1"
+"estimates. Population figures for the infant age groups are the number of live births. <br/><b>Note:</b> Rates and population"
+"figures for years 2001 - 2009 differ slightly from previously published reports, due to use of the population estimates which"
+"were available at the time of release."
+"6. The population figures used in the calculation of death rates for the age group 'under 1 year' are the estimates of the"
+"resident population that is under one year of age. More information: http://wonder.cdc.gov/wonder/help/ucd.html#Age Group."

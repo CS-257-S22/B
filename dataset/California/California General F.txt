@@ -1,0 +1,156 @@
+"Notes"	"State"	"State Code"	"Single-Year Ages"	"Single-Year Ages Code"	Deaths	Population	Crude Rate
+	"California"	"06"	"< 1 year"	"0"	4185	1160062	360.8
+	"California"	"06"	"1 year"	"1"	267	1163462	22.9
+	"California"	"06"	"2 years"	"2"	194	1179855	16.4
+	"California"	"06"	"3 years"	"3"	140	1199444	11.7
+	"California"	"06"	"4 years"	"4"	120	1204435	10.0
+	"California"	"06"	"5 years"	"5"	101	1215537	8.3
+	"California"	"06"	"6 years"	"6"	111	1215364	9.1
+	"California"	"06"	"7 years"	"7"	105	1216166	8.6
+	"California"	"06"	"8 years"	"8"	106	1224383	8.7
+	"California"	"06"	"9 years"	"9"	100	1234071	8.1
+	"California"	"06"	"10 years"	"10"	95	1234468	7.7
+	"California"	"06"	"11 years"	"11"	105	1239855	8.5
+	"California"	"06"	"12 years"	"12"	112	1244712	9.0
+	"California"	"06"	"13 years"	"13"	138	1239255	11.1
+	"California"	"06"	"14 years"	"14"	158	1231485	12.8
+	"California"	"06"	"15 years"	"15"	206	1233832	16.7
+	"California"	"06"	"16 years"	"16"	201	1240081	16.2
+	"California"	"06"	"17 years"	"17"	295	1246559	23.7
+	"California"	"06"	"18 years"	"18"	336	1276224	26.3
+	"California"	"06"	"19 years"	"19"	421	1238940	34.0
+	"California"	"06"	"20 years"	"20"	438	1245314	35.2
+	"California"	"06"	"21 years"	"21"	465	1263083	36.8
+	"California"	"06"	"22 years"	"22"	501	1302770	38.5
+	"California"	"06"	"23 years"	"23"	564	1352808	41.7
+	"California"	"06"	"24 years"	"24"	546	1395189	39.1
+	"California"	"06"	"25 years"	"25"	580	1448690	40.0
+	"California"	"06"	"26 years"	"26"	656	1490207	44.0
+	"California"	"06"	"27 years"	"27"	713	1511218	47.2
+	"California"	"06"	"28 years"	"28"	698	1513264	46.1
+	"California"	"06"	"29 years"	"29"	746	1497051	49.8
+	"California"	"06"	"30 years"	"30"	851	1465105	58.1
+	"California"	"06"	"31 years"	"31"	806	1435976	56.1
+	"California"	"06"	"32 years"	"32"	879	1410855	62.3
+	"California"	"06"	"33 years"	"33"	980	1394061	70.3
+	"California"	"06"	"34 years"	"34"	1005	1389916	72.3
+	"California"	"06"	"35 years"	"35"	1017	1380235	73.7
+	"California"	"06"	"36 years"	"36"	1134	1371798	82.7
+	"California"	"06"	"37 years"	"37"	1196	1350956	88.5
+	"California"	"06"	"38 years"	"38"	1238	1325528	93.4
+	"California"	"06"	"39 years"	"39"	1280	1300854	98.4
+	"California"	"06"	"40 years"	"40"	1443	1275177	113.2
+	"California"	"06"	"41 years"	"41"	1322	1256572	105.2
+	"California"	"06"	"42 years"	"42"	1441	1245035	115.7
+	"California"	"06"	"43 years"	"43"	1620	1241292	130.5
+	"California"	"06"	"44 years"	"44"	1680	1241215	135.4
+	"California"	"06"	"45 years"	"45"	1995	1259700	158.4
+	"California"	"06"	"46 years"	"46"	2203	1277141	172.5
+	"California"	"06"	"47 years"	"47"	2292	1288059	177.9
+	"California"	"06"	"48 years"	"48"	2571	1289006	199.5
+	"California"	"06"	"49 years"	"49"	2780	1281530	216.9
+	"California"	"06"	"50 years"	"50"	3059	1263180	242.2
+	"California"	"06"	"51 years"	"51"	3290	1250862	263.0
+	"California"	"06"	"52 years"	"52"	3539	1255625	281.9
+	"California"	"06"	"53 years"	"53"	3962	1266305	312.9
+	"California"	"06"	"54 years"	"54"	4352	1279121	340.2
+	"California"	"06"	"55 years"	"55"	4840	1291143	374.9
+	"California"	"06"	"56 years"	"56"	5292	1295250	408.6
+	"California"	"06"	"57 years"	"57"	5708	1280263	445.8
+	"California"	"06"	"58 years"	"58"	5982	1266035	472.5
+	"California"	"06"	"59 years"	"59"	6477	1250924	517.8
+	"California"	"06"	"60 years"	"60"	6999	1227661	570.1
+	"California"	"06"	"61 years"	"61"	7357	1198319	613.9
+	"California"	"06"	"62 years"	"62"	7771	1171648	663.3
+	"California"	"06"	"63 years"	"63"	8125	1137953	714.0
+	"California"	"06"	"64 years"	"64"	8525	1096667	777.4
+	"California"	"06"	"65 years"	"65"	8702	1057701	822.7
+	"California"	"06"	"66 years"	"66"	8767	1017930	861.3
+	"California"	"06"	"67 years"	"67"	9553	981490	973.3
+	"California"	"06"	"68 years"	"68"	9970	948668	1050.9
+	"California"	"06"	"69 years"	"69"	10605	931587	1138.4
+	"California"	"06"	"70 years"	"70"	10699	874806	1223.0
+	"California"	"06"	"71 years"	"71"	11127	821640	1354.2
+	"California"	"06"	"72 years"	"72"	11628	769876	1510.4
+	"California"	"06"	"73 years"	"73"	11749	722071	1627.1
+	"California"	"06"	"74 years"	"74"	12012	655866	1831.5
+	"California"	"06"	"75 years"	"75"	12681	619118	2048.2
+	"California"	"06"	"76 years"	"76"	12910	579755	2226.8
+	"California"	"06"	"77 years"	"77"	13551	540660	2506.4
+	"California"	"06"	"78 years"	"78"	13933	499337	2790.3
+	"California"	"06"	"79 years"	"79"	14369	466225	3082.0
+	"California"	"06"	"80 years"	"80"	15213	437408	3478.0
+	"California"	"06"	"81 years"	"81"	16068	409064	3928.0
+	"California"	"06"	"82 years"	"82"	17015	380859	4467.5
+	"California"	"06"	"83 years"	"83"	17697	354109	4997.6
+	"California"	"06"	"84 years"	"84"	18418	329145	5595.7
+	"California"	"06"	"85 years"	"85"	19238	Not Applicable	Not Applicable
+	"California"	"06"	"86 years"	"86"	20096	Not Applicable	Not Applicable
+	"California"	"06"	"87 years"	"87"	20748	Not Applicable	Not Applicable
+	"California"	"06"	"88 years"	"88"	21658	Not Applicable	Not Applicable
+	"California"	"06"	"89 years"	"89"	21721	Not Applicable	Not Applicable
+	"California"	"06"	"90 years"	"90"	22247	Not Applicable	Not Applicable
+	"California"	"06"	"91 years"	"91"	21949	Not Applicable	Not Applicable
+	"California"	"06"	"92 years"	"92"	21194	Not Applicable	Not Applicable
+	"California"	"06"	"93 years"	"93"	19863	Not Applicable	Not Applicable
+	"California"	"06"	"94 years"	"94"	17939	Not Applicable	Not Applicable
+	"California"	"06"	"95 years"	"95"	16080	Not Applicable	Not Applicable
+	"California"	"06"	"96 years"	"96"	13718	Not Applicable	Not Applicable
+	"California"	"06"	"97 years"	"97"	11027	Not Applicable	Not Applicable
+	"California"	"06"	"98 years"	"98"	8591	Not Applicable	Not Applicable
+	"California"	"06"	"99 years"	"99"	6337	Not Applicable	Not Applicable
+	"California"	"06"	"100+ years"	"100"	14005	Not Applicable	Not Applicable
+	"California"	"06"	"Not Stated"	"NS"	32	Not Applicable	Not Applicable
+"Total"	"California"	"06"			661524	99197182	666.9
+"Total"					661524	99197182	666.9
+"---"
+"Dataset: Underlying Cause of Death, 1999-2020"
+"Query Parameters:"
+"Title: California General F"
+"Gender: Female"
+"States: California (06)"
+"Year/Month: 2016; 2017; 2018; 2019; 2020"
+"Group By: State; Single-Year Ages"
+"Show Totals: True"
+"Show Zero Values: False"
+"Show Suppressed: False"
+"Calculate Rates Per: 100,000"
+"Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/ucd.html for more information."
+"---"
+"Query Date: Apr 8, 2022 12:22:40 AM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. Underlying Cause of Death"
+"1999-2020 on CDC WONDER Online Database, released in 2021. Data are from the Multiple Cause of Death Files, 1999-2020, as"
+"compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative Program. Accessed"
+"at http://wonder.cdc.gov/ucd-icd10.html on Apr 8, 2022 12:22:40 AM"
+"---"
+Caveats:
+"1. Population and rates are labeled 'Not Applicable' when they include a subset of ages 85-100+ because populations are not"
+"available for those ages. More information: http://wonder.cdc.gov/wonder/help/ucd.html#Ages 85-100."
+"2. Deaths of persons with Age ""Not Stated"" are included in ""All"" counts and rates, but are not distributed among age groups,"
+"so are not included in age-specific counts, age-specific rates or in any age-adjusted rates. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Not Stated."
+"3. The population figures for year 2020 are bridged-race estimates of the July 1 resident population, from the Vintage 2020"
+"postcensal series released by NCHS on September 22, 2021. The population figures for year 2019 are bridged-race estimates of the"
+"July 1 resident population, from the Vintage 2019 postcensal series released by NCHS on July 9, 2020. The population figures for"
+"year 2018 are bridged-race estimates of the July 1 resident population, from the Vintage 2018 postcensal series released by NCHS"
+"on June 25, 2019. The population figures for year 2017 are bridged-race estimates of the July 1 resident population, from the"
+"Vintage 2017 postcensal series released by NCHS on June 27, 2018. The population figures for year 2016 are bridged-race"
+"estimates of the July 1 resident population, from the Vintage 2016 postcensal series released by NCHS on June 26, 2017. The"
+"population figures for year 2015 are bridged-race estimates of the July 1 resident population, from the Vintage 2015 postcensal"
+"series released by NCHS on June 28, 2016. The population figures for year 2014 are bridged-race estimates of the July 1 resident"
+"population, from the Vintage 2014 postcensal series released by NCHS on June 30, 2015. The population figures for year 2013 are"
+"bridged-race estimates of the July 1 resident population, from the Vintage 2013 postcensal series released by NCHS on June 26,"
+"2014. The population figures for year 2012 are bridged-race estimates of the July 1 resident population, from the Vintage 2012"
+"postcensal series released by NCHS on June 13, 2013. The population figures for year 2011 are bridged-race estimates of the July"
+"1 resident population, from the Vintage 2011 postcensal series released by NCHS on July 18, 2012. Population figures for 2010"
+"are April 1 Census counts. The population figures for years 2001 - 2009 are bridged-race estimates of the July 1 resident"
+"population, from the revised intercensal county-level 2000 - 2009 series released by NCHS on October 26, 2012. Population"
+"figures for 2000 are April 1 Census counts. Population figures for 1999 are from the 1990-1999 intercensal series of July 1"
+"estimates. Population figures for the infant age groups are the number of live births. <br/><b>Note:</b> Rates and population"
+"figures for years 2001 - 2009 differ slightly from previously published reports, due to use of the population estimates which"
+"were available at the time of release."
+"4. The population figures used in the calculation of death rates for the age group 'under 1 year' are the estimates of the"
+"resident population that is under one year of age. More information: http://wonder.cdc.gov/wonder/help/ucd.html#Age Group."

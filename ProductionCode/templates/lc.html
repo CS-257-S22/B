@@ -1,0 +1,67 @@
+<html>
+    <head>
+        <title>PoP - Leading Cause</title>
+        <link rel="stylesheet" href="../static/datastyle.css">
+    </head>
+    <body>
+        <div id="header"> 
+            <h1>Predictor of Passing</h1>
+            <nav>
+                <ul>
+                    <li><a href="/home">Home</a></li>
+                    <li><a href="/dp">Deaths Per</a></li>
+                    <li><a href="/lc">Leading Cause</a></li>
+                    <!-- Not yet implemented -->
+                    <!--<li><a href="/wwid">When Will I Die?</a></li>-->
+                  </ul> 
+            </nav>
+        </div>
+        <div>
+            <h2>Leading Cause</h2>
+            <div>
+                <p>Which category of people would you like to see the leading cause of death of? Choose "None" for everyone in that category.</p>
+                <form action="choose_arguments">
+                    <label for="states">Choose a state:</label>
+                    <select name="state_name">
+                        
+                        <option value="None">None</option>
+                        {% for state in states: %}
+                        <option value="{{state}}">{{state}}</option>
+                        {% endfor %}
+                           
+                    </select>
+                    <label for="ages">Choose an age:</label>
+                    <select name="age">
+                        
+                        <option value="None">None</option>
+                        <option value="0">&lt;1</option>
+                        {% for number in range(99): %}
+                        <option value="{{number+1}}">{{number+1}}</option>
+                        {% endfor %}
+                        <option value="100">100+</option>
+                           
+                    </select>
+                    <label for="genders">Choose a gender:</label>
+                    <select name="gender">
+                        
+                        <option value="None">None</option>
+                        <option value="F">F</option>
+                        <option value="M">M</option>
+                           
+                    </select>
+                    <input type="submit" value="Submit">
+                </form>
+            </div>
+            <div>
+                {%if search_args != None: %}
+                    <h3>Leading cause of death for: {{search_args.get_state()}}, {{search_args.get_age()}}, {{search_args.get_gender()}}:</h3>
+                    {%if data[1] != 0: %}
+                        <p><b>{{data[0]}}</b> with <b>{{data[1]}}</b> deaths</p>
+                    {%else:%}
+                        <p><b>0</b> deaths</p>
+                    {%endif%}
+                {%endif%}
+            </div>
+        </div>
+    </body>
+</html>

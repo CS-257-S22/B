@@ -1,0 +1,156 @@
+"Notes"	"State"	"State Code"	"Single-Year Ages"	"Single-Year Ages Code"	Deaths	Population	Crude Rate
+	"New York"	"36"	"< 1 year"	"0"	2174	557727	389.8
+	"New York"	"36"	"1 year"	"1"	128	555519	23.0
+	"New York"	"36"	"2 years"	"2"	88	557593	15.8
+	"New York"	"36"	"3 years"	"3"	71	557071	12.7
+	"New York"	"36"	"4 years"	"4"	53	556613	9.5
+	"New York"	"36"	"5 years"	"5"	56	557363	10.0
+	"New York"	"36"	"6 years"	"6"	53	553400	9.6
+	"New York"	"36"	"7 years"	"7"	53	548323	9.7
+	"New York"	"36"	"8 years"	"8"	57	546994	10.4
+	"New York"	"36"	"9 years"	"9"	40	545734	7.3
+	"New York"	"36"	"10 years"	"10"	50	543413	9.2
+	"New York"	"36"	"11 years"	"11"	52	543083	9.6
+	"New York"	"36"	"12 years"	"12"	52	547970	9.5
+	"New York"	"36"	"13 years"	"13"	55	550750	10.0
+	"New York"	"36"	"14 years"	"14"	69	554049	12.5
+	"New York"	"36"	"15 years"	"15"	71	560879	12.7
+	"New York"	"36"	"16 years"	"16"	81	569196	14.2
+	"New York"	"36"	"17 years"	"17"	85	576277	14.7
+	"New York"	"36"	"18 years"	"18"	148	614120	24.1
+	"New York"	"36"	"19 years"	"19"	161	615932	26.1
+	"New York"	"36"	"20 years"	"20"	224	628946	35.6
+	"New York"	"36"	"21 years"	"21"	219	636721	34.4
+	"New York"	"36"	"22 years"	"22"	246	642605	38.3
+	"New York"	"36"	"23 years"	"23"	258	673735	38.3
+	"New York"	"36"	"24 years"	"24"	275	702195	39.2
+	"New York"	"36"	"25 years"	"25"	299	726667	41.1
+	"New York"	"36"	"26 years"	"26"	370	742577	49.8
+	"New York"	"36"	"27 years"	"27"	394	747067	52.7
+	"New York"	"36"	"28 years"	"28"	404	745245	54.2
+	"New York"	"36"	"29 years"	"29"	433	739269	58.6
+	"New York"	"36"	"30 years"	"30"	451	727487	62.0
+	"New York"	"36"	"31 years"	"31"	443	713663	62.1
+	"New York"	"36"	"32 years"	"32"	472	698374	67.6
+	"New York"	"36"	"33 years"	"33"	509	685227	74.3
+	"New York"	"36"	"34 years"	"34"	512	673732	76.0
+	"New York"	"36"	"35 years"	"35"	560	662222	84.6
+	"New York"	"36"	"36 years"	"36"	550	656891	83.7
+	"New York"	"36"	"37 years"	"37"	605	645511	93.7
+	"New York"	"36"	"38 years"	"38"	613	632427	96.9
+	"New York"	"36"	"39 years"	"39"	675	622132	108.5
+	"New York"	"36"	"40 years"	"40"	705	608558	115.8
+	"New York"	"36"	"41 years"	"41"	681	599184	113.7
+	"New York"	"36"	"42 years"	"42"	796	591795	134.5
+	"New York"	"36"	"43 years"	"43"	822	588339	139.7
+	"New York"	"36"	"44 years"	"44"	799	591799	135.0
+	"New York"	"36"	"45 years"	"45"	990	607299	163.0
+	"New York"	"36"	"46 years"	"46"	1105	623365	177.3
+	"New York"	"36"	"47 years"	"47"	1239	637439	194.4
+	"New York"	"36"	"48 years"	"48"	1351	649389	208.0
+	"New York"	"36"	"49 years"	"49"	1510	657421	229.7
+	"New York"	"36"	"50 years"	"50"	1717	659803	260.2
+	"New York"	"36"	"51 years"	"51"	1828	666675	274.2
+	"New York"	"36"	"52 years"	"52"	2120	679694	311.9
+	"New York"	"36"	"53 years"	"53"	2248	692636	324.6
+	"New York"	"36"	"54 years"	"54"	2580	702291	367.4
+	"New York"	"36"	"55 years"	"55"	2780	708434	392.4
+	"New York"	"36"	"56 years"	"56"	3059	711398	430.0
+	"New York"	"36"	"57 years"	"57"	3311	705320	469.4
+	"New York"	"36"	"58 years"	"58"	3571	699954	510.2
+	"New York"	"36"	"59 years"	"59"	3707	694777	533.6
+	"New York"	"36"	"60 years"	"60"	4007	682145	587.4
+	"New York"	"36"	"61 years"	"61"	4287	666349	643.4
+	"New York"	"36"	"62 years"	"62"	4484	648403	691.5
+	"New York"	"36"	"63 years"	"63"	4675	626621	746.1
+	"New York"	"36"	"64 years"	"64"	4876	602914	808.7
+	"New York"	"36"	"65 years"	"65"	5096	582957	874.2
+	"New York"	"36"	"66 years"	"66"	5205	561175	927.5
+	"New York"	"36"	"67 years"	"67"	5551	543946	1020.5
+	"New York"	"36"	"68 years"	"68"	6028	528666	1140.2
+	"New York"	"36"	"69 years"	"69"	6448	523337	1232.1
+	"New York"	"36"	"70 years"	"70"	6639	492294	1348.6
+	"New York"	"36"	"71 years"	"71"	6853	462697	1481.1
+	"New York"	"36"	"72 years"	"72"	7154	433709	1649.5
+	"New York"	"36"	"73 years"	"73"	7540	411103	1834.1
+	"New York"	"36"	"74 years"	"74"	7702	375436	2051.5
+	"New York"	"36"	"75 years"	"75"	7899	356886	2213.3
+	"New York"	"36"	"76 years"	"76"	8129	338109	2404.3
+	"New York"	"36"	"77 years"	"77"	8531	318791	2676.0
+	"New York"	"36"	"78 years"	"78"	8726	295821	2949.8
+	"New York"	"36"	"79 years"	"79"	9024	277186	3255.6
+	"New York"	"36"	"80 years"	"80"	9525	261766	3638.7
+	"New York"	"36"	"81 years"	"81"	10089	247640	4074.1
+	"New York"	"36"	"82 years"	"82"	10741	231260	4644.6
+	"New York"	"36"	"83 years"	"83"	11140	215473	5170.0
+	"New York"	"36"	"84 years"	"84"	11586	202694	5716.0
+	"New York"	"36"	"85 years"	"85"	12202	Not Applicable	Not Applicable
+	"New York"	"36"	"86 years"	"86"	13037	Not Applicable	Not Applicable
+	"New York"	"36"	"87 years"	"87"	13757	Not Applicable	Not Applicable
+	"New York"	"36"	"88 years"	"88"	13990	Not Applicable	Not Applicable
+	"New York"	"36"	"89 years"	"89"	14714	Not Applicable	Not Applicable
+	"New York"	"36"	"90 years"	"90"	14770	Not Applicable	Not Applicable
+	"New York"	"36"	"91 years"	"91"	14665	Not Applicable	Not Applicable
+	"New York"	"36"	"92 years"	"92"	14040	Not Applicable	Not Applicable
+	"New York"	"36"	"93 years"	"93"	12953	Not Applicable	Not Applicable
+	"New York"	"36"	"94 years"	"94"	11854	Not Applicable	Not Applicable
+	"New York"	"36"	"95 years"	"95"	10336	Not Applicable	Not Applicable
+	"New York"	"36"	"96 years"	"96"	8867	Not Applicable	Not Applicable
+	"New York"	"36"	"97 years"	"97"	7096	Not Applicable	Not Applicable
+	"New York"	"36"	"98 years"	"98"	5729	Not Applicable	Not Applicable
+	"New York"	"36"	"99 years"	"99"	4392	Not Applicable	Not Applicable
+	"New York"	"36"	"100+ years"	"100"	9986	Not Applicable	Not Applicable
+	"New York"	"36"	"Not Stated"	"NS"	37	Not Applicable	Not Applicable
+"Total"	"New York"	"36"			413388	50375634	820.6
+"Total"					413388	50375634	820.6
+"---"
+"Dataset: Underlying Cause of Death, 1999-2020"
+"Query Parameters:"
+"Title: New York General F"
+"Gender: Female"
+"States: New York (36)"
+"Year/Month: 2016; 2017; 2018; 2019; 2020"
+"Group By: State; Single-Year Ages"
+"Show Totals: True"
+"Show Zero Values: False"
+"Show Suppressed: False"
+"Calculate Rates Per: 100,000"
+"Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/ucd.html for more information."
+"---"
+"Query Date: Apr 11, 2022 2:32:09 AM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. Underlying Cause of Death"
+"1999-2020 on CDC WONDER Online Database, released in 2021. Data are from the Multiple Cause of Death Files, 1999-2020, as"
+"compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative Program. Accessed"
+"at http://wonder.cdc.gov/ucd-icd10.html on Apr 11, 2022 2:32:09 AM"
+"---"
+Caveats:
+"1. Population and rates are labeled 'Not Applicable' when they include a subset of ages 85-100+ because populations are not"
+"available for those ages. More information: http://wonder.cdc.gov/wonder/help/ucd.html#Ages 85-100."
+"2. Deaths of persons with Age ""Not Stated"" are included in ""All"" counts and rates, but are not distributed among age groups,"
+"so are not included in age-specific counts, age-specific rates or in any age-adjusted rates. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Not Stated."
+"3. The population figures for year 2020 are bridged-race estimates of the July 1 resident population, from the Vintage 2020"
+"postcensal series released by NCHS on September 22, 2021. The population figures for year 2019 are bridged-race estimates of the"
+"July 1 resident population, from the Vintage 2019 postcensal series released by NCHS on July 9, 2020. The population figures for"
+"year 2018 are bridged-race estimates of the July 1 resident population, from the Vintage 2018 postcensal series released by NCHS"
+"on June 25, 2019. The population figures for year 2017 are bridged-race estimates of the July 1 resident population, from the"
+"Vintage 2017 postcensal series released by NCHS on June 27, 2018. The population figures for year 2016 are bridged-race"
+"estimates of the July 1 resident population, from the Vintage 2016 postcensal series released by NCHS on June 26, 2017. The"
+"population figures for year 2015 are bridged-race estimates of the July 1 resident population, from the Vintage 2015 postcensal"
+"series released by NCHS on June 28, 2016. The population figures for year 2014 are bridged-race estimates of the July 1 resident"
+"population, from the Vintage 2014 postcensal series released by NCHS on June 30, 2015. The population figures for year 2013 are"
+"bridged-race estimates of the July 1 resident population, from the Vintage 2013 postcensal series released by NCHS on June 26,"
+"2014. The population figures for year 2012 are bridged-race estimates of the July 1 resident population, from the Vintage 2012"
+"postcensal series released by NCHS on June 13, 2013. The population figures for year 2011 are bridged-race estimates of the July"
+"1 resident population, from the Vintage 2011 postcensal series released by NCHS on July 18, 2012. Population figures for 2010"
+"are April 1 Census counts. The population figures for years 2001 - 2009 are bridged-race estimates of the July 1 resident"
+"population, from the revised intercensal county-level 2000 - 2009 series released by NCHS on October 26, 2012. Population"
+"figures for 2000 are April 1 Census counts. Population figures for 1999 are from the 1990-1999 intercensal series of July 1"
+"estimates. Population figures for the infant age groups are the number of live births. <br/><b>Note:</b> Rates and population"
+"figures for years 2001 - 2009 differ slightly from previously published reports, due to use of the population estimates which"
+"were available at the time of release."
+"4. The population figures used in the calculation of death rates for the age group 'under 1 year' are the estimates of the"
+"resident population that is under one year of age. More information: http://wonder.cdc.gov/wonder/help/ucd.html#Age Group."

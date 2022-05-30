@@ -1,0 +1,148 @@
+"Notes"	"State"	"State Code"	"Single-Year Ages"	"Single-Year Ages Code"	Deaths	Population	Crude Rate
+	"Vermont"	"50"	"< 1 year"	"0"	66	14565	453.1
+	"Vermont"	"50"	"16 years"	"16"	11	18310	Unreliable
+	"Vermont"	"50"	"17 years"	"17"	11	18732	Unreliable
+	"Vermont"	"50"	"18 years"	"18"	15	23651	Unreliable
+	"Vermont"	"50"	"19 years"	"19"	15	28723	Unreliable
+	"Vermont"	"50"	"20 years"	"20"	28	27777	100.8
+	"Vermont"	"50"	"21 years"	"21"	20	25605	78.1
+	"Vermont"	"50"	"22 years"	"22"	26	23051	112.8
+	"Vermont"	"50"	"23 years"	"23"	24	21408	112.1
+	"Vermont"	"50"	"24 years"	"24"	21	20231	103.8
+	"Vermont"	"50"	"25 years"	"25"	28	20150	139.0
+	"Vermont"	"50"	"26 years"	"26"	40	19610	204.0
+	"Vermont"	"50"	"27 years"	"27"	33	19084	172.9
+	"Vermont"	"50"	"28 years"	"28"	28	18991	147.4
+	"Vermont"	"50"	"29 years"	"29"	40	18853	212.2
+	"Vermont"	"50"	"30 years"	"30"	36	18601	193.5
+	"Vermont"	"50"	"31 years"	"31"	42	18440	227.8
+	"Vermont"	"50"	"32 years"	"32"	55	18435	298.3
+	"Vermont"	"50"	"33 years"	"33"	56	18262	306.6
+	"Vermont"	"50"	"34 years"	"34"	39	18089	215.6
+	"Vermont"	"50"	"35 years"	"35"	53	18223	290.8
+	"Vermont"	"50"	"36 years"	"36"	43	18320	234.7
+	"Vermont"	"50"	"37 years"	"37"	44	18139	242.6
+	"Vermont"	"50"	"38 years"	"38"	46	17683	260.1
+	"Vermont"	"50"	"39 years"	"39"	43	17602	244.3
+	"Vermont"	"50"	"40 years"	"40"	35	17171	203.8
+	"Vermont"	"50"	"41 years"	"41"	46	16830	273.3
+	"Vermont"	"50"	"42 years"	"42"	46	16719	275.1
+	"Vermont"	"50"	"43 years"	"43"	49	16869	290.5
+	"Vermont"	"50"	"44 years"	"44"	45	17174	262.0
+	"Vermont"	"50"	"45 years"	"45"	54	17814	303.1
+	"Vermont"	"50"	"46 years"	"46"	53	18630	284.5
+	"Vermont"	"50"	"47 years"	"47"	72	18973	379.5
+	"Vermont"	"50"	"48 years"	"48"	65	19596	331.7
+	"Vermont"	"50"	"49 years"	"49"	84	19774	424.8
+	"Vermont"	"50"	"50 years"	"50"	72	19812	363.4
+	"Vermont"	"50"	"51 years"	"51"	100	20012	499.7
+	"Vermont"	"50"	"52 years"	"52"	122	20651	590.8
+	"Vermont"	"50"	"53 years"	"53"	117	21480	544.7
+	"Vermont"	"50"	"54 years"	"54"	158	22077	715.7
+	"Vermont"	"50"	"55 years"	"55"	166	22837	726.9
+	"Vermont"	"50"	"56 years"	"56"	182	23322	780.4
+	"Vermont"	"50"	"57 years"	"57"	180	23527	765.1
+	"Vermont"	"50"	"58 years"	"58"	220	23929	919.4
+	"Vermont"	"50"	"59 years"	"59"	236	24058	981.0
+	"Vermont"	"50"	"60 years"	"60"	220	23913	920.0
+	"Vermont"	"50"	"61 years"	"61"	250	23738	1053.2
+	"Vermont"	"50"	"62 years"	"62"	253	23321	1084.9
+	"Vermont"	"50"	"63 years"	"63"	251	22745	1103.5
+	"Vermont"	"50"	"64 years"	"64"	271	22128	1224.7
+	"Vermont"	"50"	"65 years"	"65"	276	21469	1285.6
+	"Vermont"	"50"	"66 years"	"66"	303	20644	1467.7
+	"Vermont"	"50"	"67 years"	"67"	333	20011	1664.1
+	"Vermont"	"50"	"68 years"	"68"	346	19399	1783.6
+	"Vermont"	"50"	"69 years"	"69"	328	19066	1720.3
+	"Vermont"	"50"	"70 years"	"70"	339	17558	1930.7
+	"Vermont"	"50"	"71 years"	"71"	328	16370	2003.7
+	"Vermont"	"50"	"72 years"	"72"	383	15073	2541.0
+	"Vermont"	"50"	"73 years"	"73"	379	14054	2696.7
+	"Vermont"	"50"	"74 years"	"74"	354	12405	2853.7
+	"Vermont"	"50"	"75 years"	"75"	382	11519	3316.3
+	"Vermont"	"50"	"76 years"	"76"	348	10632	3273.1
+	"Vermont"	"50"	"77 years"	"77"	412	9613	4285.9
+	"Vermont"	"50"	"78 years"	"78"	345	8475	4070.8
+	"Vermont"	"50"	"79 years"	"79"	390	7628	5112.7
+	"Vermont"	"50"	"80 years"	"80"	356	6845	5200.9
+	"Vermont"	"50"	"81 years"	"81"	356	6286	5663.4
+	"Vermont"	"50"	"82 years"	"82"	389	5820	6683.8
+	"Vermont"	"50"	"83 years"	"83"	409	5151	7940.2
+	"Vermont"	"50"	"84 years"	"84"	424	4728	8967.9
+	"Vermont"	"50"	"85 years"	"85"	409	Not Applicable	Not Applicable
+	"Vermont"	"50"	"86 years"	"86"	419	Not Applicable	Not Applicable
+	"Vermont"	"50"	"87 years"	"87"	390	Not Applicable	Not Applicable
+	"Vermont"	"50"	"88 years"	"88"	417	Not Applicable	Not Applicable
+	"Vermont"	"50"	"89 years"	"89"	431	Not Applicable	Not Applicable
+	"Vermont"	"50"	"90 years"	"90"	357	Not Applicable	Not Applicable
+	"Vermont"	"50"	"91 years"	"91"	286	Not Applicable	Not Applicable
+	"Vermont"	"50"	"92 years"	"92"	316	Not Applicable	Not Applicable
+	"Vermont"	"50"	"93 years"	"93"	255	Not Applicable	Not Applicable
+	"Vermont"	"50"	"94 years"	"94"	200	Not Applicable	Not Applicable
+	"Vermont"	"50"	"95 years"	"95"	173	Not Applicable	Not Applicable
+	"Vermont"	"50"	"96 years"	"96"	127	Not Applicable	Not Applicable
+	"Vermont"	"50"	"97 years"	"97"	107	Not Applicable	Not Applicable
+	"Vermont"	"50"	"98 years"	"98"	66	Not Applicable	Not Applicable
+	"Vermont"	"50"	"99 years"	"99"	47	Not Applicable	Not Applicable
+	"Vermont"	"50"	"100+ years"	"100"	67	Not Applicable	Not Applicable
+"Total"	"Vermont"	"50"			15499	1542282	1004.9
+"Total"					15499	1542282	1004.9
+"---"
+"Dataset: Underlying Cause of Death, 1999-2020"
+"Query Parameters:"
+"Title: Vermont General M"
+"Gender: Male"
+"States: Vermont (50)"
+"Year/Month: 2016; 2017; 2018; 2019; 2020"
+"Group By: State; Single-Year Ages"
+"Show Totals: True"
+"Show Zero Values: False"
+"Show Suppressed: False"
+"Calculate Rates Per: 100,000"
+"Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/ucd.html for more information."
+"---"
+"Query Date: Apr 11, 2022 3:08:33 AM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. Underlying Cause of Death"
+"1999-2020 on CDC WONDER Online Database, released in 2021. Data are from the Multiple Cause of Death Files, 1999-2020, as"
+"compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative Program. Accessed"
+"at http://wonder.cdc.gov/ucd-icd10.html on Apr 11, 2022 3:08:33 AM"
+"---"
+Messages:
+"1. Rows with suppressed Deaths are hidden, but the Deaths and Population values in those rows are included in the totals. Use"
+"Quick Options above to show suppressed rows."
+"---"
+Caveats:
+"1. Population and rates are labeled 'Not Applicable' when they include a subset of ages 85-100+ because populations are not"
+"available for those ages. More information: http://wonder.cdc.gov/wonder/help/ucd.html#Ages 85-100."
+"2. Data are Suppressed when the data meet the criteria for confidentiality constraints. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Assurance of Confidentiality."
+"3. Death rates are flagged as Unreliable when the rate is calculated with a numerator of 20 or less. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Unreliable."
+"4. Deaths of persons with Age ""Not Stated"" are included in ""All"" counts and rates, but are not distributed among age groups,"
+"so are not included in age-specific counts, age-specific rates or in any age-adjusted rates. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Not Stated."
+"5. The population figures for year 2020 are bridged-race estimates of the July 1 resident population, from the Vintage 2020"
+"postcensal series released by NCHS on September 22, 2021. The population figures for year 2019 are bridged-race estimates of the"
+"July 1 resident population, from the Vintage 2019 postcensal series released by NCHS on July 9, 2020. The population figures for"
+"year 2018 are bridged-race estimates of the July 1 resident population, from the Vintage 2018 postcensal series released by NCHS"
+"on June 25, 2019. The population figures for year 2017 are bridged-race estimates of the July 1 resident population, from the"
+"Vintage 2017 postcensal series released by NCHS on June 27, 2018. The population figures for year 2016 are bridged-race"
+"estimates of the July 1 resident population, from the Vintage 2016 postcensal series released by NCHS on June 26, 2017. The"
+"population figures for year 2015 are bridged-race estimates of the July 1 resident population, from the Vintage 2015 postcensal"
+"series released by NCHS on June 28, 2016. The population figures for year 2014 are bridged-race estimates of the July 1 resident"
+"population, from the Vintage 2014 postcensal series released by NCHS on June 30, 2015. The population figures for year 2013 are"
+"bridged-race estimates of the July 1 resident population, from the Vintage 2013 postcensal series released by NCHS on June 26,"
+"2014. The population figures for year 2012 are bridged-race estimates of the July 1 resident population, from the Vintage 2012"
+"postcensal series released by NCHS on June 13, 2013. The population figures for year 2011 are bridged-race estimates of the July"
+"1 resident population, from the Vintage 2011 postcensal series released by NCHS on July 18, 2012. Population figures for 2010"
+"are April 1 Census counts. The population figures for years 2001 - 2009 are bridged-race estimates of the July 1 resident"
+"population, from the revised intercensal county-level 2000 - 2009 series released by NCHS on October 26, 2012. Population"
+"figures for 2000 are April 1 Census counts. Population figures for 1999 are from the 1990-1999 intercensal series of July 1"
+"estimates. Population figures for the infant age groups are the number of live births. <br/><b>Note:</b> Rates and population"
+"figures for years 2001 - 2009 differ slightly from previously published reports, due to use of the population estimates which"
+"were available at the time of release."
+"6. The population figures used in the calculation of death rates for the age group 'under 1 year' are the estimates of the"
+"resident population that is under one year of age. More information: http://wonder.cdc.gov/wonder/help/ucd.html#Age Group."

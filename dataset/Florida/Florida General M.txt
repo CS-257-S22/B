@@ -1,0 +1,156 @@
+"Notes"	"State"	"State Code"	"Single-Year Ages"	"Single-Year Ages Code"	Deaths	Population	Crude Rate
+	"Florida"	"12"	"< 1 year"	"0"	3703	568814	651.0
+	"Florida"	"12"	"1 year"	"1"	290	576929	50.3
+	"Florida"	"12"	"2 years"	"2"	189	583903	32.4
+	"Florida"	"12"	"3 years"	"3"	138	585480	23.6
+	"Florida"	"12"	"4 years"	"4"	105	589207	17.8
+	"Florida"	"12"	"5 years"	"5"	100	589942	17.0
+	"Florida"	"12"	"6 years"	"6"	77	587821	13.1
+	"Florida"	"12"	"7 years"	"7"	77	588498	13.1
+	"Florida"	"12"	"8 years"	"8"	75	594487	12.6
+	"Florida"	"12"	"9 years"	"9"	78	599686	13.0
+	"Florida"	"12"	"10 years"	"10"	74	603246	12.3
+	"Florida"	"12"	"11 years"	"11"	78	609277	12.8
+	"Florida"	"12"	"12 years"	"12"	87	610242	14.3
+	"Florida"	"12"	"13 years"	"13"	124	610212	20.3
+	"Florida"	"12"	"14 years"	"14"	160	606294	26.4
+	"Florida"	"12"	"15 years"	"15"	215	609062	35.3
+	"Florida"	"12"	"16 years"	"16"	322	613917	52.5
+	"Florida"	"12"	"17 years"	"17"	395	622005	63.5
+	"Florida"	"12"	"18 years"	"18"	616	621947	99.0
+	"Florida"	"12"	"19 years"	"19"	755	606308	124.5
+	"Florida"	"12"	"20 years"	"20"	792	617697	128.2
+	"Florida"	"12"	"21 years"	"21"	980	630699	155.4
+	"Florida"	"12"	"22 years"	"22"	978	644592	151.7
+	"Florida"	"12"	"23 years"	"23"	1054	663301	158.9
+	"Florida"	"12"	"24 years"	"24"	1140	681063	167.4
+	"Florida"	"12"	"25 years"	"25"	1225	705079	173.7
+	"Florida"	"12"	"26 years"	"26"	1236	723285	170.9
+	"Florida"	"12"	"27 years"	"27"	1409	727082	193.8
+	"Florida"	"12"	"28 years"	"28"	1413	727148	194.3
+	"Florida"	"12"	"29 years"	"29"	1456	717915	202.8
+	"Florida"	"12"	"30 years"	"30"	1473	705859	208.7
+	"Florida"	"12"	"31 years"	"31"	1427	691592	206.3
+	"Florida"	"12"	"32 years"	"32"	1567	682002	229.8
+	"Florida"	"12"	"33 years"	"33"	1570	673448	233.1
+	"Florida"	"12"	"34 years"	"34"	1649	670395	246.0
+	"Florida"	"12"	"35 years"	"35"	1655	662551	249.8
+	"Florida"	"12"	"36 years"	"36"	1598	658968	242.5
+	"Florida"	"12"	"37 years"	"37"	1745	652075	267.6
+	"Florida"	"12"	"38 years"	"38"	1744	643696	270.9
+	"Florida"	"12"	"39 years"	"39"	1734	635759	272.7
+	"Florida"	"12"	"40 years"	"40"	1781	626639	284.2
+	"Florida"	"12"	"41 years"	"41"	1836	617045	297.5
+	"Florida"	"12"	"42 years"	"42"	1775	614803	288.7
+	"Florida"	"12"	"43 years"	"43"	2019	614799	328.4
+	"Florida"	"12"	"44 years"	"44"	2086	624356	334.1
+	"Florida"	"12"	"45 years"	"45"	2273	640202	355.0
+	"Florida"	"12"	"46 years"	"46"	2527	652893	387.0
+	"Florida"	"12"	"47 years"	"47"	2694	664165	405.6
+	"Florida"	"12"	"48 years"	"48"	2972	668508	444.6
+	"Florida"	"12"	"49 years"	"49"	3196	668276	478.2
+	"Florida"	"12"	"50 years"	"50"	3470	663767	522.8
+	"Florida"	"12"	"51 years"	"51"	3833	666713	574.9
+	"Florida"	"12"	"52 years"	"52"	4262	680550	626.3
+	"Florida"	"12"	"53 years"	"53"	4751	693963	684.6
+	"Florida"	"12"	"54 years"	"54"	5317	705084	754.1
+	"Florida"	"12"	"55 years"	"55"	5922	713886	829.5
+	"Florida"	"12"	"56 years"	"56"	6422	714045	899.4
+	"Florida"	"12"	"57 years"	"57"	6945	705505	984.4
+	"Florida"	"12"	"58 years"	"58"	7377	696213	1059.6
+	"Florida"	"12"	"59 years"	"59"	7998	686713	1164.7
+	"Florida"	"12"	"60 years"	"60"	8362	670702	1246.8
+	"Florida"	"12"	"61 years"	"61"	8889	656368	1354.3
+	"Florida"	"12"	"62 years"	"62"	9185	644329	1425.5
+	"Florida"	"12"	"63 years"	"63"	9757	630938	1546.4
+	"Florida"	"12"	"64 years"	"64"	9918	615624	1611.0
+	"Florida"	"12"	"65 years"	"65"	10086	605189	1666.6
+	"Florida"	"12"	"66 years"	"66"	10519	595473	1766.5
+	"Florida"	"12"	"67 years"	"67"	10739	588067	1826.2
+	"Florida"	"12"	"68 years"	"68"	10910	584580	1866.3
+	"Florida"	"12"	"69 years"	"69"	11638	588557	1977.4
+	"Florida"	"12"	"70 years"	"70"	12126	568779	2131.9
+	"Florida"	"12"	"71 years"	"71"	12352	546959	2258.3
+	"Florida"	"12"	"72 years"	"72"	12673	523325	2421.6
+	"Florida"	"12"	"73 years"	"73"	12981	498732	2602.8
+	"Florida"	"12"	"74 years"	"74"	12980	455169	2851.7
+	"Florida"	"12"	"75 years"	"75"	13328	432846	3079.2
+	"Florida"	"12"	"76 years"	"76"	13535	408651	3312.1
+	"Florida"	"12"	"77 years"	"77"	13922	381349	3650.7
+	"Florida"	"12"	"78 years"	"78"	13622	347545	3919.5
+	"Florida"	"12"	"79 years"	"79"	13841	320384	4320.1
+	"Florida"	"12"	"80 years"	"80"	14086	296969	4743.3
+	"Florida"	"12"	"81 years"	"81"	14182	272896	5196.9
+	"Florida"	"12"	"82 years"	"82"	14193	247744	5728.9
+	"Florida"	"12"	"83 years"	"83"	14400	224066	6426.7
+	"Florida"	"12"	"84 years"	"84"	14428	202902	7110.8
+	"Florida"	"12"	"85 years"	"85"	14400	Not Applicable	Not Applicable
+	"Florida"	"12"	"86 years"	"86"	14308	Not Applicable	Not Applicable
+	"Florida"	"12"	"87 years"	"87"	14064	Not Applicable	Not Applicable
+	"Florida"	"12"	"88 years"	"88"	13919	Not Applicable	Not Applicable
+	"Florida"	"12"	"89 years"	"89"	13474	Not Applicable	Not Applicable
+	"Florida"	"12"	"90 years"	"90"	12317	Not Applicable	Not Applicable
+	"Florida"	"12"	"91 years"	"91"	11086	Not Applicable	Not Applicable
+	"Florida"	"12"	"92 years"	"92"	9852	Not Applicable	Not Applicable
+	"Florida"	"12"	"93 years"	"93"	8533	Not Applicable	Not Applicable
+	"Florida"	"12"	"94 years"	"94"	6968	Not Applicable	Not Applicable
+	"Florida"	"12"	"95 years"	"95"	5720	Not Applicable	Not Applicable
+	"Florida"	"12"	"96 years"	"96"	4510	Not Applicable	Not Applicable
+	"Florida"	"12"	"97 years"	"97"	3317	Not Applicable	Not Applicable
+	"Florida"	"12"	"98 years"	"98"	2421	Not Applicable	Not Applicable
+	"Florida"	"12"	"99 years"	"99"	1586	Not Applicable	Not Applicable
+	"Florida"	"12"	"100+ years"	"100"	2585	Not Applicable	Not Applicable
+	"Florida"	"12"	"Not Stated"	"NS"	31	Not Applicable	Not Applicable
+"Total"	"Florida"	"12"			556702	51855983	1073.6
+"Total"					556702	51855983	1073.6
+"---"
+"Dataset: Underlying Cause of Death, 1999-2020"
+"Query Parameters:"
+"Title: Florida General M"
+"Gender: Male"
+"States: Florida (12)"
+"Year/Month: 2016; 2017; 2018; 2019; 2020"
+"Group By: State; Single-Year Ages"
+"Show Totals: True"
+"Show Zero Values: False"
+"Show Suppressed: False"
+"Calculate Rates Per: 100,000"
+"Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/ucd.html for more information."
+"---"
+"Query Date: Apr 8, 2022 1:09:28 AM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. Underlying Cause of Death"
+"1999-2020 on CDC WONDER Online Database, released in 2021. Data are from the Multiple Cause of Death Files, 1999-2020, as"
+"compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative Program. Accessed"
+"at http://wonder.cdc.gov/ucd-icd10.html on Apr 8, 2022 1:09:28 AM"
+"---"
+Caveats:
+"1. Population and rates are labeled 'Not Applicable' when they include a subset of ages 85-100+ because populations are not"
+"available for those ages. More information: http://wonder.cdc.gov/wonder/help/ucd.html#Ages 85-100."
+"2. Deaths of persons with Age ""Not Stated"" are included in ""All"" counts and rates, but are not distributed among age groups,"
+"so are not included in age-specific counts, age-specific rates or in any age-adjusted rates. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Not Stated."
+"3. The population figures for year 2020 are bridged-race estimates of the July 1 resident population, from the Vintage 2020"
+"postcensal series released by NCHS on September 22, 2021. The population figures for year 2019 are bridged-race estimates of the"
+"July 1 resident population, from the Vintage 2019 postcensal series released by NCHS on July 9, 2020. The population figures for"
+"year 2018 are bridged-race estimates of the July 1 resident population, from the Vintage 2018 postcensal series released by NCHS"
+"on June 25, 2019. The population figures for year 2017 are bridged-race estimates of the July 1 resident population, from the"
+"Vintage 2017 postcensal series released by NCHS on June 27, 2018. The population figures for year 2016 are bridged-race"
+"estimates of the July 1 resident population, from the Vintage 2016 postcensal series released by NCHS on June 26, 2017. The"
+"population figures for year 2015 are bridged-race estimates of the July 1 resident population, from the Vintage 2015 postcensal"
+"series released by NCHS on June 28, 2016. The population figures for year 2014 are bridged-race estimates of the July 1 resident"
+"population, from the Vintage 2014 postcensal series released by NCHS on June 30, 2015. The population figures for year 2013 are"
+"bridged-race estimates of the July 1 resident population, from the Vintage 2013 postcensal series released by NCHS on June 26,"
+"2014. The population figures for year 2012 are bridged-race estimates of the July 1 resident population, from the Vintage 2012"
+"postcensal series released by NCHS on June 13, 2013. The population figures for year 2011 are bridged-race estimates of the July"
+"1 resident population, from the Vintage 2011 postcensal series released by NCHS on July 18, 2012. Population figures for 2010"
+"are April 1 Census counts. The population figures for years 2001 - 2009 are bridged-race estimates of the July 1 resident"
+"population, from the revised intercensal county-level 2000 - 2009 series released by NCHS on October 26, 2012. Population"
+"figures for 2000 are April 1 Census counts. Population figures for 1999 are from the 1990-1999 intercensal series of July 1"
+"estimates. Population figures for the infant age groups are the number of live births. <br/><b>Note:</b> Rates and population"
+"figures for years 2001 - 2009 differ slightly from previously published reports, due to use of the population estimates which"
+"were available at the time of release."
+"4. The population figures used in the calculation of death rates for the age group 'under 1 year' are the estimates of the"
+"resident population that is under one year of age. More information: http://wonder.cdc.gov/wonder/help/ucd.html#Age Group."

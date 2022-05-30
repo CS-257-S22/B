@@ -1,0 +1,162 @@
+"Notes"	"State"	"State Code"	"Single-Year Ages"	"Single-Year Ages Code"	Deaths	Population	Crude Rate
+	"Wisconsin"	"55"	"< 1 year"	"0"	1085	164876	658.1
+	"Wisconsin"	"55"	"1 year"	"1"	64	167768	38.1
+	"Wisconsin"	"55"	"2 years"	"2"	33	170771	19.3
+	"Wisconsin"	"55"	"3 years"	"3"	40	172662	23.2
+	"Wisconsin"	"55"	"4 years"	"4"	34	174483	19.5
+	"Wisconsin"	"55"	"5 years"	"5"	27	175636	15.4
+	"Wisconsin"	"55"	"6 years"	"6"	19	177164	Unreliable
+	"Wisconsin"	"55"	"7 years"	"7"	21	178483	11.8
+	"Wisconsin"	"55"	"8 years"	"8"	13	181187	Unreliable
+	"Wisconsin"	"55"	"9 years"	"9"	19	184049	Unreliable
+	"Wisconsin"	"55"	"10 years"	"10"	27	186180	14.5
+	"Wisconsin"	"55"	"11 years"	"11"	23	187171	12.3
+	"Wisconsin"	"55"	"12 years"	"12"	25	188956	13.2
+	"Wisconsin"	"55"	"13 years"	"13"	26	188851	13.8
+	"Wisconsin"	"55"	"14 years"	"14"	55	189093	29.1
+	"Wisconsin"	"55"	"15 years"	"15"	76	189421	40.1
+	"Wisconsin"	"55"	"16 years"	"16"	99	190981	51.8
+	"Wisconsin"	"55"	"17 years"	"17"	104	191704	54.3
+	"Wisconsin"	"55"	"18 years"	"18"	148	192151	77.0
+	"Wisconsin"	"55"	"19 years"	"19"	192	201556	95.3
+	"Wisconsin"	"55"	"20 years"	"20"	176	200671	87.7
+	"Wisconsin"	"55"	"21 years"	"21"	255	199989	127.5
+	"Wisconsin"	"55"	"22 years"	"22"	248	204527	121.3
+	"Wisconsin"	"55"	"23 years"	"23"	286	203653	140.4
+	"Wisconsin"	"55"	"24 years"	"24"	279	200977	138.8
+	"Wisconsin"	"55"	"25 years"	"25"	287	197911	145.0
+	"Wisconsin"	"55"	"26 years"	"26"	314	195482	160.6
+	"Wisconsin"	"55"	"27 years"	"27"	305	191790	159.0
+	"Wisconsin"	"55"	"28 years"	"28"	329	188374	174.7
+	"Wisconsin"	"55"	"29 years"	"29"	321	184901	173.6
+	"Wisconsin"	"55"	"30 years"	"30"	340	183993	184.8
+	"Wisconsin"	"55"	"31 years"	"31"	358	184425	194.1
+	"Wisconsin"	"55"	"32 years"	"32"	336	184670	181.9
+	"Wisconsin"	"55"	"33 years"	"33"	386	186300	207.2
+	"Wisconsin"	"55"	"34 years"	"34"	378	187870	201.2
+	"Wisconsin"	"55"	"35 years"	"35"	392	188890	207.5
+	"Wisconsin"	"55"	"36 years"	"36"	401	188490	212.7
+	"Wisconsin"	"55"	"37 years"	"37"	419	188026	222.8
+	"Wisconsin"	"55"	"38 years"	"38"	405	185278	218.6
+	"Wisconsin"	"55"	"39 years"	"39"	379	181810	208.5
+	"Wisconsin"	"55"	"40 years"	"40"	373	176842	210.9
+	"Wisconsin"	"55"	"41 years"	"41"	391	172500	226.7
+	"Wisconsin"	"55"	"42 years"	"42"	412	168516	244.5
+	"Wisconsin"	"55"	"43 years"	"43"	446	165523	269.4
+	"Wisconsin"	"55"	"44 years"	"44"	449	165660	271.0
+	"Wisconsin"	"55"	"45 years"	"45"	511	170166	300.3
+	"Wisconsin"	"55"	"46 years"	"46"	607	173364	350.1
+	"Wisconsin"	"55"	"47 years"	"47"	637	177505	358.9
+	"Wisconsin"	"55"	"48 years"	"48"	660	180801	365.0
+	"Wisconsin"	"55"	"49 years"	"49"	722	183765	392.9
+	"Wisconsin"	"55"	"50 years"	"50"	789	184684	427.2
+	"Wisconsin"	"55"	"51 years"	"51"	934	187264	498.8
+	"Wisconsin"	"55"	"52 years"	"52"	1069	192118	556.4
+	"Wisconsin"	"55"	"53 years"	"53"	1222	197986	617.2
+	"Wisconsin"	"55"	"54 years"	"54"	1195	203084	588.4
+	"Wisconsin"	"55"	"55 years"	"55"	1430	207714	688.4
+	"Wisconsin"	"55"	"56 years"	"56"	1501	210427	713.3
+	"Wisconsin"	"55"	"57 years"	"57"	1584	210460	752.6
+	"Wisconsin"	"55"	"58 years"	"58"	1818	210825	862.3
+	"Wisconsin"	"55"	"59 years"	"59"	1969	208905	942.5
+	"Wisconsin"	"55"	"60 years"	"60"	2070	204528	1012.1
+	"Wisconsin"	"55"	"61 years"	"61"	2158	200449	1076.6
+	"Wisconsin"	"55"	"62 years"	"62"	2233	194819	1146.2
+	"Wisconsin"	"55"	"63 years"	"63"	2448	188679	1297.4
+	"Wisconsin"	"55"	"64 years"	"64"	2497	182434	1368.7
+	"Wisconsin"	"55"	"65 years"	"65"	2557	176153	1451.6
+	"Wisconsin"	"55"	"66 years"	"66"	2649	168140	1575.5
+	"Wisconsin"	"55"	"67 years"	"67"	2659	161063	1650.9
+	"Wisconsin"	"55"	"68 years"	"68"	2809	154184	1821.8
+	"Wisconsin"	"55"	"69 years"	"69"	2973	148979	1995.6
+	"Wisconsin"	"55"	"70 years"	"70"	2882	136980	2104.0
+	"Wisconsin"	"55"	"71 years"	"71"	2989	126298	2366.6
+	"Wisconsin"	"55"	"72 years"	"72"	3095	116194	2663.6
+	"Wisconsin"	"55"	"73 years"	"73"	3139	107563	2918.3
+	"Wisconsin"	"55"	"74 years"	"74"	3166	95788	3305.2
+	"Wisconsin"	"55"	"75 years"	"75"	3197	89845	3558.4
+	"Wisconsin"	"55"	"76 years"	"76"	3206	83399	3844.2
+	"Wisconsin"	"55"	"77 years"	"77"	3301	76883	4293.5
+	"Wisconsin"	"55"	"78 years"	"78"	3363	69600	4831.9
+	"Wisconsin"	"55"	"79 years"	"79"	3371	64050	5263.1
+	"Wisconsin"	"55"	"80 years"	"80"	3582	59148	6056.0
+	"Wisconsin"	"55"	"81 years"	"81"	3605	54927	6563.3
+	"Wisconsin"	"55"	"82 years"	"82"	3542	49830	7108.2
+	"Wisconsin"	"55"	"83 years"	"83"	3735	45142	8273.9
+	"Wisconsin"	"55"	"84 years"	"84"	3790	40853	9277.2
+	"Wisconsin"	"55"	"85 years"	"85"	3827	Not Applicable	Not Applicable
+	"Wisconsin"	"55"	"86 years"	"86"	3898	Not Applicable	Not Applicable
+	"Wisconsin"	"55"	"87 years"	"87"	3791	Not Applicable	Not Applicable
+	"Wisconsin"	"55"	"88 years"	"88"	3740	Not Applicable	Not Applicable
+	"Wisconsin"	"55"	"89 years"	"89"	3698	Not Applicable	Not Applicable
+	"Wisconsin"	"55"	"90 years"	"90"	3345	Not Applicable	Not Applicable
+	"Wisconsin"	"55"	"91 years"	"91"	3115	Not Applicable	Not Applicable
+	"Wisconsin"	"55"	"92 years"	"92"	2817	Not Applicable	Not Applicable
+	"Wisconsin"	"55"	"93 years"	"93"	2391	Not Applicable	Not Applicable
+	"Wisconsin"	"55"	"94 years"	"94"	1882	Not Applicable	Not Applicable
+	"Wisconsin"	"55"	"95 years"	"95"	1595	Not Applicable	Not Applicable
+	"Wisconsin"	"55"	"96 years"	"96"	1162	Not Applicable	Not Applicable
+	"Wisconsin"	"55"	"97 years"	"97"	907	Not Applicable	Not Applicable
+	"Wisconsin"	"55"	"98 years"	"98"	603	Not Applicable	Not Applicable
+	"Wisconsin"	"55"	"99 years"	"99"	395	Not Applicable	Not Applicable
+	"Wisconsin"	"55"	"100+ years"	"100"	595	Not Applicable	Not Applicable
+"---"
+"Dataset: Underlying Cause of Death, 1999-2020"
+"Query Parameters:"
+"Title: Wisconsin General M"
+"Gender: Male"
+"States: Wisconsin (55)"
+"Year/Month: 2016; 2017; 2018; 2019; 2020"
+"Group By: State; Single-Year Ages"
+"Show Totals: Disabled"
+"Show Zero Values: False"
+"Show Suppressed: False"
+"Calculate Rates Per: 100,000"
+"Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/ucd.html for more information."
+"---"
+"Query Date: Apr 11, 2022 3:20:46 AM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. Underlying Cause of Death"
+"1999-2020 on CDC WONDER Online Database, released in 2021. Data are from the Multiple Cause of Death Files, 1999-2020, as"
+"compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative Program. Accessed"
+"at http://wonder.cdc.gov/ucd-icd10.html on Apr 11, 2022 3:20:46 AM"
+"---"
+Messages:
+"1. Totals are not available for these results due to suppression constraints. More Information:"
+"http://wonder.cdc.gov/wonder/help/faq.html#Privacy."
+"2. Rows with suppressed Deaths are hidden. Use Quick Options above to show suppressed rows."
+"---"
+Caveats:
+"1. Population and rates are labeled 'Not Applicable' when they include a subset of ages 85-100+ because populations are not"
+"available for those ages. More information: http://wonder.cdc.gov/wonder/help/ucd.html#Ages 85-100."
+"2. Data are Suppressed when the data meet the criteria for confidentiality constraints. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Assurance of Confidentiality."
+"3. Death rates are flagged as Unreliable when the rate is calculated with a numerator of 20 or less. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Unreliable."
+"4. Deaths of persons with Age ""Not Stated"" are included in ""All"" counts and rates, but are not distributed among age groups,"
+"so are not included in age-specific counts, age-specific rates or in any age-adjusted rates. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Not Stated."
+"5. The population figures for year 2020 are bridged-race estimates of the July 1 resident population, from the Vintage 2020"
+"postcensal series released by NCHS on September 22, 2021. The population figures for year 2019 are bridged-race estimates of the"
+"July 1 resident population, from the Vintage 2019 postcensal series released by NCHS on July 9, 2020. The population figures for"
+"year 2018 are bridged-race estimates of the July 1 resident population, from the Vintage 2018 postcensal series released by NCHS"
+"on June 25, 2019. The population figures for year 2017 are bridged-race estimates of the July 1 resident population, from the"
+"Vintage 2017 postcensal series released by NCHS on June 27, 2018. The population figures for year 2016 are bridged-race"
+"estimates of the July 1 resident population, from the Vintage 2016 postcensal series released by NCHS on June 26, 2017. The"
+"population figures for year 2015 are bridged-race estimates of the July 1 resident population, from the Vintage 2015 postcensal"
+"series released by NCHS on June 28, 2016. The population figures for year 2014 are bridged-race estimates of the July 1 resident"
+"population, from the Vintage 2014 postcensal series released by NCHS on June 30, 2015. The population figures for year 2013 are"
+"bridged-race estimates of the July 1 resident population, from the Vintage 2013 postcensal series released by NCHS on June 26,"
+"2014. The population figures for year 2012 are bridged-race estimates of the July 1 resident population, from the Vintage 2012"
+"postcensal series released by NCHS on June 13, 2013. The population figures for year 2011 are bridged-race estimates of the July"
+"1 resident population, from the Vintage 2011 postcensal series released by NCHS on July 18, 2012. Population figures for 2010"
+"are April 1 Census counts. The population figures for years 2001 - 2009 are bridged-race estimates of the July 1 resident"
+"population, from the revised intercensal county-level 2000 - 2009 series released by NCHS on October 26, 2012. Population"
+"figures for 2000 are April 1 Census counts. Population figures for 1999 are from the 1990-1999 intercensal series of July 1"
+"estimates. Population figures for the infant age groups are the number of live births. <br/><b>Note:</b> Rates and population"
+"figures for years 2001 - 2009 differ slightly from previously published reports, due to use of the population estimates which"
+"were available at the time of release."
+"6. The population figures used in the calculation of death rates for the age group 'under 1 year' are the estimates of the"
+"resident population that is under one year of age. More information: http://wonder.cdc.gov/wonder/help/ucd.html#Age Group."

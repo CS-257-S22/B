@@ -1,0 +1,143 @@
+"Notes"	"State"	"State Code"	"Single-Year Ages"	"Single-Year Ages Code"	Deaths	Population	Crude Rate
+	"District of Columbia"	"11"	"< 1 year"	"0"	126	23532	535.4
+	"District of Columbia"	"11"	"19 years"	"19"	10	32834	Unreliable
+	"District of Columbia"	"11"	"20 years"	"20"	11	28698	Unreliable
+	"District of Columbia"	"11"	"23 years"	"23"	14	31576	Unreliable
+	"District of Columbia"	"11"	"24 years"	"24"	14	38054	Unreliable
+	"District of Columbia"	"11"	"25 years"	"25"	14	41168	Unreliable
+	"District of Columbia"	"11"	"26 years"	"26"	12	42950	Unreliable
+	"District of Columbia"	"11"	"27 years"	"27"	15	44715	Unreliable
+	"District of Columbia"	"11"	"28 years"	"28"	20	45360	44.1
+	"District of Columbia"	"11"	"29 years"	"29"	22	46067	47.8
+	"District of Columbia"	"11"	"30 years"	"30"	17	44705	Unreliable
+	"District of Columbia"	"11"	"31 years"	"31"	18	44384	Unreliable
+	"District of Columbia"	"11"	"32 years"	"32"	30	42111	71.2
+	"District of Columbia"	"11"	"33 years"	"33"	32	39852	80.3
+	"District of Columbia"	"11"	"34 years"	"34"	26	38111	68.2
+	"District of Columbia"	"11"	"35 years"	"35"	29	35616	81.4
+	"District of Columbia"	"11"	"36 years"	"36"	34	33959	100.1
+	"District of Columbia"	"11"	"37 years"	"37"	30	31316	95.8
+	"District of Columbia"	"11"	"38 years"	"38"	32	29341	109.1
+	"District of Columbia"	"11"	"39 years"	"39"	45	27230	165.3
+	"District of Columbia"	"11"	"40 years"	"40"	39	25092	155.4
+	"District of Columbia"	"11"	"41 years"	"41"	28	23410	119.6
+	"District of Columbia"	"11"	"42 years"	"42"	35	21683	161.4
+	"District of Columbia"	"11"	"43 years"	"43"	44	20669	212.9
+	"District of Columbia"	"11"	"44 years"	"44"	41	19923	205.8
+	"District of Columbia"	"11"	"45 years"	"45"	58	19680	294.7
+	"District of Columbia"	"11"	"46 years"	"46"	42	19606	214.2
+	"District of Columbia"	"11"	"47 years"	"47"	52	19570	265.7
+	"District of Columbia"	"11"	"48 years"	"48"	63	18838	334.4
+	"District of Columbia"	"11"	"49 years"	"49"	82	18649	439.7
+	"District of Columbia"	"11"	"50 years"	"50"	71	18392	386.0
+	"District of Columbia"	"11"	"51 years"	"51"	103	18221	565.3
+	"District of Columbia"	"11"	"52 years"	"52"	113	18482	611.4
+	"District of Columbia"	"11"	"53 years"	"53"	112	18400	608.7
+	"District of Columbia"	"11"	"54 years"	"54"	126	18538	679.7
+	"District of Columbia"	"11"	"55 years"	"55"	158	18940	834.2
+	"District of Columbia"	"11"	"56 years"	"56"	138	18784	734.7
+	"District of Columbia"	"11"	"57 years"	"57"	173	18751	922.6
+	"District of Columbia"	"11"	"58 years"	"58"	175	18495	946.2
+	"District of Columbia"	"11"	"59 years"	"59"	174	18462	942.5
+	"District of Columbia"	"11"	"60 years"	"60"	191	18267	1045.6
+	"District of Columbia"	"11"	"61 years"	"61"	225	18251	1232.8
+	"District of Columbia"	"11"	"62 years"	"62"	224	18046	1241.3
+	"District of Columbia"	"11"	"63 years"	"63"	213	17878	1191.4
+	"District of Columbia"	"11"	"64 years"	"64"	238	17471	1362.3
+	"District of Columbia"	"11"	"65 years"	"65"	224	16874	1327.5
+	"District of Columbia"	"11"	"66 years"	"66"	231	16373	1410.9
+	"District of Columbia"	"11"	"67 years"	"67"	248	15785	1571.1
+	"District of Columbia"	"11"	"68 years"	"68"	197	15188	1297.1
+	"District of Columbia"	"11"	"69 years"	"69"	243	14879	1633.2
+	"District of Columbia"	"11"	"70 years"	"70"	260	13763	1889.1
+	"District of Columbia"	"11"	"71 years"	"71"	208	12840	1619.9
+	"District of Columbia"	"11"	"72 years"	"72"	233	11990	1943.3
+	"District of Columbia"	"11"	"73 years"	"73"	208	11120	1870.5
+	"District of Columbia"	"11"	"74 years"	"74"	244	10199	2392.4
+	"District of Columbia"	"11"	"75 years"	"75"	226	9681	2334.5
+	"District of Columbia"	"11"	"76 years"	"76"	231	9124	2531.8
+	"District of Columbia"	"11"	"77 years"	"77"	265	8409	3151.4
+	"District of Columbia"	"11"	"78 years"	"78"	241	7754	3108.1
+	"District of Columbia"	"11"	"79 years"	"79"	244	7204	3387.0
+	"District of Columbia"	"11"	"80 years"	"80"	255	6842	3727.0
+	"District of Columbia"	"11"	"81 years"	"81"	242	6220	3890.7
+	"District of Columbia"	"11"	"82 years"	"82"	257	5887	4365.6
+	"District of Columbia"	"11"	"83 years"	"83"	271	5666	4782.9
+	"District of Columbia"	"11"	"84 years"	"84"	297	5133	5786.1
+	"District of Columbia"	"11"	"85 years"	"85"	291	Not Applicable	Not Applicable
+	"District of Columbia"	"11"	"86 years"	"86"	326	Not Applicable	Not Applicable
+	"District of Columbia"	"11"	"87 years"	"87"	289	Not Applicable	Not Applicable
+	"District of Columbia"	"11"	"88 years"	"88"	309	Not Applicable	Not Applicable
+	"District of Columbia"	"11"	"89 years"	"89"	336	Not Applicable	Not Applicable
+	"District of Columbia"	"11"	"90 years"	"90"	309	Not Applicable	Not Applicable
+	"District of Columbia"	"11"	"91 years"	"91"	315	Not Applicable	Not Applicable
+	"District of Columbia"	"11"	"92 years"	"92"	301	Not Applicable	Not Applicable
+	"District of Columbia"	"11"	"93 years"	"93"	310	Not Applicable	Not Applicable
+	"District of Columbia"	"11"	"94 years"	"94"	265	Not Applicable	Not Applicable
+	"District of Columbia"	"11"	"95 years"	"95"	247	Not Applicable	Not Applicable
+	"District of Columbia"	"11"	"96 years"	"96"	242	Not Applicable	Not Applicable
+	"District of Columbia"	"11"	"97 years"	"97"	188	Not Applicable	Not Applicable
+	"District of Columbia"	"11"	"98 years"	"98"	149	Not Applicable	Not Applicable
+	"District of Columbia"	"11"	"99 years"	"99"	106	Not Applicable	Not Applicable
+	"District of Columbia"	"11"	"100+ years"	"100"	340	Not Applicable	Not Applicable
+"Total"	"District of Columbia"	"11"			12690	1837783	690.5
+"Total"					12690	1837783	690.5
+"---"
+"Dataset: Underlying Cause of Death, 1999-2020"
+"Query Parameters:"
+"Title: DC General F"
+"Gender: Female"
+"States: District of Columbia (11)"
+"Year/Month: 2016; 2017; 2018; 2019; 2020"
+"Group By: State; Single-Year Ages"
+"Show Totals: True"
+"Show Zero Values: False"
+"Show Suppressed: False"
+"Calculate Rates Per: 100,000"
+"Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/ucd.html for more information."
+"---"
+"Query Date: Apr 8, 2022 1:04:24 AM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. Underlying Cause of Death"
+"1999-2020 on CDC WONDER Online Database, released in 2021. Data are from the Multiple Cause of Death Files, 1999-2020, as"
+"compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative Program. Accessed"
+"at http://wonder.cdc.gov/ucd-icd10.html on Apr 8, 2022 1:04:24 AM"
+"---"
+Messages:
+"1. Rows with suppressed Deaths are hidden, but the Deaths and Population values in those rows are included in the totals. Use"
+"Quick Options above to show suppressed rows."
+"---"
+Caveats:
+"1. Population and rates are labeled 'Not Applicable' when they include a subset of ages 85-100+ because populations are not"
+"available for those ages. More information: http://wonder.cdc.gov/wonder/help/ucd.html#Ages 85-100."
+"2. Data are Suppressed when the data meet the criteria for confidentiality constraints. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Assurance of Confidentiality."
+"3. Death rates are flagged as Unreliable when the rate is calculated with a numerator of 20 or less. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Unreliable."
+"4. Deaths of persons with Age ""Not Stated"" are included in ""All"" counts and rates, but are not distributed among age groups,"
+"so are not included in age-specific counts, age-specific rates or in any age-adjusted rates. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Not Stated."
+"5. The population figures for year 2020 are bridged-race estimates of the July 1 resident population, from the Vintage 2020"
+"postcensal series released by NCHS on September 22, 2021. The population figures for year 2019 are bridged-race estimates of the"
+"July 1 resident population, from the Vintage 2019 postcensal series released by NCHS on July 9, 2020. The population figures for"
+"year 2018 are bridged-race estimates of the July 1 resident population, from the Vintage 2018 postcensal series released by NCHS"
+"on June 25, 2019. The population figures for year 2017 are bridged-race estimates of the July 1 resident population, from the"
+"Vintage 2017 postcensal series released by NCHS on June 27, 2018. The population figures for year 2016 are bridged-race"
+"estimates of the July 1 resident population, from the Vintage 2016 postcensal series released by NCHS on June 26, 2017. The"
+"population figures for year 2015 are bridged-race estimates of the July 1 resident population, from the Vintage 2015 postcensal"
+"series released by NCHS on June 28, 2016. The population figures for year 2014 are bridged-race estimates of the July 1 resident"
+"population, from the Vintage 2014 postcensal series released by NCHS on June 30, 2015. The population figures for year 2013 are"
+"bridged-race estimates of the July 1 resident population, from the Vintage 2013 postcensal series released by NCHS on June 26,"
+"2014. The population figures for year 2012 are bridged-race estimates of the July 1 resident population, from the Vintage 2012"
+"postcensal series released by NCHS on June 13, 2013. The population figures for year 2011 are bridged-race estimates of the July"
+"1 resident population, from the Vintage 2011 postcensal series released by NCHS on July 18, 2012. Population figures for 2010"
+"are April 1 Census counts. The population figures for years 2001 - 2009 are bridged-race estimates of the July 1 resident"
+"population, from the revised intercensal county-level 2000 - 2009 series released by NCHS on October 26, 2012. Population"
+"figures for 2000 are April 1 Census counts. Population figures for 1999 are from the 1990-1999 intercensal series of July 1"
+"estimates. Population figures for the infant age groups are the number of live births. <br/><b>Note:</b> Rates and population"
+"figures for years 2001 - 2009 differ slightly from previously published reports, due to use of the population estimates which"
+"were available at the time of release."
+"6. The population figures used in the calculation of death rates for the age group 'under 1 year' are the estimates of the"
+"resident population that is under one year of age. More information: http://wonder.cdc.gov/wonder/help/ucd.html#Age Group."

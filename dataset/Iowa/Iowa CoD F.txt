@@ -1,0 +1,1519 @@
+"Notes"	"State"	"State Code"	"Single-Year Ages"	"Single-Year Ages Code"	"Cause of death"	"Cause of death Code"	Deaths	Population	Crude Rate
+	"Iowa"	"19"	"< 1 year"	"0"	"Extreme immaturity"	"P07.2"	27	93435	28.9
+	"Iowa"	"19"	"< 1 year"	"0"	"Other preterm infants"	"P07.3"	18	93435	Unreliable
+	"Iowa"	"19"	"< 1 year"	"0"	"Respiratory distress syndrome of newborn"	"P22.0"	11	93435	Unreliable
+	"Iowa"	"19"	"< 1 year"	"0"	"Hypoxic ischemic encephalopathy of newborn"	"P91.6"	11	93435	Unreliable
+	"Iowa"	"19"	"< 1 year"	"0"	"Congenital malformation of heart, unspecified"	"Q24.9"	12	93435	Unreliable
+	"Iowa"	"19"	"< 1 year"	"0"	"Hypoplasia and dysplasia of lung"	"Q33.6"	11	93435	Unreliable
+	"Iowa"	"19"	"< 1 year"	"0"	"Sudden infant death syndrome - SIDS"	"R95"	46	93435	49.2
+	"Iowa"	"19"	"< 1 year"	"0"	"Other ill-defined and unspecified causes of mortality"	"R99"	24	93435	25.7
+	"Iowa"	"19"	"< 1 year"	"0"	"Accidental suffocation and strangulation in bed"	"W75"	15	93435	Unreliable
+	"Iowa"	"19"	"31 years"	"31"	"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X44"	10	93976	Unreliable
+	"Iowa"	"19"	"42 years"	"42"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	12	87420	Unreliable
+	"Iowa"	"19"	"43 years"	"43"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	10	85785	Unreliable
+	"Iowa"	"19"	"44 years"	"44"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	11	85390	Unreliable
+	"Iowa"	"19"	"46 years"	"46"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	10	88517	Unreliable
+	"Iowa"	"19"	"46 years"	"46"	"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X44"	11	88517	Unreliable
+	"Iowa"	"19"	"47 years"	"47"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	19	90322	Unreliable
+	"Iowa"	"19"	"47 years"	"47"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	10	90322	Unreliable
+	"Iowa"	"19"	"48 years"	"48"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	13	91334	Unreliable
+	"Iowa"	"19"	"48 years"	"48"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	15	91334	Unreliable
+	"Iowa"	"19"	"49 years"	"49"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	15	91652	Unreliable
+	"Iowa"	"19"	"49 years"	"49"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	20	91652	21.8
+	"Iowa"	"19"	"50 years"	"50"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	30	91211	32.9
+	"Iowa"	"19"	"50 years"	"50"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	23	91211	25.2
+	"Iowa"	"19"	"50 years"	"50"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	10	91211	Unreliable
+	"Iowa"	"19"	"50 years"	"50"	"Alcoholic cirrhosis of liver"	"K70.3"	14	91211	Unreliable
+	"Iowa"	"19"	"51 years"	"51"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	18	92051	Unreliable
+	"Iowa"	"19"	"51 years"	"51"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	14	92051	Unreliable
+	"Iowa"	"19"	"51 years"	"51"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	16	92051	Unreliable
+	"Iowa"	"19"	"51 years"	"51"	"Alcoholic cirrhosis of liver"	"K70.3"	11	92051	Unreliable
+	"Iowa"	"19"	"52 years"	"52"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	19	94105	Unreliable
+	"Iowa"	"19"	"52 years"	"52"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	32	94105	34.0
+	"Iowa"	"19"	"52 years"	"52"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	19	94105	Unreliable
+	"Iowa"	"19"	"52 years"	"52"	"Atherosclerotic heart disease"	"I25.1"	15	94105	Unreliable
+	"Iowa"	"19"	"52 years"	"52"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	11	94105	Unreliable
+	"Iowa"	"19"	"52 years"	"52"	"Alcoholic cirrhosis of liver"	"K70.3"	11	94105	Unreliable
+	"Iowa"	"19"	"53 years"	"53"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	31	97622	31.8
+	"Iowa"	"19"	"53 years"	"53"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	21	97622	21.5
+	"Iowa"	"19"	"53 years"	"53"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	16	97622	Unreliable
+	"Iowa"	"19"	"53 years"	"53"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	12	97622	Unreliable
+	"Iowa"	"19"	"54 years"	"54"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	10	101117	Unreliable
+	"Iowa"	"19"	"54 years"	"54"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	41	101117	40.5
+	"Iowa"	"19"	"54 years"	"54"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	25	101117	24.7
+	"Iowa"	"19"	"54 years"	"54"	"Brain, unspecified - Malignant neoplasms"	"C71.9"	10	101117	Unreliable
+	"Iowa"	"19"	"54 years"	"54"	"Acute myocardial infarction, unspecified"	"I21.9"	10	101117	Unreliable
+	"Iowa"	"19"	"54 years"	"54"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	16	101117	Unreliable
+	"Iowa"	"19"	"54 years"	"54"	"Atherosclerotic heart disease"	"I25.1"	11	101117	Unreliable
+	"Iowa"	"19"	"54 years"	"54"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	16	101117	Unreliable
+	"Iowa"	"19"	"54 years"	"54"	"Alcoholic cirrhosis of liver"	"K70.3"	10	101117	Unreliable
+	"Iowa"	"19"	"55 years"	"55"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	30	104847	28.6
+	"Iowa"	"19"	"55 years"	"55"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	31	104847	29.6
+	"Iowa"	"19"	"55 years"	"55"	"Acute myocardial infarction, unspecified"	"I21.9"	12	104847	Unreliable
+	"Iowa"	"19"	"55 years"	"55"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	16	104847	Unreliable
+	"Iowa"	"19"	"55 years"	"55"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	22	104847	21.0
+	"Iowa"	"19"	"56 years"	"56"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	10	107246	Unreliable
+	"Iowa"	"19"	"56 years"	"56"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	16	107246	Unreliable
+	"Iowa"	"19"	"56 years"	"56"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	42	107246	39.2
+	"Iowa"	"19"	"56 years"	"56"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	34	107246	31.7
+	"Iowa"	"19"	"56 years"	"56"	"Malignant neoplasm of ovary"	"C56"	16	107246	Unreliable
+	"Iowa"	"19"	"56 years"	"56"	"Malignant neoplasm without specification of site"	"C80"	11	107246	Unreliable
+	"Iowa"	"19"	"56 years"	"56"	"Acute myocardial infarction, unspecified"	"I21.9"	22	107246	20.5
+	"Iowa"	"19"	"56 years"	"56"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	28	107246	26.1
+	"Iowa"	"19"	"56 years"	"56"	"Atherosclerotic heart disease"	"I25.1"	21	107246	19.6
+	"Iowa"	"19"	"56 years"	"56"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	24	107246	22.4
+	"Iowa"	"19"	"56 years"	"56"	"Alcoholic cirrhosis of liver"	"K70.3"	13	107246	Unreliable
+	"Iowa"	"19"	"56 years"	"56"	"COVID-19"	"U07.1"	10	107246	Unreliable
+	"Iowa"	"19"	"57 years"	"57"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	19	108289	Unreliable
+	"Iowa"	"19"	"57 years"	"57"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	56	108289	51.7
+	"Iowa"	"19"	"57 years"	"57"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	28	108289	25.9
+	"Iowa"	"19"	"57 years"	"57"	"Malignant neoplasm of ovary"	"C56"	19	108289	Unreliable
+	"Iowa"	"19"	"57 years"	"57"	"Malignant neoplasm without specification of site"	"C80"	14	108289	Unreliable
+	"Iowa"	"19"	"57 years"	"57"	"Acute myocardial infarction, unspecified"	"I21.9"	22	108289	20.3
+	"Iowa"	"19"	"57 years"	"57"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	13	108289	Unreliable
+	"Iowa"	"19"	"57 years"	"57"	"Atherosclerotic heart disease"	"I25.1"	20	108289	18.5
+	"Iowa"	"19"	"57 years"	"57"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	22	108289	20.3
+	"Iowa"	"19"	"57 years"	"57"	"Alcoholic cirrhosis of liver"	"K70.3"	16	108289	Unreliable
+	"Iowa"	"19"	"57 years"	"57"	"COVID-19"	"U07.1"	11	108289	Unreliable
+	"Iowa"	"19"	"58 years"	"58"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	11	108682	Unreliable
+	"Iowa"	"19"	"58 years"	"58"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	61	108682	56.1
+	"Iowa"	"19"	"58 years"	"58"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	43	108682	39.6
+	"Iowa"	"19"	"58 years"	"58"	"Malignant neoplasm of ovary"	"C56"	10	108682	Unreliable
+	"Iowa"	"19"	"58 years"	"58"	"Brain, unspecified - Malignant neoplasms"	"C71.9"	14	108682	Unreliable
+	"Iowa"	"19"	"58 years"	"58"	"Unspecified diabetes mellitus, without complications"	"E14.9"	11	108682	Unreliable
+	"Iowa"	"19"	"58 years"	"58"	"Acute myocardial infarction, unspecified"	"I21.9"	27	108682	24.8
+	"Iowa"	"19"	"58 years"	"58"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	22	108682	20.2
+	"Iowa"	"19"	"58 years"	"58"	"Atherosclerotic heart disease"	"I25.1"	20	108682	18.4
+	"Iowa"	"19"	"58 years"	"58"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	27	108682	24.8
+	"Iowa"	"19"	"58 years"	"58"	"Alcoholic cirrhosis of liver"	"K70.3"	11	108682	Unreliable
+	"Iowa"	"19"	"58 years"	"58"	"COVID-19"	"U07.1"	13	108682	Unreliable
+	"Iowa"	"19"	"59 years"	"59"	"Septicaemia, unspecified"	"A41.9"	10	108336	Unreliable
+	"Iowa"	"19"	"59 years"	"59"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	11	108336	Unreliable
+	"Iowa"	"19"	"59 years"	"59"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	20	108336	18.5
+	"Iowa"	"19"	"59 years"	"59"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	81	108336	74.8
+	"Iowa"	"19"	"59 years"	"59"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	34	108336	31.4
+	"Iowa"	"19"	"59 years"	"59"	"Brain, unspecified - Malignant neoplasms"	"C71.9"	10	108336	Unreliable
+	"Iowa"	"19"	"59 years"	"59"	"Acute myocardial infarction, unspecified"	"I21.9"	18	108336	Unreliable
+	"Iowa"	"19"	"59 years"	"59"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	19	108336	Unreliable
+	"Iowa"	"19"	"59 years"	"59"	"Atherosclerotic heart disease"	"I25.1"	21	108336	19.4
+	"Iowa"	"19"	"59 years"	"59"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	39	108336	36.0
+	"Iowa"	"19"	"59 years"	"59"	"Alcoholic cirrhosis of liver"	"K70.3"	12	108336	Unreliable
+	"Iowa"	"19"	"59 years"	"59"	"COVID-19"	"U07.1"	11	108336	Unreliable
+	"Iowa"	"19"	"60 years"	"60"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	10	106811	Unreliable
+	"Iowa"	"19"	"60 years"	"60"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	22	106811	20.6
+	"Iowa"	"19"	"60 years"	"60"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	77	106811	72.1
+	"Iowa"	"19"	"60 years"	"60"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	36	106811	33.7
+	"Iowa"	"19"	"60 years"	"60"	"Malignant neoplasm of ovary"	"C56"	13	106811	Unreliable
+	"Iowa"	"19"	"60 years"	"60"	"Unspecified diabetes mellitus, without complications"	"E14.9"	10	106811	Unreliable
+	"Iowa"	"19"	"60 years"	"60"	"Acute myocardial infarction, unspecified"	"I21.9"	22	106811	20.6
+	"Iowa"	"19"	"60 years"	"60"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	32	106811	30.0
+	"Iowa"	"19"	"60 years"	"60"	"Atherosclerotic heart disease"	"I25.1"	25	106811	23.4
+	"Iowa"	"19"	"60 years"	"60"	"Stroke, not specified as haemorrhage or infarction"	"I64"	10	106811	Unreliable
+	"Iowa"	"19"	"60 years"	"60"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	10	106811	Unreliable
+	"Iowa"	"19"	"60 years"	"60"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	46	106811	43.1
+	"Iowa"	"19"	"60 years"	"60"	"COVID-19"	"U07.1"	16	106811	Unreliable
+	"Iowa"	"19"	"61 years"	"61"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	12	104970	Unreliable
+	"Iowa"	"19"	"61 years"	"61"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	16	104970	Unreliable
+	"Iowa"	"19"	"61 years"	"61"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	77	104970	73.4
+	"Iowa"	"19"	"61 years"	"61"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	45	104970	42.9
+	"Iowa"	"19"	"61 years"	"61"	"Malignant neoplasm of ovary"	"C56"	22	104970	21.0
+	"Iowa"	"19"	"61 years"	"61"	"Acute myocardial infarction, unspecified"	"I21.9"	26	104970	24.8
+	"Iowa"	"19"	"61 years"	"61"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	36	104970	34.3
+	"Iowa"	"19"	"61 years"	"61"	"Atherosclerotic heart disease"	"I25.1"	25	104970	23.8
+	"Iowa"	"19"	"61 years"	"61"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	38	104970	36.2
+	"Iowa"	"19"	"61 years"	"61"	"COVID-19"	"U07.1"	12	104970	Unreliable
+	"Iowa"	"19"	"62 years"	"62"	"Septicaemia, unspecified"	"A41.9"	11	103097	Unreliable
+	"Iowa"	"19"	"62 years"	"62"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	15	103097	Unreliable
+	"Iowa"	"19"	"62 years"	"62"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	17	103097	Unreliable
+	"Iowa"	"19"	"62 years"	"62"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	83	103097	80.5
+	"Iowa"	"19"	"62 years"	"62"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	34	103097	33.0
+	"Iowa"	"19"	"62 years"	"62"	"Malignant neoplasm of ovary"	"C56"	17	103097	Unreliable
+	"Iowa"	"19"	"62 years"	"62"	"Brain, unspecified - Malignant neoplasms"	"C71.9"	11	103097	Unreliable
+	"Iowa"	"19"	"62 years"	"62"	"Malignant neoplasm without specification of site"	"C80"	19	103097	Unreliable
+	"Iowa"	"19"	"62 years"	"62"	"Acute myocardial infarction, unspecified"	"I21.9"	18	103097	Unreliable
+	"Iowa"	"19"	"62 years"	"62"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	28	103097	27.2
+	"Iowa"	"19"	"62 years"	"62"	"Atherosclerotic heart disease"	"I25.1"	30	103097	29.1
+	"Iowa"	"19"	"62 years"	"62"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	10	103097	Unreliable
+	"Iowa"	"19"	"62 years"	"62"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	41	103097	39.8
+	"Iowa"	"19"	"62 years"	"62"	"COVID-19"	"U07.1"	12	103097	Unreliable
+	"Iowa"	"19"	"63 years"	"63"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	13	100586	Unreliable
+	"Iowa"	"19"	"63 years"	"63"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	28	100586	27.8
+	"Iowa"	"19"	"63 years"	"63"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	97	100586	96.4
+	"Iowa"	"19"	"63 years"	"63"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	41	100586	40.8
+	"Iowa"	"19"	"63 years"	"63"	"Endometrium - Malignant neoplasms"	"C54.1"	10	100586	Unreliable
+	"Iowa"	"19"	"63 years"	"63"	"Malignant neoplasm of ovary"	"C56"	15	100586	Unreliable
+	"Iowa"	"19"	"63 years"	"63"	"Essential (primary) hypertension"	"I10"	11	100586	Unreliable
+	"Iowa"	"19"	"63 years"	"63"	"Acute myocardial infarction, unspecified"	"I21.9"	32	100586	31.8
+	"Iowa"	"19"	"63 years"	"63"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	27	100586	26.8
+	"Iowa"	"19"	"63 years"	"63"	"Atherosclerotic heart disease"	"I25.1"	34	100586	33.8
+	"Iowa"	"19"	"63 years"	"63"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	49	100586	48.7
+	"Iowa"	"19"	"63 years"	"63"	"COVID-19"	"U07.1"	16	100586	Unreliable
+	"Iowa"	"19"	"64 years"	"64"	"Septicaemia, unspecified"	"A41.9"	11	97930	Unreliable
+	"Iowa"	"19"	"64 years"	"64"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	18	97930	Unreliable
+	"Iowa"	"19"	"64 years"	"64"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	28	97930	28.6
+	"Iowa"	"19"	"64 years"	"64"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	88	97930	89.9
+	"Iowa"	"19"	"64 years"	"64"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	57	97930	58.2
+	"Iowa"	"19"	"64 years"	"64"	"Malignant neoplasm of ovary"	"C56"	20	97930	20.4
+	"Iowa"	"19"	"64 years"	"64"	"Unspecified diabetes mellitus, without complications"	"E14.9"	19	97930	Unreliable
+	"Iowa"	"19"	"64 years"	"64"	"Acute myocardial infarction, unspecified"	"I21.9"	20	97930	20.4
+	"Iowa"	"19"	"64 years"	"64"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	48	97930	49.0
+	"Iowa"	"19"	"64 years"	"64"	"Atherosclerotic heart disease"	"I25.1"	44	97930	44.9
+	"Iowa"	"19"	"64 years"	"64"	"Congestive heart failure"	"I50.0"	10	97930	Unreliable
+	"Iowa"	"19"	"64 years"	"64"	"Stroke, not specified as haemorrhage or infarction"	"I64"	11	97930	Unreliable
+	"Iowa"	"19"	"64 years"	"64"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	47	97930	48.0
+	"Iowa"	"19"	"64 years"	"64"	"COVID-19"	"U07.1"	12	97930	Unreliable
+	"Iowa"	"19"	"65 years"	"65"	"Septicaemia, unspecified"	"A41.9"	15	95223	Unreliable
+	"Iowa"	"19"	"65 years"	"65"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	13	95223	Unreliable
+	"Iowa"	"19"	"65 years"	"65"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	26	95223	27.3
+	"Iowa"	"19"	"65 years"	"65"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	100	95223	105.0
+	"Iowa"	"19"	"65 years"	"65"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	51	95223	53.6
+	"Iowa"	"19"	"65 years"	"65"	"Endometrium - Malignant neoplasms"	"C54.1"	18	95223	Unreliable
+	"Iowa"	"19"	"65 years"	"65"	"Malignant neoplasm of ovary"	"C56"	32	95223	33.6
+	"Iowa"	"19"	"65 years"	"65"	"Brain, unspecified - Malignant neoplasms"	"C71.9"	11	95223	Unreliable
+	"Iowa"	"19"	"65 years"	"65"	"Malignant neoplasm without specification of site"	"C80"	18	95223	Unreliable
+	"Iowa"	"19"	"65 years"	"65"	"Acute myocardial infarction, unspecified"	"I21.9"	37	95223	38.9
+	"Iowa"	"19"	"65 years"	"65"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	38	95223	39.9
+	"Iowa"	"19"	"65 years"	"65"	"Atherosclerotic heart disease"	"I25.1"	48	95223	50.4
+	"Iowa"	"19"	"65 years"	"65"	"Pneumonia, unspecified"	"J18.9"	12	95223	Unreliable
+	"Iowa"	"19"	"65 years"	"65"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	10	95223	Unreliable
+	"Iowa"	"19"	"65 years"	"65"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	47	95223	49.4
+	"Iowa"	"19"	"65 years"	"65"	"COVID-19"	"U07.1"	29	95223	30.5
+	"Iowa"	"19"	"66 years"	"66"	"Septicaemia, unspecified"	"A41.9"	15	91456	Unreliable
+	"Iowa"	"19"	"66 years"	"66"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	17	91456	Unreliable
+	"Iowa"	"19"	"66 years"	"66"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	19	91456	Unreliable
+	"Iowa"	"19"	"66 years"	"66"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	87	91456	95.1
+	"Iowa"	"19"	"66 years"	"66"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	54	91456	59.0
+	"Iowa"	"19"	"66 years"	"66"	"Endometrium - Malignant neoplasms"	"C54.1"	13	91456	Unreliable
+	"Iowa"	"19"	"66 years"	"66"	"Malignant neoplasm of ovary"	"C56"	28	91456	30.6
+	"Iowa"	"19"	"66 years"	"66"	"Malignant neoplasm of kidney, except renal pelvis"	"C64"	10	91456	Unreliable
+	"Iowa"	"19"	"66 years"	"66"	"Malignant neoplasm without specification of site"	"C80"	18	91456	Unreliable
+	"Iowa"	"19"	"66 years"	"66"	"Unspecified diabetes mellitus, without complications"	"E14.9"	12	91456	Unreliable
+	"Iowa"	"19"	"66 years"	"66"	"Unspecified dementia"	"F03"	11	91456	Unreliable
+	"Iowa"	"19"	"66 years"	"66"	"Acute myocardial infarction, unspecified"	"I21.9"	31	91456	33.9
+	"Iowa"	"19"	"66 years"	"66"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	40	91456	43.7
+	"Iowa"	"19"	"66 years"	"66"	"Atherosclerotic heart disease"	"I25.1"	41	91456	44.8
+	"Iowa"	"19"	"66 years"	"66"	"Other secondary pulmonary hypertension"	"I27.2"	10	91456	Unreliable
+	"Iowa"	"19"	"66 years"	"66"	"Stroke, not specified as haemorrhage or infarction"	"I64"	16	91456	Unreliable
+	"Iowa"	"19"	"66 years"	"66"	"Pneumonia, unspecified"	"J18.9"	13	91456	Unreliable
+	"Iowa"	"19"	"66 years"	"66"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	11	91456	Unreliable
+	"Iowa"	"19"	"66 years"	"66"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	56	91456	61.2
+	"Iowa"	"19"	"66 years"	"66"	"COVID-19"	"U07.1"	22	91456	24.1
+	"Iowa"	"19"	"67 years"	"67"	"Septicaemia, unspecified"	"A41.9"	12	88234	Unreliable
+	"Iowa"	"19"	"67 years"	"67"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	18	88234	Unreliable
+	"Iowa"	"19"	"67 years"	"67"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	50	88234	56.7
+	"Iowa"	"19"	"67 years"	"67"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	73	88234	82.7
+	"Iowa"	"19"	"67 years"	"67"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	51	88234	57.8
+	"Iowa"	"19"	"67 years"	"67"	"Endometrium - Malignant neoplasms"	"C54.1"	15	88234	Unreliable
+	"Iowa"	"19"	"67 years"	"67"	"Malignant neoplasm of ovary"	"C56"	15	88234	Unreliable
+	"Iowa"	"19"	"67 years"	"67"	"Malignant neoplasm without specification of site"	"C80"	15	88234	Unreliable
+	"Iowa"	"19"	"67 years"	"67"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	10	88234	Unreliable
+	"Iowa"	"19"	"67 years"	"67"	"Acute myocardial infarction, unspecified"	"I21.9"	27	88234	30.6
+	"Iowa"	"19"	"67 years"	"67"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	39	88234	44.2
+	"Iowa"	"19"	"67 years"	"67"	"Atherosclerotic heart disease"	"I25.1"	47	88234	53.3
+	"Iowa"	"19"	"67 years"	"67"	"Stroke, not specified as haemorrhage or infarction"	"I64"	12	88234	Unreliable
+	"Iowa"	"19"	"67 years"	"67"	"Pneumonia, unspecified"	"J18.9"	12	88234	Unreliable
+	"Iowa"	"19"	"67 years"	"67"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	12	88234	Unreliable
+	"Iowa"	"19"	"67 years"	"67"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	69	88234	78.2
+	"Iowa"	"19"	"67 years"	"67"	"Other and unspecified cirrhosis of liver"	"K74.6"	10	88234	Unreliable
+	"Iowa"	"19"	"67 years"	"67"	"COVID-19"	"U07.1"	27	88234	30.6
+	"Iowa"	"19"	"68 years"	"68"	"Septicaemia, unspecified"	"A41.9"	12	85357	Unreliable
+	"Iowa"	"19"	"68 years"	"68"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	20	85357	23.4
+	"Iowa"	"19"	"68 years"	"68"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	31	85357	36.3
+	"Iowa"	"19"	"68 years"	"68"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	119	85357	139.4
+	"Iowa"	"19"	"68 years"	"68"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	39	85357	45.7
+	"Iowa"	"19"	"68 years"	"68"	"Endometrium - Malignant neoplasms"	"C54.1"	16	85357	Unreliable
+	"Iowa"	"19"	"68 years"	"68"	"Malignant neoplasm of ovary"	"C56"	15	85357	Unreliable
+	"Iowa"	"19"	"68 years"	"68"	"Malignant neoplasm of kidney, except renal pelvis"	"C64"	11	85357	Unreliable
+	"Iowa"	"19"	"68 years"	"68"	"Malignant neoplasm without specification of site"	"C80"	19	85357	Unreliable
+	"Iowa"	"19"	"68 years"	"68"	"Acute myeloid leukaemia - Malignant neoplasms"	"C92.0"	14	85357	Unreliable
+	"Iowa"	"19"	"68 years"	"68"	"Unspecified diabetes mellitus, without complications"	"E14.9"	11	85357	Unreliable
+	"Iowa"	"19"	"68 years"	"68"	"Alzheimer disease, unspecified"	"G30.9"	13	85357	Unreliable
+	"Iowa"	"19"	"68 years"	"68"	"Acute myocardial infarction, unspecified"	"I21.9"	35	85357	41.0
+	"Iowa"	"19"	"68 years"	"68"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	50	85357	58.6
+	"Iowa"	"19"	"68 years"	"68"	"Atherosclerotic heart disease"	"I25.1"	39	85357	45.7
+	"Iowa"	"19"	"68 years"	"68"	"Stroke, not specified as haemorrhage or infarction"	"I64"	13	85357	Unreliable
+	"Iowa"	"19"	"68 years"	"68"	"Pneumonia, unspecified"	"J18.9"	10	85357	Unreliable
+	"Iowa"	"19"	"68 years"	"68"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	78	85357	91.4
+	"Iowa"	"19"	"68 years"	"68"	"COVID-19"	"U07.1"	23	85357	26.9
+	"Iowa"	"19"	"69 years"	"69"	"Septicaemia, unspecified"	"A41.9"	14	83288	Unreliable
+	"Iowa"	"19"	"69 years"	"69"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	21	83288	25.2
+	"Iowa"	"19"	"69 years"	"69"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	32	83288	38.4
+	"Iowa"	"19"	"69 years"	"69"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	107	83288	128.5
+	"Iowa"	"19"	"69 years"	"69"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	46	83288	55.2
+	"Iowa"	"19"	"69 years"	"69"	"Endometrium - Malignant neoplasms"	"C54.1"	15	83288	Unreliable
+	"Iowa"	"19"	"69 years"	"69"	"Malignant neoplasm of ovary"	"C56"	27	83288	32.4
+	"Iowa"	"19"	"69 years"	"69"	"Malignant neoplasm of kidney, except renal pelvis"	"C64"	10	83288	Unreliable
+	"Iowa"	"19"	"69 years"	"69"	"Brain, unspecified - Malignant neoplasms"	"C71.9"	11	83288	Unreliable
+	"Iowa"	"19"	"69 years"	"69"	"Malignant neoplasm without specification of site"	"C80"	22	83288	26.4
+	"Iowa"	"19"	"69 years"	"69"	"Multiple myeloma - Malignant neoplasms"	"C90.0"	14	83288	Unreliable
+	"Iowa"	"19"	"69 years"	"69"	"Unspecified diabetes mellitus, with renal complications"	"E14.2"	13	83288	Unreliable
+	"Iowa"	"19"	"69 years"	"69"	"Unspecified diabetes mellitus, without complications"	"E14.9"	13	83288	Unreliable
+	"Iowa"	"19"	"69 years"	"69"	"Unspecified dementia"	"F03"	16	83288	Unreliable
+	"Iowa"	"19"	"69 years"	"69"	"Alzheimer disease, unspecified"	"G30.9"	22	83288	26.4
+	"Iowa"	"19"	"69 years"	"69"	"Acute myocardial infarction, unspecified"	"I21.9"	36	83288	43.2
+	"Iowa"	"19"	"69 years"	"69"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	44	83288	52.8
+	"Iowa"	"19"	"69 years"	"69"	"Atherosclerotic heart disease"	"I25.1"	45	83288	54.0
+	"Iowa"	"19"	"69 years"	"69"	"Intracerebral haemorrhage, unspecified"	"I61.9"	12	83288	Unreliable
+	"Iowa"	"19"	"69 years"	"69"	"Stroke, not specified as haemorrhage or infarction"	"I64"	15	83288	Unreliable
+	"Iowa"	"19"	"69 years"	"69"	"Pneumonia, unspecified"	"J18.9"	13	83288	Unreliable
+	"Iowa"	"19"	"69 years"	"69"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	11	83288	Unreliable
+	"Iowa"	"19"	"69 years"	"69"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	69	83288	82.8
+	"Iowa"	"19"	"69 years"	"69"	"Other interstitial pulmonary diseases with fibrosis"	"J84.1"	11	83288	Unreliable
+	"Iowa"	"19"	"69 years"	"69"	"Other and unspecified cirrhosis of liver"	"K74.6"	10	83288	Unreliable
+	"Iowa"	"19"	"69 years"	"69"	"COVID-19"	"U07.1"	25	83288	30.0
+	"Iowa"	"19"	"70 years"	"70"	"Septicaemia, unspecified"	"A41.9"	20	77114	25.9
+	"Iowa"	"19"	"70 years"	"70"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	13	77114	Unreliable
+	"Iowa"	"19"	"70 years"	"70"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	36	77114	46.7
+	"Iowa"	"19"	"70 years"	"70"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	120	77114	155.6
+	"Iowa"	"19"	"70 years"	"70"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	42	77114	54.5
+	"Iowa"	"19"	"70 years"	"70"	"Malignant neoplasm of ovary"	"C56"	23	77114	29.8
+	"Iowa"	"19"	"70 years"	"70"	"Brain, unspecified - Malignant neoplasms"	"C71.9"	11	77114	Unreliable
+	"Iowa"	"19"	"70 years"	"70"	"Unspecified diabetes mellitus, with renal complications"	"E14.2"	12	77114	Unreliable
+	"Iowa"	"19"	"70 years"	"70"	"Unspecified diabetes mellitus, without complications"	"E14.9"	14	77114	Unreliable
+	"Iowa"	"19"	"70 years"	"70"	"Unspecified dementia"	"F03"	15	77114	Unreliable
+	"Iowa"	"19"	"70 years"	"70"	"Alzheimer disease, unspecified"	"G30.9"	17	77114	Unreliable
+	"Iowa"	"19"	"70 years"	"70"	"Essential (primary) hypertension"	"I10"	10	77114	Unreliable
+	"Iowa"	"19"	"70 years"	"70"	"Acute myocardial infarction, unspecified"	"I21.9"	22	77114	28.5
+	"Iowa"	"19"	"70 years"	"70"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	34	77114	44.1
+	"Iowa"	"19"	"70 years"	"70"	"Atherosclerotic heart disease"	"I25.1"	50	77114	64.8
+	"Iowa"	"19"	"70 years"	"70"	"Cardiac arrest, unspecified"	"I46.9"	12	77114	Unreliable
+	"Iowa"	"19"	"70 years"	"70"	"Stroke, not specified as haemorrhage or infarction"	"I64"	16	77114	Unreliable
+	"Iowa"	"19"	"70 years"	"70"	"Pneumonia, unspecified"	"J18.9"	17	77114	Unreliable
+	"Iowa"	"19"	"70 years"	"70"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	14	77114	Unreliable
+	"Iowa"	"19"	"70 years"	"70"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	78	77114	101.1
+	"Iowa"	"19"	"70 years"	"70"	"Fatty (change of) liver, not elsewhere classified"	"K76.0"	10	77114	Unreliable
+	"Iowa"	"19"	"70 years"	"70"	"COVID-19"	"U07.1"	34	77114	44.1
+	"Iowa"	"19"	"71 years"	"71"	"Septicaemia, unspecified"	"A41.9"	23	71937	32.0
+	"Iowa"	"19"	"71 years"	"71"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	17	71937	Unreliable
+	"Iowa"	"19"	"71 years"	"71"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	32	71937	44.5
+	"Iowa"	"19"	"71 years"	"71"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	102	71937	141.8
+	"Iowa"	"19"	"71 years"	"71"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	46	71937	63.9
+	"Iowa"	"19"	"71 years"	"71"	"Malignant neoplasm of ovary"	"C56"	17	71937	Unreliable
+	"Iowa"	"19"	"71 years"	"71"	"Malignant neoplasm without specification of site"	"C80"	21	71937	29.2
+	"Iowa"	"19"	"71 years"	"71"	"Multiple myeloma - Malignant neoplasms"	"C90.0"	11	71937	Unreliable
+	"Iowa"	"19"	"71 years"	"71"	"Unspecified diabetes mellitus, without complications"	"E14.9"	11	71937	Unreliable
+	"Iowa"	"19"	"71 years"	"71"	"Hyperlipidaemia, unspecified"	"E78.5"	12	71937	Unreliable
+	"Iowa"	"19"	"71 years"	"71"	"Unspecified dementia"	"F03"	26	71937	36.1
+	"Iowa"	"19"	"71 years"	"71"	"Alzheimer disease, unspecified"	"G30.9"	29	71937	40.3
+	"Iowa"	"19"	"71 years"	"71"	"Essential (primary) hypertension"	"I10"	12	71937	Unreliable
+	"Iowa"	"19"	"71 years"	"71"	"Hypertensive renal disease with renal failure"	"I12.0"	10	71937	Unreliable
+	"Iowa"	"19"	"71 years"	"71"	"Acute myocardial infarction, unspecified"	"I21.9"	39	71937	54.2
+	"Iowa"	"19"	"71 years"	"71"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	36	71937	50.0
+	"Iowa"	"19"	"71 years"	"71"	"Atherosclerotic heart disease"	"I25.1"	51	71937	70.9
+	"Iowa"	"19"	"71 years"	"71"	"Atrial fibrillation and flutter"	"I48"	10	71937	Unreliable
+	"Iowa"	"19"	"71 years"	"71"	"Stroke, not specified as haemorrhage or infarction"	"I64"	20	71937	27.8
+	"Iowa"	"19"	"71 years"	"71"	"Pneumonia, unspecified"	"J18.9"	15	71937	Unreliable
+	"Iowa"	"19"	"71 years"	"71"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	15	71937	Unreliable
+	"Iowa"	"19"	"71 years"	"71"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	96	71937	133.5
+	"Iowa"	"19"	"71 years"	"71"	"Urinary tract infection, site not specified"	"N39.0"	11	71937	Unreliable
+	"Iowa"	"19"	"71 years"	"71"	"COVID-19"	"U07.1"	22	71937	30.6
+	"Iowa"	"19"	"72 years"	"72"	"Septicaemia, unspecified"	"A41.9"	15	67482	Unreliable
+	"Iowa"	"19"	"72 years"	"72"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	17	67482	Unreliable
+	"Iowa"	"19"	"72 years"	"72"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	29	67482	43.0
+	"Iowa"	"19"	"72 years"	"72"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	116	67482	171.9
+	"Iowa"	"19"	"72 years"	"72"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	47	67482	69.6
+	"Iowa"	"19"	"72 years"	"72"	"Endometrium - Malignant neoplasms"	"C54.1"	12	67482	Unreliable
+	"Iowa"	"19"	"72 years"	"72"	"Malignant neoplasm of ovary"	"C56"	18	67482	Unreliable
+	"Iowa"	"19"	"72 years"	"72"	"Brain, unspecified - Malignant neoplasms"	"C71.9"	10	67482	Unreliable
+	"Iowa"	"19"	"72 years"	"72"	"Malignant neoplasm without specification of site"	"C80"	23	67482	34.1
+	"Iowa"	"19"	"72 years"	"72"	"Unspecified diabetes mellitus, with renal complications"	"E14.2"	13	67482	Unreliable
+	"Iowa"	"19"	"72 years"	"72"	"Unspecified diabetes mellitus, without complications"	"E14.9"	17	67482	Unreliable
+	"Iowa"	"19"	"72 years"	"72"	"Hyperlipidaemia, unspecified"	"E78.5"	13	67482	Unreliable
+	"Iowa"	"19"	"72 years"	"72"	"Unspecified dementia"	"F03"	23	67482	34.1
+	"Iowa"	"19"	"72 years"	"72"	"Parkinson disease"	"G20"	18	67482	Unreliable
+	"Iowa"	"19"	"72 years"	"72"	"Alzheimer disease, unspecified"	"G30.9"	34	67482	50.4
+	"Iowa"	"19"	"72 years"	"72"	"Acute myocardial infarction, unspecified"	"I21.9"	39	67482	57.8
+	"Iowa"	"19"	"72 years"	"72"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	28	67482	41.5
+	"Iowa"	"19"	"72 years"	"72"	"Atherosclerotic heart disease"	"I25.1"	46	67482	68.2
+	"Iowa"	"19"	"72 years"	"72"	"Pulmonary embolism without mention of acute cor pulmonale"	"I26.9"	11	67482	Unreliable
+	"Iowa"	"19"	"72 years"	"72"	"Atrial fibrillation and flutter"	"I48"	11	67482	Unreliable
+	"Iowa"	"19"	"72 years"	"72"	"Congestive heart failure"	"I50.0"	19	67482	Unreliable
+	"Iowa"	"19"	"72 years"	"72"	"Intracerebral haemorrhage, unspecified"	"I61.9"	10	67482	Unreliable
+	"Iowa"	"19"	"72 years"	"72"	"Stroke, not specified as haemorrhage or infarction"	"I64"	24	67482	35.6
+	"Iowa"	"19"	"72 years"	"72"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	15	67482	Unreliable
+	"Iowa"	"19"	"72 years"	"72"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	107	67482	158.6
+	"Iowa"	"19"	"72 years"	"72"	"COVID-19"	"U07.1"	35	67482	51.9
+	"Iowa"	"19"	"73 years"	"73"	"Septicaemia, unspecified"	"A41.9"	23	63526	36.2
+	"Iowa"	"19"	"73 years"	"73"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	17	63526	Unreliable
+	"Iowa"	"19"	"73 years"	"73"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	30	63526	47.2
+	"Iowa"	"19"	"73 years"	"73"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	118	63526	185.8
+	"Iowa"	"19"	"73 years"	"73"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	52	63526	81.9
+	"Iowa"	"19"	"73 years"	"73"	"Malignant neoplasm of ovary"	"C56"	29	63526	45.7
+	"Iowa"	"19"	"73 years"	"73"	"Malignant neoplasm without specification of site"	"C80"	17	63526	Unreliable
+	"Iowa"	"19"	"73 years"	"73"	"Multiple myeloma - Malignant neoplasms"	"C90.0"	12	63526	Unreliable
+	"Iowa"	"19"	"73 years"	"73"	"Acute myeloid leukaemia - Malignant neoplasms"	"C92.0"	10	63526	Unreliable
+	"Iowa"	"19"	"73 years"	"73"	"Non-insulin-dependent diabetes mellitus, with renal complications"	"E11.2"	13	63526	Unreliable
+	"Iowa"	"19"	"73 years"	"73"	"Unspecified diabetes mellitus, without complications"	"E14.9"	15	63526	Unreliable
+	"Iowa"	"19"	"73 years"	"73"	"Hyperlipidaemia, unspecified"	"E78.5"	10	63526	Unreliable
+	"Iowa"	"19"	"73 years"	"73"	"Unspecified dementia"	"F03"	30	63526	47.2
+	"Iowa"	"19"	"73 years"	"73"	"Parkinson disease"	"G20"	11	63526	Unreliable
+	"Iowa"	"19"	"73 years"	"73"	"Alzheimer disease, unspecified"	"G30.9"	27	63526	42.5
+	"Iowa"	"19"	"73 years"	"73"	"Essential (primary) hypertension"	"I10"	14	63526	Unreliable
+	"Iowa"	"19"	"73 years"	"73"	"Acute myocardial infarction, unspecified"	"I21.9"	35	63526	55.1
+	"Iowa"	"19"	"73 years"	"73"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	23	63526	36.2
+	"Iowa"	"19"	"73 years"	"73"	"Atherosclerotic heart disease"	"I25.1"	72	63526	113.3
+	"Iowa"	"19"	"73 years"	"73"	"Other secondary pulmonary hypertension"	"I27.2"	10	63526	Unreliable
+	"Iowa"	"19"	"73 years"	"73"	"Congestive heart failure"	"I50.0"	17	63526	Unreliable
+	"Iowa"	"19"	"73 years"	"73"	"Stroke, not specified as haemorrhage or infarction"	"I64"	22	63526	34.6
+	"Iowa"	"19"	"73 years"	"73"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	10	63526	Unreliable
+	"Iowa"	"19"	"73 years"	"73"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	108	63526	170.0
+	"Iowa"	"19"	"73 years"	"73"	"Chronic kidney disease, stage 5"	"N18.5"	10	63526	Unreliable
+	"Iowa"	"19"	"73 years"	"73"	"COVID-19"	"U07.1"	30	63526	47.2
+	"Iowa"	"19"	"73 years"	"73"	"Other fall on same level"	"W18"	12	63526	Unreliable
+	"Iowa"	"19"	"74 years"	"74"	"Septicaemia, unspecified"	"A41.9"	16	57639	Unreliable
+	"Iowa"	"19"	"74 years"	"74"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	18	57639	Unreliable
+	"Iowa"	"19"	"74 years"	"74"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	35	57639	60.7
+	"Iowa"	"19"	"74 years"	"74"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	113	57639	196.0
+	"Iowa"	"19"	"74 years"	"74"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	44	57639	76.3
+	"Iowa"	"19"	"74 years"	"74"	"Malignant neoplasm of ovary"	"C56"	22	57639	38.2
+	"Iowa"	"19"	"74 years"	"74"	"Malignant neoplasm without specification of site"	"C80"	21	57639	36.4
+	"Iowa"	"19"	"74 years"	"74"	"Multiple myeloma - Malignant neoplasms"	"C90.0"	15	57639	Unreliable
+	"Iowa"	"19"	"74 years"	"74"	"Unspecified diabetes mellitus, with renal complications"	"E14.2"	15	57639	Unreliable
+	"Iowa"	"19"	"74 years"	"74"	"Unspecified diabetes mellitus, without complications"	"E14.9"	15	57639	Unreliable
+	"Iowa"	"19"	"74 years"	"74"	"Unspecified dementia"	"F03"	30	57639	52.0
+	"Iowa"	"19"	"74 years"	"74"	"Parkinson disease"	"G20"	13	57639	Unreliable
+	"Iowa"	"19"	"74 years"	"74"	"Alzheimer disease, unspecified"	"G30.9"	41	57639	71.1
+	"Iowa"	"19"	"74 years"	"74"	"Acute myocardial infarction, unspecified"	"I21.9"	38	57639	65.9
+	"Iowa"	"19"	"74 years"	"74"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	41	57639	71.1
+	"Iowa"	"19"	"74 years"	"74"	"Atherosclerotic heart disease"	"I25.1"	58	57639	100.6
+	"Iowa"	"19"	"74 years"	"74"	"Congestive heart failure"	"I50.0"	12	57639	Unreliable
+	"Iowa"	"19"	"74 years"	"74"	"Stroke, not specified as haemorrhage or infarction"	"I64"	20	57639	34.7
+	"Iowa"	"19"	"74 years"	"74"	"Pneumonia, unspecified"	"J18.9"	15	57639	Unreliable
+	"Iowa"	"19"	"74 years"	"74"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	19	57639	Unreliable
+	"Iowa"	"19"	"74 years"	"74"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	101	57639	175.2
+	"Iowa"	"19"	"74 years"	"74"	"Other interstitial pulmonary diseases with fibrosis"	"J84.1"	13	57639	Unreliable
+	"Iowa"	"19"	"74 years"	"74"	"Chronic kidney disease, stage 5"	"N18.5"	13	57639	Unreliable
+	"Iowa"	"19"	"74 years"	"74"	"COVID-19"	"U07.1"	49	57639	85.0
+	"Iowa"	"19"	"75 years"	"75"	"Septicaemia, unspecified"	"A41.9"	17	55574	Unreliable
+	"Iowa"	"19"	"75 years"	"75"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	20	55574	36.0
+	"Iowa"	"19"	"75 years"	"75"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	29	55574	52.2
+	"Iowa"	"19"	"75 years"	"75"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	121	55574	217.7
+	"Iowa"	"19"	"75 years"	"75"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	37	55574	66.6
+	"Iowa"	"19"	"75 years"	"75"	"Endometrium - Malignant neoplasms"	"C54.1"	15	55574	Unreliable
+	"Iowa"	"19"	"75 years"	"75"	"Malignant neoplasm of ovary"	"C56"	22	55574	39.6
+	"Iowa"	"19"	"75 years"	"75"	"Brain, unspecified - Malignant neoplasms"	"C71.9"	11	55574	Unreliable
+	"Iowa"	"19"	"75 years"	"75"	"Malignant neoplasm without specification of site"	"C80"	16	55574	Unreliable
+	"Iowa"	"19"	"75 years"	"75"	"Non-insulin-dependent diabetes mellitus, with renal complications"	"E11.2"	12	55574	Unreliable
+	"Iowa"	"19"	"75 years"	"75"	"Unspecified diabetes mellitus, with renal complications"	"E14.2"	14	55574	Unreliable
+	"Iowa"	"19"	"75 years"	"75"	"Unspecified diabetes mellitus, without complications"	"E14.9"	15	55574	Unreliable
+	"Iowa"	"19"	"75 years"	"75"	"Hyperlipidaemia, unspecified"	"E78.5"	10	55574	Unreliable
+	"Iowa"	"19"	"75 years"	"75"	"Unspecified dementia"	"F03"	31	55574	55.8
+	"Iowa"	"19"	"75 years"	"75"	"Parkinson disease"	"G20"	16	55574	Unreliable
+	"Iowa"	"19"	"75 years"	"75"	"Alzheimer disease, unspecified"	"G30.9"	59	55574	106.2
+	"Iowa"	"19"	"75 years"	"75"	"Hypertensive renal disease with renal failure"	"I12.0"	14	55574	Unreliable
+	"Iowa"	"19"	"75 years"	"75"	"Acute myocardial infarction, unspecified"	"I21.9"	32	55574	57.6
+	"Iowa"	"19"	"75 years"	"75"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	33	55574	59.4
+	"Iowa"	"19"	"75 years"	"75"	"Atherosclerotic heart disease"	"I25.1"	56	55574	100.8
+	"Iowa"	"19"	"75 years"	"75"	"Atrial fibrillation and flutter"	"I48"	15	55574	Unreliable
+	"Iowa"	"19"	"75 years"	"75"	"Congestive heart failure"	"I50.0"	14	55574	Unreliable
+	"Iowa"	"19"	"75 years"	"75"	"Intracerebral haemorrhage, unspecified"	"I61.9"	18	55574	Unreliable
+	"Iowa"	"19"	"75 years"	"75"	"Stroke, not specified as haemorrhage or infarction"	"I64"	26	55574	46.8
+	"Iowa"	"19"	"75 years"	"75"	"Pneumonia, unspecified"	"J18.9"	16	55574	Unreliable
+	"Iowa"	"19"	"75 years"	"75"	"Emphysema, unspecified"	"J43.9"	11	55574	Unreliable
+	"Iowa"	"19"	"75 years"	"75"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	19	55574	Unreliable
+	"Iowa"	"19"	"75 years"	"75"	"Chronic obstructive pulmonary disease with acute exacerbation, unspecified"	"J44.1"	10	55574	Unreliable
+	"Iowa"	"19"	"75 years"	"75"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	106	55574	190.7
+	"Iowa"	"19"	"75 years"	"75"	"Other interstitial pulmonary diseases with fibrosis"	"J84.1"	10	55574	Unreliable
+	"Iowa"	"19"	"75 years"	"75"	"COVID-19"	"U07.1"	35	55574	63.0
+	"Iowa"	"19"	"75 years"	"75"	"Other fall on same level"	"W18"	10	55574	Unreliable
+	"Iowa"	"19"	"76 years"	"76"	"Septicaemia, unspecified"	"A41.9"	23	53267	43.2
+	"Iowa"	"19"	"76 years"	"76"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	28	53267	52.6
+	"Iowa"	"19"	"76 years"	"76"	"Intrahepatic bile duct carcinoma - Malignant neoplasms"	"C22.1"	10	53267	Unreliable
+	"Iowa"	"19"	"76 years"	"76"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	37	53267	69.5
+	"Iowa"	"19"	"76 years"	"76"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	98	53267	184.0
+	"Iowa"	"19"	"76 years"	"76"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	41	53267	77.0
+	"Iowa"	"19"	"76 years"	"76"	"Endometrium - Malignant neoplasms"	"C54.1"	13	53267	Unreliable
+	"Iowa"	"19"	"76 years"	"76"	"Malignant neoplasm of ovary"	"C56"	25	53267	46.9
+	"Iowa"	"19"	"76 years"	"76"	"Brain, unspecified - Malignant neoplasms"	"C71.9"	11	53267	Unreliable
+	"Iowa"	"19"	"76 years"	"76"	"Malignant neoplasm without specification of site"	"C80"	17	53267	Unreliable
+	"Iowa"	"19"	"76 years"	"76"	"Unspecified diabetes mellitus, without complications"	"E14.9"	10	53267	Unreliable
+	"Iowa"	"19"	"76 years"	"76"	"Hyperlipidaemia, unspecified"	"E78.5"	11	53267	Unreliable
+	"Iowa"	"19"	"76 years"	"76"	"Unspecified dementia"	"F03"	35	53267	65.7
+	"Iowa"	"19"	"76 years"	"76"	"Parkinson disease"	"G20"	18	53267	Unreliable
+	"Iowa"	"19"	"76 years"	"76"	"Alzheimer disease, unspecified"	"G30.9"	66	53267	123.9
+	"Iowa"	"19"	"76 years"	"76"	"Other specified degenerative diseases of nervous system"	"G31.8"	10	53267	Unreliable
+	"Iowa"	"19"	"76 years"	"76"	"Essential (primary) hypertension"	"I10"	11	53267	Unreliable
+	"Iowa"	"19"	"76 years"	"76"	"Acute myocardial infarction, unspecified"	"I21.9"	48	53267	90.1
+	"Iowa"	"19"	"76 years"	"76"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	35	53267	65.7
+	"Iowa"	"19"	"76 years"	"76"	"Atherosclerotic heart disease"	"I25.1"	73	53267	137.0
+	"Iowa"	"19"	"76 years"	"76"	"Aortic (valve) stenosis"	"I35.0"	10	53267	Unreliable
+	"Iowa"	"19"	"76 years"	"76"	"Atrial fibrillation and flutter"	"I48"	19	53267	Unreliable
+	"Iowa"	"19"	"76 years"	"76"	"Congestive heart failure"	"I50.0"	18	53267	Unreliable
+	"Iowa"	"19"	"76 years"	"76"	"Intracerebral haemorrhage, unspecified"	"I61.9"	13	53267	Unreliable
+	"Iowa"	"19"	"76 years"	"76"	"Stroke, not specified as haemorrhage or infarction"	"I64"	32	53267	60.1
+	"Iowa"	"19"	"76 years"	"76"	"Pneumonia, unspecified"	"J18.9"	17	53267	Unreliable
+	"Iowa"	"19"	"76 years"	"76"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	20	53267	37.5
+	"Iowa"	"19"	"76 years"	"76"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	109	53267	204.6
+	"Iowa"	"19"	"76 years"	"76"	"Other interstitial pulmonary diseases with fibrosis"	"J84.1"	14	53267	Unreliable
+	"Iowa"	"19"	"76 years"	"76"	"COVID-19"	"U07.1"	34	53267	63.8
+	"Iowa"	"19"	"76 years"	"76"	"Other fall on same level"	"W18"	13	53267	Unreliable
+	"Iowa"	"19"	"77 years"	"77"	"Septicaemia, unspecified"	"A41.9"	19	50837	Unreliable
+	"Iowa"	"19"	"77 years"	"77"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	24	50837	47.2
+	"Iowa"	"19"	"77 years"	"77"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	32	50837	62.9
+	"Iowa"	"19"	"77 years"	"77"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	97	50837	190.8
+	"Iowa"	"19"	"77 years"	"77"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	42	50837	82.6
+	"Iowa"	"19"	"77 years"	"77"	"Endometrium - Malignant neoplasms"	"C54.1"	10	50837	Unreliable
+	"Iowa"	"19"	"77 years"	"77"	"Malignant neoplasm of ovary"	"C56"	13	50837	Unreliable
+	"Iowa"	"19"	"77 years"	"77"	"Malignant neoplasm without specification of site"	"C80"	23	50837	45.2
+	"Iowa"	"19"	"77 years"	"77"	"Multiple myeloma - Malignant neoplasms"	"C90.0"	15	50837	Unreliable
+	"Iowa"	"19"	"77 years"	"77"	"Non-insulin-dependent diabetes mellitus, with renal complications"	"E11.2"	11	50837	Unreliable
+	"Iowa"	"19"	"77 years"	"77"	"Unspecified diabetes mellitus, with renal complications"	"E14.2"	11	50837	Unreliable
+	"Iowa"	"19"	"77 years"	"77"	"Unspecified diabetes mellitus, without complications"	"E14.9"	17	50837	Unreliable
+	"Iowa"	"19"	"77 years"	"77"	"Unspecified dementia"	"F03"	63	50837	123.9
+	"Iowa"	"19"	"77 years"	"77"	"Parkinson disease"	"G20"	25	50837	49.2
+	"Iowa"	"19"	"77 years"	"77"	"Alzheimer disease, unspecified"	"G30.9"	76	50837	149.5
+	"Iowa"	"19"	"77 years"	"77"	"Essential (primary) hypertension"	"I10"	17	50837	Unreliable
+	"Iowa"	"19"	"77 years"	"77"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	12	50837	Unreliable
+	"Iowa"	"19"	"77 years"	"77"	"Acute myocardial infarction, unspecified"	"I21.9"	48	50837	94.4
+	"Iowa"	"19"	"77 years"	"77"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	31	50837	61.0
+	"Iowa"	"19"	"77 years"	"77"	"Atherosclerotic heart disease"	"I25.1"	71	50837	139.7
+	"Iowa"	"19"	"77 years"	"77"	"Other secondary pulmonary hypertension"	"I27.2"	11	50837	Unreliable
+	"Iowa"	"19"	"77 years"	"77"	"Atrial fibrillation and flutter"	"I48"	18	50837	Unreliable
+	"Iowa"	"19"	"77 years"	"77"	"Congestive heart failure"	"I50.0"	20	50837	39.3
+	"Iowa"	"19"	"77 years"	"77"	"Heart failure, unspecified"	"I50.9"	12	50837	Unreliable
+	"Iowa"	"19"	"77 years"	"77"	"Intracerebral haemorrhage, unspecified"	"I61.9"	19	50837	Unreliable
+	"Iowa"	"19"	"77 years"	"77"	"Stroke, not specified as haemorrhage or infarction"	"I64"	29	50837	57.0
+	"Iowa"	"19"	"77 years"	"77"	"Pneumonia, unspecified"	"J18.9"	15	50837	Unreliable
+	"Iowa"	"19"	"77 years"	"77"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	24	50837	47.2
+	"Iowa"	"19"	"77 years"	"77"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	107	50837	210.5
+	"Iowa"	"19"	"77 years"	"77"	"Other interstitial pulmonary diseases with fibrosis"	"J84.1"	14	50837	Unreliable
+	"Iowa"	"19"	"77 years"	"77"	"Chronic renal failure, unspecified"	"N18.9"	10	50837	Unreliable
+	"Iowa"	"19"	"77 years"	"77"	"COVID-19"	"U07.1"	43	50837	84.6
+	"Iowa"	"19"	"77 years"	"77"	"Other fall on same level"	"W18"	18	50837	Unreliable
+	"Iowa"	"19"	"78 years"	"78"	"Septicaemia, unspecified"	"A41.9"	25	47573	52.6
+	"Iowa"	"19"	"78 years"	"78"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	19	47573	Unreliable
+	"Iowa"	"19"	"78 years"	"78"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	30	47573	63.1
+	"Iowa"	"19"	"78 years"	"78"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	114	47573	239.6
+	"Iowa"	"19"	"78 years"	"78"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	44	47573	92.5
+	"Iowa"	"19"	"78 years"	"78"	"Malignant neoplasm of ovary"	"C56"	23	47573	48.3
+	"Iowa"	"19"	"78 years"	"78"	"Malignant neoplasm without specification of site"	"C80"	17	47573	Unreliable
+	"Iowa"	"19"	"78 years"	"78"	"Unspecified diabetes mellitus, with renal complications"	"E14.2"	11	47573	Unreliable
+	"Iowa"	"19"	"78 years"	"78"	"Unspecified diabetes mellitus, without complications"	"E14.9"	20	47573	42.0
+	"Iowa"	"19"	"78 years"	"78"	"Hyperlipidaemia, unspecified"	"E78.5"	14	47573	Unreliable
+	"Iowa"	"19"	"78 years"	"78"	"Unspecified dementia"	"F03"	57	47573	119.8
+	"Iowa"	"19"	"78 years"	"78"	"Parkinson disease"	"G20"	27	47573	56.8
+	"Iowa"	"19"	"78 years"	"78"	"Alzheimer disease, unspecified"	"G30.9"	94	47573	197.6
+	"Iowa"	"19"	"78 years"	"78"	"Essential (primary) hypertension"	"I10"	19	47573	Unreliable
+	"Iowa"	"19"	"78 years"	"78"	"Hypertensive heart disease with (congestive) heart failure"	"I11.0"	10	47573	Unreliable
+	"Iowa"	"19"	"78 years"	"78"	"Acute myocardial infarction, unspecified"	"I21.9"	55	47573	115.6
+	"Iowa"	"19"	"78 years"	"78"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	42	47573	88.3
+	"Iowa"	"19"	"78 years"	"78"	"Atherosclerotic heart disease"	"I25.1"	63	47573	132.4
+	"Iowa"	"19"	"78 years"	"78"	"Other secondary pulmonary hypertension"	"I27.2"	10	47573	Unreliable
+	"Iowa"	"19"	"78 years"	"78"	"Aortic (valve) stenosis"	"I35.0"	13	47573	Unreliable
+	"Iowa"	"19"	"78 years"	"78"	"Cardiac arrest, unspecified"	"I46.9"	10	47573	Unreliable
+	"Iowa"	"19"	"78 years"	"78"	"Atrial fibrillation and flutter"	"I48"	10	47573	Unreliable
+	"Iowa"	"19"	"78 years"	"78"	"Congestive heart failure"	"I50.0"	27	47573	56.8
+	"Iowa"	"19"	"78 years"	"78"	"Intracerebral haemorrhage, unspecified"	"I61.9"	17	47573	Unreliable
+	"Iowa"	"19"	"78 years"	"78"	"Stroke, not specified as haemorrhage or infarction"	"I64"	39	47573	82.0
+	"Iowa"	"19"	"78 years"	"78"	"Pneumonia, unspecified"	"J18.9"	22	47573	46.2
+	"Iowa"	"19"	"78 years"	"78"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	22	47573	46.2
+	"Iowa"	"19"	"78 years"	"78"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	104	47573	218.6
+	"Iowa"	"19"	"78 years"	"78"	"Other interstitial pulmonary diseases with fibrosis"	"J84.1"	11	47573	Unreliable
+	"Iowa"	"19"	"78 years"	"78"	"Chronic kidney disease, stage 5"	"N18.5"	10	47573	Unreliable
+	"Iowa"	"19"	"78 years"	"78"	"Chronic renal failure, unspecified"	"N18.9"	13	47573	Unreliable
+	"Iowa"	"19"	"78 years"	"78"	"Urinary tract infection, site not specified"	"N39.0"	10	47573	Unreliable
+	"Iowa"	"19"	"78 years"	"78"	"COVID-19"	"U07.1"	49	47573	103.0
+	"Iowa"	"19"	"78 years"	"78"	"Other fall on same level"	"W18"	25	47573	52.6
+	"Iowa"	"19"	"78 years"	"78"	"Unspecified fall"	"W19"	11	47573	Unreliable
+	"Iowa"	"19"	"79 years"	"79"	"Septicaemia, unspecified"	"A41.9"	18	45344	Unreliable
+	"Iowa"	"19"	"79 years"	"79"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	22	45344	48.5
+	"Iowa"	"19"	"79 years"	"79"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	36	45344	79.4
+	"Iowa"	"19"	"79 years"	"79"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	96	45344	211.7
+	"Iowa"	"19"	"79 years"	"79"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	43	45344	94.8
+	"Iowa"	"19"	"79 years"	"79"	"Malignant neoplasm of ovary"	"C56"	13	45344	Unreliable
+	"Iowa"	"19"	"79 years"	"79"	"Malignant neoplasm without specification of site"	"C80"	20	45344	44.1
+	"Iowa"	"19"	"79 years"	"79"	"Multiple myeloma - Malignant neoplasms"	"C90.0"	12	45344	Unreliable
+	"Iowa"	"19"	"79 years"	"79"	"Acute myeloid leukaemia - Malignant neoplasms"	"C92.0"	10	45344	Unreliable
+	"Iowa"	"19"	"79 years"	"79"	"Non-insulin-dependent diabetes mellitus, with renal complications"	"E11.2"	10	45344	Unreliable
+	"Iowa"	"19"	"79 years"	"79"	"Non-insulin-dependent diabetes mellitus, without complications"	"E11.9"	13	45344	Unreliable
+	"Iowa"	"19"	"79 years"	"79"	"Unspecified diabetes mellitus, without complications"	"E14.9"	18	45344	Unreliable
+	"Iowa"	"19"	"79 years"	"79"	"Unspecified dementia"	"F03"	91	45344	200.7
+	"Iowa"	"19"	"79 years"	"79"	"Parkinson disease"	"G20"	32	45344	70.6
+	"Iowa"	"19"	"79 years"	"79"	"Alzheimer disease, unspecified"	"G30.9"	103	45344	227.2
+	"Iowa"	"19"	"79 years"	"79"	"Essential (primary) hypertension"	"I10"	13	45344	Unreliable
+	"Iowa"	"19"	"79 years"	"79"	"Hypertensive heart disease with (congestive) heart failure"	"I11.0"	11	45344	Unreliable
+	"Iowa"	"19"	"79 years"	"79"	"Hypertensive renal disease with renal failure"	"I12.0"	14	45344	Unreliable
+	"Iowa"	"19"	"79 years"	"79"	"Acute myocardial infarction, unspecified"	"I21.9"	43	45344	94.8
+	"Iowa"	"19"	"79 years"	"79"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	33	45344	72.8
+	"Iowa"	"19"	"79 years"	"79"	"Atherosclerotic heart disease"	"I25.1"	87	45344	191.9
+	"Iowa"	"19"	"79 years"	"79"	"Aortic (valve) stenosis"	"I35.0"	13	45344	Unreliable
+	"Iowa"	"19"	"79 years"	"79"	"Atrial fibrillation and flutter"	"I48"	20	45344	44.1
+	"Iowa"	"19"	"79 years"	"79"	"Congestive heart failure"	"I50.0"	19	45344	Unreliable
+	"Iowa"	"19"	"79 years"	"79"	"Intracerebral haemorrhage, unspecified"	"I61.9"	14	45344	Unreliable
+	"Iowa"	"19"	"79 years"	"79"	"Stroke, not specified as haemorrhage or infarction"	"I64"	35	45344	77.2
+	"Iowa"	"19"	"79 years"	"79"	"Pneumonia, unspecified"	"J18.9"	20	45344	44.1
+	"Iowa"	"19"	"79 years"	"79"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	23	45344	50.7
+	"Iowa"	"19"	"79 years"	"79"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	107	45344	236.0
+	"Iowa"	"19"	"79 years"	"79"	"Other interstitial pulmonary diseases with fibrosis"	"J84.1"	11	45344	Unreliable
+	"Iowa"	"19"	"79 years"	"79"	"Chronic kidney disease, stage 5"	"N18.5"	16	45344	Unreliable
+	"Iowa"	"19"	"79 years"	"79"	"COVID-19"	"U07.1"	53	45344	116.9
+	"Iowa"	"19"	"79 years"	"79"	"Other fall on same level"	"W18"	18	45344	Unreliable
+	"Iowa"	"19"	"80 years"	"80"	"Septicaemia, unspecified"	"A41.9"	15	43515	Unreliable
+	"Iowa"	"19"	"80 years"	"80"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	31	43515	71.2
+	"Iowa"	"19"	"80 years"	"80"	"Intrahepatic bile duct carcinoma - Malignant neoplasms"	"C22.1"	10	43515	Unreliable
+	"Iowa"	"19"	"80 years"	"80"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	29	43515	66.6
+	"Iowa"	"19"	"80 years"	"80"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	108	43515	248.2
+	"Iowa"	"19"	"80 years"	"80"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	37	43515	85.0
+	"Iowa"	"19"	"80 years"	"80"	"Endometrium - Malignant neoplasms"	"C54.1"	11	43515	Unreliable
+	"Iowa"	"19"	"80 years"	"80"	"Malignant neoplasm of ovary"	"C56"	23	43515	52.9
+	"Iowa"	"19"	"80 years"	"80"	"Brain, unspecified - Malignant neoplasms"	"C71.9"	11	43515	Unreliable
+	"Iowa"	"19"	"80 years"	"80"	"Malignant neoplasm without specification of site"	"C80"	22	43515	50.6
+	"Iowa"	"19"	"80 years"	"80"	"Non-insulin-dependent diabetes mellitus, with renal complications"	"E11.2"	10	43515	Unreliable
+	"Iowa"	"19"	"80 years"	"80"	"Unspecified diabetes mellitus, without complications"	"E14.9"	15	43515	Unreliable
+	"Iowa"	"19"	"80 years"	"80"	"Hyperlipidaemia, unspecified"	"E78.5"	10	43515	Unreliable
+	"Iowa"	"19"	"80 years"	"80"	"Unspecified dementia"	"F03"	87	43515	199.9
+	"Iowa"	"19"	"80 years"	"80"	"Parkinson disease"	"G20"	32	43515	73.5
+	"Iowa"	"19"	"80 years"	"80"	"Alzheimer disease, unspecified"	"G30.9"	110	43515	252.8
+	"Iowa"	"19"	"80 years"	"80"	"Other specified degenerative diseases of nervous system"	"G31.8"	11	43515	Unreliable
+	"Iowa"	"19"	"80 years"	"80"	"Essential (primary) hypertension"	"I10"	11	43515	Unreliable
+	"Iowa"	"19"	"80 years"	"80"	"Hypertensive heart disease with (congestive) heart failure"	"I11.0"	15	43515	Unreliable
+	"Iowa"	"19"	"80 years"	"80"	"Hypertensive renal disease with renal failure"	"I12.0"	14	43515	Unreliable
+	"Iowa"	"19"	"80 years"	"80"	"Acute myocardial infarction, unspecified"	"I21.9"	50	43515	114.9
+	"Iowa"	"19"	"80 years"	"80"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	43	43515	98.8
+	"Iowa"	"19"	"80 years"	"80"	"Atherosclerotic heart disease"	"I25.1"	84	43515	193.0
+	"Iowa"	"19"	"80 years"	"80"	"Aortic (valve) stenosis"	"I35.0"	14	43515	Unreliable
+	"Iowa"	"19"	"80 years"	"80"	"Atrial fibrillation and flutter"	"I48"	23	43515	52.9
+	"Iowa"	"19"	"80 years"	"80"	"Congestive heart failure"	"I50.0"	30	43515	68.9
+	"Iowa"	"19"	"80 years"	"80"	"Heart failure, unspecified"	"I50.9"	12	43515	Unreliable
+	"Iowa"	"19"	"80 years"	"80"	"Intracerebral haemorrhage, unspecified"	"I61.9"	21	43515	48.3
+	"Iowa"	"19"	"80 years"	"80"	"Stroke, not specified as haemorrhage or infarction"	"I64"	32	43515	73.5
+	"Iowa"	"19"	"80 years"	"80"	"Peripheral vascular disease, unspecified"	"I73.9"	10	43515	Unreliable
+	"Iowa"	"19"	"80 years"	"80"	"Pneumonia, unspecified"	"J18.9"	27	43515	62.0
+	"Iowa"	"19"	"80 years"	"80"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	27	43515	62.0
+	"Iowa"	"19"	"80 years"	"80"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	114	43515	262.0
+	"Iowa"	"19"	"80 years"	"80"	"Chronic kidney disease, stage 5"	"N18.5"	11	43515	Unreliable
+	"Iowa"	"19"	"80 years"	"80"	"Urinary tract infection, site not specified"	"N39.0"	15	43515	Unreliable
+	"Iowa"	"19"	"80 years"	"80"	"COVID-19"	"U07.1"	51	43515	117.2
+	"Iowa"	"19"	"80 years"	"80"	"Other fall on same level"	"W18"	13	43515	Unreliable
+	"Iowa"	"19"	"80 years"	"80"	"Unspecified fall"	"W19"	12	43515	Unreliable
+	"Iowa"	"19"	"81 years"	"81"	"Septicaemia, unspecified"	"A41.9"	21	41434	50.7
+	"Iowa"	"19"	"81 years"	"81"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	28	41434	67.6
+	"Iowa"	"19"	"81 years"	"81"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	34	41434	82.1
+	"Iowa"	"19"	"81 years"	"81"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	115	41434	277.5
+	"Iowa"	"19"	"81 years"	"81"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	38	41434	91.7
+	"Iowa"	"19"	"81 years"	"81"	"Endometrium - Malignant neoplasms"	"C54.1"	12	41434	Unreliable
+	"Iowa"	"19"	"81 years"	"81"	"Malignant neoplasm of ovary"	"C56"	15	41434	Unreliable
+	"Iowa"	"19"	"81 years"	"81"	"Malignant neoplasm without specification of site"	"C80"	26	41434	62.8
+	"Iowa"	"19"	"81 years"	"81"	"Multiple myeloma - Malignant neoplasms"	"C90.0"	13	41434	Unreliable
+	"Iowa"	"19"	"81 years"	"81"	"Non-insulin-dependent diabetes mellitus, with renal complications"	"E11.2"	12	41434	Unreliable
+	"Iowa"	"19"	"81 years"	"81"	"Unspecified diabetes mellitus, with renal complications"	"E14.2"	16	41434	Unreliable
+	"Iowa"	"19"	"81 years"	"81"	"Unspecified diabetes mellitus, without complications"	"E14.9"	22	41434	53.1
+	"Iowa"	"19"	"81 years"	"81"	"Hyperlipidaemia, unspecified"	"E78.5"	11	41434	Unreliable
+	"Iowa"	"19"	"81 years"	"81"	"Unspecified dementia"	"F03"	119	41434	287.2
+	"Iowa"	"19"	"81 years"	"81"	"Parkinson disease"	"G20"	42	41434	101.4
+	"Iowa"	"19"	"81 years"	"81"	"Alzheimer disease, unspecified"	"G30.9"	121	41434	292.0
+	"Iowa"	"19"	"81 years"	"81"	"Essential (primary) hypertension"	"I10"	14	41434	Unreliable
+	"Iowa"	"19"	"81 years"	"81"	"Hypertensive heart disease with (congestive) heart failure"	"I11.0"	20	41434	48.3
+	"Iowa"	"19"	"81 years"	"81"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	11	41434	Unreliable
+	"Iowa"	"19"	"81 years"	"81"	"Hypertensive renal disease with renal failure"	"I12.0"	14	41434	Unreliable
+	"Iowa"	"19"	"81 years"	"81"	"Acute myocardial infarction, unspecified"	"I21.9"	54	41434	130.3
+	"Iowa"	"19"	"81 years"	"81"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	54	41434	130.3
+	"Iowa"	"19"	"81 years"	"81"	"Atherosclerotic heart disease"	"I25.1"	118	41434	284.8
+	"Iowa"	"19"	"81 years"	"81"	"Other secondary pulmonary hypertension"	"I27.2"	11	41434	Unreliable
+	"Iowa"	"19"	"81 years"	"81"	"Aortic (valve) stenosis"	"I35.0"	12	41434	Unreliable
+	"Iowa"	"19"	"81 years"	"81"	"Cardiomyopathy, unspecified"	"I42.9"	16	41434	Unreliable
+	"Iowa"	"19"	"81 years"	"81"	"Cardiac arrest, unspecified"	"I46.9"	11	41434	Unreliable
+	"Iowa"	"19"	"81 years"	"81"	"Atrial fibrillation and flutter"	"I48"	19	41434	Unreliable
+	"Iowa"	"19"	"81 years"	"81"	"Congestive heart failure"	"I50.0"	37	41434	89.3
+	"Iowa"	"19"	"81 years"	"81"	"Heart failure, unspecified"	"I50.9"	10	41434	Unreliable
+	"Iowa"	"19"	"81 years"	"81"	"Intracerebral haemorrhage, unspecified"	"I61.9"	16	41434	Unreliable
+	"Iowa"	"19"	"81 years"	"81"	"Cerebral infarction, unspecified"	"I63.9"	10	41434	Unreliable
+	"Iowa"	"19"	"81 years"	"81"	"Stroke, not specified as haemorrhage or infarction"	"I64"	42	41434	101.4
+	"Iowa"	"19"	"81 years"	"81"	"Pneumonia, unspecified"	"J18.9"	27	41434	65.2
+	"Iowa"	"19"	"81 years"	"81"	"Emphysema, unspecified"	"J43.9"	11	41434	Unreliable
+	"Iowa"	"19"	"81 years"	"81"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	20	41434	48.3
+	"Iowa"	"19"	"81 years"	"81"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	120	41434	289.6
+	"Iowa"	"19"	"81 years"	"81"	"Pneumonitis due to food and vomit"	"J69.0"	13	41434	Unreliable
+	"Iowa"	"19"	"81 years"	"81"	"Other interstitial pulmonary diseases with fibrosis"	"J84.1"	17	41434	Unreliable
+	"Iowa"	"19"	"81 years"	"81"	"Gastrointestinal haemorrhage, unspecified"	"K92.2"	10	41434	Unreliable
+	"Iowa"	"19"	"81 years"	"81"	"COVID-19"	"U07.1"	38	41434	91.7
+	"Iowa"	"19"	"81 years"	"81"	"Other fall on same level"	"W18"	12	41434	Unreliable
+	"Iowa"	"19"	"81 years"	"81"	"Unspecified fall"	"W19"	12	41434	Unreliable
+	"Iowa"	"19"	"82 years"	"82"	"Septicaemia, unspecified"	"A41.9"	13	38764	Unreliable
+	"Iowa"	"19"	"82 years"	"82"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	25	38764	64.5
+	"Iowa"	"19"	"82 years"	"82"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	25	38764	64.5
+	"Iowa"	"19"	"82 years"	"82"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	86	38764	221.9
+	"Iowa"	"19"	"82 years"	"82"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	41	38764	105.8
+	"Iowa"	"19"	"82 years"	"82"	"Malignant neoplasm of ovary"	"C56"	28	38764	72.2
+	"Iowa"	"19"	"82 years"	"82"	"Malignant neoplasm of kidney, except renal pelvis"	"C64"	14	38764	Unreliable
+	"Iowa"	"19"	"82 years"	"82"	"Bladder, unspecified - Malignant neoplasms"	"C67.9"	10	38764	Unreliable
+	"Iowa"	"19"	"82 years"	"82"	"Malignant neoplasm without specification of site"	"C80"	13	38764	Unreliable
+	"Iowa"	"19"	"82 years"	"82"	"Myelodysplastic syndrome, unspecified - Uncertain neoplasms"	"D46.9"	10	38764	Unreliable
+	"Iowa"	"19"	"82 years"	"82"	"Non-insulin-dependent diabetes mellitus, with renal complications"	"E11.2"	15	38764	Unreliable
+	"Iowa"	"19"	"82 years"	"82"	"Non-insulin-dependent diabetes mellitus, without complications"	"E11.9"	19	38764	Unreliable
+	"Iowa"	"19"	"82 years"	"82"	"Unspecified diabetes mellitus, with renal complications"	"E14.2"	18	38764	Unreliable
+	"Iowa"	"19"	"82 years"	"82"	"Unspecified diabetes mellitus, without complications"	"E14.9"	16	38764	Unreliable
+	"Iowa"	"19"	"82 years"	"82"	"Hyperlipidaemia, unspecified"	"E78.5"	14	38764	Unreliable
+	"Iowa"	"19"	"82 years"	"82"	"Vascular dementia, unspecified"	"F01.9"	17	38764	Unreliable
+	"Iowa"	"19"	"82 years"	"82"	"Unspecified dementia"	"F03"	122	38764	314.7
+	"Iowa"	"19"	"82 years"	"82"	"Parkinson disease"	"G20"	42	38764	108.3
+	"Iowa"	"19"	"82 years"	"82"	"Alzheimer disease, unspecified"	"G30.9"	146	38764	376.6
+	"Iowa"	"19"	"82 years"	"82"	"Senile degeneration of brain, not elsewhere classified"	"G31.1"	10	38764	Unreliable
+	"Iowa"	"19"	"82 years"	"82"	"Other specified degenerative diseases of nervous system"	"G31.8"	10	38764	Unreliable
+	"Iowa"	"19"	"82 years"	"82"	"Essential (primary) hypertension"	"I10"	20	38764	51.6
+	"Iowa"	"19"	"82 years"	"82"	"Hypertensive heart disease with (congestive) heart failure"	"I11.0"	12	38764	Unreliable
+	"Iowa"	"19"	"82 years"	"82"	"Hypertensive renal disease with renal failure"	"I12.0"	10	38764	Unreliable
+	"Iowa"	"19"	"82 years"	"82"	"Acute myocardial infarction, unspecified"	"I21.9"	62	38764	159.9
+	"Iowa"	"19"	"82 years"	"82"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	40	38764	103.2
+	"Iowa"	"19"	"82 years"	"82"	"Atherosclerotic heart disease"	"I25.1"	121	38764	312.1
+	"Iowa"	"19"	"82 years"	"82"	"Aortic (valve) stenosis"	"I35.0"	12	38764	Unreliable
+	"Iowa"	"19"	"82 years"	"82"	"Cardiomyopathy, unspecified"	"I42.9"	10	38764	Unreliable
+	"Iowa"	"19"	"82 years"	"82"	"Atrial fibrillation and flutter"	"I48"	25	38764	64.5
+	"Iowa"	"19"	"82 years"	"82"	"Congestive heart failure"	"I50.0"	37	38764	95.4
+	"Iowa"	"19"	"82 years"	"82"	"Intracerebral haemorrhage, unspecified"	"I61.9"	13	38764	Unreliable
+	"Iowa"	"19"	"82 years"	"82"	"Cerebral infarction, unspecified"	"I63.9"	11	38764	Unreliable
+	"Iowa"	"19"	"82 years"	"82"	"Stroke, not specified as haemorrhage or infarction"	"I64"	58	38764	149.6
+	"Iowa"	"19"	"82 years"	"82"	"Pneumonia, unspecified"	"J18.9"	21	38764	54.2
+	"Iowa"	"19"	"82 years"	"82"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	27	38764	69.7
+	"Iowa"	"19"	"82 years"	"82"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	117	38764	301.8
+	"Iowa"	"19"	"82 years"	"82"	"Pneumonitis due to food and vomit"	"J69.0"	16	38764	Unreliable
+	"Iowa"	"19"	"82 years"	"82"	"Other interstitial pulmonary diseases with fibrosis"	"J84.1"	17	38764	Unreliable
+	"Iowa"	"19"	"82 years"	"82"	"Other and unspecified intestinal obstruction"	"K56.6"	12	38764	Unreliable
+	"Iowa"	"19"	"82 years"	"82"	"Other and unspecified cirrhosis of liver"	"K74.6"	10	38764	Unreliable
+	"Iowa"	"19"	"82 years"	"82"	"Chronic kidney disease, stage 5"	"N18.5"	12	38764	Unreliable
+	"Iowa"	"19"	"82 years"	"82"	"Chronic renal failure, unspecified"	"N18.9"	11	38764	Unreliable
+	"Iowa"	"19"	"82 years"	"82"	"Urinary tract infection, site not specified"	"N39.0"	14	38764	Unreliable
+	"Iowa"	"19"	"82 years"	"82"	"COVID-19"	"U07.1"	85	38764	219.3
+	"Iowa"	"19"	"82 years"	"82"	"Other fall on same level"	"W18"	21	38764	54.2
+	"Iowa"	"19"	"82 years"	"82"	"Unspecified fall"	"W19"	12	38764	Unreliable
+	"Iowa"	"19"	"83 years"	"83"	"Septicaemia, unspecified"	"A41.9"	29	36686	79.0
+	"Iowa"	"19"	"83 years"	"83"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	31	36686	84.5
+	"Iowa"	"19"	"83 years"	"83"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	31	36686	84.5
+	"Iowa"	"19"	"83 years"	"83"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	95	36686	259.0
+	"Iowa"	"19"	"83 years"	"83"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	34	36686	92.7
+	"Iowa"	"19"	"83 years"	"83"	"Malignant neoplasm of ovary"	"C56"	20	36686	54.5
+	"Iowa"	"19"	"83 years"	"83"	"Malignant neoplasm without specification of site"	"C80"	18	36686	Unreliable
+	"Iowa"	"19"	"83 years"	"83"	"Non-Hodgkin lymphoma, unspecified type"	"C85.9"	10	36686	Unreliable
+	"Iowa"	"19"	"83 years"	"83"	"Multiple myeloma - Malignant neoplasms"	"C90.0"	11	36686	Unreliable
+	"Iowa"	"19"	"83 years"	"83"	"Non-insulin-dependent diabetes mellitus, with renal complications"	"E11.2"	11	36686	Unreliable
+	"Iowa"	"19"	"83 years"	"83"	"Non-insulin-dependent diabetes mellitus, without complications"	"E11.9"	10	36686	Unreliable
+	"Iowa"	"19"	"83 years"	"83"	"Unspecified diabetes mellitus, with renal complications"	"E14.2"	16	36686	Unreliable
+	"Iowa"	"19"	"83 years"	"83"	"Unspecified diabetes mellitus, without complications"	"E14.9"	11	36686	Unreliable
+	"Iowa"	"19"	"83 years"	"83"	"Hyperlipidaemia, unspecified"	"E78.5"	14	36686	Unreliable
+	"Iowa"	"19"	"83 years"	"83"	"Vascular dementia, unspecified"	"F01.9"	14	36686	Unreliable
+	"Iowa"	"19"	"83 years"	"83"	"Unspecified dementia"	"F03"	154	36686	419.8
+	"Iowa"	"19"	"83 years"	"83"	"Parkinson disease"	"G20"	39	36686	106.3
+	"Iowa"	"19"	"83 years"	"83"	"Alzheimer disease, unspecified"	"G30.9"	159	36686	433.4
+	"Iowa"	"19"	"83 years"	"83"	"Essential (primary) hypertension"	"I10"	25	36686	68.1
+	"Iowa"	"19"	"83 years"	"83"	"Hypertensive heart disease with (congestive) heart failure"	"I11.0"	32	36686	87.2
+	"Iowa"	"19"	"83 years"	"83"	"Hypertensive renal disease with renal failure"	"I12.0"	14	36686	Unreliable
+	"Iowa"	"19"	"83 years"	"83"	"Acute myocardial infarction, unspecified"	"I21.9"	46	36686	125.4
+	"Iowa"	"19"	"83 years"	"83"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	43	36686	117.2
+	"Iowa"	"19"	"83 years"	"83"	"Atherosclerotic heart disease"	"I25.1"	127	36686	346.2
+	"Iowa"	"19"	"83 years"	"83"	"Aortic (valve) stenosis"	"I35.0"	15	36686	Unreliable
+	"Iowa"	"19"	"83 years"	"83"	"Cardiac arrest, unspecified"	"I46.9"	12	36686	Unreliable
+	"Iowa"	"19"	"83 years"	"83"	"Atrial fibrillation and flutter"	"I48"	34	36686	92.7
+	"Iowa"	"19"	"83 years"	"83"	"Congestive heart failure"	"I50.0"	38	36686	103.6
+	"Iowa"	"19"	"83 years"	"83"	"Heart failure, unspecified"	"I50.9"	18	36686	Unreliable
+	"Iowa"	"19"	"83 years"	"83"	"Intracerebral haemorrhage, unspecified"	"I61.9"	15	36686	Unreliable
+	"Iowa"	"19"	"83 years"	"83"	"Cerebral infarction, unspecified"	"I63.9"	10	36686	Unreliable
+	"Iowa"	"19"	"83 years"	"83"	"Stroke, not specified as haemorrhage or infarction"	"I64"	60	36686	163.6
+	"Iowa"	"19"	"83 years"	"83"	"Pneumonia, unspecified"	"J18.9"	27	36686	73.6
+	"Iowa"	"19"	"83 years"	"83"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	23	36686	62.7
+	"Iowa"	"19"	"83 years"	"83"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	110	36686	299.8
+	"Iowa"	"19"	"83 years"	"83"	"Pneumonitis due to food and vomit"	"J69.0"	16	36686	Unreliable
+	"Iowa"	"19"	"83 years"	"83"	"Other interstitial pulmonary diseases with fibrosis"	"J84.1"	10	36686	Unreliable
+	"Iowa"	"19"	"83 years"	"83"	"Gastrointestinal haemorrhage, unspecified"	"K92.2"	14	36686	Unreliable
+	"Iowa"	"19"	"83 years"	"83"	"Chronic kidney disease, stage 5"	"N18.5"	12	36686	Unreliable
+	"Iowa"	"19"	"83 years"	"83"	"Chronic renal failure, unspecified"	"N18.9"	12	36686	Unreliable
+	"Iowa"	"19"	"83 years"	"83"	"Urinary tract infection, site not specified"	"N39.0"	16	36686	Unreliable
+	"Iowa"	"19"	"83 years"	"83"	"COVID-19"	"U07.1"	75	36686	204.4
+	"Iowa"	"19"	"83 years"	"83"	"Other fall on same level"	"W18"	23	36686	62.7
+	"Iowa"	"19"	"83 years"	"83"	"Unspecified fall"	"W19"	17	36686	Unreliable
+	"Iowa"	"19"	"84 years"	"84"	"Septicaemia, unspecified"	"A41.9"	14	35053	Unreliable
+	"Iowa"	"19"	"84 years"	"84"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	36	35053	102.7
+	"Iowa"	"19"	"84 years"	"84"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	29	35053	82.7
+	"Iowa"	"19"	"84 years"	"84"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	100	35053	285.3
+	"Iowa"	"19"	"84 years"	"84"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	43	35053	122.7
+	"Iowa"	"19"	"84 years"	"84"	"Malignant neoplasm of ovary"	"C56"	18	35053	Unreliable
+	"Iowa"	"19"	"84 years"	"84"	"Malignant neoplasm of kidney, except renal pelvis"	"C64"	12	35053	Unreliable
+	"Iowa"	"19"	"84 years"	"84"	"Bladder, unspecified - Malignant neoplasms"	"C67.9"	13	35053	Unreliable
+	"Iowa"	"19"	"84 years"	"84"	"Malignant neoplasm without specification of site"	"C80"	24	35053	68.5
+	"Iowa"	"19"	"84 years"	"84"	"Multiple myeloma - Malignant neoplasms"	"C90.0"	16	35053	Unreliable
+	"Iowa"	"19"	"84 years"	"84"	"Myelodysplastic syndrome, unspecified - Uncertain neoplasms"	"D46.9"	10	35053	Unreliable
+	"Iowa"	"19"	"84 years"	"84"	"Unspecified diabetes mellitus, without complications"	"E14.9"	16	35053	Unreliable
+	"Iowa"	"19"	"84 years"	"84"	"Hyperlipidaemia, unspecified"	"E78.5"	15	35053	Unreliable
+	"Iowa"	"19"	"84 years"	"84"	"Vascular dementia, unspecified"	"F01.9"	17	35053	Unreliable
+	"Iowa"	"19"	"84 years"	"84"	"Unspecified dementia"	"F03"	160	35053	456.5
+	"Iowa"	"19"	"84 years"	"84"	"Parkinson disease"	"G20"	41	35053	117.0
+	"Iowa"	"19"	"84 years"	"84"	"Alzheimer disease, unspecified"	"G30.9"	178	35053	507.8
+	"Iowa"	"19"	"84 years"	"84"	"Senile degeneration of brain, not elsewhere classified"	"G31.1"	13	35053	Unreliable
+	"Iowa"	"19"	"84 years"	"84"	"Other specified degenerative diseases of nervous system"	"G31.8"	15	35053	Unreliable
+	"Iowa"	"19"	"84 years"	"84"	"Essential (primary) hypertension"	"I10"	25	35053	71.3
+	"Iowa"	"19"	"84 years"	"84"	"Hypertensive heart disease with (congestive) heart failure"	"I11.0"	37	35053	105.6
+	"Iowa"	"19"	"84 years"	"84"	"Hypertensive renal disease with renal failure"	"I12.0"	14	35053	Unreliable
+	"Iowa"	"19"	"84 years"	"84"	"Acute myocardial infarction, unspecified"	"I21.9"	64	35053	182.6
+	"Iowa"	"19"	"84 years"	"84"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	44	35053	125.5
+	"Iowa"	"19"	"84 years"	"84"	"Atherosclerotic heart disease"	"I25.1"	148	35053	422.2
+	"Iowa"	"19"	"84 years"	"84"	"Other secondary pulmonary hypertension"	"I27.2"	14	35053	Unreliable
+	"Iowa"	"19"	"84 years"	"84"	"Aortic (valve) stenosis"	"I35.0"	21	35053	59.9
+	"Iowa"	"19"	"84 years"	"84"	"Cardiac arrest, unspecified"	"I46.9"	14	35053	Unreliable
+	"Iowa"	"19"	"84 years"	"84"	"Atrial fibrillation and flutter"	"I48"	32	35053	91.3
+	"Iowa"	"19"	"84 years"	"84"	"Congestive heart failure"	"I50.0"	41	35053	117.0
+	"Iowa"	"19"	"84 years"	"84"	"Heart failure, unspecified"	"I50.9"	15	35053	Unreliable
+	"Iowa"	"19"	"84 years"	"84"	"Intracerebral haemorrhage, unspecified"	"I61.9"	22	35053	62.8
+	"Iowa"	"19"	"84 years"	"84"	"Stroke, not specified as haemorrhage or infarction"	"I64"	68	35053	194.0
+	"Iowa"	"19"	"84 years"	"84"	"Sequelae of stroke, not specified as haemorrhage or infarction"	"I69.4"	11	35053	Unreliable
+	"Iowa"	"19"	"84 years"	"84"	"Peripheral vascular disease, unspecified"	"I73.9"	10	35053	Unreliable
+	"Iowa"	"19"	"84 years"	"84"	"Pneumonia, unspecified"	"J18.9"	29	35053	82.7
+	"Iowa"	"19"	"84 years"	"84"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	19	35053	Unreliable
+	"Iowa"	"19"	"84 years"	"84"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	100	35053	285.3
+	"Iowa"	"19"	"84 years"	"84"	"Pneumonitis due to food and vomit"	"J69.0"	17	35053	Unreliable
+	"Iowa"	"19"	"84 years"	"84"	"Other interstitial pulmonary diseases with fibrosis"	"J84.1"	11	35053	Unreliable
+	"Iowa"	"19"	"84 years"	"84"	"Gastrointestinal haemorrhage, unspecified"	"K92.2"	10	35053	Unreliable
+	"Iowa"	"19"	"84 years"	"84"	"Urinary tract infection, site not specified"	"N39.0"	13	35053	Unreliable
+	"Iowa"	"19"	"84 years"	"84"	"COVID-19"	"U07.1"	70	35053	199.7
+	"Iowa"	"19"	"84 years"	"84"	"Other fall on same level"	"W18"	28	35053	79.9
+	"Iowa"	"19"	"84 years"	"84"	"Unspecified fall"	"W19"	30	35053	85.6
+	"Iowa"	"19"	"85 years"	"85"	"Septicaemia, unspecified"	"A41.9"	15	Not Applicable	Not Applicable
+	"Iowa"	"19"	"85 years"	"85"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	43	Not Applicable	Not Applicable
+	"Iowa"	"19"	"85 years"	"85"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	37	Not Applicable	Not Applicable
+	"Iowa"	"19"	"85 years"	"85"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	66	Not Applicable	Not Applicable
+	"Iowa"	"19"	"85 years"	"85"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	51	Not Applicable	Not Applicable
+	"Iowa"	"19"	"85 years"	"85"	"Malignant neoplasm of ovary"	"C56"	17	Not Applicable	Not Applicable
+	"Iowa"	"19"	"85 years"	"85"	"Bladder, unspecified - Malignant neoplasms"	"C67.9"	11	Not Applicable	Not Applicable
+	"Iowa"	"19"	"85 years"	"85"	"Malignant neoplasm without specification of site"	"C80"	26	Not Applicable	Not Applicable
+	"Iowa"	"19"	"85 years"	"85"	"Acute myeloid leukaemia - Malignant neoplasms"	"C92.0"	10	Not Applicable	Not Applicable
+	"Iowa"	"19"	"85 years"	"85"	"Non-insulin-dependent diabetes mellitus, with renal complications"	"E11.2"	10	Not Applicable	Not Applicable
+	"Iowa"	"19"	"85 years"	"85"	"Unspecified diabetes mellitus, with renal complications"	"E14.2"	11	Not Applicable	Not Applicable
+	"Iowa"	"19"	"85 years"	"85"	"Unspecified diabetes mellitus, without complications"	"E14.9"	20	Not Applicable	Not Applicable
+	"Iowa"	"19"	"85 years"	"85"	"Hyperlipidaemia, unspecified"	"E78.5"	14	Not Applicable	Not Applicable
+	"Iowa"	"19"	"85 years"	"85"	"Vascular dementia, unspecified"	"F01.9"	17	Not Applicable	Not Applicable
+	"Iowa"	"19"	"85 years"	"85"	"Unspecified dementia"	"F03"	201	Not Applicable	Not Applicable
+	"Iowa"	"19"	"85 years"	"85"	"Parkinson disease"	"G20"	32	Not Applicable	Not Applicable
+	"Iowa"	"19"	"85 years"	"85"	"Alzheimer disease with late onset"	"G30.1"	10	Not Applicable	Not Applicable
+	"Iowa"	"19"	"85 years"	"85"	"Alzheimer disease, unspecified"	"G30.9"	192	Not Applicable	Not Applicable
+	"Iowa"	"19"	"85 years"	"85"	"Senile degeneration of brain, not elsewhere classified"	"G31.1"	10	Not Applicable	Not Applicable
+	"Iowa"	"19"	"85 years"	"85"	"Essential (primary) hypertension"	"I10"	18	Not Applicable	Not Applicable
+	"Iowa"	"19"	"85 years"	"85"	"Hypertensive heart disease with (congestive) heart failure"	"I11.0"	26	Not Applicable	Not Applicable
+	"Iowa"	"19"	"85 years"	"85"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	21	Not Applicable	Not Applicable
+	"Iowa"	"19"	"85 years"	"85"	"Hypertensive renal disease with renal failure"	"I12.0"	16	Not Applicable	Not Applicable
+	"Iowa"	"19"	"85 years"	"85"	"Acute myocardial infarction, unspecified"	"I21.9"	88	Not Applicable	Not Applicable
+	"Iowa"	"19"	"85 years"	"85"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	45	Not Applicable	Not Applicable
+	"Iowa"	"19"	"85 years"	"85"	"Atherosclerotic heart disease"	"I25.1"	140	Not Applicable	Not Applicable
+	"Iowa"	"19"	"85 years"	"85"	"Other secondary pulmonary hypertension"	"I27.2"	18	Not Applicable	Not Applicable
+	"Iowa"	"19"	"85 years"	"85"	"Aortic (valve) stenosis"	"I35.0"	19	Not Applicable	Not Applicable
+	"Iowa"	"19"	"85 years"	"85"	"Cardiac arrest, unspecified"	"I46.9"	15	Not Applicable	Not Applicable
+	"Iowa"	"19"	"85 years"	"85"	"Atrial fibrillation and flutter"	"I48"	41	Not Applicable	Not Applicable
+	"Iowa"	"19"	"85 years"	"85"	"Congestive heart failure"	"I50.0"	43	Not Applicable	Not Applicable
+	"Iowa"	"19"	"85 years"	"85"	"Heart failure, unspecified"	"I50.9"	10	Not Applicable	Not Applicable
+	"Iowa"	"19"	"85 years"	"85"	"Intracerebral haemorrhage, unspecified"	"I61.9"	20	Not Applicable	Not Applicable
+	"Iowa"	"19"	"85 years"	"85"	"Cerebral infarction, unspecified"	"I63.9"	14	Not Applicable	Not Applicable
+	"Iowa"	"19"	"85 years"	"85"	"Stroke, not specified as haemorrhage or infarction"	"I64"	73	Not Applicable	Not Applicable
+	"Iowa"	"19"	"85 years"	"85"	"Pneumonia, unspecified"	"J18.9"	28	Not Applicable	Not Applicable
+	"Iowa"	"19"	"85 years"	"85"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	19	Not Applicable	Not Applicable
+	"Iowa"	"19"	"85 years"	"85"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	117	Not Applicable	Not Applicable
+	"Iowa"	"19"	"85 years"	"85"	"Other interstitial pulmonary diseases with fibrosis"	"J84.1"	24	Not Applicable	Not Applicable
+	"Iowa"	"19"	"85 years"	"85"	"Gastrointestinal haemorrhage, unspecified"	"K92.2"	17	Not Applicable	Not Applicable
+	"Iowa"	"19"	"85 years"	"85"	"Chronic kidney disease, stage 5"	"N18.5"	10	Not Applicable	Not Applicable
+	"Iowa"	"19"	"85 years"	"85"	"Urinary tract infection, site not specified"	"N39.0"	18	Not Applicable	Not Applicable
+	"Iowa"	"19"	"85 years"	"85"	"COVID-19"	"U07.1"	67	Not Applicable	Not Applicable
+	"Iowa"	"19"	"85 years"	"85"	"Other fall on same level"	"W18"	27	Not Applicable	Not Applicable
+	"Iowa"	"19"	"85 years"	"85"	"Unspecified fall"	"W19"	11	Not Applicable	Not Applicable
+	"Iowa"	"19"	"86 years"	"86"	"Septicaemia, unspecified"	"A41.9"	20	Not Applicable	Not Applicable
+	"Iowa"	"19"	"86 years"	"86"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	42	Not Applicable	Not Applicable
+	"Iowa"	"19"	"86 years"	"86"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	27	Not Applicable	Not Applicable
+	"Iowa"	"19"	"86 years"	"86"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	79	Not Applicable	Not Applicable
+	"Iowa"	"19"	"86 years"	"86"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	48	Not Applicable	Not Applicable
+	"Iowa"	"19"	"86 years"	"86"	"Malignant neoplasm of ovary"	"C56"	16	Not Applicable	Not Applicable
+	"Iowa"	"19"	"86 years"	"86"	"Malignant neoplasm of kidney, except renal pelvis"	"C64"	12	Not Applicable	Not Applicable
+	"Iowa"	"19"	"86 years"	"86"	"Malignant neoplasm without specification of site"	"C80"	25	Not Applicable	Not Applicable
+	"Iowa"	"19"	"86 years"	"86"	"Multiple myeloma - Malignant neoplasms"	"C90.0"	13	Not Applicable	Not Applicable
+	"Iowa"	"19"	"86 years"	"86"	"Non-insulin-dependent diabetes mellitus, with renal complications"	"E11.2"	12	Not Applicable	Not Applicable
+	"Iowa"	"19"	"86 years"	"86"	"Non-insulin-dependent diabetes mellitus, without complications"	"E11.9"	10	Not Applicable	Not Applicable
+	"Iowa"	"19"	"86 years"	"86"	"Unspecified diabetes mellitus, without complications"	"E14.9"	13	Not Applicable	Not Applicable
+	"Iowa"	"19"	"86 years"	"86"	"Hyperlipidaemia, unspecified"	"E78.5"	19	Not Applicable	Not Applicable
+	"Iowa"	"19"	"86 years"	"86"	"Vascular dementia, unspecified"	"F01.9"	17	Not Applicable	Not Applicable
+	"Iowa"	"19"	"86 years"	"86"	"Unspecified dementia"	"F03"	202	Not Applicable	Not Applicable
+	"Iowa"	"19"	"86 years"	"86"	"Parkinson disease"	"G20"	46	Not Applicable	Not Applicable
+	"Iowa"	"19"	"86 years"	"86"	"Alzheimer disease with late onset"	"G30.1"	10	Not Applicable	Not Applicable
+	"Iowa"	"19"	"86 years"	"86"	"Alzheimer disease, unspecified"	"G30.9"	232	Not Applicable	Not Applicable
+	"Iowa"	"19"	"86 years"	"86"	"Essential (primary) hypertension"	"I10"	25	Not Applicable	Not Applicable
+	"Iowa"	"19"	"86 years"	"86"	"Hypertensive heart disease with (congestive) heart failure"	"I11.0"	26	Not Applicable	Not Applicable
+	"Iowa"	"19"	"86 years"	"86"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	20	Not Applicable	Not Applicable
+	"Iowa"	"19"	"86 years"	"86"	"Hypertensive renal disease with renal failure"	"I12.0"	24	Not Applicable	Not Applicable
+	"Iowa"	"19"	"86 years"	"86"	"Acute myocardial infarction, unspecified"	"I21.9"	57	Not Applicable	Not Applicable
+	"Iowa"	"19"	"86 years"	"86"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	50	Not Applicable	Not Applicable
+	"Iowa"	"19"	"86 years"	"86"	"Atherosclerotic heart disease"	"I25.1"	160	Not Applicable	Not Applicable
+	"Iowa"	"19"	"86 years"	"86"	"Other secondary pulmonary hypertension"	"I27.2"	12	Not Applicable	Not Applicable
+	"Iowa"	"19"	"86 years"	"86"	"Aortic (valve) stenosis"	"I35.0"	32	Not Applicable	Not Applicable
+	"Iowa"	"19"	"86 years"	"86"	"Cardiomyopathy, unspecified"	"I42.9"	10	Not Applicable	Not Applicable
+	"Iowa"	"19"	"86 years"	"86"	"Atrial fibrillation and flutter"	"I48"	47	Not Applicable	Not Applicable
+	"Iowa"	"19"	"86 years"	"86"	"Congestive heart failure"	"I50.0"	46	Not Applicable	Not Applicable
+	"Iowa"	"19"	"86 years"	"86"	"Heart failure, unspecified"	"I50.9"	25	Not Applicable	Not Applicable
+	"Iowa"	"19"	"86 years"	"86"	"Intracerebral haemorrhage, unspecified"	"I61.9"	18	Not Applicable	Not Applicable
+	"Iowa"	"19"	"86 years"	"86"	"Cerebral infarction, unspecified"	"I63.9"	14	Not Applicable	Not Applicable
+	"Iowa"	"19"	"86 years"	"86"	"Stroke, not specified as haemorrhage or infarction"	"I64"	80	Not Applicable	Not Applicable
+	"Iowa"	"19"	"86 years"	"86"	"Pneumonia, unspecified"	"J18.9"	29	Not Applicable	Not Applicable
+	"Iowa"	"19"	"86 years"	"86"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	32	Not Applicable	Not Applicable
+	"Iowa"	"19"	"86 years"	"86"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	97	Not Applicable	Not Applicable
+	"Iowa"	"19"	"86 years"	"86"	"Pneumonitis due to food and vomit"	"J69.0"	14	Not Applicable	Not Applicable
+	"Iowa"	"19"	"86 years"	"86"	"Other interstitial pulmonary diseases with fibrosis"	"J84.1"	18	Not Applicable	Not Applicable
+	"Iowa"	"19"	"86 years"	"86"	"Vascular disorder of intestine, unspecified"	"K55.9"	10	Not Applicable	Not Applicable
+	"Iowa"	"19"	"86 years"	"86"	"Other and unspecified intestinal obstruction"	"K56.6"	10	Not Applicable	Not Applicable
+	"Iowa"	"19"	"86 years"	"86"	"Gastrointestinal haemorrhage, unspecified"	"K92.2"	14	Not Applicable	Not Applicable
+	"Iowa"	"19"	"86 years"	"86"	"Chronic kidney disease, stage 5"	"N18.5"	11	Not Applicable	Not Applicable
+	"Iowa"	"19"	"86 years"	"86"	"Chronic renal failure, unspecified"	"N18.9"	12	Not Applicable	Not Applicable
+	"Iowa"	"19"	"86 years"	"86"	"Urinary tract infection, site not specified"	"N39.0"	13	Not Applicable	Not Applicable
+	"Iowa"	"19"	"86 years"	"86"	"COVID-19"	"U07.1"	78	Not Applicable	Not Applicable
+	"Iowa"	"19"	"86 years"	"86"	"Other fall on same level"	"W18"	30	Not Applicable	Not Applicable
+	"Iowa"	"19"	"86 years"	"86"	"Unspecified fall"	"W19"	20	Not Applicable	Not Applicable
+	"Iowa"	"19"	"87 years"	"87"	"Septicaemia, unspecified"	"A41.9"	19	Not Applicable	Not Applicable
+	"Iowa"	"19"	"87 years"	"87"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	40	Not Applicable	Not Applicable
+	"Iowa"	"19"	"87 years"	"87"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	23	Not Applicable	Not Applicable
+	"Iowa"	"19"	"87 years"	"87"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	62	Not Applicable	Not Applicable
+	"Iowa"	"19"	"87 years"	"87"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	43	Not Applicable	Not Applicable
+	"Iowa"	"19"	"87 years"	"87"	"Endometrium - Malignant neoplasms"	"C54.1"	13	Not Applicable	Not Applicable
+	"Iowa"	"19"	"87 years"	"87"	"Malignant neoplasm of ovary"	"C56"	13	Not Applicable	Not Applicable
+	"Iowa"	"19"	"87 years"	"87"	"Malignant neoplasm without specification of site"	"C80"	24	Not Applicable	Not Applicable
+	"Iowa"	"19"	"87 years"	"87"	"Unspecified diabetes mellitus, with renal complications"	"E14.2"	19	Not Applicable	Not Applicable
+	"Iowa"	"19"	"87 years"	"87"	"Unspecified diabetes mellitus, without complications"	"E14.9"	23	Not Applicable	Not Applicable
+	"Iowa"	"19"	"87 years"	"87"	"Unspecified protein-energy malnutrition"	"E46"	11	Not Applicable	Not Applicable
+	"Iowa"	"19"	"87 years"	"87"	"Hyperlipidaemia, unspecified"	"E78.5"	13	Not Applicable	Not Applicable
+	"Iowa"	"19"	"87 years"	"87"	"Vascular dementia, unspecified"	"F01.9"	19	Not Applicable	Not Applicable
+	"Iowa"	"19"	"87 years"	"87"	"Unspecified dementia"	"F03"	244	Not Applicable	Not Applicable
+	"Iowa"	"19"	"87 years"	"87"	"Parkinson disease"	"G20"	49	Not Applicable	Not Applicable
+	"Iowa"	"19"	"87 years"	"87"	"Alzheimer disease with late onset"	"G30.1"	11	Not Applicable	Not Applicable
+	"Iowa"	"19"	"87 years"	"87"	"Alzheimer disease, unspecified"	"G30.9"	251	Not Applicable	Not Applicable
+	"Iowa"	"19"	"87 years"	"87"	"Other specified degenerative diseases of nervous system"	"G31.8"	10	Not Applicable	Not Applicable
+	"Iowa"	"19"	"87 years"	"87"	"Essential (primary) hypertension"	"I10"	32	Not Applicable	Not Applicable
+	"Iowa"	"19"	"87 years"	"87"	"Hypertensive heart disease with (congestive) heart failure"	"I11.0"	39	Not Applicable	Not Applicable
+	"Iowa"	"19"	"87 years"	"87"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	10	Not Applicable	Not Applicable
+	"Iowa"	"19"	"87 years"	"87"	"Hypertensive renal disease with renal failure"	"I12.0"	24	Not Applicable	Not Applicable
+	"Iowa"	"19"	"87 years"	"87"	"Acute myocardial infarction, unspecified"	"I21.9"	72	Not Applicable	Not Applicable
+	"Iowa"	"19"	"87 years"	"87"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	47	Not Applicable	Not Applicable
+	"Iowa"	"19"	"87 years"	"87"	"Atherosclerotic heart disease"	"I25.1"	192	Not Applicable	Not Applicable
+	"Iowa"	"19"	"87 years"	"87"	"Aortic (valve) stenosis"	"I35.0"	24	Not Applicable	Not Applicable
+	"Iowa"	"19"	"87 years"	"87"	"Atrial fibrillation and flutter"	"I48"	49	Not Applicable	Not Applicable
+	"Iowa"	"19"	"87 years"	"87"	"Congestive heart failure"	"I50.0"	57	Not Applicable	Not Applicable
+	"Iowa"	"19"	"87 years"	"87"	"Heart failure, unspecified"	"I50.9"	15	Not Applicable	Not Applicable
+	"Iowa"	"19"	"87 years"	"87"	"Intracerebral haemorrhage, unspecified"	"I61.9"	23	Not Applicable	Not Applicable
+	"Iowa"	"19"	"87 years"	"87"	"Cerebral infarction, unspecified"	"I63.9"	10	Not Applicable	Not Applicable
+	"Iowa"	"19"	"87 years"	"87"	"Stroke, not specified as haemorrhage or infarction"	"I64"	95	Not Applicable	Not Applicable
+	"Iowa"	"19"	"87 years"	"87"	"Sequelae of stroke, not specified as haemorrhage or infarction"	"I69.4"	11	Not Applicable	Not Applicable
+	"Iowa"	"19"	"87 years"	"87"	"Pneumonia, unspecified"	"J18.9"	46	Not Applicable	Not Applicable
+	"Iowa"	"19"	"87 years"	"87"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	30	Not Applicable	Not Applicable
+	"Iowa"	"19"	"87 years"	"87"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	110	Not Applicable	Not Applicable
+	"Iowa"	"19"	"87 years"	"87"	"Pneumonitis due to food and vomit"	"J69.0"	15	Not Applicable	Not Applicable
+	"Iowa"	"19"	"87 years"	"87"	"Other interstitial pulmonary diseases with fibrosis"	"J84.1"	16	Not Applicable	Not Applicable
+	"Iowa"	"19"	"87 years"	"87"	"Vascular disorder of intestine, unspecified"	"K55.9"	12	Not Applicable	Not Applicable
+	"Iowa"	"19"	"87 years"	"87"	"Other and unspecified intestinal obstruction"	"K56.6"	11	Not Applicable	Not Applicable
+	"Iowa"	"19"	"87 years"	"87"	"Gastrointestinal haemorrhage, unspecified"	"K92.2"	10	Not Applicable	Not Applicable
+	"Iowa"	"19"	"87 years"	"87"	"Acute renal failure, unspecified"	"N17.9"	11	Not Applicable	Not Applicable
+	"Iowa"	"19"	"87 years"	"87"	"Chronic renal failure, unspecified"	"N18.9"	12	Not Applicable	Not Applicable
+	"Iowa"	"19"	"87 years"	"87"	"Unspecified renal failure"	"N19"	12	Not Applicable	Not Applicable
+	"Iowa"	"19"	"87 years"	"87"	"Urinary tract infection, site not specified"	"N39.0"	27	Not Applicable	Not Applicable
+	"Iowa"	"19"	"87 years"	"87"	"COVID-19"	"U07.1"	59	Not Applicable	Not Applicable
+	"Iowa"	"19"	"87 years"	"87"	"Other fall on same level"	"W18"	36	Not Applicable	Not Applicable
+	"Iowa"	"19"	"87 years"	"87"	"Unspecified fall"	"W19"	14	Not Applicable	Not Applicable
+	"Iowa"	"19"	"88 years"	"88"	"Septicaemia, unspecified"	"A41.9"	20	Not Applicable	Not Applicable
+	"Iowa"	"19"	"88 years"	"88"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	46	Not Applicable	Not Applicable
+	"Iowa"	"19"	"88 years"	"88"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	27	Not Applicable	Not Applicable
+	"Iowa"	"19"	"88 years"	"88"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	58	Not Applicable	Not Applicable
+	"Iowa"	"19"	"88 years"	"88"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	50	Not Applicable	Not Applicable
+	"Iowa"	"19"	"88 years"	"88"	"Malignant neoplasm of ovary"	"C56"	16	Not Applicable	Not Applicable
+	"Iowa"	"19"	"88 years"	"88"	"Bladder, unspecified - Malignant neoplasms"	"C67.9"	12	Not Applicable	Not Applicable
+	"Iowa"	"19"	"88 years"	"88"	"Malignant neoplasm without specification of site"	"C80"	19	Not Applicable	Not Applicable
+	"Iowa"	"19"	"88 years"	"88"	"Multiple myeloma - Malignant neoplasms"	"C90.0"	13	Not Applicable	Not Applicable
+	"Iowa"	"19"	"88 years"	"88"	"Non-insulin-dependent diabetes mellitus, without complications"	"E11.9"	17	Not Applicable	Not Applicable
+	"Iowa"	"19"	"88 years"	"88"	"Unspecified diabetes mellitus, with renal complications"	"E14.2"	12	Not Applicable	Not Applicable
+	"Iowa"	"19"	"88 years"	"88"	"Unspecified diabetes mellitus, without complications"	"E14.9"	24	Not Applicable	Not Applicable
+	"Iowa"	"19"	"88 years"	"88"	"Unspecified protein-energy malnutrition"	"E46"	14	Not Applicable	Not Applicable
+	"Iowa"	"19"	"88 years"	"88"	"Hyperlipidaemia, unspecified"	"E78.5"	19	Not Applicable	Not Applicable
+	"Iowa"	"19"	"88 years"	"88"	"Vascular dementia, unspecified"	"F01.9"	25	Not Applicable	Not Applicable
+	"Iowa"	"19"	"88 years"	"88"	"Unspecified dementia"	"F03"	257	Not Applicable	Not Applicable
+	"Iowa"	"19"	"88 years"	"88"	"Parkinson disease"	"G20"	32	Not Applicable	Not Applicable
+	"Iowa"	"19"	"88 years"	"88"	"Alzheimer disease, unspecified"	"G30.9"	254	Not Applicable	Not Applicable
+	"Iowa"	"19"	"88 years"	"88"	"Senile degeneration of brain, not elsewhere classified"	"G31.1"	12	Not Applicable	Not Applicable
+	"Iowa"	"19"	"88 years"	"88"	"Essential (primary) hypertension"	"I10"	27	Not Applicable	Not Applicable
+	"Iowa"	"19"	"88 years"	"88"	"Hypertensive heart disease with (congestive) heart failure"	"I11.0"	61	Not Applicable	Not Applicable
+	"Iowa"	"19"	"88 years"	"88"	"Hypertensive renal disease with renal failure"	"I12.0"	14	Not Applicable	Not Applicable
+	"Iowa"	"19"	"88 years"	"88"	"Hypertensive heart and renal disease with both (congestive) heart failure and renal failure"	"I13.2"	13	Not Applicable	Not Applicable
+	"Iowa"	"19"	"88 years"	"88"	"Acute myocardial infarction, unspecified"	"I21.9"	67	Not Applicable	Not Applicable
+	"Iowa"	"19"	"88 years"	"88"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	64	Not Applicable	Not Applicable
+	"Iowa"	"19"	"88 years"	"88"	"Atherosclerotic heart disease"	"I25.1"	182	Not Applicable	Not Applicable
+	"Iowa"	"19"	"88 years"	"88"	"Other secondary pulmonary hypertension"	"I27.2"	19	Not Applicable	Not Applicable
+	"Iowa"	"19"	"88 years"	"88"	"Aortic (valve) stenosis"	"I35.0"	25	Not Applicable	Not Applicable
+	"Iowa"	"19"	"88 years"	"88"	"Cardiac arrest, unspecified"	"I46.9"	11	Not Applicable	Not Applicable
+	"Iowa"	"19"	"88 years"	"88"	"Atrial fibrillation and flutter"	"I48"	57	Not Applicable	Not Applicable
+	"Iowa"	"19"	"88 years"	"88"	"Congestive heart failure"	"I50.0"	58	Not Applicable	Not Applicable
+	"Iowa"	"19"	"88 years"	"88"	"Heart failure, unspecified"	"I50.9"	15	Not Applicable	Not Applicable
+	"Iowa"	"19"	"88 years"	"88"	"Intracerebral haemorrhage, unspecified"	"I61.9"	24	Not Applicable	Not Applicable
+	"Iowa"	"19"	"88 years"	"88"	"Cerebral infarction, unspecified"	"I63.9"	15	Not Applicable	Not Applicable
+	"Iowa"	"19"	"88 years"	"88"	"Stroke, not specified as haemorrhage or infarction"	"I64"	90	Not Applicable	Not Applicable
+	"Iowa"	"19"	"88 years"	"88"	"Pneumonia, unspecified"	"J18.9"	44	Not Applicable	Not Applicable
+	"Iowa"	"19"	"88 years"	"88"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	24	Not Applicable	Not Applicable
+	"Iowa"	"19"	"88 years"	"88"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	114	Not Applicable	Not Applicable
+	"Iowa"	"19"	"88 years"	"88"	"Pneumonitis due to food and vomit"	"J69.0"	21	Not Applicable	Not Applicable
+	"Iowa"	"19"	"88 years"	"88"	"Other interstitial pulmonary diseases with fibrosis"	"J84.1"	13	Not Applicable	Not Applicable
+	"Iowa"	"19"	"88 years"	"88"	"Gastrointestinal haemorrhage, unspecified"	"K92.2"	17	Not Applicable	Not Applicable
+	"Iowa"	"19"	"88 years"	"88"	"Chronic renal failure, unspecified"	"N18.9"	10	Not Applicable	Not Applicable
+	"Iowa"	"19"	"88 years"	"88"	"Urinary tract infection, site not specified"	"N39.0"	20	Not Applicable	Not Applicable
+	"Iowa"	"19"	"88 years"	"88"	"Senility"	"R54"	11	Not Applicable	Not Applicable
+	"Iowa"	"19"	"88 years"	"88"	"COVID-19"	"U07.1"	79	Not Applicable	Not Applicable
+	"Iowa"	"19"	"88 years"	"88"	"Other fall on same level"	"W18"	28	Not Applicable	Not Applicable
+	"Iowa"	"19"	"88 years"	"88"	"Unspecified fall"	"W19"	27	Not Applicable	Not Applicable
+	"Iowa"	"19"	"89 years"	"89"	"Septicaemia, unspecified"	"A41.9"	28	Not Applicable	Not Applicable
+	"Iowa"	"19"	"89 years"	"89"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	42	Not Applicable	Not Applicable
+	"Iowa"	"19"	"89 years"	"89"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	25	Not Applicable	Not Applicable
+	"Iowa"	"19"	"89 years"	"89"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	54	Not Applicable	Not Applicable
+	"Iowa"	"19"	"89 years"	"89"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	44	Not Applicable	Not Applicable
+	"Iowa"	"19"	"89 years"	"89"	"Malignant neoplasm of ovary"	"C56"	10	Not Applicable	Not Applicable
+	"Iowa"	"19"	"89 years"	"89"	"Bladder, unspecified - Malignant neoplasms"	"C67.9"	11	Not Applicable	Not Applicable
+	"Iowa"	"19"	"89 years"	"89"	"Malignant neoplasm without specification of site"	"C80"	22	Not Applicable	Not Applicable
+	"Iowa"	"19"	"89 years"	"89"	"Non-Hodgkin lymphoma, unspecified type"	"C85.9"	10	Not Applicable	Not Applicable
+	"Iowa"	"19"	"89 years"	"89"	"Multiple myeloma - Malignant neoplasms"	"C90.0"	10	Not Applicable	Not Applicable
+	"Iowa"	"19"	"89 years"	"89"	"Non-insulin-dependent diabetes mellitus, with renal complications"	"E11.2"	13	Not Applicable	Not Applicable
+	"Iowa"	"19"	"89 years"	"89"	"Non-insulin-dependent diabetes mellitus, without complications"	"E11.9"	18	Not Applicable	Not Applicable
+	"Iowa"	"19"	"89 years"	"89"	"Unspecified diabetes mellitus, with renal complications"	"E14.2"	14	Not Applicable	Not Applicable
+	"Iowa"	"19"	"89 years"	"89"	"Unspecified diabetes mellitus, without complications"	"E14.9"	22	Not Applicable	Not Applicable
+	"Iowa"	"19"	"89 years"	"89"	"Unspecified protein-energy malnutrition"	"E46"	10	Not Applicable	Not Applicable
+	"Iowa"	"19"	"89 years"	"89"	"Hyperlipidaemia, unspecified"	"E78.5"	12	Not Applicable	Not Applicable
+	"Iowa"	"19"	"89 years"	"89"	"Vascular dementia, unspecified"	"F01.9"	23	Not Applicable	Not Applicable
+	"Iowa"	"19"	"89 years"	"89"	"Unspecified dementia"	"F03"	289	Not Applicable	Not Applicable
+	"Iowa"	"19"	"89 years"	"89"	"Parkinson disease"	"G20"	31	Not Applicable	Not Applicable
+	"Iowa"	"19"	"89 years"	"89"	"Alzheimer disease with late onset"	"G30.1"	11	Not Applicable	Not Applicable
+	"Iowa"	"19"	"89 years"	"89"	"Alzheimer disease, unspecified"	"G30.9"	297	Not Applicable	Not Applicable
+	"Iowa"	"19"	"89 years"	"89"	"Senile degeneration of brain, not elsewhere classified"	"G31.1"	16	Not Applicable	Not Applicable
+	"Iowa"	"19"	"89 years"	"89"	"Essential (primary) hypertension"	"I10"	35	Not Applicable	Not Applicable
+	"Iowa"	"19"	"89 years"	"89"	"Hypertensive heart disease with (congestive) heart failure"	"I11.0"	42	Not Applicable	Not Applicable
+	"Iowa"	"19"	"89 years"	"89"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	13	Not Applicable	Not Applicable
+	"Iowa"	"19"	"89 years"	"89"	"Hypertensive renal disease with renal failure"	"I12.0"	22	Not Applicable	Not Applicable
+	"Iowa"	"19"	"89 years"	"89"	"Hypertensive heart and renal disease with both (congestive) heart failure and renal failure"	"I13.2"	20	Not Applicable	Not Applicable
+	"Iowa"	"19"	"89 years"	"89"	"Acute myocardial infarction, unspecified"	"I21.9"	87	Not Applicable	Not Applicable
+	"Iowa"	"19"	"89 years"	"89"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	56	Not Applicable	Not Applicable
+	"Iowa"	"19"	"89 years"	"89"	"Atherosclerotic heart disease"	"I25.1"	178	Not Applicable	Not Applicable
+	"Iowa"	"19"	"89 years"	"89"	"Ischaemic cardiomyopathy"	"I25.5"	12	Not Applicable	Not Applicable
+	"Iowa"	"19"	"89 years"	"89"	"Other secondary pulmonary hypertension"	"I27.2"	22	Not Applicable	Not Applicable
+	"Iowa"	"19"	"89 years"	"89"	"Aortic (valve) stenosis"	"I35.0"	46	Not Applicable	Not Applicable
+	"Iowa"	"19"	"89 years"	"89"	"Cardiac arrest, unspecified"	"I46.9"	13	Not Applicable	Not Applicable
+	"Iowa"	"19"	"89 years"	"89"	"Atrial fibrillation and flutter"	"I48"	69	Not Applicable	Not Applicable
+	"Iowa"	"19"	"89 years"	"89"	"Congestive heart failure"	"I50.0"	65	Not Applicable	Not Applicable
+	"Iowa"	"19"	"89 years"	"89"	"Heart failure, unspecified"	"I50.9"	28	Not Applicable	Not Applicable
+	"Iowa"	"19"	"89 years"	"89"	"Intracerebral haemorrhage, unspecified"	"I61.9"	24	Not Applicable	Not Applicable
+	"Iowa"	"19"	"89 years"	"89"	"Cerebral infarction, unspecified"	"I63.9"	17	Not Applicable	Not Applicable
+	"Iowa"	"19"	"89 years"	"89"	"Stroke, not specified as haemorrhage or infarction"	"I64"	85	Not Applicable	Not Applicable
+	"Iowa"	"19"	"89 years"	"89"	"Peripheral vascular disease, unspecified"	"I73.9"	11	Not Applicable	Not Applicable
+	"Iowa"	"19"	"89 years"	"89"	"Pneumonia, unspecified"	"J18.9"	50	Not Applicable	Not Applicable
+	"Iowa"	"19"	"89 years"	"89"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	27	Not Applicable	Not Applicable
+	"Iowa"	"19"	"89 years"	"89"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	98	Not Applicable	Not Applicable
+	"Iowa"	"19"	"89 years"	"89"	"Pneumonitis due to food and vomit"	"J69.0"	20	Not Applicable	Not Applicable
+	"Iowa"	"19"	"89 years"	"89"	"Other interstitial pulmonary diseases with fibrosis"	"J84.1"	11	Not Applicable	Not Applicable
+	"Iowa"	"19"	"89 years"	"89"	"Gastrointestinal haemorrhage, unspecified"	"K92.2"	15	Not Applicable	Not Applicable
+	"Iowa"	"19"	"89 years"	"89"	"Urinary tract infection, site not specified"	"N39.0"	29	Not Applicable	Not Applicable
+	"Iowa"	"19"	"89 years"	"89"	"Senility"	"R54"	13	Not Applicable	Not Applicable
+	"Iowa"	"19"	"89 years"	"89"	"Other lack of expected normal physiological development"	"R62.8"	12	Not Applicable	Not Applicable
+	"Iowa"	"19"	"89 years"	"89"	"COVID-19"	"U07.1"	92	Not Applicable	Not Applicable
+	"Iowa"	"19"	"89 years"	"89"	"Other fall on same level"	"W18"	28	Not Applicable	Not Applicable
+	"Iowa"	"19"	"89 years"	"89"	"Unspecified fall"	"W19"	22	Not Applicable	Not Applicable
+	"Iowa"	"19"	"90 years"	"90"	"Septicaemia, unspecified"	"A41.9"	20	Not Applicable	Not Applicable
+	"Iowa"	"19"	"90 years"	"90"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	34	Not Applicable	Not Applicable
+	"Iowa"	"19"	"90 years"	"90"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	25	Not Applicable	Not Applicable
+	"Iowa"	"19"	"90 years"	"90"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	41	Not Applicable	Not Applicable
+	"Iowa"	"19"	"90 years"	"90"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	34	Not Applicable	Not Applicable
+	"Iowa"	"19"	"90 years"	"90"	"Malignant neoplasm of ovary"	"C56"	10	Not Applicable	Not Applicable
+	"Iowa"	"19"	"90 years"	"90"	"Bladder, unspecified - Malignant neoplasms"	"C67.9"	13	Not Applicable	Not Applicable
+	"Iowa"	"19"	"90 years"	"90"	"Malignant neoplasm without specification of site"	"C80"	17	Not Applicable	Not Applicable
+	"Iowa"	"19"	"90 years"	"90"	"Non-Hodgkin lymphoma, unspecified type"	"C85.9"	14	Not Applicable	Not Applicable
+	"Iowa"	"19"	"90 years"	"90"	"Myelodysplastic syndrome, unspecified - Uncertain neoplasms"	"D46.9"	10	Not Applicable	Not Applicable
+	"Iowa"	"19"	"90 years"	"90"	"Non-insulin-dependent diabetes mellitus, without complications"	"E11.9"	16	Not Applicable	Not Applicable
+	"Iowa"	"19"	"90 years"	"90"	"Unspecified diabetes mellitus, without complications"	"E14.9"	22	Not Applicable	Not Applicable
+	"Iowa"	"19"	"90 years"	"90"	"Hyperlipidaemia, unspecified"	"E78.5"	21	Not Applicable	Not Applicable
+	"Iowa"	"19"	"90 years"	"90"	"Vascular dementia, unspecified"	"F01.9"	28	Not Applicable	Not Applicable
+	"Iowa"	"19"	"90 years"	"90"	"Unspecified dementia"	"F03"	288	Not Applicable	Not Applicable
+	"Iowa"	"19"	"90 years"	"90"	"Parkinson disease"	"G20"	41	Not Applicable	Not Applicable
+	"Iowa"	"19"	"90 years"	"90"	"Alzheimer disease, unspecified"	"G30.9"	302	Not Applicable	Not Applicable
+	"Iowa"	"19"	"90 years"	"90"	"Senile degeneration of brain, not elsewhere classified"	"G31.1"	12	Not Applicable	Not Applicable
+	"Iowa"	"19"	"90 years"	"90"	"Essential (primary) hypertension"	"I10"	36	Not Applicable	Not Applicable
+	"Iowa"	"19"	"90 years"	"90"	"Hypertensive heart disease with (congestive) heart failure"	"I11.0"	58	Not Applicable	Not Applicable
+	"Iowa"	"19"	"90 years"	"90"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	18	Not Applicable	Not Applicable
+	"Iowa"	"19"	"90 years"	"90"	"Hypertensive renal disease with renal failure"	"I12.0"	20	Not Applicable	Not Applicable
+	"Iowa"	"19"	"90 years"	"90"	"Hypertensive heart and renal disease with both (congestive) heart failure and renal failure"	"I13.2"	12	Not Applicable	Not Applicable
+	"Iowa"	"19"	"90 years"	"90"	"Acute subendocardial myocardial infarction"	"I21.4"	12	Not Applicable	Not Applicable
+	"Iowa"	"19"	"90 years"	"90"	"Acute myocardial infarction, unspecified"	"I21.9"	69	Not Applicable	Not Applicable
+	"Iowa"	"19"	"90 years"	"90"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	62	Not Applicable	Not Applicable
+	"Iowa"	"19"	"90 years"	"90"	"Atherosclerotic heart disease"	"I25.1"	190	Not Applicable	Not Applicable
+	"Iowa"	"19"	"90 years"	"90"	"Ischaemic cardiomyopathy"	"I25.5"	10	Not Applicable	Not Applicable
+	"Iowa"	"19"	"90 years"	"90"	"Other secondary pulmonary hypertension"	"I27.2"	23	Not Applicable	Not Applicable
+	"Iowa"	"19"	"90 years"	"90"	"Aortic (valve) stenosis"	"I35.0"	38	Not Applicable	Not Applicable
+	"Iowa"	"19"	"90 years"	"90"	"Cardiac arrest, unspecified"	"I46.9"	12	Not Applicable	Not Applicable
+	"Iowa"	"19"	"90 years"	"90"	"Atrial fibrillation and flutter"	"I48"	65	Not Applicable	Not Applicable
+	"Iowa"	"19"	"90 years"	"90"	"Congestive heart failure"	"I50.0"	87	Not Applicable	Not Applicable
+	"Iowa"	"19"	"90 years"	"90"	"Heart failure, unspecified"	"I50.9"	17	Not Applicable	Not Applicable
+	"Iowa"	"19"	"90 years"	"90"	"Intracerebral haemorrhage, unspecified"	"I61.9"	24	Not Applicable	Not Applicable
+	"Iowa"	"19"	"90 years"	"90"	"Intracranial haemorrhage (nontraumatic), unspecified"	"I62.9"	11	Not Applicable	Not Applicable
+	"Iowa"	"19"	"90 years"	"90"	"Cerebral infarction, unspecified"	"I63.9"	23	Not Applicable	Not Applicable
+	"Iowa"	"19"	"90 years"	"90"	"Stroke, not specified as haemorrhage or infarction"	"I64"	108	Not Applicable	Not Applicable
+	"Iowa"	"19"	"90 years"	"90"	"Peripheral vascular disease, unspecified"	"I73.9"	10	Not Applicable	Not Applicable
+	"Iowa"	"19"	"90 years"	"90"	"Pneumonia, unspecified"	"J18.9"	63	Not Applicable	Not Applicable
+	"Iowa"	"19"	"90 years"	"90"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	20	Not Applicable	Not Applicable
+	"Iowa"	"19"	"90 years"	"90"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	81	Not Applicable	Not Applicable
+	"Iowa"	"19"	"90 years"	"90"	"Pneumonitis due to food and vomit"	"J69.0"	24	Not Applicable	Not Applicable
+	"Iowa"	"19"	"90 years"	"90"	"Other interstitial pulmonary diseases with fibrosis"	"J84.1"	15	Not Applicable	Not Applicable
+	"Iowa"	"19"	"90 years"	"90"	"Vascular disorder of intestine, unspecified"	"K55.9"	11	Not Applicable	Not Applicable
+	"Iowa"	"19"	"90 years"	"90"	"Other and unspecified intestinal obstruction"	"K56.6"	15	Not Applicable	Not Applicable
+	"Iowa"	"19"	"90 years"	"90"	"Gastrointestinal haemorrhage, unspecified"	"K92.2"	14	Not Applicable	Not Applicable
+	"Iowa"	"19"	"90 years"	"90"	"Chronic renal failure, unspecified"	"N18.9"	16	Not Applicable	Not Applicable
+	"Iowa"	"19"	"90 years"	"90"	"Urinary tract infection, site not specified"	"N39.0"	21	Not Applicable	Not Applicable
+	"Iowa"	"19"	"90 years"	"90"	"Senility"	"R54"	18	Not Applicable	Not Applicable
+	"Iowa"	"19"	"90 years"	"90"	"Other lack of expected normal physiological development"	"R62.8"	13	Not Applicable	Not Applicable
+	"Iowa"	"19"	"90 years"	"90"	"COVID-19"	"U07.1"	71	Not Applicable	Not Applicable
+	"Iowa"	"19"	"90 years"	"90"	"Other fall on same level"	"W18"	30	Not Applicable	Not Applicable
+	"Iowa"	"19"	"90 years"	"90"	"Unspecified fall"	"W19"	24	Not Applicable	Not Applicable
+	"Iowa"	"19"	"91 years"	"91"	"Septicaemia, unspecified"	"A41.9"	25	Not Applicable	Not Applicable
+	"Iowa"	"19"	"91 years"	"91"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	23	Not Applicable	Not Applicable
+	"Iowa"	"19"	"91 years"	"91"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	16	Not Applicable	Not Applicable
+	"Iowa"	"19"	"91 years"	"91"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	33	Not Applicable	Not Applicable
+	"Iowa"	"19"	"91 years"	"91"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	26	Not Applicable	Not Applicable
+	"Iowa"	"19"	"91 years"	"91"	"Malignant neoplasm of ovary"	"C56"	10	Not Applicable	Not Applicable
+	"Iowa"	"19"	"91 years"	"91"	"Bladder, unspecified - Malignant neoplasms"	"C67.9"	14	Not Applicable	Not Applicable
+	"Iowa"	"19"	"91 years"	"91"	"Malignant neoplasm without specification of site"	"C80"	17	Not Applicable	Not Applicable
+	"Iowa"	"19"	"91 years"	"91"	"Non-insulin-dependent diabetes mellitus, with renal complications"	"E11.2"	10	Not Applicable	Not Applicable
+	"Iowa"	"19"	"91 years"	"91"	"Non-insulin-dependent diabetes mellitus, without complications"	"E11.9"	14	Not Applicable	Not Applicable
+	"Iowa"	"19"	"91 years"	"91"	"Unspecified diabetes mellitus, without complications"	"E14.9"	19	Not Applicable	Not Applicable
+	"Iowa"	"19"	"91 years"	"91"	"Hyperlipidaemia, unspecified"	"E78.5"	27	Not Applicable	Not Applicable
+	"Iowa"	"19"	"91 years"	"91"	"Vascular dementia, unspecified"	"F01.9"	21	Not Applicable	Not Applicable
+	"Iowa"	"19"	"91 years"	"91"	"Unspecified dementia"	"F03"	299	Not Applicable	Not Applicable
+	"Iowa"	"19"	"91 years"	"91"	"Parkinson disease"	"G20"	33	Not Applicable	Not Applicable
+	"Iowa"	"19"	"91 years"	"91"	"Alzheimer disease with late onset"	"G30.1"	11	Not Applicable	Not Applicable
+	"Iowa"	"19"	"91 years"	"91"	"Alzheimer disease, unspecified"	"G30.9"	288	Not Applicable	Not Applicable
+	"Iowa"	"19"	"91 years"	"91"	"Senile degeneration of brain, not elsewhere classified"	"G31.1"	18	Not Applicable	Not Applicable
+	"Iowa"	"19"	"91 years"	"91"	"Essential (primary) hypertension"	"I10"	25	Not Applicable	Not Applicable
+	"Iowa"	"19"	"91 years"	"91"	"Hypertensive heart disease with (congestive) heart failure"	"I11.0"	61	Not Applicable	Not Applicable
+	"Iowa"	"19"	"91 years"	"91"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	13	Not Applicable	Not Applicable
+	"Iowa"	"19"	"91 years"	"91"	"Hypertensive renal disease with renal failure"	"I12.0"	29	Not Applicable	Not Applicable
+	"Iowa"	"19"	"91 years"	"91"	"Hypertensive heart and renal disease with both (congestive) heart failure and renal failure"	"I13.2"	10	Not Applicable	Not Applicable
+	"Iowa"	"19"	"91 years"	"91"	"Acute myocardial infarction, unspecified"	"I21.9"	70	Not Applicable	Not Applicable
+	"Iowa"	"19"	"91 years"	"91"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	54	Not Applicable	Not Applicable
+	"Iowa"	"19"	"91 years"	"91"	"Atherosclerotic heart disease"	"I25.1"	215	Not Applicable	Not Applicable
+	"Iowa"	"19"	"91 years"	"91"	"Other secondary pulmonary hypertension"	"I27.2"	16	Not Applicable	Not Applicable
+	"Iowa"	"19"	"91 years"	"91"	"Aortic (valve) stenosis"	"I35.0"	50	Not Applicable	Not Applicable
+	"Iowa"	"19"	"91 years"	"91"	"Cardiomyopathy, unspecified"	"I42.9"	18	Not Applicable	Not Applicable
+	"Iowa"	"19"	"91 years"	"91"	"Cardiac arrest, unspecified"	"I46.9"	11	Not Applicable	Not Applicable
+	"Iowa"	"19"	"91 years"	"91"	"Atrial fibrillation and flutter"	"I48"	65	Not Applicable	Not Applicable
+	"Iowa"	"19"	"91 years"	"91"	"Congestive heart failure"	"I50.0"	86	Not Applicable	Not Applicable
+	"Iowa"	"19"	"91 years"	"91"	"Heart failure, unspecified"	"I50.9"	20	Not Applicable	Not Applicable
+	"Iowa"	"19"	"91 years"	"91"	"Intracerebral haemorrhage, unspecified"	"I61.9"	16	Not Applicable	Not Applicable
+	"Iowa"	"19"	"91 years"	"91"	"Cerebral infarction, unspecified"	"I63.9"	14	Not Applicable	Not Applicable
+	"Iowa"	"19"	"91 years"	"91"	"Stroke, not specified as haemorrhage or infarction"	"I64"	107	Not Applicable	Not Applicable
+	"Iowa"	"19"	"91 years"	"91"	"Sequelae of stroke, not specified as haemorrhage or infarction"	"I69.4"	10	Not Applicable	Not Applicable
+	"Iowa"	"19"	"91 years"	"91"	"Generalized and unspecified atherosclerosis"	"I70.9"	10	Not Applicable	Not Applicable
+	"Iowa"	"19"	"91 years"	"91"	"Pneumonia, unspecified"	"J18.9"	53	Not Applicable	Not Applicable
+	"Iowa"	"19"	"91 years"	"91"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	20	Not Applicable	Not Applicable
+	"Iowa"	"19"	"91 years"	"91"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	78	Not Applicable	Not Applicable
+	"Iowa"	"19"	"91 years"	"91"	"Pneumonitis due to food and vomit"	"J69.0"	26	Not Applicable	Not Applicable
+	"Iowa"	"19"	"91 years"	"91"	"Other interstitial pulmonary diseases with fibrosis"	"J84.1"	16	Not Applicable	Not Applicable
+	"Iowa"	"19"	"91 years"	"91"	"Other and unspecified intestinal obstruction"	"K56.6"	17	Not Applicable	Not Applicable
+	"Iowa"	"19"	"91 years"	"91"	"Gastrointestinal haemorrhage, unspecified"	"K92.2"	19	Not Applicable	Not Applicable
+	"Iowa"	"19"	"91 years"	"91"	"Chronic kidney disease, stage 5"	"N18.5"	12	Not Applicable	Not Applicable
+	"Iowa"	"19"	"91 years"	"91"	"Chronic renal failure, unspecified"	"N18.9"	14	Not Applicable	Not Applicable
+	"Iowa"	"19"	"91 years"	"91"	"Urinary tract infection, site not specified"	"N39.0"	25	Not Applicable	Not Applicable
+	"Iowa"	"19"	"91 years"	"91"	"Senility"	"R54"	15	Not Applicable	Not Applicable
+	"Iowa"	"19"	"91 years"	"91"	"COVID-19"	"U07.1"	85	Not Applicable	Not Applicable
+	"Iowa"	"19"	"91 years"	"91"	"Other fall on same level"	"W18"	32	Not Applicable	Not Applicable
+	"Iowa"	"19"	"91 years"	"91"	"Unspecified fall"	"W19"	35	Not Applicable	Not Applicable
+	"Iowa"	"19"	"92 years"	"92"	"Enterocolitis due to Clostridium difficile"	"A04.7"	11	Not Applicable	Not Applicable
+	"Iowa"	"19"	"92 years"	"92"	"Septicaemia, unspecified"	"A41.9"	22	Not Applicable	Not Applicable
+	"Iowa"	"19"	"92 years"	"92"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	27	Not Applicable	Not Applicable
+	"Iowa"	"19"	"92 years"	"92"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	17	Not Applicable	Not Applicable
+	"Iowa"	"19"	"92 years"	"92"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	25	Not Applicable	Not Applicable
+	"Iowa"	"19"	"92 years"	"92"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	29	Not Applicable	Not Applicable
+	"Iowa"	"19"	"92 years"	"92"	"Bladder, unspecified - Malignant neoplasms"	"C67.9"	10	Not Applicable	Not Applicable
+	"Iowa"	"19"	"92 years"	"92"	"Malignant neoplasm without specification of site"	"C80"	20	Not Applicable	Not Applicable
+	"Iowa"	"19"	"92 years"	"92"	"Non-insulin-dependent diabetes mellitus, without complications"	"E11.9"	14	Not Applicable	Not Applicable
+	"Iowa"	"19"	"92 years"	"92"	"Unspecified diabetes mellitus, without complications"	"E14.9"	13	Not Applicable	Not Applicable
+	"Iowa"	"19"	"92 years"	"92"	"Pure hypercholesterolaemia"	"E78.0"	11	Not Applicable	Not Applicable
+	"Iowa"	"19"	"92 years"	"92"	"Hyperlipidaemia, unspecified"	"E78.5"	16	Not Applicable	Not Applicable
+	"Iowa"	"19"	"92 years"	"92"	"Vascular dementia, unspecified"	"F01.9"	23	Not Applicable	Not Applicable
+	"Iowa"	"19"	"92 years"	"92"	"Unspecified dementia"	"F03"	289	Not Applicable	Not Applicable
+	"Iowa"	"19"	"92 years"	"92"	"Parkinson disease"	"G20"	25	Not Applicable	Not Applicable
+	"Iowa"	"19"	"92 years"	"92"	"Alzheimer disease with late onset"	"G30.1"	14	Not Applicable	Not Applicable
+	"Iowa"	"19"	"92 years"	"92"	"Alzheimer disease, unspecified"	"G30.9"	276	Not Applicable	Not Applicable
+	"Iowa"	"19"	"92 years"	"92"	"Senile degeneration of brain, not elsewhere classified"	"G31.1"	16	Not Applicable	Not Applicable
+	"Iowa"	"19"	"92 years"	"92"	"Essential (primary) hypertension"	"I10"	29	Not Applicable	Not Applicable
+	"Iowa"	"19"	"92 years"	"92"	"Hypertensive heart disease with (congestive) heart failure"	"I11.0"	38	Not Applicable	Not Applicable
+	"Iowa"	"19"	"92 years"	"92"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	14	Not Applicable	Not Applicable
+	"Iowa"	"19"	"92 years"	"92"	"Hypertensive renal disease with renal failure"	"I12.0"	18	Not Applicable	Not Applicable
+	"Iowa"	"19"	"92 years"	"92"	"Acute subendocardial myocardial infarction"	"I21.4"	11	Not Applicable	Not Applicable
+	"Iowa"	"19"	"92 years"	"92"	"Acute myocardial infarction, unspecified"	"I21.9"	81	Not Applicable	Not Applicable
+	"Iowa"	"19"	"92 years"	"92"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	54	Not Applicable	Not Applicable
+	"Iowa"	"19"	"92 years"	"92"	"Atherosclerotic heart disease"	"I25.1"	209	Not Applicable	Not Applicable
+	"Iowa"	"19"	"92 years"	"92"	"Other secondary pulmonary hypertension"	"I27.2"	13	Not Applicable	Not Applicable
+	"Iowa"	"19"	"92 years"	"92"	"Aortic (valve) stenosis"	"I35.0"	55	Not Applicable	Not Applicable
+	"Iowa"	"19"	"92 years"	"92"	"Endocarditis, valve unspecified"	"I38"	11	Not Applicable	Not Applicable
+	"Iowa"	"19"	"92 years"	"92"	"Cardiomyopathy, unspecified"	"I42.9"	10	Not Applicable	Not Applicable
+	"Iowa"	"19"	"92 years"	"92"	"Cardiac arrest, unspecified"	"I46.9"	16	Not Applicable	Not Applicable
+	"Iowa"	"19"	"92 years"	"92"	"Atrial fibrillation and flutter"	"I48"	71	Not Applicable	Not Applicable
+	"Iowa"	"19"	"92 years"	"92"	"Congestive heart failure"	"I50.0"	78	Not Applicable	Not Applicable
+	"Iowa"	"19"	"92 years"	"92"	"Heart failure, unspecified"	"I50.9"	26	Not Applicable	Not Applicable
+	"Iowa"	"19"	"92 years"	"92"	"Intracerebral haemorrhage, unspecified"	"I61.9"	13	Not Applicable	Not Applicable
+	"Iowa"	"19"	"92 years"	"92"	"Cerebral infarction, unspecified"	"I63.9"	22	Not Applicable	Not Applicable
+	"Iowa"	"19"	"92 years"	"92"	"Stroke, not specified as haemorrhage or infarction"	"I64"	132	Not Applicable	Not Applicable
+	"Iowa"	"19"	"92 years"	"92"	"Sequelae of stroke, not specified as haemorrhage or infarction"	"I69.4"	16	Not Applicable	Not Applicable
+	"Iowa"	"19"	"92 years"	"92"	"Peripheral vascular disease, unspecified"	"I73.9"	10	Not Applicable	Not Applicable
+	"Iowa"	"19"	"92 years"	"92"	"Pneumonia, unspecified"	"J18.9"	51	Not Applicable	Not Applicable
+	"Iowa"	"19"	"92 years"	"92"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	15	Not Applicable	Not Applicable
+	"Iowa"	"19"	"92 years"	"92"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	63	Not Applicable	Not Applicable
+	"Iowa"	"19"	"92 years"	"92"	"Pneumonitis due to food and vomit"	"J69.0"	14	Not Applicable	Not Applicable
+	"Iowa"	"19"	"92 years"	"92"	"Other interstitial pulmonary diseases with fibrosis"	"J84.1"	12	Not Applicable	Not Applicable
+	"Iowa"	"19"	"92 years"	"92"	"Respiratory failure, unspecified"	"J96.9"	13	Not Applicable	Not Applicable
+	"Iowa"	"19"	"92 years"	"92"	"Other and unspecified intestinal obstruction"	"K56.6"	13	Not Applicable	Not Applicable
+	"Iowa"	"19"	"92 years"	"92"	"Gastrointestinal haemorrhage, unspecified"	"K92.2"	22	Not Applicable	Not Applicable
+	"Iowa"	"19"	"92 years"	"92"	"Chronic renal failure, unspecified"	"N18.9"	11	Not Applicable	Not Applicable
+	"Iowa"	"19"	"92 years"	"92"	"Urinary tract infection, site not specified"	"N39.0"	19	Not Applicable	Not Applicable
+	"Iowa"	"19"	"92 years"	"92"	"Senility"	"R54"	17	Not Applicable	Not Applicable
+	"Iowa"	"19"	"92 years"	"92"	"Other lack of expected normal physiological development"	"R62.8"	17	Not Applicable	Not Applicable
+	"Iowa"	"19"	"92 years"	"92"	"COVID-19"	"U07.1"	69	Not Applicable	Not Applicable
+	"Iowa"	"19"	"92 years"	"92"	"Other fall on same level"	"W18"	34	Not Applicable	Not Applicable
+	"Iowa"	"19"	"92 years"	"92"	"Unspecified fall"	"W19"	22	Not Applicable	Not Applicable
+	"Iowa"	"19"	"93 years"	"93"	"Septicaemia, unspecified"	"A41.9"	23	Not Applicable	Not Applicable
+	"Iowa"	"19"	"93 years"	"93"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	19	Not Applicable	Not Applicable
+	"Iowa"	"19"	"93 years"	"93"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	10	Not Applicable	Not Applicable
+	"Iowa"	"19"	"93 years"	"93"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	20	Not Applicable	Not Applicable
+	"Iowa"	"19"	"93 years"	"93"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	21	Not Applicable	Not Applicable
+	"Iowa"	"19"	"93 years"	"93"	"Malignant neoplasm of ovary"	"C56"	10	Not Applicable	Not Applicable
+	"Iowa"	"19"	"93 years"	"93"	"Malignant neoplasm without specification of site"	"C80"	21	Not Applicable	Not Applicable
+	"Iowa"	"19"	"93 years"	"93"	"Non-insulin-dependent diabetes mellitus, without complications"	"E11.9"	10	Not Applicable	Not Applicable
+	"Iowa"	"19"	"93 years"	"93"	"Unspecified diabetes mellitus, without complications"	"E14.9"	21	Not Applicable	Not Applicable
+	"Iowa"	"19"	"93 years"	"93"	"Unspecified protein-energy malnutrition"	"E46"	16	Not Applicable	Not Applicable
+	"Iowa"	"19"	"93 years"	"93"	"Hyperlipidaemia, unspecified"	"E78.5"	19	Not Applicable	Not Applicable
+	"Iowa"	"19"	"93 years"	"93"	"Vascular dementia, unspecified"	"F01.9"	29	Not Applicable	Not Applicable
+	"Iowa"	"19"	"93 years"	"93"	"Unspecified dementia"	"F03"	247	Not Applicable	Not Applicable
+	"Iowa"	"19"	"93 years"	"93"	"Parkinson disease"	"G20"	29	Not Applicable	Not Applicable
+	"Iowa"	"19"	"93 years"	"93"	"Alzheimer disease with late onset"	"G30.1"	19	Not Applicable	Not Applicable
+	"Iowa"	"19"	"93 years"	"93"	"Alzheimer disease, unspecified"	"G30.9"	255	Not Applicable	Not Applicable
+	"Iowa"	"19"	"93 years"	"93"	"Senile degeneration of brain, not elsewhere classified"	"G31.1"	16	Not Applicable	Not Applicable
+	"Iowa"	"19"	"93 years"	"93"	"Essential (primary) hypertension"	"I10"	31	Not Applicable	Not Applicable
+	"Iowa"	"19"	"93 years"	"93"	"Hypertensive heart disease with (congestive) heart failure"	"I11.0"	60	Not Applicable	Not Applicable
+	"Iowa"	"19"	"93 years"	"93"	"Hypertensive renal disease with renal failure"	"I12.0"	16	Not Applicable	Not Applicable
+	"Iowa"	"19"	"93 years"	"93"	"Hypertensive heart and renal disease with both (congestive) heart failure and renal failure"	"I13.2"	22	Not Applicable	Not Applicable
+	"Iowa"	"19"	"93 years"	"93"	"Acute subendocardial myocardial infarction"	"I21.4"	13	Not Applicable	Not Applicable
+	"Iowa"	"19"	"93 years"	"93"	"Acute myocardial infarction, unspecified"	"I21.9"	66	Not Applicable	Not Applicable
+	"Iowa"	"19"	"93 years"	"93"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	43	Not Applicable	Not Applicable
+	"Iowa"	"19"	"93 years"	"93"	"Atherosclerotic heart disease"	"I25.1"	185	Not Applicable	Not Applicable
+	"Iowa"	"19"	"93 years"	"93"	"Chronic ischaemic heart disease, unspecified"	"I25.9"	12	Not Applicable	Not Applicable
+	"Iowa"	"19"	"93 years"	"93"	"Other secondary pulmonary hypertension"	"I27.2"	19	Not Applicable	Not Applicable
+	"Iowa"	"19"	"93 years"	"93"	"Aortic (valve) stenosis"	"I35.0"	35	Not Applicable	Not Applicable
+	"Iowa"	"19"	"93 years"	"93"	"Cardiomyopathy, unspecified"	"I42.9"	13	Not Applicable	Not Applicable
+	"Iowa"	"19"	"93 years"	"93"	"Atrial fibrillation and flutter"	"I48"	60	Not Applicable	Not Applicable
+	"Iowa"	"19"	"93 years"	"93"	"Congestive heart failure"	"I50.0"	70	Not Applicable	Not Applicable
+	"Iowa"	"19"	"93 years"	"93"	"Heart failure, unspecified"	"I50.9"	22	Not Applicable	Not Applicable
+	"Iowa"	"19"	"93 years"	"93"	"Intracerebral haemorrhage, unspecified"	"I61.9"	10	Not Applicable	Not Applicable
+	"Iowa"	"19"	"93 years"	"93"	"Cerebral infarction, unspecified"	"I63.9"	12	Not Applicable	Not Applicable
+	"Iowa"	"19"	"93 years"	"93"	"Stroke, not specified as haemorrhage or infarction"	"I64"	102	Not Applicable	Not Applicable
+	"Iowa"	"19"	"93 years"	"93"	"Pneumonia, unspecified"	"J18.9"	41	Not Applicable	Not Applicable
+	"Iowa"	"19"	"93 years"	"93"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	15	Not Applicable	Not Applicable
+	"Iowa"	"19"	"93 years"	"93"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	58	Not Applicable	Not Applicable
+	"Iowa"	"19"	"93 years"	"93"	"Pneumonitis due to food and vomit"	"J69.0"	17	Not Applicable	Not Applicable
+	"Iowa"	"19"	"93 years"	"93"	"Other interstitial pulmonary diseases with fibrosis"	"J84.1"	13	Not Applicable	Not Applicable
+	"Iowa"	"19"	"93 years"	"93"	"Other and unspecified intestinal obstruction"	"K56.6"	14	Not Applicable	Not Applicable
+	"Iowa"	"19"	"93 years"	"93"	"Gastrointestinal haemorrhage, unspecified"	"K92.2"	21	Not Applicable	Not Applicable
+	"Iowa"	"19"	"93 years"	"93"	"Chronic renal failure, unspecified"	"N18.9"	13	Not Applicable	Not Applicable
+	"Iowa"	"19"	"93 years"	"93"	"Urinary tract infection, site not specified"	"N39.0"	21	Not Applicable	Not Applicable
+	"Iowa"	"19"	"93 years"	"93"	"Senility"	"R54"	24	Not Applicable	Not Applicable
+	"Iowa"	"19"	"93 years"	"93"	"Other lack of expected normal physiological development"	"R62.8"	10	Not Applicable	Not Applicable
+	"Iowa"	"19"	"93 years"	"93"	"COVID-19"	"U07.1"	77	Not Applicable	Not Applicable
+	"Iowa"	"19"	"93 years"	"93"	"Other fall on same level"	"W18"	21	Not Applicable	Not Applicable
+	"Iowa"	"19"	"93 years"	"93"	"Unspecified fall"	"W19"	18	Not Applicable	Not Applicable
+	"Iowa"	"19"	"94 years"	"94"	"Septicaemia, unspecified"	"A41.9"	10	Not Applicable	Not Applicable
+	"Iowa"	"19"	"94 years"	"94"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	24	Not Applicable	Not Applicable
+	"Iowa"	"19"	"94 years"	"94"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	14	Not Applicable	Not Applicable
+	"Iowa"	"19"	"94 years"	"94"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	22	Not Applicable	Not Applicable
+	"Iowa"	"19"	"94 years"	"94"	"Malignant neoplasm without specification of site"	"C80"	12	Not Applicable	Not Applicable
+	"Iowa"	"19"	"94 years"	"94"	"Non-insulin-dependent diabetes mellitus, without complications"	"E11.9"	13	Not Applicable	Not Applicable
+	"Iowa"	"19"	"94 years"	"94"	"Unspecified diabetes mellitus, without complications"	"E14.9"	16	Not Applicable	Not Applicable
+	"Iowa"	"19"	"94 years"	"94"	"Hyperlipidaemia, unspecified"	"E78.5"	13	Not Applicable	Not Applicable
+	"Iowa"	"19"	"94 years"	"94"	"Vascular dementia, unspecified"	"F01.9"	18	Not Applicable	Not Applicable
+	"Iowa"	"19"	"94 years"	"94"	"Unspecified dementia"	"F03"	270	Not Applicable	Not Applicable
+	"Iowa"	"19"	"94 years"	"94"	"Parkinson disease"	"G20"	11	Not Applicable	Not Applicable
+	"Iowa"	"19"	"94 years"	"94"	"Alzheimer disease with late onset"	"G30.1"	13	Not Applicable	Not Applicable
+	"Iowa"	"19"	"94 years"	"94"	"Alzheimer disease, unspecified"	"G30.9"	221	Not Applicable	Not Applicable
+	"Iowa"	"19"	"94 years"	"94"	"Senile degeneration of brain, not elsewhere classified"	"G31.1"	21	Not Applicable	Not Applicable
+	"Iowa"	"19"	"94 years"	"94"	"Essential (primary) hypertension"	"I10"	36	Not Applicable	Not Applicable
+	"Iowa"	"19"	"94 years"	"94"	"Hypertensive heart disease with (congestive) heart failure"	"I11.0"	51	Not Applicable	Not Applicable
+	"Iowa"	"19"	"94 years"	"94"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	14	Not Applicable	Not Applicable
+	"Iowa"	"19"	"94 years"	"94"	"Hypertensive renal disease with renal failure"	"I12.0"	15	Not Applicable	Not Applicable
+	"Iowa"	"19"	"94 years"	"94"	"Hypertensive heart and renal disease with both (congestive) heart failure and renal failure"	"I13.2"	10	Not Applicable	Not Applicable
+	"Iowa"	"19"	"94 years"	"94"	"Acute myocardial infarction, unspecified"	"I21.9"	70	Not Applicable	Not Applicable
+	"Iowa"	"19"	"94 years"	"94"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	43	Not Applicable	Not Applicable
+	"Iowa"	"19"	"94 years"	"94"	"Atherosclerotic heart disease"	"I25.1"	178	Not Applicable	Not Applicable
+	"Iowa"	"19"	"94 years"	"94"	"Chronic ischaemic heart disease, unspecified"	"I25.9"	10	Not Applicable	Not Applicable
+	"Iowa"	"19"	"94 years"	"94"	"Other secondary pulmonary hypertension"	"I27.2"	10	Not Applicable	Not Applicable
+	"Iowa"	"19"	"94 years"	"94"	"Aortic (valve) stenosis"	"I35.0"	33	Not Applicable	Not Applicable
+	"Iowa"	"19"	"94 years"	"94"	"Atrial fibrillation and flutter"	"I48"	54	Not Applicable	Not Applicable
+	"Iowa"	"19"	"94 years"	"94"	"Congestive heart failure"	"I50.0"	80	Not Applicable	Not Applicable
+	"Iowa"	"19"	"94 years"	"94"	"Heart failure, unspecified"	"I50.9"	21	Not Applicable	Not Applicable
+	"Iowa"	"19"	"94 years"	"94"	"Intracerebral haemorrhage, unspecified"	"I61.9"	15	Not Applicable	Not Applicable
+	"Iowa"	"19"	"94 years"	"94"	"Stroke, not specified as haemorrhage or infarction"	"I64"	106	Not Applicable	Not Applicable
+	"Iowa"	"19"	"94 years"	"94"	"Sequelae of stroke, not specified as haemorrhage or infarction"	"I69.4"	12	Not Applicable	Not Applicable
+	"Iowa"	"19"	"94 years"	"94"	"Peripheral vascular disease, unspecified"	"I73.9"	10	Not Applicable	Not Applicable
+	"Iowa"	"19"	"94 years"	"94"	"Pneumonia, unspecified"	"J18.9"	43	Not Applicable	Not Applicable
+	"Iowa"	"19"	"94 years"	"94"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	13	Not Applicable	Not Applicable
+	"Iowa"	"19"	"94 years"	"94"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	49	Not Applicable	Not Applicable
+	"Iowa"	"19"	"94 years"	"94"	"Pneumonitis due to food and vomit"	"J69.0"	21	Not Applicable	Not Applicable
+	"Iowa"	"19"	"94 years"	"94"	"Other and unspecified intestinal obstruction"	"K56.6"	15	Not Applicable	Not Applicable
+	"Iowa"	"19"	"94 years"	"94"	"Gastrointestinal haemorrhage, unspecified"	"K92.2"	14	Not Applicable	Not Applicable
+	"Iowa"	"19"	"94 years"	"94"	"Chronic renal failure, unspecified"	"N18.9"	12	Not Applicable	Not Applicable
+	"Iowa"	"19"	"94 years"	"94"	"Urinary tract infection, site not specified"	"N39.0"	16	Not Applicable	Not Applicable
+	"Iowa"	"19"	"94 years"	"94"	"Senility"	"R54"	20	Not Applicable	Not Applicable
+	"Iowa"	"19"	"94 years"	"94"	"Other lack of expected normal physiological development"	"R62.8"	12	Not Applicable	Not Applicable
+	"Iowa"	"19"	"94 years"	"94"	"Other ill-defined and unspecified causes of mortality"	"R99"	12	Not Applicable	Not Applicable
+	"Iowa"	"19"	"94 years"	"94"	"COVID-19"	"U07.1"	75	Not Applicable	Not Applicable
+	"Iowa"	"19"	"94 years"	"94"	"Other fall on same level"	"W18"	18	Not Applicable	Not Applicable
+	"Iowa"	"19"	"94 years"	"94"	"Unspecified fall"	"W19"	20	Not Applicable	Not Applicable
+	"Iowa"	"19"	"95 years"	"95"	"Septicaemia, unspecified"	"A41.9"	10	Not Applicable	Not Applicable
+	"Iowa"	"19"	"95 years"	"95"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	17	Not Applicable	Not Applicable
+	"Iowa"	"19"	"95 years"	"95"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	12	Not Applicable	Not Applicable
+	"Iowa"	"19"	"95 years"	"95"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	23	Not Applicable	Not Applicable
+	"Iowa"	"19"	"95 years"	"95"	"Unspecified diabetes mellitus, without complications"	"E14.9"	12	Not Applicable	Not Applicable
+	"Iowa"	"19"	"95 years"	"95"	"Unspecified protein-energy malnutrition"	"E46"	10	Not Applicable	Not Applicable
+	"Iowa"	"19"	"95 years"	"95"	"Hyperlipidaemia, unspecified"	"E78.5"	22	Not Applicable	Not Applicable
+	"Iowa"	"19"	"95 years"	"95"	"Vascular dementia, unspecified"	"F01.9"	20	Not Applicable	Not Applicable
+	"Iowa"	"19"	"95 years"	"95"	"Unspecified dementia"	"F03"	218	Not Applicable	Not Applicable
+	"Iowa"	"19"	"95 years"	"95"	"Parkinson disease"	"G20"	19	Not Applicable	Not Applicable
+	"Iowa"	"19"	"95 years"	"95"	"Alzheimer disease with late onset"	"G30.1"	16	Not Applicable	Not Applicable
+	"Iowa"	"19"	"95 years"	"95"	"Alzheimer disease, unspecified"	"G30.9"	228	Not Applicable	Not Applicable
+	"Iowa"	"19"	"95 years"	"95"	"Senile degeneration of brain, not elsewhere classified"	"G31.1"	20	Not Applicable	Not Applicable
+	"Iowa"	"19"	"95 years"	"95"	"Essential (primary) hypertension"	"I10"	28	Not Applicable	Not Applicable
+	"Iowa"	"19"	"95 years"	"95"	"Hypertensive heart disease with (congestive) heart failure"	"I11.0"	59	Not Applicable	Not Applicable
+	"Iowa"	"19"	"95 years"	"95"	"Hypertensive renal disease with renal failure"	"I12.0"	17	Not Applicable	Not Applicable
+	"Iowa"	"19"	"95 years"	"95"	"Hypertensive heart and renal disease with both (congestive) heart failure and renal failure"	"I13.2"	13	Not Applicable	Not Applicable
+	"Iowa"	"19"	"95 years"	"95"	"Acute subendocardial myocardial infarction"	"I21.4"	11	Not Applicable	Not Applicable
+	"Iowa"	"19"	"95 years"	"95"	"Acute myocardial infarction, unspecified"	"I21.9"	65	Not Applicable	Not Applicable
+	"Iowa"	"19"	"95 years"	"95"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	45	Not Applicable	Not Applicable
+	"Iowa"	"19"	"95 years"	"95"	"Atherosclerotic heart disease"	"I25.1"	142	Not Applicable	Not Applicable
+	"Iowa"	"19"	"95 years"	"95"	"Other secondary pulmonary hypertension"	"I27.2"	10	Not Applicable	Not Applicable
+	"Iowa"	"19"	"95 years"	"95"	"Aortic (valve) stenosis"	"I35.0"	42	Not Applicable	Not Applicable
+	"Iowa"	"19"	"95 years"	"95"	"Cardiac arrest, unspecified"	"I46.9"	13	Not Applicable	Not Applicable
+	"Iowa"	"19"	"95 years"	"95"	"Atrial fibrillation and flutter"	"I48"	47	Not Applicable	Not Applicable
+	"Iowa"	"19"	"95 years"	"95"	"Congestive heart failure"	"I50.0"	73	Not Applicable	Not Applicable
+	"Iowa"	"19"	"95 years"	"95"	"Heart failure, unspecified"	"I50.9"	25	Not Applicable	Not Applicable
+	"Iowa"	"19"	"95 years"	"95"	"Cerebral infarction, unspecified"	"I63.9"	11	Not Applicable	Not Applicable
+	"Iowa"	"19"	"95 years"	"95"	"Stroke, not specified as haemorrhage or infarction"	"I64"	99	Not Applicable	Not Applicable
+	"Iowa"	"19"	"95 years"	"95"	"Cerebrovascular disease, unspecified"	"I67.9"	10	Not Applicable	Not Applicable
+	"Iowa"	"19"	"95 years"	"95"	"Peripheral vascular disease, unspecified"	"I73.9"	10	Not Applicable	Not Applicable
+	"Iowa"	"19"	"95 years"	"95"	"Pneumonia, unspecified"	"J18.9"	51	Not Applicable	Not Applicable
+	"Iowa"	"19"	"95 years"	"95"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	10	Not Applicable	Not Applicable
+	"Iowa"	"19"	"95 years"	"95"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	41	Not Applicable	Not Applicable
+	"Iowa"	"19"	"95 years"	"95"	"Pneumonitis due to food and vomit"	"J69.0"	17	Not Applicable	Not Applicable
+	"Iowa"	"19"	"95 years"	"95"	"Other and unspecified intestinal obstruction"	"K56.6"	11	Not Applicable	Not Applicable
+	"Iowa"	"19"	"95 years"	"95"	"Urinary tract infection, site not specified"	"N39.0"	12	Not Applicable	Not Applicable
+	"Iowa"	"19"	"95 years"	"95"	"Senility"	"R54"	27	Not Applicable	Not Applicable
+	"Iowa"	"19"	"95 years"	"95"	"Other ill-defined and unspecified causes of mortality"	"R99"	10	Not Applicable	Not Applicable
+	"Iowa"	"19"	"95 years"	"95"	"COVID-19"	"U07.1"	68	Not Applicable	Not Applicable
+	"Iowa"	"19"	"95 years"	"95"	"Other fall on same level"	"W18"	28	Not Applicable	Not Applicable
+	"Iowa"	"19"	"95 years"	"95"	"Unspecified fall"	"W19"	21	Not Applicable	Not Applicable
+	"Iowa"	"19"	"96 years"	"96"	"Septicaemia, unspecified"	"A41.9"	12	Not Applicable	Not Applicable
+	"Iowa"	"19"	"96 years"	"96"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	13	Not Applicable	Not Applicable
+	"Iowa"	"19"	"96 years"	"96"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	12	Not Applicable	Not Applicable
+	"Iowa"	"19"	"96 years"	"96"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	15	Not Applicable	Not Applicable
+	"Iowa"	"19"	"96 years"	"96"	"Malignant neoplasm without specification of site"	"C80"	13	Not Applicable	Not Applicable
+	"Iowa"	"19"	"96 years"	"96"	"Unspecified protein-energy malnutrition"	"E46"	15	Not Applicable	Not Applicable
+	"Iowa"	"19"	"96 years"	"96"	"Pure hypercholesterolaemia"	"E78.0"	10	Not Applicable	Not Applicable
+	"Iowa"	"19"	"96 years"	"96"	"Hyperlipidaemia, unspecified"	"E78.5"	11	Not Applicable	Not Applicable
+	"Iowa"	"19"	"96 years"	"96"	"Vascular dementia, unspecified"	"F01.9"	24	Not Applicable	Not Applicable
+	"Iowa"	"19"	"96 years"	"96"	"Unspecified dementia"	"F03"	216	Not Applicable	Not Applicable
+	"Iowa"	"19"	"96 years"	"96"	"Parkinson disease"	"G20"	15	Not Applicable	Not Applicable
+	"Iowa"	"19"	"96 years"	"96"	"Alzheimer disease with late onset"	"G30.1"	11	Not Applicable	Not Applicable
+	"Iowa"	"19"	"96 years"	"96"	"Alzheimer disease, unspecified"	"G30.9"	168	Not Applicable	Not Applicable
+	"Iowa"	"19"	"96 years"	"96"	"Senile degeneration of brain, not elsewhere classified"	"G31.1"	16	Not Applicable	Not Applicable
+	"Iowa"	"19"	"96 years"	"96"	"Essential (primary) hypertension"	"I10"	27	Not Applicable	Not Applicable
+	"Iowa"	"19"	"96 years"	"96"	"Hypertensive heart disease with (congestive) heart failure"	"I11.0"	51	Not Applicable	Not Applicable
+	"Iowa"	"19"	"96 years"	"96"	"Hypertensive renal disease with renal failure"	"I12.0"	17	Not Applicable	Not Applicable
+	"Iowa"	"19"	"96 years"	"96"	"Hypertensive heart and renal disease with both (congestive) heart failure and renal failure"	"I13.2"	14	Not Applicable	Not Applicable
+	"Iowa"	"19"	"96 years"	"96"	"Acute myocardial infarction, unspecified"	"I21.9"	51	Not Applicable	Not Applicable
+	"Iowa"	"19"	"96 years"	"96"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	32	Not Applicable	Not Applicable
+	"Iowa"	"19"	"96 years"	"96"	"Atherosclerotic heart disease"	"I25.1"	154	Not Applicable	Not Applicable
+	"Iowa"	"19"	"96 years"	"96"	"Other secondary pulmonary hypertension"	"I27.2"	10	Not Applicable	Not Applicable
+	"Iowa"	"19"	"96 years"	"96"	"Aortic (valve) stenosis"	"I35.0"	25	Not Applicable	Not Applicable
+	"Iowa"	"19"	"96 years"	"96"	"Cardiac arrest, unspecified"	"I46.9"	11	Not Applicable	Not Applicable
+	"Iowa"	"19"	"96 years"	"96"	"Atrial fibrillation and flutter"	"I48"	36	Not Applicable	Not Applicable
+	"Iowa"	"19"	"96 years"	"96"	"Congestive heart failure"	"I50.0"	59	Not Applicable	Not Applicable
+	"Iowa"	"19"	"96 years"	"96"	"Heart failure, unspecified"	"I50.9"	19	Not Applicable	Not Applicable
+	"Iowa"	"19"	"96 years"	"96"	"Cerebral infarction, unspecified"	"I63.9"	13	Not Applicable	Not Applicable
+	"Iowa"	"19"	"96 years"	"96"	"Stroke, not specified as haemorrhage or infarction"	"I64"	86	Not Applicable	Not Applicable
+	"Iowa"	"19"	"96 years"	"96"	"Sequelae of stroke, not specified as haemorrhage or infarction"	"I69.4"	12	Not Applicable	Not Applicable
+	"Iowa"	"19"	"96 years"	"96"	"Pneumonia, unspecified"	"J18.9"	46	Not Applicable	Not Applicable
+	"Iowa"	"19"	"96 years"	"96"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	39	Not Applicable	Not Applicable
+	"Iowa"	"19"	"96 years"	"96"	"Pneumonitis due to food and vomit"	"J69.0"	15	Not Applicable	Not Applicable
+	"Iowa"	"19"	"96 years"	"96"	"Other interstitial pulmonary diseases with fibrosis"	"J84.1"	11	Not Applicable	Not Applicable
+	"Iowa"	"19"	"96 years"	"96"	"Other and unspecified intestinal obstruction"	"K56.6"	12	Not Applicable	Not Applicable
+	"Iowa"	"19"	"96 years"	"96"	"Chronic renal failure, unspecified"	"N18.9"	10	Not Applicable	Not Applicable
+	"Iowa"	"19"	"96 years"	"96"	"Urinary tract infection, site not specified"	"N39.0"	22	Not Applicable	Not Applicable
+	"Iowa"	"19"	"96 years"	"96"	"Senility"	"R54"	27	Not Applicable	Not Applicable
+	"Iowa"	"19"	"96 years"	"96"	"Other lack of expected normal physiological development"	"R62.8"	12	Not Applicable	Not Applicable
+	"Iowa"	"19"	"96 years"	"96"	"COVID-19"	"U07.1"	44	Not Applicable	Not Applicable
+	"Iowa"	"19"	"96 years"	"96"	"Other fall on same level"	"W18"	17	Not Applicable	Not Applicable
+	"Iowa"	"19"	"96 years"	"96"	"Unspecified fall"	"W19"	16	Not Applicable	Not Applicable
+	"Iowa"	"19"	"97 years"	"97"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	14	Not Applicable	Not Applicable
+	"Iowa"	"19"	"97 years"	"97"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	11	Not Applicable	Not Applicable
+	"Iowa"	"19"	"97 years"	"97"	"Hyperlipidaemia, unspecified"	"E78.5"	15	Not Applicable	Not Applicable
+	"Iowa"	"19"	"97 years"	"97"	"Vascular dementia, unspecified"	"F01.9"	13	Not Applicable	Not Applicable
+	"Iowa"	"19"	"97 years"	"97"	"Unspecified dementia"	"F03"	176	Not Applicable	Not Applicable
+	"Iowa"	"19"	"97 years"	"97"	"Alzheimer disease, unspecified"	"G30.9"	169	Not Applicable	Not Applicable
+	"Iowa"	"19"	"97 years"	"97"	"Senile degeneration of brain, not elsewhere classified"	"G31.1"	10	Not Applicable	Not Applicable
+	"Iowa"	"19"	"97 years"	"97"	"Essential (primary) hypertension"	"I10"	24	Not Applicable	Not Applicable
+	"Iowa"	"19"	"97 years"	"97"	"Hypertensive heart disease with (congestive) heart failure"	"I11.0"	34	Not Applicable	Not Applicable
+	"Iowa"	"19"	"97 years"	"97"	"Acute myocardial infarction, unspecified"	"I21.9"	41	Not Applicable	Not Applicable
+	"Iowa"	"19"	"97 years"	"97"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	20	Not Applicable	Not Applicable
+	"Iowa"	"19"	"97 years"	"97"	"Atherosclerotic heart disease"	"I25.1"	125	Not Applicable	Not Applicable
+	"Iowa"	"19"	"97 years"	"97"	"Other secondary pulmonary hypertension"	"I27.2"	10	Not Applicable	Not Applicable
+	"Iowa"	"19"	"97 years"	"97"	"Aortic (valve) stenosis"	"I35.0"	33	Not Applicable	Not Applicable
+	"Iowa"	"19"	"97 years"	"97"	"Atrial fibrillation and flutter"	"I48"	37	Not Applicable	Not Applicable
+	"Iowa"	"19"	"97 years"	"97"	"Congestive heart failure"	"I50.0"	57	Not Applicable	Not Applicable
+	"Iowa"	"19"	"97 years"	"97"	"Heart failure, unspecified"	"I50.9"	14	Not Applicable	Not Applicable
+	"Iowa"	"19"	"97 years"	"97"	"Stroke, not specified as haemorrhage or infarction"	"I64"	64	Not Applicable	Not Applicable
+	"Iowa"	"19"	"97 years"	"97"	"Pneumonia, unspecified"	"J18.9"	44	Not Applicable	Not Applicable
+	"Iowa"	"19"	"97 years"	"97"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	35	Not Applicable	Not Applicable
+	"Iowa"	"19"	"97 years"	"97"	"Pneumonitis due to food and vomit"	"J69.0"	11	Not Applicable	Not Applicable
+	"Iowa"	"19"	"97 years"	"97"	"Senility"	"R54"	19	Not Applicable	Not Applicable
+	"Iowa"	"19"	"97 years"	"97"	"COVID-19"	"U07.1"	46	Not Applicable	Not Applicable
+	"Iowa"	"19"	"97 years"	"97"	"Other fall on same level"	"W18"	11	Not Applicable	Not Applicable
+	"Iowa"	"19"	"97 years"	"97"	"Unspecified fall"	"W19"	13	Not Applicable	Not Applicable
+	"Iowa"	"19"	"98 years"	"98"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	15	Not Applicable	Not Applicable
+	"Iowa"	"19"	"98 years"	"98"	"Vascular dementia, unspecified"	"F01.9"	12	Not Applicable	Not Applicable
+	"Iowa"	"19"	"98 years"	"98"	"Unspecified dementia"	"F03"	140	Not Applicable	Not Applicable
+	"Iowa"	"19"	"98 years"	"98"	"Alzheimer disease, unspecified"	"G30.9"	118	Not Applicable	Not Applicable
+	"Iowa"	"19"	"98 years"	"98"	"Senile degeneration of brain, not elsewhere classified"	"G31.1"	13	Not Applicable	Not Applicable
+	"Iowa"	"19"	"98 years"	"98"	"Essential (primary) hypertension"	"I10"	32	Not Applicable	Not Applicable
+	"Iowa"	"19"	"98 years"	"98"	"Hypertensive heart disease with (congestive) heart failure"	"I11.0"	27	Not Applicable	Not Applicable
+	"Iowa"	"19"	"98 years"	"98"	"Acute myocardial infarction, unspecified"	"I21.9"	39	Not Applicable	Not Applicable
+	"Iowa"	"19"	"98 years"	"98"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	20	Not Applicable	Not Applicable
+	"Iowa"	"19"	"98 years"	"98"	"Atherosclerotic heart disease"	"I25.1"	81	Not Applicable	Not Applicable
+	"Iowa"	"19"	"98 years"	"98"	"Aortic (valve) stenosis"	"I35.0"	20	Not Applicable	Not Applicable
+	"Iowa"	"19"	"98 years"	"98"	"Atrial fibrillation and flutter"	"I48"	24	Not Applicable	Not Applicable
+	"Iowa"	"19"	"98 years"	"98"	"Congestive heart failure"	"I50.0"	37	Not Applicable	Not Applicable
+	"Iowa"	"19"	"98 years"	"98"	"Heart failure, unspecified"	"I50.9"	15	Not Applicable	Not Applicable
+	"Iowa"	"19"	"98 years"	"98"	"Stroke, not specified as haemorrhage or infarction"	"I64"	45	Not Applicable	Not Applicable
+	"Iowa"	"19"	"98 years"	"98"	"Pneumonia, unspecified"	"J18.9"	32	Not Applicable	Not Applicable
+	"Iowa"	"19"	"98 years"	"98"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	19	Not Applicable	Not Applicable
+	"Iowa"	"19"	"98 years"	"98"	"Pneumonitis due to food and vomit"	"J69.0"	12	Not Applicable	Not Applicable
+	"Iowa"	"19"	"98 years"	"98"	"Gastrointestinal haemorrhage, unspecified"	"K92.2"	12	Not Applicable	Not Applicable
+	"Iowa"	"19"	"98 years"	"98"	"Urinary tract infection, site not specified"	"N39.0"	10	Not Applicable	Not Applicable
+	"Iowa"	"19"	"98 years"	"98"	"Senility"	"R54"	25	Not Applicable	Not Applicable
+	"Iowa"	"19"	"98 years"	"98"	"COVID-19"	"U07.1"	40	Not Applicable	Not Applicable
+	"Iowa"	"19"	"98 years"	"98"	"Unspecified fall"	"W19"	11	Not Applicable	Not Applicable
+	"Iowa"	"19"	"99 years"	"99"	"Vascular dementia, unspecified"	"F01.9"	10	Not Applicable	Not Applicable
+	"Iowa"	"19"	"99 years"	"99"	"Unspecified dementia"	"F03"	119	Not Applicable	Not Applicable
+	"Iowa"	"19"	"99 years"	"99"	"Alzheimer disease with late onset"	"G30.1"	11	Not Applicable	Not Applicable
+	"Iowa"	"19"	"99 years"	"99"	"Alzheimer disease, unspecified"	"G30.9"	95	Not Applicable	Not Applicable
+	"Iowa"	"19"	"99 years"	"99"	"Essential (primary) hypertension"	"I10"	22	Not Applicable	Not Applicable
+	"Iowa"	"19"	"99 years"	"99"	"Hypertensive heart disease with (congestive) heart failure"	"I11.0"	29	Not Applicable	Not Applicable
+	"Iowa"	"19"	"99 years"	"99"	"Acute myocardial infarction, unspecified"	"I21.9"	31	Not Applicable	Not Applicable
+	"Iowa"	"19"	"99 years"	"99"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	18	Not Applicable	Not Applicable
+	"Iowa"	"19"	"99 years"	"99"	"Atherosclerotic heart disease"	"I25.1"	75	Not Applicable	Not Applicable
+	"Iowa"	"19"	"99 years"	"99"	"Aortic (valve) stenosis"	"I35.0"	20	Not Applicable	Not Applicable
+	"Iowa"	"19"	"99 years"	"99"	"Atrial fibrillation and flutter"	"I48"	22	Not Applicable	Not Applicable
+	"Iowa"	"19"	"99 years"	"99"	"Congestive heart failure"	"I50.0"	43	Not Applicable	Not Applicable
+	"Iowa"	"19"	"99 years"	"99"	"Heart failure, unspecified"	"I50.9"	10	Not Applicable	Not Applicable
+	"Iowa"	"19"	"99 years"	"99"	"Stroke, not specified as haemorrhage or infarction"	"I64"	43	Not Applicable	Not Applicable
+	"Iowa"	"19"	"99 years"	"99"	"Pneumonia, unspecified"	"J18.9"	24	Not Applicable	Not Applicable
+	"Iowa"	"19"	"99 years"	"99"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	14	Not Applicable	Not Applicable
+	"Iowa"	"19"	"99 years"	"99"	"Pneumonitis due to food and vomit"	"J69.0"	11	Not Applicable	Not Applicable
+	"Iowa"	"19"	"99 years"	"99"	"Senility"	"R54"	16	Not Applicable	Not Applicable
+	"Iowa"	"19"	"99 years"	"99"	"COVID-19"	"U07.1"	20	Not Applicable	Not Applicable
+	"Iowa"	"19"	"99 years"	"99"	"Other fall on same level"	"W18"	10	Not Applicable	Not Applicable
+	"Iowa"	"19"	"100+ years"	"100"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	11	Not Applicable	Not Applicable
+	"Iowa"	"19"	"100+ years"	"100"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	10	Not Applicable	Not Applicable
+	"Iowa"	"19"	"100+ years"	"100"	"Unspecified diabetes mellitus, without complications"	"E14.9"	10	Not Applicable	Not Applicable
+	"Iowa"	"19"	"100+ years"	"100"	"Unspecified protein-energy malnutrition"	"E46"	19	Not Applicable	Not Applicable
+	"Iowa"	"19"	"100+ years"	"100"	"Hyperlipidaemia, unspecified"	"E78.5"	13	Not Applicable	Not Applicable
+	"Iowa"	"19"	"100+ years"	"100"	"Vascular dementia, unspecified"	"F01.9"	14	Not Applicable	Not Applicable
+	"Iowa"	"19"	"100+ years"	"100"	"Unspecified dementia"	"F03"	252	Not Applicable	Not Applicable
+	"Iowa"	"19"	"100+ years"	"100"	"Alzheimer disease with late onset"	"G30.1"	17	Not Applicable	Not Applicable
+	"Iowa"	"19"	"100+ years"	"100"	"Alzheimer disease, unspecified"	"G30.9"	185	Not Applicable	Not Applicable
+	"Iowa"	"19"	"100+ years"	"100"	"Senile degeneration of brain, not elsewhere classified"	"G31.1"	19	Not Applicable	Not Applicable
+	"Iowa"	"19"	"100+ years"	"100"	"Essential (primary) hypertension"	"I10"	39	Not Applicable	Not Applicable
+	"Iowa"	"19"	"100+ years"	"100"	"Hypertensive heart disease with (congestive) heart failure"	"I11.0"	73	Not Applicable	Not Applicable
+	"Iowa"	"19"	"100+ years"	"100"	"Hypertensive renal disease with renal failure"	"I12.0"	17	Not Applicable	Not Applicable
+	"Iowa"	"19"	"100+ years"	"100"	"Acute myocardial infarction, unspecified"	"I21.9"	53	Not Applicable	Not Applicable
+	"Iowa"	"19"	"100+ years"	"100"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	41	Not Applicable	Not Applicable
+	"Iowa"	"19"	"100+ years"	"100"	"Atherosclerotic heart disease"	"I25.1"	135	Not Applicable	Not Applicable
+	"Iowa"	"19"	"100+ years"	"100"	"Chronic ischaemic heart disease, unspecified"	"I25.9"	10	Not Applicable	Not Applicable
+	"Iowa"	"19"	"100+ years"	"100"	"Aortic (valve) stenosis"	"I35.0"	34	Not Applicable	Not Applicable
+	"Iowa"	"19"	"100+ years"	"100"	"Atrial fibrillation and flutter"	"I48"	35	Not Applicable	Not Applicable
+	"Iowa"	"19"	"100+ years"	"100"	"Congestive heart failure"	"I50.0"	68	Not Applicable	Not Applicable
+	"Iowa"	"19"	"100+ years"	"100"	"Heart failure, unspecified"	"I50.9"	20	Not Applicable	Not Applicable
+	"Iowa"	"19"	"100+ years"	"100"	"Stroke, not specified as haemorrhage or infarction"	"I64"	69	Not Applicable	Not Applicable
+	"Iowa"	"19"	"100+ years"	"100"	"Generalized and unspecified atherosclerosis"	"I70.9"	15	Not Applicable	Not Applicable
+	"Iowa"	"19"	"100+ years"	"100"	"Pneumonia, unspecified"	"J18.9"	70	Not Applicable	Not Applicable
+	"Iowa"	"19"	"100+ years"	"100"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	15	Not Applicable	Not Applicable
+	"Iowa"	"19"	"100+ years"	"100"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	33	Not Applicable	Not Applicable
+	"Iowa"	"19"	"100+ years"	"100"	"Pneumonitis due to food and vomit"	"J69.0"	15	Not Applicable	Not Applicable
+	"Iowa"	"19"	"100+ years"	"100"	"Other and unspecified intestinal obstruction"	"K56.6"	10	Not Applicable	Not Applicable
+	"Iowa"	"19"	"100+ years"	"100"	"Gastrointestinal haemorrhage, unspecified"	"K92.2"	19	Not Applicable	Not Applicable
+	"Iowa"	"19"	"100+ years"	"100"	"Urinary tract infection, site not specified"	"N39.0"	15	Not Applicable	Not Applicable
+	"Iowa"	"19"	"100+ years"	"100"	"Senility"	"R54"	88	Not Applicable	Not Applicable
+	"Iowa"	"19"	"100+ years"	"100"	"Other lack of expected normal physiological development"	"R62.8"	23	Not Applicable	Not Applicable
+	"Iowa"	"19"	"100+ years"	"100"	"Other ill-defined and unspecified causes of mortality"	"R99"	17	Not Applicable	Not Applicable
+	"Iowa"	"19"	"100+ years"	"100"	"COVID-19"	"U07.1"	68	Not Applicable	Not Applicable
+	"Iowa"	"19"	"100+ years"	"100"	"Other fall on same level"	"W18"	20	Not Applicable	Not Applicable
+"---"
+"Dataset: Underlying Cause of Death, 1999-2020"
+"Query Parameters:"
+"Title: Iowa CoD F"
+"Gender: Female"
+"States: Iowa (19)"
+"Year/Month: 2016; 2017; 2018; 2019; 2020"
+"Group By: State; Single-Year Ages; Cause of death"
+"Show Totals: Disabled"
+"Show Zero Values: Disabled"
+"Show Suppressed: False"
+"Calculate Rates Per: 100,000"
+"Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/ucd.html for more information."
+"---"
+"Query Date: Apr 8, 2022 2:24:22 AM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. Underlying Cause of Death"
+"1999-2020 on CDC WONDER Online Database, released in 2021. Data are from the Multiple Cause of Death Files, 1999-2020, as"
+"compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative Program. Accessed"
+"at http://wonder.cdc.gov/ucd-icd10.html on Apr 8, 2022 2:24:22 AM"
+"---"
+Messages:
+"1. The full results are too long to be displayed. Due to suppression constraints rows that are zero, suppressed or a total will"
+"not be available."
+"---"
+Caveats:
+"1. Population and rates are labeled 'Not Applicable' when they include a subset of ages 85-100+ because populations are not"
+"available for those ages. More information: http://wonder.cdc.gov/wonder/help/ucd.html#Ages 85-100."
+"2. Death rates are flagged as Unreliable when the rate is calculated with a numerator of 20 or less. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Unreliable."
+"3. Deaths of persons with Age ""Not Stated"" are included in ""All"" counts and rates, but are not distributed among age groups,"
+"so are not included in age-specific counts, age-specific rates or in any age-adjusted rates. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Not Stated."
+"4. The population figures for year 2020 are bridged-race estimates of the July 1 resident population, from the Vintage 2020"
+"postcensal series released by NCHS on September 22, 2021. The population figures for year 2019 are bridged-race estimates of the"
+"July 1 resident population, from the Vintage 2019 postcensal series released by NCHS on July 9, 2020. The population figures for"
+"year 2018 are bridged-race estimates of the July 1 resident population, from the Vintage 2018 postcensal series released by NCHS"
+"on June 25, 2019. The population figures for year 2017 are bridged-race estimates of the July 1 resident population, from the"
+"Vintage 2017 postcensal series released by NCHS on June 27, 2018. The population figures for year 2016 are bridged-race"
+"estimates of the July 1 resident population, from the Vintage 2016 postcensal series released by NCHS on June 26, 2017. The"
+"population figures for year 2015 are bridged-race estimates of the July 1 resident population, from the Vintage 2015 postcensal"
+"series released by NCHS on June 28, 2016. The population figures for year 2014 are bridged-race estimates of the July 1 resident"
+"population, from the Vintage 2014 postcensal series released by NCHS on June 30, 2015. The population figures for year 2013 are"
+"bridged-race estimates of the July 1 resident population, from the Vintage 2013 postcensal series released by NCHS on June 26,"
+"2014. The population figures for year 2012 are bridged-race estimates of the July 1 resident population, from the Vintage 2012"
+"postcensal series released by NCHS on June 13, 2013. The population figures for year 2011 are bridged-race estimates of the July"
+"1 resident population, from the Vintage 2011 postcensal series released by NCHS on July 18, 2012. Population figures for 2010"
+"are April 1 Census counts. The population figures for years 2001 - 2009 are bridged-race estimates of the July 1 resident"
+"population, from the revised intercensal county-level 2000 - 2009 series released by NCHS on October 26, 2012. Population"
+"figures for 2000 are April 1 Census counts. Population figures for 1999 are from the 1990-1999 intercensal series of July 1"
+"estimates. Population figures for the infant age groups are the number of live births. <br/><b>Note:</b> Rates and population"
+"figures for years 2001 - 2009 differ slightly from previously published reports, due to use of the population estimates which"
+"were available at the time of release."
+"5. The population figures used in the calculation of death rates for the age group 'under 1 year' are the estimates of the"
+"resident population that is under one year of age. More information: http://wonder.cdc.gov/wonder/help/ucd.html#Age Group."
+"6. Beginning with the 2018 data, changes have been implemented that affect the counts for ICD-10 cause of death codes O00-O99"
+"compared to previous practice. In addition, data for the cause of death codes O00-O99 for 2003 through 2017 reflect differences"
+"in information available to individual states and probable errors. Caution should be used in interpreting these data. More"
+"information can be found at: https://www.cdc.gov/nchs/maternal-mortality/."
+"7. On March 11, 2021, the 2019 mortality data on CDC WONDER was updated with the 2019 mortality data updated by NCHS on March 4,"
+"2021 to include corrected information for residents of Texas affecting 5 records previously coded to cause code *U01.4,"
+"Terrorism involving firearms (homicide). The underlying and multiple cause of death codes for 5 records were corrected in the"
+"2019 data. Underlying and multiple cause of death codes for those 5 records were recoded to Assault (homicide) by other and"
+"unspecified firearm discharge, ICD-10 code X95. The corrected final death records replaces the data released on December 22,"
+"2020."
+"8. Changes to cause of death classification affect reporting trends. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#ICD-10 Changes."

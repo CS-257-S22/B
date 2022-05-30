@@ -1,0 +1,1246 @@
+"Notes"	"State"	"State Code"	"Single-Year Ages"	"Single-Year Ages Code"	"Cause of death"	"Cause of death Code"	Deaths	Population	Crude Rate
+	"New Mexico"	"35"	"< 1 year"	"0"	"Newborn affected by premature rupture of membranes"	"P01.1"	12	61043	Unreliable
+	"New Mexico"	"35"	"< 1 year"	"0"	"Extreme immaturity"	"P07.2"	41	61043	67.2
+	"New Mexico"	"35"	"< 1 year"	"0"	"Other preterm infants"	"P07.3"	30	61043	49.1
+	"New Mexico"	"35"	"< 1 year"	"0"	"Congenital malformation of heart, unspecified"	"Q24.9"	10	61043	Unreliable
+	"New Mexico"	"35"	"< 1 year"	"0"	"Congenital malformation, unspecified"	"Q89.9"	12	61043	Unreliable
+	"New Mexico"	"35"	"< 1 year"	"0"	"Other ill-defined and unspecified causes of mortality"	"R99"	47	61043	77.0
+	"New Mexico"	"35"	"< 1 year"	"0"	"Accidental suffocation and strangulation in bed"	"W75"	15	61043	Unreliable
+	"New Mexico"	"35"	"15 years"	"15"	"Intentional self-harm by hanging, strangulation and suffocation"	"X70"	10	69954	Unreliable
+	"New Mexico"	"35"	"16 years"	"16"	"Intentional self-harm by hanging, strangulation and suffocation"	"X70"	13	70701	Unreliable
+	"New Mexico"	"35"	"17 years"	"17"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	15	71284	Unreliable
+	"New Mexico"	"35"	"17 years"	"17"	"Assault by other and unspecified firearm discharge"	"X95"	16	71284	Unreliable
+	"New Mexico"	"35"	"18 years"	"18"	"Assault by other and unspecified firearm discharge"	"X95"	13	70993	Unreliable
+	"New Mexico"	"35"	"19 years"	"19"	"Intentional self-harm by hanging, strangulation and suffocation"	"X70"	10	71852	Unreliable
+	"New Mexico"	"35"	"19 years"	"19"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	12	71852	Unreliable
+	"New Mexico"	"35"	"20 years"	"20"	"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X42"	12	73196	Unreliable
+	"New Mexico"	"35"	"20 years"	"20"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	12	73196	Unreliable
+	"New Mexico"	"35"	"20 years"	"20"	"Assault by other and unspecified firearm discharge"	"X95"	19	73196	Unreliable
+	"New Mexico"	"35"	"21 years"	"21"	"Intentional self-harm by hanging, strangulation and suffocation"	"X70"	12	73978	Unreliable
+	"New Mexico"	"35"	"21 years"	"21"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	23	73978	31.1
+	"New Mexico"	"35"	"21 years"	"21"	"Assault by other and unspecified firearm discharge"	"X95"	22	73978	29.7
+	"New Mexico"	"35"	"22 years"	"22"	"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X44"	10	73009	Unreliable
+	"New Mexico"	"35"	"22 years"	"22"	"Intentional self-harm by hanging, strangulation and suffocation"	"X70"	11	73009	Unreliable
+	"New Mexico"	"35"	"22 years"	"22"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	20	73009	27.4
+	"New Mexico"	"35"	"22 years"	"22"	"Assault by other and unspecified firearm discharge"	"X95"	15	73009	Unreliable
+	"New Mexico"	"35"	"23 years"	"23"	"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X42"	14	74921	Unreliable
+	"New Mexico"	"35"	"23 years"	"23"	"Intentional self-harm by hanging, strangulation and suffocation"	"X70"	15	74921	Unreliable
+	"New Mexico"	"35"	"23 years"	"23"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	19	74921	Unreliable
+	"New Mexico"	"35"	"23 years"	"23"	"Assault by other and unspecified firearm discharge"	"X95"	13	74921	Unreliable
+	"New Mexico"	"35"	"24 years"	"24"	"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X42"	12	75833	Unreliable
+	"New Mexico"	"35"	"24 years"	"24"	"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X44"	19	75833	Unreliable
+	"New Mexico"	"35"	"24 years"	"24"	"Intentional self-harm by hanging, strangulation and suffocation"	"X70"	15	75833	Unreliable
+	"New Mexico"	"35"	"24 years"	"24"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	19	75833	Unreliable
+	"New Mexico"	"35"	"24 years"	"24"	"Assault by other and unspecified firearm discharge"	"X95"	23	75833	30.3
+	"New Mexico"	"35"	"25 years"	"25"	"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X42"	21	75881	27.7
+	"New Mexico"	"35"	"25 years"	"25"	"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X44"	14	75881	Unreliable
+	"New Mexico"	"35"	"25 years"	"25"	"Intentional self-harm by hanging, strangulation and suffocation"	"X70"	15	75881	Unreliable
+	"New Mexico"	"35"	"25 years"	"25"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	12	75881	Unreliable
+	"New Mexico"	"35"	"25 years"	"25"	"Assault by other and unspecified firearm discharge"	"X95"	20	75881	26.4
+	"New Mexico"	"35"	"26 years"	"26"	"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X42"	12	76672	Unreliable
+	"New Mexico"	"35"	"26 years"	"26"	"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X44"	16	76672	Unreliable
+	"New Mexico"	"35"	"26 years"	"26"	"Intentional self-harm by hanging, strangulation and suffocation"	"X70"	12	76672	Unreliable
+	"New Mexico"	"35"	"26 years"	"26"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	19	76672	Unreliable
+	"New Mexico"	"35"	"26 years"	"26"	"Assault by other and unspecified firearm discharge"	"X95"	11	76672	Unreliable
+	"New Mexico"	"35"	"27 years"	"27"	"Mental and behavioural disorders due to use of alcohol, harmful use"	"F10.1"	10	75184	Unreliable
+	"New Mexico"	"35"	"27 years"	"27"	"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X42"	14	75184	Unreliable
+	"New Mexico"	"35"	"27 years"	"27"	"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X44"	20	75184	26.6
+	"New Mexico"	"35"	"27 years"	"27"	"Intentional self-harm by hanging, strangulation and suffocation"	"X70"	21	75184	27.9
+	"New Mexico"	"35"	"27 years"	"27"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	12	75184	Unreliable
+	"New Mexico"	"35"	"27 years"	"27"	"Assault by other and unspecified firearm discharge"	"X95"	15	75184	Unreliable
+	"New Mexico"	"35"	"28 years"	"28"	"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X42"	22	74646	29.5
+	"New Mexico"	"35"	"28 years"	"28"	"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X44"	13	74646	Unreliable
+	"New Mexico"	"35"	"28 years"	"28"	"Intentional self-harm by hanging, strangulation and suffocation"	"X70"	20	74646	26.8
+	"New Mexico"	"35"	"28 years"	"28"	"Assault by other and unspecified firearm discharge"	"X95"	16	74646	Unreliable
+	"New Mexico"	"35"	"29 years"	"29"	"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X42"	18	73112	Unreliable
+	"New Mexico"	"35"	"29 years"	"29"	"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X44"	12	73112	Unreliable
+	"New Mexico"	"35"	"29 years"	"29"	"Intentional self-harm by hanging, strangulation and suffocation"	"X70"	18	73112	Unreliable
+	"New Mexico"	"35"	"29 years"	"29"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	17	73112	Unreliable
+	"New Mexico"	"35"	"29 years"	"29"	"Assault by other and unspecified firearm discharge"	"X95"	18	73112	Unreliable
+	"New Mexico"	"35"	"30 years"	"30"	"Mental and behavioural disorders due to use of alcohol, harmful use"	"F10.1"	14	71880	Unreliable
+	"New Mexico"	"35"	"30 years"	"30"	"Accidental poisoning by and exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic drugs, not elsewhere classified"	"X41"	13	71880	Unreliable
+	"New Mexico"	"35"	"30 years"	"30"	"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X42"	13	71880	Unreliable
+	"New Mexico"	"35"	"30 years"	"30"	"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X44"	25	71880	34.8
+	"New Mexico"	"35"	"30 years"	"30"	"Intentional self-harm by hanging, strangulation and suffocation"	"X70"	14	71880	Unreliable
+	"New Mexico"	"35"	"30 years"	"30"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	22	71880	30.6
+	"New Mexico"	"35"	"30 years"	"30"	"Assault by other and unspecified firearm discharge"	"X95"	20	71880	27.8
+	"New Mexico"	"35"	"31 years"	"31"	"Mental and behavioural disorders due to use of alcohol, harmful use"	"F10.1"	11	71329	Unreliable
+	"New Mexico"	"35"	"31 years"	"31"	"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X42"	13	71329	Unreliable
+	"New Mexico"	"35"	"31 years"	"31"	"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X44"	35	71329	49.1
+	"New Mexico"	"35"	"31 years"	"31"	"Intentional self-harm by hanging, strangulation and suffocation"	"X70"	20	71329	28.0
+	"New Mexico"	"35"	"31 years"	"31"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	12	71329	Unreliable
+	"New Mexico"	"35"	"31 years"	"31"	"Assault by other and unspecified firearm discharge"	"X95"	12	71329	Unreliable
+	"New Mexico"	"35"	"32 years"	"32"	"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X42"	21	70985	29.6
+	"New Mexico"	"35"	"32 years"	"32"	"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X44"	27	70985	38.0
+	"New Mexico"	"35"	"32 years"	"32"	"Intentional self-harm by hanging, strangulation and suffocation"	"X70"	11	70985	Unreliable
+	"New Mexico"	"35"	"32 years"	"32"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	19	70985	Unreliable
+	"New Mexico"	"35"	"32 years"	"32"	"Assault by other and unspecified firearm discharge"	"X95"	19	70985	Unreliable
+	"New Mexico"	"35"	"33 years"	"33"	"Mental and behavioural disorders due to use of alcohol, harmful use"	"F10.1"	16	70957	Unreliable
+	"New Mexico"	"35"	"33 years"	"33"	"Accidental poisoning by and exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic drugs, not elsewhere classified"	"X41"	13	70957	Unreliable
+	"New Mexico"	"35"	"33 years"	"33"	"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X42"	23	70957	32.4
+	"New Mexico"	"35"	"33 years"	"33"	"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X44"	25	70957	35.2
+	"New Mexico"	"35"	"33 years"	"33"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	12	70957	Unreliable
+	"New Mexico"	"35"	"33 years"	"33"	"Assault by other and unspecified firearm discharge"	"X95"	17	70957	Unreliable
+	"New Mexico"	"35"	"34 years"	"34"	"Mental and behavioural disorders due to use of alcohol, harmful use"	"F10.1"	13	70721	Unreliable
+	"New Mexico"	"35"	"34 years"	"34"	"Alcoholic cirrhosis of liver"	"K70.3"	15	70721	Unreliable
+	"New Mexico"	"35"	"34 years"	"34"	"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X42"	21	70721	29.7
+	"New Mexico"	"35"	"34 years"	"34"	"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X44"	31	70721	43.8
+	"New Mexico"	"35"	"34 years"	"34"	"Intentional self-harm by hanging, strangulation and suffocation"	"X70"	17	70721	Unreliable
+	"New Mexico"	"35"	"34 years"	"34"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	12	70721	Unreliable
+	"New Mexico"	"35"	"34 years"	"34"	"Assault by other and unspecified firearm discharge"	"X95"	12	70721	Unreliable
+	"New Mexico"	"35"	"35 years"	"35"	"Mental and behavioural disorders due to use of alcohol, harmful use"	"F10.1"	14	69692	Unreliable
+	"New Mexico"	"35"	"35 years"	"35"	"Alcoholic cirrhosis of liver"	"K70.3"	19	69692	Unreliable
+	"New Mexico"	"35"	"35 years"	"35"	"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X42"	19	69692	Unreliable
+	"New Mexico"	"35"	"35 years"	"35"	"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X44"	22	69692	31.6
+	"New Mexico"	"35"	"35 years"	"35"	"Intentional self-harm by hanging, strangulation and suffocation"	"X70"	14	69692	Unreliable
+	"New Mexico"	"35"	"35 years"	"35"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	10	69692	Unreliable
+	"New Mexico"	"35"	"35 years"	"35"	"Assault by other and unspecified firearm discharge"	"X95"	10	69692	Unreliable
+	"New Mexico"	"35"	"36 years"	"36"	"Mental and behavioural disorders due to use of alcohol, harmful use"	"F10.1"	13	69439	Unreliable
+	"New Mexico"	"35"	"36 years"	"36"	"Alcoholic cirrhosis of liver"	"K70.3"	16	69439	Unreliable
+	"New Mexico"	"35"	"36 years"	"36"	"Accidental poisoning by and exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic drugs, not elsewhere classified"	"X41"	10	69439	Unreliable
+	"New Mexico"	"35"	"36 years"	"36"	"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X42"	19	69439	Unreliable
+	"New Mexico"	"35"	"36 years"	"36"	"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X44"	37	69439	53.3
+	"New Mexico"	"35"	"36 years"	"36"	"Intentional self-harm by hanging, strangulation and suffocation"	"X70"	13	69439	Unreliable
+	"New Mexico"	"35"	"36 years"	"36"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	15	69439	Unreliable
+	"New Mexico"	"35"	"37 years"	"37"	"Alcoholic cirrhosis of liver"	"K70.3"	16	67781	Unreliable
+	"New Mexico"	"35"	"37 years"	"37"	"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X42"	16	67781	Unreliable
+	"New Mexico"	"35"	"37 years"	"37"	"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X44"	19	67781	Unreliable
+	"New Mexico"	"35"	"37 years"	"37"	"Intentional self-harm by hanging, strangulation and suffocation"	"X70"	20	67781	29.5
+	"New Mexico"	"35"	"37 years"	"37"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	14	67781	Unreliable
+	"New Mexico"	"35"	"37 years"	"37"	"Assault by other and unspecified firearm discharge"	"X95"	12	67781	Unreliable
+	"New Mexico"	"35"	"38 years"	"38"	"Mental and behavioural disorders due to use of alcohol, harmful use"	"F10.1"	22	65759	33.5
+	"New Mexico"	"35"	"38 years"	"38"	"Alcoholic cirrhosis of liver"	"K70.3"	16	65759	Unreliable
+	"New Mexico"	"35"	"38 years"	"38"	"COVID-19"	"U07.1"	12	65759	Unreliable
+	"New Mexico"	"35"	"38 years"	"38"	"Accidental poisoning by and exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic drugs, not elsewhere classified"	"X41"	11	65759	Unreliable
+	"New Mexico"	"35"	"38 years"	"38"	"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X42"	12	65759	Unreliable
+	"New Mexico"	"35"	"38 years"	"38"	"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X44"	25	65759	38.0
+	"New Mexico"	"35"	"38 years"	"38"	"Intentional self-harm by hanging, strangulation and suffocation"	"X70"	13	65759	Unreliable
+	"New Mexico"	"35"	"38 years"	"38"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	13	65759	Unreliable
+	"New Mexico"	"35"	"39 years"	"39"	"Alcoholic cirrhosis of liver"	"K70.3"	17	63586	Unreliable
+	"New Mexico"	"35"	"39 years"	"39"	"Accidental poisoning by and exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic drugs, not elsewhere classified"	"X41"	12	63586	Unreliable
+	"New Mexico"	"35"	"39 years"	"39"	"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X42"	10	63586	Unreliable
+	"New Mexico"	"35"	"39 years"	"39"	"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X44"	32	63586	50.3
+	"New Mexico"	"35"	"39 years"	"39"	"Accidental poisoning by and exposure to alcohol"	"X45"	11	63586	Unreliable
+	"New Mexico"	"35"	"39 years"	"39"	"Intentional self-harm by hanging, strangulation and suffocation"	"X70"	13	63586	Unreliable
+	"New Mexico"	"35"	"39 years"	"39"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	12	63586	Unreliable
+	"New Mexico"	"35"	"39 years"	"39"	"Assault by other and unspecified firearm discharge"	"X95"	12	63586	Unreliable
+	"New Mexico"	"35"	"40 years"	"40"	"Alcoholic cirrhosis of liver"	"K70.3"	10	62064	Unreliable
+	"New Mexico"	"35"	"40 years"	"40"	"Accidental poisoning by and exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic drugs, not elsewhere classified"	"X41"	10	62064	Unreliable
+	"New Mexico"	"35"	"40 years"	"40"	"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X44"	17	62064	Unreliable
+	"New Mexico"	"35"	"40 years"	"40"	"Accidental poisoning by and exposure to alcohol"	"X45"	11	62064	Unreliable
+	"New Mexico"	"35"	"40 years"	"40"	"Intentional self-harm by hanging, strangulation and suffocation"	"X70"	13	62064	Unreliable
+	"New Mexico"	"35"	"41 years"	"41"	"Mental and behavioural disorders due to use of alcohol, harmful use"	"F10.1"	17	59450	Unreliable
+	"New Mexico"	"35"	"41 years"	"41"	"Alcoholic cirrhosis of liver"	"K70.3"	12	59450	Unreliable
+	"New Mexico"	"35"	"41 years"	"41"	"COVID-19"	"U07.1"	10	59450	Unreliable
+	"New Mexico"	"35"	"41 years"	"41"	"Accidental poisoning by and exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic drugs, not elsewhere classified"	"X41"	12	59450	Unreliable
+	"New Mexico"	"35"	"41 years"	"41"	"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X42"	15	59450	Unreliable
+	"New Mexico"	"35"	"41 years"	"41"	"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X44"	20	59450	33.6
+	"New Mexico"	"35"	"41 years"	"41"	"Intentional self-harm by hanging, strangulation and suffocation"	"X70"	10	59450	Unreliable
+	"New Mexico"	"35"	"42 years"	"42"	"Mental and behavioural disorders due to use of alcohol, harmful use"	"F10.1"	18	58733	Unreliable
+	"New Mexico"	"35"	"42 years"	"42"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	10	58733	Unreliable
+	"New Mexico"	"35"	"42 years"	"42"	"Alcoholic cirrhosis of liver"	"K70.3"	15	58733	Unreliable
+	"New Mexico"	"35"	"42 years"	"42"	"Accidental poisoning by and exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic drugs, not elsewhere classified"	"X41"	10	58733	Unreliable
+	"New Mexico"	"35"	"42 years"	"42"	"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X42"	19	58733	Unreliable
+	"New Mexico"	"35"	"42 years"	"42"	"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X44"	29	58733	49.4
+	"New Mexico"	"35"	"42 years"	"42"	"Intentional self-harm by hanging, strangulation and suffocation"	"X70"	10	58733	Unreliable
+	"New Mexico"	"35"	"42 years"	"42"	"Assault by other and unspecified firearm discharge"	"X95"	11	58733	Unreliable
+	"New Mexico"	"35"	"43 years"	"43"	"Mental and behavioural disorders due to use of alcohol, harmful use"	"F10.1"	12	57439	Unreliable
+	"New Mexico"	"35"	"43 years"	"43"	"Alcoholic cirrhosis of liver"	"K70.3"	17	57439	Unreliable
+	"New Mexico"	"35"	"43 years"	"43"	"COVID-19"	"U07.1"	10	57439	Unreliable
+	"New Mexico"	"35"	"43 years"	"43"	"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X44"	19	57439	Unreliable
+	"New Mexico"	"35"	"43 years"	"43"	"Intentional self-harm by hanging, strangulation and suffocation"	"X70"	10	57439	Unreliable
+	"New Mexico"	"35"	"44 years"	"44"	"Alcoholic cirrhosis of liver"	"K70.3"	17	57532	Unreliable
+	"New Mexico"	"35"	"44 years"	"44"	"Accidental poisoning by and exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic drugs, not elsewhere classified"	"X41"	12	57532	Unreliable
+	"New Mexico"	"35"	"44 years"	"44"	"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X44"	15	57532	Unreliable
+	"New Mexico"	"35"	"44 years"	"44"	"Intentional self-harm by hanging, strangulation and suffocation"	"X70"	10	57532	Unreliable
+	"New Mexico"	"35"	"44 years"	"44"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	13	57532	Unreliable
+	"New Mexico"	"35"	"45 years"	"45"	"Mental and behavioural disorders due to use of alcohol, harmful use"	"F10.1"	18	57669	Unreliable
+	"New Mexico"	"35"	"45 years"	"45"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	10	57669	Unreliable
+	"New Mexico"	"35"	"45 years"	"45"	"Alcoholic cirrhosis of liver"	"K70.3"	10	57669	Unreliable
+	"New Mexico"	"35"	"45 years"	"45"	"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X44"	12	57669	Unreliable
+	"New Mexico"	"35"	"45 years"	"45"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	12	57669	Unreliable
+	"New Mexico"	"35"	"46 years"	"46"	"Mental and behavioural disorders due to use of alcohol, harmful use"	"F10.1"	22	58466	37.6
+	"New Mexico"	"35"	"46 years"	"46"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	12	58466	Unreliable
+	"New Mexico"	"35"	"46 years"	"46"	"Alcoholic cirrhosis of liver"	"K70.3"	18	58466	Unreliable
+	"New Mexico"	"35"	"46 years"	"46"	"Pedestrian injured in traffic accident involving other and unspecified motor vehicles"	"V09.2"	10	58466	Unreliable
+	"New Mexico"	"35"	"46 years"	"46"	"Accidental poisoning by and exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic drugs, not elsewhere classified"	"X41"	11	58466	Unreliable
+	"New Mexico"	"35"	"46 years"	"46"	"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X44"	18	58466	Unreliable
+	"New Mexico"	"35"	"46 years"	"46"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	17	58466	Unreliable
+	"New Mexico"	"35"	"46 years"	"46"	"Assault by other and unspecified firearm discharge"	"X95"	11	58466	Unreliable
+	"New Mexico"	"35"	"47 years"	"47"	"Mental and behavioural disorders due to use of alcohol, harmful use"	"F10.1"	19	58902	Unreliable
+	"New Mexico"	"35"	"47 years"	"47"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	17	58902	Unreliable
+	"New Mexico"	"35"	"47 years"	"47"	"Alcoholic cirrhosis of liver"	"K70.3"	17	58902	Unreliable
+	"New Mexico"	"35"	"47 years"	"47"	"Other and unspecified cirrhosis of liver"	"K74.6"	14	58902	Unreliable
+	"New Mexico"	"35"	"47 years"	"47"	"COVID-19"	"U07.1"	12	58902	Unreliable
+	"New Mexico"	"35"	"47 years"	"47"	"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X42"	12	58902	Unreliable
+	"New Mexico"	"35"	"47 years"	"47"	"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X44"	15	58902	Unreliable
+	"New Mexico"	"35"	"47 years"	"47"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	18	58902	Unreliable
+	"New Mexico"	"35"	"48 years"	"48"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	11	58971	Unreliable
+	"New Mexico"	"35"	"48 years"	"48"	"Mental and behavioural disorders due to use of alcohol, harmful use"	"F10.1"	17	58971	Unreliable
+	"New Mexico"	"35"	"48 years"	"48"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	30	58971	50.9
+	"New Mexico"	"35"	"48 years"	"48"	"Alcoholic cirrhosis of liver"	"K70.3"	28	58971	47.5
+	"New Mexico"	"35"	"48 years"	"48"	"Other and unspecified cirrhosis of liver"	"K74.6"	11	58971	Unreliable
+	"New Mexico"	"35"	"48 years"	"48"	"COVID-19"	"U07.1"	16	58971	Unreliable
+	"New Mexico"	"35"	"48 years"	"48"	"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X44"	16	58971	Unreliable
+	"New Mexico"	"35"	"48 years"	"48"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	12	58971	Unreliable
+	"New Mexico"	"35"	"49 years"	"49"	"Mental and behavioural disorders due to use of alcohol, harmful use"	"F10.1"	14	58511	Unreliable
+	"New Mexico"	"35"	"49 years"	"49"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	17	58511	Unreliable
+	"New Mexico"	"35"	"49 years"	"49"	"Alcoholic cirrhosis of liver"	"K70.3"	24	58511	41.0
+	"New Mexico"	"35"	"49 years"	"49"	"Other and unspecified cirrhosis of liver"	"K74.6"	13	58511	Unreliable
+	"New Mexico"	"35"	"49 years"	"49"	"Liver disease, unspecified"	"K76.9"	10	58511	Unreliable
+	"New Mexico"	"35"	"49 years"	"49"	"COVID-19"	"U07.1"	12	58511	Unreliable
+	"New Mexico"	"35"	"49 years"	"49"	"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X42"	15	58511	Unreliable
+	"New Mexico"	"35"	"49 years"	"49"	"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X44"	27	58511	46.1
+	"New Mexico"	"35"	"49 years"	"49"	"Intentional self-harm by hanging, strangulation and suffocation"	"X70"	13	58511	Unreliable
+	"New Mexico"	"35"	"49 years"	"49"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	13	58511	Unreliable
+	"New Mexico"	"35"	"50 years"	"50"	"Mental and behavioural disorders due to use of alcohol, harmful use"	"F10.1"	17	57826	Unreliable
+	"New Mexico"	"35"	"50 years"	"50"	"Acute myocardial infarction, unspecified"	"I21.9"	22	57826	38.0
+	"New Mexico"	"35"	"50 years"	"50"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	31	57826	53.6
+	"New Mexico"	"35"	"50 years"	"50"	"Alcoholic cirrhosis of liver"	"K70.3"	27	57826	46.7
+	"New Mexico"	"35"	"50 years"	"50"	"Other and unspecified cirrhosis of liver"	"K74.6"	12	57826	Unreliable
+	"New Mexico"	"35"	"50 years"	"50"	"COVID-19"	"U07.1"	16	57826	Unreliable
+	"New Mexico"	"35"	"50 years"	"50"	"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X44"	14	57826	Unreliable
+	"New Mexico"	"35"	"51 years"	"51"	"Mental and behavioural disorders due to use of alcohol, harmful use"	"F10.1"	26	58371	44.5
+	"New Mexico"	"35"	"51 years"	"51"	"Acute myocardial infarction, unspecified"	"I21.9"	10	58371	Unreliable
+	"New Mexico"	"35"	"51 years"	"51"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	38	58371	65.1
+	"New Mexico"	"35"	"51 years"	"51"	"Atherosclerotic heart disease"	"I25.1"	10	58371	Unreliable
+	"New Mexico"	"35"	"51 years"	"51"	"Alcoholic cirrhosis of liver"	"K70.3"	21	58371	36.0
+	"New Mexico"	"35"	"51 years"	"51"	"Other and unspecified cirrhosis of liver"	"K74.6"	10	58371	Unreliable
+	"New Mexico"	"35"	"51 years"	"51"	"COVID-19"	"U07.1"	15	58371	Unreliable
+	"New Mexico"	"35"	"51 years"	"51"	"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X42"	10	58371	Unreliable
+	"New Mexico"	"35"	"51 years"	"51"	"Accidental poisoning by and exposure to alcohol"	"X45"	10	58371	Unreliable
+	"New Mexico"	"35"	"52 years"	"52"	"Mental and behavioural disorders due to use of alcohol, harmful use"	"F10.1"	21	59202	35.5
+	"New Mexico"	"35"	"52 years"	"52"	"Acute myocardial infarction, unspecified"	"I21.9"	13	59202	Unreliable
+	"New Mexico"	"35"	"52 years"	"52"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	27	59202	45.6
+	"New Mexico"	"35"	"52 years"	"52"	"Atherosclerotic heart disease"	"I25.1"	11	59202	Unreliable
+	"New Mexico"	"35"	"52 years"	"52"	"Alcoholic cirrhosis of liver"	"K70.3"	26	59202	43.9
+	"New Mexico"	"35"	"52 years"	"52"	"COVID-19"	"U07.1"	12	59202	Unreliable
+	"New Mexico"	"35"	"52 years"	"52"	"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X44"	10	59202	Unreliable
+	"New Mexico"	"35"	"52 years"	"52"	"Intentional self-harm by hanging, strangulation and suffocation"	"X70"	10	59202	Unreliable
+	"New Mexico"	"35"	"52 years"	"52"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	10	59202	Unreliable
+	"New Mexico"	"35"	"53 years"	"53"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	16	61276	Unreliable
+	"New Mexico"	"35"	"53 years"	"53"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	12	61276	Unreliable
+	"New Mexico"	"35"	"53 years"	"53"	"Unspecified diabetes mellitus, without complications"	"E14.9"	12	61276	Unreliable
+	"New Mexico"	"35"	"53 years"	"53"	"Mental and behavioural disorders due to use of alcohol, harmful use"	"F10.1"	26	61276	42.4
+	"New Mexico"	"35"	"53 years"	"53"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	16	61276	Unreliable
+	"New Mexico"	"35"	"53 years"	"53"	"Acute myocardial infarction, unspecified"	"I21.9"	15	61276	Unreliable
+	"New Mexico"	"35"	"53 years"	"53"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	43	61276	70.2
+	"New Mexico"	"35"	"53 years"	"53"	"Alcoholic cirrhosis of liver"	"K70.3"	25	61276	40.8
+	"New Mexico"	"35"	"53 years"	"53"	"Other and unspecified cirrhosis of liver"	"K74.6"	12	61276	Unreliable
+	"New Mexico"	"35"	"53 years"	"53"	"COVID-19"	"U07.1"	17	61276	Unreliable
+	"New Mexico"	"35"	"53 years"	"53"	"Accidental poisoning by and exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic drugs, not elsewhere classified"	"X41"	18	61276	Unreliable
+	"New Mexico"	"35"	"53 years"	"53"	"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X44"	14	61276	Unreliable
+	"New Mexico"	"35"	"53 years"	"53"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	10	61276	Unreliable
+	"New Mexico"	"35"	"54 years"	"54"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	16	63103	Unreliable
+	"New Mexico"	"35"	"54 years"	"54"	"Liver cell carcinoma - Malignant neoplasms"	"C22.0"	10	63103	Unreliable
+	"New Mexico"	"35"	"54 years"	"54"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	10	63103	Unreliable
+	"New Mexico"	"35"	"54 years"	"54"	"Mental and behavioural disorders due to use of alcohol, harmful use"	"F10.1"	23	63103	36.4
+	"New Mexico"	"35"	"54 years"	"54"	"Acute myocardial infarction, unspecified"	"I21.9"	15	63103	Unreliable
+	"New Mexico"	"35"	"54 years"	"54"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	55	63103	87.2
+	"New Mexico"	"35"	"54 years"	"54"	"Pneumonia, unspecified"	"J18.9"	10	63103	Unreliable
+	"New Mexico"	"35"	"54 years"	"54"	"Alcoholic cirrhosis of liver"	"K70.3"	33	63103	52.3
+	"New Mexico"	"35"	"54 years"	"54"	"Other and unspecified cirrhosis of liver"	"K74.6"	18	63103	Unreliable
+	"New Mexico"	"35"	"54 years"	"54"	"COVID-19"	"U07.1"	14	63103	Unreliable
+	"New Mexico"	"35"	"54 years"	"54"	"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X44"	13	63103	Unreliable
+	"New Mexico"	"35"	"54 years"	"54"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	15	63103	Unreliable
+	"New Mexico"	"35"	"55 years"	"55"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	10	65572	Unreliable
+	"New Mexico"	"35"	"55 years"	"55"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	12	65572	Unreliable
+	"New Mexico"	"35"	"55 years"	"55"	"Unspecified diabetes mellitus, without complications"	"E14.9"	11	65572	Unreliable
+	"New Mexico"	"35"	"55 years"	"55"	"Mental and behavioural disorders due to use of alcohol, harmful use"	"F10.1"	25	65572	38.1
+	"New Mexico"	"35"	"55 years"	"55"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	57	65572	86.9
+	"New Mexico"	"35"	"55 years"	"55"	"Atherosclerotic heart disease"	"I25.1"	11	65572	Unreliable
+	"New Mexico"	"35"	"55 years"	"55"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	10	65572	Unreliable
+	"New Mexico"	"35"	"55 years"	"55"	"Alcoholic cirrhosis of liver"	"K70.3"	29	65572	44.2
+	"New Mexico"	"35"	"55 years"	"55"	"Other and unspecified cirrhosis of liver"	"K74.6"	18	65572	Unreliable
+	"New Mexico"	"35"	"55 years"	"55"	"COVID-19"	"U07.1"	17	65572	Unreliable
+	"New Mexico"	"35"	"55 years"	"55"	"Accidental poisoning by and exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic drugs, not elsewhere classified"	"X41"	14	65572	Unreliable
+	"New Mexico"	"35"	"55 years"	"55"	"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X42"	10	65572	Unreliable
+	"New Mexico"	"35"	"55 years"	"55"	"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X44"	17	65572	Unreliable
+	"New Mexico"	"35"	"55 years"	"55"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	13	65572	Unreliable
+	"New Mexico"	"35"	"56 years"	"56"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	12	66883	Unreliable
+	"New Mexico"	"35"	"56 years"	"56"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	13	66883	Unreliable
+	"New Mexico"	"35"	"56 years"	"56"	"Unspecified diabetes mellitus, without complications"	"E14.9"	11	66883	Unreliable
+	"New Mexico"	"35"	"56 years"	"56"	"Mental and behavioural disorders due to use of alcohol, harmful use"	"F10.1"	31	66883	46.3
+	"New Mexico"	"35"	"56 years"	"56"	"Acute myocardial infarction, unspecified"	"I21.9"	17	66883	Unreliable
+	"New Mexico"	"35"	"56 years"	"56"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	74	66883	110.6
+	"New Mexico"	"35"	"56 years"	"56"	"Atherosclerotic heart disease"	"I25.1"	18	66883	Unreliable
+	"New Mexico"	"35"	"56 years"	"56"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	14	66883	Unreliable
+	"New Mexico"	"35"	"56 years"	"56"	"Alcoholic cirrhosis of liver"	"K70.3"	32	66883	47.8
+	"New Mexico"	"35"	"56 years"	"56"	"Other and unspecified cirrhosis of liver"	"K74.6"	21	66883	31.4
+	"New Mexico"	"35"	"56 years"	"56"	"COVID-19"	"U07.1"	17	66883	Unreliable
+	"New Mexico"	"35"	"56 years"	"56"	"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X44"	18	66883	Unreliable
+	"New Mexico"	"35"	"56 years"	"56"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	18	66883	Unreliable
+	"New Mexico"	"35"	"57 years"	"57"	"Septicaemia, unspecified"	"A41.9"	11	67433	Unreliable
+	"New Mexico"	"35"	"57 years"	"57"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	13	67433	Unreliable
+	"New Mexico"	"35"	"57 years"	"57"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	21	67433	31.1
+	"New Mexico"	"35"	"57 years"	"57"	"Mental and behavioural disorders due to use of alcohol, harmful use"	"F10.1"	20	67433	29.7
+	"New Mexico"	"35"	"57 years"	"57"	"Acute myocardial infarction, unspecified"	"I21.9"	18	67433	Unreliable
+	"New Mexico"	"35"	"57 years"	"57"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	59	67433	87.5
+	"New Mexico"	"35"	"57 years"	"57"	"Atherosclerotic heart disease"	"I25.1"	19	67433	Unreliable
+	"New Mexico"	"35"	"57 years"	"57"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	10	67433	Unreliable
+	"New Mexico"	"35"	"57 years"	"57"	"Alcoholic cirrhosis of liver"	"K70.3"	32	67433	47.5
+	"New Mexico"	"35"	"57 years"	"57"	"Hepatic failure, unspecified"	"K72.9"	11	67433	Unreliable
+	"New Mexico"	"35"	"57 years"	"57"	"Other and unspecified cirrhosis of liver"	"K74.6"	21	67433	31.1
+	"New Mexico"	"35"	"57 years"	"57"	"COVID-19"	"U07.1"	15	67433	Unreliable
+	"New Mexico"	"35"	"57 years"	"57"	"Accidental poisoning by and exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic drugs, not elsewhere classified"	"X41"	15	67433	Unreliable
+	"New Mexico"	"35"	"57 years"	"57"	"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X42"	10	67433	Unreliable
+	"New Mexico"	"35"	"57 years"	"57"	"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X44"	10	67433	Unreliable
+	"New Mexico"	"35"	"57 years"	"57"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	11	67433	Unreliable
+	"New Mexico"	"35"	"58 years"	"58"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	14	67234	Unreliable
+	"New Mexico"	"35"	"58 years"	"58"	"Liver cell carcinoma - Malignant neoplasms"	"C22.0"	17	67234	Unreliable
+	"New Mexico"	"35"	"58 years"	"58"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	13	67234	Unreliable
+	"New Mexico"	"35"	"58 years"	"58"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	30	67234	44.6
+	"New Mexico"	"35"	"58 years"	"58"	"Non-insulin-dependent diabetes mellitus, without complications"	"E11.9"	13	67234	Unreliable
+	"New Mexico"	"35"	"58 years"	"58"	"Unspecified diabetes mellitus, without complications"	"E14.9"	11	67234	Unreliable
+	"New Mexico"	"35"	"58 years"	"58"	"Mental and behavioural disorders due to use of alcohol, harmful use"	"F10.1"	32	67234	47.6
+	"New Mexico"	"35"	"58 years"	"58"	"Acute myocardial infarction, unspecified"	"I21.9"	31	67234	46.1
+	"New Mexico"	"35"	"58 years"	"58"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	76	67234	113.0
+	"New Mexico"	"35"	"58 years"	"58"	"Atherosclerotic heart disease"	"I25.1"	21	67234	31.2
+	"New Mexico"	"35"	"58 years"	"58"	"Pneumonia, unspecified"	"J18.9"	11	67234	Unreliable
+	"New Mexico"	"35"	"58 years"	"58"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	17	67234	Unreliable
+	"New Mexico"	"35"	"58 years"	"58"	"Alcoholic cirrhosis of liver"	"K70.3"	22	67234	32.7
+	"New Mexico"	"35"	"58 years"	"58"	"Other and unspecified cirrhosis of liver"	"K74.6"	11	67234	Unreliable
+	"New Mexico"	"35"	"58 years"	"58"	"COVID-19"	"U07.1"	24	67234	35.7
+	"New Mexico"	"35"	"58 years"	"58"	"Accidental poisoning by and exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic drugs, not elsewhere classified"	"X41"	14	67234	Unreliable
+	"New Mexico"	"35"	"58 years"	"58"	"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X44"	16	67234	Unreliable
+	"New Mexico"	"35"	"58 years"	"58"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	11	67234	Unreliable
+	"New Mexico"	"35"	"59 years"	"59"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	13	66699	Unreliable
+	"New Mexico"	"35"	"59 years"	"59"	"Liver cell carcinoma - Malignant neoplasms"	"C22.0"	13	66699	Unreliable
+	"New Mexico"	"35"	"59 years"	"59"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	15	66699	Unreliable
+	"New Mexico"	"35"	"59 years"	"59"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	29	66699	43.5
+	"New Mexico"	"35"	"59 years"	"59"	"Brain, unspecified - Malignant neoplasms"	"C71.9"	12	66699	Unreliable
+	"New Mexico"	"35"	"59 years"	"59"	"Unspecified diabetes mellitus, without complications"	"E14.9"	13	66699	Unreliable
+	"New Mexico"	"35"	"59 years"	"59"	"Mental and behavioural disorders due to use of alcohol, harmful use"	"F10.1"	16	66699	Unreliable
+	"New Mexico"	"35"	"59 years"	"59"	"Acute myocardial infarction, unspecified"	"I21.9"	22	66699	33.0
+	"New Mexico"	"35"	"59 years"	"59"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	84	66699	125.9
+	"New Mexico"	"35"	"59 years"	"59"	"Atherosclerotic heart disease"	"I25.1"	22	66699	33.0
+	"New Mexico"	"35"	"59 years"	"59"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	18	66699	Unreliable
+	"New Mexico"	"35"	"59 years"	"59"	"Alcoholic cirrhosis of liver"	"K70.3"	33	66699	49.5
+	"New Mexico"	"35"	"59 years"	"59"	"Other and unspecified cirrhosis of liver"	"K74.6"	18	66699	Unreliable
+	"New Mexico"	"35"	"59 years"	"59"	"Liver disease, unspecified"	"K76.9"	10	66699	Unreliable
+	"New Mexico"	"35"	"59 years"	"59"	"COVID-19"	"U07.1"	26	66699	39.0
+	"New Mexico"	"35"	"59 years"	"59"	"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X44"	15	66699	Unreliable
+	"New Mexico"	"35"	"59 years"	"59"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	12	66699	Unreliable
+	"New Mexico"	"35"	"60 years"	"60"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	11	65873	Unreliable
+	"New Mexico"	"35"	"60 years"	"60"	"Liver cell carcinoma - Malignant neoplasms"	"C22.0"	21	65873	31.9
+	"New Mexico"	"35"	"60 years"	"60"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	15	65873	Unreliable
+	"New Mexico"	"35"	"60 years"	"60"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	28	65873	42.5
+	"New Mexico"	"35"	"60 years"	"60"	"Malignant neoplasm without specification of site"	"C80"	11	65873	Unreliable
+	"New Mexico"	"35"	"60 years"	"60"	"Unspecified diabetes mellitus, without complications"	"E14.9"	11	65873	Unreliable
+	"New Mexico"	"35"	"60 years"	"60"	"Mental and behavioural disorders due to use of alcohol, harmful use"	"F10.1"	24	65873	36.4
+	"New Mexico"	"35"	"60 years"	"60"	"Acute myocardial infarction, unspecified"	"I21.9"	21	65873	31.9
+	"New Mexico"	"35"	"60 years"	"60"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	98	65873	148.8
+	"New Mexico"	"35"	"60 years"	"60"	"Atherosclerotic heart disease"	"I25.1"	30	65873	45.5
+	"New Mexico"	"35"	"60 years"	"60"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	30	65873	45.5
+	"New Mexico"	"35"	"60 years"	"60"	"Alcoholic cirrhosis of liver"	"K70.3"	38	65873	57.7
+	"New Mexico"	"35"	"60 years"	"60"	"Other and unspecified cirrhosis of liver"	"K74.6"	17	65873	Unreliable
+	"New Mexico"	"35"	"60 years"	"60"	"Liver disease, unspecified"	"K76.9"	11	65873	Unreliable
+	"New Mexico"	"35"	"60 years"	"60"	"Chronic kidney disease, stage 5"	"N18.5"	10	65873	Unreliable
+	"New Mexico"	"35"	"60 years"	"60"	"COVID-19"	"U07.1"	36	65873	54.7
+	"New Mexico"	"35"	"60 years"	"60"	"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X44"	11	65873	Unreliable
+	"New Mexico"	"35"	"60 years"	"60"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	21	65873	31.9
+	"New Mexico"	"35"	"61 years"	"61"	"Liver cell carcinoma - Malignant neoplasms"	"C22.0"	22	64903	33.9
+	"New Mexico"	"35"	"61 years"	"61"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	29	64903	44.7
+	"New Mexico"	"35"	"61 years"	"61"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	27	64903	41.6
+	"New Mexico"	"35"	"61 years"	"61"	"Malignant neoplasm of prostate"	"C61"	15	64903	Unreliable
+	"New Mexico"	"35"	"61 years"	"61"	"Non-insulin-dependent diabetes mellitus, without complications"	"E11.9"	19	64903	Unreliable
+	"New Mexico"	"35"	"61 years"	"61"	"Mental and behavioural disorders due to use of alcohol, harmful use"	"F10.1"	27	64903	41.6
+	"New Mexico"	"35"	"61 years"	"61"	"Acute myocardial infarction, unspecified"	"I21.9"	21	64903	32.4
+	"New Mexico"	"35"	"61 years"	"61"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	90	64903	138.7
+	"New Mexico"	"35"	"61 years"	"61"	"Atherosclerotic heart disease"	"I25.1"	27	64903	41.6
+	"New Mexico"	"35"	"61 years"	"61"	"Pneumonia, unspecified"	"J18.9"	11	64903	Unreliable
+	"New Mexico"	"35"	"61 years"	"61"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	24	64903	37.0
+	"New Mexico"	"35"	"61 years"	"61"	"Alcoholic cirrhosis of liver"	"K70.3"	17	64903	Unreliable
+	"New Mexico"	"35"	"61 years"	"61"	"Other and unspecified cirrhosis of liver"	"K74.6"	21	64903	32.4
+	"New Mexico"	"35"	"61 years"	"61"	"COVID-19"	"U07.1"	36	64903	55.5
+	"New Mexico"	"35"	"61 years"	"61"	"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X44"	10	64903	Unreliable
+	"New Mexico"	"35"	"61 years"	"61"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	10	64903	Unreliable
+	"New Mexico"	"35"	"62 years"	"62"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	14	63679	Unreliable
+	"New Mexico"	"35"	"62 years"	"62"	"Liver cell carcinoma - Malignant neoplasms"	"C22.0"	24	63679	37.7
+	"New Mexico"	"35"	"62 years"	"62"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	13	63679	Unreliable
+	"New Mexico"	"35"	"62 years"	"62"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	33	63679	51.8
+	"New Mexico"	"35"	"62 years"	"62"	"Malignant neoplasm of prostate"	"C61"	12	63679	Unreliable
+	"New Mexico"	"35"	"62 years"	"62"	"Unspecified diabetes mellitus, without complications"	"E14.9"	14	63679	Unreliable
+	"New Mexico"	"35"	"62 years"	"62"	"Mental and behavioural disorders due to use of alcohol, harmful use"	"F10.1"	18	63679	Unreliable
+	"New Mexico"	"35"	"62 years"	"62"	"Acute myocardial infarction, unspecified"	"I21.9"	36	63679	56.5
+	"New Mexico"	"35"	"62 years"	"62"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	93	63679	146.0
+	"New Mexico"	"35"	"62 years"	"62"	"Atherosclerotic heart disease"	"I25.1"	29	63679	45.5
+	"New Mexico"	"35"	"62 years"	"62"	"Pneumonia, unspecified"	"J18.9"	11	63679	Unreliable
+	"New Mexico"	"35"	"62 years"	"62"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	21	63679	33.0
+	"New Mexico"	"35"	"62 years"	"62"	"Alcoholic cirrhosis of liver"	"K70.3"	41	63679	64.4
+	"New Mexico"	"35"	"62 years"	"62"	"Other and unspecified cirrhosis of liver"	"K74.6"	17	63679	Unreliable
+	"New Mexico"	"35"	"62 years"	"62"	"COVID-19"	"U07.1"	36	63679	56.5
+	"New Mexico"	"35"	"62 years"	"62"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	10	63679	Unreliable
+	"New Mexico"	"35"	"63 years"	"63"	"Septicaemia, unspecified"	"A41.9"	13	62615	Unreliable
+	"New Mexico"	"35"	"63 years"	"63"	"Oesophagus, unspecified - Malignant neoplasms"	"C15.9"	13	62615	Unreliable
+	"New Mexico"	"35"	"63 years"	"63"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	19	62615	Unreliable
+	"New Mexico"	"35"	"63 years"	"63"	"Liver cell carcinoma - Malignant neoplasms"	"C22.0"	20	62615	31.9
+	"New Mexico"	"35"	"63 years"	"63"	"Liver, unspecified - Malignant neoplasms"	"C22.9"	13	62615	Unreliable
+	"New Mexico"	"35"	"63 years"	"63"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	10	62615	Unreliable
+	"New Mexico"	"35"	"63 years"	"63"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	31	62615	49.5
+	"New Mexico"	"35"	"63 years"	"63"	"Malignant neoplasm of prostate"	"C61"	17	62615	Unreliable
+	"New Mexico"	"35"	"63 years"	"63"	"Malignant neoplasm of kidney, except renal pelvis"	"C64"	11	62615	Unreliable
+	"New Mexico"	"35"	"63 years"	"63"	"Brain, unspecified - Malignant neoplasms"	"C71.9"	11	62615	Unreliable
+	"New Mexico"	"35"	"63 years"	"63"	"Unspecified diabetes mellitus, without complications"	"E14.9"	14	62615	Unreliable
+	"New Mexico"	"35"	"63 years"	"63"	"Mental and behavioural disorders due to use of alcohol, harmful use"	"F10.1"	26	62615	41.5
+	"New Mexico"	"35"	"63 years"	"63"	"Acute myocardial infarction, unspecified"	"I21.9"	42	62615	67.1
+	"New Mexico"	"35"	"63 years"	"63"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	107	62615	170.9
+	"New Mexico"	"35"	"63 years"	"63"	"Atherosclerotic heart disease"	"I25.1"	35	62615	55.9
+	"New Mexico"	"35"	"63 years"	"63"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	40	62615	63.9
+	"New Mexico"	"35"	"63 years"	"63"	"Alcoholic cirrhosis of liver"	"K70.3"	32	62615	51.1
+	"New Mexico"	"35"	"63 years"	"63"	"Other and unspecified cirrhosis of liver"	"K74.6"	17	62615	Unreliable
+	"New Mexico"	"35"	"63 years"	"63"	"COVID-19"	"U07.1"	32	62615	51.1
+	"New Mexico"	"35"	"63 years"	"63"	"Other fall on same level"	"W18"	10	62615	Unreliable
+	"New Mexico"	"35"	"63 years"	"63"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	11	62615	Unreliable
+	"New Mexico"	"35"	"64 years"	"64"	"Oesophagus, unspecified - Malignant neoplasms"	"C15.9"	12	60677	Unreliable
+	"New Mexico"	"35"	"64 years"	"64"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	22	60677	36.3
+	"New Mexico"	"35"	"64 years"	"64"	"Liver cell carcinoma - Malignant neoplasms"	"C22.0"	16	60677	Unreliable
+	"New Mexico"	"35"	"64 years"	"64"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	27	60677	44.5
+	"New Mexico"	"35"	"64 years"	"64"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	54	60677	89.0
+	"New Mexico"	"35"	"64 years"	"64"	"Malignant neoplasm of prostate"	"C61"	13	60677	Unreliable
+	"New Mexico"	"35"	"64 years"	"64"	"Malignant neoplasm of kidney, except renal pelvis"	"C64"	12	60677	Unreliable
+	"New Mexico"	"35"	"64 years"	"64"	"Malignant neoplasm without specification of site"	"C80"	12	60677	Unreliable
+	"New Mexico"	"35"	"64 years"	"64"	"Unspecified diabetes mellitus, without complications"	"E14.9"	13	60677	Unreliable
+	"New Mexico"	"35"	"64 years"	"64"	"Mental and behavioural disorders due to use of alcohol, harmful use"	"F10.1"	22	60677	36.3
+	"New Mexico"	"35"	"64 years"	"64"	"Acute myocardial infarction, unspecified"	"I21.9"	32	60677	52.7
+	"New Mexico"	"35"	"64 years"	"64"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	118	60677	194.5
+	"New Mexico"	"35"	"64 years"	"64"	"Atherosclerotic heart disease"	"I25.1"	35	60677	57.7
+	"New Mexico"	"35"	"64 years"	"64"	"Stroke, not specified as haemorrhage or infarction"	"I64"	11	60677	Unreliable
+	"New Mexico"	"35"	"64 years"	"64"	"Pneumonia, unspecified"	"J18.9"	14	60677	Unreliable
+	"New Mexico"	"35"	"64 years"	"64"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	36	60677	59.3
+	"New Mexico"	"35"	"64 years"	"64"	"Alcoholic cirrhosis of liver"	"K70.3"	17	60677	Unreliable
+	"New Mexico"	"35"	"64 years"	"64"	"Other and unspecified cirrhosis of liver"	"K74.6"	19	60677	Unreliable
+	"New Mexico"	"35"	"64 years"	"64"	"COVID-19"	"U07.1"	26	60677	42.8
+	"New Mexico"	"35"	"64 years"	"64"	"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X42"	10	60677	Unreliable
+	"New Mexico"	"35"	"64 years"	"64"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	10	60677	Unreliable
+	"New Mexico"	"35"	"65 years"	"65"	"Septicaemia, unspecified"	"A41.9"	19	59303	Unreliable
+	"New Mexico"	"35"	"65 years"	"65"	"Oesophagus, unspecified - Malignant neoplasms"	"C15.9"	17	59303	Unreliable
+	"New Mexico"	"35"	"65 years"	"65"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	19	59303	Unreliable
+	"New Mexico"	"35"	"65 years"	"65"	"Liver cell carcinoma - Malignant neoplasms"	"C22.0"	23	59303	38.8
+	"New Mexico"	"35"	"65 years"	"65"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	31	59303	52.3
+	"New Mexico"	"35"	"65 years"	"65"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	58	59303	97.8
+	"New Mexico"	"35"	"65 years"	"65"	"Malignant neoplasm of prostate"	"C61"	19	59303	Unreliable
+	"New Mexico"	"35"	"65 years"	"65"	"Malignant neoplasm of kidney, except renal pelvis"	"C64"	11	59303	Unreliable
+	"New Mexico"	"35"	"65 years"	"65"	"Malignant neoplasm without specification of site"	"C80"	14	59303	Unreliable
+	"New Mexico"	"35"	"65 years"	"65"	"Non-insulin-dependent diabetes mellitus, with renal complications"	"E11.2"	10	59303	Unreliable
+	"New Mexico"	"35"	"65 years"	"65"	"Non-insulin-dependent diabetes mellitus, without complications"	"E11.9"	14	59303	Unreliable
+	"New Mexico"	"35"	"65 years"	"65"	"Unspecified diabetes mellitus, without complications"	"E14.9"	23	59303	38.8
+	"New Mexico"	"35"	"65 years"	"65"	"Mental and behavioural disorders due to use of alcohol, harmful use"	"F10.1"	19	59303	Unreliable
+	"New Mexico"	"35"	"65 years"	"65"	"Acute myocardial infarction, unspecified"	"I21.9"	46	59303	77.6
+	"New Mexico"	"35"	"65 years"	"65"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	90	59303	151.8
+	"New Mexico"	"35"	"65 years"	"65"	"Atherosclerotic heart disease"	"I25.1"	26	59303	43.8
+	"New Mexico"	"35"	"65 years"	"65"	"Pneumonia, unspecified"	"J18.9"	14	59303	Unreliable
+	"New Mexico"	"35"	"65 years"	"65"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	39	59303	65.8
+	"New Mexico"	"35"	"65 years"	"65"	"Alcoholic cirrhosis of liver"	"K70.3"	15	59303	Unreliable
+	"New Mexico"	"35"	"65 years"	"65"	"Other and unspecified cirrhosis of liver"	"K74.6"	23	59303	38.8
+	"New Mexico"	"35"	"65 years"	"65"	"COVID-19"	"U07.1"	38	59303	64.1
+	"New Mexico"	"35"	"65 years"	"65"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	19	59303	Unreliable
+	"New Mexico"	"35"	"66 years"	"66"	"Septicaemia, unspecified"	"A41.9"	12	58381	Unreliable
+	"New Mexico"	"35"	"66 years"	"66"	"Chronic viral hepatitis C"	"B18.2"	12	58381	Unreliable
+	"New Mexico"	"35"	"66 years"	"66"	"Oesophagus, unspecified - Malignant neoplasms"	"C15.9"	11	58381	Unreliable
+	"New Mexico"	"35"	"66 years"	"66"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	22	58381	37.7
+	"New Mexico"	"35"	"66 years"	"66"	"Liver cell carcinoma - Malignant neoplasms"	"C22.0"	15	58381	Unreliable
+	"New Mexico"	"35"	"66 years"	"66"	"Liver, unspecified - Malignant neoplasms"	"C22.9"	13	58381	Unreliable
+	"New Mexico"	"35"	"66 years"	"66"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	28	58381	48.0
+	"New Mexico"	"35"	"66 years"	"66"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	43	58381	73.7
+	"New Mexico"	"35"	"66 years"	"66"	"Malignant neoplasm of prostate"	"C61"	16	58381	Unreliable
+	"New Mexico"	"35"	"66 years"	"66"	"Malignant neoplasm of kidney, except renal pelvis"	"C64"	11	58381	Unreliable
+	"New Mexico"	"35"	"66 years"	"66"	"Brain, unspecified - Malignant neoplasms"	"C71.9"	11	58381	Unreliable
+	"New Mexico"	"35"	"66 years"	"66"	"Malignant neoplasm without specification of site"	"C80"	17	58381	Unreliable
+	"New Mexico"	"35"	"66 years"	"66"	"Non-insulin-dependent diabetes mellitus, without complications"	"E11.9"	10	58381	Unreliable
+	"New Mexico"	"35"	"66 years"	"66"	"Unspecified diabetes mellitus, without complications"	"E14.9"	13	58381	Unreliable
+	"New Mexico"	"35"	"66 years"	"66"	"Mental and behavioural disorders due to use of alcohol, harmful use"	"F10.1"	21	58381	36.0
+	"New Mexico"	"35"	"66 years"	"66"	"Acute myocardial infarction, unspecified"	"I21.9"	32	58381	54.8
+	"New Mexico"	"35"	"66 years"	"66"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	102	58381	174.7
+	"New Mexico"	"35"	"66 years"	"66"	"Atherosclerotic heart disease"	"I25.1"	52	58381	89.1
+	"New Mexico"	"35"	"66 years"	"66"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	55	58381	94.2
+	"New Mexico"	"35"	"66 years"	"66"	"Alcoholic cirrhosis of liver"	"K70.3"	17	58381	Unreliable
+	"New Mexico"	"35"	"66 years"	"66"	"Other and unspecified cirrhosis of liver"	"K74.6"	18	58381	Unreliable
+	"New Mexico"	"35"	"66 years"	"66"	"Chronic kidney disease, stage 5"	"N18.5"	15	58381	Unreliable
+	"New Mexico"	"35"	"66 years"	"66"	"COVID-19"	"U07.1"	38	58381	65.1
+	"New Mexico"	"35"	"66 years"	"66"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	11	58381	Unreliable
+	"New Mexico"	"35"	"67 years"	"67"	"Septicaemia, unspecified"	"A41.9"	18	57255	Unreliable
+	"New Mexico"	"35"	"67 years"	"67"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	22	57255	38.4
+	"New Mexico"	"35"	"67 years"	"67"	"Liver cell carcinoma - Malignant neoplasms"	"C22.0"	11	57255	Unreliable
+	"New Mexico"	"35"	"67 years"	"67"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	29	57255	50.7
+	"New Mexico"	"35"	"67 years"	"67"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	59	57255	103.0
+	"New Mexico"	"35"	"67 years"	"67"	"Malignant neoplasm of prostate"	"C61"	23	57255	40.2
+	"New Mexico"	"35"	"67 years"	"67"	"Malignant neoplasm of kidney, except renal pelvis"	"C64"	13	57255	Unreliable
+	"New Mexico"	"35"	"67 years"	"67"	"Malignant neoplasm without specification of site"	"C80"	18	57255	Unreliable
+	"New Mexico"	"35"	"67 years"	"67"	"Unspecified diabetes mellitus, with renal complications"	"E14.2"	10	57255	Unreliable
+	"New Mexico"	"35"	"67 years"	"67"	"Unspecified diabetes mellitus, without complications"	"E14.9"	27	57255	47.2
+	"New Mexico"	"35"	"67 years"	"67"	"Mental and behavioural disorders due to use of alcohol, harmful use"	"F10.1"	15	57255	Unreliable
+	"New Mexico"	"35"	"67 years"	"67"	"Acute myocardial infarction, unspecified"	"I21.9"	38	57255	66.4
+	"New Mexico"	"35"	"67 years"	"67"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	98	57255	171.2
+	"New Mexico"	"35"	"67 years"	"67"	"Atherosclerotic heart disease"	"I25.1"	46	57255	80.3
+	"New Mexico"	"35"	"67 years"	"67"	"Pneumonia, unspecified"	"J18.9"	16	57255	Unreliable
+	"New Mexico"	"35"	"67 years"	"67"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	54	57255	94.3
+	"New Mexico"	"35"	"67 years"	"67"	"Alcoholic cirrhosis of liver"	"K70.3"	19	57255	Unreliable
+	"New Mexico"	"35"	"67 years"	"67"	"Other and unspecified cirrhosis of liver"	"K74.6"	24	57255	41.9
+	"New Mexico"	"35"	"67 years"	"67"	"Liver disease, unspecified"	"K76.9"	10	57255	Unreliable
+	"New Mexico"	"35"	"67 years"	"67"	"COVID-19"	"U07.1"	29	57255	50.7
+	"New Mexico"	"35"	"68 years"	"68"	"Septicaemia, unspecified"	"A41.9"	15	56291	Unreliable
+	"New Mexico"	"35"	"68 years"	"68"	"Oesophagus, unspecified - Malignant neoplasms"	"C15.9"	15	56291	Unreliable
+	"New Mexico"	"35"	"68 years"	"68"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	17	56291	Unreliable
+	"New Mexico"	"35"	"68 years"	"68"	"Liver cell carcinoma - Malignant neoplasms"	"C22.0"	24	56291	42.6
+	"New Mexico"	"35"	"68 years"	"68"	"Liver, unspecified - Malignant neoplasms"	"C22.9"	10	56291	Unreliable
+	"New Mexico"	"35"	"68 years"	"68"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	22	56291	39.1
+	"New Mexico"	"35"	"68 years"	"68"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	63	56291	111.9
+	"New Mexico"	"35"	"68 years"	"68"	"Malignant neoplasm of prostate"	"C61"	26	56291	46.2
+	"New Mexico"	"35"	"68 years"	"68"	"Malignant neoplasm of kidney, except renal pelvis"	"C64"	10	56291	Unreliable
+	"New Mexico"	"35"	"68 years"	"68"	"Malignant neoplasm without specification of site"	"C80"	14	56291	Unreliable
+	"New Mexico"	"35"	"68 years"	"68"	"Multiple myeloma - Malignant neoplasms"	"C90.0"	11	56291	Unreliable
+	"New Mexico"	"35"	"68 years"	"68"	"Non-insulin-dependent diabetes mellitus, without complications"	"E11.9"	16	56291	Unreliable
+	"New Mexico"	"35"	"68 years"	"68"	"Unspecified diabetes mellitus, with renal complications"	"E14.2"	11	56291	Unreliable
+	"New Mexico"	"35"	"68 years"	"68"	"Unspecified diabetes mellitus, without complications"	"E14.9"	14	56291	Unreliable
+	"New Mexico"	"35"	"68 years"	"68"	"Mental and behavioural disorders due to use of alcohol, harmful use"	"F10.1"	11	56291	Unreliable
+	"New Mexico"	"35"	"68 years"	"68"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	10	56291	Unreliable
+	"New Mexico"	"35"	"68 years"	"68"	"Acute myocardial infarction, unspecified"	"I21.9"	47	56291	83.5
+	"New Mexico"	"35"	"68 years"	"68"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	101	56291	179.4
+	"New Mexico"	"35"	"68 years"	"68"	"Atherosclerotic heart disease"	"I25.1"	45	56291	79.9
+	"New Mexico"	"35"	"68 years"	"68"	"Congestive heart failure"	"I50.0"	11	56291	Unreliable
+	"New Mexico"	"35"	"68 years"	"68"	"Stroke, not specified as haemorrhage or infarction"	"I64"	11	56291	Unreliable
+	"New Mexico"	"35"	"68 years"	"68"	"Pneumonia, unspecified"	"J18.9"	11	56291	Unreliable
+	"New Mexico"	"35"	"68 years"	"68"	"Emphysema, unspecified"	"J43.9"	13	56291	Unreliable
+	"New Mexico"	"35"	"68 years"	"68"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	52	56291	92.4
+	"New Mexico"	"35"	"68 years"	"68"	"Alcoholic cirrhosis of liver"	"K70.3"	11	56291	Unreliable
+	"New Mexico"	"35"	"68 years"	"68"	"Other and unspecified cirrhosis of liver"	"K74.6"	12	56291	Unreliable
+	"New Mexico"	"35"	"68 years"	"68"	"COVID-19"	"U07.1"	32	56291	56.8
+	"New Mexico"	"35"	"68 years"	"68"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	13	56291	Unreliable
+	"New Mexico"	"35"	"69 years"	"69"	"Septicaemia, unspecified"	"A41.9"	14	55471	Unreliable
+	"New Mexico"	"35"	"69 years"	"69"	"Oesophagus, unspecified - Malignant neoplasms"	"C15.9"	23	55471	41.5
+	"New Mexico"	"35"	"69 years"	"69"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	10	55471	Unreliable
+	"New Mexico"	"35"	"69 years"	"69"	"Liver cell carcinoma - Malignant neoplasms"	"C22.0"	11	55471	Unreliable
+	"New Mexico"	"35"	"69 years"	"69"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	25	55471	45.1
+	"New Mexico"	"35"	"69 years"	"69"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	68	55471	122.6
+	"New Mexico"	"35"	"69 years"	"69"	"Malignant neoplasm of prostate"	"C61"	28	55471	50.5
+	"New Mexico"	"35"	"69 years"	"69"	"Malignant neoplasm of kidney, except renal pelvis"	"C64"	12	55471	Unreliable
+	"New Mexico"	"35"	"69 years"	"69"	"Malignant neoplasm without specification of site"	"C80"	24	55471	43.3
+	"New Mexico"	"35"	"69 years"	"69"	"Unspecified diabetes mellitus, with renal complications"	"E14.2"	11	55471	Unreliable
+	"New Mexico"	"35"	"69 years"	"69"	"Unspecified diabetes mellitus, without complications"	"E14.9"	18	55471	Unreliable
+	"New Mexico"	"35"	"69 years"	"69"	"Mental and behavioural disorders due to use of alcohol, harmful use"	"F10.1"	10	55471	Unreliable
+	"New Mexico"	"35"	"69 years"	"69"	"Acute myocardial infarction, unspecified"	"I21.9"	45	55471	81.1
+	"New Mexico"	"35"	"69 years"	"69"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	96	55471	173.1
+	"New Mexico"	"35"	"69 years"	"69"	"Atherosclerotic heart disease"	"I25.1"	44	55471	79.3
+	"New Mexico"	"35"	"69 years"	"69"	"Congestive heart failure"	"I50.0"	11	55471	Unreliable
+	"New Mexico"	"35"	"69 years"	"69"	"Pneumonia, unspecified"	"J18.9"	12	55471	Unreliable
+	"New Mexico"	"35"	"69 years"	"69"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	12	55471	Unreliable
+	"New Mexico"	"35"	"69 years"	"69"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	50	55471	90.1
+	"New Mexico"	"35"	"69 years"	"69"	"Alcoholic cirrhosis of liver"	"K70.3"	15	55471	Unreliable
+	"New Mexico"	"35"	"69 years"	"69"	"Other and unspecified cirrhosis of liver"	"K74.6"	13	55471	Unreliable
+	"New Mexico"	"35"	"69 years"	"69"	"Chronic kidney disease, stage 5"	"N18.5"	10	55471	Unreliable
+	"New Mexico"	"35"	"69 years"	"69"	"COVID-19"	"U07.1"	43	55471	77.5
+	"New Mexico"	"35"	"69 years"	"69"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	18	55471	Unreliable
+	"New Mexico"	"35"	"70 years"	"70"	"Oesophagus, unspecified - Malignant neoplasms"	"C15.9"	17	52328	Unreliable
+	"New Mexico"	"35"	"70 years"	"70"	"Stomach, unspecified - Malignant neoplasms"	"C16.9"	10	52328	Unreliable
+	"New Mexico"	"35"	"70 years"	"70"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	19	52328	Unreliable
+	"New Mexico"	"35"	"70 years"	"70"	"Liver cell carcinoma - Malignant neoplasms"	"C22.0"	17	52328	Unreliable
+	"New Mexico"	"35"	"70 years"	"70"	"Intrahepatic bile duct carcinoma - Malignant neoplasms"	"C22.1"	11	52328	Unreliable
+	"New Mexico"	"35"	"70 years"	"70"	"Liver, unspecified - Malignant neoplasms"	"C22.9"	12	52328	Unreliable
+	"New Mexico"	"35"	"70 years"	"70"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	29	52328	55.4
+	"New Mexico"	"35"	"70 years"	"70"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	68	52328	129.9
+	"New Mexico"	"35"	"70 years"	"70"	"Malignant melanoma of skin, unspecified - Malignant neoplasms"	"C43.9"	10	52328	Unreliable
+	"New Mexico"	"35"	"70 years"	"70"	"Malignant neoplasm of prostate"	"C61"	33	52328	63.1
+	"New Mexico"	"35"	"70 years"	"70"	"Malignant neoplasm of kidney, except renal pelvis"	"C64"	12	52328	Unreliable
+	"New Mexico"	"35"	"70 years"	"70"	"Malignant neoplasm without specification of site"	"C80"	10	52328	Unreliable
+	"New Mexico"	"35"	"70 years"	"70"	"Unspecified diabetes mellitus, without complications"	"E14.9"	15	52328	Unreliable
+	"New Mexico"	"35"	"70 years"	"70"	"Alzheimer disease, unspecified"	"G30.9"	10	52328	Unreliable
+	"New Mexico"	"35"	"70 years"	"70"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	13	52328	Unreliable
+	"New Mexico"	"35"	"70 years"	"70"	"Acute myocardial infarction, unspecified"	"I21.9"	45	52328	86.0
+	"New Mexico"	"35"	"70 years"	"70"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	106	52328	202.6
+	"New Mexico"	"35"	"70 years"	"70"	"Atherosclerotic heart disease"	"I25.1"	49	52328	93.6
+	"New Mexico"	"35"	"70 years"	"70"	"Ischaemic cardiomyopathy"	"I25.5"	10	52328	Unreliable
+	"New Mexico"	"35"	"70 years"	"70"	"Congestive heart failure"	"I50.0"	11	52328	Unreliable
+	"New Mexico"	"35"	"70 years"	"70"	"Stroke, not specified as haemorrhage or infarction"	"I64"	14	52328	Unreliable
+	"New Mexico"	"35"	"70 years"	"70"	"Pneumonia, unspecified"	"J18.9"	12	52328	Unreliable
+	"New Mexico"	"35"	"70 years"	"70"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	14	52328	Unreliable
+	"New Mexico"	"35"	"70 years"	"70"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	57	52328	108.9
+	"New Mexico"	"35"	"70 years"	"70"	"Alcoholic cirrhosis of liver"	"K70.3"	13	52328	Unreliable
+	"New Mexico"	"35"	"70 years"	"70"	"Other and unspecified cirrhosis of liver"	"K74.6"	15	52328	Unreliable
+	"New Mexico"	"35"	"70 years"	"70"	"Chronic kidney disease, stage 5"	"N18.5"	15	52328	Unreliable
+	"New Mexico"	"35"	"70 years"	"70"	"COVID-19"	"U07.1"	43	52328	82.2
+	"New Mexico"	"35"	"70 years"	"70"	"Other fall on same level"	"W18"	14	52328	Unreliable
+	"New Mexico"	"35"	"70 years"	"70"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	24	52328	45.9
+	"New Mexico"	"35"	"71 years"	"71"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	12	48685	Unreliable
+	"New Mexico"	"35"	"71 years"	"71"	"Liver cell carcinoma - Malignant neoplasms"	"C22.0"	17	48685	Unreliable
+	"New Mexico"	"35"	"71 years"	"71"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	24	48685	49.3
+	"New Mexico"	"35"	"71 years"	"71"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	59	48685	121.2
+	"New Mexico"	"35"	"71 years"	"71"	"Malignant neoplasm of prostate"	"C61"	45	48685	92.4
+	"New Mexico"	"35"	"71 years"	"71"	"Bladder, unspecified - Malignant neoplasms"	"C67.9"	10	48685	Unreliable
+	"New Mexico"	"35"	"71 years"	"71"	"Malignant neoplasm without specification of site"	"C80"	14	48685	Unreliable
+	"New Mexico"	"35"	"71 years"	"71"	"Non-insulin-dependent diabetes mellitus, with renal complications"	"E11.2"	13	48685	Unreliable
+	"New Mexico"	"35"	"71 years"	"71"	"Non-insulin-dependent diabetes mellitus, without complications"	"E11.9"	11	48685	Unreliable
+	"New Mexico"	"35"	"71 years"	"71"	"Unspecified diabetes mellitus, without complications"	"E14.9"	20	48685	41.1
+	"New Mexico"	"35"	"71 years"	"71"	"Unspecified dementia"	"F03"	14	48685	Unreliable
+	"New Mexico"	"35"	"71 years"	"71"	"Parkinson disease"	"G20"	15	48685	Unreliable
+	"New Mexico"	"35"	"71 years"	"71"	"Acute myocardial infarction, unspecified"	"I21.9"	48	48685	98.6
+	"New Mexico"	"35"	"71 years"	"71"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	88	48685	180.8
+	"New Mexico"	"35"	"71 years"	"71"	"Atherosclerotic heart disease"	"I25.1"	60	48685	123.2
+	"New Mexico"	"35"	"71 years"	"71"	"Congestive heart failure"	"I50.0"	14	48685	Unreliable
+	"New Mexico"	"35"	"71 years"	"71"	"Stroke, not specified as haemorrhage or infarction"	"I64"	17	48685	Unreliable
+	"New Mexico"	"35"	"71 years"	"71"	"Pneumonia, unspecified"	"J18.9"	16	48685	Unreliable
+	"New Mexico"	"35"	"71 years"	"71"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	12	48685	Unreliable
+	"New Mexico"	"35"	"71 years"	"71"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	49	48685	100.6
+	"New Mexico"	"35"	"71 years"	"71"	"Other and unspecified cirrhosis of liver"	"K74.6"	18	48685	Unreliable
+	"New Mexico"	"35"	"71 years"	"71"	"Chronic kidney disease, stage 5"	"N18.5"	15	48685	Unreliable
+	"New Mexico"	"35"	"71 years"	"71"	"COVID-19"	"U07.1"	38	48685	78.1
+	"New Mexico"	"35"	"71 years"	"71"	"Other fall on same level"	"W18"	13	48685	Unreliable
+	"New Mexico"	"35"	"72 years"	"72"	"Oesophagus, unspecified - Malignant neoplasms"	"C15.9"	20	45214	44.2
+	"New Mexico"	"35"	"72 years"	"72"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	13	45214	Unreliable
+	"New Mexico"	"35"	"72 years"	"72"	"Liver cell carcinoma - Malignant neoplasms"	"C22.0"	15	45214	Unreliable
+	"New Mexico"	"35"	"72 years"	"72"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	27	45214	59.7
+	"New Mexico"	"35"	"72 years"	"72"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	80	45214	176.9
+	"New Mexico"	"35"	"72 years"	"72"	"Malignant neoplasm of prostate"	"C61"	31	45214	68.6
+	"New Mexico"	"35"	"72 years"	"72"	"Malignant neoplasm without specification of site"	"C80"	10	45214	Unreliable
+	"New Mexico"	"35"	"72 years"	"72"	"Non-insulin-dependent diabetes mellitus, without complications"	"E11.9"	12	45214	Unreliable
+	"New Mexico"	"35"	"72 years"	"72"	"Unspecified diabetes mellitus, without complications"	"E14.9"	21	45214	46.4
+	"New Mexico"	"35"	"72 years"	"72"	"Unspecified dementia"	"F03"	14	45214	Unreliable
+	"New Mexico"	"35"	"72 years"	"72"	"Parkinson disease"	"G20"	23	45214	50.9
+	"New Mexico"	"35"	"72 years"	"72"	"Alzheimer disease, unspecified"	"G30.9"	11	45214	Unreliable
+	"New Mexico"	"35"	"72 years"	"72"	"Acute myocardial infarction, unspecified"	"I21.9"	45	45214	99.5
+	"New Mexico"	"35"	"72 years"	"72"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	103	45214	227.8
+	"New Mexico"	"35"	"72 years"	"72"	"Atherosclerotic heart disease"	"I25.1"	68	45214	150.4
+	"New Mexico"	"35"	"72 years"	"72"	"Congestive heart failure"	"I50.0"	16	45214	Unreliable
+	"New Mexico"	"35"	"72 years"	"72"	"Intracerebral haemorrhage, unspecified"	"I61.9"	14	45214	Unreliable
+	"New Mexico"	"35"	"72 years"	"72"	"Stroke, not specified as haemorrhage or infarction"	"I64"	11	45214	Unreliable
+	"New Mexico"	"35"	"72 years"	"72"	"Pneumonia, unspecified"	"J18.9"	12	45214	Unreliable
+	"New Mexico"	"35"	"72 years"	"72"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	11	45214	Unreliable
+	"New Mexico"	"35"	"72 years"	"72"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	58	45214	128.3
+	"New Mexico"	"35"	"72 years"	"72"	"Other and unspecified cirrhosis of liver"	"K74.6"	12	45214	Unreliable
+	"New Mexico"	"35"	"72 years"	"72"	"Chronic kidney disease, stage 5"	"N18.5"	12	45214	Unreliable
+	"New Mexico"	"35"	"72 years"	"72"	"COVID-19"	"U07.1"	52	45214	115.0
+	"New Mexico"	"35"	"72 years"	"72"	"Other fall on same level"	"W18"	12	45214	Unreliable
+	"New Mexico"	"35"	"72 years"	"72"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	11	45214	Unreliable
+	"New Mexico"	"35"	"73 years"	"73"	"Oesophagus, unspecified - Malignant neoplasms"	"C15.9"	15	41956	Unreliable
+	"New Mexico"	"35"	"73 years"	"73"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	18	41956	Unreliable
+	"New Mexico"	"35"	"73 years"	"73"	"Liver cell carcinoma - Malignant neoplasms"	"C22.0"	14	41956	Unreliable
+	"New Mexico"	"35"	"73 years"	"73"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	27	41956	64.4
+	"New Mexico"	"35"	"73 years"	"73"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	71	41956	169.2
+	"New Mexico"	"35"	"73 years"	"73"	"Malignant neoplasm of prostate"	"C61"	34	41956	81.0
+	"New Mexico"	"35"	"73 years"	"73"	"Malignant neoplasm of kidney, except renal pelvis"	"C64"	12	41956	Unreliable
+	"New Mexico"	"35"	"73 years"	"73"	"Bladder, unspecified - Malignant neoplasms"	"C67.9"	13	41956	Unreliable
+	"New Mexico"	"35"	"73 years"	"73"	"Brain, unspecified - Malignant neoplasms"	"C71.9"	10	41956	Unreliable
+	"New Mexico"	"35"	"73 years"	"73"	"Malignant neoplasm without specification of site"	"C80"	14	41956	Unreliable
+	"New Mexico"	"35"	"73 years"	"73"	"Non-insulin-dependent diabetes mellitus, without complications"	"E11.9"	12	41956	Unreliable
+	"New Mexico"	"35"	"73 years"	"73"	"Unspecified diabetes mellitus, without complications"	"E14.9"	15	41956	Unreliable
+	"New Mexico"	"35"	"73 years"	"73"	"Unspecified dementia"	"F03"	13	41956	Unreliable
+	"New Mexico"	"35"	"73 years"	"73"	"Parkinson disease"	"G20"	12	41956	Unreliable
+	"New Mexico"	"35"	"73 years"	"73"	"Alzheimer disease, unspecified"	"G30.9"	21	41956	50.1
+	"New Mexico"	"35"	"73 years"	"73"	"Acute myocardial infarction, unspecified"	"I21.9"	52	41956	123.9
+	"New Mexico"	"35"	"73 years"	"73"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	86	41956	205.0
+	"New Mexico"	"35"	"73 years"	"73"	"Atherosclerotic heart disease"	"I25.1"	54	41956	128.7
+	"New Mexico"	"35"	"73 years"	"73"	"Congestive heart failure"	"I50.0"	14	41956	Unreliable
+	"New Mexico"	"35"	"73 years"	"73"	"Stroke, not specified as haemorrhage or infarction"	"I64"	15	41956	Unreliable
+	"New Mexico"	"35"	"73 years"	"73"	"Pneumonia, unspecified"	"J18.9"	20	41956	47.7
+	"New Mexico"	"35"	"73 years"	"73"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	14	41956	Unreliable
+	"New Mexico"	"35"	"73 years"	"73"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	52	41956	123.9
+	"New Mexico"	"35"	"73 years"	"73"	"Other interstitial pulmonary diseases with fibrosis"	"J84.1"	13	41956	Unreliable
+	"New Mexico"	"35"	"73 years"	"73"	"Alcoholic cirrhosis of liver"	"K70.3"	15	41956	Unreliable
+	"New Mexico"	"35"	"73 years"	"73"	"Other and unspecified cirrhosis of liver"	"K74.6"	18	41956	Unreliable
+	"New Mexico"	"35"	"73 years"	"73"	"Chronic kidney disease, stage 5"	"N18.5"	11	41956	Unreliable
+	"New Mexico"	"35"	"73 years"	"73"	"COVID-19"	"U07.1"	51	41956	121.6
+	"New Mexico"	"35"	"73 years"	"73"	"Other fall on same level"	"W18"	14	41956	Unreliable
+	"New Mexico"	"35"	"73 years"	"73"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	12	41956	Unreliable
+	"New Mexico"	"35"	"74 years"	"74"	"Oesophagus, unspecified - Malignant neoplasms"	"C15.9"	12	37434	Unreliable
+	"New Mexico"	"35"	"74 years"	"74"	"Stomach, unspecified - Malignant neoplasms"	"C16.9"	10	37434	Unreliable
+	"New Mexico"	"35"	"74 years"	"74"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	18	37434	Unreliable
+	"New Mexico"	"35"	"74 years"	"74"	"Liver cell carcinoma - Malignant neoplasms"	"C22.0"	10	37434	Unreliable
+	"New Mexico"	"35"	"74 years"	"74"	"Liver, unspecified - Malignant neoplasms"	"C22.9"	11	37434	Unreliable
+	"New Mexico"	"35"	"74 years"	"74"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	21	37434	56.1
+	"New Mexico"	"35"	"74 years"	"74"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	76	37434	203.0
+	"New Mexico"	"35"	"74 years"	"74"	"Malignant neoplasm of prostate"	"C61"	20	37434	53.4
+	"New Mexico"	"35"	"74 years"	"74"	"Bladder, unspecified - Malignant neoplasms"	"C67.9"	15	37434	Unreliable
+	"New Mexico"	"35"	"74 years"	"74"	"Malignant neoplasm without specification of site"	"C80"	28	37434	74.8
+	"New Mexico"	"35"	"74 years"	"74"	"Non-insulin-dependent diabetes mellitus, without complications"	"E11.9"	12	37434	Unreliable
+	"New Mexico"	"35"	"74 years"	"74"	"Unspecified diabetes mellitus, without complications"	"E14.9"	17	37434	Unreliable
+	"New Mexico"	"35"	"74 years"	"74"	"Unspecified dementia"	"F03"	13	37434	Unreliable
+	"New Mexico"	"35"	"74 years"	"74"	"Parkinson disease"	"G20"	31	37434	82.8
+	"New Mexico"	"35"	"74 years"	"74"	"Alzheimer disease, unspecified"	"G30.9"	18	37434	Unreliable
+	"New Mexico"	"35"	"74 years"	"74"	"Acute myocardial infarction, unspecified"	"I21.9"	54	37434	144.3
+	"New Mexico"	"35"	"74 years"	"74"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	97	37434	259.1
+	"New Mexico"	"35"	"74 years"	"74"	"Atherosclerotic heart disease"	"I25.1"	75	37434	200.4
+	"New Mexico"	"35"	"74 years"	"74"	"Congestive heart failure"	"I50.0"	14	37434	Unreliable
+	"New Mexico"	"35"	"74 years"	"74"	"Heart failure, unspecified"	"I50.9"	11	37434	Unreliable
+	"New Mexico"	"35"	"74 years"	"74"	"Intracerebral haemorrhage, unspecified"	"I61.9"	11	37434	Unreliable
+	"New Mexico"	"35"	"74 years"	"74"	"Stroke, not specified as haemorrhage or infarction"	"I64"	16	37434	Unreliable
+	"New Mexico"	"35"	"74 years"	"74"	"Pneumonia, unspecified"	"J18.9"	19	37434	Unreliable
+	"New Mexico"	"35"	"74 years"	"74"	"Emphysema, unspecified"	"J43.9"	10	37434	Unreliable
+	"New Mexico"	"35"	"74 years"	"74"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	81	37434	216.4
+	"New Mexico"	"35"	"74 years"	"74"	"Other interstitial pulmonary diseases with fibrosis"	"J84.1"	12	37434	Unreliable
+	"New Mexico"	"35"	"74 years"	"74"	"Alcoholic cirrhosis of liver"	"K70.3"	13	37434	Unreliable
+	"New Mexico"	"35"	"74 years"	"74"	"Other and unspecified cirrhosis of liver"	"K74.6"	17	37434	Unreliable
+	"New Mexico"	"35"	"74 years"	"74"	"COVID-19"	"U07.1"	30	37434	80.1
+	"New Mexico"	"35"	"74 years"	"74"	"Other fall on same level"	"W18"	10	37434	Unreliable
+	"New Mexico"	"35"	"74 years"	"74"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	14	37434	Unreliable
+	"New Mexico"	"35"	"75 years"	"75"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	10	35010	Unreliable
+	"New Mexico"	"35"	"75 years"	"75"	"Liver cell carcinoma - Malignant neoplasms"	"C22.0"	12	35010	Unreliable
+	"New Mexico"	"35"	"75 years"	"75"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	32	35010	91.4
+	"New Mexico"	"35"	"75 years"	"75"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	46	35010	131.4
+	"New Mexico"	"35"	"75 years"	"75"	"Malignant neoplasm of prostate"	"C61"	23	35010	65.7
+	"New Mexico"	"35"	"75 years"	"75"	"Malignant neoplasm without specification of site"	"C80"	11	35010	Unreliable
+	"New Mexico"	"35"	"75 years"	"75"	"Multiple myeloma - Malignant neoplasms"	"C90.0"	10	35010	Unreliable
+	"New Mexico"	"35"	"75 years"	"75"	"Unspecified diabetes mellitus, without complications"	"E14.9"	12	35010	Unreliable
+	"New Mexico"	"35"	"75 years"	"75"	"Unspecified dementia"	"F03"	17	35010	Unreliable
+	"New Mexico"	"35"	"75 years"	"75"	"Parkinson disease"	"G20"	31	35010	88.5
+	"New Mexico"	"35"	"75 years"	"75"	"Alzheimer disease, unspecified"	"G30.9"	11	35010	Unreliable
+	"New Mexico"	"35"	"75 years"	"75"	"Acute myocardial infarction, unspecified"	"I21.9"	51	35010	145.7
+	"New Mexico"	"35"	"75 years"	"75"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	80	35010	228.5
+	"New Mexico"	"35"	"75 years"	"75"	"Atherosclerotic heart disease"	"I25.1"	71	35010	202.8
+	"New Mexico"	"35"	"75 years"	"75"	"Ischaemic cardiomyopathy"	"I25.5"	10	35010	Unreliable
+	"New Mexico"	"35"	"75 years"	"75"	"Congestive heart failure"	"I50.0"	13	35010	Unreliable
+	"New Mexico"	"35"	"75 years"	"75"	"Stroke, not specified as haemorrhage or infarction"	"I64"	16	35010	Unreliable
+	"New Mexico"	"35"	"75 years"	"75"	"Pneumonia, unspecified"	"J18.9"	20	35010	57.1
+	"New Mexico"	"35"	"75 years"	"75"	"Emphysema, unspecified"	"J43.9"	10	35010	Unreliable
+	"New Mexico"	"35"	"75 years"	"75"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	74	35010	211.4
+	"New Mexico"	"35"	"75 years"	"75"	"Other interstitial pulmonary diseases with fibrosis"	"J84.1"	13	35010	Unreliable
+	"New Mexico"	"35"	"75 years"	"75"	"Chronic kidney disease, stage 5"	"N18.5"	12	35010	Unreliable
+	"New Mexico"	"35"	"75 years"	"75"	"COVID-19"	"U07.1"	36	35010	102.8
+	"New Mexico"	"35"	"75 years"	"75"	"Other fall on same level"	"W18"	22	35010	62.8
+	"New Mexico"	"35"	"76 years"	"76"	"Oesophagus, unspecified - Malignant neoplasms"	"C15.9"	13	32391	Unreliable
+	"New Mexico"	"35"	"76 years"	"76"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	13	32391	Unreliable
+	"New Mexico"	"35"	"76 years"	"76"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	24	32391	74.1
+	"New Mexico"	"35"	"76 years"	"76"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	49	32391	151.3
+	"New Mexico"	"35"	"76 years"	"76"	"Malignant neoplasm of prostate"	"C61"	40	32391	123.5
+	"New Mexico"	"35"	"76 years"	"76"	"Bladder, unspecified - Malignant neoplasms"	"C67.9"	14	32391	Unreliable
+	"New Mexico"	"35"	"76 years"	"76"	"Malignant neoplasm without specification of site"	"C80"	16	32391	Unreliable
+	"New Mexico"	"35"	"76 years"	"76"	"Non-insulin-dependent diabetes mellitus, without complications"	"E11.9"	11	32391	Unreliable
+	"New Mexico"	"35"	"76 years"	"76"	"Unspecified diabetes mellitus, without complications"	"E14.9"	15	32391	Unreliable
+	"New Mexico"	"35"	"76 years"	"76"	"Unspecified dementia"	"F03"	18	32391	Unreliable
+	"New Mexico"	"35"	"76 years"	"76"	"Parkinson disease"	"G20"	30	32391	92.6
+	"New Mexico"	"35"	"76 years"	"76"	"Alzheimer disease, unspecified"	"G30.9"	25	32391	77.2
+	"New Mexico"	"35"	"76 years"	"76"	"Acute myocardial infarction, unspecified"	"I21.9"	48	32391	148.2
+	"New Mexico"	"35"	"76 years"	"76"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	66	32391	203.8
+	"New Mexico"	"35"	"76 years"	"76"	"Atherosclerotic heart disease"	"I25.1"	69	32391	213.0
+	"New Mexico"	"35"	"76 years"	"76"	"Congestive heart failure"	"I50.0"	14	32391	Unreliable
+	"New Mexico"	"35"	"76 years"	"76"	"Stroke, not specified as haemorrhage or infarction"	"I64"	18	32391	Unreliable
+	"New Mexico"	"35"	"76 years"	"76"	"Pneumonia, unspecified"	"J18.9"	13	32391	Unreliable
+	"New Mexico"	"35"	"76 years"	"76"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	15	32391	Unreliable
+	"New Mexico"	"35"	"76 years"	"76"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	75	32391	231.5
+	"New Mexico"	"35"	"76 years"	"76"	"Other interstitial pulmonary diseases with fibrosis"	"J84.1"	12	32391	Unreliable
+	"New Mexico"	"35"	"76 years"	"76"	"Other and unspecified cirrhosis of liver"	"K74.6"	10	32391	Unreliable
+	"New Mexico"	"35"	"76 years"	"76"	"Gastrointestinal haemorrhage, unspecified"	"K92.2"	11	32391	Unreliable
+	"New Mexico"	"35"	"76 years"	"76"	"Chronic kidney disease, stage 5"	"N18.5"	11	32391	Unreliable
+	"New Mexico"	"35"	"76 years"	"76"	"COVID-19"	"U07.1"	34	32391	105.0
+	"New Mexico"	"35"	"76 years"	"76"	"Other fall on same level"	"W18"	10	32391	Unreliable
+	"New Mexico"	"35"	"76 years"	"76"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	13	32391	Unreliable
+	"New Mexico"	"35"	"77 years"	"77"	"Septicaemia, unspecified"	"A41.9"	12	29898	Unreliable
+	"New Mexico"	"35"	"77 years"	"77"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	22	29898	73.6
+	"New Mexico"	"35"	"77 years"	"77"	"Liver, unspecified - Malignant neoplasms"	"C22.9"	12	29898	Unreliable
+	"New Mexico"	"35"	"77 years"	"77"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	22	29898	73.6
+	"New Mexico"	"35"	"77 years"	"77"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	64	29898	214.1
+	"New Mexico"	"35"	"77 years"	"77"	"Malignant neoplasm of prostate"	"C61"	45	29898	150.5
+	"New Mexico"	"35"	"77 years"	"77"	"Malignant neoplasm of kidney, except renal pelvis"	"C64"	10	29898	Unreliable
+	"New Mexico"	"35"	"77 years"	"77"	"Malignant neoplasm without specification of site"	"C80"	14	29898	Unreliable
+	"New Mexico"	"35"	"77 years"	"77"	"Non-insulin-dependent diabetes mellitus, with renal complications"	"E11.2"	11	29898	Unreliable
+	"New Mexico"	"35"	"77 years"	"77"	"Non-insulin-dependent diabetes mellitus, without complications"	"E11.9"	14	29898	Unreliable
+	"New Mexico"	"35"	"77 years"	"77"	"Unspecified diabetes mellitus, without complications"	"E14.9"	19	29898	Unreliable
+	"New Mexico"	"35"	"77 years"	"77"	"Unspecified dementia"	"F03"	22	29898	73.6
+	"New Mexico"	"35"	"77 years"	"77"	"Parkinson disease"	"G20"	36	29898	120.4
+	"New Mexico"	"35"	"77 years"	"77"	"Alzheimer disease, unspecified"	"G30.9"	18	29898	Unreliable
+	"New Mexico"	"35"	"77 years"	"77"	"Acute myocardial infarction, unspecified"	"I21.9"	51	29898	170.6
+	"New Mexico"	"35"	"77 years"	"77"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	71	29898	237.5
+	"New Mexico"	"35"	"77 years"	"77"	"Atherosclerotic heart disease"	"I25.1"	91	29898	304.4
+	"New Mexico"	"35"	"77 years"	"77"	"Congestive heart failure"	"I50.0"	16	29898	Unreliable
+	"New Mexico"	"35"	"77 years"	"77"	"Cerebral infarction, unspecified"	"I63.9"	10	29898	Unreliable
+	"New Mexico"	"35"	"77 years"	"77"	"Stroke, not specified as haemorrhage or infarction"	"I64"	12	29898	Unreliable
+	"New Mexico"	"35"	"77 years"	"77"	"Pneumonia, unspecified"	"J18.9"	19	29898	Unreliable
+	"New Mexico"	"35"	"77 years"	"77"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	13	29898	Unreliable
+	"New Mexico"	"35"	"77 years"	"77"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	74	29898	247.5
+	"New Mexico"	"35"	"77 years"	"77"	"Other interstitial pulmonary diseases with fibrosis"	"J84.1"	16	29898	Unreliable
+	"New Mexico"	"35"	"77 years"	"77"	"Other and unspecified cirrhosis of liver"	"K74.6"	10	29898	Unreliable
+	"New Mexico"	"35"	"77 years"	"77"	"COVID-19"	"U07.1"	46	29898	153.9
+	"New Mexico"	"35"	"77 years"	"77"	"Other fall on same level"	"W18"	12	29898	Unreliable
+	"New Mexico"	"35"	"77 years"	"77"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	14	29898	Unreliable
+	"New Mexico"	"35"	"78 years"	"78"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	20	26909	74.3
+	"New Mexico"	"35"	"78 years"	"78"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	18	26909	Unreliable
+	"New Mexico"	"35"	"78 years"	"78"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	47	26909	174.7
+	"New Mexico"	"35"	"78 years"	"78"	"Malignant neoplasm of prostate"	"C61"	43	26909	159.8
+	"New Mexico"	"35"	"78 years"	"78"	"Bladder, unspecified - Malignant neoplasms"	"C67.9"	11	26909	Unreliable
+	"New Mexico"	"35"	"78 years"	"78"	"Malignant neoplasm without specification of site"	"C80"	24	26909	89.2
+	"New Mexico"	"35"	"78 years"	"78"	"Non-Hodgkin lymphoma, unspecified type"	"C85.9"	11	26909	Unreliable
+	"New Mexico"	"35"	"78 years"	"78"	"Multiple myeloma - Malignant neoplasms"	"C90.0"	11	26909	Unreliable
+	"New Mexico"	"35"	"78 years"	"78"	"Non-insulin-dependent diabetes mellitus, without complications"	"E11.9"	14	26909	Unreliable
+	"New Mexico"	"35"	"78 years"	"78"	"Unspecified diabetes mellitus, with renal complications"	"E14.2"	10	26909	Unreliable
+	"New Mexico"	"35"	"78 years"	"78"	"Unspecified diabetes mellitus, without complications"	"E14.9"	22	26909	81.8
+	"New Mexico"	"35"	"78 years"	"78"	"Unspecified dementia"	"F03"	24	26909	89.2
+	"New Mexico"	"35"	"78 years"	"78"	"Parkinson disease"	"G20"	30	26909	111.5
+	"New Mexico"	"35"	"78 years"	"78"	"Alzheimer disease, unspecified"	"G30.9"	23	26909	85.5
+	"New Mexico"	"35"	"78 years"	"78"	"Acute myocardial infarction, unspecified"	"I21.9"	57	26909	211.8
+	"New Mexico"	"35"	"78 years"	"78"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	63	26909	234.1
+	"New Mexico"	"35"	"78 years"	"78"	"Atherosclerotic heart disease"	"I25.1"	71	26909	263.9
+	"New Mexico"	"35"	"78 years"	"78"	"Congestive heart failure"	"I50.0"	14	26909	Unreliable
+	"New Mexico"	"35"	"78 years"	"78"	"Stroke, not specified as haemorrhage or infarction"	"I64"	18	26909	Unreliable
+	"New Mexico"	"35"	"78 years"	"78"	"Pneumonia, unspecified"	"J18.9"	10	26909	Unreliable
+	"New Mexico"	"35"	"78 years"	"78"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	65	26909	241.6
+	"New Mexico"	"35"	"78 years"	"78"	"Other interstitial pulmonary diseases with fibrosis"	"J84.1"	12	26909	Unreliable
+	"New Mexico"	"35"	"78 years"	"78"	"Other and unspecified cirrhosis of liver"	"K74.6"	12	26909	Unreliable
+	"New Mexico"	"35"	"78 years"	"78"	"Chronic kidney disease, stage 5"	"N18.5"	15	26909	Unreliable
+	"New Mexico"	"35"	"78 years"	"78"	"COVID-19"	"U07.1"	48	26909	178.4
+	"New Mexico"	"35"	"78 years"	"78"	"Other fall on same level"	"W18"	19	26909	Unreliable
+	"New Mexico"	"35"	"79 years"	"79"	"Septicaemia, unspecified"	"A41.9"	13	24797	Unreliable
+	"New Mexico"	"35"	"79 years"	"79"	"Oesophagus, unspecified - Malignant neoplasms"	"C15.9"	11	24797	Unreliable
+	"New Mexico"	"35"	"79 years"	"79"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	14	24797	Unreliable
+	"New Mexico"	"35"	"79 years"	"79"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	14	24797	Unreliable
+	"New Mexico"	"35"	"79 years"	"79"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	51	24797	205.7
+	"New Mexico"	"35"	"79 years"	"79"	"Malignant neoplasm of prostate"	"C61"	37	24797	149.2
+	"New Mexico"	"35"	"79 years"	"79"	"Bladder, unspecified - Malignant neoplasms"	"C67.9"	10	24797	Unreliable
+	"New Mexico"	"35"	"79 years"	"79"	"Non-insulin-dependent diabetes mellitus, without complications"	"E11.9"	19	24797	Unreliable
+	"New Mexico"	"35"	"79 years"	"79"	"Unspecified diabetes mellitus, without complications"	"E14.9"	15	24797	Unreliable
+	"New Mexico"	"35"	"79 years"	"79"	"Hyperlipidaemia, unspecified"	"E78.5"	11	24797	Unreliable
+	"New Mexico"	"35"	"79 years"	"79"	"Unspecified dementia"	"F03"	25	24797	100.8
+	"New Mexico"	"35"	"79 years"	"79"	"Parkinson disease"	"G20"	27	24797	108.9
+	"New Mexico"	"35"	"79 years"	"79"	"Alzheimer disease, unspecified"	"G30.9"	36	24797	145.2
+	"New Mexico"	"35"	"79 years"	"79"	"Acute myocardial infarction, unspecified"	"I21.9"	53	24797	213.7
+	"New Mexico"	"35"	"79 years"	"79"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	58	24797	233.9
+	"New Mexico"	"35"	"79 years"	"79"	"Atherosclerotic heart disease"	"I25.1"	57	24797	229.9
+	"New Mexico"	"35"	"79 years"	"79"	"Congestive heart failure"	"I50.0"	20	24797	80.7
+	"New Mexico"	"35"	"79 years"	"79"	"Stroke, not specified as haemorrhage or infarction"	"I64"	25	24797	100.8
+	"New Mexico"	"35"	"79 years"	"79"	"Pneumonia, unspecified"	"J18.9"	12	24797	Unreliable
+	"New Mexico"	"35"	"79 years"	"79"	"Emphysema, unspecified"	"J43.9"	11	24797	Unreliable
+	"New Mexico"	"35"	"79 years"	"79"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	13	24797	Unreliable
+	"New Mexico"	"35"	"79 years"	"79"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	98	24797	395.2
+	"New Mexico"	"35"	"79 years"	"79"	"Other interstitial pulmonary diseases with fibrosis"	"J84.1"	17	24797	Unreliable
+	"New Mexico"	"35"	"79 years"	"79"	"Chronic kidney disease, stage 5"	"N18.5"	14	24797	Unreliable
+	"New Mexico"	"35"	"79 years"	"79"	"COVID-19"	"U07.1"	41	24797	165.3
+	"New Mexico"	"35"	"79 years"	"79"	"Other fall on same level"	"W18"	19	24797	Unreliable
+	"New Mexico"	"35"	"80 years"	"80"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	20	22833	87.6
+	"New Mexico"	"35"	"80 years"	"80"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	16	22833	Unreliable
+	"New Mexico"	"35"	"80 years"	"80"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	51	22833	223.4
+	"New Mexico"	"35"	"80 years"	"80"	"Malignant neoplasm of prostate"	"C61"	43	22833	188.3
+	"New Mexico"	"35"	"80 years"	"80"	"Bladder, unspecified - Malignant neoplasms"	"C67.9"	13	22833	Unreliable
+	"New Mexico"	"35"	"80 years"	"80"	"Malignant neoplasm without specification of site"	"C80"	15	22833	Unreliable
+	"New Mexico"	"35"	"80 years"	"80"	"Non-insulin-dependent diabetes mellitus, without complications"	"E11.9"	13	22833	Unreliable
+	"New Mexico"	"35"	"80 years"	"80"	"Unspecified diabetes mellitus, without complications"	"E14.9"	18	22833	Unreliable
+	"New Mexico"	"35"	"80 years"	"80"	"Vascular dementia, unspecified"	"F01.9"	12	22833	Unreliable
+	"New Mexico"	"35"	"80 years"	"80"	"Unspecified dementia"	"F03"	30	22833	131.4
+	"New Mexico"	"35"	"80 years"	"80"	"Parkinson disease"	"G20"	34	22833	148.9
+	"New Mexico"	"35"	"80 years"	"80"	"Alzheimer disease, unspecified"	"G30.9"	31	22833	135.8
+	"New Mexico"	"35"	"80 years"	"80"	"Acute myocardial infarction, unspecified"	"I21.9"	49	22833	214.6
+	"New Mexico"	"35"	"80 years"	"80"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	46	22833	201.5
+	"New Mexico"	"35"	"80 years"	"80"	"Atherosclerotic heart disease"	"I25.1"	88	22833	385.4
+	"New Mexico"	"35"	"80 years"	"80"	"Ischaemic cardiomyopathy"	"I25.5"	10	22833	Unreliable
+	"New Mexico"	"35"	"80 years"	"80"	"Congestive heart failure"	"I50.0"	13	22833	Unreliable
+	"New Mexico"	"35"	"80 years"	"80"	"Heart failure, unspecified"	"I50.9"	11	22833	Unreliable
+	"New Mexico"	"35"	"80 years"	"80"	"Stroke, not specified as haemorrhage or infarction"	"I64"	12	22833	Unreliable
+	"New Mexico"	"35"	"80 years"	"80"	"Pneumonia, unspecified"	"J18.9"	20	22833	87.6
+	"New Mexico"	"35"	"80 years"	"80"	"Emphysema, unspecified"	"J43.9"	10	22833	Unreliable
+	"New Mexico"	"35"	"80 years"	"80"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	10	22833	Unreliable
+	"New Mexico"	"35"	"80 years"	"80"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	82	22833	359.1
+	"New Mexico"	"35"	"80 years"	"80"	"Other interstitial pulmonary diseases with fibrosis"	"J84.1"	11	22833	Unreliable
+	"New Mexico"	"35"	"80 years"	"80"	"COVID-19"	"U07.1"	48	22833	210.2
+	"New Mexico"	"35"	"80 years"	"80"	"Other fall on same level"	"W18"	16	22833	Unreliable
+	"New Mexico"	"35"	"81 years"	"81"	"Septicaemia, unspecified"	"A41.9"	10	20795	Unreliable
+	"New Mexico"	"35"	"81 years"	"81"	"Oesophagus, unspecified - Malignant neoplasms"	"C15.9"	13	20795	Unreliable
+	"New Mexico"	"35"	"81 years"	"81"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	13	20795	Unreliable
+	"New Mexico"	"35"	"81 years"	"81"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	10	20795	Unreliable
+	"New Mexico"	"35"	"81 years"	"81"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	49	20795	235.6
+	"New Mexico"	"35"	"81 years"	"81"	"Malignant neoplasm of prostate"	"C61"	44	20795	211.6
+	"New Mexico"	"35"	"81 years"	"81"	"Bladder, unspecified - Malignant neoplasms"	"C67.9"	12	20795	Unreliable
+	"New Mexico"	"35"	"81 years"	"81"	"Malignant neoplasm without specification of site"	"C80"	15	20795	Unreliable
+	"New Mexico"	"35"	"81 years"	"81"	"Non-insulin-dependent diabetes mellitus, without complications"	"E11.9"	12	20795	Unreliable
+	"New Mexico"	"35"	"81 years"	"81"	"Unspecified diabetes mellitus, without complications"	"E14.9"	12	20795	Unreliable
+	"New Mexico"	"35"	"81 years"	"81"	"Unspecified dementia"	"F03"	39	20795	187.5
+	"New Mexico"	"35"	"81 years"	"81"	"Parkinson disease"	"G20"	30	20795	144.3
+	"New Mexico"	"35"	"81 years"	"81"	"Alzheimer disease, unspecified"	"G30.9"	27	20795	129.8
+	"New Mexico"	"35"	"81 years"	"81"	"Acute myocardial infarction, unspecified"	"I21.9"	47	20795	226.0
+	"New Mexico"	"35"	"81 years"	"81"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	57	20795	274.1
+	"New Mexico"	"35"	"81 years"	"81"	"Atherosclerotic heart disease"	"I25.1"	75	20795	360.7
+	"New Mexico"	"35"	"81 years"	"81"	"Atrial fibrillation and flutter"	"I48"	10	20795	Unreliable
+	"New Mexico"	"35"	"81 years"	"81"	"Congestive heart failure"	"I50.0"	14	20795	Unreliable
+	"New Mexico"	"35"	"81 years"	"81"	"Heart failure, unspecified"	"I50.9"	14	20795	Unreliable
+	"New Mexico"	"35"	"81 years"	"81"	"Stroke, not specified as haemorrhage or infarction"	"I64"	25	20795	120.2
+	"New Mexico"	"35"	"81 years"	"81"	"Pneumonia, unspecified"	"J18.9"	15	20795	Unreliable
+	"New Mexico"	"35"	"81 years"	"81"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	13	20795	Unreliable
+	"New Mexico"	"35"	"81 years"	"81"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	83	20795	399.1
+	"New Mexico"	"35"	"81 years"	"81"	"Other interstitial pulmonary diseases with fibrosis"	"J84.1"	13	20795	Unreliable
+	"New Mexico"	"35"	"81 years"	"81"	"Other and unspecified cirrhosis of liver"	"K74.6"	10	20795	Unreliable
+	"New Mexico"	"35"	"81 years"	"81"	"COVID-19"	"U07.1"	37	20795	177.9
+	"New Mexico"	"35"	"81 years"	"81"	"Other fall on same level"	"W18"	12	20795	Unreliable
+	"New Mexico"	"35"	"82 years"	"82"	"Septicaemia, unspecified"	"A41.9"	14	18945	Unreliable
+	"New Mexico"	"35"	"82 years"	"82"	"Oesophagus, unspecified - Malignant neoplasms"	"C15.9"	13	18945	Unreliable
+	"New Mexico"	"35"	"82 years"	"82"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	18	18945	Unreliable
+	"New Mexico"	"35"	"82 years"	"82"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	24	18945	126.7
+	"New Mexico"	"35"	"82 years"	"82"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	53	18945	279.8
+	"New Mexico"	"35"	"82 years"	"82"	"Malignant neoplasm of prostate"	"C61"	38	18945	200.6
+	"New Mexico"	"35"	"82 years"	"82"	"Bladder, unspecified - Malignant neoplasms"	"C67.9"	10	18945	Unreliable
+	"New Mexico"	"35"	"82 years"	"82"	"Malignant neoplasm without specification of site"	"C80"	13	18945	Unreliable
+	"New Mexico"	"35"	"82 years"	"82"	"Unspecified diabetes mellitus, without complications"	"E14.9"	14	18945	Unreliable
+	"New Mexico"	"35"	"82 years"	"82"	"Vascular dementia, unspecified"	"F01.9"	10	18945	Unreliable
+	"New Mexico"	"35"	"82 years"	"82"	"Unspecified dementia"	"F03"	37	18945	195.3
+	"New Mexico"	"35"	"82 years"	"82"	"Parkinson disease"	"G20"	39	18945	205.9
+	"New Mexico"	"35"	"82 years"	"82"	"Alzheimer disease, unspecified"	"G30.9"	53	18945	279.8
+	"New Mexico"	"35"	"82 years"	"82"	"Acute myocardial infarction, unspecified"	"I21.9"	54	18945	285.0
+	"New Mexico"	"35"	"82 years"	"82"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	57	18945	300.9
+	"New Mexico"	"35"	"82 years"	"82"	"Atherosclerotic heart disease"	"I25.1"	87	18945	459.2
+	"New Mexico"	"35"	"82 years"	"82"	"Congestive heart failure"	"I50.0"	28	18945	147.8
+	"New Mexico"	"35"	"82 years"	"82"	"Stroke, not specified as haemorrhage or infarction"	"I64"	21	18945	110.8
+	"New Mexico"	"35"	"82 years"	"82"	"Pneumonia, unspecified"	"J18.9"	18	18945	Unreliable
+	"New Mexico"	"35"	"82 years"	"82"	"Emphysema, unspecified"	"J43.9"	12	18945	Unreliable
+	"New Mexico"	"35"	"82 years"	"82"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	84	18945	443.4
+	"New Mexico"	"35"	"82 years"	"82"	"Other interstitial pulmonary diseases with fibrosis"	"J84.1"	15	18945	Unreliable
+	"New Mexico"	"35"	"82 years"	"82"	"Chronic kidney disease, stage 5"	"N18.5"	13	18945	Unreliable
+	"New Mexico"	"35"	"82 years"	"82"	"COVID-19"	"U07.1"	50	18945	263.9
+	"New Mexico"	"35"	"82 years"	"82"	"Other fall on same level"	"W18"	25	18945	132.0
+	"New Mexico"	"35"	"82 years"	"82"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	12	18945	Unreliable
+	"New Mexico"	"35"	"83 years"	"83"	"Septicaemia, unspecified"	"A41.9"	11	16830	Unreliable
+	"New Mexico"	"35"	"83 years"	"83"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	25	16830	148.5
+	"New Mexico"	"35"	"83 years"	"83"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	13	16830	Unreliable
+	"New Mexico"	"35"	"83 years"	"83"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	50	16830	297.1
+	"New Mexico"	"35"	"83 years"	"83"	"Malignant neoplasm of prostate"	"C61"	43	16830	255.5
+	"New Mexico"	"35"	"83 years"	"83"	"Bladder, unspecified - Malignant neoplasms"	"C67.9"	11	16830	Unreliable
+	"New Mexico"	"35"	"83 years"	"83"	"Malignant neoplasm without specification of site"	"C80"	16	16830	Unreliable
+	"New Mexico"	"35"	"83 years"	"83"	"Multiple myeloma - Malignant neoplasms"	"C90.0"	10	16830	Unreliable
+	"New Mexico"	"35"	"83 years"	"83"	"Non-insulin-dependent diabetes mellitus, with renal complications"	"E11.2"	10	16830	Unreliable
+	"New Mexico"	"35"	"83 years"	"83"	"Non-insulin-dependent diabetes mellitus, without complications"	"E11.9"	12	16830	Unreliable
+	"New Mexico"	"35"	"83 years"	"83"	"Unspecified diabetes mellitus, without complications"	"E14.9"	13	16830	Unreliable
+	"New Mexico"	"35"	"83 years"	"83"	"Vascular dementia, unspecified"	"F01.9"	14	16830	Unreliable
+	"New Mexico"	"35"	"83 years"	"83"	"Unspecified dementia"	"F03"	49	16830	291.1
+	"New Mexico"	"35"	"83 years"	"83"	"Parkinson disease"	"G20"	41	16830	243.6
+	"New Mexico"	"35"	"83 years"	"83"	"Alzheimer disease, unspecified"	"G30.9"	49	16830	291.1
+	"New Mexico"	"35"	"83 years"	"83"	"Senile degeneration of brain, not elsewhere classified"	"G31.1"	13	16830	Unreliable
+	"New Mexico"	"35"	"83 years"	"83"	"Acute myocardial infarction, unspecified"	"I21.9"	62	16830	368.4
+	"New Mexico"	"35"	"83 years"	"83"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	57	16830	338.7
+	"New Mexico"	"35"	"83 years"	"83"	"Atherosclerotic heart disease"	"I25.1"	107	16830	635.8
+	"New Mexico"	"35"	"83 years"	"83"	"Atrial fibrillation and flutter"	"I48"	12	16830	Unreliable
+	"New Mexico"	"35"	"83 years"	"83"	"Congestive heart failure"	"I50.0"	17	16830	Unreliable
+	"New Mexico"	"35"	"83 years"	"83"	"Stroke, not specified as haemorrhage or infarction"	"I64"	21	16830	124.8
+	"New Mexico"	"35"	"83 years"	"83"	"Pneumonia, unspecified"	"J18.9"	21	16830	124.8
+	"New Mexico"	"35"	"83 years"	"83"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	76	16830	451.6
+	"New Mexico"	"35"	"83 years"	"83"	"Other interstitial pulmonary diseases with fibrosis"	"J84.1"	10	16830	Unreliable
+	"New Mexico"	"35"	"83 years"	"83"	"Chronic kidney disease, stage 5"	"N18.5"	15	16830	Unreliable
+	"New Mexico"	"35"	"83 years"	"83"	"COVID-19"	"U07.1"	36	16830	213.9
+	"New Mexico"	"35"	"83 years"	"83"	"Other fall on same level"	"W18"	23	16830	136.7
+	"New Mexico"	"35"	"84 years"	"84"	"Septicaemia, unspecified"	"A41.9"	11	14954	Unreliable
+	"New Mexico"	"35"	"84 years"	"84"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	12	14954	Unreliable
+	"New Mexico"	"35"	"84 years"	"84"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	50	14954	334.4
+	"New Mexico"	"35"	"84 years"	"84"	"Malignant neoplasm of prostate"	"C61"	41	14954	274.2
+	"New Mexico"	"35"	"84 years"	"84"	"Malignant neoplasm without specification of site"	"C80"	11	14954	Unreliable
+	"New Mexico"	"35"	"84 years"	"84"	"Unspecified diabetes mellitus, without complications"	"E14.9"	16	14954	Unreliable
+	"New Mexico"	"35"	"84 years"	"84"	"Vascular dementia, unspecified"	"F01.9"	12	14954	Unreliable
+	"New Mexico"	"35"	"84 years"	"84"	"Unspecified dementia"	"F03"	36	14954	240.7
+	"New Mexico"	"35"	"84 years"	"84"	"Parkinson disease"	"G20"	36	14954	240.7
+	"New Mexico"	"35"	"84 years"	"84"	"Alzheimer disease, unspecified"	"G30.9"	48	14954	321.0
+	"New Mexico"	"35"	"84 years"	"84"	"Acute myocardial infarction, unspecified"	"I21.9"	57	14954	381.2
+	"New Mexico"	"35"	"84 years"	"84"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	59	14954	394.5
+	"New Mexico"	"35"	"84 years"	"84"	"Atherosclerotic heart disease"	"I25.1"	97	14954	648.7
+	"New Mexico"	"35"	"84 years"	"84"	"Ischaemic cardiomyopathy"	"I25.5"	14	14954	Unreliable
+	"New Mexico"	"35"	"84 years"	"84"	"Atrial fibrillation and flutter"	"I48"	16	14954	Unreliable
+	"New Mexico"	"35"	"84 years"	"84"	"Congestive heart failure"	"I50.0"	21	14954	140.4
+	"New Mexico"	"35"	"84 years"	"84"	"Stroke, not specified as haemorrhage or infarction"	"I64"	17	14954	Unreliable
+	"New Mexico"	"35"	"84 years"	"84"	"Pneumonia, unspecified"	"J18.9"	22	14954	147.1
+	"New Mexico"	"35"	"84 years"	"84"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	11	14954	Unreliable
+	"New Mexico"	"35"	"84 years"	"84"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	81	14954	541.7
+	"New Mexico"	"35"	"84 years"	"84"	"Pneumonitis due to food and vomit"	"J69.0"	11	14954	Unreliable
+	"New Mexico"	"35"	"84 years"	"84"	"Other interstitial pulmonary diseases with fibrosis"	"J84.1"	21	14954	140.4
+	"New Mexico"	"35"	"84 years"	"84"	"COVID-19"	"U07.1"	42	14954	280.9
+	"New Mexico"	"35"	"84 years"	"84"	"Other fall on same level"	"W18"	22	14954	147.1
+	"New Mexico"	"35"	"85 years"	"85"	"Septicaemia, unspecified"	"A41.9"	13	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"85 years"	"85"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	18	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"85 years"	"85"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	13	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"85 years"	"85"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	43	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"85 years"	"85"	"Malignant melanoma of skin, unspecified - Malignant neoplasms"	"C43.9"	11	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"85 years"	"85"	"Malignant neoplasm of prostate"	"C61"	37	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"85 years"	"85"	"Malignant neoplasm of kidney, except renal pelvis"	"C64"	10	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"85 years"	"85"	"Malignant neoplasm without specification of site"	"C80"	11	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"85 years"	"85"	"Unspecified dementia"	"F03"	44	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"85 years"	"85"	"Parkinson disease"	"G20"	34	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"85 years"	"85"	"Alzheimer disease, unspecified"	"G30.9"	45	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"85 years"	"85"	"Hypertensive heart disease with (congestive) heart failure"	"I11.0"	11	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"85 years"	"85"	"Acute myocardial infarction, unspecified"	"I21.9"	60	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"85 years"	"85"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	45	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"85 years"	"85"	"Atherosclerotic heart disease"	"I25.1"	110	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"85 years"	"85"	"Ischaemic cardiomyopathy"	"I25.5"	10	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"85 years"	"85"	"Atrial fibrillation and flutter"	"I48"	13	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"85 years"	"85"	"Congestive heart failure"	"I50.0"	24	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"85 years"	"85"	"Heart failure, unspecified"	"I50.9"	14	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"85 years"	"85"	"Cerebral infarction, unspecified"	"I63.9"	11	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"85 years"	"85"	"Stroke, not specified as haemorrhage or infarction"	"I64"	13	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"85 years"	"85"	"Pneumonia, unspecified"	"J18.9"	22	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"85 years"	"85"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	10	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"85 years"	"85"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	66	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"85 years"	"85"	"Other interstitial pulmonary diseases with fibrosis"	"J84.1"	11	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"85 years"	"85"	"Chronic kidney disease, stage 5"	"N18.5"	14	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"85 years"	"85"	"COVID-19"	"U07.1"	35	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"85 years"	"85"	"Other fall on same level"	"W18"	34	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"85 years"	"85"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	11	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"86 years"	"86"	"Septicaemia, unspecified"	"A41.9"	12	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"86 years"	"86"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	43	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"86 years"	"86"	"Malignant neoplasm of prostate"	"C61"	37	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"86 years"	"86"	"Bladder, unspecified - Malignant neoplasms"	"C67.9"	13	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"86 years"	"86"	"Vascular dementia, unspecified"	"F01.9"	10	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"86 years"	"86"	"Unspecified dementia"	"F03"	58	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"86 years"	"86"	"Parkinson disease"	"G20"	44	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"86 years"	"86"	"Alzheimer disease, unspecified"	"G30.9"	49	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"86 years"	"86"	"Acute myocardial infarction, unspecified"	"I21.9"	66	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"86 years"	"86"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	45	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"86 years"	"86"	"Atherosclerotic heart disease"	"I25.1"	84	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"86 years"	"86"	"Atrial fibrillation and flutter"	"I48"	12	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"86 years"	"86"	"Congestive heart failure"	"I50.0"	30	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"86 years"	"86"	"Heart failure, unspecified"	"I50.9"	11	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"86 years"	"86"	"Stroke, not specified as haemorrhage or infarction"	"I64"	23	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"86 years"	"86"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	14	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"86 years"	"86"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	74	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"86 years"	"86"	"Other interstitial pulmonary diseases with fibrosis"	"J84.1"	13	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"86 years"	"86"	"Chronic kidney disease, stage 5"	"N18.5"	13	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"86 years"	"86"	"COVID-19"	"U07.1"	31	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"86 years"	"86"	"Other fall on same level"	"W18"	32	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"87 years"	"87"	"Septicaemia, unspecified"	"A41.9"	14	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"87 years"	"87"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	10	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"87 years"	"87"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	28	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"87 years"	"87"	"Malignant neoplasm of prostate"	"C61"	39	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"87 years"	"87"	"Non-insulin-dependent diabetes mellitus, without complications"	"E11.9"	11	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"87 years"	"87"	"Unspecified protein-energy malnutrition"	"E46"	12	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"87 years"	"87"	"Vascular dementia, unspecified"	"F01.9"	18	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"87 years"	"87"	"Unspecified dementia"	"F03"	46	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"87 years"	"87"	"Parkinson disease"	"G20"	32	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"87 years"	"87"	"Alzheimer disease, unspecified"	"G30.9"	55	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"87 years"	"87"	"Hypertensive heart disease with (congestive) heart failure"	"I11.0"	12	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"87 years"	"87"	"Acute myocardial infarction, unspecified"	"I21.9"	51	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"87 years"	"87"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	37	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"87 years"	"87"	"Atherosclerotic heart disease"	"I25.1"	88	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"87 years"	"87"	"Atrial fibrillation and flutter"	"I48"	12	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"87 years"	"87"	"Congestive heart failure"	"I50.0"	21	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"87 years"	"87"	"Stroke, not specified as haemorrhage or infarction"	"I64"	18	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"87 years"	"87"	"Pneumonia, unspecified"	"J18.9"	16	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"87 years"	"87"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	62	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"87 years"	"87"	"Other interstitial pulmonary diseases with fibrosis"	"J84.1"	16	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"87 years"	"87"	"Chronic kidney disease, stage 5"	"N18.5"	13	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"87 years"	"87"	"COVID-19"	"U07.1"	30	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"87 years"	"87"	"Other fall on same level"	"W18"	23	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"88 years"	"88"	"Septicaemia, unspecified"	"A41.9"	16	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"88 years"	"88"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	13	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"88 years"	"88"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	24	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"88 years"	"88"	"Malignant neoplasm of prostate"	"C61"	42	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"88 years"	"88"	"Bladder, unspecified - Malignant neoplasms"	"C67.9"	13	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"88 years"	"88"	"Non-insulin-dependent diabetes mellitus, without complications"	"E11.9"	12	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"88 years"	"88"	"Unspecified diabetes mellitus, without complications"	"E14.9"	10	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"88 years"	"88"	"Vascular dementia, unspecified"	"F01.9"	13	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"88 years"	"88"	"Unspecified dementia"	"F03"	75	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"88 years"	"88"	"Parkinson disease"	"G20"	31	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"88 years"	"88"	"Alzheimer disease, unspecified"	"G30.9"	51	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"88 years"	"88"	"Senile degeneration of brain, not elsewhere classified"	"G31.1"	11	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"88 years"	"88"	"Hypertensive heart disease with (congestive) heart failure"	"I11.0"	12	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"88 years"	"88"	"Acute myocardial infarction, unspecified"	"I21.9"	47	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"88 years"	"88"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	33	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"88 years"	"88"	"Atherosclerotic heart disease"	"I25.1"	102	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"88 years"	"88"	"Congestive heart failure"	"I50.0"	28	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"88 years"	"88"	"Stroke, not specified as haemorrhage or infarction"	"I64"	23	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"88 years"	"88"	"Cerebral atherosclerosis"	"I67.2"	10	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"88 years"	"88"	"Pneumonia, unspecified"	"J18.9"	21	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"88 years"	"88"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	52	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"88 years"	"88"	"Other interstitial pulmonary diseases with fibrosis"	"J84.1"	18	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"88 years"	"88"	"Chronic kidney disease, stage 5"	"N18.5"	14	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"88 years"	"88"	"COVID-19"	"U07.1"	35	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"88 years"	"88"	"Other fall on same level"	"W18"	26	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"89 years"	"89"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	11	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"89 years"	"89"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	29	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"89 years"	"89"	"Malignant neoplasm of prostate"	"C61"	32	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"89 years"	"89"	"Malignant neoplasm without specification of site"	"C80"	11	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"89 years"	"89"	"Vascular dementia, unspecified"	"F01.9"	11	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"89 years"	"89"	"Unspecified dementia"	"F03"	50	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"89 years"	"89"	"Parkinson disease"	"G20"	26	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"89 years"	"89"	"Alzheimer disease, unspecified"	"G30.9"	48	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"89 years"	"89"	"Senile degeneration of brain, not elsewhere classified"	"G31.1"	12	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"89 years"	"89"	"Acute myocardial infarction, unspecified"	"I21.9"	62	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"89 years"	"89"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	39	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"89 years"	"89"	"Atherosclerotic heart disease"	"I25.1"	109	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"89 years"	"89"	"Ischaemic cardiomyopathy"	"I25.5"	12	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"89 years"	"89"	"Atrial fibrillation and flutter"	"I48"	12	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"89 years"	"89"	"Congestive heart failure"	"I50.0"	32	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"89 years"	"89"	"Heart failure, unspecified"	"I50.9"	16	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"89 years"	"89"	"Stroke, not specified as haemorrhage or infarction"	"I64"	13	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"89 years"	"89"	"Pneumonia, unspecified"	"J18.9"	23	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"89 years"	"89"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	11	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"89 years"	"89"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	52	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"89 years"	"89"	"Pneumonitis due to food and vomit"	"J69.0"	10	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"89 years"	"89"	"Chronic renal failure, unspecified"	"N18.9"	11	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"89 years"	"89"	"COVID-19"	"U07.1"	27	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"89 years"	"89"	"Other fall on same level"	"W18"	26	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"90 years"	"90"	"Septicaemia, unspecified"	"A41.9"	11	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"90 years"	"90"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	21	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"90 years"	"90"	"Malignant neoplasm of prostate"	"C61"	30	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"90 years"	"90"	"Vascular dementia, unspecified"	"F01.9"	13	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"90 years"	"90"	"Unspecified dementia"	"F03"	54	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"90 years"	"90"	"Parkinson disease"	"G20"	13	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"90 years"	"90"	"Alzheimer disease, unspecified"	"G30.9"	36	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"90 years"	"90"	"Hypertensive heart disease with (congestive) heart failure"	"I11.0"	11	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"90 years"	"90"	"Acute myocardial infarction, unspecified"	"I21.9"	36	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"90 years"	"90"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	35	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"90 years"	"90"	"Atherosclerotic heart disease"	"I25.1"	105	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"90 years"	"90"	"Atrial fibrillation and flutter"	"I48"	10	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"90 years"	"90"	"Congestive heart failure"	"I50.0"	37	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"90 years"	"90"	"Heart failure, unspecified"	"I50.9"	16	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"90 years"	"90"	"Stroke, not specified as haemorrhage or infarction"	"I64"	13	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"90 years"	"90"	"Pneumonia, unspecified"	"J18.9"	27	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"90 years"	"90"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	44	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"90 years"	"90"	"Other interstitial pulmonary diseases with fibrosis"	"J84.1"	10	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"90 years"	"90"	"COVID-19"	"U07.1"	26	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"90 years"	"90"	"Other fall on same level"	"W18"	33	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"91 years"	"91"	"Septicaemia, unspecified"	"A41.9"	10	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"91 years"	"91"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	18	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"91 years"	"91"	"Malignant neoplasm of prostate"	"C61"	23	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"91 years"	"91"	"Bladder, unspecified - Malignant neoplasms"	"C67.9"	14	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"91 years"	"91"	"Vascular dementia, unspecified"	"F01.9"	16	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"91 years"	"91"	"Unspecified dementia"	"F03"	46	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"91 years"	"91"	"Parkinson disease"	"G20"	15	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"91 years"	"91"	"Alzheimer disease, unspecified"	"G30.9"	39	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"91 years"	"91"	"Senile degeneration of brain, not elsewhere classified"	"G31.1"	10	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"91 years"	"91"	"Hypertensive heart disease with (congestive) heart failure"	"I11.0"	13	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"91 years"	"91"	"Acute myocardial infarction, unspecified"	"I21.9"	42	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"91 years"	"91"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	25	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"91 years"	"91"	"Atherosclerotic heart disease"	"I25.1"	70	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"91 years"	"91"	"Atrial fibrillation and flutter"	"I48"	12	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"91 years"	"91"	"Congestive heart failure"	"I50.0"	22	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"91 years"	"91"	"Heart failure, unspecified"	"I50.9"	10	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"91 years"	"91"	"Stroke, not specified as haemorrhage or infarction"	"I64"	14	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"91 years"	"91"	"Pneumonia, unspecified"	"J18.9"	18	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"91 years"	"91"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	50	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"91 years"	"91"	"COVID-19"	"U07.1"	16	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"91 years"	"91"	"Other fall on same level"	"W18"	22	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"92 years"	"92"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	14	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"92 years"	"92"	"Malignant neoplasm of prostate"	"C61"	25	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"92 years"	"92"	"Vascular dementia, unspecified"	"F01.9"	11	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"92 years"	"92"	"Unspecified dementia"	"F03"	43	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"92 years"	"92"	"Alzheimer disease, unspecified"	"G30.9"	39	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"92 years"	"92"	"Senile degeneration of brain, not elsewhere classified"	"G31.1"	12	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"92 years"	"92"	"Acute myocardial infarction, unspecified"	"I21.9"	23	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"92 years"	"92"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	20	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"92 years"	"92"	"Atherosclerotic heart disease"	"I25.1"	69	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"92 years"	"92"	"Congestive heart failure"	"I50.0"	22	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"92 years"	"92"	"Stroke, not specified as haemorrhage or infarction"	"I64"	17	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"92 years"	"92"	"Pneumonia, unspecified"	"J18.9"	13	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"92 years"	"92"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	33	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"92 years"	"92"	"COVID-19"	"U07.1"	21	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"92 years"	"92"	"Other fall on same level"	"W18"	24	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"93 years"	"93"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	14	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"93 years"	"93"	"Malignant neoplasm of prostate"	"C61"	28	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"93 years"	"93"	"Unspecified dementia"	"F03"	39	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"93 years"	"93"	"Parkinson disease"	"G20"	13	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"93 years"	"93"	"Alzheimer disease, unspecified"	"G30.9"	36	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"93 years"	"93"	"Senile degeneration of brain, not elsewhere classified"	"G31.1"	10	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"93 years"	"93"	"Acute myocardial infarction, unspecified"	"I21.9"	29	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"93 years"	"93"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	17	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"93 years"	"93"	"Atherosclerotic heart disease"	"I25.1"	63	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"93 years"	"93"	"Atrial fibrillation and flutter"	"I48"	11	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"93 years"	"93"	"Congestive heart failure"	"I50.0"	13	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"93 years"	"93"	"Stroke, not specified as haemorrhage or infarction"	"I64"	10	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"93 years"	"93"	"Sequelae of other and unspecified cerebrovascular diseases"	"I69.8"	11	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"93 years"	"93"	"Pneumonia, unspecified"	"J18.9"	16	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"93 years"	"93"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	41	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"93 years"	"93"	"COVID-19"	"U07.1"	22	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"93 years"	"93"	"Other fall on same level"	"W18"	17	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"94 years"	"94"	"Malignant neoplasm of prostate"	"C61"	14	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"94 years"	"94"	"Unspecified severe protein-energy malnutrition"	"E43"	11	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"94 years"	"94"	"Unspecified dementia"	"F03"	28	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"94 years"	"94"	"Alzheimer disease, unspecified"	"G30.9"	27	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"94 years"	"94"	"Acute myocardial infarction, unspecified"	"I21.9"	17	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"94 years"	"94"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	20	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"94 years"	"94"	"Atherosclerotic heart disease"	"I25.1"	56	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"94 years"	"94"	"Congestive heart failure"	"I50.0"	17	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"94 years"	"94"	"Stroke, not specified as haemorrhage or infarction"	"I64"	11	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"94 years"	"94"	"Pneumonia, unspecified"	"J18.9"	11	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"94 years"	"94"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	20	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"94 years"	"94"	"COVID-19"	"U07.1"	12	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"94 years"	"94"	"Other fall on same level"	"W18"	14	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"95 years"	"95"	"Unspecified dementia"	"F03"	32	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"95 years"	"95"	"Parkinson disease"	"G20"	10	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"95 years"	"95"	"Alzheimer disease, unspecified"	"G30.9"	16	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"95 years"	"95"	"Acute myocardial infarction, unspecified"	"I21.9"	22	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"95 years"	"95"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	12	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"95 years"	"95"	"Atherosclerotic heart disease"	"I25.1"	34	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"95 years"	"95"	"Congestive heart failure"	"I50.0"	14	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"95 years"	"95"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	26	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"95 years"	"95"	"Other fall on same level"	"W18"	13	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"96 years"	"96"	"Unspecified dementia"	"F03"	27	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"96 years"	"96"	"Alzheimer disease, unspecified"	"G30.9"	16	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"96 years"	"96"	"Acute myocardial infarction, unspecified"	"I21.9"	17	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"96 years"	"96"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	14	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"96 years"	"96"	"Atherosclerotic heart disease"	"I25.1"	30	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"96 years"	"96"	"Congestive heart failure"	"I50.0"	14	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"96 years"	"96"	"Pneumonia, unspecified"	"J18.9"	13	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"96 years"	"96"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	18	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"96 years"	"96"	"COVID-19"	"U07.1"	11	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"97 years"	"97"	"Unspecified dementia"	"F03"	28	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"97 years"	"97"	"Alzheimer disease, unspecified"	"G30.9"	12	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"97 years"	"97"	"Atherosclerotic heart disease"	"I25.1"	15	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"97 years"	"97"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	12	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"98 years"	"98"	"Unspecified dementia"	"F03"	13	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"98 years"	"98"	"Acute myocardial infarction, unspecified"	"I21.9"	10	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"98 years"	"98"	"Atherosclerotic heart disease"	"I25.1"	23	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"98 years"	"98"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	12	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"99 years"	"99"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	10	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"99 years"	"99"	"Atherosclerotic heart disease"	"I25.1"	16	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"100+ years"	"100"	"Unspecified protein-energy malnutrition"	"E46"	10	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"100+ years"	"100"	"Unspecified dementia"	"F03"	15	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"100+ years"	"100"	"Acute myocardial infarction, unspecified"	"I21.9"	10	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"100+ years"	"100"	"Atherosclerotic heart disease"	"I25.1"	21	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"100+ years"	"100"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	11	Not Applicable	Not Applicable
+"---"
+"Dataset: Underlying Cause of Death, 1999-2020"
+"Query Parameters:"
+"Title: New Mexico CoD M"
+"Gender: Male"
+"States: New Mexico (35)"
+"Year/Month: 2016; 2017; 2018; 2019; 2020"
+"Group By: State; Single-Year Ages; Cause of death"
+"Show Totals: Disabled"
+"Show Zero Values: Disabled"
+"Show Suppressed: False"
+"Calculate Rates Per: 100,000"
+"Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/ucd.html for more information."
+"---"
+"Query Date: Apr 11, 2022 2:26:49 AM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. Underlying Cause of Death"
+"1999-2020 on CDC WONDER Online Database, released in 2021. Data are from the Multiple Cause of Death Files, 1999-2020, as"
+"compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative Program. Accessed"
+"at http://wonder.cdc.gov/ucd-icd10.html on Apr 11, 2022 2:26:49 AM"
+"---"
+Messages:
+"1. The full results are too long to be displayed. Due to suppression constraints rows that are zero, suppressed or a total will"
+"not be available."
+"---"
+Caveats:
+"1. Population and rates are labeled 'Not Applicable' when they include a subset of ages 85-100+ because populations are not"
+"available for those ages. More information: http://wonder.cdc.gov/wonder/help/ucd.html#Ages 85-100."
+"2. Death rates are flagged as Unreliable when the rate is calculated with a numerator of 20 or less. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Unreliable."
+"3. Deaths of persons with Age ""Not Stated"" are included in ""All"" counts and rates, but are not distributed among age groups,"
+"so are not included in age-specific counts, age-specific rates or in any age-adjusted rates. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Not Stated."
+"4. The population figures for year 2020 are bridged-race estimates of the July 1 resident population, from the Vintage 2020"
+"postcensal series released by NCHS on September 22, 2021. The population figures for year 2019 are bridged-race estimates of the"
+"July 1 resident population, from the Vintage 2019 postcensal series released by NCHS on July 9, 2020. The population figures for"
+"year 2018 are bridged-race estimates of the July 1 resident population, from the Vintage 2018 postcensal series released by NCHS"
+"on June 25, 2019. The population figures for year 2017 are bridged-race estimates of the July 1 resident population, from the"
+"Vintage 2017 postcensal series released by NCHS on June 27, 2018. The population figures for year 2016 are bridged-race"
+"estimates of the July 1 resident population, from the Vintage 2016 postcensal series released by NCHS on June 26, 2017. The"
+"population figures for year 2015 are bridged-race estimates of the July 1 resident population, from the Vintage 2015 postcensal"
+"series released by NCHS on June 28, 2016. The population figures for year 2014 are bridged-race estimates of the July 1 resident"
+"population, from the Vintage 2014 postcensal series released by NCHS on June 30, 2015. The population figures for year 2013 are"
+"bridged-race estimates of the July 1 resident population, from the Vintage 2013 postcensal series released by NCHS on June 26,"
+"2014. The population figures for year 2012 are bridged-race estimates of the July 1 resident population, from the Vintage 2012"
+"postcensal series released by NCHS on June 13, 2013. The population figures for year 2011 are bridged-race estimates of the July"
+"1 resident population, from the Vintage 2011 postcensal series released by NCHS on July 18, 2012. Population figures for 2010"
+"are April 1 Census counts. The population figures for years 2001 - 2009 are bridged-race estimates of the July 1 resident"
+"population, from the revised intercensal county-level 2000 - 2009 series released by NCHS on October 26, 2012. Population"
+"figures for 2000 are April 1 Census counts. Population figures for 1999 are from the 1990-1999 intercensal series of July 1"
+"estimates. Population figures for the infant age groups are the number of live births. <br/><b>Note:</b> Rates and population"
+"figures for years 2001 - 2009 differ slightly from previously published reports, due to use of the population estimates which"
+"were available at the time of release."
+"5. The population figures used in the calculation of death rates for the age group 'under 1 year' are the estimates of the"
+"resident population that is under one year of age. More information: http://wonder.cdc.gov/wonder/help/ucd.html#Age Group."
+"6. Beginning with the 2018 data, changes have been implemented that affect the counts for ICD-10 cause of death codes O00-O99"
+"compared to previous practice. In addition, data for the cause of death codes O00-O99 for 2003 through 2017 reflect differences"
+"in information available to individual states and probable errors. Caution should be used in interpreting these data. More"
+"information can be found at: https://www.cdc.gov/nchs/maternal-mortality/."
+"7. On March 11, 2021, the 2019 mortality data on CDC WONDER was updated with the 2019 mortality data updated by NCHS on March 4,"
+"2021 to include corrected information for residents of Texas affecting 5 records previously coded to cause code *U01.4,"
+"Terrorism involving firearms (homicide). The underlying and multiple cause of death codes for 5 records were corrected in the"
+"2019 data. Underlying and multiple cause of death codes for those 5 records were recoded to Assault (homicide) by other and"
+"unspecified firearm discharge, ICD-10 code X95. The corrected final death records replaces the data released on December 22,"
+"2020."
+"8. Changes to cause of death classification affect reporting trends. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#ICD-10 Changes."

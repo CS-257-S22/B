@@ -1,0 +1,1807 @@
+"Notes"	"State"	"State Code"	"Single-Year Ages"	"Single-Year Ages Code"	"Cause of death"	"Cause of death Code"	Deaths	Population	Crude Rate
+	"Arkansas"	"05"	"< 1 year"	"0"	"Newborn affected by premature rupture of membranes"	"P01.1"	14	94700	Unreliable
+	"Arkansas"	"05"	"< 1 year"	"0"	"Newborn affected by other forms of placental separation and haemorrhage"	"P02.1"	11	94700	Unreliable
+	"Arkansas"	"05"	"< 1 year"	"0"	"Extreme immaturity"	"P07.2"	77	94700	81.3
+	"Arkansas"	"05"	"< 1 year"	"0"	"Other preterm infants"	"P07.3"	22	94700	23.2
+	"Arkansas"	"05"	"< 1 year"	"0"	"Respiratory distress syndrome of newborn"	"P22.0"	12	94700	Unreliable
+	"Arkansas"	"05"	"< 1 year"	"0"	"Neonatal cardiac dysrhythmia"	"P29.1"	10	94700	Unreliable
+	"Arkansas"	"05"	"< 1 year"	"0"	"Bacterial sepsis of newborn, unspecified"	"P36.9"	14	94700	Unreliable
+	"Arkansas"	"05"	"< 1 year"	"0"	"Anencephaly"	"Q00.0"	12	94700	Unreliable
+	"Arkansas"	"05"	"< 1 year"	"0"	"Hypoplastic left heart syndrome"	"Q23.4"	11	94700	Unreliable
+	"Arkansas"	"05"	"< 1 year"	"0"	"Congenital malformation of heart, unspecified"	"Q24.9"	16	94700	Unreliable
+	"Arkansas"	"05"	"< 1 year"	"0"	"Hypoplasia and dysplasia of lung"	"Q33.6"	18	94700	Unreliable
+	"Arkansas"	"05"	"< 1 year"	"0"	"Congenital diaphragmatic hernia"	"Q79.0"	13	94700	Unreliable
+	"Arkansas"	"05"	"< 1 year"	"0"	"Edwards syndrome, unspecified"	"Q91.3"	19	94700	Unreliable
+	"Arkansas"	"05"	"< 1 year"	"0"	"Sudden infant death syndrome - SIDS"	"R95"	128	94700	135.2
+	"Arkansas"	"05"	"< 1 year"	"0"	"Other ill-defined and unspecified causes of mortality"	"R99"	13	94700	Unreliable
+	"Arkansas"	"05"	"< 1 year"	"0"	"Accidental suffocation and strangulation in bed"	"W75"	25	94700	26.4
+	"Arkansas"	"05"	"< 1 year"	"0"	"Assault by unspecified means"	"Y09"	11	94700	Unreliable
+	"Arkansas"	"05"	"16 years"	"16"	"Person injured in unspecified motor-vehicle accident, traffic"	"V89.2"	13	102251	Unreliable
+	"Arkansas"	"05"	"16 years"	"16"	"Assault by other and unspecified firearm discharge"	"X95"	11	102251	Unreliable
+	"Arkansas"	"05"	"17 years"	"17"	"Person injured in unspecified motor-vehicle accident, traffic"	"V89.2"	12	102468	Unreliable
+	"Arkansas"	"05"	"17 years"	"17"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	11	102468	Unreliable
+	"Arkansas"	"05"	"17 years"	"17"	"Assault by other and unspecified firearm discharge"	"X95"	25	102468	24.4
+	"Arkansas"	"05"	"18 years"	"18"	"Person injured in collision between other specified motor vehicles (traffic)"	"V87.7"	14	99627	Unreliable
+	"Arkansas"	"05"	"18 years"	"18"	"Person injured in unspecified motor-vehicle accident, traffic"	"V89.2"	15	99627	Unreliable
+	"Arkansas"	"05"	"18 years"	"18"	"Intentional self-harm by hanging, strangulation and suffocation"	"X70"	11	99627	Unreliable
+	"Arkansas"	"05"	"18 years"	"18"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	17	99627	Unreliable
+	"Arkansas"	"05"	"18 years"	"18"	"Assault by other and unspecified firearm discharge"	"X95"	39	99627	39.1
+	"Arkansas"	"05"	"19 years"	"19"	"Person injured in unspecified motor-vehicle accident, traffic"	"V89.2"	20	100695	19.9
+	"Arkansas"	"05"	"19 years"	"19"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	14	100695	Unreliable
+	"Arkansas"	"05"	"19 years"	"19"	"Assault by other and unspecified firearm discharge"	"X95"	31	100695	30.8
+	"Arkansas"	"05"	"20 years"	"20"	"Person injured in unspecified motor-vehicle accident, traffic"	"V89.2"	20	103853	19.3
+	"Arkansas"	"05"	"20 years"	"20"	"Intentional self-harm by hanging, strangulation and suffocation"	"X70"	10	103853	Unreliable
+	"Arkansas"	"05"	"20 years"	"20"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	19	103853	Unreliable
+	"Arkansas"	"05"	"20 years"	"20"	"Assault by other and unspecified firearm discharge"	"X95"	26	103853	25.0
+	"Arkansas"	"05"	"21 years"	"21"	"Person injured in collision between other specified motor vehicles (traffic)"	"V87.7"	11	102989	Unreliable
+	"Arkansas"	"05"	"21 years"	"21"	"Person injured in unspecified motor-vehicle accident, traffic"	"V89.2"	19	102989	Unreliable
+	"Arkansas"	"05"	"21 years"	"21"	"Intentional self-harm by hanging, strangulation and suffocation"	"X70"	13	102989	Unreliable
+	"Arkansas"	"05"	"21 years"	"21"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	18	102989	Unreliable
+	"Arkansas"	"05"	"21 years"	"21"	"Assault by other and unspecified firearm discharge"	"X95"	24	102989	23.3
+	"Arkansas"	"05"	"22 years"	"22"	"Person injured in unspecified motor-vehicle accident, traffic"	"V89.2"	10	103450	Unreliable
+	"Arkansas"	"05"	"22 years"	"22"	"Intentional self-harm by hanging, strangulation and suffocation"	"X70"	12	103450	Unreliable
+	"Arkansas"	"05"	"22 years"	"22"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	28	103450	27.1
+	"Arkansas"	"05"	"22 years"	"22"	"Assault by other and unspecified firearm discharge"	"X95"	32	103450	30.9
+	"Arkansas"	"05"	"23 years"	"23"	"Person injured in unspecified motor-vehicle accident, traffic"	"V89.2"	19	101178	Unreliable
+	"Arkansas"	"05"	"23 years"	"23"	"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X42"	12	101178	Unreliable
+	"Arkansas"	"05"	"23 years"	"23"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	21	101178	20.8
+	"Arkansas"	"05"	"23 years"	"23"	"Assault by other and unspecified firearm discharge"	"X95"	30	101178	29.7
+	"Arkansas"	"05"	"24 years"	"24"	"Person injured in collision between other specified motor vehicles (traffic)"	"V87.7"	12	102201	Unreliable
+	"Arkansas"	"05"	"24 years"	"24"	"Person injured in unspecified motor-vehicle accident, traffic"	"V89.2"	10	102201	Unreliable
+	"Arkansas"	"05"	"24 years"	"24"	"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X42"	12	102201	Unreliable
+	"Arkansas"	"05"	"24 years"	"24"	"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X44"	16	102201	Unreliable
+	"Arkansas"	"05"	"24 years"	"24"	"Intentional self-harm by hanging, strangulation and suffocation"	"X70"	16	102201	Unreliable
+	"Arkansas"	"05"	"24 years"	"24"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	12	102201	Unreliable
+	"Arkansas"	"05"	"24 years"	"24"	"Assault by other and unspecified firearm discharge"	"X95"	29	102201	28.4
+	"Arkansas"	"05"	"25 years"	"25"	"Person injured in unspecified motor-vehicle accident, traffic"	"V89.2"	18	103723	Unreliable
+	"Arkansas"	"05"	"25 years"	"25"	"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X44"	11	103723	Unreliable
+	"Arkansas"	"05"	"25 years"	"25"	"Intentional self-harm by hanging, strangulation and suffocation"	"X70"	11	103723	Unreliable
+	"Arkansas"	"05"	"25 years"	"25"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	19	103723	Unreliable
+	"Arkansas"	"05"	"25 years"	"25"	"Assault by other and unspecified firearm discharge"	"X95"	24	103723	23.1
+	"Arkansas"	"05"	"26 years"	"26"	"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X44"	11	103619	Unreliable
+	"Arkansas"	"05"	"26 years"	"26"	"Intentional self-harm by hanging, strangulation and suffocation"	"X70"	15	103619	Unreliable
+	"Arkansas"	"05"	"26 years"	"26"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	24	103619	23.2
+	"Arkansas"	"05"	"26 years"	"26"	"Assault by other and unspecified firearm discharge"	"X95"	17	103619	Unreliable
+	"Arkansas"	"05"	"27 years"	"27"	"Person injured in unspecified motor-vehicle accident, traffic"	"V89.2"	10	103861	Unreliable
+	"Arkansas"	"05"	"27 years"	"27"	"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X44"	18	103861	Unreliable
+	"Arkansas"	"05"	"27 years"	"27"	"Intentional self-harm by hanging, strangulation and suffocation"	"X70"	19	103861	Unreliable
+	"Arkansas"	"05"	"27 years"	"27"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	13	103861	Unreliable
+	"Arkansas"	"05"	"27 years"	"27"	"Assault by other and unspecified firearm discharge"	"X95"	26	103861	25.0
+	"Arkansas"	"05"	"28 years"	"28"	"Person injured in collision between other specified motor vehicles (traffic)"	"V87.7"	10	102642	Unreliable
+	"Arkansas"	"05"	"28 years"	"28"	"Person injured in unspecified motor-vehicle accident, traffic"	"V89.2"	13	102642	Unreliable
+	"Arkansas"	"05"	"28 years"	"28"	"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X42"	11	102642	Unreliable
+	"Arkansas"	"05"	"28 years"	"28"	"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X44"	10	102642	Unreliable
+	"Arkansas"	"05"	"28 years"	"28"	"Intentional self-harm by hanging, strangulation and suffocation"	"X70"	16	102642	Unreliable
+	"Arkansas"	"05"	"28 years"	"28"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	17	102642	Unreliable
+	"Arkansas"	"05"	"28 years"	"28"	"Assault by other and unspecified firearm discharge"	"X95"	30	102642	29.2
+	"Arkansas"	"05"	"29 years"	"29"	"Person injured in unspecified motor-vehicle accident, traffic"	"V89.2"	15	101076	Unreliable
+	"Arkansas"	"05"	"29 years"	"29"	"Accidental poisoning by and exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic drugs, not elsewhere classified"	"X41"	10	101076	Unreliable
+	"Arkansas"	"05"	"29 years"	"29"	"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X42"	15	101076	Unreliable
+	"Arkansas"	"05"	"29 years"	"29"	"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X44"	16	101076	Unreliable
+	"Arkansas"	"05"	"29 years"	"29"	"Intentional self-harm by hanging, strangulation and suffocation"	"X70"	13	101076	Unreliable
+	"Arkansas"	"05"	"29 years"	"29"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	16	101076	Unreliable
+	"Arkansas"	"05"	"29 years"	"29"	"Assault by other and unspecified firearm discharge"	"X95"	25	101076	24.7
+	"Arkansas"	"05"	"30 years"	"30"	"Person injured in collision between other specified motor vehicles (traffic)"	"V87.7"	12	98283	Unreliable
+	"Arkansas"	"05"	"30 years"	"30"	"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X42"	11	98283	Unreliable
+	"Arkansas"	"05"	"30 years"	"30"	"Intentional self-harm by hanging, strangulation and suffocation"	"X70"	16	98283	Unreliable
+	"Arkansas"	"05"	"30 years"	"30"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	14	98283	Unreliable
+	"Arkansas"	"05"	"30 years"	"30"	"Assault by other and unspecified firearm discharge"	"X95"	18	98283	Unreliable
+	"Arkansas"	"05"	"31 years"	"31"	"Person injured in unspecified motor-vehicle accident, traffic"	"V89.2"	15	96410	Unreliable
+	"Arkansas"	"05"	"31 years"	"31"	"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X42"	11	96410	Unreliable
+	"Arkansas"	"05"	"31 years"	"31"	"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X44"	19	96410	Unreliable
+	"Arkansas"	"05"	"31 years"	"31"	"Intentional self-harm by hanging, strangulation and suffocation"	"X70"	22	96410	22.8
+	"Arkansas"	"05"	"31 years"	"31"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	13	96410	Unreliable
+	"Arkansas"	"05"	"31 years"	"31"	"Assault by other and unspecified firearm discharge"	"X95"	15	96410	Unreliable
+	"Arkansas"	"05"	"32 years"	"32"	"Person injured in unspecified motor-vehicle accident, traffic"	"V89.2"	11	94645	Unreliable
+	"Arkansas"	"05"	"32 years"	"32"	"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X44"	16	94645	Unreliable
+	"Arkansas"	"05"	"32 years"	"32"	"Intentional self-harm by hanging, strangulation and suffocation"	"X70"	14	94645	Unreliable
+	"Arkansas"	"05"	"32 years"	"32"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	23	94645	24.3
+	"Arkansas"	"05"	"32 years"	"32"	"Assault by other and unspecified firearm discharge"	"X95"	15	94645	Unreliable
+	"Arkansas"	"05"	"33 years"	"33"	"Person injured in unspecified motor-vehicle accident, traffic"	"V89.2"	10	94620	Unreliable
+	"Arkansas"	"05"	"33 years"	"33"	"Accidental poisoning by and exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic drugs, not elsewhere classified"	"X41"	12	94620	Unreliable
+	"Arkansas"	"05"	"33 years"	"33"	"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X42"	11	94620	Unreliable
+	"Arkansas"	"05"	"33 years"	"33"	"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X44"	16	94620	Unreliable
+	"Arkansas"	"05"	"33 years"	"33"	"Intentional self-harm by hanging, strangulation and suffocation"	"X70"	22	94620	23.3
+	"Arkansas"	"05"	"33 years"	"33"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	12	94620	Unreliable
+	"Arkansas"	"05"	"33 years"	"33"	"Assault by other and unspecified firearm discharge"	"X95"	26	94620	27.5
+	"Arkansas"	"05"	"34 years"	"34"	"Acute myocardial infarction, unspecified"	"I21.9"	10	95309	Unreliable
+	"Arkansas"	"05"	"34 years"	"34"	"Person injured in unspecified motor-vehicle accident, traffic"	"V89.2"	11	95309	Unreliable
+	"Arkansas"	"05"	"34 years"	"34"	"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X42"	16	95309	Unreliable
+	"Arkansas"	"05"	"34 years"	"34"	"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X44"	19	95309	Unreliable
+	"Arkansas"	"05"	"34 years"	"34"	"Intentional self-harm by hanging, strangulation and suffocation"	"X70"	19	95309	Unreliable
+	"Arkansas"	"05"	"34 years"	"34"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	14	95309	Unreliable
+	"Arkansas"	"05"	"34 years"	"34"	"Assault by other and unspecified firearm discharge"	"X95"	22	95309	23.1
+	"Arkansas"	"05"	"35 years"	"35"	"Acute myocardial infarction, unspecified"	"I21.9"	11	95109	Unreliable
+	"Arkansas"	"05"	"35 years"	"35"	"Person injured in unspecified motor-vehicle accident, traffic"	"V89.2"	16	95109	Unreliable
+	"Arkansas"	"05"	"35 years"	"35"	"Accidental poisoning by and exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic drugs, not elsewhere classified"	"X41"	16	95109	Unreliable
+	"Arkansas"	"05"	"35 years"	"35"	"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X42"	11	95109	Unreliable
+	"Arkansas"	"05"	"35 years"	"35"	"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X44"	15	95109	Unreliable
+	"Arkansas"	"05"	"35 years"	"35"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	18	95109	Unreliable
+	"Arkansas"	"05"	"35 years"	"35"	"Assault by other and unspecified firearm discharge"	"X95"	17	95109	Unreliable
+	"Arkansas"	"05"	"36 years"	"36"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	10	96316	Unreliable
+	"Arkansas"	"05"	"36 years"	"36"	"Acute myocardial infarction, unspecified"	"I21.9"	13	96316	Unreliable
+	"Arkansas"	"05"	"36 years"	"36"	"Accidental poisoning by and exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic drugs, not elsewhere classified"	"X41"	12	96316	Unreliable
+	"Arkansas"	"05"	"36 years"	"36"	"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X44"	19	96316	Unreliable
+	"Arkansas"	"05"	"36 years"	"36"	"Intentional self-harm by hanging, strangulation and suffocation"	"X70"	22	96316	22.8
+	"Arkansas"	"05"	"36 years"	"36"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	15	96316	Unreliable
+	"Arkansas"	"05"	"36 years"	"36"	"Assault by other and unspecified firearm discharge"	"X95"	19	96316	Unreliable
+	"Arkansas"	"05"	"37 years"	"37"	"Acute myocardial infarction, unspecified"	"I21.9"	18	95833	Unreliable
+	"Arkansas"	"05"	"37 years"	"37"	"Person injured in unspecified motor-vehicle accident, traffic"	"V89.2"	17	95833	Unreliable
+	"Arkansas"	"05"	"37 years"	"37"	"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X44"	16	95833	Unreliable
+	"Arkansas"	"05"	"37 years"	"37"	"Intentional self-harm by hanging, strangulation and suffocation"	"X70"	21	95833	21.9
+	"Arkansas"	"05"	"37 years"	"37"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	12	95833	Unreliable
+	"Arkansas"	"05"	"37 years"	"37"	"Assault by other and unspecified firearm discharge"	"X95"	20	95833	20.9
+	"Arkansas"	"05"	"38 years"	"38"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	10	94435	Unreliable
+	"Arkansas"	"05"	"38 years"	"38"	"Acute myocardial infarction, unspecified"	"I21.9"	19	94435	Unreliable
+	"Arkansas"	"05"	"38 years"	"38"	"Person injured in unspecified motor-vehicle accident, traffic"	"V89.2"	14	94435	Unreliable
+	"Arkansas"	"05"	"38 years"	"38"	"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X44"	14	94435	Unreliable
+	"Arkansas"	"05"	"38 years"	"38"	"Intentional self-harm by hanging, strangulation and suffocation"	"X70"	13	94435	Unreliable
+	"Arkansas"	"05"	"38 years"	"38"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	18	94435	Unreliable
+	"Arkansas"	"05"	"38 years"	"38"	"Assault by other and unspecified firearm discharge"	"X95"	14	94435	Unreliable
+	"Arkansas"	"05"	"39 years"	"39"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	12	92965	Unreliable
+	"Arkansas"	"05"	"39 years"	"39"	"Acute myocardial infarction, unspecified"	"I21.9"	21	92965	22.6
+	"Arkansas"	"05"	"39 years"	"39"	"Person injured in unspecified motor-vehicle accident, traffic"	"V89.2"	14	92965	Unreliable
+	"Arkansas"	"05"	"39 years"	"39"	"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X44"	13	92965	Unreliable
+	"Arkansas"	"05"	"39 years"	"39"	"Intentional self-harm by hanging, strangulation and suffocation"	"X70"	17	92965	Unreliable
+	"Arkansas"	"05"	"39 years"	"39"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	20	92965	21.5
+	"Arkansas"	"05"	"39 years"	"39"	"Assault by other and unspecified firearm discharge"	"X95"	25	92965	26.9
+	"Arkansas"	"05"	"40 years"	"40"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	11	90671	Unreliable
+	"Arkansas"	"05"	"40 years"	"40"	"Acute myocardial infarction, unspecified"	"I21.9"	35	90671	38.6
+	"Arkansas"	"05"	"40 years"	"40"	"Person injured in unspecified motor-vehicle accident, traffic"	"V89.2"	12	90671	Unreliable
+	"Arkansas"	"05"	"40 years"	"40"	"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X44"	18	90671	Unreliable
+	"Arkansas"	"05"	"40 years"	"40"	"Intentional self-harm by hanging, strangulation and suffocation"	"X70"	13	90671	Unreliable
+	"Arkansas"	"05"	"40 years"	"40"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	18	90671	Unreliable
+	"Arkansas"	"05"	"40 years"	"40"	"Assault by other and unspecified firearm discharge"	"X95"	19	90671	Unreliable
+	"Arkansas"	"05"	"41 years"	"41"	"Acute myocardial infarction, unspecified"	"I21.9"	29	88935	32.6
+	"Arkansas"	"05"	"41 years"	"41"	"Person injured in unspecified motor-vehicle accident, traffic"	"V89.2"	13	88935	Unreliable
+	"Arkansas"	"05"	"41 years"	"41"	"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X44"	11	88935	Unreliable
+	"Arkansas"	"05"	"41 years"	"41"	"Intentional self-harm by hanging, strangulation and suffocation"	"X70"	12	88935	Unreliable
+	"Arkansas"	"05"	"41 years"	"41"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	18	88935	Unreliable
+	"Arkansas"	"05"	"41 years"	"41"	"Assault by other and unspecified firearm discharge"	"X95"	13	88935	Unreliable
+	"Arkansas"	"05"	"42 years"	"42"	"Unspecified diabetes mellitus, without complications"	"E14.9"	10	87552	Unreliable
+	"Arkansas"	"05"	"42 years"	"42"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	11	87552	Unreliable
+	"Arkansas"	"05"	"42 years"	"42"	"Acute myocardial infarction, unspecified"	"I21.9"	37	87552	42.3
+	"Arkansas"	"05"	"42 years"	"42"	"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X44"	11	87552	Unreliable
+	"Arkansas"	"05"	"42 years"	"42"	"Intentional self-harm by hanging, strangulation and suffocation"	"X70"	10	87552	Unreliable
+	"Arkansas"	"05"	"42 years"	"42"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	15	87552	Unreliable
+	"Arkansas"	"05"	"42 years"	"42"	"Assault by other and unspecified firearm discharge"	"X95"	11	87552	Unreliable
+	"Arkansas"	"05"	"43 years"	"43"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	15	87266	Unreliable
+	"Arkansas"	"05"	"43 years"	"43"	"Acute myocardial infarction, unspecified"	"I21.9"	37	87266	42.4
+	"Arkansas"	"05"	"43 years"	"43"	"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X44"	13	87266	Unreliable
+	"Arkansas"	"05"	"43 years"	"43"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	11	87266	Unreliable
+	"Arkansas"	"05"	"43 years"	"43"	"Assault by other and unspecified firearm discharge"	"X95"	15	87266	Unreliable
+	"Arkansas"	"05"	"44 years"	"44"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	10	86643	Unreliable
+	"Arkansas"	"05"	"44 years"	"44"	"Acute myocardial infarction, unspecified"	"I21.9"	33	86643	38.1
+	"Arkansas"	"05"	"44 years"	"44"	"Atherosclerotic heart disease"	"I25.1"	11	86643	Unreliable
+	"Arkansas"	"05"	"44 years"	"44"	"Person injured in unspecified motor-vehicle accident, traffic"	"V89.2"	12	86643	Unreliable
+	"Arkansas"	"05"	"44 years"	"44"	"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X44"	14	86643	Unreliable
+	"Arkansas"	"05"	"44 years"	"44"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	17	86643	Unreliable
+	"Arkansas"	"05"	"44 years"	"44"	"Assault by other and unspecified firearm discharge"	"X95"	14	86643	Unreliable
+	"Arkansas"	"05"	"45 years"	"45"	"Unspecified diabetes mellitus, without complications"	"E14.9"	16	88722	Unreliable
+	"Arkansas"	"05"	"45 years"	"45"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	25	88722	28.2
+	"Arkansas"	"05"	"45 years"	"45"	"Acute myocardial infarction, unspecified"	"I21.9"	52	88722	58.6
+	"Arkansas"	"05"	"45 years"	"45"	"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X44"	11	88722	Unreliable
+	"Arkansas"	"05"	"45 years"	"45"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	14	88722	Unreliable
+	"Arkansas"	"05"	"45 years"	"45"	"Assault by other and unspecified firearm discharge"	"X95"	10	88722	Unreliable
+	"Arkansas"	"05"	"46 years"	"46"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	16	90057	Unreliable
+	"Arkansas"	"05"	"46 years"	"46"	"Acute myocardial infarction, unspecified"	"I21.9"	45	90057	50.0
+	"Arkansas"	"05"	"46 years"	"46"	"Atherosclerotic heart disease"	"I25.1"	19	90057	Unreliable
+	"Arkansas"	"05"	"46 years"	"46"	"Alcoholic cirrhosis of liver"	"K70.3"	16	90057	Unreliable
+	"Arkansas"	"05"	"46 years"	"46"	"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X44"	14	90057	Unreliable
+	"Arkansas"	"05"	"46 years"	"46"	"Intentional self-harm by hanging, strangulation and suffocation"	"X70"	16	90057	Unreliable
+	"Arkansas"	"05"	"46 years"	"46"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	15	90057	Unreliable
+	"Arkansas"	"05"	"47 years"	"47"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	12	90834	Unreliable
+	"Arkansas"	"05"	"47 years"	"47"	"Acute myocardial infarction, unspecified"	"I21.9"	59	90834	65.0
+	"Arkansas"	"05"	"47 years"	"47"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	15	90834	Unreliable
+	"Arkansas"	"05"	"47 years"	"47"	"Alcoholic cirrhosis of liver"	"K70.3"	18	90834	Unreliable
+	"Arkansas"	"05"	"47 years"	"47"	"Other and unspecified cirrhosis of liver"	"K74.6"	10	90834	Unreliable
+	"Arkansas"	"05"	"47 years"	"47"	"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X44"	13	90834	Unreliable
+	"Arkansas"	"05"	"47 years"	"47"	"Intentional self-harm by hanging, strangulation and suffocation"	"X70"	15	90834	Unreliable
+	"Arkansas"	"05"	"47 years"	"47"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	22	90834	24.2
+	"Arkansas"	"05"	"48 years"	"48"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	10	90603	Unreliable
+	"Arkansas"	"05"	"48 years"	"48"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	15	90603	Unreliable
+	"Arkansas"	"05"	"48 years"	"48"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	18	90603	Unreliable
+	"Arkansas"	"05"	"48 years"	"48"	"Acute myocardial infarction, unspecified"	"I21.9"	66	90603	72.8
+	"Arkansas"	"05"	"48 years"	"48"	"Atherosclerotic heart disease"	"I25.1"	17	90603	Unreliable
+	"Arkansas"	"05"	"48 years"	"48"	"COVID-19"	"U07.1"	10	90603	Unreliable
+	"Arkansas"	"05"	"48 years"	"48"	"Intentional self-harm by hanging, strangulation and suffocation"	"X70"	11	90603	Unreliable
+	"Arkansas"	"05"	"48 years"	"48"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	11	90603	Unreliable
+	"Arkansas"	"05"	"49 years"	"49"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	10	89970	Unreliable
+	"Arkansas"	"05"	"49 years"	"49"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	11	89970	Unreliable
+	"Arkansas"	"05"	"49 years"	"49"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	23	89970	25.6
+	"Arkansas"	"05"	"49 years"	"49"	"Unspecified diabetes mellitus, without complications"	"E14.9"	18	89970	Unreliable
+	"Arkansas"	"05"	"49 years"	"49"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	25	89970	27.8
+	"Arkansas"	"05"	"49 years"	"49"	"Acute myocardial infarction, unspecified"	"I21.9"	75	89970	83.4
+	"Arkansas"	"05"	"49 years"	"49"	"Atherosclerotic heart disease"	"I25.1"	14	89970	Unreliable
+	"Arkansas"	"05"	"49 years"	"49"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	10	89970	Unreliable
+	"Arkansas"	"05"	"49 years"	"49"	"Alcoholic cirrhosis of liver"	"K70.3"	10	89970	Unreliable
+	"Arkansas"	"05"	"49 years"	"49"	"COVID-19"	"U07.1"	12	89970	Unreliable
+	"Arkansas"	"05"	"49 years"	"49"	"Person injured in unspecified motor-vehicle accident, traffic"	"V89.2"	11	89970	Unreliable
+	"Arkansas"	"05"	"49 years"	"49"	"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X44"	11	89970	Unreliable
+	"Arkansas"	"05"	"49 years"	"49"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	10	89970	Unreliable
+	"Arkansas"	"05"	"49 years"	"49"	"Assault by other and unspecified firearm discharge"	"X95"	13	89970	Unreliable
+	"Arkansas"	"05"	"50 years"	"50"	"Septicaemia, unspecified"	"A41.9"	10	88735	Unreliable
+	"Arkansas"	"05"	"50 years"	"50"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	15	88735	Unreliable
+	"Arkansas"	"05"	"50 years"	"50"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	27	88735	30.4
+	"Arkansas"	"05"	"50 years"	"50"	"Unspecified diabetes mellitus, without complications"	"E14.9"	18	88735	Unreliable
+	"Arkansas"	"05"	"50 years"	"50"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	18	88735	Unreliable
+	"Arkansas"	"05"	"50 years"	"50"	"Acute myocardial infarction, unspecified"	"I21.9"	78	88735	87.9
+	"Arkansas"	"05"	"50 years"	"50"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	11	88735	Unreliable
+	"Arkansas"	"05"	"50 years"	"50"	"Alcoholic cirrhosis of liver"	"K70.3"	16	88735	Unreliable
+	"Arkansas"	"05"	"50 years"	"50"	"Other and unspecified cirrhosis of liver"	"K74.6"	10	88735	Unreliable
+	"Arkansas"	"05"	"50 years"	"50"	"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X44"	12	88735	Unreliable
+	"Arkansas"	"05"	"50 years"	"50"	"Intentional self-harm by rifle, shotgun and larger firearm discharge"	"X73"	10	88735	Unreliable
+	"Arkansas"	"05"	"50 years"	"50"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	17	88735	Unreliable
+	"Arkansas"	"05"	"51 years"	"51"	"Septicaemia, unspecified"	"A41.9"	14	88998	Unreliable
+	"Arkansas"	"05"	"51 years"	"51"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	17	88998	Unreliable
+	"Arkansas"	"05"	"51 years"	"51"	"Unspecified diabetes mellitus, without complications"	"E14.9"	23	88998	25.8
+	"Arkansas"	"05"	"51 years"	"51"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	27	88998	30.3
+	"Arkansas"	"05"	"51 years"	"51"	"Acute myocardial infarction, unspecified"	"I21.9"	92	88998	103.4
+	"Arkansas"	"05"	"51 years"	"51"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	18	88998	Unreliable
+	"Arkansas"	"05"	"51 years"	"51"	"Atherosclerotic heart disease"	"I25.1"	21	88998	23.6
+	"Arkansas"	"05"	"51 years"	"51"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	18	88998	Unreliable
+	"Arkansas"	"05"	"51 years"	"51"	"Alcoholic cirrhosis of liver"	"K70.3"	10	88998	Unreliable
+	"Arkansas"	"05"	"51 years"	"51"	"Other and unspecified cirrhosis of liver"	"K74.6"	10	88998	Unreliable
+	"Arkansas"	"05"	"51 years"	"51"	"COVID-19"	"U07.1"	13	88998	Unreliable
+	"Arkansas"	"05"	"51 years"	"51"	"Person injured in unspecified motor-vehicle accident, traffic"	"V89.2"	13	88998	Unreliable
+	"Arkansas"	"05"	"51 years"	"51"	"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X44"	10	88998	Unreliable
+	"Arkansas"	"05"	"51 years"	"51"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	15	88998	Unreliable
+	"Arkansas"	"05"	"52 years"	"52"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	10	90496	Unreliable
+	"Arkansas"	"05"	"52 years"	"52"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	37	90496	40.9
+	"Arkansas"	"05"	"52 years"	"52"	"Unspecified diabetes mellitus, without complications"	"E14.9"	17	90496	Unreliable
+	"Arkansas"	"05"	"52 years"	"52"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	24	90496	26.5
+	"Arkansas"	"05"	"52 years"	"52"	"Acute myocardial infarction, unspecified"	"I21.9"	95	90496	105.0
+	"Arkansas"	"05"	"52 years"	"52"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	22	90496	24.3
+	"Arkansas"	"05"	"52 years"	"52"	"Atherosclerotic heart disease"	"I25.1"	25	90496	27.6
+	"Arkansas"	"05"	"52 years"	"52"	"Congestive heart failure"	"I50.0"	10	90496	Unreliable
+	"Arkansas"	"05"	"52 years"	"52"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	20	90496	22.1
+	"Arkansas"	"05"	"52 years"	"52"	"Alcoholic cirrhosis of liver"	"K70.3"	11	90496	Unreliable
+	"Arkansas"	"05"	"52 years"	"52"	"Other and unspecified cirrhosis of liver"	"K74.6"	13	90496	Unreliable
+	"Arkansas"	"05"	"52 years"	"52"	"COVID-19"	"U07.1"	11	90496	Unreliable
+	"Arkansas"	"05"	"52 years"	"52"	"Person injured in unspecified motor-vehicle accident, traffic"	"V89.2"	11	90496	Unreliable
+	"Arkansas"	"05"	"52 years"	"52"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	13	90496	Unreliable
+	"Arkansas"	"05"	"53 years"	"53"	"Septicaemia, unspecified"	"A41.9"	12	93775	Unreliable
+	"Arkansas"	"05"	"53 years"	"53"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	21	93775	22.4
+	"Arkansas"	"05"	"53 years"	"53"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	11	93775	Unreliable
+	"Arkansas"	"05"	"53 years"	"53"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	29	93775	30.9
+	"Arkansas"	"05"	"53 years"	"53"	"Brain, unspecified - Malignant neoplasms"	"C71.9"	11	93775	Unreliable
+	"Arkansas"	"05"	"53 years"	"53"	"Malignant neoplasm without specification of site"	"C80"	10	93775	Unreliable
+	"Arkansas"	"05"	"53 years"	"53"	"Unspecified diabetes mellitus, without complications"	"E14.9"	18	93775	Unreliable
+	"Arkansas"	"05"	"53 years"	"53"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	19	93775	Unreliable
+	"Arkansas"	"05"	"53 years"	"53"	"Acute myocardial infarction, unspecified"	"I21.9"	102	93775	108.8
+	"Arkansas"	"05"	"53 years"	"53"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	17	93775	Unreliable
+	"Arkansas"	"05"	"53 years"	"53"	"Atherosclerotic heart disease"	"I25.1"	18	93775	Unreliable
+	"Arkansas"	"05"	"53 years"	"53"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	25	93775	26.7
+	"Arkansas"	"05"	"53 years"	"53"	"Alcoholic cirrhosis of liver"	"K70.3"	13	93775	Unreliable
+	"Arkansas"	"05"	"53 years"	"53"	"Other and unspecified cirrhosis of liver"	"K74.6"	11	93775	Unreliable
+	"Arkansas"	"05"	"53 years"	"53"	"Chronic kidney disease, stage 5"	"N18.5"	10	93775	Unreliable
+	"Arkansas"	"05"	"53 years"	"53"	"COVID-19"	"U07.1"	15	93775	Unreliable
+	"Arkansas"	"05"	"53 years"	"53"	"Person injured in unspecified motor-vehicle accident, traffic"	"V89.2"	10	93775	Unreliable
+	"Arkansas"	"05"	"53 years"	"53"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	23	93775	24.5
+	"Arkansas"	"05"	"53 years"	"53"	"Assault by other and unspecified firearm discharge"	"X95"	10	93775	Unreliable
+	"Arkansas"	"05"	"54 years"	"54"	"Septicaemia, unspecified"	"A41.9"	15	94871	Unreliable
+	"Arkansas"	"05"	"54 years"	"54"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	15	94871	Unreliable
+	"Arkansas"	"05"	"54 years"	"54"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	12	94871	Unreliable
+	"Arkansas"	"05"	"54 years"	"54"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	60	94871	63.2
+	"Arkansas"	"05"	"54 years"	"54"	"Unspecified diabetes mellitus, without complications"	"E14.9"	25	94871	26.4
+	"Arkansas"	"05"	"54 years"	"54"	"Essential (primary) hypertension"	"I10"	10	94871	Unreliable
+	"Arkansas"	"05"	"54 years"	"54"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	28	94871	29.5
+	"Arkansas"	"05"	"54 years"	"54"	"Acute myocardial infarction, unspecified"	"I21.9"	135	94871	142.3
+	"Arkansas"	"05"	"54 years"	"54"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	17	94871	Unreliable
+	"Arkansas"	"05"	"54 years"	"54"	"Atherosclerotic heart disease"	"I25.1"	24	94871	25.3
+	"Arkansas"	"05"	"54 years"	"54"	"Congestive heart failure"	"I50.0"	17	94871	Unreliable
+	"Arkansas"	"05"	"54 years"	"54"	"Stroke, not specified as haemorrhage or infarction"	"I64"	15	94871	Unreliable
+	"Arkansas"	"05"	"54 years"	"54"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	31	94871	32.7
+	"Arkansas"	"05"	"54 years"	"54"	"Alcoholic cirrhosis of liver"	"K70.3"	17	94871	Unreliable
+	"Arkansas"	"05"	"54 years"	"54"	"Other and unspecified cirrhosis of liver"	"K74.6"	18	94871	Unreliable
+	"Arkansas"	"05"	"54 years"	"54"	"COVID-19"	"U07.1"	13	94871	Unreliable
+	"Arkansas"	"05"	"54 years"	"54"	"Person injured in unspecified motor-vehicle accident, traffic"	"V89.2"	16	94871	Unreliable
+	"Arkansas"	"05"	"54 years"	"54"	"Accidental poisoning by and exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic drugs, not elsewhere classified"	"X41"	10	94871	Unreliable
+	"Arkansas"	"05"	"54 years"	"54"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	13	94871	Unreliable
+	"Arkansas"	"05"	"55 years"	"55"	"Septicaemia, unspecified"	"A41.9"	11	96464	Unreliable
+	"Arkansas"	"05"	"55 years"	"55"	"Oesophagus, unspecified - Malignant neoplasms"	"C15.9"	14	96464	Unreliable
+	"Arkansas"	"05"	"55 years"	"55"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	19	96464	Unreliable
+	"Arkansas"	"05"	"55 years"	"55"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	15	96464	Unreliable
+	"Arkansas"	"05"	"55 years"	"55"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	70	96464	72.6
+	"Arkansas"	"05"	"55 years"	"55"	"Malignant neoplasm of kidney, except renal pelvis"	"C64"	10	96464	Unreliable
+	"Arkansas"	"05"	"55 years"	"55"	"Unspecified diabetes mellitus, without complications"	"E14.9"	26	96464	27.0
+	"Arkansas"	"05"	"55 years"	"55"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	31	96464	32.1
+	"Arkansas"	"05"	"55 years"	"55"	"Acute myocardial infarction, unspecified"	"I21.9"	138	96464	143.1
+	"Arkansas"	"05"	"55 years"	"55"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	36	96464	37.3
+	"Arkansas"	"05"	"55 years"	"55"	"Atherosclerotic heart disease"	"I25.1"	36	96464	37.3
+	"Arkansas"	"05"	"55 years"	"55"	"Congestive heart failure"	"I50.0"	11	96464	Unreliable
+	"Arkansas"	"05"	"55 years"	"55"	"Stroke, not specified as haemorrhage or infarction"	"I64"	15	96464	Unreliable
+	"Arkansas"	"05"	"55 years"	"55"	"Pneumonia, unspecified"	"J18.9"	12	96464	Unreliable
+	"Arkansas"	"05"	"55 years"	"55"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	42	96464	43.5
+	"Arkansas"	"05"	"55 years"	"55"	"Alcoholic cirrhosis of liver"	"K70.3"	10	96464	Unreliable
+	"Arkansas"	"05"	"55 years"	"55"	"Other and unspecified cirrhosis of liver"	"K74.6"	15	96464	Unreliable
+	"Arkansas"	"05"	"55 years"	"55"	"Chronic kidney disease, stage 5"	"N18.5"	13	96464	Unreliable
+	"Arkansas"	"05"	"55 years"	"55"	"COVID-19"	"U07.1"	17	96464	Unreliable
+	"Arkansas"	"05"	"55 years"	"55"	"Person injured in unspecified motor-vehicle accident, traffic"	"V89.2"	13	96464	Unreliable
+	"Arkansas"	"05"	"55 years"	"55"	"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X44"	11	96464	Unreliable
+	"Arkansas"	"05"	"55 years"	"55"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	21	96464	21.8
+	"Arkansas"	"05"	"55 years"	"55"	"Assault by other and unspecified firearm discharge"	"X95"	11	96464	Unreliable
+	"Arkansas"	"05"	"56 years"	"56"	"Septicaemia, unspecified"	"A41.9"	17	97351	Unreliable
+	"Arkansas"	"05"	"56 years"	"56"	"Oesophagus, unspecified - Malignant neoplasms"	"C15.9"	18	97351	Unreliable
+	"Arkansas"	"05"	"56 years"	"56"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	17	97351	Unreliable
+	"Arkansas"	"05"	"56 years"	"56"	"Liver cell carcinoma - Malignant neoplasms"	"C22.0"	11	97351	Unreliable
+	"Arkansas"	"05"	"56 years"	"56"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	17	97351	Unreliable
+	"Arkansas"	"05"	"56 years"	"56"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	66	97351	67.8
+	"Arkansas"	"05"	"56 years"	"56"	"Malignant neoplasm of kidney, except renal pelvis"	"C64"	10	97351	Unreliable
+	"Arkansas"	"05"	"56 years"	"56"	"Malignant neoplasm without specification of site"	"C80"	10	97351	Unreliable
+	"Arkansas"	"05"	"56 years"	"56"	"Unspecified diabetes mellitus, without complications"	"E14.9"	33	97351	33.9
+	"Arkansas"	"05"	"56 years"	"56"	"Essential (primary) hypertension"	"I10"	11	97351	Unreliable
+	"Arkansas"	"05"	"56 years"	"56"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	27	97351	27.7
+	"Arkansas"	"05"	"56 years"	"56"	"Acute myocardial infarction, unspecified"	"I21.9"	160	97351	164.4
+	"Arkansas"	"05"	"56 years"	"56"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	26	97351	26.7
+	"Arkansas"	"05"	"56 years"	"56"	"Atherosclerotic heart disease"	"I25.1"	45	97351	46.2
+	"Arkansas"	"05"	"56 years"	"56"	"Congestive heart failure"	"I50.0"	14	97351	Unreliable
+	"Arkansas"	"05"	"56 years"	"56"	"Stroke, not specified as haemorrhage or infarction"	"I64"	15	97351	Unreliable
+	"Arkansas"	"05"	"56 years"	"56"	"Pneumonia, unspecified"	"J18.9"	10	97351	Unreliable
+	"Arkansas"	"05"	"56 years"	"56"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	62	97351	63.7
+	"Arkansas"	"05"	"56 years"	"56"	"Alcoholic cirrhosis of liver"	"K70.3"	30	97351	30.8
+	"Arkansas"	"05"	"56 years"	"56"	"Other and unspecified cirrhosis of liver"	"K74.6"	22	97351	22.6
+	"Arkansas"	"05"	"56 years"	"56"	"COVID-19"	"U07.1"	13	97351	Unreliable
+	"Arkansas"	"05"	"56 years"	"56"	"Person injured in unspecified motor-vehicle accident, traffic"	"V89.2"	14	97351	Unreliable
+	"Arkansas"	"05"	"56 years"	"56"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	23	97351	23.6
+	"Arkansas"	"05"	"56 years"	"56"	"Assault by other and unspecified firearm discharge"	"X95"	14	97351	Unreliable
+	"Arkansas"	"05"	"57 years"	"57"	"Septicaemia, unspecified"	"A41.9"	16	96493	Unreliable
+	"Arkansas"	"05"	"57 years"	"57"	"Oesophagus, unspecified - Malignant neoplasms"	"C15.9"	16	96493	Unreliable
+	"Arkansas"	"05"	"57 years"	"57"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	16	96493	Unreliable
+	"Arkansas"	"05"	"57 years"	"57"	"Liver cell carcinoma - Malignant neoplasms"	"C22.0"	10	96493	Unreliable
+	"Arkansas"	"05"	"57 years"	"57"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	23	96493	23.8
+	"Arkansas"	"05"	"57 years"	"57"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	95	96493	98.5
+	"Arkansas"	"05"	"57 years"	"57"	"Brain, unspecified - Malignant neoplasms"	"C71.9"	10	96493	Unreliable
+	"Arkansas"	"05"	"57 years"	"57"	"Malignant neoplasm without specification of site"	"C80"	23	96493	23.8
+	"Arkansas"	"05"	"57 years"	"57"	"Unspecified diabetes mellitus, without complications"	"E14.9"	41	96493	42.5
+	"Arkansas"	"05"	"57 years"	"57"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	42	96493	43.5
+	"Arkansas"	"05"	"57 years"	"57"	"Acute myocardial infarction, unspecified"	"I21.9"	181	96493	187.6
+	"Arkansas"	"05"	"57 years"	"57"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	24	96493	24.9
+	"Arkansas"	"05"	"57 years"	"57"	"Atherosclerotic heart disease"	"I25.1"	50	96493	51.8
+	"Arkansas"	"05"	"57 years"	"57"	"Congestive heart failure"	"I50.0"	12	96493	Unreliable
+	"Arkansas"	"05"	"57 years"	"57"	"Stroke, not specified as haemorrhage or infarction"	"I64"	18	96493	Unreliable
+	"Arkansas"	"05"	"57 years"	"57"	"Pneumonia, unspecified"	"J18.9"	11	96493	Unreliable
+	"Arkansas"	"05"	"57 years"	"57"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	52	96493	53.9
+	"Arkansas"	"05"	"57 years"	"57"	"Alcoholic cirrhosis of liver"	"K70.3"	19	96493	Unreliable
+	"Arkansas"	"05"	"57 years"	"57"	"Other and unspecified cirrhosis of liver"	"K74.6"	17	96493	Unreliable
+	"Arkansas"	"05"	"57 years"	"57"	"Chronic kidney disease, stage 5"	"N18.5"	15	96493	Unreliable
+	"Arkansas"	"05"	"57 years"	"57"	"COVID-19"	"U07.1"	20	96493	20.7
+	"Arkansas"	"05"	"57 years"	"57"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	25	96493	25.9
+	"Arkansas"	"05"	"58 years"	"58"	"Septicaemia, unspecified"	"A41.9"	22	95957	22.9
+	"Arkansas"	"05"	"58 years"	"58"	"Oesophagus, unspecified - Malignant neoplasms"	"C15.9"	10	95957	Unreliable
+	"Arkansas"	"05"	"58 years"	"58"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	19	95957	Unreliable
+	"Arkansas"	"05"	"58 years"	"58"	"Liver cell carcinoma - Malignant neoplasms"	"C22.0"	12	95957	Unreliable
+	"Arkansas"	"05"	"58 years"	"58"	"Liver, unspecified - Malignant neoplasms"	"C22.9"	10	95957	Unreliable
+	"Arkansas"	"05"	"58 years"	"58"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	23	95957	24.0
+	"Arkansas"	"05"	"58 years"	"58"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	98	95957	102.1
+	"Arkansas"	"05"	"58 years"	"58"	"Malignant neoplasm of prostate"	"C61"	13	95957	Unreliable
+	"Arkansas"	"05"	"58 years"	"58"	"Malignant neoplasm of kidney, except renal pelvis"	"C64"	13	95957	Unreliable
+	"Arkansas"	"05"	"58 years"	"58"	"Brain, unspecified - Malignant neoplasms"	"C71.9"	10	95957	Unreliable
+	"Arkansas"	"05"	"58 years"	"58"	"Malignant neoplasm without specification of site"	"C80"	17	95957	Unreliable
+	"Arkansas"	"05"	"58 years"	"58"	"Unspecified diabetes mellitus, with renal complications"	"E14.2"	12	95957	Unreliable
+	"Arkansas"	"05"	"58 years"	"58"	"Unspecified diabetes mellitus, without complications"	"E14.9"	25	95957	26.1
+	"Arkansas"	"05"	"58 years"	"58"	"Mental and behavioural disorders due to use of alcohol, dependence syndrome"	"F10.2"	10	95957	Unreliable
+	"Arkansas"	"05"	"58 years"	"58"	"Anoxic brain damage, not elsewhere classified"	"G93.1"	12	95957	Unreliable
+	"Arkansas"	"05"	"58 years"	"58"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	35	95957	36.5
+	"Arkansas"	"05"	"58 years"	"58"	"Acute myocardial infarction, unspecified"	"I21.9"	195	95957	203.2
+	"Arkansas"	"05"	"58 years"	"58"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	21	95957	21.9
+	"Arkansas"	"05"	"58 years"	"58"	"Atherosclerotic heart disease"	"I25.1"	48	95957	50.0
+	"Arkansas"	"05"	"58 years"	"58"	"Congestive heart failure"	"I50.0"	16	95957	Unreliable
+	"Arkansas"	"05"	"58 years"	"58"	"Stroke, not specified as haemorrhage or infarction"	"I64"	15	95957	Unreliable
+	"Arkansas"	"05"	"58 years"	"58"	"Pneumonia, unspecified"	"J18.9"	15	95957	Unreliable
+	"Arkansas"	"05"	"58 years"	"58"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	41	95957	42.7
+	"Arkansas"	"05"	"58 years"	"58"	"Alcoholic cirrhosis of liver"	"K70.3"	18	95957	Unreliable
+	"Arkansas"	"05"	"58 years"	"58"	"Other and unspecified cirrhosis of liver"	"K74.6"	20	95957	20.8
+	"Arkansas"	"05"	"58 years"	"58"	"COVID-19"	"U07.1"	19	95957	Unreliable
+	"Arkansas"	"05"	"58 years"	"58"	"Person injured in unspecified motor-vehicle accident, traffic"	"V89.2"	11	95957	Unreliable
+	"Arkansas"	"05"	"58 years"	"58"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	18	95957	Unreliable
+	"Arkansas"	"05"	"58 years"	"58"	"Assault by other and unspecified firearm discharge"	"X95"	10	95957	Unreliable
+	"Arkansas"	"05"	"59 years"	"59"	"Septicaemia, unspecified"	"A41.9"	13	94403	Unreliable
+	"Arkansas"	"05"	"59 years"	"59"	"Oesophagus, unspecified - Malignant neoplasms"	"C15.9"	13	94403	Unreliable
+	"Arkansas"	"05"	"59 years"	"59"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	35	94403	37.1
+	"Arkansas"	"05"	"59 years"	"59"	"Liver cell carcinoma - Malignant neoplasms"	"C22.0"	13	94403	Unreliable
+	"Arkansas"	"05"	"59 years"	"59"	"Liver, unspecified - Malignant neoplasms"	"C22.9"	11	94403	Unreliable
+	"Arkansas"	"05"	"59 years"	"59"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	18	94403	Unreliable
+	"Arkansas"	"05"	"59 years"	"59"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	103	94403	109.1
+	"Arkansas"	"05"	"59 years"	"59"	"Malignant neoplasm of kidney, except renal pelvis"	"C64"	18	94403	Unreliable
+	"Arkansas"	"05"	"59 years"	"59"	"Malignant neoplasm without specification of site"	"C80"	15	94403	Unreliable
+	"Arkansas"	"05"	"59 years"	"59"	"Unspecified diabetes mellitus, with renal complications"	"E14.2"	12	94403	Unreliable
+	"Arkansas"	"05"	"59 years"	"59"	"Unspecified diabetes mellitus, without complications"	"E14.9"	30	94403	31.8
+	"Arkansas"	"05"	"59 years"	"59"	"Essential (primary) hypertension"	"I10"	17	94403	Unreliable
+	"Arkansas"	"05"	"59 years"	"59"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	40	94403	42.4
+	"Arkansas"	"05"	"59 years"	"59"	"Acute myocardial infarction, unspecified"	"I21.9"	195	94403	206.6
+	"Arkansas"	"05"	"59 years"	"59"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	19	94403	Unreliable
+	"Arkansas"	"05"	"59 years"	"59"	"Atherosclerotic heart disease"	"I25.1"	45	94403	47.7
+	"Arkansas"	"05"	"59 years"	"59"	"Ischaemic cardiomyopathy"	"I25.5"	10	94403	Unreliable
+	"Arkansas"	"05"	"59 years"	"59"	"Congestive heart failure"	"I50.0"	21	94403	22.2
+	"Arkansas"	"05"	"59 years"	"59"	"Stroke, not specified as haemorrhage or infarction"	"I64"	24	94403	25.4
+	"Arkansas"	"05"	"59 years"	"59"	"Pneumonia, unspecified"	"J18.9"	10	94403	Unreliable
+	"Arkansas"	"05"	"59 years"	"59"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	69	94403	73.1
+	"Arkansas"	"05"	"59 years"	"59"	"Alcoholic cirrhosis of liver"	"K70.3"	26	94403	27.5
+	"Arkansas"	"05"	"59 years"	"59"	"Other and unspecified cirrhosis of liver"	"K74.6"	19	94403	Unreliable
+	"Arkansas"	"05"	"59 years"	"59"	"Chronic kidney disease, stage 5"	"N18.5"	14	94403	Unreliable
+	"Arkansas"	"05"	"59 years"	"59"	"COVID-19"	"U07.1"	30	94403	31.8
+	"Arkansas"	"05"	"59 years"	"59"	"Person injured in unspecified motor-vehicle accident, traffic"	"V89.2"	11	94403	Unreliable
+	"Arkansas"	"05"	"59 years"	"59"	"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X44"	14	94403	Unreliable
+	"Arkansas"	"05"	"59 years"	"59"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	19	94403	Unreliable
+	"Arkansas"	"05"	"60 years"	"60"	"Septicaemia, unspecified"	"A41.9"	17	92880	Unreliable
+	"Arkansas"	"05"	"60 years"	"60"	"Oesophagus, unspecified - Malignant neoplasms"	"C15.9"	17	92880	Unreliable
+	"Arkansas"	"05"	"60 years"	"60"	"Stomach, unspecified - Malignant neoplasms"	"C16.9"	10	92880	Unreliable
+	"Arkansas"	"05"	"60 years"	"60"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	28	92880	30.1
+	"Arkansas"	"05"	"60 years"	"60"	"Liver cell carcinoma - Malignant neoplasms"	"C22.0"	16	92880	Unreliable
+	"Arkansas"	"05"	"60 years"	"60"	"Liver, unspecified - Malignant neoplasms"	"C22.9"	10	92880	Unreliable
+	"Arkansas"	"05"	"60 years"	"60"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	26	92880	28.0
+	"Arkansas"	"05"	"60 years"	"60"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	140	92880	150.7
+	"Arkansas"	"05"	"60 years"	"60"	"Malignant neoplasm of prostate"	"C61"	14	92880	Unreliable
+	"Arkansas"	"05"	"60 years"	"60"	"Malignant neoplasm of kidney, except renal pelvis"	"C64"	17	92880	Unreliable
+	"Arkansas"	"05"	"60 years"	"60"	"Brain, unspecified - Malignant neoplasms"	"C71.9"	10	92880	Unreliable
+	"Arkansas"	"05"	"60 years"	"60"	"Malignant neoplasm without specification of site"	"C80"	20	92880	21.5
+	"Arkansas"	"05"	"60 years"	"60"	"Multiple myeloma - Malignant neoplasms"	"C90.0"	10	92880	Unreliable
+	"Arkansas"	"05"	"60 years"	"60"	"Unspecified diabetes mellitus, without complications"	"E14.9"	49	92880	52.8
+	"Arkansas"	"05"	"60 years"	"60"	"Essential (primary) hypertension"	"I10"	14	92880	Unreliable
+	"Arkansas"	"05"	"60 years"	"60"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	43	92880	46.3
+	"Arkansas"	"05"	"60 years"	"60"	"Acute myocardial infarction, unspecified"	"I21.9"	193	92880	207.8
+	"Arkansas"	"05"	"60 years"	"60"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	29	92880	31.2
+	"Arkansas"	"05"	"60 years"	"60"	"Atherosclerotic heart disease"	"I25.1"	47	92880	50.6
+	"Arkansas"	"05"	"60 years"	"60"	"Congestive heart failure"	"I50.0"	13	92880	Unreliable
+	"Arkansas"	"05"	"60 years"	"60"	"Intracerebral haemorrhage, unspecified"	"I61.9"	10	92880	Unreliable
+	"Arkansas"	"05"	"60 years"	"60"	"Cerebral infarction, unspecified"	"I63.9"	12	92880	Unreliable
+	"Arkansas"	"05"	"60 years"	"60"	"Stroke, not specified as haemorrhage or infarction"	"I64"	16	92880	Unreliable
+	"Arkansas"	"05"	"60 years"	"60"	"Pneumonia, unspecified"	"J18.9"	18	92880	Unreliable
+	"Arkansas"	"05"	"60 years"	"60"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	78	92880	84.0
+	"Arkansas"	"05"	"60 years"	"60"	"Alcoholic cirrhosis of liver"	"K70.3"	20	92880	21.5
+	"Arkansas"	"05"	"60 years"	"60"	"Other and unspecified cirrhosis of liver"	"K74.6"	23	92880	24.8
+	"Arkansas"	"05"	"60 years"	"60"	"Chronic kidney disease, stage 5"	"N18.5"	10	92880	Unreliable
+	"Arkansas"	"05"	"60 years"	"60"	"COVID-19"	"U07.1"	26	92880	28.0
+	"Arkansas"	"05"	"60 years"	"60"	"Person injured in unspecified motor-vehicle accident, traffic"	"V89.2"	16	92880	Unreliable
+	"Arkansas"	"05"	"60 years"	"60"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	20	92880	21.5
+	"Arkansas"	"05"	"61 years"	"61"	"Septicaemia, unspecified"	"A41.9"	11	90561	Unreliable
+	"Arkansas"	"05"	"61 years"	"61"	"Oesophagus, unspecified - Malignant neoplasms"	"C15.9"	24	90561	26.5
+	"Arkansas"	"05"	"61 years"	"61"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	27	90561	29.8
+	"Arkansas"	"05"	"61 years"	"61"	"Liver cell carcinoma - Malignant neoplasms"	"C22.0"	20	90561	22.1
+	"Arkansas"	"05"	"61 years"	"61"	"Liver, unspecified - Malignant neoplasms"	"C22.9"	16	90561	Unreliable
+	"Arkansas"	"05"	"61 years"	"61"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	26	90561	28.7
+	"Arkansas"	"05"	"61 years"	"61"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	129	90561	142.4
+	"Arkansas"	"05"	"61 years"	"61"	"Malignant neoplasm of prostate"	"C61"	20	90561	22.1
+	"Arkansas"	"05"	"61 years"	"61"	"Brain, unspecified - Malignant neoplasms"	"C71.9"	13	90561	Unreliable
+	"Arkansas"	"05"	"61 years"	"61"	"Malignant neoplasm without specification of site"	"C80"	18	90561	Unreliable
+	"Arkansas"	"05"	"61 years"	"61"	"Unspecified diabetes mellitus, with renal complications"	"E14.2"	13	90561	Unreliable
+	"Arkansas"	"05"	"61 years"	"61"	"Unspecified diabetes mellitus, without complications"	"E14.9"	35	90561	38.6
+	"Arkansas"	"05"	"61 years"	"61"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	38	90561	42.0
+	"Arkansas"	"05"	"61 years"	"61"	"Acute myocardial infarction, unspecified"	"I21.9"	221	90561	244.0
+	"Arkansas"	"05"	"61 years"	"61"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	38	90561	42.0
+	"Arkansas"	"05"	"61 years"	"61"	"Atherosclerotic heart disease"	"I25.1"	59	90561	65.1
+	"Arkansas"	"05"	"61 years"	"61"	"Congestive heart failure"	"I50.0"	26	90561	28.7
+	"Arkansas"	"05"	"61 years"	"61"	"Stroke, not specified as haemorrhage or infarction"	"I64"	14	90561	Unreliable
+	"Arkansas"	"05"	"61 years"	"61"	"Pneumonia, unspecified"	"J18.9"	22	90561	24.3
+	"Arkansas"	"05"	"61 years"	"61"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	10	90561	Unreliable
+	"Arkansas"	"05"	"61 years"	"61"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	78	90561	86.1
+	"Arkansas"	"05"	"61 years"	"61"	"Alcoholic cirrhosis of liver"	"K70.3"	24	90561	26.5
+	"Arkansas"	"05"	"61 years"	"61"	"Other and unspecified cirrhosis of liver"	"K74.6"	23	90561	25.4
+	"Arkansas"	"05"	"61 years"	"61"	"Chronic kidney disease, stage 5"	"N18.5"	14	90561	Unreliable
+	"Arkansas"	"05"	"61 years"	"61"	"COVID-19"	"U07.1"	23	90561	25.4
+	"Arkansas"	"05"	"61 years"	"61"	"Person injured in unspecified motor-vehicle accident, traffic"	"V89.2"	10	90561	Unreliable
+	"Arkansas"	"05"	"61 years"	"61"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	20	90561	22.1
+	"Arkansas"	"05"	"62 years"	"62"	"Septicaemia, unspecified"	"A41.9"	26	88332	29.4
+	"Arkansas"	"05"	"62 years"	"62"	"Oesophagus, unspecified - Malignant neoplasms"	"C15.9"	20	88332	22.6
+	"Arkansas"	"05"	"62 years"	"62"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	25	88332	28.3
+	"Arkansas"	"05"	"62 years"	"62"	"Liver cell carcinoma - Malignant neoplasms"	"C22.0"	18	88332	Unreliable
+	"Arkansas"	"05"	"62 years"	"62"	"Liver, unspecified - Malignant neoplasms"	"C22.9"	19	88332	Unreliable
+	"Arkansas"	"05"	"62 years"	"62"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	31	88332	35.1
+	"Arkansas"	"05"	"62 years"	"62"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	140	88332	158.5
+	"Arkansas"	"05"	"62 years"	"62"	"Malignant neoplasm of prostate"	"C61"	19	88332	Unreliable
+	"Arkansas"	"05"	"62 years"	"62"	"Malignant neoplasm of kidney, except renal pelvis"	"C64"	15	88332	Unreliable
+	"Arkansas"	"05"	"62 years"	"62"	"Brain, unspecified - Malignant neoplasms"	"C71.9"	13	88332	Unreliable
+	"Arkansas"	"05"	"62 years"	"62"	"Malignant neoplasm without specification of site"	"C80"	24	88332	27.2
+	"Arkansas"	"05"	"62 years"	"62"	"Unspecified diabetes mellitus, with renal complications"	"E14.2"	14	88332	Unreliable
+	"Arkansas"	"05"	"62 years"	"62"	"Unspecified diabetes mellitus, without complications"	"E14.9"	41	88332	46.4
+	"Arkansas"	"05"	"62 years"	"62"	"Essential (primary) hypertension"	"I10"	10	88332	Unreliable
+	"Arkansas"	"05"	"62 years"	"62"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	50	88332	56.6
+	"Arkansas"	"05"	"62 years"	"62"	"Acute myocardial infarction, unspecified"	"I21.9"	239	88332	270.6
+	"Arkansas"	"05"	"62 years"	"62"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	30	88332	34.0
+	"Arkansas"	"05"	"62 years"	"62"	"Atherosclerotic heart disease"	"I25.1"	74	88332	83.8
+	"Arkansas"	"05"	"62 years"	"62"	"Cardiomyopathy, unspecified"	"I42.9"	10	88332	Unreliable
+	"Arkansas"	"05"	"62 years"	"62"	"Congestive heart failure"	"I50.0"	17	88332	Unreliable
+	"Arkansas"	"05"	"62 years"	"62"	"Heart failure, unspecified"	"I50.9"	11	88332	Unreliable
+	"Arkansas"	"05"	"62 years"	"62"	"Stroke, not specified as haemorrhage or infarction"	"I64"	25	88332	28.3
+	"Arkansas"	"05"	"62 years"	"62"	"Pneumonia, unspecified"	"J18.9"	22	88332	24.9
+	"Arkansas"	"05"	"62 years"	"62"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	83	88332	94.0
+	"Arkansas"	"05"	"62 years"	"62"	"Alcoholic cirrhosis of liver"	"K70.3"	22	88332	24.9
+	"Arkansas"	"05"	"62 years"	"62"	"Other and unspecified cirrhosis of liver"	"K74.6"	22	88332	24.9
+	"Arkansas"	"05"	"62 years"	"62"	"Other ill-defined and unspecified causes of mortality"	"R99"	10	88332	Unreliable
+	"Arkansas"	"05"	"62 years"	"62"	"COVID-19"	"U07.1"	32	88332	36.2
+	"Arkansas"	"05"	"62 years"	"62"	"Person injured in unspecified motor-vehicle accident, traffic"	"V89.2"	14	88332	Unreliable
+	"Arkansas"	"05"	"62 years"	"62"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	20	88332	22.6
+	"Arkansas"	"05"	"63 years"	"63"	"Septicaemia, unspecified"	"A41.9"	20	86392	23.2
+	"Arkansas"	"05"	"63 years"	"63"	"Oesophagus, unspecified - Malignant neoplasms"	"C15.9"	24	86392	27.8
+	"Arkansas"	"05"	"63 years"	"63"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	31	86392	35.9
+	"Arkansas"	"05"	"63 years"	"63"	"Malignant neoplasm of rectum"	"C20"	11	86392	Unreliable
+	"Arkansas"	"05"	"63 years"	"63"	"Liver cell carcinoma - Malignant neoplasms"	"C22.0"	18	86392	Unreliable
+	"Arkansas"	"05"	"63 years"	"63"	"Liver, unspecified - Malignant neoplasms"	"C22.9"	19	86392	Unreliable
+	"Arkansas"	"05"	"63 years"	"63"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	35	86392	40.5
+	"Arkansas"	"05"	"63 years"	"63"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	172	86392	199.1
+	"Arkansas"	"05"	"63 years"	"63"	"Malignant neoplasm of prostate"	"C61"	26	86392	30.1
+	"Arkansas"	"05"	"63 years"	"63"	"Malignant neoplasm of kidney, except renal pelvis"	"C64"	16	86392	Unreliable
+	"Arkansas"	"05"	"63 years"	"63"	"Bladder, unspecified - Malignant neoplasms"	"C67.9"	12	86392	Unreliable
+	"Arkansas"	"05"	"63 years"	"63"	"Brain, unspecified - Malignant neoplasms"	"C71.9"	11	86392	Unreliable
+	"Arkansas"	"05"	"63 years"	"63"	"Malignant neoplasm without specification of site"	"C80"	15	86392	Unreliable
+	"Arkansas"	"05"	"63 years"	"63"	"Multiple myeloma - Malignant neoplasms"	"C90.0"	10	86392	Unreliable
+	"Arkansas"	"05"	"63 years"	"63"	"Unspecified diabetes mellitus, with renal complications"	"E14.2"	12	86392	Unreliable
+	"Arkansas"	"05"	"63 years"	"63"	"Unspecified diabetes mellitus, without complications"	"E14.9"	63	86392	72.9
+	"Arkansas"	"05"	"63 years"	"63"	"Motor neuron disease"	"G12.2"	10	86392	Unreliable
+	"Arkansas"	"05"	"63 years"	"63"	"Essential (primary) hypertension"	"I10"	18	86392	Unreliable
+	"Arkansas"	"05"	"63 years"	"63"	"Hypertensive heart disease with (congestive) heart failure"	"I11.0"	12	86392	Unreliable
+	"Arkansas"	"05"	"63 years"	"63"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	44	86392	50.9
+	"Arkansas"	"05"	"63 years"	"63"	"Acute myocardial infarction, unspecified"	"I21.9"	227	86392	262.8
+	"Arkansas"	"05"	"63 years"	"63"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	35	86392	40.5
+	"Arkansas"	"05"	"63 years"	"63"	"Atherosclerotic heart disease"	"I25.1"	68	86392	78.7
+	"Arkansas"	"05"	"63 years"	"63"	"Pulmonary embolism without mention of acute cor pulmonale"	"I26.9"	11	86392	Unreliable
+	"Arkansas"	"05"	"63 years"	"63"	"Congestive heart failure"	"I50.0"	28	86392	32.4
+	"Arkansas"	"05"	"63 years"	"63"	"Stroke, not specified as haemorrhage or infarction"	"I64"	29	86392	33.6
+	"Arkansas"	"05"	"63 years"	"63"	"Pneumonia, unspecified"	"J18.9"	14	86392	Unreliable
+	"Arkansas"	"05"	"63 years"	"63"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	12	86392	Unreliable
+	"Arkansas"	"05"	"63 years"	"63"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	97	86392	112.3
+	"Arkansas"	"05"	"63 years"	"63"	"Alcoholic cirrhosis of liver"	"K70.3"	21	86392	24.3
+	"Arkansas"	"05"	"63 years"	"63"	"Other and unspecified cirrhosis of liver"	"K74.6"	16	86392	Unreliable
+	"Arkansas"	"05"	"63 years"	"63"	"Chronic kidney disease, stage 5"	"N18.5"	17	86392	Unreliable
+	"Arkansas"	"05"	"63 years"	"63"	"COVID-19"	"U07.1"	29	86392	33.6
+	"Arkansas"	"05"	"63 years"	"63"	"Person injured in unspecified motor-vehicle accident, traffic"	"V89.2"	11	86392	Unreliable
+	"Arkansas"	"05"	"63 years"	"63"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	17	86392	Unreliable
+	"Arkansas"	"05"	"64 years"	"64"	"Septicaemia, unspecified"	"A41.9"	24	83682	28.7
+	"Arkansas"	"05"	"64 years"	"64"	"Oesophagus, unspecified - Malignant neoplasms"	"C15.9"	20	83682	23.9
+	"Arkansas"	"05"	"64 years"	"64"	"Stomach, unspecified - Malignant neoplasms"	"C16.9"	15	83682	Unreliable
+	"Arkansas"	"05"	"64 years"	"64"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	27	83682	32.3
+	"Arkansas"	"05"	"64 years"	"64"	"Liver cell carcinoma - Malignant neoplasms"	"C22.0"	27	83682	32.3
+	"Arkansas"	"05"	"64 years"	"64"	"Liver, unspecified - Malignant neoplasms"	"C22.9"	21	83682	25.1
+	"Arkansas"	"05"	"64 years"	"64"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	29	83682	34.7
+	"Arkansas"	"05"	"64 years"	"64"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	144	83682	172.1
+	"Arkansas"	"05"	"64 years"	"64"	"Malignant neoplasm of prostate"	"C61"	24	83682	28.7
+	"Arkansas"	"05"	"64 years"	"64"	"Malignant neoplasm of kidney, except renal pelvis"	"C64"	22	83682	26.3
+	"Arkansas"	"05"	"64 years"	"64"	"Brain, unspecified - Malignant neoplasms"	"C71.9"	10	83682	Unreliable
+	"Arkansas"	"05"	"64 years"	"64"	"Malignant neoplasm without specification of site"	"C80"	26	83682	31.1
+	"Arkansas"	"05"	"64 years"	"64"	"Non-insulin-dependent diabetes mellitus, without complications"	"E11.9"	12	83682	Unreliable
+	"Arkansas"	"05"	"64 years"	"64"	"Unspecified diabetes mellitus, with renal complications"	"E14.2"	11	83682	Unreliable
+	"Arkansas"	"05"	"64 years"	"64"	"Unspecified diabetes mellitus, without complications"	"E14.9"	49	83682	58.6
+	"Arkansas"	"05"	"64 years"	"64"	"Essential (primary) hypertension"	"I10"	10	83682	Unreliable
+	"Arkansas"	"05"	"64 years"	"64"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	46	83682	55.0
+	"Arkansas"	"05"	"64 years"	"64"	"Acute myocardial infarction, unspecified"	"I21.9"	241	83682	288.0
+	"Arkansas"	"05"	"64 years"	"64"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	31	83682	37.0
+	"Arkansas"	"05"	"64 years"	"64"	"Atherosclerotic heart disease"	"I25.1"	75	83682	89.6
+	"Arkansas"	"05"	"64 years"	"64"	"Cardiac arrhythmia, unspecified"	"I49.9"	11	83682	Unreliable
+	"Arkansas"	"05"	"64 years"	"64"	"Congestive heart failure"	"I50.0"	27	83682	32.3
+	"Arkansas"	"05"	"64 years"	"64"	"Stroke, not specified as haemorrhage or infarction"	"I64"	32	83682	38.2
+	"Arkansas"	"05"	"64 years"	"64"	"Pneumonia, unspecified"	"J18.9"	18	83682	Unreliable
+	"Arkansas"	"05"	"64 years"	"64"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	22	83682	26.3
+	"Arkansas"	"05"	"64 years"	"64"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	83	83682	99.2
+	"Arkansas"	"05"	"64 years"	"64"	"Alcoholic cirrhosis of liver"	"K70.3"	15	83682	Unreliable
+	"Arkansas"	"05"	"64 years"	"64"	"Other and unspecified cirrhosis of liver"	"K74.6"	24	83682	28.7
+	"Arkansas"	"05"	"64 years"	"64"	"Chronic kidney disease, stage 5"	"N18.5"	16	83682	Unreliable
+	"Arkansas"	"05"	"64 years"	"64"	"COVID-19"	"U07.1"	30	83682	35.9
+	"Arkansas"	"05"	"64 years"	"64"	"Person injured in unspecified motor-vehicle accident, traffic"	"V89.2"	10	83682	Unreliable
+	"Arkansas"	"05"	"64 years"	"64"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	22	83682	26.3
+	"Arkansas"	"05"	"65 years"	"65"	"Septicaemia, unspecified"	"A41.9"	24	81274	29.5
+	"Arkansas"	"05"	"65 years"	"65"	"Oesophagus, unspecified - Malignant neoplasms"	"C15.9"	19	81274	Unreliable
+	"Arkansas"	"05"	"65 years"	"65"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	29	81274	35.7
+	"Arkansas"	"05"	"65 years"	"65"	"Liver cell carcinoma - Malignant neoplasms"	"C22.0"	11	81274	Unreliable
+	"Arkansas"	"05"	"65 years"	"65"	"Liver, unspecified - Malignant neoplasms"	"C22.9"	16	81274	Unreliable
+	"Arkansas"	"05"	"65 years"	"65"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	26	81274	32.0
+	"Arkansas"	"05"	"65 years"	"65"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	167	81274	205.5
+	"Arkansas"	"05"	"65 years"	"65"	"Malignant neoplasm of prostate"	"C61"	24	81274	29.5
+	"Arkansas"	"05"	"65 years"	"65"	"Malignant neoplasm of kidney, except renal pelvis"	"C64"	17	81274	Unreliable
+	"Arkansas"	"05"	"65 years"	"65"	"Bladder, unspecified - Malignant neoplasms"	"C67.9"	10	81274	Unreliable
+	"Arkansas"	"05"	"65 years"	"65"	"Brain, unspecified - Malignant neoplasms"	"C71.9"	11	81274	Unreliable
+	"Arkansas"	"05"	"65 years"	"65"	"Malignant neoplasm without specification of site"	"C80"	27	81274	33.2
+	"Arkansas"	"05"	"65 years"	"65"	"Acute myeloid leukaemia - Malignant neoplasms"	"C92.0"	10	81274	Unreliable
+	"Arkansas"	"05"	"65 years"	"65"	"Malignant neoplasms of independent (primary) multiple sites"	"C97"	10	81274	Unreliable
+	"Arkansas"	"05"	"65 years"	"65"	"Unspecified diabetes mellitus, with renal complications"	"E14.2"	15	81274	Unreliable
+	"Arkansas"	"05"	"65 years"	"65"	"Unspecified diabetes mellitus, without complications"	"E14.9"	40	81274	49.2
+	"Arkansas"	"05"	"65 years"	"65"	"Essential (primary) hypertension"	"I10"	19	81274	Unreliable
+	"Arkansas"	"05"	"65 years"	"65"	"Hypertensive heart disease with (congestive) heart failure"	"I11.0"	12	81274	Unreliable
+	"Arkansas"	"05"	"65 years"	"65"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	34	81274	41.8
+	"Arkansas"	"05"	"65 years"	"65"	"Acute myocardial infarction, unspecified"	"I21.9"	224	81274	275.6
+	"Arkansas"	"05"	"65 years"	"65"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	24	81274	29.5
+	"Arkansas"	"05"	"65 years"	"65"	"Atherosclerotic heart disease"	"I25.1"	64	81274	78.7
+	"Arkansas"	"05"	"65 years"	"65"	"Congestive heart failure"	"I50.0"	27	81274	33.2
+	"Arkansas"	"05"	"65 years"	"65"	"Stroke, not specified as haemorrhage or infarction"	"I64"	32	81274	39.4
+	"Arkansas"	"05"	"65 years"	"65"	"Pneumonia, unspecified"	"J18.9"	20	81274	24.6
+	"Arkansas"	"05"	"65 years"	"65"	"Emphysema, unspecified"	"J43.9"	10	81274	Unreliable
+	"Arkansas"	"05"	"65 years"	"65"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	14	81274	Unreliable
+	"Arkansas"	"05"	"65 years"	"65"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	116	81274	142.7
+	"Arkansas"	"05"	"65 years"	"65"	"Alcoholic cirrhosis of liver"	"K70.3"	18	81274	Unreliable
+	"Arkansas"	"05"	"65 years"	"65"	"Other and unspecified cirrhosis of liver"	"K74.6"	17	81274	Unreliable
+	"Arkansas"	"05"	"65 years"	"65"	"Chronic kidney disease, stage 5"	"N18.5"	17	81274	Unreliable
+	"Arkansas"	"05"	"65 years"	"65"	"COVID-19"	"U07.1"	34	81274	41.8
+	"Arkansas"	"05"	"65 years"	"65"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	16	81274	Unreliable
+	"Arkansas"	"05"	"66 years"	"66"	"Septicaemia, unspecified"	"A41.9"	26	78663	33.1
+	"Arkansas"	"05"	"66 years"	"66"	"Oesophagus, unspecified - Malignant neoplasms"	"C15.9"	18	78663	Unreliable
+	"Arkansas"	"05"	"66 years"	"66"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	31	78663	39.4
+	"Arkansas"	"05"	"66 years"	"66"	"Liver cell carcinoma - Malignant neoplasms"	"C22.0"	14	78663	Unreliable
+	"Arkansas"	"05"	"66 years"	"66"	"Liver, unspecified - Malignant neoplasms"	"C22.9"	21	78663	26.7
+	"Arkansas"	"05"	"66 years"	"66"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	43	78663	54.7
+	"Arkansas"	"05"	"66 years"	"66"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	170	78663	216.1
+	"Arkansas"	"05"	"66 years"	"66"	"Malignant neoplasm of prostate"	"C61"	27	78663	34.3
+	"Arkansas"	"05"	"66 years"	"66"	"Malignant neoplasm of kidney, except renal pelvis"	"C64"	20	78663	25.4
+	"Arkansas"	"05"	"66 years"	"66"	"Bladder, unspecified - Malignant neoplasms"	"C67.9"	10	78663	Unreliable
+	"Arkansas"	"05"	"66 years"	"66"	"Brain, unspecified - Malignant neoplasms"	"C71.9"	12	78663	Unreliable
+	"Arkansas"	"05"	"66 years"	"66"	"Malignant neoplasm without specification of site"	"C80"	19	78663	Unreliable
+	"Arkansas"	"05"	"66 years"	"66"	"Non-insulin-dependent diabetes mellitus, without complications"	"E11.9"	16	78663	Unreliable
+	"Arkansas"	"05"	"66 years"	"66"	"Unspecified diabetes mellitus, with renal complications"	"E14.2"	21	78663	26.7
+	"Arkansas"	"05"	"66 years"	"66"	"Unspecified diabetes mellitus, without complications"	"E14.9"	41	78663	52.1
+	"Arkansas"	"05"	"66 years"	"66"	"Alzheimer disease, unspecified"	"G30.9"	13	78663	Unreliable
+	"Arkansas"	"05"	"66 years"	"66"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	43	78663	54.7
+	"Arkansas"	"05"	"66 years"	"66"	"Acute myocardial infarction, unspecified"	"I21.9"	245	78663	311.5
+	"Arkansas"	"05"	"66 years"	"66"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	33	78663	42.0
+	"Arkansas"	"05"	"66 years"	"66"	"Atherosclerotic heart disease"	"I25.1"	79	78663	100.4
+	"Arkansas"	"05"	"66 years"	"66"	"Congestive heart failure"	"I50.0"	17	78663	Unreliable
+	"Arkansas"	"05"	"66 years"	"66"	"Intracerebral haemorrhage, unspecified"	"I61.9"	14	78663	Unreliable
+	"Arkansas"	"05"	"66 years"	"66"	"Stroke, not specified as haemorrhage or infarction"	"I64"	25	78663	31.8
+	"Arkansas"	"05"	"66 years"	"66"	"Pneumonia, unspecified"	"J18.9"	21	78663	26.7
+	"Arkansas"	"05"	"66 years"	"66"	"Emphysema, unspecified"	"J43.9"	13	78663	Unreliable
+	"Arkansas"	"05"	"66 years"	"66"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	15	78663	Unreliable
+	"Arkansas"	"05"	"66 years"	"66"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	104	78663	132.2
+	"Arkansas"	"05"	"66 years"	"66"	"Other interstitial pulmonary diseases with fibrosis"	"J84.1"	10	78663	Unreliable
+	"Arkansas"	"05"	"66 years"	"66"	"Alcoholic cirrhosis of liver"	"K70.3"	13	78663	Unreliable
+	"Arkansas"	"05"	"66 years"	"66"	"Other and unspecified cirrhosis of liver"	"K74.6"	19	78663	Unreliable
+	"Arkansas"	"05"	"66 years"	"66"	"Chronic kidney disease, stage 5"	"N18.5"	22	78663	28.0
+	"Arkansas"	"05"	"66 years"	"66"	"COVID-19"	"U07.1"	46	78663	58.5
+	"Arkansas"	"05"	"66 years"	"66"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	18	78663	Unreliable
+	"Arkansas"	"05"	"67 years"	"67"	"Septicaemia, unspecified"	"A41.9"	37	76217	48.5
+	"Arkansas"	"05"	"67 years"	"67"	"Oesophagus, unspecified - Malignant neoplasms"	"C15.9"	33	76217	43.3
+	"Arkansas"	"05"	"67 years"	"67"	"Stomach, unspecified - Malignant neoplasms"	"C16.9"	10	76217	Unreliable
+	"Arkansas"	"05"	"67 years"	"67"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	42	76217	55.1
+	"Arkansas"	"05"	"67 years"	"67"	"Liver cell carcinoma - Malignant neoplasms"	"C22.0"	18	76217	Unreliable
+	"Arkansas"	"05"	"67 years"	"67"	"Liver, unspecified - Malignant neoplasms"	"C22.9"	14	76217	Unreliable
+	"Arkansas"	"05"	"67 years"	"67"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	32	76217	42.0
+	"Arkansas"	"05"	"67 years"	"67"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	134	76217	175.8
+	"Arkansas"	"05"	"67 years"	"67"	"Malignant neoplasm of prostate"	"C61"	30	76217	39.4
+	"Arkansas"	"05"	"67 years"	"67"	"Malignant neoplasm of kidney, except renal pelvis"	"C64"	17	76217	Unreliable
+	"Arkansas"	"05"	"67 years"	"67"	"Bladder, unspecified - Malignant neoplasms"	"C67.9"	11	76217	Unreliable
+	"Arkansas"	"05"	"67 years"	"67"	"Brain, unspecified - Malignant neoplasms"	"C71.9"	13	76217	Unreliable
+	"Arkansas"	"05"	"67 years"	"67"	"Malignant neoplasm without specification of site"	"C80"	26	76217	34.1
+	"Arkansas"	"05"	"67 years"	"67"	"Non-insulin-dependent diabetes mellitus, without complications"	"E11.9"	11	76217	Unreliable
+	"Arkansas"	"05"	"67 years"	"67"	"Unspecified diabetes mellitus, with renal complications"	"E14.2"	17	76217	Unreliable
+	"Arkansas"	"05"	"67 years"	"67"	"Unspecified diabetes mellitus, without complications"	"E14.9"	54	76217	70.9
+	"Arkansas"	"05"	"67 years"	"67"	"Unspecified dementia"	"F03"	10	76217	Unreliable
+	"Arkansas"	"05"	"67 years"	"67"	"Alzheimer disease, unspecified"	"G30.9"	12	76217	Unreliable
+	"Arkansas"	"05"	"67 years"	"67"	"Essential (primary) hypertension"	"I10"	18	76217	Unreliable
+	"Arkansas"	"05"	"67 years"	"67"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	43	76217	56.4
+	"Arkansas"	"05"	"67 years"	"67"	"Acute myocardial infarction, unspecified"	"I21.9"	206	76217	270.3
+	"Arkansas"	"05"	"67 years"	"67"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	39	76217	51.2
+	"Arkansas"	"05"	"67 years"	"67"	"Atherosclerotic heart disease"	"I25.1"	88	76217	115.5
+	"Arkansas"	"05"	"67 years"	"67"	"Congestive heart failure"	"I50.0"	31	76217	40.7
+	"Arkansas"	"05"	"67 years"	"67"	"Heart failure, unspecified"	"I50.9"	14	76217	Unreliable
+	"Arkansas"	"05"	"67 years"	"67"	"Intracerebral haemorrhage, unspecified"	"I61.9"	10	76217	Unreliable
+	"Arkansas"	"05"	"67 years"	"67"	"Cerebral infarction, unspecified"	"I63.9"	10	76217	Unreliable
+	"Arkansas"	"05"	"67 years"	"67"	"Stroke, not specified as haemorrhage or infarction"	"I64"	28	76217	36.7
+	"Arkansas"	"05"	"67 years"	"67"	"Pneumonia, unspecified"	"J18.9"	22	76217	28.9
+	"Arkansas"	"05"	"67 years"	"67"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	16	76217	Unreliable
+	"Arkansas"	"05"	"67 years"	"67"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	109	76217	143.0
+	"Arkansas"	"05"	"67 years"	"67"	"Alcoholic cirrhosis of liver"	"K70.3"	22	76217	28.9
+	"Arkansas"	"05"	"67 years"	"67"	"Other and unspecified cirrhosis of liver"	"K74.6"	25	76217	32.8
+	"Arkansas"	"05"	"67 years"	"67"	"Chronic kidney disease, stage 5"	"N18.5"	11	76217	Unreliable
+	"Arkansas"	"05"	"67 years"	"67"	"COVID-19"	"U07.1"	39	76217	51.2
+	"Arkansas"	"05"	"67 years"	"67"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	10	76217	Unreliable
+	"Arkansas"	"05"	"68 years"	"68"	"Septicaemia, unspecified"	"A41.9"	24	74387	32.3
+	"Arkansas"	"05"	"68 years"	"68"	"Oesophagus, unspecified - Malignant neoplasms"	"C15.9"	16	74387	Unreliable
+	"Arkansas"	"05"	"68 years"	"68"	"Stomach, unspecified - Malignant neoplasms"	"C16.9"	10	74387	Unreliable
+	"Arkansas"	"05"	"68 years"	"68"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	28	74387	37.6
+	"Arkansas"	"05"	"68 years"	"68"	"Liver, unspecified - Malignant neoplasms"	"C22.9"	17	74387	Unreliable
+	"Arkansas"	"05"	"68 years"	"68"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	36	74387	48.4
+	"Arkansas"	"05"	"68 years"	"68"	"Upper lobe, bronchus or lung - Malignant neoplasms"	"C34.1"	11	74387	Unreliable
+	"Arkansas"	"05"	"68 years"	"68"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	202	74387	271.6
+	"Arkansas"	"05"	"68 years"	"68"	"Malignant neoplasm of prostate"	"C61"	38	74387	51.1
+	"Arkansas"	"05"	"68 years"	"68"	"Malignant neoplasm of kidney, except renal pelvis"	"C64"	19	74387	Unreliable
+	"Arkansas"	"05"	"68 years"	"68"	"Bladder, unspecified - Malignant neoplasms"	"C67.9"	19	74387	Unreliable
+	"Arkansas"	"05"	"68 years"	"68"	"Brain, unspecified - Malignant neoplasms"	"C71.9"	21	74387	28.2
+	"Arkansas"	"05"	"68 years"	"68"	"Malignant neoplasm without specification of site"	"C80"	21	74387	28.2
+	"Arkansas"	"05"	"68 years"	"68"	"Non-insulin-dependent diabetes mellitus, without complications"	"E11.9"	11	74387	Unreliable
+	"Arkansas"	"05"	"68 years"	"68"	"Unspecified diabetes mellitus, with renal complications"	"E14.2"	14	74387	Unreliable
+	"Arkansas"	"05"	"68 years"	"68"	"Unspecified diabetes mellitus, without complications"	"E14.9"	47	74387	63.2
+	"Arkansas"	"05"	"68 years"	"68"	"Unspecified dementia"	"F03"	12	74387	Unreliable
+	"Arkansas"	"05"	"68 years"	"68"	"Motor neuron disease"	"G12.2"	10	74387	Unreliable
+	"Arkansas"	"05"	"68 years"	"68"	"Parkinson disease"	"G20"	13	74387	Unreliable
+	"Arkansas"	"05"	"68 years"	"68"	"Alzheimer disease, unspecified"	"G30.9"	12	74387	Unreliable
+	"Arkansas"	"05"	"68 years"	"68"	"Essential (primary) hypertension"	"I10"	14	74387	Unreliable
+	"Arkansas"	"05"	"68 years"	"68"	"Hypertensive heart disease with (congestive) heart failure"	"I11.0"	15	74387	Unreliable
+	"Arkansas"	"05"	"68 years"	"68"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	36	74387	48.4
+	"Arkansas"	"05"	"68 years"	"68"	"Acute myocardial infarction, unspecified"	"I21.9"	259	74387	348.2
+	"Arkansas"	"05"	"68 years"	"68"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	19	74387	Unreliable
+	"Arkansas"	"05"	"68 years"	"68"	"Atherosclerotic heart disease"	"I25.1"	93	74387	125.0
+	"Arkansas"	"05"	"68 years"	"68"	"Congestive heart failure"	"I50.0"	29	74387	39.0
+	"Arkansas"	"05"	"68 years"	"68"	"Intracerebral haemorrhage, unspecified"	"I61.9"	10	74387	Unreliable
+	"Arkansas"	"05"	"68 years"	"68"	"Stroke, not specified as haemorrhage or infarction"	"I64"	17	74387	Unreliable
+	"Arkansas"	"05"	"68 years"	"68"	"Pneumonia, unspecified"	"J18.9"	30	74387	40.3
+	"Arkansas"	"05"	"68 years"	"68"	"Emphysema, unspecified"	"J43.9"	10	74387	Unreliable
+	"Arkansas"	"05"	"68 years"	"68"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	14	74387	Unreliable
+	"Arkansas"	"05"	"68 years"	"68"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	131	74387	176.1
+	"Arkansas"	"05"	"68 years"	"68"	"Alcoholic cirrhosis of liver"	"K70.3"	15	74387	Unreliable
+	"Arkansas"	"05"	"68 years"	"68"	"Other and unspecified cirrhosis of liver"	"K74.6"	19	74387	Unreliable
+	"Arkansas"	"05"	"68 years"	"68"	"Chronic kidney disease, stage 5"	"N18.5"	18	74387	Unreliable
+	"Arkansas"	"05"	"68 years"	"68"	"COVID-19"	"U07.1"	38	74387	51.1
+	"Arkansas"	"05"	"68 years"	"68"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	10	74387	Unreliable
+	"Arkansas"	"05"	"69 years"	"69"	"Septicaemia, unspecified"	"A41.9"	25	74000	33.8
+	"Arkansas"	"05"	"69 years"	"69"	"Oesophagus, unspecified - Malignant neoplasms"	"C15.9"	18	74000	Unreliable
+	"Arkansas"	"05"	"69 years"	"69"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	33	74000	44.6
+	"Arkansas"	"05"	"69 years"	"69"	"Liver cell carcinoma - Malignant neoplasms"	"C22.0"	14	74000	Unreliable
+	"Arkansas"	"05"	"69 years"	"69"	"Liver, unspecified - Malignant neoplasms"	"C22.9"	18	74000	Unreliable
+	"Arkansas"	"05"	"69 years"	"69"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	32	74000	43.2
+	"Arkansas"	"05"	"69 years"	"69"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	207	74000	279.7
+	"Arkansas"	"05"	"69 years"	"69"	"Malignant neoplasm of prostate"	"C61"	38	74000	51.4
+	"Arkansas"	"05"	"69 years"	"69"	"Malignant neoplasm of kidney, except renal pelvis"	"C64"	18	74000	Unreliable
+	"Arkansas"	"05"	"69 years"	"69"	"Bladder, unspecified - Malignant neoplasms"	"C67.9"	14	74000	Unreliable
+	"Arkansas"	"05"	"69 years"	"69"	"Brain, unspecified - Malignant neoplasms"	"C71.9"	13	74000	Unreliable
+	"Arkansas"	"05"	"69 years"	"69"	"Malignant neoplasm without specification of site"	"C80"	22	74000	29.7
+	"Arkansas"	"05"	"69 years"	"69"	"Multiple myeloma - Malignant neoplasms"	"C90.0"	11	74000	Unreliable
+	"Arkansas"	"05"	"69 years"	"69"	"Malignant neoplasms of independent (primary) multiple sites"	"C97"	15	74000	Unreliable
+	"Arkansas"	"05"	"69 years"	"69"	"Non-insulin-dependent diabetes mellitus, without complications"	"E11.9"	15	74000	Unreliable
+	"Arkansas"	"05"	"69 years"	"69"	"Unspecified diabetes mellitus, with renal complications"	"E14.2"	14	74000	Unreliable
+	"Arkansas"	"05"	"69 years"	"69"	"Unspecified diabetes mellitus, without complications"	"E14.9"	32	74000	43.2
+	"Arkansas"	"05"	"69 years"	"69"	"Unspecified dementia"	"F03"	12	74000	Unreliable
+	"Arkansas"	"05"	"69 years"	"69"	"Parkinson disease"	"G20"	18	74000	Unreliable
+	"Arkansas"	"05"	"69 years"	"69"	"Alzheimer disease, unspecified"	"G30.9"	27	74000	36.5
+	"Arkansas"	"05"	"69 years"	"69"	"Essential (primary) hypertension"	"I10"	12	74000	Unreliable
+	"Arkansas"	"05"	"69 years"	"69"	"Hypertensive heart disease with (congestive) heart failure"	"I11.0"	15	74000	Unreliable
+	"Arkansas"	"05"	"69 years"	"69"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	28	74000	37.8
+	"Arkansas"	"05"	"69 years"	"69"	"Acute subendocardial myocardial infarction"	"I21.4"	10	74000	Unreliable
+	"Arkansas"	"05"	"69 years"	"69"	"Acute myocardial infarction, unspecified"	"I21.9"	275	74000	371.6
+	"Arkansas"	"05"	"69 years"	"69"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	30	74000	40.5
+	"Arkansas"	"05"	"69 years"	"69"	"Atherosclerotic heart disease"	"I25.1"	96	74000	129.7
+	"Arkansas"	"05"	"69 years"	"69"	"Congestive heart failure"	"I50.0"	31	74000	41.9
+	"Arkansas"	"05"	"69 years"	"69"	"Heart failure, unspecified"	"I50.9"	10	74000	Unreliable
+	"Arkansas"	"05"	"69 years"	"69"	"Intracerebral haemorrhage, unspecified"	"I61.9"	13	74000	Unreliable
+	"Arkansas"	"05"	"69 years"	"69"	"Stroke, not specified as haemorrhage or infarction"	"I64"	37	74000	50.0
+	"Arkansas"	"05"	"69 years"	"69"	"Pneumonia, unspecified"	"J18.9"	23	74000	31.1
+	"Arkansas"	"05"	"69 years"	"69"	"Emphysema, unspecified"	"J43.9"	13	74000	Unreliable
+	"Arkansas"	"05"	"69 years"	"69"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	14	74000	Unreliable
+	"Arkansas"	"05"	"69 years"	"69"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	122	74000	164.9
+	"Arkansas"	"05"	"69 years"	"69"	"Alcoholic cirrhosis of liver"	"K70.3"	12	74000	Unreliable
+	"Arkansas"	"05"	"69 years"	"69"	"Other and unspecified cirrhosis of liver"	"K74.6"	19	74000	Unreliable
+	"Arkansas"	"05"	"69 years"	"69"	"Gastrointestinal haemorrhage, unspecified"	"K92.2"	13	74000	Unreliable
+	"Arkansas"	"05"	"69 years"	"69"	"Chronic kidney disease, stage 5"	"N18.5"	24	74000	32.4
+	"Arkansas"	"05"	"69 years"	"69"	"Other ill-defined and unspecified causes of mortality"	"R99"	11	74000	Unreliable
+	"Arkansas"	"05"	"69 years"	"69"	"COVID-19"	"U07.1"	43	74000	58.1
+	"Arkansas"	"05"	"69 years"	"69"	"Unspecified fall"	"W19"	10	74000	Unreliable
+	"Arkansas"	"05"	"69 years"	"69"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	15	74000	Unreliable
+	"Arkansas"	"05"	"70 years"	"70"	"Septicaemia, unspecified"	"A41.9"	29	69626	41.7
+	"Arkansas"	"05"	"70 years"	"70"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	31	69626	44.5
+	"Arkansas"	"05"	"70 years"	"70"	"Liver cell carcinoma - Malignant neoplasms"	"C22.0"	13	69626	Unreliable
+	"Arkansas"	"05"	"70 years"	"70"	"Intrahepatic bile duct carcinoma - Malignant neoplasms"	"C22.1"	10	69626	Unreliable
+	"Arkansas"	"05"	"70 years"	"70"	"Liver, unspecified - Malignant neoplasms"	"C22.9"	16	69626	Unreliable
+	"Arkansas"	"05"	"70 years"	"70"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	42	69626	60.3
+	"Arkansas"	"05"	"70 years"	"70"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	203	69626	291.6
+	"Arkansas"	"05"	"70 years"	"70"	"Malignant neoplasm of prostate"	"C61"	42	69626	60.3
+	"Arkansas"	"05"	"70 years"	"70"	"Malignant neoplasm of kidney, except renal pelvis"	"C64"	14	69626	Unreliable
+	"Arkansas"	"05"	"70 years"	"70"	"Bladder, unspecified - Malignant neoplasms"	"C67.9"	24	69626	34.5
+	"Arkansas"	"05"	"70 years"	"70"	"Malignant neoplasm without specification of site"	"C80"	24	69626	34.5
+	"Arkansas"	"05"	"70 years"	"70"	"Non-insulin-dependent diabetes mellitus, without complications"	"E11.9"	17	69626	Unreliable
+	"Arkansas"	"05"	"70 years"	"70"	"Unspecified diabetes mellitus, with renal complications"	"E14.2"	28	69626	40.2
+	"Arkansas"	"05"	"70 years"	"70"	"Unspecified diabetes mellitus, without complications"	"E14.9"	56	69626	80.4
+	"Arkansas"	"05"	"70 years"	"70"	"Unspecified dementia"	"F03"	13	69626	Unreliable
+	"Arkansas"	"05"	"70 years"	"70"	"Parkinson disease"	"G20"	13	69626	Unreliable
+	"Arkansas"	"05"	"70 years"	"70"	"Alzheimer disease, unspecified"	"G30.9"	13	69626	Unreliable
+	"Arkansas"	"05"	"70 years"	"70"	"Essential (primary) hypertension"	"I10"	14	69626	Unreliable
+	"Arkansas"	"05"	"70 years"	"70"	"Hypertensive heart disease with (congestive) heart failure"	"I11.0"	11	69626	Unreliable
+	"Arkansas"	"05"	"70 years"	"70"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	38	69626	54.6
+	"Arkansas"	"05"	"70 years"	"70"	"Acute myocardial infarction, unspecified"	"I21.9"	269	69626	386.3
+	"Arkansas"	"05"	"70 years"	"70"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	30	69626	43.1
+	"Arkansas"	"05"	"70 years"	"70"	"Atherosclerotic heart disease"	"I25.1"	94	69626	135.0
+	"Arkansas"	"05"	"70 years"	"70"	"Cardiac arrest, unspecified"	"I46.9"	14	69626	Unreliable
+	"Arkansas"	"05"	"70 years"	"70"	"Congestive heart failure"	"I50.0"	34	69626	48.8
+	"Arkansas"	"05"	"70 years"	"70"	"Heart failure, unspecified"	"I50.9"	13	69626	Unreliable
+	"Arkansas"	"05"	"70 years"	"70"	"Intracerebral haemorrhage, unspecified"	"I61.9"	10	69626	Unreliable
+	"Arkansas"	"05"	"70 years"	"70"	"Cerebral infarction, unspecified"	"I63.9"	11	69626	Unreliable
+	"Arkansas"	"05"	"70 years"	"70"	"Stroke, not specified as haemorrhage or infarction"	"I64"	34	69626	48.8
+	"Arkansas"	"05"	"70 years"	"70"	"Pneumonia, unspecified"	"J18.9"	32	69626	46.0
+	"Arkansas"	"05"	"70 years"	"70"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	21	69626	30.2
+	"Arkansas"	"05"	"70 years"	"70"	"Chronic obstructive pulmonary disease with acute exacerbation, unspecified"	"J44.1"	11	69626	Unreliable
+	"Arkansas"	"05"	"70 years"	"70"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	130	69626	186.7
+	"Arkansas"	"05"	"70 years"	"70"	"Other and unspecified cirrhosis of liver"	"K74.6"	14	69626	Unreliable
+	"Arkansas"	"05"	"70 years"	"70"	"Gastrointestinal haemorrhage, unspecified"	"K92.2"	12	69626	Unreliable
+	"Arkansas"	"05"	"70 years"	"70"	"Chronic kidney disease, stage 5"	"N18.5"	20	69626	28.7
+	"Arkansas"	"05"	"70 years"	"70"	"COVID-19"	"U07.1"	53	69626	76.1
+	"Arkansas"	"05"	"70 years"	"70"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	14	69626	Unreliable
+	"Arkansas"	"05"	"71 years"	"71"	"Septicaemia, unspecified"	"A41.9"	25	65723	38.0
+	"Arkansas"	"05"	"71 years"	"71"	"Oesophagus, unspecified - Malignant neoplasms"	"C15.9"	17	65723	Unreliable
+	"Arkansas"	"05"	"71 years"	"71"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	34	65723	51.7
+	"Arkansas"	"05"	"71 years"	"71"	"Liver cell carcinoma - Malignant neoplasms"	"C22.0"	15	65723	Unreliable
+	"Arkansas"	"05"	"71 years"	"71"	"Liver, unspecified - Malignant neoplasms"	"C22.9"	12	65723	Unreliable
+	"Arkansas"	"05"	"71 years"	"71"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	39	65723	59.3
+	"Arkansas"	"05"	"71 years"	"71"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	188	65723	286.0
+	"Arkansas"	"05"	"71 years"	"71"	"Malignant neoplasm of prostate"	"C61"	42	65723	63.9
+	"Arkansas"	"05"	"71 years"	"71"	"Malignant neoplasm of kidney, except renal pelvis"	"C64"	26	65723	39.6
+	"Arkansas"	"05"	"71 years"	"71"	"Bladder, unspecified - Malignant neoplasms"	"C67.9"	14	65723	Unreliable
+	"Arkansas"	"05"	"71 years"	"71"	"Brain, unspecified - Malignant neoplasms"	"C71.9"	15	65723	Unreliable
+	"Arkansas"	"05"	"71 years"	"71"	"Malignant neoplasm without specification of site"	"C80"	25	65723	38.0
+	"Arkansas"	"05"	"71 years"	"71"	"Non-Hodgkin lymphoma large cell (diffuse)"	"C83.3"	10	65723	Unreliable
+	"Arkansas"	"05"	"71 years"	"71"	"Multiple myeloma - Malignant neoplasms"	"C90.0"	18	65723	Unreliable
+	"Arkansas"	"05"	"71 years"	"71"	"Acute myeloid leukaemia - Malignant neoplasms"	"C92.0"	14	65723	Unreliable
+	"Arkansas"	"05"	"71 years"	"71"	"Malignant neoplasms of independent (primary) multiple sites"	"C97"	11	65723	Unreliable
+	"Arkansas"	"05"	"71 years"	"71"	"Non-insulin-dependent diabetes mellitus, with renal complications"	"E11.2"	11	65723	Unreliable
+	"Arkansas"	"05"	"71 years"	"71"	"Non-insulin-dependent diabetes mellitus, without complications"	"E11.9"	14	65723	Unreliable
+	"Arkansas"	"05"	"71 years"	"71"	"Unspecified diabetes mellitus, with renal complications"	"E14.2"	23	65723	35.0
+	"Arkansas"	"05"	"71 years"	"71"	"Unspecified diabetes mellitus, without complications"	"E14.9"	45	65723	68.5
+	"Arkansas"	"05"	"71 years"	"71"	"Unspecified dementia"	"F03"	15	65723	Unreliable
+	"Arkansas"	"05"	"71 years"	"71"	"Parkinson disease"	"G20"	14	65723	Unreliable
+	"Arkansas"	"05"	"71 years"	"71"	"Alzheimer disease, unspecified"	"G30.9"	26	65723	39.6
+	"Arkansas"	"05"	"71 years"	"71"	"Essential (primary) hypertension"	"I10"	17	65723	Unreliable
+	"Arkansas"	"05"	"71 years"	"71"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	26	65723	39.6
+	"Arkansas"	"05"	"71 years"	"71"	"Acute myocardial infarction, unspecified"	"I21.9"	237	65723	360.6
+	"Arkansas"	"05"	"71 years"	"71"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	24	65723	36.5
+	"Arkansas"	"05"	"71 years"	"71"	"Atherosclerotic heart disease"	"I25.1"	114	65723	173.5
+	"Arkansas"	"05"	"71 years"	"71"	"Ischaemic cardiomyopathy"	"I25.5"	10	65723	Unreliable
+	"Arkansas"	"05"	"71 years"	"71"	"Cardiomyopathy, unspecified"	"I42.9"	10	65723	Unreliable
+	"Arkansas"	"05"	"71 years"	"71"	"Congestive heart failure"	"I50.0"	42	65723	63.9
+	"Arkansas"	"05"	"71 years"	"71"	"Heart failure, unspecified"	"I50.9"	16	65723	Unreliable
+	"Arkansas"	"05"	"71 years"	"71"	"Cerebral infarction, unspecified"	"I63.9"	16	65723	Unreliable
+	"Arkansas"	"05"	"71 years"	"71"	"Stroke, not specified as haemorrhage or infarction"	"I64"	34	65723	51.7
+	"Arkansas"	"05"	"71 years"	"71"	"Pneumonia, unspecified"	"J18.9"	29	65723	44.1
+	"Arkansas"	"05"	"71 years"	"71"	"Emphysema, unspecified"	"J43.9"	13	65723	Unreliable
+	"Arkansas"	"05"	"71 years"	"71"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	23	65723	35.0
+	"Arkansas"	"05"	"71 years"	"71"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	137	65723	208.5
+	"Arkansas"	"05"	"71 years"	"71"	"Pneumonitis due to food and vomit"	"J69.0"	11	65723	Unreliable
+	"Arkansas"	"05"	"71 years"	"71"	"Other and unspecified cirrhosis of liver"	"K74.6"	14	65723	Unreliable
+	"Arkansas"	"05"	"71 years"	"71"	"Chronic kidney disease, stage 5"	"N18.5"	23	65723	35.0
+	"Arkansas"	"05"	"71 years"	"71"	"COVID-19"	"U07.1"	35	65723	53.3
+	"Arkansas"	"05"	"71 years"	"71"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	18	65723	Unreliable
+	"Arkansas"	"05"	"72 years"	"72"	"Septicaemia, unspecified"	"A41.9"	30	61890	48.5
+	"Arkansas"	"05"	"72 years"	"72"	"Oesophagus, unspecified - Malignant neoplasms"	"C15.9"	22	61890	35.5
+	"Arkansas"	"05"	"72 years"	"72"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	31	61890	50.1
+	"Arkansas"	"05"	"72 years"	"72"	"Liver cell carcinoma - Malignant neoplasms"	"C22.0"	13	61890	Unreliable
+	"Arkansas"	"05"	"72 years"	"72"	"Liver, unspecified - Malignant neoplasms"	"C22.9"	14	61890	Unreliable
+	"Arkansas"	"05"	"72 years"	"72"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	46	61890	74.3
+	"Arkansas"	"05"	"72 years"	"72"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	227	61890	366.8
+	"Arkansas"	"05"	"72 years"	"72"	"Malignant neoplasm of prostate"	"C61"	31	61890	50.1
+	"Arkansas"	"05"	"72 years"	"72"	"Malignant neoplasm of kidney, except renal pelvis"	"C64"	22	61890	35.5
+	"Arkansas"	"05"	"72 years"	"72"	"Bladder, unspecified - Malignant neoplasms"	"C67.9"	15	61890	Unreliable
+	"Arkansas"	"05"	"72 years"	"72"	"Brain, unspecified - Malignant neoplasms"	"C71.9"	17	61890	Unreliable
+	"Arkansas"	"05"	"72 years"	"72"	"Malignant neoplasm without specification of site"	"C80"	30	61890	48.5
+	"Arkansas"	"05"	"72 years"	"72"	"Non-insulin-dependent diabetes mellitus, without complications"	"E11.9"	10	61890	Unreliable
+	"Arkansas"	"05"	"72 years"	"72"	"Unspecified diabetes mellitus, with renal complications"	"E14.2"	24	61890	38.8
+	"Arkansas"	"05"	"72 years"	"72"	"Unspecified diabetes mellitus, without complications"	"E14.9"	47	61890	75.9
+	"Arkansas"	"05"	"72 years"	"72"	"Unspecified dementia"	"F03"	17	61890	Unreliable
+	"Arkansas"	"05"	"72 years"	"72"	"Parkinson disease"	"G20"	22	61890	35.5
+	"Arkansas"	"05"	"72 years"	"72"	"Alzheimer disease, unspecified"	"G30.9"	41	61890	66.2
+	"Arkansas"	"05"	"72 years"	"72"	"Essential (primary) hypertension"	"I10"	10	61890	Unreliable
+	"Arkansas"	"05"	"72 years"	"72"	"Hypertensive heart disease with (congestive) heart failure"	"I11.0"	10	61890	Unreliable
+	"Arkansas"	"05"	"72 years"	"72"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	30	61890	48.5
+	"Arkansas"	"05"	"72 years"	"72"	"Acute myocardial infarction, unspecified"	"I21.9"	243	61890	392.6
+	"Arkansas"	"05"	"72 years"	"72"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	15	61890	Unreliable
+	"Arkansas"	"05"	"72 years"	"72"	"Atherosclerotic heart disease"	"I25.1"	90	61890	145.4
+	"Arkansas"	"05"	"72 years"	"72"	"Ischaemic cardiomyopathy"	"I25.5"	10	61890	Unreliable
+	"Arkansas"	"05"	"72 years"	"72"	"Congestive heart failure"	"I50.0"	26	61890	42.0
+	"Arkansas"	"05"	"72 years"	"72"	"Cerebral infarction, unspecified"	"I63.9"	10	61890	Unreliable
+	"Arkansas"	"05"	"72 years"	"72"	"Stroke, not specified as haemorrhage or infarction"	"I64"	29	61890	46.9
+	"Arkansas"	"05"	"72 years"	"72"	"Pneumonia, unspecified"	"J18.9"	21	61890	33.9
+	"Arkansas"	"05"	"72 years"	"72"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	25	61890	40.4
+	"Arkansas"	"05"	"72 years"	"72"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	164	61890	265.0
+	"Arkansas"	"05"	"72 years"	"72"	"Pneumonitis due to food and vomit"	"J69.0"	16	61890	Unreliable
+	"Arkansas"	"05"	"72 years"	"72"	"Other interstitial pulmonary diseases with fibrosis"	"J84.1"	11	61890	Unreliable
+	"Arkansas"	"05"	"72 years"	"72"	"Other and unspecified cirrhosis of liver"	"K74.6"	18	61890	Unreliable
+	"Arkansas"	"05"	"72 years"	"72"	"Acute renal failure, unspecified"	"N17.9"	11	61890	Unreliable
+	"Arkansas"	"05"	"72 years"	"72"	"Chronic kidney disease, stage 5"	"N18.5"	24	61890	38.8
+	"Arkansas"	"05"	"72 years"	"72"	"COVID-19"	"U07.1"	48	61890	77.6
+	"Arkansas"	"05"	"72 years"	"72"	"Person injured in unspecified motor-vehicle accident, traffic"	"V89.2"	10	61890	Unreliable
+	"Arkansas"	"05"	"72 years"	"72"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	14	61890	Unreliable
+	"Arkansas"	"05"	"73 years"	"73"	"Septicaemia, unspecified"	"A41.9"	24	57940	41.4
+	"Arkansas"	"05"	"73 years"	"73"	"Oesophagus, unspecified - Malignant neoplasms"	"C15.9"	20	57940	34.5
+	"Arkansas"	"05"	"73 years"	"73"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	27	57940	46.6
+	"Arkansas"	"05"	"73 years"	"73"	"Liver, unspecified - Malignant neoplasms"	"C22.9"	15	57940	Unreliable
+	"Arkansas"	"05"	"73 years"	"73"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	36	57940	62.1
+	"Arkansas"	"05"	"73 years"	"73"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	210	57940	362.4
+	"Arkansas"	"05"	"73 years"	"73"	"Malignant neoplasm of prostate"	"C61"	51	57940	88.0
+	"Arkansas"	"05"	"73 years"	"73"	"Malignant neoplasm of kidney, except renal pelvis"	"C64"	17	57940	Unreliable
+	"Arkansas"	"05"	"73 years"	"73"	"Bladder, unspecified - Malignant neoplasms"	"C67.9"	10	57940	Unreliable
+	"Arkansas"	"05"	"73 years"	"73"	"Brain, unspecified - Malignant neoplasms"	"C71.9"	13	57940	Unreliable
+	"Arkansas"	"05"	"73 years"	"73"	"Malignant neoplasm without specification of site"	"C80"	23	57940	39.7
+	"Arkansas"	"05"	"73 years"	"73"	"Non-Hodgkin lymphoma, unspecified type"	"C85.9"	13	57940	Unreliable
+	"Arkansas"	"05"	"73 years"	"73"	"Multiple myeloma - Malignant neoplasms"	"C90.0"	13	57940	Unreliable
+	"Arkansas"	"05"	"73 years"	"73"	"Acute myeloid leukaemia - Malignant neoplasms"	"C92.0"	10	57940	Unreliable
+	"Arkansas"	"05"	"73 years"	"73"	"Non-insulin-dependent diabetes mellitus, without complications"	"E11.9"	24	57940	41.4
+	"Arkansas"	"05"	"73 years"	"73"	"Unspecified diabetes mellitus, with renal complications"	"E14.2"	13	57940	Unreliable
+	"Arkansas"	"05"	"73 years"	"73"	"Unspecified diabetes mellitus, without complications"	"E14.9"	60	57940	103.6
+	"Arkansas"	"05"	"73 years"	"73"	"Unspecified dementia"	"F03"	22	57940	38.0
+	"Arkansas"	"05"	"73 years"	"73"	"Parkinson disease"	"G20"	30	57940	51.8
+	"Arkansas"	"05"	"73 years"	"73"	"Alzheimer disease, unspecified"	"G30.9"	36	57940	62.1
+	"Arkansas"	"05"	"73 years"	"73"	"Essential (primary) hypertension"	"I10"	14	57940	Unreliable
+	"Arkansas"	"05"	"73 years"	"73"	"Hypertensive heart disease with (congestive) heart failure"	"I11.0"	21	57940	36.2
+	"Arkansas"	"05"	"73 years"	"73"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	45	57940	77.7
+	"Arkansas"	"05"	"73 years"	"73"	"Acute myocardial infarction, unspecified"	"I21.9"	256	57940	441.8
+	"Arkansas"	"05"	"73 years"	"73"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	20	57940	34.5
+	"Arkansas"	"05"	"73 years"	"73"	"Atherosclerotic heart disease"	"I25.1"	133	57940	229.5
+	"Arkansas"	"05"	"73 years"	"73"	"Ischaemic cardiomyopathy"	"I25.5"	12	57940	Unreliable
+	"Arkansas"	"05"	"73 years"	"73"	"Atrial fibrillation and flutter"	"I48"	17	57940	Unreliable
+	"Arkansas"	"05"	"73 years"	"73"	"Congestive heart failure"	"I50.0"	31	57940	53.5
+	"Arkansas"	"05"	"73 years"	"73"	"Heart failure, unspecified"	"I50.9"	13	57940	Unreliable
+	"Arkansas"	"05"	"73 years"	"73"	"Stroke, not specified as haemorrhage or infarction"	"I64"	30	57940	51.8
+	"Arkansas"	"05"	"73 years"	"73"	"Pneumonia, unspecified"	"J18.9"	28	57940	48.3
+	"Arkansas"	"05"	"73 years"	"73"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	28	57940	48.3
+	"Arkansas"	"05"	"73 years"	"73"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	174	57940	300.3
+	"Arkansas"	"05"	"73 years"	"73"	"Pneumonitis due to food and vomit"	"J69.0"	10	57940	Unreliable
+	"Arkansas"	"05"	"73 years"	"73"	"Other interstitial pulmonary diseases with fibrosis"	"J84.1"	12	57940	Unreliable
+	"Arkansas"	"05"	"73 years"	"73"	"Other and unspecified cirrhosis of liver"	"K74.6"	25	57940	43.1
+	"Arkansas"	"05"	"73 years"	"73"	"Chronic kidney disease, stage 5"	"N18.5"	20	57940	34.5
+	"Arkansas"	"05"	"73 years"	"73"	"Chronic renal failure, unspecified"	"N18.9"	10	57940	Unreliable
+	"Arkansas"	"05"	"73 years"	"73"	"COVID-19"	"U07.1"	50	57940	86.3
+	"Arkansas"	"05"	"73 years"	"73"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	21	57940	36.2
+	"Arkansas"	"05"	"74 years"	"74"	"Septicaemia, unspecified"	"A41.9"	24	52195	46.0
+	"Arkansas"	"05"	"74 years"	"74"	"Oesophagus, unspecified - Malignant neoplasms"	"C15.9"	19	52195	Unreliable
+	"Arkansas"	"05"	"74 years"	"74"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	28	52195	53.6
+	"Arkansas"	"05"	"74 years"	"74"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	46	52195	88.1
+	"Arkansas"	"05"	"74 years"	"74"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	196	52195	375.5
+	"Arkansas"	"05"	"74 years"	"74"	"Malignant neoplasm of prostate"	"C61"	36	52195	69.0
+	"Arkansas"	"05"	"74 years"	"74"	"Malignant neoplasm of kidney, except renal pelvis"	"C64"	22	52195	42.1
+	"Arkansas"	"05"	"74 years"	"74"	"Bladder, unspecified - Malignant neoplasms"	"C67.9"	17	52195	Unreliable
+	"Arkansas"	"05"	"74 years"	"74"	"Brain, unspecified - Malignant neoplasms"	"C71.9"	12	52195	Unreliable
+	"Arkansas"	"05"	"74 years"	"74"	"Malignant neoplasm without specification of site"	"C80"	32	52195	61.3
+	"Arkansas"	"05"	"74 years"	"74"	"Non-Hodgkin lymphoma, unspecified type"	"C85.9"	10	52195	Unreliable
+	"Arkansas"	"05"	"74 years"	"74"	"Multiple myeloma - Malignant neoplasms"	"C90.0"	19	52195	Unreliable
+	"Arkansas"	"05"	"74 years"	"74"	"Malignant neoplasms of independent (primary) multiple sites"	"C97"	14	52195	Unreliable
+	"Arkansas"	"05"	"74 years"	"74"	"Non-insulin-dependent diabetes mellitus, without complications"	"E11.9"	13	52195	Unreliable
+	"Arkansas"	"05"	"74 years"	"74"	"Unspecified diabetes mellitus, with renal complications"	"E14.2"	15	52195	Unreliable
+	"Arkansas"	"05"	"74 years"	"74"	"Unspecified diabetes mellitus, without complications"	"E14.9"	52	52195	99.6
+	"Arkansas"	"05"	"74 years"	"74"	"Unspecified dementia"	"F03"	22	52195	42.1
+	"Arkansas"	"05"	"74 years"	"74"	"Parkinson disease"	"G20"	40	52195	76.6
+	"Arkansas"	"05"	"74 years"	"74"	"Alzheimer disease, unspecified"	"G30.9"	49	52195	93.9
+	"Arkansas"	"05"	"74 years"	"74"	"Senile degeneration of brain, not elsewhere classified"	"G31.1"	11	52195	Unreliable
+	"Arkansas"	"05"	"74 years"	"74"	"Essential (primary) hypertension"	"I10"	17	52195	Unreliable
+	"Arkansas"	"05"	"74 years"	"74"	"Hypertensive heart disease with (congestive) heart failure"	"I11.0"	16	52195	Unreliable
+	"Arkansas"	"05"	"74 years"	"74"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	38	52195	72.8
+	"Arkansas"	"05"	"74 years"	"74"	"Acute myocardial infarction, unspecified"	"I21.9"	225	52195	431.1
+	"Arkansas"	"05"	"74 years"	"74"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	25	52195	47.9
+	"Arkansas"	"05"	"74 years"	"74"	"Atherosclerotic heart disease"	"I25.1"	118	52195	226.1
+	"Arkansas"	"05"	"74 years"	"74"	"Ischaemic cardiomyopathy"	"I25.5"	14	52195	Unreliable
+	"Arkansas"	"05"	"74 years"	"74"	"Aortic (valve) stenosis"	"I35.0"	10	52195	Unreliable
+	"Arkansas"	"05"	"74 years"	"74"	"Cardiomyopathy, unspecified"	"I42.9"	10	52195	Unreliable
+	"Arkansas"	"05"	"74 years"	"74"	"Atrial fibrillation and flutter"	"I48"	11	52195	Unreliable
+	"Arkansas"	"05"	"74 years"	"74"	"Congestive heart failure"	"I50.0"	42	52195	80.5
+	"Arkansas"	"05"	"74 years"	"74"	"Intracerebral haemorrhage, unspecified"	"I61.9"	13	52195	Unreliable
+	"Arkansas"	"05"	"74 years"	"74"	"Cerebral infarction, unspecified"	"I63.9"	10	52195	Unreliable
+	"Arkansas"	"05"	"74 years"	"74"	"Stroke, not specified as haemorrhage or infarction"	"I64"	31	52195	59.4
+	"Arkansas"	"05"	"74 years"	"74"	"Sequelae of stroke, not specified as haemorrhage or infarction"	"I69.4"	11	52195	Unreliable
+	"Arkansas"	"05"	"74 years"	"74"	"Pneumonia, unspecified"	"J18.9"	21	52195	40.2
+	"Arkansas"	"05"	"74 years"	"74"	"Emphysema, unspecified"	"J43.9"	11	52195	Unreliable
+	"Arkansas"	"05"	"74 years"	"74"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	26	52195	49.8
+	"Arkansas"	"05"	"74 years"	"74"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	161	52195	308.5
+	"Arkansas"	"05"	"74 years"	"74"	"Other and unspecified cirrhosis of liver"	"K74.6"	14	52195	Unreliable
+	"Arkansas"	"05"	"74 years"	"74"	"Gastrointestinal haemorrhage, unspecified"	"K92.2"	11	52195	Unreliable
+	"Arkansas"	"05"	"74 years"	"74"	"Chronic kidney disease, stage 5"	"N18.5"	18	52195	Unreliable
+	"Arkansas"	"05"	"74 years"	"74"	"COVID-19"	"U07.1"	59	52195	113.0
+	"Arkansas"	"05"	"74 years"	"74"	"Person injured in unspecified motor-vehicle accident, traffic"	"V89.2"	11	52195	Unreliable
+	"Arkansas"	"05"	"74 years"	"74"	"Unspecified fall"	"W19"	10	52195	Unreliable
+	"Arkansas"	"05"	"74 years"	"74"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	12	52195	Unreliable
+	"Arkansas"	"05"	"75 years"	"75"	"Septicaemia, unspecified"	"A41.9"	36	48863	73.7
+	"Arkansas"	"05"	"75 years"	"75"	"Oesophagus, unspecified - Malignant neoplasms"	"C15.9"	18	48863	Unreliable
+	"Arkansas"	"05"	"75 years"	"75"	"Stomach, unspecified - Malignant neoplasms"	"C16.9"	11	48863	Unreliable
+	"Arkansas"	"05"	"75 years"	"75"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	32	48863	65.5
+	"Arkansas"	"05"	"75 years"	"75"	"Malignant neoplasm of rectum"	"C20"	10	48863	Unreliable
+	"Arkansas"	"05"	"75 years"	"75"	"Liver, unspecified - Malignant neoplasms"	"C22.9"	11	48863	Unreliable
+	"Arkansas"	"05"	"75 years"	"75"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	37	48863	75.7
+	"Arkansas"	"05"	"75 years"	"75"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	164	48863	335.6
+	"Arkansas"	"05"	"75 years"	"75"	"Malignant neoplasm of prostate"	"C61"	43	48863	88.0
+	"Arkansas"	"05"	"75 years"	"75"	"Malignant neoplasm of kidney, except renal pelvis"	"C64"	17	48863	Unreliable
+	"Arkansas"	"05"	"75 years"	"75"	"Bladder, unspecified - Malignant neoplasms"	"C67.9"	23	48863	47.1
+	"Arkansas"	"05"	"75 years"	"75"	"Brain, unspecified - Malignant neoplasms"	"C71.9"	10	48863	Unreliable
+	"Arkansas"	"05"	"75 years"	"75"	"Malignant neoplasm without specification of site"	"C80"	18	48863	Unreliable
+	"Arkansas"	"05"	"75 years"	"75"	"Unspecified diabetes mellitus, with renal complications"	"E14.2"	15	48863	Unreliable
+	"Arkansas"	"05"	"75 years"	"75"	"Unspecified diabetes mellitus, without complications"	"E14.9"	45	48863	92.1
+	"Arkansas"	"05"	"75 years"	"75"	"Unspecified dementia"	"F03"	34	48863	69.6
+	"Arkansas"	"05"	"75 years"	"75"	"Parkinson disease"	"G20"	32	48863	65.5
+	"Arkansas"	"05"	"75 years"	"75"	"Alzheimer disease, unspecified"	"G30.9"	64	48863	131.0
+	"Arkansas"	"05"	"75 years"	"75"	"Senile degeneration of brain, not elsewhere classified"	"G31.1"	15	48863	Unreliable
+	"Arkansas"	"05"	"75 years"	"75"	"Essential (primary) hypertension"	"I10"	13	48863	Unreliable
+	"Arkansas"	"05"	"75 years"	"75"	"Hypertensive heart disease with (congestive) heart failure"	"I11.0"	23	48863	47.1
+	"Arkansas"	"05"	"75 years"	"75"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	29	48863	59.3
+	"Arkansas"	"05"	"75 years"	"75"	"Acute myocardial infarction, unspecified"	"I21.9"	201	48863	411.4
+	"Arkansas"	"05"	"75 years"	"75"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	14	48863	Unreliable
+	"Arkansas"	"05"	"75 years"	"75"	"Atherosclerotic heart disease"	"I25.1"	142	48863	290.6
+	"Arkansas"	"05"	"75 years"	"75"	"Atrial fibrillation and flutter"	"I48"	17	48863	Unreliable
+	"Arkansas"	"05"	"75 years"	"75"	"Cardiac arrhythmia, unspecified"	"I49.9"	11	48863	Unreliable
+	"Arkansas"	"05"	"75 years"	"75"	"Congestive heart failure"	"I50.0"	45	48863	92.1
+	"Arkansas"	"05"	"75 years"	"75"	"Heart failure, unspecified"	"I50.9"	16	48863	Unreliable
+	"Arkansas"	"05"	"75 years"	"75"	"Intracerebral haemorrhage, unspecified"	"I61.9"	10	48863	Unreliable
+	"Arkansas"	"05"	"75 years"	"75"	"Cerebral infarction, unspecified"	"I63.9"	17	48863	Unreliable
+	"Arkansas"	"05"	"75 years"	"75"	"Stroke, not specified as haemorrhage or infarction"	"I64"	46	48863	94.1
+	"Arkansas"	"05"	"75 years"	"75"	"Peripheral vascular disease, unspecified"	"I73.9"	12	48863	Unreliable
+	"Arkansas"	"05"	"75 years"	"75"	"Pneumonia, unspecified"	"J18.9"	30	48863	61.4
+	"Arkansas"	"05"	"75 years"	"75"	"Emphysema, unspecified"	"J43.9"	10	48863	Unreliable
+	"Arkansas"	"05"	"75 years"	"75"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	31	48863	63.4
+	"Arkansas"	"05"	"75 years"	"75"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	158	48863	323.4
+	"Arkansas"	"05"	"75 years"	"75"	"Pneumonitis due to food and vomit"	"J69.0"	20	48863	40.9
+	"Arkansas"	"05"	"75 years"	"75"	"Other interstitial pulmonary diseases with fibrosis"	"J84.1"	15	48863	Unreliable
+	"Arkansas"	"05"	"75 years"	"75"	"Other and unspecified cirrhosis of liver"	"K74.6"	11	48863	Unreliable
+	"Arkansas"	"05"	"75 years"	"75"	"Chronic kidney disease, stage 5"	"N18.5"	24	48863	49.1
+	"Arkansas"	"05"	"75 years"	"75"	"COVID-19"	"U07.1"	59	48863	120.7
+	"Arkansas"	"05"	"75 years"	"75"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	15	48863	Unreliable
+	"Arkansas"	"05"	"76 years"	"76"	"Septicaemia, unspecified"	"A41.9"	22	46283	47.5
+	"Arkansas"	"05"	"76 years"	"76"	"Oesophagus, unspecified - Malignant neoplasms"	"C15.9"	16	46283	Unreliable
+	"Arkansas"	"05"	"76 years"	"76"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	31	46283	67.0
+	"Arkansas"	"05"	"76 years"	"76"	"Liver, unspecified - Malignant neoplasms"	"C22.9"	14	46283	Unreliable
+	"Arkansas"	"05"	"76 years"	"76"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	28	46283	60.5
+	"Arkansas"	"05"	"76 years"	"76"	"Upper lobe, bronchus or lung - Malignant neoplasms"	"C34.1"	11	46283	Unreliable
+	"Arkansas"	"05"	"76 years"	"76"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	161	46283	347.9
+	"Arkansas"	"05"	"76 years"	"76"	"Malignant neoplasm of prostate"	"C61"	52	46283	112.4
+	"Arkansas"	"05"	"76 years"	"76"	"Malignant neoplasm of kidney, except renal pelvis"	"C64"	12	46283	Unreliable
+	"Arkansas"	"05"	"76 years"	"76"	"Bladder, unspecified - Malignant neoplasms"	"C67.9"	23	46283	49.7
+	"Arkansas"	"05"	"76 years"	"76"	"Malignant neoplasm without specification of site"	"C80"	26	46283	56.2
+	"Arkansas"	"05"	"76 years"	"76"	"Non-Hodgkin lymphoma, unspecified type"	"C85.9"	10	46283	Unreliable
+	"Arkansas"	"05"	"76 years"	"76"	"Multiple myeloma - Malignant neoplasms"	"C90.0"	12	46283	Unreliable
+	"Arkansas"	"05"	"76 years"	"76"	"Malignant neoplasms of independent (primary) multiple sites"	"C97"	12	46283	Unreliable
+	"Arkansas"	"05"	"76 years"	"76"	"Unspecified diabetes mellitus, with renal complications"	"E14.2"	17	46283	Unreliable
+	"Arkansas"	"05"	"76 years"	"76"	"Unspecified diabetes mellitus, without complications"	"E14.9"	41	46283	88.6
+	"Arkansas"	"05"	"76 years"	"76"	"Unspecified dementia"	"F03"	30	46283	64.8
+	"Arkansas"	"05"	"76 years"	"76"	"Parkinson disease"	"G20"	32	46283	69.1
+	"Arkansas"	"05"	"76 years"	"76"	"Alzheimer disease, unspecified"	"G30.9"	63	46283	136.1
+	"Arkansas"	"05"	"76 years"	"76"	"Senile degeneration of brain, not elsewhere classified"	"G31.1"	16	46283	Unreliable
+	"Arkansas"	"05"	"76 years"	"76"	"Other specified degenerative diseases of nervous system"	"G31.8"	11	46283	Unreliable
+	"Arkansas"	"05"	"76 years"	"76"	"Essential (primary) hypertension"	"I10"	13	46283	Unreliable
+	"Arkansas"	"05"	"76 years"	"76"	"Hypertensive heart disease with (congestive) heart failure"	"I11.0"	15	46283	Unreliable
+	"Arkansas"	"05"	"76 years"	"76"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	29	46283	62.7
+	"Arkansas"	"05"	"76 years"	"76"	"Acute subendocardial myocardial infarction"	"I21.4"	13	46283	Unreliable
+	"Arkansas"	"05"	"76 years"	"76"	"Acute myocardial infarction, unspecified"	"I21.9"	198	46283	427.8
+	"Arkansas"	"05"	"76 years"	"76"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	17	46283	Unreliable
+	"Arkansas"	"05"	"76 years"	"76"	"Atherosclerotic heart disease"	"I25.1"	149	46283	321.9
+	"Arkansas"	"05"	"76 years"	"76"	"Ischaemic cardiomyopathy"	"I25.5"	10	46283	Unreliable
+	"Arkansas"	"05"	"76 years"	"76"	"Cardiac arrest, unspecified"	"I46.9"	10	46283	Unreliable
+	"Arkansas"	"05"	"76 years"	"76"	"Atrial fibrillation and flutter"	"I48"	14	46283	Unreliable
+	"Arkansas"	"05"	"76 years"	"76"	"Congestive heart failure"	"I50.0"	46	46283	99.4
+	"Arkansas"	"05"	"76 years"	"76"	"Heart failure, unspecified"	"I50.9"	11	46283	Unreliable
+	"Arkansas"	"05"	"76 years"	"76"	"Intracerebral haemorrhage, unspecified"	"I61.9"	13	46283	Unreliable
+	"Arkansas"	"05"	"76 years"	"76"	"Intracranial haemorrhage (nontraumatic), unspecified"	"I62.9"	11	46283	Unreliable
+	"Arkansas"	"05"	"76 years"	"76"	"Stroke, not specified as haemorrhage or infarction"	"I64"	31	46283	67.0
+	"Arkansas"	"05"	"76 years"	"76"	"Pneumonia, unspecified"	"J18.9"	34	46283	73.5
+	"Arkansas"	"05"	"76 years"	"76"	"Emphysema, unspecified"	"J43.9"	13	46283	Unreliable
+	"Arkansas"	"05"	"76 years"	"76"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	22	46283	47.5
+	"Arkansas"	"05"	"76 years"	"76"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	151	46283	326.3
+	"Arkansas"	"05"	"76 years"	"76"	"Other interstitial pulmonary diseases with fibrosis"	"J84.1"	17	46283	Unreliable
+	"Arkansas"	"05"	"76 years"	"76"	"Other and unspecified cirrhosis of liver"	"K74.6"	12	46283	Unreliable
+	"Arkansas"	"05"	"76 years"	"76"	"Chronic kidney disease, stage 5"	"N18.5"	17	46283	Unreliable
+	"Arkansas"	"05"	"76 years"	"76"	"Unspecified renal failure"	"N19"	10	46283	Unreliable
+	"Arkansas"	"05"	"76 years"	"76"	"Urinary tract infection, site not specified"	"N39.0"	12	46283	Unreliable
+	"Arkansas"	"05"	"76 years"	"76"	"COVID-19"	"U07.1"	62	46283	134.0
+	"Arkansas"	"05"	"76 years"	"76"	"Unspecified fall"	"W19"	11	46283	Unreliable
+	"Arkansas"	"05"	"76 years"	"76"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	24	46283	51.9
+	"Arkansas"	"05"	"77 years"	"77"	"Septicaemia, unspecified"	"A41.9"	29	42567	68.1
+	"Arkansas"	"05"	"77 years"	"77"	"Oesophagus, unspecified - Malignant neoplasms"	"C15.9"	16	42567	Unreliable
+	"Arkansas"	"05"	"77 years"	"77"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	34	42567	79.9
+	"Arkansas"	"05"	"77 years"	"77"	"Liver, unspecified - Malignant neoplasms"	"C22.9"	15	42567	Unreliable
+	"Arkansas"	"05"	"77 years"	"77"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	29	42567	68.1
+	"Arkansas"	"05"	"77 years"	"77"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	193	42567	453.4
+	"Arkansas"	"05"	"77 years"	"77"	"Malignant neoplasm of prostate"	"C61"	37	42567	86.9
+	"Arkansas"	"05"	"77 years"	"77"	"Malignant neoplasm of kidney, except renal pelvis"	"C64"	17	42567	Unreliable
+	"Arkansas"	"05"	"77 years"	"77"	"Bladder, unspecified - Malignant neoplasms"	"C67.9"	21	42567	49.3
+	"Arkansas"	"05"	"77 years"	"77"	"Brain, unspecified - Malignant neoplasms"	"C71.9"	17	42567	Unreliable
+	"Arkansas"	"05"	"77 years"	"77"	"Malignant neoplasm without specification of site"	"C80"	31	42567	72.8
+	"Arkansas"	"05"	"77 years"	"77"	"Multiple myeloma - Malignant neoplasms"	"C90.0"	24	42567	56.4
+	"Arkansas"	"05"	"77 years"	"77"	"Malignant neoplasms of independent (primary) multiple sites"	"C97"	13	42567	Unreliable
+	"Arkansas"	"05"	"77 years"	"77"	"Myelodysplastic syndrome, unspecified - Uncertain neoplasms"	"D46.9"	12	42567	Unreliable
+	"Arkansas"	"05"	"77 years"	"77"	"Non-insulin-dependent diabetes mellitus, without complications"	"E11.9"	17	42567	Unreliable
+	"Arkansas"	"05"	"77 years"	"77"	"Unspecified diabetes mellitus, with renal complications"	"E14.2"	17	42567	Unreliable
+	"Arkansas"	"05"	"77 years"	"77"	"Unspecified diabetes mellitus, without complications"	"E14.9"	36	42567	84.6
+	"Arkansas"	"05"	"77 years"	"77"	"Unspecified dementia"	"F03"	24	42567	56.4
+	"Arkansas"	"05"	"77 years"	"77"	"Parkinson disease"	"G20"	41	42567	96.3
+	"Arkansas"	"05"	"77 years"	"77"	"Alzheimer disease, unspecified"	"G30.9"	61	42567	143.3
+	"Arkansas"	"05"	"77 years"	"77"	"Senile degeneration of brain, not elsewhere classified"	"G31.1"	22	42567	51.7
+	"Arkansas"	"05"	"77 years"	"77"	"Hypertensive heart disease with (congestive) heart failure"	"I11.0"	18	42567	Unreliable
+	"Arkansas"	"05"	"77 years"	"77"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	30	42567	70.5
+	"Arkansas"	"05"	"77 years"	"77"	"Acute myocardial infarction, unspecified"	"I21.9"	196	42567	460.5
+	"Arkansas"	"05"	"77 years"	"77"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	34	42567	79.9
+	"Arkansas"	"05"	"77 years"	"77"	"Atherosclerotic heart disease"	"I25.1"	114	42567	267.8
+	"Arkansas"	"05"	"77 years"	"77"	"Ischaemic cardiomyopathy"	"I25.5"	10	42567	Unreliable
+	"Arkansas"	"05"	"77 years"	"77"	"Atrial fibrillation and flutter"	"I48"	14	42567	Unreliable
+	"Arkansas"	"05"	"77 years"	"77"	"Congestive heart failure"	"I50.0"	38	42567	89.3
+	"Arkansas"	"05"	"77 years"	"77"	"Heart failure, unspecified"	"I50.9"	21	42567	49.3
+	"Arkansas"	"05"	"77 years"	"77"	"Intracerebral haemorrhage, unspecified"	"I61.9"	13	42567	Unreliable
+	"Arkansas"	"05"	"77 years"	"77"	"Cerebral infarction, unspecified"	"I63.9"	11	42567	Unreliable
+	"Arkansas"	"05"	"77 years"	"77"	"Stroke, not specified as haemorrhage or infarction"	"I64"	42	42567	98.7
+	"Arkansas"	"05"	"77 years"	"77"	"Pneumonia, unspecified"	"J18.9"	37	42567	86.9
+	"Arkansas"	"05"	"77 years"	"77"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	15	42567	Unreliable
+	"Arkansas"	"05"	"77 years"	"77"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	172	42567	404.1
+	"Arkansas"	"05"	"77 years"	"77"	"Pneumonitis due to food and vomit"	"J69.0"	13	42567	Unreliable
+	"Arkansas"	"05"	"77 years"	"77"	"Other interstitial pulmonary diseases with fibrosis"	"J84.1"	20	42567	47.0
+	"Arkansas"	"05"	"77 years"	"77"	"Interstitial pulmonary disease, unspecified"	"J84.9"	12	42567	Unreliable
+	"Arkansas"	"05"	"77 years"	"77"	"Other and unspecified cirrhosis of liver"	"K74.6"	20	42567	47.0
+	"Arkansas"	"05"	"77 years"	"77"	"Chronic kidney disease, stage 5"	"N18.5"	13	42567	Unreliable
+	"Arkansas"	"05"	"77 years"	"77"	"COVID-19"	"U07.1"	56	42567	131.6
+	"Arkansas"	"05"	"77 years"	"77"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	12	42567	Unreliable
+	"Arkansas"	"05"	"78 years"	"78"	"Septicaemia, unspecified"	"A41.9"	18	38509	Unreliable
+	"Arkansas"	"05"	"78 years"	"78"	"Oesophagus, unspecified - Malignant neoplasms"	"C15.9"	19	38509	Unreliable
+	"Arkansas"	"05"	"78 years"	"78"	"Stomach, unspecified - Malignant neoplasms"	"C16.9"	12	38509	Unreliable
+	"Arkansas"	"05"	"78 years"	"78"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	35	38509	90.9
+	"Arkansas"	"05"	"78 years"	"78"	"Liver, unspecified - Malignant neoplasms"	"C22.9"	10	38509	Unreliable
+	"Arkansas"	"05"	"78 years"	"78"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	31	38509	80.5
+	"Arkansas"	"05"	"78 years"	"78"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	158	38509	410.3
+	"Arkansas"	"05"	"78 years"	"78"	"Malignant neoplasm of prostate"	"C61"	55	38509	142.8
+	"Arkansas"	"05"	"78 years"	"78"	"Malignant neoplasm of kidney, except renal pelvis"	"C64"	14	38509	Unreliable
+	"Arkansas"	"05"	"78 years"	"78"	"Bladder, unspecified - Malignant neoplasms"	"C67.9"	22	38509	57.1
+	"Arkansas"	"05"	"78 years"	"78"	"Malignant neoplasm without specification of site"	"C80"	27	38509	70.1
+	"Arkansas"	"05"	"78 years"	"78"	"Non-Hodgkin lymphoma, unspecified type"	"C85.9"	10	38509	Unreliable
+	"Arkansas"	"05"	"78 years"	"78"	"Multiple myeloma - Malignant neoplasms"	"C90.0"	14	38509	Unreliable
+	"Arkansas"	"05"	"78 years"	"78"	"Acute myeloid leukaemia - Malignant neoplasms"	"C92.0"	11	38509	Unreliable
+	"Arkansas"	"05"	"78 years"	"78"	"Non-insulin-dependent diabetes mellitus, without complications"	"E11.9"	16	38509	Unreliable
+	"Arkansas"	"05"	"78 years"	"78"	"Unspecified diabetes mellitus, with renal complications"	"E14.2"	13	38509	Unreliable
+	"Arkansas"	"05"	"78 years"	"78"	"Unspecified diabetes mellitus, without complications"	"E14.9"	35	38509	90.9
+	"Arkansas"	"05"	"78 years"	"78"	"Unspecified dementia"	"F03"	47	38509	122.0
+	"Arkansas"	"05"	"78 years"	"78"	"Parkinson disease"	"G20"	42	38509	109.1
+	"Arkansas"	"05"	"78 years"	"78"	"Alzheimer disease, unspecified"	"G30.9"	74	38509	192.2
+	"Arkansas"	"05"	"78 years"	"78"	"Senile degeneration of brain, not elsewhere classified"	"G31.1"	32	38509	83.1
+	"Arkansas"	"05"	"78 years"	"78"	"Other specified degenerative diseases of nervous system"	"G31.8"	15	38509	Unreliable
+	"Arkansas"	"05"	"78 years"	"78"	"Essential (primary) hypertension"	"I10"	15	38509	Unreliable
+	"Arkansas"	"05"	"78 years"	"78"	"Hypertensive heart disease with (congestive) heart failure"	"I11.0"	19	38509	Unreliable
+	"Arkansas"	"05"	"78 years"	"78"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	35	38509	90.9
+	"Arkansas"	"05"	"78 years"	"78"	"Hypertensive renal disease with renal failure"	"I12.0"	10	38509	Unreliable
+	"Arkansas"	"05"	"78 years"	"78"	"Acute myocardial infarction, unspecified"	"I21.9"	220	38509	571.3
+	"Arkansas"	"05"	"78 years"	"78"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	19	38509	Unreliable
+	"Arkansas"	"05"	"78 years"	"78"	"Atherosclerotic heart disease"	"I25.1"	138	38509	358.4
+	"Arkansas"	"05"	"78 years"	"78"	"Ischaemic cardiomyopathy"	"I25.5"	10	38509	Unreliable
+	"Arkansas"	"05"	"78 years"	"78"	"Atrial fibrillation and flutter"	"I48"	15	38509	Unreliable
+	"Arkansas"	"05"	"78 years"	"78"	"Congestive heart failure"	"I50.0"	46	38509	119.5
+	"Arkansas"	"05"	"78 years"	"78"	"Heart failure, unspecified"	"I50.9"	14	38509	Unreliable
+	"Arkansas"	"05"	"78 years"	"78"	"Cerebral infarction, unspecified"	"I63.9"	15	38509	Unreliable
+	"Arkansas"	"05"	"78 years"	"78"	"Stroke, not specified as haemorrhage or infarction"	"I64"	46	38509	119.5
+	"Arkansas"	"05"	"78 years"	"78"	"Pneumonia, unspecified"	"J18.9"	34	38509	88.3
+	"Arkansas"	"05"	"78 years"	"78"	"Emphysema, unspecified"	"J43.9"	11	38509	Unreliable
+	"Arkansas"	"05"	"78 years"	"78"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	27	38509	70.1
+	"Arkansas"	"05"	"78 years"	"78"	"Chronic obstructive pulmonary disease with acute exacerbation, unspecified"	"J44.1"	10	38509	Unreliable
+	"Arkansas"	"05"	"78 years"	"78"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	136	38509	353.2
+	"Arkansas"	"05"	"78 years"	"78"	"Other interstitial pulmonary diseases with fibrosis"	"J84.1"	18	38509	Unreliable
+	"Arkansas"	"05"	"78 years"	"78"	"Other and unspecified cirrhosis of liver"	"K74.6"	17	38509	Unreliable
+	"Arkansas"	"05"	"78 years"	"78"	"Acute renal failure, unspecified"	"N17.9"	14	38509	Unreliable
+	"Arkansas"	"05"	"78 years"	"78"	"Chronic kidney disease, stage 5"	"N18.5"	21	38509	54.5
+	"Arkansas"	"05"	"78 years"	"78"	"Chronic renal failure, unspecified"	"N18.9"	13	38509	Unreliable
+	"Arkansas"	"05"	"78 years"	"78"	"COVID-19"	"U07.1"	47	38509	122.0
+	"Arkansas"	"05"	"79 years"	"79"	"Septicaemia, unspecified"	"A41.9"	27	35288	76.5
+	"Arkansas"	"05"	"79 years"	"79"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	22	35288	62.3
+	"Arkansas"	"05"	"79 years"	"79"	"Liver, unspecified - Malignant neoplasms"	"C22.9"	11	35288	Unreliable
+	"Arkansas"	"05"	"79 years"	"79"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	26	35288	73.7
+	"Arkansas"	"05"	"79 years"	"79"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	132	35288	374.1
+	"Arkansas"	"05"	"79 years"	"79"	"Malignant neoplasm of prostate"	"C61"	52	35288	147.4
+	"Arkansas"	"05"	"79 years"	"79"	"Bladder, unspecified - Malignant neoplasms"	"C67.9"	15	35288	Unreliable
+	"Arkansas"	"05"	"79 years"	"79"	"Malignant neoplasm without specification of site"	"C80"	19	35288	Unreliable
+	"Arkansas"	"05"	"79 years"	"79"	"Non-Hodgkin lymphoma, unspecified type"	"C85.9"	12	35288	Unreliable
+	"Arkansas"	"05"	"79 years"	"79"	"Multiple myeloma - Malignant neoplasms"	"C90.0"	10	35288	Unreliable
+	"Arkansas"	"05"	"79 years"	"79"	"Acute myeloid leukaemia - Malignant neoplasms"	"C92.0"	13	35288	Unreliable
+	"Arkansas"	"05"	"79 years"	"79"	"Malignant neoplasms of independent (primary) multiple sites"	"C97"	13	35288	Unreliable
+	"Arkansas"	"05"	"79 years"	"79"	"Non-insulin-dependent diabetes mellitus, without complications"	"E11.9"	11	35288	Unreliable
+	"Arkansas"	"05"	"79 years"	"79"	"Unspecified diabetes mellitus, with renal complications"	"E14.2"	19	35288	Unreliable
+	"Arkansas"	"05"	"79 years"	"79"	"Unspecified diabetes mellitus, without complications"	"E14.9"	34	35288	96.4
+	"Arkansas"	"05"	"79 years"	"79"	"Unspecified dementia"	"F03"	24	35288	68.0
+	"Arkansas"	"05"	"79 years"	"79"	"Parkinson disease"	"G20"	43	35288	121.9
+	"Arkansas"	"05"	"79 years"	"79"	"Alzheimer disease, unspecified"	"G30.9"	69	35288	195.5
+	"Arkansas"	"05"	"79 years"	"79"	"Senile degeneration of brain, not elsewhere classified"	"G31.1"	29	35288	82.2
+	"Arkansas"	"05"	"79 years"	"79"	"Essential (primary) hypertension"	"I10"	13	35288	Unreliable
+	"Arkansas"	"05"	"79 years"	"79"	"Hypertensive heart disease with (congestive) heart failure"	"I11.0"	30	35288	85.0
+	"Arkansas"	"05"	"79 years"	"79"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	28	35288	79.3
+	"Arkansas"	"05"	"79 years"	"79"	"Hypertensive renal disease with renal failure"	"I12.0"	11	35288	Unreliable
+	"Arkansas"	"05"	"79 years"	"79"	"Acute myocardial infarction, unspecified"	"I21.9"	191	35288	541.3
+	"Arkansas"	"05"	"79 years"	"79"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	19	35288	Unreliable
+	"Arkansas"	"05"	"79 years"	"79"	"Atherosclerotic heart disease"	"I25.1"	110	35288	311.7
+	"Arkansas"	"05"	"79 years"	"79"	"Cardiomyopathy, unspecified"	"I42.9"	10	35288	Unreliable
+	"Arkansas"	"05"	"79 years"	"79"	"Atrial fibrillation and flutter"	"I48"	16	35288	Unreliable
+	"Arkansas"	"05"	"79 years"	"79"	"Congestive heart failure"	"I50.0"	55	35288	155.9
+	"Arkansas"	"05"	"79 years"	"79"	"Heart failure, unspecified"	"I50.9"	16	35288	Unreliable
+	"Arkansas"	"05"	"79 years"	"79"	"Intracerebral haemorrhage, unspecified"	"I61.9"	10	35288	Unreliable
+	"Arkansas"	"05"	"79 years"	"79"	"Cerebral infarction, unspecified"	"I63.9"	13	35288	Unreliable
+	"Arkansas"	"05"	"79 years"	"79"	"Stroke, not specified as haemorrhage or infarction"	"I64"	45	35288	127.5
+	"Arkansas"	"05"	"79 years"	"79"	"Pneumonia, unspecified"	"J18.9"	37	35288	104.9
+	"Arkansas"	"05"	"79 years"	"79"	"Emphysema, unspecified"	"J43.9"	13	35288	Unreliable
+	"Arkansas"	"05"	"79 years"	"79"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	19	35288	Unreliable
+	"Arkansas"	"05"	"79 years"	"79"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	150	35288	425.1
+	"Arkansas"	"05"	"79 years"	"79"	"Pneumonitis due to food and vomit"	"J69.0"	10	35288	Unreliable
+	"Arkansas"	"05"	"79 years"	"79"	"Other interstitial pulmonary diseases with fibrosis"	"J84.1"	19	35288	Unreliable
+	"Arkansas"	"05"	"79 years"	"79"	"Other and unspecified cirrhosis of liver"	"K74.6"	16	35288	Unreliable
+	"Arkansas"	"05"	"79 years"	"79"	"Acute renal failure, unspecified"	"N17.9"	10	35288	Unreliable
+	"Arkansas"	"05"	"79 years"	"79"	"Chronic kidney disease, stage 5"	"N18.5"	29	35288	82.2
+	"Arkansas"	"05"	"79 years"	"79"	"Chronic renal failure, unspecified"	"N18.9"	10	35288	Unreliable
+	"Arkansas"	"05"	"79 years"	"79"	"COVID-19"	"U07.1"	52	35288	147.4
+	"Arkansas"	"05"	"79 years"	"79"	"Other fall on same level"	"W18"	10	35288	Unreliable
+	"Arkansas"	"05"	"79 years"	"79"	"Unspecified fall"	"W19"	10	35288	Unreliable
+	"Arkansas"	"05"	"79 years"	"79"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	21	35288	59.5
+	"Arkansas"	"05"	"80 years"	"80"	"Septicaemia, unspecified"	"A41.9"	29	32263	89.9
+	"Arkansas"	"05"	"80 years"	"80"	"Stomach, unspecified - Malignant neoplasms"	"C16.9"	12	32263	Unreliable
+	"Arkansas"	"05"	"80 years"	"80"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	27	32263	83.7
+	"Arkansas"	"05"	"80 years"	"80"	"Liver, unspecified - Malignant neoplasms"	"C22.9"	10	32263	Unreliable
+	"Arkansas"	"05"	"80 years"	"80"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	19	32263	Unreliable
+	"Arkansas"	"05"	"80 years"	"80"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	139	32263	430.8
+	"Arkansas"	"05"	"80 years"	"80"	"Malignant neoplasm of prostate"	"C61"	45	32263	139.5
+	"Arkansas"	"05"	"80 years"	"80"	"Malignant neoplasm of kidney, except renal pelvis"	"C64"	12	32263	Unreliable
+	"Arkansas"	"05"	"80 years"	"80"	"Bladder, unspecified - Malignant neoplasms"	"C67.9"	25	32263	77.5
+	"Arkansas"	"05"	"80 years"	"80"	"Malignant neoplasm without specification of site"	"C80"	11	32263	Unreliable
+	"Arkansas"	"05"	"80 years"	"80"	"Non-Hodgkin lymphoma, unspecified type"	"C85.9"	10	32263	Unreliable
+	"Arkansas"	"05"	"80 years"	"80"	"Multiple myeloma - Malignant neoplasms"	"C90.0"	10	32263	Unreliable
+	"Arkansas"	"05"	"80 years"	"80"	"Malignant neoplasms of independent (primary) multiple sites"	"C97"	10	32263	Unreliable
+	"Arkansas"	"05"	"80 years"	"80"	"Myelodysplastic syndrome, unspecified - Uncertain neoplasms"	"D46.9"	11	32263	Unreliable
+	"Arkansas"	"05"	"80 years"	"80"	"Non-insulin-dependent diabetes mellitus, without complications"	"E11.9"	14	32263	Unreliable
+	"Arkansas"	"05"	"80 years"	"80"	"Unspecified diabetes mellitus, with renal complications"	"E14.2"	16	32263	Unreliable
+	"Arkansas"	"05"	"80 years"	"80"	"Unspecified diabetes mellitus, without complications"	"E14.9"	36	32263	111.6
+	"Arkansas"	"05"	"80 years"	"80"	"Unspecified dementia"	"F03"	50	32263	155.0
+	"Arkansas"	"05"	"80 years"	"80"	"Parkinson disease"	"G20"	50	32263	155.0
+	"Arkansas"	"05"	"80 years"	"80"	"Alzheimer disease, unspecified"	"G30.9"	95	32263	294.5
+	"Arkansas"	"05"	"80 years"	"80"	"Senile degeneration of brain, not elsewhere classified"	"G31.1"	26	32263	80.6
+	"Arkansas"	"05"	"80 years"	"80"	"Essential (primary) hypertension"	"I10"	14	32263	Unreliable
+	"Arkansas"	"05"	"80 years"	"80"	"Hypertensive heart disease with (congestive) heart failure"	"I11.0"	15	32263	Unreliable
+	"Arkansas"	"05"	"80 years"	"80"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	34	32263	105.4
+	"Arkansas"	"05"	"80 years"	"80"	"Acute myocardial infarction, unspecified"	"I21.9"	230	32263	712.9
+	"Arkansas"	"05"	"80 years"	"80"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	19	32263	Unreliable
+	"Arkansas"	"05"	"80 years"	"80"	"Atherosclerotic heart disease"	"I25.1"	126	32263	390.5
+	"Arkansas"	"05"	"80 years"	"80"	"Atrial fibrillation and flutter"	"I48"	13	32263	Unreliable
+	"Arkansas"	"05"	"80 years"	"80"	"Congestive heart failure"	"I50.0"	58	32263	179.8
+	"Arkansas"	"05"	"80 years"	"80"	"Heart failure, unspecified"	"I50.9"	25	32263	77.5
+	"Arkansas"	"05"	"80 years"	"80"	"Cerebral infarction, unspecified"	"I63.9"	18	32263	Unreliable
+	"Arkansas"	"05"	"80 years"	"80"	"Stroke, not specified as haemorrhage or infarction"	"I64"	49	32263	151.9
+	"Arkansas"	"05"	"80 years"	"80"	"Pneumonia, unspecified"	"J18.9"	56	32263	173.6
+	"Arkansas"	"05"	"80 years"	"80"	"Emphysema, unspecified"	"J43.9"	11	32263	Unreliable
+	"Arkansas"	"05"	"80 years"	"80"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	15	32263	Unreliable
+	"Arkansas"	"05"	"80 years"	"80"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	162	32263	502.1
+	"Arkansas"	"05"	"80 years"	"80"	"Pneumonitis due to food and vomit"	"J69.0"	13	32263	Unreliable
+	"Arkansas"	"05"	"80 years"	"80"	"Other interstitial pulmonary diseases with fibrosis"	"J84.1"	17	32263	Unreliable
+	"Arkansas"	"05"	"80 years"	"80"	"Acute renal failure, unspecified"	"N17.9"	14	32263	Unreliable
+	"Arkansas"	"05"	"80 years"	"80"	"Chronic kidney disease, stage 5"	"N18.5"	16	32263	Unreliable
+	"Arkansas"	"05"	"80 years"	"80"	"COVID-19"	"U07.1"	70	32263	217.0
+	"Arkansas"	"05"	"80 years"	"80"	"Unspecified fall"	"W19"	10	32263	Unreliable
+	"Arkansas"	"05"	"80 years"	"80"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	12	32263	Unreliable
+	"Arkansas"	"05"	"81 years"	"81"	"Septicaemia, unspecified"	"A41.9"	34	29126	116.7
+	"Arkansas"	"05"	"81 years"	"81"	"Oesophagus, unspecified - Malignant neoplasms"	"C15.9"	10	29126	Unreliable
+	"Arkansas"	"05"	"81 years"	"81"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	22	29126	75.5
+	"Arkansas"	"05"	"81 years"	"81"	"Liver, unspecified - Malignant neoplasms"	"C22.9"	10	29126	Unreliable
+	"Arkansas"	"05"	"81 years"	"81"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	18	29126	Unreliable
+	"Arkansas"	"05"	"81 years"	"81"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	129	29126	442.9
+	"Arkansas"	"05"	"81 years"	"81"	"Malignant neoplasm of prostate"	"C61"	61	29126	209.4
+	"Arkansas"	"05"	"81 years"	"81"	"Malignant neoplasm of kidney, except renal pelvis"	"C64"	14	29126	Unreliable
+	"Arkansas"	"05"	"81 years"	"81"	"Bladder, unspecified - Malignant neoplasms"	"C67.9"	13	29126	Unreliable
+	"Arkansas"	"05"	"81 years"	"81"	"Malignant neoplasm without specification of site"	"C80"	17	29126	Unreliable
+	"Arkansas"	"05"	"81 years"	"81"	"Non-Hodgkin lymphoma, unspecified type"	"C85.9"	10	29126	Unreliable
+	"Arkansas"	"05"	"81 years"	"81"	"Non-insulin-dependent diabetes mellitus, with renal complications"	"E11.2"	10	29126	Unreliable
+	"Arkansas"	"05"	"81 years"	"81"	"Non-insulin-dependent diabetes mellitus, without complications"	"E11.9"	13	29126	Unreliable
+	"Arkansas"	"05"	"81 years"	"81"	"Unspecified diabetes mellitus, with renal complications"	"E14.2"	13	29126	Unreliable
+	"Arkansas"	"05"	"81 years"	"81"	"Unspecified diabetes mellitus, without complications"	"E14.9"	39	29126	133.9
+	"Arkansas"	"05"	"81 years"	"81"	"Unspecified dementia"	"F03"	53	29126	182.0
+	"Arkansas"	"05"	"81 years"	"81"	"Parkinson disease"	"G20"	40	29126	137.3
+	"Arkansas"	"05"	"81 years"	"81"	"Alzheimer disease, unspecified"	"G30.9"	110	29126	377.7
+	"Arkansas"	"05"	"81 years"	"81"	"Senile degeneration of brain, not elsewhere classified"	"G31.1"	28	29126	96.1
+	"Arkansas"	"05"	"81 years"	"81"	"Essential (primary) hypertension"	"I10"	12	29126	Unreliable
+	"Arkansas"	"05"	"81 years"	"81"	"Hypertensive heart disease with (congestive) heart failure"	"I11.0"	25	29126	85.8
+	"Arkansas"	"05"	"81 years"	"81"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	38	29126	130.5
+	"Arkansas"	"05"	"81 years"	"81"	"Acute myocardial infarction, unspecified"	"I21.9"	170	29126	583.7
+	"Arkansas"	"05"	"81 years"	"81"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	12	29126	Unreliable
+	"Arkansas"	"05"	"81 years"	"81"	"Atherosclerotic heart disease"	"I25.1"	145	29126	497.8
+	"Arkansas"	"05"	"81 years"	"81"	"Atrial fibrillation and flutter"	"I48"	15	29126	Unreliable
+	"Arkansas"	"05"	"81 years"	"81"	"Congestive heart failure"	"I50.0"	54	29126	185.4
+	"Arkansas"	"05"	"81 years"	"81"	"Heart failure, unspecified"	"I50.9"	12	29126	Unreliable
+	"Arkansas"	"05"	"81 years"	"81"	"Intracerebral haemorrhage, unspecified"	"I61.9"	14	29126	Unreliable
+	"Arkansas"	"05"	"81 years"	"81"	"Cerebral infarction, unspecified"	"I63.9"	11	29126	Unreliable
+	"Arkansas"	"05"	"81 years"	"81"	"Stroke, not specified as haemorrhage or infarction"	"I64"	31	29126	106.4
+	"Arkansas"	"05"	"81 years"	"81"	"Sequelae of stroke, not specified as haemorrhage or infarction"	"I69.4"	10	29126	Unreliable
+	"Arkansas"	"05"	"81 years"	"81"	"Pneumonia, unspecified"	"J18.9"	45	29126	154.5
+	"Arkansas"	"05"	"81 years"	"81"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	27	29126	92.7
+	"Arkansas"	"05"	"81 years"	"81"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	126	29126	432.6
+	"Arkansas"	"05"	"81 years"	"81"	"Pneumonitis due to food and vomit"	"J69.0"	18	29126	Unreliable
+	"Arkansas"	"05"	"81 years"	"81"	"Other interstitial pulmonary diseases with fibrosis"	"J84.1"	16	29126	Unreliable
+	"Arkansas"	"05"	"81 years"	"81"	"Other and unspecified cirrhosis of liver"	"K74.6"	10	29126	Unreliable
+	"Arkansas"	"05"	"81 years"	"81"	"Chronic kidney disease, stage 5"	"N18.5"	25	29126	85.8
+	"Arkansas"	"05"	"81 years"	"81"	"Chronic renal failure, unspecified"	"N18.9"	10	29126	Unreliable
+	"Arkansas"	"05"	"81 years"	"81"	"Urinary tract infection, site not specified"	"N39.0"	10	29126	Unreliable
+	"Arkansas"	"05"	"81 years"	"81"	"COVID-19"	"U07.1"	48	29126	164.8
+	"Arkansas"	"05"	"81 years"	"81"	"Unspecified fall"	"W19"	12	29126	Unreliable
+	"Arkansas"	"05"	"81 years"	"81"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	14	29126	Unreliable
+	"Arkansas"	"05"	"82 years"	"82"	"Septicaemia, unspecified"	"A41.9"	23	26128	88.0
+	"Arkansas"	"05"	"82 years"	"82"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	24	26128	91.9
+	"Arkansas"	"05"	"82 years"	"82"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	27	26128	103.3
+	"Arkansas"	"05"	"82 years"	"82"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	120	26128	459.3
+	"Arkansas"	"05"	"82 years"	"82"	"Malignant neoplasm of prostate"	"C61"	63	26128	241.1
+	"Arkansas"	"05"	"82 years"	"82"	"Bladder, unspecified - Malignant neoplasms"	"C67.9"	15	26128	Unreliable
+	"Arkansas"	"05"	"82 years"	"82"	"Malignant neoplasm without specification of site"	"C80"	16	26128	Unreliable
+	"Arkansas"	"05"	"82 years"	"82"	"Multiple myeloma - Malignant neoplasms"	"C90.0"	11	26128	Unreliable
+	"Arkansas"	"05"	"82 years"	"82"	"Non-insulin-dependent diabetes mellitus, without complications"	"E11.9"	13	26128	Unreliable
+	"Arkansas"	"05"	"82 years"	"82"	"Unspecified diabetes mellitus, without complications"	"E14.9"	34	26128	130.1
+	"Arkansas"	"05"	"82 years"	"82"	"Unspecified dementia"	"F03"	58	26128	222.0
+	"Arkansas"	"05"	"82 years"	"82"	"Parkinson disease"	"G20"	51	26128	195.2
+	"Arkansas"	"05"	"82 years"	"82"	"Alzheimer disease, unspecified"	"G30.9"	110	26128	421.0
+	"Arkansas"	"05"	"82 years"	"82"	"Senile degeneration of brain, not elsewhere classified"	"G31.1"	37	26128	141.6
+	"Arkansas"	"05"	"82 years"	"82"	"Essential (primary) hypertension"	"I10"	10	26128	Unreliable
+	"Arkansas"	"05"	"82 years"	"82"	"Hypertensive heart disease with (congestive) heart failure"	"I11.0"	20	26128	76.5
+	"Arkansas"	"05"	"82 years"	"82"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	26	26128	99.5
+	"Arkansas"	"05"	"82 years"	"82"	"Hypertensive renal disease with renal failure"	"I12.0"	10	26128	Unreliable
+	"Arkansas"	"05"	"82 years"	"82"	"Acute myocardial infarction, unspecified"	"I21.9"	189	26128	723.4
+	"Arkansas"	"05"	"82 years"	"82"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	28	26128	107.2
+	"Arkansas"	"05"	"82 years"	"82"	"Atherosclerotic heart disease"	"I25.1"	147	26128	562.6
+	"Arkansas"	"05"	"82 years"	"82"	"Ischaemic cardiomyopathy"	"I25.5"	10	26128	Unreliable
+	"Arkansas"	"05"	"82 years"	"82"	"Atrial fibrillation and flutter"	"I48"	14	26128	Unreliable
+	"Arkansas"	"05"	"82 years"	"82"	"Congestive heart failure"	"I50.0"	53	26128	202.8
+	"Arkansas"	"05"	"82 years"	"82"	"Heart failure, unspecified"	"I50.9"	21	26128	80.4
+	"Arkansas"	"05"	"82 years"	"82"	"Intracerebral haemorrhage, unspecified"	"I61.9"	13	26128	Unreliable
+	"Arkansas"	"05"	"82 years"	"82"	"Cerebral infarction, unspecified"	"I63.9"	18	26128	Unreliable
+	"Arkansas"	"05"	"82 years"	"82"	"Stroke, not specified as haemorrhage or infarction"	"I64"	35	26128	134.0
+	"Arkansas"	"05"	"82 years"	"82"	"Sequelae of stroke, not specified as haemorrhage or infarction"	"I69.4"	10	26128	Unreliable
+	"Arkansas"	"05"	"82 years"	"82"	"Pneumonia, unspecified"	"J18.9"	47	26128	179.9
+	"Arkansas"	"05"	"82 years"	"82"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	23	26128	88.0
+	"Arkansas"	"05"	"82 years"	"82"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	135	26128	516.7
+	"Arkansas"	"05"	"82 years"	"82"	"Pneumonitis due to food and vomit"	"J69.0"	15	26128	Unreliable
+	"Arkansas"	"05"	"82 years"	"82"	"Other interstitial pulmonary diseases with fibrosis"	"J84.1"	20	26128	76.5
+	"Arkansas"	"05"	"82 years"	"82"	"Acute renal failure, unspecified"	"N17.9"	13	26128	Unreliable
+	"Arkansas"	"05"	"82 years"	"82"	"Chronic kidney disease, stage 5"	"N18.5"	34	26128	130.1
+	"Arkansas"	"05"	"82 years"	"82"	"Chronic renal failure, unspecified"	"N18.9"	18	26128	Unreliable
+	"Arkansas"	"05"	"82 years"	"82"	"Unspecified renal failure"	"N19"	11	26128	Unreliable
+	"Arkansas"	"05"	"82 years"	"82"	"COVID-19"	"U07.1"	63	26128	241.1
+	"Arkansas"	"05"	"82 years"	"82"	"Unspecified fall"	"W19"	10	26128	Unreliable
+	"Arkansas"	"05"	"83 years"	"83"	"Septicaemia, unspecified"	"A41.9"	32	23371	136.9
+	"Arkansas"	"05"	"83 years"	"83"	"Oesophagus, unspecified - Malignant neoplasms"	"C15.9"	10	23371	Unreliable
+	"Arkansas"	"05"	"83 years"	"83"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	28	23371	119.8
+	"Arkansas"	"05"	"83 years"	"83"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	21	23371	89.9
+	"Arkansas"	"05"	"83 years"	"83"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	103	23371	440.7
+	"Arkansas"	"05"	"83 years"	"83"	"Malignant neoplasm of prostate"	"C61"	62	23371	265.3
+	"Arkansas"	"05"	"83 years"	"83"	"Malignant neoplasm of kidney, except renal pelvis"	"C64"	12	23371	Unreliable
+	"Arkansas"	"05"	"83 years"	"83"	"Bladder, unspecified - Malignant neoplasms"	"C67.9"	11	23371	Unreliable
+	"Arkansas"	"05"	"83 years"	"83"	"Malignant neoplasm without specification of site"	"C80"	23	23371	98.4
+	"Arkansas"	"05"	"83 years"	"83"	"Non-Hodgkin lymphoma, unspecified type"	"C85.9"	11	23371	Unreliable
+	"Arkansas"	"05"	"83 years"	"83"	"Acute myeloid leukaemia - Malignant neoplasms"	"C92.0"	12	23371	Unreliable
+	"Arkansas"	"05"	"83 years"	"83"	"Myelodysplastic syndrome, unspecified - Uncertain neoplasms"	"D46.9"	10	23371	Unreliable
+	"Arkansas"	"05"	"83 years"	"83"	"Unspecified diabetes mellitus, with renal complications"	"E14.2"	11	23371	Unreliable
+	"Arkansas"	"05"	"83 years"	"83"	"Unspecified diabetes mellitus, without complications"	"E14.9"	26	23371	111.2
+	"Arkansas"	"05"	"83 years"	"83"	"Unspecified dementia"	"F03"	68	23371	291.0
+	"Arkansas"	"05"	"83 years"	"83"	"Parkinson disease"	"G20"	53	23371	226.8
+	"Arkansas"	"05"	"83 years"	"83"	"Alzheimer disease, unspecified"	"G30.9"	133	23371	569.1
+	"Arkansas"	"05"	"83 years"	"83"	"Senile degeneration of brain, not elsewhere classified"	"G31.1"	36	23371	154.0
+	"Arkansas"	"05"	"83 years"	"83"	"Hypertensive heart disease with (congestive) heart failure"	"I11.0"	27	23371	115.5
+	"Arkansas"	"05"	"83 years"	"83"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	39	23371	166.9
+	"Arkansas"	"05"	"83 years"	"83"	"Hypertensive renal disease with renal failure"	"I12.0"	10	23371	Unreliable
+	"Arkansas"	"05"	"83 years"	"83"	"Acute myocardial infarction, unspecified"	"I21.9"	165	23371	706.0
+	"Arkansas"	"05"	"83 years"	"83"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	17	23371	Unreliable
+	"Arkansas"	"05"	"83 years"	"83"	"Atherosclerotic heart disease"	"I25.1"	128	23371	547.7
+	"Arkansas"	"05"	"83 years"	"83"	"Aortic (valve) stenosis"	"I35.0"	10	23371	Unreliable
+	"Arkansas"	"05"	"83 years"	"83"	"Atrial fibrillation and flutter"	"I48"	12	23371	Unreliable
+	"Arkansas"	"05"	"83 years"	"83"	"Congestive heart failure"	"I50.0"	67	23371	286.7
+	"Arkansas"	"05"	"83 years"	"83"	"Heart failure, unspecified"	"I50.9"	13	23371	Unreliable
+	"Arkansas"	"05"	"83 years"	"83"	"Cerebral infarction, unspecified"	"I63.9"	17	23371	Unreliable
+	"Arkansas"	"05"	"83 years"	"83"	"Stroke, not specified as haemorrhage or infarction"	"I64"	54	23371	231.1
+	"Arkansas"	"05"	"83 years"	"83"	"Pneumonia, unspecified"	"J18.9"	36	23371	154.0
+	"Arkansas"	"05"	"83 years"	"83"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	14	23371	Unreliable
+	"Arkansas"	"05"	"83 years"	"83"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	150	23371	641.8
+	"Arkansas"	"05"	"83 years"	"83"	"Other interstitial pulmonary diseases with fibrosis"	"J84.1"	12	23371	Unreliable
+	"Arkansas"	"05"	"83 years"	"83"	"Chronic kidney disease, stage 5"	"N18.5"	13	23371	Unreliable
+	"Arkansas"	"05"	"83 years"	"83"	"Chronic renal failure, unspecified"	"N18.9"	17	23371	Unreliable
+	"Arkansas"	"05"	"83 years"	"83"	"COVID-19"	"U07.1"	58	23371	248.2
+	"Arkansas"	"05"	"83 years"	"83"	"Unspecified fall"	"W19"	11	23371	Unreliable
+	"Arkansas"	"05"	"84 years"	"84"	"Septicaemia, unspecified"	"A41.9"	28	20567	136.1
+	"Arkansas"	"05"	"84 years"	"84"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	17	20567	Unreliable
+	"Arkansas"	"05"	"84 years"	"84"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	22	20567	107.0
+	"Arkansas"	"05"	"84 years"	"84"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	94	20567	457.0
+	"Arkansas"	"05"	"84 years"	"84"	"Malignant neoplasm of prostate"	"C61"	62	20567	301.5
+	"Arkansas"	"05"	"84 years"	"84"	"Bladder, unspecified - Malignant neoplasms"	"C67.9"	19	20567	Unreliable
+	"Arkansas"	"05"	"84 years"	"84"	"Malignant neoplasm without specification of site"	"C80"	16	20567	Unreliable
+	"Arkansas"	"05"	"84 years"	"84"	"Non-Hodgkin lymphoma, unspecified type"	"C85.9"	10	20567	Unreliable
+	"Arkansas"	"05"	"84 years"	"84"	"Malignant neoplasms of independent (primary) multiple sites"	"C97"	10	20567	Unreliable
+	"Arkansas"	"05"	"84 years"	"84"	"Unspecified diabetes mellitus, with renal complications"	"E14.2"	13	20567	Unreliable
+	"Arkansas"	"05"	"84 years"	"84"	"Unspecified diabetes mellitus, without complications"	"E14.9"	30	20567	145.9
+	"Arkansas"	"05"	"84 years"	"84"	"Unspecified dementia"	"F03"	61	20567	296.6
+	"Arkansas"	"05"	"84 years"	"84"	"Parkinson disease"	"G20"	56	20567	272.3
+	"Arkansas"	"05"	"84 years"	"84"	"Alzheimer disease, unspecified"	"G30.9"	122	20567	593.2
+	"Arkansas"	"05"	"84 years"	"84"	"Senile degeneration of brain, not elsewhere classified"	"G31.1"	32	20567	155.6
+	"Arkansas"	"05"	"84 years"	"84"	"Essential (primary) hypertension"	"I10"	21	20567	102.1
+	"Arkansas"	"05"	"84 years"	"84"	"Hypertensive heart disease with (congestive) heart failure"	"I11.0"	30	20567	145.9
+	"Arkansas"	"05"	"84 years"	"84"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	42	20567	204.2
+	"Arkansas"	"05"	"84 years"	"84"	"Acute myocardial infarction, unspecified"	"I21.9"	167	20567	812.0
+	"Arkansas"	"05"	"84 years"	"84"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	15	20567	Unreliable
+	"Arkansas"	"05"	"84 years"	"84"	"Atherosclerotic heart disease"	"I25.1"	119	20567	578.6
+	"Arkansas"	"05"	"84 years"	"84"	"Ischaemic cardiomyopathy"	"I25.5"	11	20567	Unreliable
+	"Arkansas"	"05"	"84 years"	"84"	"Atrial fibrillation and flutter"	"I48"	24	20567	116.7
+	"Arkansas"	"05"	"84 years"	"84"	"Congestive heart failure"	"I50.0"	59	20567	286.9
+	"Arkansas"	"05"	"84 years"	"84"	"Heart failure, unspecified"	"I50.9"	12	20567	Unreliable
+	"Arkansas"	"05"	"84 years"	"84"	"Heart disease, unspecified"	"I51.9"	10	20567	Unreliable
+	"Arkansas"	"05"	"84 years"	"84"	"Intracerebral haemorrhage, unspecified"	"I61.9"	11	20567	Unreliable
+	"Arkansas"	"05"	"84 years"	"84"	"Cerebral infarction, unspecified"	"I63.9"	11	20567	Unreliable
+	"Arkansas"	"05"	"84 years"	"84"	"Stroke, not specified as haemorrhage or infarction"	"I64"	39	20567	189.6
+	"Arkansas"	"05"	"84 years"	"84"	"Pneumonia, unspecified"	"J18.9"	33	20567	160.5
+	"Arkansas"	"05"	"84 years"	"84"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	18	20567	Unreliable
+	"Arkansas"	"05"	"84 years"	"84"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	128	20567	622.4
+	"Arkansas"	"05"	"84 years"	"84"	"Pneumonitis due to food and vomit"	"J69.0"	18	20567	Unreliable
+	"Arkansas"	"05"	"84 years"	"84"	"Other interstitial pulmonary diseases with fibrosis"	"J84.1"	14	20567	Unreliable
+	"Arkansas"	"05"	"84 years"	"84"	"Gastrointestinal haemorrhage, unspecified"	"K92.2"	13	20567	Unreliable
+	"Arkansas"	"05"	"84 years"	"84"	"Acute renal failure, unspecified"	"N17.9"	11	20567	Unreliable
+	"Arkansas"	"05"	"84 years"	"84"	"Chronic kidney disease, stage 5"	"N18.5"	22	20567	107.0
+	"Arkansas"	"05"	"84 years"	"84"	"Unspecified renal failure"	"N19"	15	20567	Unreliable
+	"Arkansas"	"05"	"84 years"	"84"	"COVID-19"	"U07.1"	44	20567	213.9
+	"Arkansas"	"05"	"84 years"	"84"	"Unspecified fall"	"W19"	14	20567	Unreliable
+	"Arkansas"	"05"	"85 years"	"85"	"Septicaemia, unspecified"	"A41.9"	16	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"85 years"	"85"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	32	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"85 years"	"85"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	17	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"85 years"	"85"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	90	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"85 years"	"85"	"Malignant neoplasm of prostate"	"C61"	58	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"85 years"	"85"	"Malignant neoplasm of kidney, except renal pelvis"	"C64"	11	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"85 years"	"85"	"Bladder, unspecified - Malignant neoplasms"	"C67.9"	20	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"85 years"	"85"	"Malignant neoplasm without specification of site"	"C80"	14	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"85 years"	"85"	"Unspecified diabetes mellitus, without complications"	"E14.9"	21	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"85 years"	"85"	"Unspecified dementia"	"F03"	70	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"85 years"	"85"	"Parkinson disease"	"G20"	44	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"85 years"	"85"	"Alzheimer disease, unspecified"	"G30.9"	117	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"85 years"	"85"	"Senile degeneration of brain, not elsewhere classified"	"G31.1"	44	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"85 years"	"85"	"Essential (primary) hypertension"	"I10"	17	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"85 years"	"85"	"Hypertensive heart disease with (congestive) heart failure"	"I11.0"	22	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"85 years"	"85"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	36	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"85 years"	"85"	"Acute subendocardial myocardial infarction"	"I21.4"	10	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"85 years"	"85"	"Acute myocardial infarction, unspecified"	"I21.9"	165	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"85 years"	"85"	"Atherosclerotic heart disease"	"I25.1"	140	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"85 years"	"85"	"Ischaemic cardiomyopathy"	"I25.5"	11	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"85 years"	"85"	"Aortic (valve) stenosis"	"I35.0"	10	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"85 years"	"85"	"Atrial fibrillation and flutter"	"I48"	21	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"85 years"	"85"	"Congestive heart failure"	"I50.0"	55	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"85 years"	"85"	"Heart failure, unspecified"	"I50.9"	18	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"85 years"	"85"	"Cerebral infarction, unspecified"	"I63.9"	21	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"85 years"	"85"	"Stroke, not specified as haemorrhage or infarction"	"I64"	37	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"85 years"	"85"	"Sequelae of stroke, not specified as haemorrhage or infarction"	"I69.4"	11	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"85 years"	"85"	"Pneumonia, unspecified"	"J18.9"	39	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"85 years"	"85"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	18	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"85 years"	"85"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	112	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"85 years"	"85"	"Pneumonitis due to food and vomit"	"J69.0"	13	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"85 years"	"85"	"Other interstitial pulmonary diseases with fibrosis"	"J84.1"	16	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"85 years"	"85"	"Acute renal failure, unspecified"	"N17.9"	10	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"85 years"	"85"	"Chronic kidney disease, stage 5"	"N18.5"	15	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"85 years"	"85"	"Chronic renal failure, unspecified"	"N18.9"	11	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"85 years"	"85"	"COVID-19"	"U07.1"	72	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"85 years"	"85"	"Unspecified fall"	"W19"	10	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"86 years"	"86"	"Septicaemia, unspecified"	"A41.9"	19	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"86 years"	"86"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	21	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"86 years"	"86"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	10	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"86 years"	"86"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	69	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"86 years"	"86"	"Malignant neoplasm of prostate"	"C61"	46	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"86 years"	"86"	"Malignant neoplasm of kidney, except renal pelvis"	"C64"	11	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"86 years"	"86"	"Bladder, unspecified - Malignant neoplasms"	"C67.9"	20	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"86 years"	"86"	"Malignant neoplasm without specification of site"	"C80"	16	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"86 years"	"86"	"Unspecified diabetes mellitus, with renal complications"	"E14.2"	15	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"86 years"	"86"	"Unspecified diabetes mellitus, without complications"	"E14.9"	21	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"86 years"	"86"	"Unspecified dementia"	"F03"	51	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"86 years"	"86"	"Parkinson disease"	"G20"	42	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"86 years"	"86"	"Alzheimer disease, unspecified"	"G30.9"	109	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"86 years"	"86"	"Senile degeneration of brain, not elsewhere classified"	"G31.1"	39	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"86 years"	"86"	"Essential (primary) hypertension"	"I10"	15	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"86 years"	"86"	"Hypertensive heart disease with (congestive) heart failure"	"I11.0"	24	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"86 years"	"86"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	30	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"86 years"	"86"	"Acute myocardial infarction, unspecified"	"I21.9"	147	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"86 years"	"86"	"Atherosclerotic heart disease"	"I25.1"	136	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"86 years"	"86"	"Chronic ischaemic heart disease, unspecified"	"I25.9"	11	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"86 years"	"86"	"Aortic (valve) stenosis"	"I35.0"	10	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"86 years"	"86"	"Atrial fibrillation and flutter"	"I48"	15	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"86 years"	"86"	"Congestive heart failure"	"I50.0"	68	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"86 years"	"86"	"Heart failure, unspecified"	"I50.9"	14	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"86 years"	"86"	"Cerebral infarction, unspecified"	"I63.9"	15	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"86 years"	"86"	"Stroke, not specified as haemorrhage or infarction"	"I64"	36	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"86 years"	"86"	"Pneumonia, unspecified"	"J18.9"	36	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"86 years"	"86"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	20	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"86 years"	"86"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	117	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"86 years"	"86"	"Pneumonitis due to food and vomit"	"J69.0"	15	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"86 years"	"86"	"Other interstitial pulmonary diseases with fibrosis"	"J84.1"	11	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"86 years"	"86"	"Chronic kidney disease, stage 5"	"N18.5"	10	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"86 years"	"86"	"Chronic renal failure, unspecified"	"N18.9"	14	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"86 years"	"86"	"Unspecified renal failure"	"N19"	12	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"86 years"	"86"	"COVID-19"	"U07.1"	44	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"86 years"	"86"	"Unspecified fall"	"W19"	11	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"87 years"	"87"	"Septicaemia, unspecified"	"A41.9"	34	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"87 years"	"87"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	18	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"87 years"	"87"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	66	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"87 years"	"87"	"Malignant neoplasm of prostate"	"C61"	50	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"87 years"	"87"	"Bladder, unspecified - Malignant neoplasms"	"C67.9"	16	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"87 years"	"87"	"Malignant neoplasm without specification of site"	"C80"	13	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"87 years"	"87"	"Unspecified diabetes mellitus, without complications"	"E14.9"	13	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"87 years"	"87"	"Unspecified dementia"	"F03"	74	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"87 years"	"87"	"Parkinson disease"	"G20"	38	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"87 years"	"87"	"Alzheimer disease, unspecified"	"G30.9"	111	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"87 years"	"87"	"Senile degeneration of brain, not elsewhere classified"	"G31.1"	35	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"87 years"	"87"	"Essential (primary) hypertension"	"I10"	13	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"87 years"	"87"	"Hypertensive heart disease with (congestive) heart failure"	"I11.0"	29	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"87 years"	"87"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	23	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"87 years"	"87"	"Acute myocardial infarction, unspecified"	"I21.9"	130	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"87 years"	"87"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	21	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"87 years"	"87"	"Atherosclerotic heart disease"	"I25.1"	120	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"87 years"	"87"	"Chronic ischaemic heart disease, unspecified"	"I25.9"	11	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"87 years"	"87"	"Atrial fibrillation and flutter"	"I48"	21	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"87 years"	"87"	"Congestive heart failure"	"I50.0"	62	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"87 years"	"87"	"Heart failure, unspecified"	"I50.9"	16	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"87 years"	"87"	"Cerebral infarction, unspecified"	"I63.9"	10	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"87 years"	"87"	"Stroke, not specified as haemorrhage or infarction"	"I64"	37	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"87 years"	"87"	"Cerebrovascular disease, unspecified"	"I67.9"	10	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"87 years"	"87"	"Pneumonia, unspecified"	"J18.9"	44	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"87 years"	"87"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	15	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"87 years"	"87"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	85	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"87 years"	"87"	"Pneumonitis due to food and vomit"	"J69.0"	28	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"87 years"	"87"	"Chronic kidney disease, stage 5"	"N18.5"	14	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"87 years"	"87"	"Unspecified renal failure"	"N19"	11	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"87 years"	"87"	"COVID-19"	"U07.1"	50	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"88 years"	"88"	"Septicaemia, unspecified"	"A41.9"	23	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"88 years"	"88"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	17	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"88 years"	"88"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	13	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"88 years"	"88"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	54	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"88 years"	"88"	"Malignant neoplasm of prostate"	"C61"	46	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"88 years"	"88"	"Bladder, unspecified - Malignant neoplasms"	"C67.9"	13	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"88 years"	"88"	"Unspecified diabetes mellitus, without complications"	"E14.9"	18	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"88 years"	"88"	"Unspecified dementia"	"F03"	51	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"88 years"	"88"	"Parkinson disease"	"G20"	41	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"88 years"	"88"	"Alzheimer disease, unspecified"	"G30.9"	106	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"88 years"	"88"	"Senile degeneration of brain, not elsewhere classified"	"G31.1"	53	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"88 years"	"88"	"Hypertensive heart disease with (congestive) heart failure"	"I11.0"	21	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"88 years"	"88"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	21	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"88 years"	"88"	"Acute myocardial infarction, unspecified"	"I21.9"	136	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"88 years"	"88"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	17	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"88 years"	"88"	"Atherosclerotic heart disease"	"I25.1"	116	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"88 years"	"88"	"Aortic (valve) stenosis"	"I35.0"	10	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"88 years"	"88"	"Atrial fibrillation and flutter"	"I48"	12	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"88 years"	"88"	"Congestive heart failure"	"I50.0"	51	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"88 years"	"88"	"Heart failure, unspecified"	"I50.9"	19	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"88 years"	"88"	"Heart disease, unspecified"	"I51.9"	14	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"88 years"	"88"	"Cerebral infarction, unspecified"	"I63.9"	23	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"88 years"	"88"	"Stroke, not specified as haemorrhage or infarction"	"I64"	30	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"88 years"	"88"	"Sequelae of stroke, not specified as haemorrhage or infarction"	"I69.4"	10	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"88 years"	"88"	"Pneumonia, unspecified"	"J18.9"	41	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"88 years"	"88"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	78	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"88 years"	"88"	"Acute renal failure, unspecified"	"N17.9"	10	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"88 years"	"88"	"Chronic kidney disease, stage 5"	"N18.5"	16	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"88 years"	"88"	"Urinary tract infection, site not specified"	"N39.0"	11	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"88 years"	"88"	"COVID-19"	"U07.1"	48	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"89 years"	"89"	"Septicaemia, unspecified"	"A41.9"	21	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"89 years"	"89"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	12	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"89 years"	"89"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	63	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"89 years"	"89"	"Malignant neoplasm of prostate"	"C61"	52	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"89 years"	"89"	"Malignant neoplasm without specification of site"	"C80"	14	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"89 years"	"89"	"Unspecified diabetes mellitus, without complications"	"E14.9"	14	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"89 years"	"89"	"Unspecified dementia"	"F03"	65	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"89 years"	"89"	"Parkinson disease"	"G20"	36	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"89 years"	"89"	"Alzheimer disease, unspecified"	"G30.9"	117	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"89 years"	"89"	"Senile degeneration of brain, not elsewhere classified"	"G31.1"	48	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"89 years"	"89"	"Essential (primary) hypertension"	"I10"	17	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"89 years"	"89"	"Hypertensive heart disease with (congestive) heart failure"	"I11.0"	28	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"89 years"	"89"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	23	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"89 years"	"89"	"Acute myocardial infarction, unspecified"	"I21.9"	123	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"89 years"	"89"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	13	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"89 years"	"89"	"Atherosclerotic heart disease"	"I25.1"	109	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"89 years"	"89"	"Atrial fibrillation and flutter"	"I48"	17	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"89 years"	"89"	"Congestive heart failure"	"I50.0"	59	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"89 years"	"89"	"Heart failure, unspecified"	"I50.9"	18	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"89 years"	"89"	"Heart disease, unspecified"	"I51.9"	10	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"89 years"	"89"	"Cerebral infarction, unspecified"	"I63.9"	12	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"89 years"	"89"	"Stroke, not specified as haemorrhage or infarction"	"I64"	27	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"89 years"	"89"	"Pneumonia, unspecified"	"J18.9"	25	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"89 years"	"89"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	14	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"89 years"	"89"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	82	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"89 years"	"89"	"Pneumonitis due to food and vomit"	"J69.0"	15	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"89 years"	"89"	"Chronic kidney disease, stage 5"	"N18.5"	11	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"89 years"	"89"	"Chronic renal failure, unspecified"	"N18.9"	12	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"89 years"	"89"	"COVID-19"	"U07.1"	34	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"90 years"	"90"	"Septicaemia, unspecified"	"A41.9"	16	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"90 years"	"90"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	11	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"90 years"	"90"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	36	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"90 years"	"90"	"Malignant neoplasm of prostate"	"C61"	37	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"90 years"	"90"	"Malignant neoplasm of kidney, except renal pelvis"	"C64"	11	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"90 years"	"90"	"Bladder, unspecified - Malignant neoplasms"	"C67.9"	15	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"90 years"	"90"	"Malignant neoplasm without specification of site"	"C80"	13	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"90 years"	"90"	"Non-insulin-dependent diabetes mellitus, without complications"	"E11.9"	11	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"90 years"	"90"	"Unspecified diabetes mellitus, without complications"	"E14.9"	16	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"90 years"	"90"	"Unspecified dementia"	"F03"	66	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"90 years"	"90"	"Parkinson disease"	"G20"	22	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"90 years"	"90"	"Alzheimer disease with late onset"	"G30.1"	10	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"90 years"	"90"	"Alzheimer disease, unspecified"	"G30.9"	90	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"90 years"	"90"	"Senile degeneration of brain, not elsewhere classified"	"G31.1"	41	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"90 years"	"90"	"Essential (primary) hypertension"	"I10"	14	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"90 years"	"90"	"Hypertensive heart disease with (congestive) heart failure"	"I11.0"	21	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"90 years"	"90"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	17	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"90 years"	"90"	"Acute myocardial infarction, unspecified"	"I21.9"	104	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"90 years"	"90"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	13	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"90 years"	"90"	"Atherosclerotic heart disease"	"I25.1"	109	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"90 years"	"90"	"Atrial fibrillation and flutter"	"I48"	23	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"90 years"	"90"	"Congestive heart failure"	"I50.0"	58	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"90 years"	"90"	"Heart failure, unspecified"	"I50.9"	19	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"90 years"	"90"	"Stroke, not specified as haemorrhage or infarction"	"I64"	15	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"90 years"	"90"	"Pneumonia, unspecified"	"J18.9"	25	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"90 years"	"90"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	88	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"90 years"	"90"	"Gastrointestinal haemorrhage, unspecified"	"K92.2"	12	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"90 years"	"90"	"Chronic kidney disease, stage 5"	"N18.5"	10	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"90 years"	"90"	"Chronic renal failure, unspecified"	"N18.9"	11	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"90 years"	"90"	"COVID-19"	"U07.1"	46	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"91 years"	"91"	"Septicaemia, unspecified"	"A41.9"	16	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"91 years"	"91"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	25	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"91 years"	"91"	"Malignant neoplasm of prostate"	"C61"	30	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"91 years"	"91"	"Bladder, unspecified - Malignant neoplasms"	"C67.9"	10	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"91 years"	"91"	"Unspecified diabetes mellitus, without complications"	"E14.9"	10	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"91 years"	"91"	"Unspecified dementia"	"F03"	54	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"91 years"	"91"	"Parkinson disease"	"G20"	13	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"91 years"	"91"	"Alzheimer disease, unspecified"	"G30.9"	101	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"91 years"	"91"	"Senile degeneration of brain, not elsewhere classified"	"G31.1"	44	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"91 years"	"91"	"Essential (primary) hypertension"	"I10"	15	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"91 years"	"91"	"Hypertensive heart disease with (congestive) heart failure"	"I11.0"	19	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"91 years"	"91"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	16	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"91 years"	"91"	"Acute myocardial infarction, unspecified"	"I21.9"	97	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"91 years"	"91"	"Atherosclerotic heart disease"	"I25.1"	95	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"91 years"	"91"	"Aortic (valve) stenosis"	"I35.0"	12	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"91 years"	"91"	"Atrial fibrillation and flutter"	"I48"	15	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"91 years"	"91"	"Congestive heart failure"	"I50.0"	56	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"91 years"	"91"	"Heart failure, unspecified"	"I50.9"	16	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"91 years"	"91"	"Cerebral infarction, unspecified"	"I63.9"	12	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"91 years"	"91"	"Stroke, not specified as haemorrhage or infarction"	"I64"	23	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"91 years"	"91"	"Pneumonia, unspecified"	"J18.9"	33	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"91 years"	"91"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	12	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"91 years"	"91"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	54	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"91 years"	"91"	"Pneumonitis due to food and vomit"	"J69.0"	11	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"91 years"	"91"	"Chronic kidney disease, stage 5"	"N18.5"	10	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"91 years"	"91"	"COVID-19"	"U07.1"	23	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"92 years"	"92"	"Septicaemia, unspecified"	"A41.9"	19	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"92 years"	"92"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	12	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"92 years"	"92"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	21	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"92 years"	"92"	"Malignant neoplasm of prostate"	"C61"	26	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"92 years"	"92"	"Bladder, unspecified - Malignant neoplasms"	"C67.9"	14	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"92 years"	"92"	"Unspecified diabetes mellitus, without complications"	"E14.9"	10	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"92 years"	"92"	"Unspecified dementia"	"F03"	46	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"92 years"	"92"	"Parkinson disease"	"G20"	12	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"92 years"	"92"	"Alzheimer disease, unspecified"	"G30.9"	93	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"92 years"	"92"	"Senile degeneration of brain, not elsewhere classified"	"G31.1"	27	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"92 years"	"92"	"Essential (primary) hypertension"	"I10"	13	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"92 years"	"92"	"Hypertensive heart disease with (congestive) heart failure"	"I11.0"	18	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"92 years"	"92"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	18	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"92 years"	"92"	"Acute myocardial infarction, unspecified"	"I21.9"	92	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"92 years"	"92"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	11	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"92 years"	"92"	"Atherosclerotic heart disease"	"I25.1"	71	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"92 years"	"92"	"Atrial fibrillation and flutter"	"I48"	22	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"92 years"	"92"	"Congestive heart failure"	"I50.0"	49	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"92 years"	"92"	"Heart failure, unspecified"	"I50.9"	15	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"92 years"	"92"	"Heart disease, unspecified"	"I51.9"	12	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"92 years"	"92"	"Cerebral infarction, unspecified"	"I63.9"	17	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"92 years"	"92"	"Stroke, not specified as haemorrhage or infarction"	"I64"	23	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"92 years"	"92"	"Pneumonia, unspecified"	"J18.9"	26	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"92 years"	"92"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	10	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"92 years"	"92"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	44	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"92 years"	"92"	"COVID-19"	"U07.1"	40	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"93 years"	"93"	"Septicaemia, unspecified"	"A41.9"	11	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"93 years"	"93"	"Malignant neoplasm of prostate"	"C61"	24	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"93 years"	"93"	"Bladder, unspecified - Malignant neoplasms"	"C67.9"	10	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"93 years"	"93"	"Vascular dementia, unspecified"	"F01.9"	10	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"93 years"	"93"	"Unspecified dementia"	"F03"	42	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"93 years"	"93"	"Parkinson disease"	"G20"	10	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"93 years"	"93"	"Alzheimer disease, unspecified"	"G30.9"	77	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"93 years"	"93"	"Senile degeneration of brain, not elsewhere classified"	"G31.1"	41	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"93 years"	"93"	"Essential (primary) hypertension"	"I10"	11	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"93 years"	"93"	"Hypertensive heart disease with (congestive) heart failure"	"I11.0"	14	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"93 years"	"93"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	18	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"93 years"	"93"	"Acute myocardial infarction, unspecified"	"I21.9"	64	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"93 years"	"93"	"Atherosclerotic heart disease"	"I25.1"	67	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"93 years"	"93"	"Congestive heart failure"	"I50.0"	33	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"93 years"	"93"	"Heart failure, unspecified"	"I50.9"	22	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"93 years"	"93"	"Stroke, not specified as haemorrhage or infarction"	"I64"	17	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"93 years"	"93"	"Pneumonia, unspecified"	"J18.9"	26	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"93 years"	"93"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	44	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"93 years"	"93"	"COVID-19"	"U07.1"	22	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"94 years"	"94"	"Malignant neoplasm of prostate"	"C61"	23	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"94 years"	"94"	"Unspecified dementia"	"F03"	33	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"94 years"	"94"	"Parkinson disease"	"G20"	18	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"94 years"	"94"	"Alzheimer disease, unspecified"	"G30.9"	56	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"94 years"	"94"	"Senile degeneration of brain, not elsewhere classified"	"G31.1"	28	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"94 years"	"94"	"Hypertensive heart disease with (congestive) heart failure"	"I11.0"	19	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"94 years"	"94"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	13	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"94 years"	"94"	"Acute myocardial infarction, unspecified"	"I21.9"	60	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"94 years"	"94"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	11	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"94 years"	"94"	"Atherosclerotic heart disease"	"I25.1"	64	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"94 years"	"94"	"Aortic (valve) stenosis"	"I35.0"	11	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"94 years"	"94"	"Atrial fibrillation and flutter"	"I48"	13	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"94 years"	"94"	"Congestive heart failure"	"I50.0"	35	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"94 years"	"94"	"Heart failure, unspecified"	"I50.9"	13	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"94 years"	"94"	"Heart disease, unspecified"	"I51.9"	12	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"94 years"	"94"	"Stroke, not specified as haemorrhage or infarction"	"I64"	15	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"94 years"	"94"	"Pneumonia, unspecified"	"J18.9"	27	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"94 years"	"94"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	37	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"94 years"	"94"	"Pneumonitis due to food and vomit"	"J69.0"	10	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"94 years"	"94"	"Urinary tract infection, site not specified"	"N39.0"	10	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"94 years"	"94"	"COVID-19"	"U07.1"	22	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"95 years"	"95"	"Malignant neoplasm of prostate"	"C61"	15	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"95 years"	"95"	"Unspecified dementia"	"F03"	35	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"95 years"	"95"	"Alzheimer disease, unspecified"	"G30.9"	40	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"95 years"	"95"	"Senile degeneration of brain, not elsewhere classified"	"G31.1"	18	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"95 years"	"95"	"Hypertensive heart disease with (congestive) heart failure"	"I11.0"	21	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"95 years"	"95"	"Acute myocardial infarction, unspecified"	"I21.9"	34	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"95 years"	"95"	"Atherosclerotic heart disease"	"I25.1"	39	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"95 years"	"95"	"Congestive heart failure"	"I50.0"	23	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"95 years"	"95"	"Heart failure, unspecified"	"I50.9"	11	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"95 years"	"95"	"Stroke, not specified as haemorrhage or infarction"	"I64"	17	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"95 years"	"95"	"Pneumonia, unspecified"	"J18.9"	20	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"95 years"	"95"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	36	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"95 years"	"95"	"COVID-19"	"U07.1"	12	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"96 years"	"96"	"Malignant neoplasm of prostate"	"C61"	13	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"96 years"	"96"	"Unspecified dementia"	"F03"	18	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"96 years"	"96"	"Alzheimer disease, unspecified"	"G30.9"	23	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"96 years"	"96"	"Senile degeneration of brain, not elsewhere classified"	"G31.1"	16	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"96 years"	"96"	"Acute myocardial infarction, unspecified"	"I21.9"	40	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"96 years"	"96"	"Atherosclerotic heart disease"	"I25.1"	39	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"96 years"	"96"	"Congestive heart failure"	"I50.0"	22	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"96 years"	"96"	"Stroke, not specified as haemorrhage or infarction"	"I64"	13	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"96 years"	"96"	"Pneumonia, unspecified"	"J18.9"	11	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"96 years"	"96"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	16	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"96 years"	"96"	"COVID-19"	"U07.1"	11	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"97 years"	"97"	"Malignant neoplasm of prostate"	"C61"	10	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"97 years"	"97"	"Unspecified dementia"	"F03"	16	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"97 years"	"97"	"Alzheimer disease, unspecified"	"G30.9"	25	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"97 years"	"97"	"Senile degeneration of brain, not elsewhere classified"	"G31.1"	13	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"97 years"	"97"	"Hypertensive heart disease with (congestive) heart failure"	"I11.0"	10	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"97 years"	"97"	"Acute myocardial infarction, unspecified"	"I21.9"	19	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"97 years"	"97"	"Atherosclerotic heart disease"	"I25.1"	23	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"97 years"	"97"	"Congestive heart failure"	"I50.0"	18	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"97 years"	"97"	"Stroke, not specified as haemorrhage or infarction"	"I64"	10	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"97 years"	"97"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	11	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"98 years"	"98"	"Alzheimer disease, unspecified"	"G30.9"	17	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"98 years"	"98"	"Acute myocardial infarction, unspecified"	"I21.9"	12	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"98 years"	"98"	"Atherosclerotic heart disease"	"I25.1"	14	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"99 years"	"99"	"Alzheimer disease, unspecified"	"G30.9"	10	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"99 years"	"99"	"Atherosclerotic heart disease"	"I25.1"	11	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"99 years"	"99"	"Congestive heart failure"	"I50.0"	12	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"99 years"	"99"	"COVID-19"	"U07.1"	10	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"100+ years"	"100"	"Unspecified dementia"	"F03"	15	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"100+ years"	"100"	"Alzheimer disease, unspecified"	"G30.9"	18	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"100+ years"	"100"	"Senile degeneration of brain, not elsewhere classified"	"G31.1"	11	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"100+ years"	"100"	"Hypertensive heart disease with (congestive) heart failure"	"I11.0"	11	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"100+ years"	"100"	"Acute myocardial infarction, unspecified"	"I21.9"	19	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"100+ years"	"100"	"Atherosclerotic heart disease"	"I25.1"	26	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"100+ years"	"100"	"Congestive heart failure"	"I50.0"	16	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"100+ years"	"100"	"Pneumonia, unspecified"	"J18.9"	13	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"100+ years"	"100"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	11	Not Applicable	Not Applicable
+"---"
+"Dataset: Underlying Cause of Death, 1999-2020"
+"Query Parameters:"
+"Title: Arkansas CoD M"
+"Gender: Male"
+"States: Arkansas (05)"
+"Year/Month: 2016; 2017; 2018; 2019; 2020"
+"Group By: State; Single-Year Ages; Cause of death"
+"Show Totals: Disabled"
+"Show Zero Values: Disabled"
+"Show Suppressed: False"
+"Calculate Rates Per: 100,000"
+"Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/ucd.html for more information."
+"---"
+"Query Date: Apr 8, 2022 12:16:41 AM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. Underlying Cause of Death"
+"1999-2020 on CDC WONDER Online Database, released in 2021. Data are from the Multiple Cause of Death Files, 1999-2020, as"
+"compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative Program. Accessed"
+"at http://wonder.cdc.gov/ucd-icd10.html on Apr 8, 2022 12:16:41 AM"
+"---"
+Messages:
+"1. The full results are too long to be displayed. Due to suppression constraints rows that are zero, suppressed or a total will"
+"not be available."
+"---"
+Caveats:
+"1. Population and rates are labeled 'Not Applicable' when they include a subset of ages 85-100+ because populations are not"
+"available for those ages. More information: http://wonder.cdc.gov/wonder/help/ucd.html#Ages 85-100."
+"2. Death rates are flagged as Unreliable when the rate is calculated with a numerator of 20 or less. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Unreliable."
+"3. Deaths of persons with Age ""Not Stated"" are included in ""All"" counts and rates, but are not distributed among age groups,"
+"so are not included in age-specific counts, age-specific rates or in any age-adjusted rates. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Not Stated."
+"4. The population figures for year 2020 are bridged-race estimates of the July 1 resident population, from the Vintage 2020"
+"postcensal series released by NCHS on September 22, 2021. The population figures for year 2019 are bridged-race estimates of the"
+"July 1 resident population, from the Vintage 2019 postcensal series released by NCHS on July 9, 2020. The population figures for"
+"year 2018 are bridged-race estimates of the July 1 resident population, from the Vintage 2018 postcensal series released by NCHS"
+"on June 25, 2019. The population figures for year 2017 are bridged-race estimates of the July 1 resident population, from the"
+"Vintage 2017 postcensal series released by NCHS on June 27, 2018. The population figures for year 2016 are bridged-race"
+"estimates of the July 1 resident population, from the Vintage 2016 postcensal series released by NCHS on June 26, 2017. The"
+"population figures for year 2015 are bridged-race estimates of the July 1 resident population, from the Vintage 2015 postcensal"
+"series released by NCHS on June 28, 2016. The population figures for year 2014 are bridged-race estimates of the July 1 resident"
+"population, from the Vintage 2014 postcensal series released by NCHS on June 30, 2015. The population figures for year 2013 are"
+"bridged-race estimates of the July 1 resident population, from the Vintage 2013 postcensal series released by NCHS on June 26,"
+"2014. The population figures for year 2012 are bridged-race estimates of the July 1 resident population, from the Vintage 2012"
+"postcensal series released by NCHS on June 13, 2013. The population figures for year 2011 are bridged-race estimates of the July"
+"1 resident population, from the Vintage 2011 postcensal series released by NCHS on July 18, 2012. Population figures for 2010"
+"are April 1 Census counts. The population figures for years 2001 - 2009 are bridged-race estimates of the July 1 resident"
+"population, from the revised intercensal county-level 2000 - 2009 series released by NCHS on October 26, 2012. Population"
+"figures for 2000 are April 1 Census counts. Population figures for 1999 are from the 1990-1999 intercensal series of July 1"
+"estimates. Population figures for the infant age groups are the number of live births. <br/><b>Note:</b> Rates and population"
+"figures for years 2001 - 2009 differ slightly from previously published reports, due to use of the population estimates which"
+"were available at the time of release."
+"5. The population figures used in the calculation of death rates for the age group 'under 1 year' are the estimates of the"
+"resident population that is under one year of age. More information: http://wonder.cdc.gov/wonder/help/ucd.html#Age Group."
+"6. Beginning with the 2018 data, changes have been implemented that affect the counts for ICD-10 cause of death codes O00-O99"
+"compared to previous practice. In addition, data for the cause of death codes O00-O99 for 2003 through 2017 reflect differences"
+"in information available to individual states and probable errors. Caution should be used in interpreting these data. More"
+"information can be found at: https://www.cdc.gov/nchs/maternal-mortality/."
+"7. On March 11, 2021, the 2019 mortality data on CDC WONDER was updated with the 2019 mortality data updated by NCHS on March 4,"
+"2021 to include corrected information for residents of Texas affecting 5 records previously coded to cause code *U01.4,"
+"Terrorism involving firearms (homicide). The underlying and multiple cause of death codes for 5 records were corrected in the"
+"2019 data. Underlying and multiple cause of death codes for those 5 records were recoded to Assault (homicide) by other and"
+"unspecified firearm discharge, ICD-10 code X95. The corrected final death records replaces the data released on December 22,"
+"2020."
+"8. Changes to cause of death classification affect reporting trends. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#ICD-10 Changes."

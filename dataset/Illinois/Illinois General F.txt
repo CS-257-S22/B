@@ -1,0 +1,160 @@
+"Notes"	"State"	"State Code"	"Single-Year Ages"	"Single-Year Ages Code"	Deaths	Population	Crude Rate
+	"Illinois"	"17"	"< 1 year"	"0"	1897	361100	525.3
+	"Illinois"	"17"	"1 year"	"1"	118	365202	32.3
+	"Illinois"	"17"	"2 years"	"2"	66	372277	17.7
+	"Illinois"	"17"	"3 years"	"3"	55	373968	14.7
+	"Illinois"	"17"	"4 years"	"4"	46	376124	12.2
+	"Illinois"	"17"	"5 years"	"5"	44	376720	11.7
+	"Illinois"	"17"	"6 years"	"6"	29	378307	7.7
+	"Illinois"	"17"	"7 years"	"7"	39	380471	10.3
+	"Illinois"	"17"	"8 years"	"8"	36	385418	9.3
+	"Illinois"	"17"	"9 years"	"9"	37	390403	9.5
+	"Illinois"	"17"	"10 years"	"10"	38	393836	9.6
+	"Illinois"	"17"	"11 years"	"11"	46	397807	11.6
+	"Illinois"	"17"	"12 years"	"12"	47	401875	11.7
+	"Illinois"	"17"	"13 years"	"13"	49	403069	12.2
+	"Illinois"	"17"	"14 years"	"14"	71	403222	17.6
+	"Illinois"	"17"	"15 years"	"15"	95	406136	23.4
+	"Illinois"	"17"	"16 years"	"16"	100	410330	24.4
+	"Illinois"	"17"	"17 years"	"17"	105	412077	25.5
+	"Illinois"	"17"	"18 years"	"18"	147	398186	36.9
+	"Illinois"	"17"	"19 years"	"19"	152	397929	38.2
+	"Illinois"	"17"	"20 years"	"20"	148	405410	36.5
+	"Illinois"	"17"	"21 years"	"21"	196	407655	48.1
+	"Illinois"	"17"	"22 years"	"22"	224	417553	53.6
+	"Illinois"	"17"	"23 years"	"23"	226	424400	53.3
+	"Illinois"	"17"	"24 years"	"24"	228	434248	52.5
+	"Illinois"	"17"	"25 years"	"25"	262	440967	59.4
+	"Illinois"	"17"	"26 years"	"26"	265	444921	59.6
+	"Illinois"	"17"	"27 years"	"27"	254	444406	57.2
+	"Illinois"	"17"	"28 years"	"28"	278	442304	62.9
+	"Illinois"	"17"	"29 years"	"29"	307	437700	70.1
+	"Illinois"	"17"	"30 years"	"30"	331	432546	76.5
+	"Illinois"	"17"	"31 years"	"31"	349	429215	81.3
+	"Illinois"	"17"	"32 years"	"32"	369	427276	86.4
+	"Illinois"	"17"	"33 years"	"33"	339	427964	79.2
+	"Illinois"	"17"	"34 years"	"34"	406	429246	94.6
+	"Illinois"	"17"	"35 years"	"35"	451	429016	105.1
+	"Illinois"	"17"	"36 years"	"36"	436	429389	101.5
+	"Illinois"	"17"	"37 years"	"37"	492	427140	115.2
+	"Illinois"	"17"	"38 years"	"38"	472	420887	112.1
+	"Illinois"	"17"	"39 years"	"39"	487	414803	117.4
+	"Illinois"	"17"	"40 years"	"40"	511	406441	125.7
+	"Illinois"	"17"	"41 years"	"41"	578	398201	145.2
+	"Illinois"	"17"	"42 years"	"42"	522	392772	132.9
+	"Illinois"	"17"	"43 years"	"43"	624	390654	159.7
+	"Illinois"	"17"	"44 years"	"44"	693	392175	176.7
+	"Illinois"	"17"	"45 years"	"45"	792	401618	197.2
+	"Illinois"	"17"	"46 years"	"46"	874	409532	213.4
+	"Illinois"	"17"	"47 years"	"47"	915	413055	221.5
+	"Illinois"	"17"	"48 years"	"48"	970	415434	233.5
+	"Illinois"	"17"	"49 years"	"49"	1095	414387	264.2
+	"Illinois"	"17"	"50 years"	"50"	1255	409812	306.2
+	"Illinois"	"17"	"51 years"	"51"	1261	410558	307.1
+	"Illinois"	"17"	"52 years"	"52"	1375	417225	329.6
+	"Illinois"	"17"	"53 years"	"53"	1597	424322	376.4
+	"Illinois"	"17"	"54 years"	"54"	1771	431958	410.0
+	"Illinois"	"17"	"55 years"	"55"	2029	439540	461.6
+	"Illinois"	"17"	"56 years"	"56"	2200	444084	495.4
+	"Illinois"	"17"	"57 years"	"57"	2382	443893	536.6
+	"Illinois"	"17"	"58 years"	"58"	2587	442911	584.1
+	"Illinois"	"17"	"59 years"	"59"	2842	440485	645.2
+	"Illinois"	"17"	"60 years"	"60"	3017	432933	696.9
+	"Illinois"	"17"	"61 years"	"61"	3244	424209	764.7
+	"Illinois"	"17"	"62 years"	"62"	3366	413585	813.9
+	"Illinois"	"17"	"63 years"	"63"	3395	400325	848.1
+	"Illinois"	"17"	"64 years"	"64"	3549	385810	919.9
+	"Illinois"	"17"	"65 years"	"65"	3757	372046	1009.8
+	"Illinois"	"17"	"66 years"	"66"	3899	356381	1094.1
+	"Illinois"	"17"	"67 years"	"67"	4115	342232	1202.4
+	"Illinois"	"17"	"68 years"	"68"	4200	330591	1270.5
+	"Illinois"	"17"	"69 years"	"69"	4596	325592	1411.6
+	"Illinois"	"17"	"70 years"	"70"	4764	303133	1571.6
+	"Illinois"	"17"	"71 years"	"71"	4807	283244	1697.1
+	"Illinois"	"17"	"72 years"	"72"	4934	265090	1861.3
+	"Illinois"	"17"	"73 years"	"73"	5285	250881	2106.6
+	"Illinois"	"17"	"74 years"	"74"	5324	228874	2326.2
+	"Illinois"	"17"	"75 years"	"75"	5636	218333	2581.4
+	"Illinois"	"17"	"76 years"	"76"	5841	207610	2813.4
+	"Illinois"	"17"	"77 years"	"77"	6027	195499	3082.9
+	"Illinois"	"17"	"78 years"	"78"	6171	180103	3426.4
+	"Illinois"	"17"	"79 years"	"79"	6353	168037	3780.7
+	"Illinois"	"17"	"80 years"	"80"	6625	157393	4209.2
+	"Illinois"	"17"	"81 years"	"81"	7097	148932	4765.3
+	"Illinois"	"17"	"82 years"	"82"	7235	138389	5228.0
+	"Illinois"	"17"	"83 years"	"83"	7520	129059	5826.8
+	"Illinois"	"17"	"84 years"	"84"	7775	120255	6465.4
+	"Illinois"	"17"	"85 years"	"85"	8156	Not Applicable	Not Applicable
+	"Illinois"	"17"	"86 years"	"86"	8580	Not Applicable	Not Applicable
+	"Illinois"	"17"	"87 years"	"87"	8888	Not Applicable	Not Applicable
+	"Illinois"	"17"	"88 years"	"88"	9272	Not Applicable	Not Applicable
+	"Illinois"	"17"	"89 years"	"89"	9389	Not Applicable	Not Applicable
+	"Illinois"	"17"	"90 years"	"90"	9397	Not Applicable	Not Applicable
+	"Illinois"	"17"	"91 years"	"91"	9237	Not Applicable	Not Applicable
+	"Illinois"	"17"	"92 years"	"92"	8630	Not Applicable	Not Applicable
+	"Illinois"	"17"	"93 years"	"93"	8156	Not Applicable	Not Applicable
+	"Illinois"	"17"	"94 years"	"94"	7423	Not Applicable	Not Applicable
+	"Illinois"	"17"	"95 years"	"95"	6577	Not Applicable	Not Applicable
+	"Illinois"	"17"	"96 years"	"96"	5532	Not Applicable	Not Applicable
+	"Illinois"	"17"	"97 years"	"97"	4451	Not Applicable	Not Applicable
+	"Illinois"	"17"	"98 years"	"98"	3394	Not Applicable	Not Applicable
+	"Illinois"	"17"	"99 years"	"99"	2755	Not Applicable	Not Applicable
+	"Illinois"	"17"	"100+ years"	"100"	5698	Not Applicable	Not Applicable
+"---"
+"Dataset: Underlying Cause of Death, 1999-2020"
+"Query Parameters:"
+"Title: Illinois General F"
+"Gender: Female"
+"States: Illinois (17)"
+"Year/Month: 2016; 2017; 2018; 2019; 2020"
+"Group By: State; Single-Year Ages"
+"Show Totals: Disabled"
+"Show Zero Values: False"
+"Show Suppressed: False"
+"Calculate Rates Per: 100,000"
+"Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/ucd.html for more information."
+"---"
+"Query Date: Apr 8, 2022 1:47:58 AM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. Underlying Cause of Death"
+"1999-2020 on CDC WONDER Online Database, released in 2021. Data are from the Multiple Cause of Death Files, 1999-2020, as"
+"compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative Program. Accessed"
+"at http://wonder.cdc.gov/ucd-icd10.html on Apr 8, 2022 1:47:58 AM"
+"---"
+Messages:
+"1. Totals are not available for these results due to suppression constraints. More Information:"
+"http://wonder.cdc.gov/wonder/help/faq.html#Privacy."
+"2. Rows with suppressed Deaths are hidden. Use Quick Options above to show suppressed rows."
+"---"
+Caveats:
+"1. Population and rates are labeled 'Not Applicable' when they include a subset of ages 85-100+ because populations are not"
+"available for those ages. More information: http://wonder.cdc.gov/wonder/help/ucd.html#Ages 85-100."
+"2. Data are Suppressed when the data meet the criteria for confidentiality constraints. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Assurance of Confidentiality."
+"3. Deaths of persons with Age ""Not Stated"" are included in ""All"" counts and rates, but are not distributed among age groups,"
+"so are not included in age-specific counts, age-specific rates or in any age-adjusted rates. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Not Stated."
+"4. The population figures for year 2020 are bridged-race estimates of the July 1 resident population, from the Vintage 2020"
+"postcensal series released by NCHS on September 22, 2021. The population figures for year 2019 are bridged-race estimates of the"
+"July 1 resident population, from the Vintage 2019 postcensal series released by NCHS on July 9, 2020. The population figures for"
+"year 2018 are bridged-race estimates of the July 1 resident population, from the Vintage 2018 postcensal series released by NCHS"
+"on June 25, 2019. The population figures for year 2017 are bridged-race estimates of the July 1 resident population, from the"
+"Vintage 2017 postcensal series released by NCHS on June 27, 2018. The population figures for year 2016 are bridged-race"
+"estimates of the July 1 resident population, from the Vintage 2016 postcensal series released by NCHS on June 26, 2017. The"
+"population figures for year 2015 are bridged-race estimates of the July 1 resident population, from the Vintage 2015 postcensal"
+"series released by NCHS on June 28, 2016. The population figures for year 2014 are bridged-race estimates of the July 1 resident"
+"population, from the Vintage 2014 postcensal series released by NCHS on June 30, 2015. The population figures for year 2013 are"
+"bridged-race estimates of the July 1 resident population, from the Vintage 2013 postcensal series released by NCHS on June 26,"
+"2014. The population figures for year 2012 are bridged-race estimates of the July 1 resident population, from the Vintage 2012"
+"postcensal series released by NCHS on June 13, 2013. The population figures for year 2011 are bridged-race estimates of the July"
+"1 resident population, from the Vintage 2011 postcensal series released by NCHS on July 18, 2012. Population figures for 2010"
+"are April 1 Census counts. The population figures for years 2001 - 2009 are bridged-race estimates of the July 1 resident"
+"population, from the revised intercensal county-level 2000 - 2009 series released by NCHS on October 26, 2012. Population"
+"figures for 2000 are April 1 Census counts. Population figures for 1999 are from the 1990-1999 intercensal series of July 1"
+"estimates. Population figures for the infant age groups are the number of live births. <br/><b>Note:</b> Rates and population"
+"figures for years 2001 - 2009 differ slightly from previously published reports, due to use of the population estimates which"
+"were available at the time of release."
+"5. The population figures used in the calculation of death rates for the age group 'under 1 year' are the estimates of the"
+"resident population that is under one year of age. More information: http://wonder.cdc.gov/wonder/help/ucd.html#Age Group."

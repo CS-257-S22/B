@@ -1,0 +1,150 @@
+"Notes"	"State"	"State Code"	"Single-Year Ages"	"Single-Year Ages Code"	Deaths	Population	Crude Rate
+	"North Dakota"	"38"	"< 1 year"	"0"	180	27844	646.5
+	"North Dakota"	"38"	"14 years"	"14"	10	23157	Unreliable
+	"North Dakota"	"38"	"15 years"	"15"	11	22635	Unreliable
+	"North Dakota"	"38"	"16 years"	"16"	17	22365	Unreliable
+	"North Dakota"	"38"	"17 years"	"17"	14	22197	Unreliable
+	"North Dakota"	"38"	"18 years"	"18"	18	24234	Unreliable
+	"North Dakota"	"38"	"19 years"	"19"	22	32410	67.9
+	"North Dakota"	"38"	"20 years"	"20"	34	31860	106.7
+	"North Dakota"	"38"	"21 years"	"21"	35	32794	106.7
+	"North Dakota"	"38"	"22 years"	"22"	41	36218	113.2
+	"North Dakota"	"38"	"23 years"	"23"	43	35630	120.7
+	"North Dakota"	"38"	"24 years"	"24"	57	34332	166.0
+	"North Dakota"	"38"	"25 years"	"25"	45	33477	134.4
+	"North Dakota"	"38"	"26 years"	"26"	46	32867	140.0
+	"North Dakota"	"38"	"27 years"	"27"	45	32919	136.7
+	"North Dakota"	"38"	"28 years"	"28"	51	32155	158.6
+	"North Dakota"	"38"	"29 years"	"29"	59	31285	188.6
+	"North Dakota"	"38"	"30 years"	"30"	68	30486	223.1
+	"North Dakota"	"38"	"31 years"	"31"	64	29397	217.7
+	"North Dakota"	"38"	"32 years"	"32"	66	29170	226.3
+	"North Dakota"	"38"	"33 years"	"33"	59	28951	203.8
+	"North Dakota"	"38"	"34 years"	"34"	57	28671	198.8
+	"North Dakota"	"38"	"35 years"	"35"	60	28151	213.1
+	"North Dakota"	"38"	"36 years"	"36"	52	27176	191.3
+	"North Dakota"	"38"	"37 years"	"37"	75	26618	281.8
+	"North Dakota"	"38"	"38 years"	"38"	69	25563	269.9
+	"North Dakota"	"38"	"39 years"	"39"	49	24576	199.4
+	"North Dakota"	"38"	"40 years"	"40"	55	23455	234.5
+	"North Dakota"	"38"	"41 years"	"41"	57	22171	257.1
+	"North Dakota"	"38"	"42 years"	"42"	64	21571	296.7
+	"North Dakota"	"38"	"43 years"	"43"	68	20690	328.7
+	"North Dakota"	"38"	"44 years"	"44"	64	20472	312.6
+	"North Dakota"	"38"	"45 years"	"45"	69	20244	340.8
+	"North Dakota"	"38"	"46 years"	"46"	63	20329	309.9
+	"North Dakota"	"38"	"47 years"	"47"	84	20332	413.1
+	"North Dakota"	"38"	"48 years"	"48"	99	20397	485.4
+	"North Dakota"	"38"	"49 years"	"49"	95	20381	466.1
+	"North Dakota"	"38"	"50 years"	"50"	105	20248	518.6
+	"North Dakota"	"38"	"51 years"	"51"	95	20461	464.3
+	"North Dakota"	"38"	"52 years"	"52"	102	20982	486.1
+	"North Dakota"	"38"	"53 years"	"53"	120	21717	552.6
+	"North Dakota"	"38"	"54 years"	"54"	155	22569	686.8
+	"North Dakota"	"38"	"55 years"	"55"	170	23590	720.6
+	"North Dakota"	"38"	"56 years"	"56"	206	24134	853.6
+	"North Dakota"	"38"	"57 years"	"57"	213	24579	866.6
+	"North Dakota"	"38"	"58 years"	"58"	217	24717	877.9
+	"North Dakota"	"38"	"59 years"	"59"	251	24680	1017.0
+	"North Dakota"	"38"	"60 years"	"60"	243	24411	995.5
+	"North Dakota"	"38"	"61 years"	"61"	279	24033	1160.9
+	"North Dakota"	"38"	"62 years"	"62"	281	23346	1203.6
+	"North Dakota"	"38"	"63 years"	"63"	296	22760	1300.5
+	"North Dakota"	"38"	"64 years"	"64"	302	22057	1369.2
+	"North Dakota"	"38"	"65 years"	"65"	330	21059	1567.0
+	"North Dakota"	"38"	"66 years"	"66"	322	19924	1616.1
+	"North Dakota"	"38"	"67 years"	"67"	303	18912	1602.2
+	"North Dakota"	"38"	"68 years"	"68"	339	17909	1892.9
+	"North Dakota"	"38"	"69 years"	"69"	332	17000	1952.9
+	"North Dakota"	"38"	"70 years"	"70"	325	15367	2114.9
+	"North Dakota"	"38"	"71 years"	"71"	360	14229	2530.0
+	"North Dakota"	"38"	"72 years"	"72"	359	13174	2725.1
+	"North Dakota"	"38"	"73 years"	"73"	374	12191	3067.8
+	"North Dakota"	"38"	"74 years"	"74"	368	10943	3362.9
+	"North Dakota"	"38"	"75 years"	"75"	370	10228	3617.5
+	"North Dakota"	"38"	"76 years"	"76"	360	9527	3778.7
+	"North Dakota"	"38"	"77 years"	"77"	379	8817	4298.5
+	"North Dakota"	"38"	"78 years"	"78"	374	8020	4663.3
+	"North Dakota"	"38"	"79 years"	"79"	403	7488	5381.9
+	"North Dakota"	"38"	"80 years"	"80"	414	6970	5939.7
+	"North Dakota"	"38"	"81 years"	"81"	373	6642	5615.8
+	"North Dakota"	"38"	"82 years"	"82"	444	6149	7220.7
+	"North Dakota"	"38"	"83 years"	"83"	423	5696	7426.3
+	"North Dakota"	"38"	"84 years"	"84"	434	5319	8159.4
+	"North Dakota"	"38"	"85 years"	"85"	495	Not Applicable	Not Applicable
+	"North Dakota"	"38"	"86 years"	"86"	469	Not Applicable	Not Applicable
+	"North Dakota"	"38"	"87 years"	"87"	476	Not Applicable	Not Applicable
+	"North Dakota"	"38"	"88 years"	"88"	470	Not Applicable	Not Applicable
+	"North Dakota"	"38"	"89 years"	"89"	441	Not Applicable	Not Applicable
+	"North Dakota"	"38"	"90 years"	"90"	461	Not Applicable	Not Applicable
+	"North Dakota"	"38"	"91 years"	"91"	405	Not Applicable	Not Applicable
+	"North Dakota"	"38"	"92 years"	"92"	379	Not Applicable	Not Applicable
+	"North Dakota"	"38"	"93 years"	"93"	345	Not Applicable	Not Applicable
+	"North Dakota"	"38"	"94 years"	"94"	300	Not Applicable	Not Applicable
+	"North Dakota"	"38"	"95 years"	"95"	209	Not Applicable	Not Applicable
+	"North Dakota"	"38"	"96 years"	"96"	167	Not Applicable	Not Applicable
+	"North Dakota"	"38"	"97 years"	"97"	129	Not Applicable	Not Applicable
+	"North Dakota"	"38"	"98 years"	"98"	104	Not Applicable	Not Applicable
+	"North Dakota"	"38"	"99 years"	"99"	56	Not Applicable	Not Applicable
+	"North Dakota"	"38"	"100+ years"	"100"	108	Not Applicable	Not Applicable
+"Total"	"North Dakota"	"38"			17568	1947470	902.1
+"Total"					17568	1947470	902.1
+"---"
+"Dataset: Underlying Cause of Death, 1999-2020"
+"Query Parameters:"
+"Title: North Dakota General M"
+"Gender: Male"
+"States: North Dakota (38)"
+"Year/Month: 2016; 2017; 2018; 2019; 2020"
+"Group By: State; Single-Year Ages"
+"Show Totals: True"
+"Show Zero Values: False"
+"Show Suppressed: False"
+"Calculate Rates Per: 100,000"
+"Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/ucd.html for more information."
+"---"
+"Query Date: Apr 11, 2022 2:36:08 AM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. Underlying Cause of Death"
+"1999-2020 on CDC WONDER Online Database, released in 2021. Data are from the Multiple Cause of Death Files, 1999-2020, as"
+"compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative Program. Accessed"
+"at http://wonder.cdc.gov/ucd-icd10.html on Apr 11, 2022 2:36:08 AM"
+"---"
+Messages:
+"1. Rows with suppressed Deaths are hidden, but the Deaths and Population values in those rows are included in the totals. Use"
+"Quick Options above to show suppressed rows."
+"---"
+Caveats:
+"1. Population and rates are labeled 'Not Applicable' when they include a subset of ages 85-100+ because populations are not"
+"available for those ages. More information: http://wonder.cdc.gov/wonder/help/ucd.html#Ages 85-100."
+"2. Data are Suppressed when the data meet the criteria for confidentiality constraints. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Assurance of Confidentiality."
+"3. Death rates are flagged as Unreliable when the rate is calculated with a numerator of 20 or less. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Unreliable."
+"4. Deaths of persons with Age ""Not Stated"" are included in ""All"" counts and rates, but are not distributed among age groups,"
+"so are not included in age-specific counts, age-specific rates or in any age-adjusted rates. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Not Stated."
+"5. The population figures for year 2020 are bridged-race estimates of the July 1 resident population, from the Vintage 2020"
+"postcensal series released by NCHS on September 22, 2021. The population figures for year 2019 are bridged-race estimates of the"
+"July 1 resident population, from the Vintage 2019 postcensal series released by NCHS on July 9, 2020. The population figures for"
+"year 2018 are bridged-race estimates of the July 1 resident population, from the Vintage 2018 postcensal series released by NCHS"
+"on June 25, 2019. The population figures for year 2017 are bridged-race estimates of the July 1 resident population, from the"
+"Vintage 2017 postcensal series released by NCHS on June 27, 2018. The population figures for year 2016 are bridged-race"
+"estimates of the July 1 resident population, from the Vintage 2016 postcensal series released by NCHS on June 26, 2017. The"
+"population figures for year 2015 are bridged-race estimates of the July 1 resident population, from the Vintage 2015 postcensal"
+"series released by NCHS on June 28, 2016. The population figures for year 2014 are bridged-race estimates of the July 1 resident"
+"population, from the Vintage 2014 postcensal series released by NCHS on June 30, 2015. The population figures for year 2013 are"
+"bridged-race estimates of the July 1 resident population, from the Vintage 2013 postcensal series released by NCHS on June 26,"
+"2014. The population figures for year 2012 are bridged-race estimates of the July 1 resident population, from the Vintage 2012"
+"postcensal series released by NCHS on June 13, 2013. The population figures for year 2011 are bridged-race estimates of the July"
+"1 resident population, from the Vintage 2011 postcensal series released by NCHS on July 18, 2012. Population figures for 2010"
+"are April 1 Census counts. The population figures for years 2001 - 2009 are bridged-race estimates of the July 1 resident"
+"population, from the revised intercensal county-level 2000 - 2009 series released by NCHS on October 26, 2012. Population"
+"figures for 2000 are April 1 Census counts. Population figures for 1999 are from the 1990-1999 intercensal series of July 1"
+"estimates. Population figures for the infant age groups are the number of live births. <br/><b>Note:</b> Rates and population"
+"figures for years 2001 - 2009 differ slightly from previously published reports, due to use of the population estimates which"
+"were available at the time of release."
+"6. The population figures used in the calculation of death rates for the age group 'under 1 year' are the estimates of the"
+"resident population that is under one year of age. More information: http://wonder.cdc.gov/wonder/help/ucd.html#Age Group."

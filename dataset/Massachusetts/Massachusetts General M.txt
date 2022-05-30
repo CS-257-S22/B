@@ -1,0 +1,162 @@
+"Notes"	"State"	"State Code"	"Single-Year Ages"	"Single-Year Ages Code"	Deaths	Population	Crude Rate
+	"Massachusetts"	"25"	"< 1 year"	"0"	750	180995	414.4
+	"Massachusetts"	"25"	"1 year"	"1"	40	181557	22.0
+	"Massachusetts"	"25"	"2 years"	"2"	22	183452	12.0
+	"Massachusetts"	"25"	"3 years"	"3"	23	184027	12.5
+	"Massachusetts"	"25"	"4 years"	"4"	24	185347	12.9
+	"Massachusetts"	"25"	"5 years"	"5"	20	186889	10.7
+	"Massachusetts"	"25"	"6 years"	"6"	21	187918	11.2
+	"Massachusetts"	"25"	"7 years"	"7"	15	188184	Unreliable
+	"Massachusetts"	"25"	"8 years"	"8"	13	190164	Unreliable
+	"Massachusetts"	"25"	"9 years"	"9"	17	191784	Unreliable
+	"Massachusetts"	"25"	"10 years"	"10"	13	192707	Unreliable
+	"Massachusetts"	"25"	"11 years"	"11"	16	194911	Unreliable
+	"Massachusetts"	"25"	"12 years"	"12"	17	197593	Unreliable
+	"Massachusetts"	"25"	"13 years"	"13"	26	199759	13.0
+	"Massachusetts"	"25"	"14 years"	"14"	28	201931	13.9
+	"Massachusetts"	"25"	"15 years"	"15"	46	206162	22.3
+	"Massachusetts"	"25"	"16 years"	"16"	58	210128	27.6
+	"Massachusetts"	"25"	"17 years"	"17"	86	213551	40.3
+	"Massachusetts"	"25"	"18 years"	"18"	105	242541	43.3
+	"Massachusetts"	"25"	"19 years"	"19"	149	262361	56.8
+	"Massachusetts"	"25"	"20 years"	"20"	161	255661	63.0
+	"Massachusetts"	"25"	"21 years"	"21"	199	244131	81.5
+	"Massachusetts"	"25"	"22 years"	"22"	233	240018	97.1
+	"Massachusetts"	"25"	"23 years"	"23"	284	237104	119.8
+	"Massachusetts"	"25"	"24 years"	"24"	327	244681	133.6
+	"Massachusetts"	"25"	"25 years"	"25"	365	249724	146.2
+	"Massachusetts"	"25"	"26 years"	"26"	390	253764	153.7
+	"Massachusetts"	"25"	"27 years"	"27"	421	255007	165.1
+	"Massachusetts"	"25"	"28 years"	"28"	455	253991	179.1
+	"Massachusetts"	"25"	"29 years"	"29"	474	252109	188.0
+	"Massachusetts"	"25"	"30 years"	"30"	466	250366	186.1
+	"Massachusetts"	"25"	"31 years"	"31"	429	246033	174.4
+	"Massachusetts"	"25"	"32 years"	"32"	479	240516	199.2
+	"Massachusetts"	"25"	"33 years"	"33"	494	234114	211.0
+	"Massachusetts"	"25"	"34 years"	"34"	482	230543	209.1
+	"Massachusetts"	"25"	"35 years"	"35"	520	224485	231.6
+	"Massachusetts"	"25"	"36 years"	"36"	442	220962	200.0
+	"Massachusetts"	"25"	"37 years"	"37"	459	216587	211.9
+	"Massachusetts"	"25"	"38 years"	"38"	502	211036	237.9
+	"Massachusetts"	"25"	"39 years"	"39"	548	206530	265.3
+	"Massachusetts"	"25"	"40 years"	"40"	468	201346	232.4
+	"Massachusetts"	"25"	"41 years"	"41"	534	198087	269.6
+	"Massachusetts"	"25"	"42 years"	"42"	516	195673	263.7
+	"Massachusetts"	"25"	"43 years"	"43"	511	194351	262.9
+	"Massachusetts"	"25"	"44 years"	"44"	589	196736	299.4
+	"Massachusetts"	"25"	"45 years"	"45"	575	203388	282.7
+	"Massachusetts"	"25"	"46 years"	"46"	629	209786	299.8
+	"Massachusetts"	"25"	"47 years"	"47"	735	214612	342.5
+	"Massachusetts"	"25"	"48 years"	"48"	791	218565	361.9
+	"Massachusetts"	"25"	"49 years"	"49"	830	222569	372.9
+	"Massachusetts"	"25"	"50 years"	"50"	1033	224132	460.9
+	"Massachusetts"	"25"	"51 years"	"51"	1080	227175	475.4
+	"Massachusetts"	"25"	"52 years"	"52"	1169	232185	503.5
+	"Massachusetts"	"25"	"53 years"	"53"	1285	235964	544.6
+	"Massachusetts"	"25"	"54 years"	"54"	1470	239317	614.2
+	"Massachusetts"	"25"	"55 years"	"55"	1477	241229	612.3
+	"Massachusetts"	"25"	"56 years"	"56"	1593	240825	661.5
+	"Massachusetts"	"25"	"57 years"	"57"	1758	238248	737.9
+	"Massachusetts"	"25"	"58 years"	"58"	1876	235855	795.4
+	"Massachusetts"	"25"	"59 years"	"59"	2024	232529	870.4
+	"Massachusetts"	"25"	"60 years"	"60"	2121	226486	936.5
+	"Massachusetts"	"25"	"61 years"	"61"	2228	220064	1012.4
+	"Massachusetts"	"25"	"62 years"	"62"	2304	212829	1082.6
+	"Massachusetts"	"25"	"63 years"	"63"	2434	204014	1193.1
+	"Massachusetts"	"25"	"64 years"	"64"	2424	195223	1241.7
+	"Massachusetts"	"25"	"65 years"	"65"	2604	187716	1387.2
+	"Massachusetts"	"25"	"66 years"	"66"	2670	178485	1495.9
+	"Massachusetts"	"25"	"67 years"	"67"	2657	171011	1553.7
+	"Massachusetts"	"25"	"68 years"	"68"	2722	164554	1654.2
+	"Massachusetts"	"25"	"69 years"	"69"	2885	162248	1778.1
+	"Massachusetts"	"25"	"70 years"	"70"	2943	150708	1952.8
+	"Massachusetts"	"25"	"71 years"	"71"	3005	140166	2143.9
+	"Massachusetts"	"25"	"72 years"	"72"	3197	129853	2462.0
+	"Massachusetts"	"25"	"73 years"	"73"	3156	121059	2607.0
+	"Massachusetts"	"25"	"74 years"	"74"	3212	107355	2991.9
+	"Massachusetts"	"25"	"75 years"	"75"	3294	100127	3289.8
+	"Massachusetts"	"25"	"76 years"	"76"	3357	91667	3662.2
+	"Massachusetts"	"25"	"77 years"	"77"	3426	83972	4079.9
+	"Massachusetts"	"25"	"78 years"	"78"	3358	74640	4498.9
+	"Massachusetts"	"25"	"79 years"	"79"	3439	68293	5035.7
+	"Massachusetts"	"25"	"80 years"	"80"	3558	63042	5643.9
+	"Massachusetts"	"25"	"81 years"	"81"	3661	58597	6247.8
+	"Massachusetts"	"25"	"82 years"	"82"	3707	53673	6906.6
+	"Massachusetts"	"25"	"83 years"	"83"	3841	49509	7758.2
+	"Massachusetts"	"25"	"84 years"	"84"	3955	45249	8740.5
+	"Massachusetts"	"25"	"85 years"	"85"	4075	Not Applicable	Not Applicable
+	"Massachusetts"	"25"	"86 years"	"86"	4073	Not Applicable	Not Applicable
+	"Massachusetts"	"25"	"87 years"	"87"	4230	Not Applicable	Not Applicable
+	"Massachusetts"	"25"	"88 years"	"88"	4157	Not Applicable	Not Applicable
+	"Massachusetts"	"25"	"89 years"	"89"	3993	Not Applicable	Not Applicable
+	"Massachusetts"	"25"	"90 years"	"90"	3807	Not Applicable	Not Applicable
+	"Massachusetts"	"25"	"91 years"	"91"	3628	Not Applicable	Not Applicable
+	"Massachusetts"	"25"	"92 years"	"92"	3222	Not Applicable	Not Applicable
+	"Massachusetts"	"25"	"93 years"	"93"	2690	Not Applicable	Not Applicable
+	"Massachusetts"	"25"	"94 years"	"94"	2437	Not Applicable	Not Applicable
+	"Massachusetts"	"25"	"95 years"	"95"	1999	Not Applicable	Not Applicable
+	"Massachusetts"	"25"	"96 years"	"96"	1446	Not Applicable	Not Applicable
+	"Massachusetts"	"25"	"97 years"	"97"	991	Not Applicable	Not Applicable
+	"Massachusetts"	"25"	"98 years"	"98"	777	Not Applicable	Not Applicable
+	"Massachusetts"	"25"	"99 years"	"99"	513	Not Applicable	Not Applicable
+	"Massachusetts"	"25"	"100+ years"	"100"	755	Not Applicable	Not Applicable
+"---"
+"Dataset: Underlying Cause of Death, 1999-2020"
+"Query Parameters:"
+"Title: Massachusetts General M"
+"Gender: Male"
+"States: Massachusetts (25)"
+"Year/Month: 2016; 2017; 2018; 2019; 2020"
+"Group By: State; Single-Year Ages"
+"Show Totals: Disabled"
+"Show Zero Values: False"
+"Show Suppressed: False"
+"Calculate Rates Per: 100,000"
+"Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/ucd.html for more information."
+"---"
+"Query Date: Apr 8, 2022 2:41:14 AM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. Underlying Cause of Death"
+"1999-2020 on CDC WONDER Online Database, released in 2021. Data are from the Multiple Cause of Death Files, 1999-2020, as"
+"compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative Program. Accessed"
+"at http://wonder.cdc.gov/ucd-icd10.html on Apr 8, 2022 2:41:14 AM"
+"---"
+Messages:
+"1. Totals are not available for these results due to suppression constraints. More Information:"
+"http://wonder.cdc.gov/wonder/help/faq.html#Privacy."
+"2. Rows with suppressed Deaths are hidden. Use Quick Options above to show suppressed rows."
+"---"
+Caveats:
+"1. Population and rates are labeled 'Not Applicable' when they include a subset of ages 85-100+ because populations are not"
+"available for those ages. More information: http://wonder.cdc.gov/wonder/help/ucd.html#Ages 85-100."
+"2. Data are Suppressed when the data meet the criteria for confidentiality constraints. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Assurance of Confidentiality."
+"3. Death rates are flagged as Unreliable when the rate is calculated with a numerator of 20 or less. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Unreliable."
+"4. Deaths of persons with Age ""Not Stated"" are included in ""All"" counts and rates, but are not distributed among age groups,"
+"so are not included in age-specific counts, age-specific rates or in any age-adjusted rates. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Not Stated."
+"5. The population figures for year 2020 are bridged-race estimates of the July 1 resident population, from the Vintage 2020"
+"postcensal series released by NCHS on September 22, 2021. The population figures for year 2019 are bridged-race estimates of the"
+"July 1 resident population, from the Vintage 2019 postcensal series released by NCHS on July 9, 2020. The population figures for"
+"year 2018 are bridged-race estimates of the July 1 resident population, from the Vintage 2018 postcensal series released by NCHS"
+"on June 25, 2019. The population figures for year 2017 are bridged-race estimates of the July 1 resident population, from the"
+"Vintage 2017 postcensal series released by NCHS on June 27, 2018. The population figures for year 2016 are bridged-race"
+"estimates of the July 1 resident population, from the Vintage 2016 postcensal series released by NCHS on June 26, 2017. The"
+"population figures for year 2015 are bridged-race estimates of the July 1 resident population, from the Vintage 2015 postcensal"
+"series released by NCHS on June 28, 2016. The population figures for year 2014 are bridged-race estimates of the July 1 resident"
+"population, from the Vintage 2014 postcensal series released by NCHS on June 30, 2015. The population figures for year 2013 are"
+"bridged-race estimates of the July 1 resident population, from the Vintage 2013 postcensal series released by NCHS on June 26,"
+"2014. The population figures for year 2012 are bridged-race estimates of the July 1 resident population, from the Vintage 2012"
+"postcensal series released by NCHS on June 13, 2013. The population figures for year 2011 are bridged-race estimates of the July"
+"1 resident population, from the Vintage 2011 postcensal series released by NCHS on July 18, 2012. Population figures for 2010"
+"are April 1 Census counts. The population figures for years 2001 - 2009 are bridged-race estimates of the July 1 resident"
+"population, from the revised intercensal county-level 2000 - 2009 series released by NCHS on October 26, 2012. Population"
+"figures for 2000 are April 1 Census counts. Population figures for 1999 are from the 1990-1999 intercensal series of July 1"
+"estimates. Population figures for the infant age groups are the number of live births. <br/><b>Note:</b> Rates and population"
+"figures for years 2001 - 2009 differ slightly from previously published reports, due to use of the population estimates which"
+"were available at the time of release."
+"6. The population figures used in the calculation of death rates for the age group 'under 1 year' are the estimates of the"
+"resident population that is under one year of age. More information: http://wonder.cdc.gov/wonder/help/ucd.html#Age Group."

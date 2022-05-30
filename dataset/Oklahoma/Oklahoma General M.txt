@@ -1,0 +1,162 @@
+"Notes"	"State"	"State Code"	"Single-Year Ages"	"Single-Year Ages Code"	Deaths	Population	Crude Rate
+	"Oklahoma"	"40"	"< 1 year"	"0"	984	128807	763.9
+	"Oklahoma"	"40"	"1 year"	"1"	89	131082	67.9
+	"Oklahoma"	"40"	"2 years"	"2"	57	133721	42.6
+	"Oklahoma"	"40"	"3 years"	"3"	35	135541	25.8
+	"Oklahoma"	"40"	"4 years"	"4"	29	136817	21.2
+	"Oklahoma"	"40"	"5 years"	"5"	27	136941	19.7
+	"Oklahoma"	"40"	"6 years"	"6"	19	137279	Unreliable
+	"Oklahoma"	"40"	"7 years"	"7"	19	137264	Unreliable
+	"Oklahoma"	"40"	"8 years"	"8"	31	137350	22.6
+	"Oklahoma"	"40"	"9 years"	"9"	18	137987	Unreliable
+	"Oklahoma"	"40"	"10 years"	"10"	18	137930	Unreliable
+	"Oklahoma"	"40"	"11 years"	"11"	28	138106	20.3
+	"Oklahoma"	"40"	"12 years"	"12"	41	137811	29.8
+	"Oklahoma"	"40"	"13 years"	"13"	37	137094	27.0
+	"Oklahoma"	"40"	"14 years"	"14"	56	135805	41.2
+	"Oklahoma"	"40"	"15 years"	"15"	83	134981	61.5
+	"Oklahoma"	"40"	"16 years"	"16"	94	135443	69.4
+	"Oklahoma"	"40"	"17 years"	"17"	97	135620	71.5
+	"Oklahoma"	"40"	"18 years"	"18"	162	134546	120.4
+	"Oklahoma"	"40"	"19 years"	"19"	191	138686	137.7
+	"Oklahoma"	"40"	"20 years"	"20"	183	141958	128.9
+	"Oklahoma"	"40"	"21 years"	"21"	208	140422	148.1
+	"Oklahoma"	"40"	"22 years"	"22"	212	145109	146.1
+	"Oklahoma"	"40"	"23 years"	"23"	215	145382	147.9
+	"Oklahoma"	"40"	"24 years"	"24"	201	144928	138.7
+	"Oklahoma"	"40"	"25 years"	"25"	254	145040	175.1
+	"Oklahoma"	"40"	"26 years"	"26"	252	143717	175.3
+	"Oklahoma"	"40"	"27 years"	"27"	255	143444	177.8
+	"Oklahoma"	"40"	"28 years"	"28"	292	141449	206.4
+	"Oklahoma"	"40"	"29 years"	"29"	259	137821	187.9
+	"Oklahoma"	"40"	"30 years"	"30"	302	134889	223.9
+	"Oklahoma"	"40"	"31 years"	"31"	300	134490	223.1
+	"Oklahoma"	"40"	"32 years"	"32"	300	133308	225.0
+	"Oklahoma"	"40"	"33 years"	"33"	347	133898	259.2
+	"Oklahoma"	"40"	"34 years"	"34"	339	134377	252.3
+	"Oklahoma"	"40"	"35 years"	"35"	356	134014	265.6
+	"Oklahoma"	"40"	"36 years"	"36"	366	133745	273.7
+	"Oklahoma"	"40"	"37 years"	"37"	388	131822	294.3
+	"Oklahoma"	"40"	"38 years"	"38"	399	128689	310.0
+	"Oklahoma"	"40"	"39 years"	"39"	393	125328	313.6
+	"Oklahoma"	"40"	"40 years"	"40"	428	121325	352.8
+	"Oklahoma"	"40"	"41 years"	"41"	444	117879	376.7
+	"Oklahoma"	"40"	"42 years"	"42"	467	115533	404.2
+	"Oklahoma"	"40"	"43 years"	"43"	445	113662	391.5
+	"Oklahoma"	"40"	"44 years"	"44"	474	113143	418.9
+	"Oklahoma"	"40"	"45 years"	"45"	535	114534	467.1
+	"Oklahoma"	"40"	"46 years"	"46"	614	115789	530.3
+	"Oklahoma"	"40"	"47 years"	"47"	632	116442	542.8
+	"Oklahoma"	"40"	"48 years"	"48"	661	115779	570.9
+	"Oklahoma"	"40"	"49 years"	"49"	754	114255	659.9
+	"Oklahoma"	"40"	"50 years"	"50"	784	111923	700.5
+	"Oklahoma"	"40"	"51 years"	"51"	820	111759	733.7
+	"Oklahoma"	"40"	"52 years"	"52"	970	113428	855.2
+	"Oklahoma"	"40"	"53 years"	"53"	1072	116503	920.1
+	"Oklahoma"	"40"	"54 years"	"54"	1212	119841	1011.3
+	"Oklahoma"	"40"	"55 years"	"55"	1353	122835	1101.5
+	"Oklahoma"	"40"	"56 years"	"56"	1459	124594	1171.0
+	"Oklahoma"	"40"	"57 years"	"57"	1605	124924	1284.8
+	"Oklahoma"	"40"	"58 years"	"58"	1705	123300	1382.8
+	"Oklahoma"	"40"	"59 years"	"59"	1846	122089	1512.0
+	"Oklahoma"	"40"	"60 years"	"60"	1923	119980	1602.8
+	"Oklahoma"	"40"	"61 years"	"61"	2085	117208	1778.9
+	"Oklahoma"	"40"	"62 years"	"62"	2045	114639	1783.9
+	"Oklahoma"	"40"	"63 years"	"63"	2215	111012	1995.3
+	"Oklahoma"	"40"	"64 years"	"64"	2246	106878	2101.5
+	"Oklahoma"	"40"	"65 years"	"65"	2291	102790	2228.8
+	"Oklahoma"	"40"	"66 years"	"66"	2289	98306	2328.4
+	"Oklahoma"	"40"	"67 years"	"67"	2360	94668	2492.9
+	"Oklahoma"	"40"	"68 years"	"68"	2450	90909	2695.0
+	"Oklahoma"	"40"	"69 years"	"69"	2544	89475	2843.3
+	"Oklahoma"	"40"	"70 years"	"70"	2569	83418	3079.7
+	"Oklahoma"	"40"	"71 years"	"71"	2625	78254	3354.5
+	"Oklahoma"	"40"	"72 years"	"72"	2629	73658	3569.2
+	"Oklahoma"	"40"	"73 years"	"73"	2564	68829	3725.2
+	"Oklahoma"	"40"	"74 years"	"74"	2535	61796	4102.2
+	"Oklahoma"	"40"	"75 years"	"75"	2678	58372	4587.8
+	"Oklahoma"	"40"	"76 years"	"76"	2695	54407	4953.4
+	"Oklahoma"	"40"	"77 years"	"77"	2696	50361	5353.3
+	"Oklahoma"	"40"	"78 years"	"78"	2637	45755	5763.3
+	"Oklahoma"	"40"	"79 years"	"79"	2653	41793	6348.0
+	"Oklahoma"	"40"	"80 years"	"80"	2636	38420	6861.0
+	"Oklahoma"	"40"	"81 years"	"81"	2673	35287	7575.0
+	"Oklahoma"	"40"	"82 years"	"82"	2628	31691	8292.6
+	"Oklahoma"	"40"	"83 years"	"83"	2627	28367	9260.8
+	"Oklahoma"	"40"	"84 years"	"84"	2554	25552	9995.3
+	"Oklahoma"	"40"	"85 years"	"85"	2527	Not Applicable	Not Applicable
+	"Oklahoma"	"40"	"86 years"	"86"	2341	Not Applicable	Not Applicable
+	"Oklahoma"	"40"	"87 years"	"87"	2255	Not Applicable	Not Applicable
+	"Oklahoma"	"40"	"88 years"	"88"	2233	Not Applicable	Not Applicable
+	"Oklahoma"	"40"	"89 years"	"89"	1975	Not Applicable	Not Applicable
+	"Oklahoma"	"40"	"90 years"	"90"	1759	Not Applicable	Not Applicable
+	"Oklahoma"	"40"	"91 years"	"91"	1609	Not Applicable	Not Applicable
+	"Oklahoma"	"40"	"92 years"	"92"	1450	Not Applicable	Not Applicable
+	"Oklahoma"	"40"	"93 years"	"93"	1166	Not Applicable	Not Applicable
+	"Oklahoma"	"40"	"94 years"	"94"	982	Not Applicable	Not Applicable
+	"Oklahoma"	"40"	"95 years"	"95"	776	Not Applicable	Not Applicable
+	"Oklahoma"	"40"	"96 years"	"96"	576	Not Applicable	Not Applicable
+	"Oklahoma"	"40"	"97 years"	"97"	440	Not Applicable	Not Applicable
+	"Oklahoma"	"40"	"98 years"	"98"	269	Not Applicable	Not Applicable
+	"Oklahoma"	"40"	"99 years"	"99"	180	Not Applicable	Not Applicable
+	"Oklahoma"	"40"	"100+ years"	"100"	279	Not Applicable	Not Applicable
+"---"
+"Dataset: Underlying Cause of Death, 1999-2020"
+"Query Parameters:"
+"Title: Oklahoma General M"
+"Gender: Male"
+"States: Oklahoma (40)"
+"Year/Month: 2016; 2017; 2018; 2019; 2020"
+"Group By: State; Single-Year Ages"
+"Show Totals: Disabled"
+"Show Zero Values: False"
+"Show Suppressed: False"
+"Calculate Rates Per: 100,000"
+"Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/ucd.html for more information."
+"---"
+"Query Date: Apr 11, 2022 2:42:48 AM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. Underlying Cause of Death"
+"1999-2020 on CDC WONDER Online Database, released in 2021. Data are from the Multiple Cause of Death Files, 1999-2020, as"
+"compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative Program. Accessed"
+"at http://wonder.cdc.gov/ucd-icd10.html on Apr 11, 2022 2:42:48 AM"
+"---"
+Messages:
+"1. Totals are not available for these results due to suppression constraints. More Information:"
+"http://wonder.cdc.gov/wonder/help/faq.html#Privacy."
+"2. Rows with suppressed Deaths are hidden. Use Quick Options above to show suppressed rows."
+"---"
+Caveats:
+"1. Population and rates are labeled 'Not Applicable' when they include a subset of ages 85-100+ because populations are not"
+"available for those ages. More information: http://wonder.cdc.gov/wonder/help/ucd.html#Ages 85-100."
+"2. Data are Suppressed when the data meet the criteria for confidentiality constraints. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Assurance of Confidentiality."
+"3. Death rates are flagged as Unreliable when the rate is calculated with a numerator of 20 or less. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Unreliable."
+"4. Deaths of persons with Age ""Not Stated"" are included in ""All"" counts and rates, but are not distributed among age groups,"
+"so are not included in age-specific counts, age-specific rates or in any age-adjusted rates. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Not Stated."
+"5. The population figures for year 2020 are bridged-race estimates of the July 1 resident population, from the Vintage 2020"
+"postcensal series released by NCHS on September 22, 2021. The population figures for year 2019 are bridged-race estimates of the"
+"July 1 resident population, from the Vintage 2019 postcensal series released by NCHS on July 9, 2020. The population figures for"
+"year 2018 are bridged-race estimates of the July 1 resident population, from the Vintage 2018 postcensal series released by NCHS"
+"on June 25, 2019. The population figures for year 2017 are bridged-race estimates of the July 1 resident population, from the"
+"Vintage 2017 postcensal series released by NCHS on June 27, 2018. The population figures for year 2016 are bridged-race"
+"estimates of the July 1 resident population, from the Vintage 2016 postcensal series released by NCHS on June 26, 2017. The"
+"population figures for year 2015 are bridged-race estimates of the July 1 resident population, from the Vintage 2015 postcensal"
+"series released by NCHS on June 28, 2016. The population figures for year 2014 are bridged-race estimates of the July 1 resident"
+"population, from the Vintage 2014 postcensal series released by NCHS on June 30, 2015. The population figures for year 2013 are"
+"bridged-race estimates of the July 1 resident population, from the Vintage 2013 postcensal series released by NCHS on June 26,"
+"2014. The population figures for year 2012 are bridged-race estimates of the July 1 resident population, from the Vintage 2012"
+"postcensal series released by NCHS on June 13, 2013. The population figures for year 2011 are bridged-race estimates of the July"
+"1 resident population, from the Vintage 2011 postcensal series released by NCHS on July 18, 2012. Population figures for 2010"
+"are April 1 Census counts. The population figures for years 2001 - 2009 are bridged-race estimates of the July 1 resident"
+"population, from the revised intercensal county-level 2000 - 2009 series released by NCHS on October 26, 2012. Population"
+"figures for 2000 are April 1 Census counts. Population figures for 1999 are from the 1990-1999 intercensal series of July 1"
+"estimates. Population figures for the infant age groups are the number of live births. <br/><b>Note:</b> Rates and population"
+"figures for years 2001 - 2009 differ slightly from previously published reports, due to use of the population estimates which"
+"were available at the time of release."
+"6. The population figures used in the calculation of death rates for the age group 'under 1 year' are the estimates of the"
+"resident population that is under one year of age. More information: http://wonder.cdc.gov/wonder/help/ucd.html#Age Group."

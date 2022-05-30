@@ -1,0 +1,162 @@
+"Notes"	"State"	"State Code"	"Single-Year Ages"	"Single-Year Ages Code"	Deaths	Population	Crude Rate
+	"Tennessee"	"47"	"< 1 year"	"0"	1214	195675	620.4
+	"Tennessee"	"47"	"1 year"	"1"	83	199071	41.7
+	"Tennessee"	"47"	"2 years"	"2"	63	200045	31.5
+	"Tennessee"	"47"	"3 years"	"3"	46	200356	23.0
+	"Tennessee"	"47"	"4 years"	"4"	33	202338	16.3
+	"Tennessee"	"47"	"5 years"	"5"	25	201044	12.4
+	"Tennessee"	"47"	"6 years"	"6"	19	200767	Unreliable
+	"Tennessee"	"47"	"7 years"	"7"	25	201815	12.4
+	"Tennessee"	"47"	"8 years"	"8"	24	204041	11.8
+	"Tennessee"	"47"	"9 years"	"9"	36	206181	17.5
+	"Tennessee"	"47"	"10 years"	"10"	21	208660	10.1
+	"Tennessee"	"47"	"11 years"	"11"	20	210054	9.5
+	"Tennessee"	"47"	"12 years"	"12"	43	211248	20.4
+	"Tennessee"	"47"	"13 years"	"13"	36	210011	17.1
+	"Tennessee"	"47"	"14 years"	"14"	36	209166	17.2
+	"Tennessee"	"47"	"15 years"	"15"	52	209656	24.8
+	"Tennessee"	"47"	"16 years"	"16"	68	211198	32.2
+	"Tennessee"	"47"	"17 years"	"17"	66	211499	31.2
+	"Tennessee"	"47"	"18 years"	"18"	101	202973	49.8
+	"Tennessee"	"47"	"19 years"	"19"	100	201034	49.7
+	"Tennessee"	"47"	"20 years"	"20"	127	208868	60.8
+	"Tennessee"	"47"	"21 years"	"21"	142	213773	66.4
+	"Tennessee"	"47"	"22 years"	"22"	161	221234	72.8
+	"Tennessee"	"47"	"23 years"	"23"	169	228629	73.9
+	"Tennessee"	"47"	"24 years"	"24"	171	235707	72.5
+	"Tennessee"	"47"	"25 years"	"25"	194	242303	80.1
+	"Tennessee"	"47"	"26 years"	"26"	183	246327	74.3
+	"Tennessee"	"47"	"27 years"	"27"	243	246349	98.6
+	"Tennessee"	"47"	"28 years"	"28"	278	243984	113.9
+	"Tennessee"	"47"	"29 years"	"29"	261	238288	109.5
+	"Tennessee"	"47"	"30 years"	"30"	293	231625	126.5
+	"Tennessee"	"47"	"31 years"	"31"	296	226896	130.5
+	"Tennessee"	"47"	"32 years"	"32"	339	221606	153.0
+	"Tennessee"	"47"	"33 years"	"33"	344	219933	156.4
+	"Tennessee"	"47"	"34 years"	"34"	353	219224	161.0
+	"Tennessee"	"47"	"35 years"	"35"	346	219173	157.9
+	"Tennessee"	"47"	"36 years"	"36"	382	219657	173.9
+	"Tennessee"	"47"	"37 years"	"37"	416	219627	189.4
+	"Tennessee"	"47"	"38 years"	"38"	456	217830	209.3
+	"Tennessee"	"47"	"39 years"	"39"	423	214884	196.9
+	"Tennessee"	"47"	"40 years"	"40"	468	211858	220.9
+	"Tennessee"	"47"	"41 years"	"41"	472	208533	226.3
+	"Tennessee"	"47"	"42 years"	"42"	533	206807	257.7
+	"Tennessee"	"47"	"43 years"	"43"	558	207329	269.1
+	"Tennessee"	"47"	"44 years"	"44"	604	210084	287.5
+	"Tennessee"	"47"	"45 years"	"45"	653	216964	301.0
+	"Tennessee"	"47"	"46 years"	"46"	730	222508	328.1
+	"Tennessee"	"47"	"47 years"	"47"	821	225535	364.0
+	"Tennessee"	"47"	"48 years"	"48"	876	225448	388.6
+	"Tennessee"	"47"	"49 years"	"49"	920	224023	410.7
+	"Tennessee"	"47"	"50 years"	"50"	984	221012	445.2
+	"Tennessee"	"47"	"51 years"	"51"	1123	221136	507.8
+	"Tennessee"	"47"	"52 years"	"52"	1222	225478	542.0
+	"Tennessee"	"47"	"53 years"	"53"	1339	230357	581.3
+	"Tennessee"	"47"	"54 years"	"54"	1473	235192	626.3
+	"Tennessee"	"47"	"55 years"	"55"	1600	238875	669.8
+	"Tennessee"	"47"	"56 years"	"56"	1775	239307	741.7
+	"Tennessee"	"47"	"57 years"	"57"	1942	238304	814.9
+	"Tennessee"	"47"	"58 years"	"58"	2091	236370	884.6
+	"Tennessee"	"47"	"59 years"	"59"	2128	235772	902.6
+	"Tennessee"	"47"	"60 years"	"60"	2286	233385	979.5
+	"Tennessee"	"47"	"61 years"	"61"	2401	230049	1043.7
+	"Tennessee"	"47"	"62 years"	"62"	2457	227490	1080.0
+	"Tennessee"	"47"	"63 years"	"63"	2521	222265	1134.2
+	"Tennessee"	"47"	"64 years"	"64"	2703	216034	1251.2
+	"Tennessee"	"47"	"65 years"	"65"	2737	208889	1310.3
+	"Tennessee"	"47"	"66 years"	"66"	2788	202400	1377.5
+	"Tennessee"	"47"	"67 years"	"67"	2950	196421	1501.9
+	"Tennessee"	"47"	"68 years"	"68"	3119	191636	1627.6
+	"Tennessee"	"47"	"69 years"	"69"	3425	190211	1800.6
+	"Tennessee"	"47"	"70 years"	"70"	3323	178520	1861.4
+	"Tennessee"	"47"	"71 years"	"71"	3557	168399	2112.2
+	"Tennessee"	"47"	"72 years"	"72"	3592	157950	2274.1
+	"Tennessee"	"47"	"73 years"	"73"	3781	148062	2553.7
+	"Tennessee"	"47"	"74 years"	"74"	3711	133196	2786.1
+	"Tennessee"	"47"	"75 years"	"75"	3933	126730	3103.4
+	"Tennessee"	"47"	"76 years"	"76"	3943	119536	3298.6
+	"Tennessee"	"47"	"77 years"	"77"	4126	110878	3721.2
+	"Tennessee"	"47"	"78 years"	"78"	4130	101609	4064.6
+	"Tennessee"	"47"	"79 years"	"79"	4215	93788	4494.2
+	"Tennessee"	"47"	"80 years"	"80"	4346	87246	4981.3
+	"Tennessee"	"47"	"81 years"	"81"	4430	81151	5459.0
+	"Tennessee"	"47"	"82 years"	"82"	4713	74608	6317.0
+	"Tennessee"	"47"	"83 years"	"83"	4719	68133	6926.2
+	"Tennessee"	"47"	"84 years"	"84"	4883	63192	7727.2
+	"Tennessee"	"47"	"85 years"	"85"	5066	Not Applicable	Not Applicable
+	"Tennessee"	"47"	"86 years"	"86"	4949	Not Applicable	Not Applicable
+	"Tennessee"	"47"	"87 years"	"87"	5085	Not Applicable	Not Applicable
+	"Tennessee"	"47"	"88 years"	"88"	5150	Not Applicable	Not Applicable
+	"Tennessee"	"47"	"89 years"	"89"	4935	Not Applicable	Not Applicable
+	"Tennessee"	"47"	"90 years"	"90"	4887	Not Applicable	Not Applicable
+	"Tennessee"	"47"	"91 years"	"91"	4476	Not Applicable	Not Applicable
+	"Tennessee"	"47"	"92 years"	"92"	4140	Not Applicable	Not Applicable
+	"Tennessee"	"47"	"93 years"	"93"	3768	Not Applicable	Not Applicable
+	"Tennessee"	"47"	"94 years"	"94"	3406	Not Applicable	Not Applicable
+	"Tennessee"	"47"	"95 years"	"95"	2842	Not Applicable	Not Applicable
+	"Tennessee"	"47"	"96 years"	"96"	2355	Not Applicable	Not Applicable
+	"Tennessee"	"47"	"97 years"	"97"	1907	Not Applicable	Not Applicable
+	"Tennessee"	"47"	"98 years"	"98"	1381	Not Applicable	Not Applicable
+	"Tennessee"	"47"	"99 years"	"99"	950	Not Applicable	Not Applicable
+	"Tennessee"	"47"	"100+ years"	"100"	2022	Not Applicable	Not Applicable
+"---"
+"Dataset: Underlying Cause of Death, 1999-2020"
+"Query Parameters:"
+"Title: Tennessee General F"
+"Gender: Female"
+"States: Tennessee (47)"
+"Year/Month: 2016; 2017; 2018; 2019; 2020"
+"Group By: State; Single-Year Ages"
+"Show Totals: Disabled"
+"Show Zero Values: False"
+"Show Suppressed: False"
+"Calculate Rates Per: 100,000"
+"Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/ucd.html for more information."
+"---"
+"Query Date: Apr 11, 2022 3:00:57 AM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. Underlying Cause of Death"
+"1999-2020 on CDC WONDER Online Database, released in 2021. Data are from the Multiple Cause of Death Files, 1999-2020, as"
+"compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative Program. Accessed"
+"at http://wonder.cdc.gov/ucd-icd10.html on Apr 11, 2022 3:00:57 AM"
+"---"
+Messages:
+"1. Totals are not available for these results due to suppression constraints. More Information:"
+"http://wonder.cdc.gov/wonder/help/faq.html#Privacy."
+"2. Rows with suppressed Deaths are hidden. Use Quick Options above to show suppressed rows."
+"---"
+Caveats:
+"1. Population and rates are labeled 'Not Applicable' when they include a subset of ages 85-100+ because populations are not"
+"available for those ages. More information: http://wonder.cdc.gov/wonder/help/ucd.html#Ages 85-100."
+"2. Data are Suppressed when the data meet the criteria for confidentiality constraints. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Assurance of Confidentiality."
+"3. Death rates are flagged as Unreliable when the rate is calculated with a numerator of 20 or less. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Unreliable."
+"4. Deaths of persons with Age ""Not Stated"" are included in ""All"" counts and rates, but are not distributed among age groups,"
+"so are not included in age-specific counts, age-specific rates or in any age-adjusted rates. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Not Stated."
+"5. The population figures for year 2020 are bridged-race estimates of the July 1 resident population, from the Vintage 2020"
+"postcensal series released by NCHS on September 22, 2021. The population figures for year 2019 are bridged-race estimates of the"
+"July 1 resident population, from the Vintage 2019 postcensal series released by NCHS on July 9, 2020. The population figures for"
+"year 2018 are bridged-race estimates of the July 1 resident population, from the Vintage 2018 postcensal series released by NCHS"
+"on June 25, 2019. The population figures for year 2017 are bridged-race estimates of the July 1 resident population, from the"
+"Vintage 2017 postcensal series released by NCHS on June 27, 2018. The population figures for year 2016 are bridged-race"
+"estimates of the July 1 resident population, from the Vintage 2016 postcensal series released by NCHS on June 26, 2017. The"
+"population figures for year 2015 are bridged-race estimates of the July 1 resident population, from the Vintage 2015 postcensal"
+"series released by NCHS on June 28, 2016. The population figures for year 2014 are bridged-race estimates of the July 1 resident"
+"population, from the Vintage 2014 postcensal series released by NCHS on June 30, 2015. The population figures for year 2013 are"
+"bridged-race estimates of the July 1 resident population, from the Vintage 2013 postcensal series released by NCHS on June 26,"
+"2014. The population figures for year 2012 are bridged-race estimates of the July 1 resident population, from the Vintage 2012"
+"postcensal series released by NCHS on June 13, 2013. The population figures for year 2011 are bridged-race estimates of the July"
+"1 resident population, from the Vintage 2011 postcensal series released by NCHS on July 18, 2012. Population figures for 2010"
+"are April 1 Census counts. The population figures for years 2001 - 2009 are bridged-race estimates of the July 1 resident"
+"population, from the revised intercensal county-level 2000 - 2009 series released by NCHS on October 26, 2012. Population"
+"figures for 2000 are April 1 Census counts. Population figures for 1999 are from the 1990-1999 intercensal series of July 1"
+"estimates. Population figures for the infant age groups are the number of live births. <br/><b>Note:</b> Rates and population"
+"figures for years 2001 - 2009 differ slightly from previously published reports, due to use of the population estimates which"
+"were available at the time of release."
+"6. The population figures used in the calculation of death rates for the age group 'under 1 year' are the estimates of the"
+"resident population that is under one year of age. More information: http://wonder.cdc.gov/wonder/help/ucd.html#Age Group."

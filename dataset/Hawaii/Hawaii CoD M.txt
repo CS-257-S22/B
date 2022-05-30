@@ -1,0 +1,665 @@
+"Notes"	"State"	"State Code"	"Single-Year Ages"	"Single-Year Ages Code"	"Cause of death"	"Cause of death Code"	Deaths	Population	Crude Rate
+	"Hawaii"	"15"	"< 1 year"	"0"	"Extreme immaturity"	"P07.2"	29	44240	65.6
+	"Hawaii"	"15"	"< 1 year"	"0"	"Other preterm infants"	"P07.3"	13	44240	Unreliable
+	"Hawaii"	"15"	"< 1 year"	"0"	"Bacterial sepsis of newborn, unspecified"	"P36.9"	13	44240	Unreliable
+	"Hawaii"	"15"	"< 1 year"	"0"	"Other ill-defined and unspecified causes of mortality"	"R99"	20	44240	45.2
+	"Hawaii"	"15"	"19 years"	"19"	"Intentional self-harm by hanging, strangulation and suffocation"	"X70"	14	40662	Unreliable
+	"Hawaii"	"15"	"22 years"	"22"	"Intentional self-harm by hanging, strangulation and suffocation"	"X70"	11	51771	Unreliable
+	"Hawaii"	"15"	"23 years"	"23"	"Intentional self-harm by hanging, strangulation and suffocation"	"X70"	11	51571	Unreliable
+	"Hawaii"	"15"	"24 years"	"24"	"Intentional self-harm by hanging, strangulation and suffocation"	"X70"	14	53878	Unreliable
+	"Hawaii"	"15"	"26 years"	"26"	"Intentional self-harm by hanging, strangulation and suffocation"	"X70"	11	55575	Unreliable
+	"Hawaii"	"15"	"27 years"	"27"	"Intentional self-harm by hanging, strangulation and suffocation"	"X70"	13	54791	Unreliable
+	"Hawaii"	"15"	"28 years"	"28"	"Intentional self-harm by hanging, strangulation and suffocation"	"X70"	13	53966	Unreliable
+	"Hawaii"	"15"	"30 years"	"30"	"Intentional self-harm by hanging, strangulation and suffocation"	"X70"	11	52923	Unreliable
+	"Hawaii"	"15"	"33 years"	"33"	"Intentional self-harm by hanging, strangulation and suffocation"	"X70"	11	51231	Unreliable
+	"Hawaii"	"15"	"34 years"	"34"	"Intentional self-harm by hanging, strangulation and suffocation"	"X70"	12	50081	Unreliable
+	"Hawaii"	"15"	"35 years"	"35"	"Intentional self-harm by hanging, strangulation and suffocation"	"X70"	12	50154	Unreliable
+	"Hawaii"	"15"	"36 years"	"36"	"Intentional self-harm by hanging, strangulation and suffocation"	"X70"	13	49754	Unreliable
+	"Hawaii"	"15"	"38 years"	"38"	"Intentional self-harm by hanging, strangulation and suffocation"	"X70"	12	47927	Unreliable
+	"Hawaii"	"15"	"39 years"	"39"	"Accidental poisoning by and exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic drugs, not elsewhere classified"	"X41"	10	46554	Unreliable
+	"Hawaii"	"15"	"41 years"	"41"	"Intentional self-harm by hanging, strangulation and suffocation"	"X70"	10	43395	Unreliable
+	"Hawaii"	"15"	"42 years"	"42"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	12	42206	Unreliable
+	"Hawaii"	"15"	"43 years"	"43"	"Intentional self-harm by hanging, strangulation and suffocation"	"X70"	12	41207	Unreliable
+	"Hawaii"	"15"	"45 years"	"45"	"Accidental poisoning by and exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic drugs, not elsewhere classified"	"X41"	12	42015	Unreliable
+	"Hawaii"	"15"	"46 years"	"46"	"Accidental poisoning by and exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic drugs, not elsewhere classified"	"X41"	11	42710	Unreliable
+	"Hawaii"	"15"	"47 years"	"47"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	12	43289	Unreliable
+	"Hawaii"	"15"	"47 years"	"47"	"Atherosclerotic heart disease"	"I25.1"	10	43289	Unreliable
+	"Hawaii"	"15"	"47 years"	"47"	"Accidental poisoning by and exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic drugs, not elsewhere classified"	"X41"	13	43289	Unreliable
+	"Hawaii"	"15"	"48 years"	"48"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	13	43019	Unreliable
+	"Hawaii"	"15"	"48 years"	"48"	"Accidental poisoning by and exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic drugs, not elsewhere classified"	"X41"	16	43019	Unreliable
+	"Hawaii"	"15"	"49 years"	"49"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	12	42826	Unreliable
+	"Hawaii"	"15"	"49 years"	"49"	"Accidental poisoning by and exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic drugs, not elsewhere classified"	"X41"	21	42826	49.0
+	"Hawaii"	"15"	"50 years"	"50"	"Atherosclerotic heart disease"	"I25.1"	10	42558	Unreliable
+	"Hawaii"	"15"	"50 years"	"50"	"Accidental poisoning by and exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic drugs, not elsewhere classified"	"X41"	11	42558	Unreliable
+	"Hawaii"	"15"	"51 years"	"51"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	12	42134	Unreliable
+	"Hawaii"	"15"	"51 years"	"51"	"Atherosclerotic heart disease"	"I25.1"	12	42134	Unreliable
+	"Hawaii"	"15"	"51 years"	"51"	"Accidental poisoning by and exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic drugs, not elsewhere classified"	"X41"	19	42134	Unreliable
+	"Hawaii"	"15"	"52 years"	"52"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	12	42262	Unreliable
+	"Hawaii"	"15"	"52 years"	"52"	"Accidental poisoning by and exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic drugs, not elsewhere classified"	"X41"	16	42262	Unreliable
+	"Hawaii"	"15"	"52 years"	"52"	"Intentional self-harm by hanging, strangulation and suffocation"	"X70"	10	42262	Unreliable
+	"Hawaii"	"15"	"53 years"	"53"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	10	43154	Unreliable
+	"Hawaii"	"15"	"53 years"	"53"	"Acute myocardial infarction, unspecified"	"I21.9"	14	43154	Unreliable
+	"Hawaii"	"15"	"53 years"	"53"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	10	43154	Unreliable
+	"Hawaii"	"15"	"53 years"	"53"	"Atherosclerotic heart disease"	"I25.1"	17	43154	Unreliable
+	"Hawaii"	"15"	"53 years"	"53"	"Accidental poisoning by and exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic drugs, not elsewhere classified"	"X41"	14	43154	Unreliable
+	"Hawaii"	"15"	"54 years"	"54"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	10	43887	Unreliable
+	"Hawaii"	"15"	"54 years"	"54"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	19	43887	Unreliable
+	"Hawaii"	"15"	"54 years"	"54"	"Atherosclerotic heart disease"	"I25.1"	16	43887	Unreliable
+	"Hawaii"	"15"	"54 years"	"54"	"Accidental poisoning by and exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic drugs, not elsewhere classified"	"X41"	21	43887	47.9
+	"Hawaii"	"15"	"55 years"	"55"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	11	44651	Unreliable
+	"Hawaii"	"15"	"55 years"	"55"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	13	44651	Unreliable
+	"Hawaii"	"15"	"55 years"	"55"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	11	44651	Unreliable
+	"Hawaii"	"15"	"55 years"	"55"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	18	44651	Unreliable
+	"Hawaii"	"15"	"55 years"	"55"	"Accidental poisoning by and exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic drugs, not elsewhere classified"	"X41"	16	44651	Unreliable
+	"Hawaii"	"15"	"56 years"	"56"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	15	45099	Unreliable
+	"Hawaii"	"15"	"56 years"	"56"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	11	45099	Unreliable
+	"Hawaii"	"15"	"56 years"	"56"	"Acute myocardial infarction, unspecified"	"I21.9"	13	45099	Unreliable
+	"Hawaii"	"15"	"56 years"	"56"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	11	45099	Unreliable
+	"Hawaii"	"15"	"56 years"	"56"	"Atherosclerotic heart disease"	"I25.1"	11	45099	Unreliable
+	"Hawaii"	"15"	"56 years"	"56"	"Accidental poisoning by and exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic drugs, not elsewhere classified"	"X41"	22	45099	48.8
+	"Hawaii"	"15"	"56 years"	"56"	"Intentional self-harm by hanging, strangulation and suffocation"	"X70"	11	45099	Unreliable
+	"Hawaii"	"15"	"57 years"	"57"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	10	45281	Unreliable
+	"Hawaii"	"15"	"57 years"	"57"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	14	45281	Unreliable
+	"Hawaii"	"15"	"57 years"	"57"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	16	45281	Unreliable
+	"Hawaii"	"15"	"57 years"	"57"	"Acute myocardial infarction, unspecified"	"I21.9"	13	45281	Unreliable
+	"Hawaii"	"15"	"57 years"	"57"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	16	45281	Unreliable
+	"Hawaii"	"15"	"57 years"	"57"	"Atherosclerotic heart disease"	"I25.1"	14	45281	Unreliable
+	"Hawaii"	"15"	"57 years"	"57"	"Accidental poisoning by and exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic drugs, not elsewhere classified"	"X41"	26	45281	57.4
+	"Hawaii"	"15"	"58 years"	"58"	"Liver cell carcinoma - Malignant neoplasms"	"C22.0"	10	45176	Unreliable
+	"Hawaii"	"15"	"58 years"	"58"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	16	45176	Unreliable
+	"Hawaii"	"15"	"58 years"	"58"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	16	45176	Unreliable
+	"Hawaii"	"15"	"58 years"	"58"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	11	45176	Unreliable
+	"Hawaii"	"15"	"58 years"	"58"	"Atherosclerotic heart disease"	"I25.1"	16	45176	Unreliable
+	"Hawaii"	"15"	"58 years"	"58"	"Other ill-defined and unspecified causes of mortality"	"R99"	11	45176	Unreliable
+	"Hawaii"	"15"	"58 years"	"58"	"Accidental poisoning by and exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic drugs, not elsewhere classified"	"X41"	22	45176	48.7
+	"Hawaii"	"15"	"58 years"	"58"	"Intentional self-harm by hanging, strangulation and suffocation"	"X70"	12	45176	Unreliable
+	"Hawaii"	"15"	"59 years"	"59"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	23	44873	51.3
+	"Hawaii"	"15"	"59 years"	"59"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	16	44873	Unreliable
+	"Hawaii"	"15"	"59 years"	"59"	"Acute myocardial infarction, unspecified"	"I21.9"	16	44873	Unreliable
+	"Hawaii"	"15"	"59 years"	"59"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	27	44873	60.2
+	"Hawaii"	"15"	"59 years"	"59"	"Atherosclerotic heart disease"	"I25.1"	25	44873	55.7
+	"Hawaii"	"15"	"59 years"	"59"	"Accidental poisoning by and exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic drugs, not elsewhere classified"	"X41"	15	44873	Unreliable
+	"Hawaii"	"15"	"60 years"	"60"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	14	45105	Unreliable
+	"Hawaii"	"15"	"60 years"	"60"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	22	45105	48.8
+	"Hawaii"	"15"	"60 years"	"60"	"Acute myocardial infarction, unspecified"	"I21.9"	17	45105	Unreliable
+	"Hawaii"	"15"	"60 years"	"60"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	28	45105	62.1
+	"Hawaii"	"15"	"60 years"	"60"	"Atherosclerotic heart disease"	"I25.1"	29	45105	64.3
+	"Hawaii"	"15"	"60 years"	"60"	"Accidental poisoning by and exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic drugs, not elsewhere classified"	"X41"	16	45105	Unreliable
+	"Hawaii"	"15"	"61 years"	"61"	"Liver cell carcinoma - Malignant neoplasms"	"C22.0"	10	44205	Unreliable
+	"Hawaii"	"15"	"61 years"	"61"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	21	44205	47.5
+	"Hawaii"	"15"	"61 years"	"61"	"Malignant neoplasm without specification of site"	"C80"	10	44205	Unreliable
+	"Hawaii"	"15"	"61 years"	"61"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	25	44205	56.6
+	"Hawaii"	"15"	"61 years"	"61"	"Acute myocardial infarction, unspecified"	"I21.9"	19	44205	Unreliable
+	"Hawaii"	"15"	"61 years"	"61"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	37	44205	83.7
+	"Hawaii"	"15"	"61 years"	"61"	"Atherosclerotic heart disease"	"I25.1"	19	44205	Unreliable
+	"Hawaii"	"15"	"61 years"	"61"	"Cardiomyopathy, unspecified"	"I42.9"	10	44205	Unreliable
+	"Hawaii"	"15"	"61 years"	"61"	"Stroke, not specified as haemorrhage or infarction"	"I64"	11	44205	Unreliable
+	"Hawaii"	"15"	"61 years"	"61"	"Accidental poisoning by and exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic drugs, not elsewhere classified"	"X41"	14	44205	Unreliable
+	"Hawaii"	"15"	"62 years"	"62"	"Liver cell carcinoma - Malignant neoplasms"	"C22.0"	11	43758	Unreliable
+	"Hawaii"	"15"	"62 years"	"62"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	10	43758	Unreliable
+	"Hawaii"	"15"	"62 years"	"62"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	31	43758	70.8
+	"Hawaii"	"15"	"62 years"	"62"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	20	43758	45.7
+	"Hawaii"	"15"	"62 years"	"62"	"Acute myocardial infarction, unspecified"	"I21.9"	18	43758	Unreliable
+	"Hawaii"	"15"	"62 years"	"62"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	24	43758	54.8
+	"Hawaii"	"15"	"62 years"	"62"	"Atherosclerotic heart disease"	"I25.1"	20	43758	45.7
+	"Hawaii"	"15"	"62 years"	"62"	"Pneumonia, unspecified"	"J18.9"	12	43758	Unreliable
+	"Hawaii"	"15"	"62 years"	"62"	"Accidental poisoning by and exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic drugs, not elsewhere classified"	"X41"	22	43758	50.3
+	"Hawaii"	"15"	"63 years"	"63"	"Septicaemia, unspecified"	"A41.9"	10	43064	Unreliable
+	"Hawaii"	"15"	"63 years"	"63"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	11	43064	Unreliable
+	"Hawaii"	"15"	"63 years"	"63"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	33	43064	76.6
+	"Hawaii"	"15"	"63 years"	"63"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	20	43064	46.4
+	"Hawaii"	"15"	"63 years"	"63"	"Acute myocardial infarction, unspecified"	"I21.9"	13	43064	Unreliable
+	"Hawaii"	"15"	"63 years"	"63"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	28	43064	65.0
+	"Hawaii"	"15"	"63 years"	"63"	"Atherosclerotic heart disease"	"I25.1"	26	43064	60.4
+	"Hawaii"	"15"	"63 years"	"63"	"Cardiomyopathy, unspecified"	"I42.9"	11	43064	Unreliable
+	"Hawaii"	"15"	"63 years"	"63"	"Pneumonia, unspecified"	"J18.9"	12	43064	Unreliable
+	"Hawaii"	"15"	"63 years"	"63"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	11	43064	Unreliable
+	"Hawaii"	"15"	"63 years"	"63"	"Accidental poisoning by and exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic drugs, not elsewhere classified"	"X41"	14	43064	Unreliable
+	"Hawaii"	"15"	"64 years"	"64"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	14	42380	Unreliable
+	"Hawaii"	"15"	"64 years"	"64"	"Liver cell carcinoma - Malignant neoplasms"	"C22.0"	11	42380	Unreliable
+	"Hawaii"	"15"	"64 years"	"64"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	14	42380	Unreliable
+	"Hawaii"	"15"	"64 years"	"64"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	31	42380	73.1
+	"Hawaii"	"15"	"64 years"	"64"	"Malignant neoplasm of prostate"	"C61"	12	42380	Unreliable
+	"Hawaii"	"15"	"64 years"	"64"	"Malignant neoplasm without specification of site"	"C80"	12	42380	Unreliable
+	"Hawaii"	"15"	"64 years"	"64"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	14	42380	Unreliable
+	"Hawaii"	"15"	"64 years"	"64"	"Acute myocardial infarction, unspecified"	"I21.9"	19	42380	Unreliable
+	"Hawaii"	"15"	"64 years"	"64"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	33	42380	77.9
+	"Hawaii"	"15"	"64 years"	"64"	"Atherosclerotic heart disease"	"I25.1"	26	42380	61.3
+	"Hawaii"	"15"	"64 years"	"64"	"Stroke, not specified as haemorrhage or infarction"	"I64"	16	42380	Unreliable
+	"Hawaii"	"15"	"64 years"	"64"	"Pneumonia, unspecified"	"J18.9"	14	42380	Unreliable
+	"Hawaii"	"15"	"65 years"	"65"	"Septicaemia, unspecified"	"A41.9"	12	41561	Unreliable
+	"Hawaii"	"15"	"65 years"	"65"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	12	41561	Unreliable
+	"Hawaii"	"15"	"65 years"	"65"	"Liver cell carcinoma - Malignant neoplasms"	"C22.0"	15	41561	Unreliable
+	"Hawaii"	"15"	"65 years"	"65"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	13	41561	Unreliable
+	"Hawaii"	"15"	"65 years"	"65"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	39	41561	93.8
+	"Hawaii"	"15"	"65 years"	"65"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	23	41561	55.3
+	"Hawaii"	"15"	"65 years"	"65"	"Acute myocardial infarction, unspecified"	"I21.9"	20	41561	48.1
+	"Hawaii"	"15"	"65 years"	"65"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	34	41561	81.8
+	"Hawaii"	"15"	"65 years"	"65"	"Atherosclerotic heart disease"	"I25.1"	32	41561	77.0
+	"Hawaii"	"15"	"65 years"	"65"	"Pneumonia, unspecified"	"J18.9"	10	41561	Unreliable
+	"Hawaii"	"15"	"65 years"	"65"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	10	41561	Unreliable
+	"Hawaii"	"15"	"66 years"	"66"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	11	40811	Unreliable
+	"Hawaii"	"15"	"66 years"	"66"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	15	40811	Unreliable
+	"Hawaii"	"15"	"66 years"	"66"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	41	40811	100.5
+	"Hawaii"	"15"	"66 years"	"66"	"Malignant neoplasm without specification of site"	"C80"	11	40811	Unreliable
+	"Hawaii"	"15"	"66 years"	"66"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	25	40811	61.3
+	"Hawaii"	"15"	"66 years"	"66"	"Acute myocardial infarction, unspecified"	"I21.9"	23	40811	56.4
+	"Hawaii"	"15"	"66 years"	"66"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	41	40811	100.5
+	"Hawaii"	"15"	"66 years"	"66"	"Atherosclerotic heart disease"	"I25.1"	27	40811	66.2
+	"Hawaii"	"15"	"66 years"	"66"	"Cardiac arrest, unspecified"	"I46.9"	12	40811	Unreliable
+	"Hawaii"	"15"	"66 years"	"66"	"Congestive heart failure"	"I50.0"	10	40811	Unreliable
+	"Hawaii"	"15"	"66 years"	"66"	"Stroke, not specified as haemorrhage or infarction"	"I64"	12	40811	Unreliable
+	"Hawaii"	"15"	"66 years"	"66"	"Pneumonia, unspecified"	"J18.9"	13	40811	Unreliable
+	"Hawaii"	"15"	"66 years"	"66"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	14	40811	Unreliable
+	"Hawaii"	"15"	"67 years"	"67"	"Liver cell carcinoma - Malignant neoplasms"	"C22.0"	13	40045	Unreliable
+	"Hawaii"	"15"	"67 years"	"67"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	18	40045	Unreliable
+	"Hawaii"	"15"	"67 years"	"67"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	45	40045	112.4
+	"Hawaii"	"15"	"67 years"	"67"	"Malignant neoplasm of prostate"	"C61"	14	40045	Unreliable
+	"Hawaii"	"15"	"67 years"	"67"	"Malignant neoplasm without specification of site"	"C80"	15	40045	Unreliable
+	"Hawaii"	"15"	"67 years"	"67"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	15	40045	Unreliable
+	"Hawaii"	"15"	"67 years"	"67"	"Acute myocardial infarction, unspecified"	"I21.9"	28	40045	69.9
+	"Hawaii"	"15"	"67 years"	"67"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	42	40045	104.9
+	"Hawaii"	"15"	"67 years"	"67"	"Atherosclerotic heart disease"	"I25.1"	30	40045	74.9
+	"Hawaii"	"15"	"67 years"	"67"	"Cardiac arrest, unspecified"	"I46.9"	13	40045	Unreliable
+	"Hawaii"	"15"	"67 years"	"67"	"Congestive heart failure"	"I50.0"	10	40045	Unreliable
+	"Hawaii"	"15"	"67 years"	"67"	"Pneumonia, unspecified"	"J18.9"	11	40045	Unreliable
+	"Hawaii"	"15"	"67 years"	"67"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	17	40045	Unreliable
+	"Hawaii"	"15"	"67 years"	"67"	"Other and unspecified cirrhosis of liver"	"K74.6"	10	40045	Unreliable
+	"Hawaii"	"15"	"68 years"	"68"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	12	38834	Unreliable
+	"Hawaii"	"15"	"68 years"	"68"	"Liver cell carcinoma - Malignant neoplasms"	"C22.0"	13	38834	Unreliable
+	"Hawaii"	"15"	"68 years"	"68"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	22	38834	56.7
+	"Hawaii"	"15"	"68 years"	"68"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	53	38834	136.5
+	"Hawaii"	"15"	"68 years"	"68"	"Malignant neoplasm of prostate"	"C61"	14	38834	Unreliable
+	"Hawaii"	"15"	"68 years"	"68"	"Malignant neoplasm without specification of site"	"C80"	16	38834	Unreliable
+	"Hawaii"	"15"	"68 years"	"68"	"Unspecified diabetes mellitus, without complications"	"E14.9"	13	38834	Unreliable
+	"Hawaii"	"15"	"68 years"	"68"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	16	38834	Unreliable
+	"Hawaii"	"15"	"68 years"	"68"	"Acute myocardial infarction, unspecified"	"I21.9"	17	38834	Unreliable
+	"Hawaii"	"15"	"68 years"	"68"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	22	38834	56.7
+	"Hawaii"	"15"	"68 years"	"68"	"Atherosclerotic heart disease"	"I25.1"	33	38834	85.0
+	"Hawaii"	"15"	"68 years"	"68"	"Stroke, not specified as haemorrhage or infarction"	"I64"	10	38834	Unreliable
+	"Hawaii"	"15"	"68 years"	"68"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	22	38834	56.7
+	"Hawaii"	"15"	"69 years"	"69"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	21	38030	55.2
+	"Hawaii"	"15"	"69 years"	"69"	"Liver cell carcinoma - Malignant neoplasms"	"C22.0"	16	38030	Unreliable
+	"Hawaii"	"15"	"69 years"	"69"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	20	38030	52.6
+	"Hawaii"	"15"	"69 years"	"69"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	39	38030	102.6
+	"Hawaii"	"15"	"69 years"	"69"	"Malignant neoplasm of prostate"	"C61"	19	38030	Unreliable
+	"Hawaii"	"15"	"69 years"	"69"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	15	38030	Unreliable
+	"Hawaii"	"15"	"69 years"	"69"	"Acute myocardial infarction, unspecified"	"I21.9"	17	38030	Unreliable
+	"Hawaii"	"15"	"69 years"	"69"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	37	38030	97.3
+	"Hawaii"	"15"	"69 years"	"69"	"Atherosclerotic heart disease"	"I25.1"	31	38030	81.5
+	"Hawaii"	"15"	"69 years"	"69"	"Stroke, not specified as haemorrhage or infarction"	"I64"	11	38030	Unreliable
+	"Hawaii"	"15"	"69 years"	"69"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	18	38030	Unreliable
+	"Hawaii"	"15"	"70 years"	"70"	"Septicaemia, unspecified"	"A41.9"	11	36252	Unreliable
+	"Hawaii"	"15"	"70 years"	"70"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	13	36252	Unreliable
+	"Hawaii"	"15"	"70 years"	"70"	"Liver cell carcinoma - Malignant neoplasms"	"C22.0"	14	36252	Unreliable
+	"Hawaii"	"15"	"70 years"	"70"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	24	36252	66.2
+	"Hawaii"	"15"	"70 years"	"70"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	54	36252	149.0
+	"Hawaii"	"15"	"70 years"	"70"	"Malignant neoplasm of prostate"	"C61"	23	36252	63.4
+	"Hawaii"	"15"	"70 years"	"70"	"Malignant neoplasm without specification of site"	"C80"	16	36252	Unreliable
+	"Hawaii"	"15"	"70 years"	"70"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	12	36252	Unreliable
+	"Hawaii"	"15"	"70 years"	"70"	"Acute myocardial infarction, unspecified"	"I21.9"	19	36252	Unreliable
+	"Hawaii"	"15"	"70 years"	"70"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	36	36252	99.3
+	"Hawaii"	"15"	"70 years"	"70"	"Atherosclerotic heart disease"	"I25.1"	36	36252	99.3
+	"Hawaii"	"15"	"70 years"	"70"	"Stroke, not specified as haemorrhage or infarction"	"I64"	10	36252	Unreliable
+	"Hawaii"	"15"	"70 years"	"70"	"Pneumonia, unspecified"	"J18.9"	12	36252	Unreliable
+	"Hawaii"	"15"	"70 years"	"70"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	16	36252	Unreliable
+	"Hawaii"	"15"	"70 years"	"70"	"Other and unspecified cirrhosis of liver"	"K74.6"	10	36252	Unreliable
+	"Hawaii"	"15"	"71 years"	"71"	"Oesophagus, unspecified - Malignant neoplasms"	"C15.9"	10	33829	Unreliable
+	"Hawaii"	"15"	"71 years"	"71"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	19	33829	Unreliable
+	"Hawaii"	"15"	"71 years"	"71"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	50	33829	147.8
+	"Hawaii"	"15"	"71 years"	"71"	"Malignant neoplasm of prostate"	"C61"	21	33829	62.1
+	"Hawaii"	"15"	"71 years"	"71"	"Malignant neoplasm without specification of site"	"C80"	11	33829	Unreliable
+	"Hawaii"	"15"	"71 years"	"71"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	16	33829	Unreliable
+	"Hawaii"	"15"	"71 years"	"71"	"Acute myocardial infarction, unspecified"	"I21.9"	20	33829	59.1
+	"Hawaii"	"15"	"71 years"	"71"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	37	33829	109.4
+	"Hawaii"	"15"	"71 years"	"71"	"Atherosclerotic heart disease"	"I25.1"	35	33829	103.5
+	"Hawaii"	"15"	"71 years"	"71"	"Cardiac arrest, unspecified"	"I46.9"	12	33829	Unreliable
+	"Hawaii"	"15"	"71 years"	"71"	"Pneumonia, unspecified"	"J18.9"	19	33829	Unreliable
+	"Hawaii"	"15"	"71 years"	"71"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	17	33829	Unreliable
+	"Hawaii"	"15"	"71 years"	"71"	"Other interstitial pulmonary diseases with fibrosis"	"J84.1"	10	33829	Unreliable
+	"Hawaii"	"15"	"72 years"	"72"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	11	31830	Unreliable
+	"Hawaii"	"15"	"72 years"	"72"	"Liver cell carcinoma - Malignant neoplasms"	"C22.0"	14	31830	Unreliable
+	"Hawaii"	"15"	"72 years"	"72"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	16	31830	Unreliable
+	"Hawaii"	"15"	"72 years"	"72"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	68	31830	213.6
+	"Hawaii"	"15"	"72 years"	"72"	"Malignant neoplasm of prostate"	"C61"	21	31830	66.0
+	"Hawaii"	"15"	"72 years"	"72"	"Malignant neoplasm without specification of site"	"C80"	12	31830	Unreliable
+	"Hawaii"	"15"	"72 years"	"72"	"Unspecified dementia"	"F03"	11	31830	Unreliable
+	"Hawaii"	"15"	"72 years"	"72"	"Parkinson disease"	"G20"	10	31830	Unreliable
+	"Hawaii"	"15"	"72 years"	"72"	"Acute myocardial infarction, unspecified"	"I21.9"	19	31830	Unreliable
+	"Hawaii"	"15"	"72 years"	"72"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	46	31830	144.5
+	"Hawaii"	"15"	"72 years"	"72"	"Atherosclerotic heart disease"	"I25.1"	38	31830	119.4
+	"Hawaii"	"15"	"72 years"	"72"	"Cardiomyopathy, unspecified"	"I42.9"	16	31830	Unreliable
+	"Hawaii"	"15"	"72 years"	"72"	"Congestive heart failure"	"I50.0"	10	31830	Unreliable
+	"Hawaii"	"15"	"72 years"	"72"	"Pneumonia, unspecified"	"J18.9"	17	31830	Unreliable
+	"Hawaii"	"15"	"72 years"	"72"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	24	31830	75.4
+	"Hawaii"	"15"	"72 years"	"72"	"Other and unspecified cirrhosis of liver"	"K74.6"	15	31830	Unreliable
+	"Hawaii"	"15"	"72 years"	"72"	"Chronic kidney disease, stage 5"	"N18.5"	10	31830	Unreliable
+	"Hawaii"	"15"	"73 years"	"73"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	14	29185	Unreliable
+	"Hawaii"	"15"	"73 years"	"73"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	17	29185	Unreliable
+	"Hawaii"	"15"	"73 years"	"73"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	45	29185	154.2
+	"Hawaii"	"15"	"73 years"	"73"	"Malignant neoplasm of prostate"	"C61"	24	29185	82.2
+	"Hawaii"	"15"	"73 years"	"73"	"Malignant neoplasm without specification of site"	"C80"	19	29185	Unreliable
+	"Hawaii"	"15"	"73 years"	"73"	"Parkinson disease"	"G20"	11	29185	Unreliable
+	"Hawaii"	"15"	"73 years"	"73"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	18	29185	Unreliable
+	"Hawaii"	"15"	"73 years"	"73"	"Acute myocardial infarction, unspecified"	"I21.9"	33	29185	113.1
+	"Hawaii"	"15"	"73 years"	"73"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	33	29185	113.1
+	"Hawaii"	"15"	"73 years"	"73"	"Atherosclerotic heart disease"	"I25.1"	49	29185	167.9
+	"Hawaii"	"15"	"73 years"	"73"	"Stroke, not specified as haemorrhage or infarction"	"I64"	14	29185	Unreliable
+	"Hawaii"	"15"	"73 years"	"73"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	19	29185	Unreliable
+	"Hawaii"	"15"	"73 years"	"73"	"COVID-19"	"U07.1"	10	29185	Unreliable
+	"Hawaii"	"15"	"74 years"	"74"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	28	26191	106.9
+	"Hawaii"	"15"	"74 years"	"74"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	67	26191	255.8
+	"Hawaii"	"15"	"74 years"	"74"	"Malignant neoplasm of prostate"	"C61"	22	26191	84.0
+	"Hawaii"	"15"	"74 years"	"74"	"Bladder, unspecified - Malignant neoplasms"	"C67.9"	11	26191	Unreliable
+	"Hawaii"	"15"	"74 years"	"74"	"Unspecified dementia"	"F03"	12	26191	Unreliable
+	"Hawaii"	"15"	"74 years"	"74"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	12	26191	Unreliable
+	"Hawaii"	"15"	"74 years"	"74"	"Acute myocardial infarction, unspecified"	"I21.9"	20	26191	76.4
+	"Hawaii"	"15"	"74 years"	"74"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	23	26191	87.8
+	"Hawaii"	"15"	"74 years"	"74"	"Atherosclerotic heart disease"	"I25.1"	47	26191	179.5
+	"Hawaii"	"15"	"74 years"	"74"	"Cardiomyopathy, unspecified"	"I42.9"	12	26191	Unreliable
+	"Hawaii"	"15"	"74 years"	"74"	"Cardiac arrest, unspecified"	"I46.9"	10	26191	Unreliable
+	"Hawaii"	"15"	"74 years"	"74"	"Stroke, not specified as haemorrhage or infarction"	"I64"	12	26191	Unreliable
+	"Hawaii"	"15"	"74 years"	"74"	"Pneumonia, unspecified"	"J18.9"	16	26191	Unreliable
+	"Hawaii"	"15"	"74 years"	"74"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	23	26191	87.8
+	"Hawaii"	"15"	"74 years"	"74"	"Chronic kidney disease, stage 5"	"N18.5"	11	26191	Unreliable
+	"Hawaii"	"15"	"75 years"	"75"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	14	24058	Unreliable
+	"Hawaii"	"15"	"75 years"	"75"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	17	24058	Unreliable
+	"Hawaii"	"15"	"75 years"	"75"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	72	24058	299.3
+	"Hawaii"	"15"	"75 years"	"75"	"Malignant neoplasm of prostate"	"C61"	20	24058	83.1
+	"Hawaii"	"15"	"75 years"	"75"	"Parkinson disease"	"G20"	12	24058	Unreliable
+	"Hawaii"	"15"	"75 years"	"75"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	13	24058	Unreliable
+	"Hawaii"	"15"	"75 years"	"75"	"Acute myocardial infarction, unspecified"	"I21.9"	23	24058	95.6
+	"Hawaii"	"15"	"75 years"	"75"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	29	24058	120.5
+	"Hawaii"	"15"	"75 years"	"75"	"Atherosclerotic heart disease"	"I25.1"	45	24058	187.0
+	"Hawaii"	"15"	"75 years"	"75"	"Cardiac arrest, unspecified"	"I46.9"	13	24058	Unreliable
+	"Hawaii"	"15"	"75 years"	"75"	"Stroke, not specified as haemorrhage or infarction"	"I64"	12	24058	Unreliable
+	"Hawaii"	"15"	"75 years"	"75"	"Pneumonia, unspecified"	"J18.9"	14	24058	Unreliable
+	"Hawaii"	"15"	"75 years"	"75"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	31	24058	128.9
+	"Hawaii"	"15"	"76 years"	"76"	"Septicaemia, unspecified"	"A41.9"	12	21850	Unreliable
+	"Hawaii"	"15"	"76 years"	"76"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	57	21850	260.9
+	"Hawaii"	"15"	"76 years"	"76"	"Malignant neoplasm of prostate"	"C61"	28	21850	128.1
+	"Hawaii"	"15"	"76 years"	"76"	"Bladder, unspecified - Malignant neoplasms"	"C67.9"	12	21850	Unreliable
+	"Hawaii"	"15"	"76 years"	"76"	"Malignant neoplasm without specification of site"	"C80"	11	21850	Unreliable
+	"Hawaii"	"15"	"76 years"	"76"	"Unspecified diabetes mellitus, without complications"	"E14.9"	10	21850	Unreliable
+	"Hawaii"	"15"	"76 years"	"76"	"Parkinson disease"	"G20"	13	21850	Unreliable
+	"Hawaii"	"15"	"76 years"	"76"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	10	21850	Unreliable
+	"Hawaii"	"15"	"76 years"	"76"	"Acute myocardial infarction, unspecified"	"I21.9"	24	21850	109.8
+	"Hawaii"	"15"	"76 years"	"76"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	28	21850	128.1
+	"Hawaii"	"15"	"76 years"	"76"	"Atherosclerotic heart disease"	"I25.1"	36	21850	164.8
+	"Hawaii"	"15"	"76 years"	"76"	"Ischaemic cardiomyopathy"	"I25.5"	11	21850	Unreliable
+	"Hawaii"	"15"	"76 years"	"76"	"Cardiac arrest, unspecified"	"I46.9"	12	21850	Unreliable
+	"Hawaii"	"15"	"76 years"	"76"	"Congestive heart failure"	"I50.0"	17	21850	Unreliable
+	"Hawaii"	"15"	"76 years"	"76"	"Stroke, not specified as haemorrhage or infarction"	"I64"	21	21850	96.1
+	"Hawaii"	"15"	"76 years"	"76"	"Pneumonia, unspecified"	"J18.9"	15	21850	Unreliable
+	"Hawaii"	"15"	"76 years"	"76"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	28	21850	128.1
+	"Hawaii"	"15"	"77 years"	"77"	"Septicaemia, unspecified"	"A41.9"	13	19487	Unreliable
+	"Hawaii"	"15"	"77 years"	"77"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	18	19487	Unreliable
+	"Hawaii"	"15"	"77 years"	"77"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	43	19487	220.7
+	"Hawaii"	"15"	"77 years"	"77"	"Malignant neoplasm of prostate"	"C61"	22	19487	112.9
+	"Hawaii"	"15"	"77 years"	"77"	"Unspecified dementia"	"F03"	22	19487	112.9
+	"Hawaii"	"15"	"77 years"	"77"	"Parkinson disease"	"G20"	18	19487	Unreliable
+	"Hawaii"	"15"	"77 years"	"77"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	10	19487	Unreliable
+	"Hawaii"	"15"	"77 years"	"77"	"Acute myocardial infarction, unspecified"	"I21.9"	19	19487	Unreliable
+	"Hawaii"	"15"	"77 years"	"77"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	33	19487	169.3
+	"Hawaii"	"15"	"77 years"	"77"	"Atherosclerotic heart disease"	"I25.1"	37	19487	189.9
+	"Hawaii"	"15"	"77 years"	"77"	"Stroke, not specified as haemorrhage or infarction"	"I64"	10	19487	Unreliable
+	"Hawaii"	"15"	"77 years"	"77"	"Pneumonia, unspecified"	"J18.9"	22	19487	112.9
+	"Hawaii"	"15"	"77 years"	"77"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	26	19487	133.4
+	"Hawaii"	"15"	"78 years"	"78"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	11	17493	Unreliable
+	"Hawaii"	"15"	"78 years"	"78"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	16	17493	Unreliable
+	"Hawaii"	"15"	"78 years"	"78"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	53	17493	303.0
+	"Hawaii"	"15"	"78 years"	"78"	"Malignant neoplasm of prostate"	"C61"	15	17493	Unreliable
+	"Hawaii"	"15"	"78 years"	"78"	"Acute myeloid leukaemia - Malignant neoplasms"	"C92.0"	10	17493	Unreliable
+	"Hawaii"	"15"	"78 years"	"78"	"Unspecified diabetes mellitus, without complications"	"E14.9"	10	17493	Unreliable
+	"Hawaii"	"15"	"78 years"	"78"	"Vascular dementia, unspecified"	"F01.9"	10	17493	Unreliable
+	"Hawaii"	"15"	"78 years"	"78"	"Unspecified dementia"	"F03"	14	17493	Unreliable
+	"Hawaii"	"15"	"78 years"	"78"	"Parkinson disease"	"G20"	21	17493	120.0
+	"Hawaii"	"15"	"78 years"	"78"	"Acute myocardial infarction, unspecified"	"I21.9"	25	17493	142.9
+	"Hawaii"	"15"	"78 years"	"78"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	16	17493	Unreliable
+	"Hawaii"	"15"	"78 years"	"78"	"Atherosclerotic heart disease"	"I25.1"	35	17493	200.1
+	"Hawaii"	"15"	"78 years"	"78"	"Congestive heart failure"	"I50.0"	14	17493	Unreliable
+	"Hawaii"	"15"	"78 years"	"78"	"Stroke, not specified as haemorrhage or infarction"	"I64"	23	17493	131.5
+	"Hawaii"	"15"	"78 years"	"78"	"Pneumonia, unspecified"	"J18.9"	18	17493	Unreliable
+	"Hawaii"	"15"	"78 years"	"78"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	20	17493	114.3
+	"Hawaii"	"15"	"79 years"	"79"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	11	15779	Unreliable
+	"Hawaii"	"15"	"79 years"	"79"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	32	15779	202.8
+	"Hawaii"	"15"	"79 years"	"79"	"Malignant neoplasm of prostate"	"C61"	27	15779	171.1
+	"Hawaii"	"15"	"79 years"	"79"	"Unspecified dementia"	"F03"	13	15779	Unreliable
+	"Hawaii"	"15"	"79 years"	"79"	"Parkinson disease"	"G20"	18	15779	Unreliable
+	"Hawaii"	"15"	"79 years"	"79"	"Alzheimer disease, unspecified"	"G30.9"	10	15779	Unreliable
+	"Hawaii"	"15"	"79 years"	"79"	"Acute myocardial infarction, unspecified"	"I21.9"	17	15779	Unreliable
+	"Hawaii"	"15"	"79 years"	"79"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	17	15779	Unreliable
+	"Hawaii"	"15"	"79 years"	"79"	"Atherosclerotic heart disease"	"I25.1"	47	15779	297.9
+	"Hawaii"	"15"	"79 years"	"79"	"Stroke, not specified as haemorrhage or infarction"	"I64"	21	15779	133.1
+	"Hawaii"	"15"	"79 years"	"79"	"Pneumonia, unspecified"	"J18.9"	14	15779	Unreliable
+	"Hawaii"	"15"	"79 years"	"79"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	29	15779	183.8
+	"Hawaii"	"15"	"79 years"	"79"	"Other and unspecified cirrhosis of liver"	"K74.6"	10	15779	Unreliable
+	"Hawaii"	"15"	"79 years"	"79"	"Chronic kidney disease, stage 5"	"N18.5"	13	15779	Unreliable
+	"Hawaii"	"15"	"80 years"	"80"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	16	14300	Unreliable
+	"Hawaii"	"15"	"80 years"	"80"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	32	14300	223.8
+	"Hawaii"	"15"	"80 years"	"80"	"Malignant neoplasm of prostate"	"C61"	18	14300	Unreliable
+	"Hawaii"	"15"	"80 years"	"80"	"Unspecified dementia"	"F03"	24	14300	167.8
+	"Hawaii"	"15"	"80 years"	"80"	"Parkinson disease"	"G20"	18	14300	Unreliable
+	"Hawaii"	"15"	"80 years"	"80"	"Alzheimer disease, unspecified"	"G30.9"	10	14300	Unreliable
+	"Hawaii"	"15"	"80 years"	"80"	"Acute myocardial infarction, unspecified"	"I21.9"	25	14300	174.8
+	"Hawaii"	"15"	"80 years"	"80"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	14	14300	Unreliable
+	"Hawaii"	"15"	"80 years"	"80"	"Atherosclerotic heart disease"	"I25.1"	41	14300	286.7
+	"Hawaii"	"15"	"80 years"	"80"	"Cardiac arrest, unspecified"	"I46.9"	13	14300	Unreliable
+	"Hawaii"	"15"	"80 years"	"80"	"Stroke, not specified as haemorrhage or infarction"	"I64"	17	14300	Unreliable
+	"Hawaii"	"15"	"80 years"	"80"	"Pneumonia, unspecified"	"J18.9"	18	14300	Unreliable
+	"Hawaii"	"15"	"80 years"	"80"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	21	14300	146.9
+	"Hawaii"	"15"	"81 years"	"81"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	16	13077	Unreliable
+	"Hawaii"	"15"	"81 years"	"81"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	39	13077	298.2
+	"Hawaii"	"15"	"81 years"	"81"	"Malignant neoplasm of prostate"	"C61"	21	13077	160.6
+	"Hawaii"	"15"	"81 years"	"81"	"Unspecified dementia"	"F03"	24	13077	183.5
+	"Hawaii"	"15"	"81 years"	"81"	"Parkinson disease"	"G20"	19	13077	Unreliable
+	"Hawaii"	"15"	"81 years"	"81"	"Alzheimer disease, unspecified"	"G30.9"	19	13077	Unreliable
+	"Hawaii"	"15"	"81 years"	"81"	"Acute myocardial infarction, unspecified"	"I21.9"	12	13077	Unreliable
+	"Hawaii"	"15"	"81 years"	"81"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	22	13077	168.2
+	"Hawaii"	"15"	"81 years"	"81"	"Atherosclerotic heart disease"	"I25.1"	35	13077	267.6
+	"Hawaii"	"15"	"81 years"	"81"	"Cardiac arrest, unspecified"	"I46.9"	10	13077	Unreliable
+	"Hawaii"	"15"	"81 years"	"81"	"Congestive heart failure"	"I50.0"	20	13077	152.9
+	"Hawaii"	"15"	"81 years"	"81"	"Stroke, not specified as haemorrhage or infarction"	"I64"	18	13077	Unreliable
+	"Hawaii"	"15"	"81 years"	"81"	"Pneumonia, unspecified"	"J18.9"	22	13077	168.2
+	"Hawaii"	"15"	"81 years"	"81"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	21	13077	160.6
+	"Hawaii"	"15"	"81 years"	"81"	"Pneumonitis due to food and vomit"	"J69.0"	12	13077	Unreliable
+	"Hawaii"	"15"	"82 years"	"82"	"Septicaemia, unspecified"	"A41.9"	11	11956	Unreliable
+	"Hawaii"	"15"	"82 years"	"82"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	10	11956	Unreliable
+	"Hawaii"	"15"	"82 years"	"82"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	12	11956	Unreliable
+	"Hawaii"	"15"	"82 years"	"82"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	38	11956	317.8
+	"Hawaii"	"15"	"82 years"	"82"	"Malignant neoplasm of prostate"	"C61"	16	11956	Unreliable
+	"Hawaii"	"15"	"82 years"	"82"	"Unspecified dementia"	"F03"	23	11956	192.4
+	"Hawaii"	"15"	"82 years"	"82"	"Parkinson disease"	"G20"	32	11956	267.6
+	"Hawaii"	"15"	"82 years"	"82"	"Alzheimer disease, unspecified"	"G30.9"	17	11956	Unreliable
+	"Hawaii"	"15"	"82 years"	"82"	"Acute myocardial infarction, unspecified"	"I21.9"	25	11956	209.1
+	"Hawaii"	"15"	"82 years"	"82"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	20	11956	167.3
+	"Hawaii"	"15"	"82 years"	"82"	"Atherosclerotic heart disease"	"I25.1"	45	11956	376.4
+	"Hawaii"	"15"	"82 years"	"82"	"Cardiac arrest, unspecified"	"I46.9"	16	11956	Unreliable
+	"Hawaii"	"15"	"82 years"	"82"	"Stroke, not specified as haemorrhage or infarction"	"I64"	18	11956	Unreliable
+	"Hawaii"	"15"	"82 years"	"82"	"Pneumonia, unspecified"	"J18.9"	28	11956	234.2
+	"Hawaii"	"15"	"82 years"	"82"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	19	11956	Unreliable
+	"Hawaii"	"15"	"82 years"	"82"	"Pneumonitis due to food and vomit"	"J69.0"	10	11956	Unreliable
+	"Hawaii"	"15"	"83 years"	"83"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	12	11150	Unreliable
+	"Hawaii"	"15"	"83 years"	"83"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	11	11150	Unreliable
+	"Hawaii"	"15"	"83 years"	"83"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	35	11150	313.9
+	"Hawaii"	"15"	"83 years"	"83"	"Malignant neoplasm of prostate"	"C61"	13	11150	Unreliable
+	"Hawaii"	"15"	"83 years"	"83"	"Unspecified dementia"	"F03"	31	11150	278.0
+	"Hawaii"	"15"	"83 years"	"83"	"Parkinson disease"	"G20"	21	11150	188.3
+	"Hawaii"	"15"	"83 years"	"83"	"Alzheimer disease, unspecified"	"G30.9"	25	11150	224.2
+	"Hawaii"	"15"	"83 years"	"83"	"Acute myocardial infarction, unspecified"	"I21.9"	26	11150	233.2
+	"Hawaii"	"15"	"83 years"	"83"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	15	11150	Unreliable
+	"Hawaii"	"15"	"83 years"	"83"	"Atherosclerotic heart disease"	"I25.1"	39	11150	349.8
+	"Hawaii"	"15"	"83 years"	"83"	"Cardiac arrest, unspecified"	"I46.9"	10	11150	Unreliable
+	"Hawaii"	"15"	"83 years"	"83"	"Congestive heart failure"	"I50.0"	16	11150	Unreliable
+	"Hawaii"	"15"	"83 years"	"83"	"Stroke, not specified as haemorrhage or infarction"	"I64"	31	11150	278.0
+	"Hawaii"	"15"	"83 years"	"83"	"Pneumonia, unspecified"	"J18.9"	26	11150	233.2
+	"Hawaii"	"15"	"83 years"	"83"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	24	11150	215.2
+	"Hawaii"	"15"	"83 years"	"83"	"Chronic kidney disease, stage 5"	"N18.5"	10	11150	Unreliable
+	"Hawaii"	"15"	"84 years"	"84"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	10	10322	Unreliable
+	"Hawaii"	"15"	"84 years"	"84"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	14	10322	Unreliable
+	"Hawaii"	"15"	"84 years"	"84"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	25	10322	242.2
+	"Hawaii"	"15"	"84 years"	"84"	"Malignant neoplasm of prostate"	"C61"	17	10322	Unreliable
+	"Hawaii"	"15"	"84 years"	"84"	"Unspecified dementia"	"F03"	37	10322	358.5
+	"Hawaii"	"15"	"84 years"	"84"	"Parkinson disease"	"G20"	22	10322	213.1
+	"Hawaii"	"15"	"84 years"	"84"	"Alzheimer disease, unspecified"	"G30.9"	21	10322	203.4
+	"Hawaii"	"15"	"84 years"	"84"	"Acute myocardial infarction, unspecified"	"I21.9"	19	10322	Unreliable
+	"Hawaii"	"15"	"84 years"	"84"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	14	10322	Unreliable
+	"Hawaii"	"15"	"84 years"	"84"	"Atherosclerotic heart disease"	"I25.1"	45	10322	436.0
+	"Hawaii"	"15"	"84 years"	"84"	"Cardiac arrest, unspecified"	"I46.9"	14	10322	Unreliable
+	"Hawaii"	"15"	"84 years"	"84"	"Stroke, not specified as haemorrhage or infarction"	"I64"	19	10322	Unreliable
+	"Hawaii"	"15"	"84 years"	"84"	"Pneumonia, unspecified"	"J18.9"	19	10322	Unreliable
+	"Hawaii"	"15"	"84 years"	"84"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	18	10322	Unreliable
+	"Hawaii"	"15"	"84 years"	"84"	"Chronic kidney disease, stage 5"	"N18.5"	10	10322	Unreliable
+	"Hawaii"	"15"	"84 years"	"84"	"Other fall on same level"	"W18"	11	10322	Unreliable
+	"Hawaii"	"15"	"84 years"	"84"	"Unspecified fall"	"W19"	12	10322	Unreliable
+	"Hawaii"	"15"	"85 years"	"85"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	10	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"85 years"	"85"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	11	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"85 years"	"85"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	43	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"85 years"	"85"	"Malignant neoplasm of prostate"	"C61"	27	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"85 years"	"85"	"Vascular dementia, unspecified"	"F01.9"	14	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"85 years"	"85"	"Unspecified dementia"	"F03"	46	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"85 years"	"85"	"Parkinson disease"	"G20"	21	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"85 years"	"85"	"Alzheimer disease, unspecified"	"G30.9"	29	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"85 years"	"85"	"Acute myocardial infarction, unspecified"	"I21.9"	12	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"85 years"	"85"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	16	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"85 years"	"85"	"Atherosclerotic heart disease"	"I25.1"	45	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"85 years"	"85"	"Cardiac arrest, unspecified"	"I46.9"	13	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"85 years"	"85"	"Congestive heart failure"	"I50.0"	18	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"85 years"	"85"	"Stroke, not specified as haemorrhage or infarction"	"I64"	16	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"85 years"	"85"	"Pneumonia, unspecified"	"J18.9"	42	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"85 years"	"85"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	17	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"85 years"	"85"	"Unspecified fall"	"W19"	11	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"86 years"	"86"	"Septicaemia, unspecified"	"A41.9"	12	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"86 years"	"86"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	29	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"86 years"	"86"	"Malignant neoplasm of prostate"	"C61"	24	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"86 years"	"86"	"Vascular dementia, unspecified"	"F01.9"	16	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"86 years"	"86"	"Unspecified dementia"	"F03"	42	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"86 years"	"86"	"Parkinson disease"	"G20"	19	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"86 years"	"86"	"Alzheimer disease, unspecified"	"G30.9"	35	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"86 years"	"86"	"Acute subendocardial myocardial infarction"	"I21.4"	10	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"86 years"	"86"	"Acute myocardial infarction, unspecified"	"I21.9"	26	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"86 years"	"86"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	13	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"86 years"	"86"	"Atherosclerotic heart disease"	"I25.1"	49	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"86 years"	"86"	"Congestive heart failure"	"I50.0"	16	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"86 years"	"86"	"Stroke, not specified as haemorrhage or infarction"	"I64"	30	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"86 years"	"86"	"Pneumonia, unspecified"	"J18.9"	31	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"86 years"	"86"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	10	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"86 years"	"86"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	20	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"87 years"	"87"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	29	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"87 years"	"87"	"Malignant neoplasm of prostate"	"C61"	21	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"87 years"	"87"	"Malignant neoplasm without specification of site"	"C80"	10	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"87 years"	"87"	"Vascular dementia, unspecified"	"F01.9"	12	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"87 years"	"87"	"Unspecified dementia"	"F03"	49	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"87 years"	"87"	"Parkinson disease"	"G20"	25	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"87 years"	"87"	"Alzheimer disease, unspecified"	"G30.9"	34	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"87 years"	"87"	"Acute myocardial infarction, unspecified"	"I21.9"	28	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"87 years"	"87"	"Atherosclerotic heart disease"	"I25.1"	48	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"87 years"	"87"	"Congestive heart failure"	"I50.0"	12	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"87 years"	"87"	"Stroke, not specified as haemorrhage or infarction"	"I64"	20	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"87 years"	"87"	"Pneumonia, unspecified"	"J18.9"	28	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"87 years"	"87"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	16	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"88 years"	"88"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	23	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"88 years"	"88"	"Malignant neoplasm of prostate"	"C61"	28	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"88 years"	"88"	"Vascular dementia, unspecified"	"F01.9"	10	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"88 years"	"88"	"Unspecified dementia"	"F03"	63	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"88 years"	"88"	"Parkinson disease"	"G20"	18	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"88 years"	"88"	"Alzheimer disease, unspecified"	"G30.9"	35	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"88 years"	"88"	"Acute myocardial infarction, unspecified"	"I21.9"	16	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"88 years"	"88"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	10	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"88 years"	"88"	"Atherosclerotic heart disease"	"I25.1"	37	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"88 years"	"88"	"Congestive heart failure"	"I50.0"	14	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"88 years"	"88"	"Stroke, not specified as haemorrhage or infarction"	"I64"	41	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"88 years"	"88"	"Pneumonia, unspecified"	"J18.9"	43	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"88 years"	"88"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	19	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"88 years"	"88"	"Pneumonitis due to food and vomit"	"J69.0"	16	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"89 years"	"89"	"Septicaemia, unspecified"	"A41.9"	12	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"89 years"	"89"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	10	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"89 years"	"89"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	27	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"89 years"	"89"	"Malignant neoplasm of prostate"	"C61"	20	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"89 years"	"89"	"Vascular dementia, unspecified"	"F01.9"	14	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"89 years"	"89"	"Unspecified dementia"	"F03"	56	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"89 years"	"89"	"Parkinson disease"	"G20"	22	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"89 years"	"89"	"Alzheimer disease, unspecified"	"G30.9"	34	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"89 years"	"89"	"Acute myocardial infarction, unspecified"	"I21.9"	24	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"89 years"	"89"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	11	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"89 years"	"89"	"Atherosclerotic heart disease"	"I25.1"	54	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"89 years"	"89"	"Cardiac arrest, unspecified"	"I46.9"	15	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"89 years"	"89"	"Congestive heart failure"	"I50.0"	16	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"89 years"	"89"	"Stroke, not specified as haemorrhage or infarction"	"I64"	25	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"89 years"	"89"	"Pneumonia, unspecified"	"J18.9"	50	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"89 years"	"89"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	16	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"89 years"	"89"	"Pneumonitis due to food and vomit"	"J69.0"	14	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"90 years"	"90"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	17	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"90 years"	"90"	"Malignant neoplasm of prostate"	"C61"	33	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"90 years"	"90"	"Vascular dementia, unspecified"	"F01.9"	20	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"90 years"	"90"	"Unspecified dementia"	"F03"	70	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"90 years"	"90"	"Parkinson disease"	"G20"	23	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"90 years"	"90"	"Alzheimer disease, unspecified"	"G30.9"	52	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"90 years"	"90"	"Acute myocardial infarction, unspecified"	"I21.9"	26	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"90 years"	"90"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	14	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"90 years"	"90"	"Atherosclerotic heart disease"	"I25.1"	49	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"90 years"	"90"	"Aortic (valve) stenosis"	"I35.0"	10	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"90 years"	"90"	"Cardiomyopathy, unspecified"	"I42.9"	10	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"90 years"	"90"	"Cardiac arrest, unspecified"	"I46.9"	15	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"90 years"	"90"	"Atrial fibrillation and flutter"	"I48"	10	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"90 years"	"90"	"Congestive heart failure"	"I50.0"	17	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"90 years"	"90"	"Stroke, not specified as haemorrhage or infarction"	"I64"	24	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"90 years"	"90"	"Cerebrovascular disease, unspecified"	"I67.9"	15	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"90 years"	"90"	"Pneumonia, unspecified"	"J18.9"	41	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"90 years"	"90"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	19	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"90 years"	"90"	"Pneumonitis due to food and vomit"	"J69.0"	19	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"90 years"	"90"	"Unspecified fall"	"W19"	11	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"91 years"	"91"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	18	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"91 years"	"91"	"Malignant neoplasm of prostate"	"C61"	23	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"91 years"	"91"	"Vascular dementia, unspecified"	"F01.9"	11	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"91 years"	"91"	"Unspecified dementia"	"F03"	51	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"91 years"	"91"	"Parkinson disease"	"G20"	11	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"91 years"	"91"	"Alzheimer disease, unspecified"	"G30.9"	34	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"91 years"	"91"	"Acute myocardial infarction, unspecified"	"I21.9"	14	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"91 years"	"91"	"Atherosclerotic heart disease"	"I25.1"	50	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"91 years"	"91"	"Aortic (valve) stenosis"	"I35.0"	10	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"91 years"	"91"	"Cardiac arrest, unspecified"	"I46.9"	11	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"91 years"	"91"	"Congestive heart failure"	"I50.0"	19	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"91 years"	"91"	"Stroke, not specified as haemorrhage or infarction"	"I64"	16	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"91 years"	"91"	"Pneumonia, unspecified"	"J18.9"	38	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"91 years"	"91"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	12	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"91 years"	"91"	"Pneumonitis due to food and vomit"	"J69.0"	13	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"91 years"	"91"	"Chronic kidney disease, stage 5"	"N18.5"	10	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"92 years"	"92"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	10	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"92 years"	"92"	"Malignant neoplasm of prostate"	"C61"	12	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"92 years"	"92"	"Vascular dementia, unspecified"	"F01.9"	18	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"92 years"	"92"	"Unspecified dementia"	"F03"	43	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"92 years"	"92"	"Alzheimer disease, unspecified"	"G30.9"	41	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"92 years"	"92"	"Acute myocardial infarction, unspecified"	"I21.9"	15	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"92 years"	"92"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	15	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"92 years"	"92"	"Atherosclerotic heart disease"	"I25.1"	36	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"92 years"	"92"	"Cardiac arrest, unspecified"	"I46.9"	20	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"92 years"	"92"	"Congestive heart failure"	"I50.0"	19	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"92 years"	"92"	"Stroke, not specified as haemorrhage or infarction"	"I64"	25	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"92 years"	"92"	"Cerebrovascular disease, unspecified"	"I67.9"	10	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"92 years"	"92"	"Pneumonia, unspecified"	"J18.9"	44	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"92 years"	"92"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	13	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"92 years"	"92"	"Pneumonitis due to food and vomit"	"J69.0"	14	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"93 years"	"93"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	15	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"93 years"	"93"	"Malignant neoplasm of prostate"	"C61"	16	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"93 years"	"93"	"Unspecified dementia"	"F03"	57	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"93 years"	"93"	"Alzheimer disease, unspecified"	"G30.9"	45	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"93 years"	"93"	"Acute myocardial infarction, unspecified"	"I21.9"	14	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"93 years"	"93"	"Atherosclerotic heart disease"	"I25.1"	59	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"93 years"	"93"	"Atrial fibrillation and flutter"	"I48"	12	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"93 years"	"93"	"Congestive heart failure"	"I50.0"	22	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"93 years"	"93"	"Heart failure, unspecified"	"I50.9"	12	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"93 years"	"93"	"Stroke, not specified as haemorrhage or infarction"	"I64"	22	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"93 years"	"93"	"Pneumonia, unspecified"	"J18.9"	54	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"93 years"	"93"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	11	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"93 years"	"93"	"Pneumonitis due to food and vomit"	"J69.0"	10	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"94 years"	"94"	"Unspecified dementia"	"F03"	61	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"94 years"	"94"	"Alzheimer disease, unspecified"	"G30.9"	35	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"94 years"	"94"	"Acute myocardial infarction, unspecified"	"I21.9"	10	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"94 years"	"94"	"Atherosclerotic heart disease"	"I25.1"	40	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"94 years"	"94"	"Atrial fibrillation and flutter"	"I48"	10	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"94 years"	"94"	"Congestive heart failure"	"I50.0"	23	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"94 years"	"94"	"Stroke, not specified as haemorrhage or infarction"	"I64"	15	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"94 years"	"94"	"Cerebrovascular disease, unspecified"	"I67.9"	10	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"94 years"	"94"	"Pneumonia, unspecified"	"J18.9"	31	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"94 years"	"94"	"Pneumonitis due to food and vomit"	"J69.0"	16	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"95 years"	"95"	"Unspecified dementia"	"F03"	53	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"95 years"	"95"	"Alzheimer disease, unspecified"	"G30.9"	40	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"95 years"	"95"	"Atherosclerotic heart disease"	"I25.1"	35	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"95 years"	"95"	"Congestive heart failure"	"I50.0"	10	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"95 years"	"95"	"Stroke, not specified as haemorrhage or infarction"	"I64"	12	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"95 years"	"95"	"Cerebrovascular disease, unspecified"	"I67.9"	10	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"95 years"	"95"	"Pneumonia, unspecified"	"J18.9"	31	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"96 years"	"96"	"Unspecified dementia"	"F03"	45	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"96 years"	"96"	"Alzheimer disease, unspecified"	"G30.9"	23	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"96 years"	"96"	"Atherosclerotic heart disease"	"I25.1"	29	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"96 years"	"96"	"Aortic (valve) stenosis"	"I35.0"	11	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"96 years"	"96"	"Stroke, not specified as haemorrhage or infarction"	"I64"	17	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"96 years"	"96"	"Cerebrovascular disease, unspecified"	"I67.9"	12	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"96 years"	"96"	"Pneumonia, unspecified"	"J18.9"	27	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"97 years"	"97"	"Unspecified dementia"	"F03"	29	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"97 years"	"97"	"Alzheimer disease, unspecified"	"G30.9"	20	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"97 years"	"97"	"Acute myocardial infarction, unspecified"	"I21.9"	11	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"97 years"	"97"	"Atherosclerotic heart disease"	"I25.1"	14	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"97 years"	"97"	"Pneumonia, unspecified"	"J18.9"	20	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"98 years"	"98"	"Unspecified dementia"	"F03"	23	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"98 years"	"98"	"Alzheimer disease, unspecified"	"G30.9"	14	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"98 years"	"98"	"Atherosclerotic heart disease"	"I25.1"	19	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"98 years"	"98"	"Pneumonia, unspecified"	"J18.9"	13	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"99 years"	"99"	"Unspecified dementia"	"F03"	19	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"99 years"	"99"	"Atherosclerotic heart disease"	"I25.1"	10	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"100+ years"	"100"	"Unspecified dementia"	"F03"	32	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"100+ years"	"100"	"Alzheimer disease, unspecified"	"G30.9"	24	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"100+ years"	"100"	"Atherosclerotic heart disease"	"I25.1"	15	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"100+ years"	"100"	"Congestive heart failure"	"I50.0"	11	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"100+ years"	"100"	"Pneumonia, unspecified"	"J18.9"	21	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"100+ years"	"100"	"Pneumonitis due to food and vomit"	"J69.0"	10	Not Applicable	Not Applicable
+"---"
+"Dataset: Underlying Cause of Death, 1999-2020"
+"Query Parameters:"
+"Title: Hawaii CoD M"
+"Gender: Male"
+"States: Hawaii (15)"
+"Year/Month: 2016; 2017; 2018; 2019; 2020"
+"Group By: State; Single-Year Ages; Cause of death"
+"Show Totals: Disabled"
+"Show Zero Values: Disabled"
+"Show Suppressed: False"
+"Calculate Rates Per: 100,000"
+"Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/ucd.html for more information."
+"---"
+"Query Date: Apr 8, 2022 1:21:41 AM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. Underlying Cause of Death"
+"1999-2020 on CDC WONDER Online Database, released in 2021. Data are from the Multiple Cause of Death Files, 1999-2020, as"
+"compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative Program. Accessed"
+"at http://wonder.cdc.gov/ucd-icd10.html on Apr 8, 2022 1:21:41 AM"
+"---"
+Messages:
+"1. The full results are too long to be displayed. Due to suppression constraints rows that are zero, suppressed or a total will"
+"not be available."
+"---"
+Caveats:
+"1. Population and rates are labeled 'Not Applicable' when they include a subset of ages 85-100+ because populations are not"
+"available for those ages. More information: http://wonder.cdc.gov/wonder/help/ucd.html#Ages 85-100."
+"2. Death rates are flagged as Unreliable when the rate is calculated with a numerator of 20 or less. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Unreliable."
+"3. Deaths of persons with Age ""Not Stated"" are included in ""All"" counts and rates, but are not distributed among age groups,"
+"so are not included in age-specific counts, age-specific rates or in any age-adjusted rates. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Not Stated."
+"4. The population figures for year 2020 are bridged-race estimates of the July 1 resident population, from the Vintage 2020"
+"postcensal series released by NCHS on September 22, 2021. The population figures for year 2019 are bridged-race estimates of the"
+"July 1 resident population, from the Vintage 2019 postcensal series released by NCHS on July 9, 2020. The population figures for"
+"year 2018 are bridged-race estimates of the July 1 resident population, from the Vintage 2018 postcensal series released by NCHS"
+"on June 25, 2019. The population figures for year 2017 are bridged-race estimates of the July 1 resident population, from the"
+"Vintage 2017 postcensal series released by NCHS on June 27, 2018. The population figures for year 2016 are bridged-race"
+"estimates of the July 1 resident population, from the Vintage 2016 postcensal series released by NCHS on June 26, 2017. The"
+"population figures for year 2015 are bridged-race estimates of the July 1 resident population, from the Vintage 2015 postcensal"
+"series released by NCHS on June 28, 2016. The population figures for year 2014 are bridged-race estimates of the July 1 resident"
+"population, from the Vintage 2014 postcensal series released by NCHS on June 30, 2015. The population figures for year 2013 are"
+"bridged-race estimates of the July 1 resident population, from the Vintage 2013 postcensal series released by NCHS on June 26,"
+"2014. The population figures for year 2012 are bridged-race estimates of the July 1 resident population, from the Vintage 2012"
+"postcensal series released by NCHS on June 13, 2013. The population figures for year 2011 are bridged-race estimates of the July"
+"1 resident population, from the Vintage 2011 postcensal series released by NCHS on July 18, 2012. Population figures for 2010"
+"are April 1 Census counts. The population figures for years 2001 - 2009 are bridged-race estimates of the July 1 resident"
+"population, from the revised intercensal county-level 2000 - 2009 series released by NCHS on October 26, 2012. Population"
+"figures for 2000 are April 1 Census counts. Population figures for 1999 are from the 1990-1999 intercensal series of July 1"
+"estimates. Population figures for the infant age groups are the number of live births. <br/><b>Note:</b> Rates and population"
+"figures for years 2001 - 2009 differ slightly from previously published reports, due to use of the population estimates which"
+"were available at the time of release."
+"5. The population figures used in the calculation of death rates for the age group 'under 1 year' are the estimates of the"
+"resident population that is under one year of age. More information: http://wonder.cdc.gov/wonder/help/ucd.html#Age Group."
+"6. Beginning with the 2018 data, changes have been implemented that affect the counts for ICD-10 cause of death codes O00-O99"
+"compared to previous practice. In addition, data for the cause of death codes O00-O99 for 2003 through 2017 reflect differences"
+"in information available to individual states and probable errors. Caution should be used in interpreting these data. More"
+"information can be found at: https://www.cdc.gov/nchs/maternal-mortality/."
+"7. On March 11, 2021, the 2019 mortality data on CDC WONDER was updated with the 2019 mortality data updated by NCHS on March 4,"
+"2021 to include corrected information for residents of Texas affecting 5 records previously coded to cause code *U01.4,"
+"Terrorism involving firearms (homicide). The underlying and multiple cause of death codes for 5 records were corrected in the"
+"2019 data. Underlying and multiple cause of death codes for those 5 records were recoded to Assault (homicide) by other and"
+"unspecified firearm discharge, ICD-10 code X95. The corrected final death records replaces the data released on December 22,"
+"2020."
+"8. Changes to cause of death classification affect reporting trends. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#ICD-10 Changes."

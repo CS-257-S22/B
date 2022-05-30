@@ -1,0 +1,15 @@
+Command Line Features: 
+    1) Input (age, location, cause of death) or combination of inputs and get an output about the total number of deaths within our dataset.
+        Python3 predictor_of_passing.py -deathsper -a “Age” -s “State” -g “Gender” -c “Cause of Death”
+        Python3 predictor_of_passing.py -dp -a “Age” -s “State” -g “Gender” -c “Cause of Death”
+    2) Input (age, location) or combination of inputs and get an output about the total number of living people which fall into that category.
+    3) Input Age and/or Location and get an output of the first 10 causes of deaths with the highest probability.
+        Python3 predictor_of_passing.py -leadingcause (lc) -a “Age” -s “State” -g “Gender”
+        Python3 predictor_of_passing.py -lc -a “Age” -s “State” -g “Gender”
+    4) Input a cause of death and get the state/age where the most people die from that cause.
+
+Function Signatures:
+    1) Def deaths_per (age, state, gender, cause)
+        Returns an integer representing the number of people of the given factors that have died in our time range
+    3) Def leading_cause (age, state, gender)
+        Returns a list of strings of the leading causes of death for people of the given factors

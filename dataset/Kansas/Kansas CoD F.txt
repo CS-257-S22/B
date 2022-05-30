@@ -1,0 +1,1377 @@
+"Notes"	"State"	"State Code"	"Single-Year Ages"	"Single-Year Ages Code"	"Cause of death"	"Cause of death Code"	Deaths	Population	Crude Rate
+	"Kansas"	"20"	"< 1 year"	"0"	"Newborn affected by premature rupture of membranes"	"P01.1"	17	89538	Unreliable
+	"Kansas"	"20"	"< 1 year"	"0"	"Newborn affected by other forms of placental separation and haemorrhage"	"P02.1"	13	89538	Unreliable
+	"Kansas"	"20"	"< 1 year"	"0"	"Extreme immaturity"	"P07.2"	41	89538	45.8
+	"Kansas"	"20"	"< 1 year"	"0"	"Other preterm infants"	"P07.3"	33	89538	36.9
+	"Kansas"	"20"	"< 1 year"	"0"	"Anencephaly"	"Q00.0"	13	89538	Unreliable
+	"Kansas"	"20"	"< 1 year"	"0"	"Hypoplasia and dysplasia of lung"	"Q33.6"	10	89538	Unreliable
+	"Kansas"	"20"	"< 1 year"	"0"	"Edwards syndrome, unspecified"	"Q91.3"	18	89538	Unreliable
+	"Kansas"	"20"	"< 1 year"	"0"	"Sudden infant death syndrome - SIDS"	"R95"	27	89538	30.2
+	"Kansas"	"20"	"< 1 year"	"0"	"Other ill-defined and unspecified causes of mortality"	"R99"	32	89538	35.7
+	"Kansas"	"20"	"< 1 year"	"0"	"Accidental suffocation and strangulation in bed"	"W75"	23	89538	25.7
+	"Kansas"	"20"	"19 years"	"19"	"Person injured in unspecified motor-vehicle accident, traffic"	"V89.2"	14	99660	Unreliable
+	"Kansas"	"20"	"43 years"	"43"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	14	81010	Unreliable
+	"Kansas"	"20"	"44 years"	"44"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	15	80078	Unreliable
+	"Kansas"	"20"	"45 years"	"45"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	10	81521	Unreliable
+	"Kansas"	"20"	"45 years"	"45"	"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X44"	12	81521	Unreliable
+	"Kansas"	"20"	"46 years"	"46"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	10	82263	Unreliable
+	"Kansas"	"20"	"47 years"	"47"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	17	83106	Unreliable
+	"Kansas"	"20"	"47 years"	"47"	"Atherosclerotic heart disease"	"I25.1"	12	83106	Unreliable
+	"Kansas"	"20"	"48 years"	"48"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	12	83442	Unreliable
+	"Kansas"	"20"	"49 years"	"49"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	10	83210	Unreliable
+	"Kansas"	"20"	"49 years"	"49"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	20	83210	24.0
+	"Kansas"	"20"	"50 years"	"50"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	23	82362	27.9
+	"Kansas"	"20"	"50 years"	"50"	"Acute myocardial infarction, unspecified"	"I21.9"	15	82362	Unreliable
+	"Kansas"	"20"	"51 years"	"51"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	10	82675	Unreliable
+	"Kansas"	"20"	"51 years"	"51"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	19	82675	Unreliable
+	"Kansas"	"20"	"51 years"	"51"	"Acute myocardial infarction, unspecified"	"I21.9"	11	82675	Unreliable
+	"Kansas"	"20"	"51 years"	"51"	"Atherosclerotic heart disease"	"I25.1"	12	82675	Unreliable
+	"Kansas"	"20"	"51 years"	"51"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	12	82675	Unreliable
+	"Kansas"	"20"	"52 years"	"52"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	17	84879	Unreliable
+	"Kansas"	"20"	"52 years"	"52"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	24	84879	28.3
+	"Kansas"	"20"	"52 years"	"52"	"Acute myocardial infarction, unspecified"	"I21.9"	10	84879	Unreliable
+	"Kansas"	"20"	"52 years"	"52"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	12	84879	Unreliable
+	"Kansas"	"20"	"53 years"	"53"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	31	88265	35.1
+	"Kansas"	"20"	"53 years"	"53"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	27	88265	30.6
+	"Kansas"	"20"	"53 years"	"53"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	10	88265	Unreliable
+	"Kansas"	"20"	"53 years"	"53"	"Atherosclerotic heart disease"	"I25.1"	17	88265	Unreliable
+	"Kansas"	"20"	"53 years"	"53"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	14	88265	Unreliable
+	"Kansas"	"20"	"53 years"	"53"	"Alcoholic cirrhosis of liver"	"K70.3"	10	88265	Unreliable
+	"Kansas"	"20"	"53 years"	"53"	"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X44"	11	88265	Unreliable
+	"Kansas"	"20"	"54 years"	"54"	"Septicaemia, unspecified"	"A41.9"	13	91685	Unreliable
+	"Kansas"	"20"	"54 years"	"54"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	11	91685	Unreliable
+	"Kansas"	"20"	"54 years"	"54"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	10	91685	Unreliable
+	"Kansas"	"20"	"54 years"	"54"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	28	91685	30.5
+	"Kansas"	"20"	"54 years"	"54"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	19	91685	Unreliable
+	"Kansas"	"20"	"54 years"	"54"	"Malignant neoplasm of ovary"	"C56"	11	91685	Unreliable
+	"Kansas"	"20"	"54 years"	"54"	"Malignant neoplasm without specification of site"	"C80"	10	91685	Unreliable
+	"Kansas"	"20"	"54 years"	"54"	"Atherosclerotic heart disease"	"I25.1"	17	91685	Unreliable
+	"Kansas"	"20"	"54 years"	"54"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	19	91685	Unreliable
+	"Kansas"	"20"	"55 years"	"55"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	32	95119	33.6
+	"Kansas"	"20"	"55 years"	"55"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	23	95119	24.2
+	"Kansas"	"20"	"55 years"	"55"	"Malignant neoplasm of ovary"	"C56"	12	95119	Unreliable
+	"Kansas"	"20"	"55 years"	"55"	"Acute myocardial infarction, unspecified"	"I21.9"	10	95119	Unreliable
+	"Kansas"	"20"	"55 years"	"55"	"Atherosclerotic heart disease"	"I25.1"	19	95119	Unreliable
+	"Kansas"	"20"	"55 years"	"55"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	25	95119	26.3
+	"Kansas"	"20"	"56 years"	"56"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	10	97286	Unreliable
+	"Kansas"	"20"	"56 years"	"56"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	37	97286	38.0
+	"Kansas"	"20"	"56 years"	"56"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	33	97286	33.9
+	"Kansas"	"20"	"56 years"	"56"	"Acute myocardial infarction, unspecified"	"I21.9"	14	97286	Unreliable
+	"Kansas"	"20"	"56 years"	"56"	"Atherosclerotic heart disease"	"I25.1"	20	97286	20.6
+	"Kansas"	"20"	"56 years"	"56"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	20	97286	20.6
+	"Kansas"	"20"	"56 years"	"56"	"Alcoholic cirrhosis of liver"	"K70.3"	10	97286	Unreliable
+	"Kansas"	"20"	"57 years"	"57"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	13	98147	Unreliable
+	"Kansas"	"20"	"57 years"	"57"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	13	98147	Unreliable
+	"Kansas"	"20"	"57 years"	"57"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	46	98147	46.9
+	"Kansas"	"20"	"57 years"	"57"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	43	98147	43.8
+	"Kansas"	"20"	"57 years"	"57"	"Malignant neoplasm of ovary"	"C56"	12	98147	Unreliable
+	"Kansas"	"20"	"57 years"	"57"	"Acute myocardial infarction, unspecified"	"I21.9"	12	98147	Unreliable
+	"Kansas"	"20"	"57 years"	"57"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	10	98147	Unreliable
+	"Kansas"	"20"	"57 years"	"57"	"Atherosclerotic heart disease"	"I25.1"	21	98147	21.4
+	"Kansas"	"20"	"57 years"	"57"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	33	98147	33.6
+	"Kansas"	"20"	"58 years"	"58"	"Septicaemia, unspecified"	"A41.9"	13	98299	Unreliable
+	"Kansas"	"20"	"58 years"	"58"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	12	98299	Unreliable
+	"Kansas"	"20"	"58 years"	"58"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	68	98299	69.2
+	"Kansas"	"20"	"58 years"	"58"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	37	98299	37.6
+	"Kansas"	"20"	"58 years"	"58"	"Malignant neoplasm of uterus, part unspecified"	"C55"	10	98299	Unreliable
+	"Kansas"	"20"	"58 years"	"58"	"Malignant neoplasm of ovary"	"C56"	14	98299	Unreliable
+	"Kansas"	"20"	"58 years"	"58"	"Malignant neoplasm without specification of site"	"C80"	16	98299	Unreliable
+	"Kansas"	"20"	"58 years"	"58"	"Unspecified diabetes mellitus, without complications"	"E14.9"	12	98299	Unreliable
+	"Kansas"	"20"	"58 years"	"58"	"Acute myocardial infarction, unspecified"	"I21.9"	18	98299	Unreliable
+	"Kansas"	"20"	"58 years"	"58"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	16	98299	Unreliable
+	"Kansas"	"20"	"58 years"	"58"	"Atherosclerotic heart disease"	"I25.1"	17	98299	Unreliable
+	"Kansas"	"20"	"58 years"	"58"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	43	98299	43.7
+	"Kansas"	"20"	"59 years"	"59"	"Septicaemia, unspecified"	"A41.9"	11	98464	Unreliable
+	"Kansas"	"20"	"59 years"	"59"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	17	98464	Unreliable
+	"Kansas"	"20"	"59 years"	"59"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	18	98464	Unreliable
+	"Kansas"	"20"	"59 years"	"59"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	69	98464	70.1
+	"Kansas"	"20"	"59 years"	"59"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	35	98464	35.5
+	"Kansas"	"20"	"59 years"	"59"	"Malignant neoplasm of ovary"	"C56"	11	98464	Unreliable
+	"Kansas"	"20"	"59 years"	"59"	"Malignant neoplasm without specification of site"	"C80"	10	98464	Unreliable
+	"Kansas"	"20"	"59 years"	"59"	"Unspecified diabetes mellitus, without complications"	"E14.9"	13	98464	Unreliable
+	"Kansas"	"20"	"59 years"	"59"	"Acute myocardial infarction, unspecified"	"I21.9"	18	98464	Unreliable
+	"Kansas"	"20"	"59 years"	"59"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	10	98464	Unreliable
+	"Kansas"	"20"	"59 years"	"59"	"Atherosclerotic heart disease"	"I25.1"	18	98464	Unreliable
+	"Kansas"	"20"	"59 years"	"59"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	30	98464	30.5
+	"Kansas"	"20"	"59 years"	"59"	"Chronic kidney disease, stage 5"	"N18.5"	14	98464	Unreliable
+	"Kansas"	"20"	"59 years"	"59"	"COVID-19"	"U07.1"	10	98464	Unreliable
+	"Kansas"	"20"	"60 years"	"60"	"Septicaemia, unspecified"	"A41.9"	10	96666	Unreliable
+	"Kansas"	"20"	"60 years"	"60"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	14	96666	Unreliable
+	"Kansas"	"20"	"60 years"	"60"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	16	96666	Unreliable
+	"Kansas"	"20"	"60 years"	"60"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	82	96666	84.8
+	"Kansas"	"20"	"60 years"	"60"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	40	96666	41.4
+	"Kansas"	"20"	"60 years"	"60"	"Malignant neoplasm of ovary"	"C56"	12	96666	Unreliable
+	"Kansas"	"20"	"60 years"	"60"	"Brain, unspecified - Malignant neoplasms"	"C71.9"	13	96666	Unreliable
+	"Kansas"	"20"	"60 years"	"60"	"Malignant neoplasm without specification of site"	"C80"	14	96666	Unreliable
+	"Kansas"	"20"	"60 years"	"60"	"Unspecified diabetes mellitus, without complications"	"E14.9"	14	96666	Unreliable
+	"Kansas"	"20"	"60 years"	"60"	"Acute myocardial infarction, unspecified"	"I21.9"	24	96666	24.8
+	"Kansas"	"20"	"60 years"	"60"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	13	96666	Unreliable
+	"Kansas"	"20"	"60 years"	"60"	"Atherosclerotic heart disease"	"I25.1"	30	96666	31.0
+	"Kansas"	"20"	"60 years"	"60"	"Stroke, not specified as haemorrhage or infarction"	"I64"	14	96666	Unreliable
+	"Kansas"	"20"	"60 years"	"60"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	50	96666	51.7
+	"Kansas"	"20"	"60 years"	"60"	"COVID-19"	"U07.1"	15	96666	Unreliable
+	"Kansas"	"20"	"61 years"	"61"	"Septicaemia, unspecified"	"A41.9"	19	95221	Unreliable
+	"Kansas"	"20"	"61 years"	"61"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	18	95221	Unreliable
+	"Kansas"	"20"	"61 years"	"61"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	29	95221	30.5
+	"Kansas"	"20"	"61 years"	"61"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	76	95221	79.8
+	"Kansas"	"20"	"61 years"	"61"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	34	95221	35.7
+	"Kansas"	"20"	"61 years"	"61"	"Malignant neoplasm of ovary"	"C56"	16	95221	Unreliable
+	"Kansas"	"20"	"61 years"	"61"	"Malignant neoplasm without specification of site"	"C80"	10	95221	Unreliable
+	"Kansas"	"20"	"61 years"	"61"	"Alzheimer disease, unspecified"	"G30.9"	10	95221	Unreliable
+	"Kansas"	"20"	"61 years"	"61"	"Acute myocardial infarction, unspecified"	"I21.9"	23	95221	24.2
+	"Kansas"	"20"	"61 years"	"61"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	19	95221	Unreliable
+	"Kansas"	"20"	"61 years"	"61"	"Atherosclerotic heart disease"	"I25.1"	27	95221	28.4
+	"Kansas"	"20"	"61 years"	"61"	"Stroke, not specified as haemorrhage or infarction"	"I64"	11	95221	Unreliable
+	"Kansas"	"20"	"61 years"	"61"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	53	95221	55.7
+	"Kansas"	"20"	"61 years"	"61"	"Alcoholic cirrhosis of liver"	"K70.3"	10	95221	Unreliable
+	"Kansas"	"20"	"62 years"	"62"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	18	93154	Unreliable
+	"Kansas"	"20"	"62 years"	"62"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	16	93154	Unreliable
+	"Kansas"	"20"	"62 years"	"62"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	65	93154	69.8
+	"Kansas"	"20"	"62 years"	"62"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	46	93154	49.4
+	"Kansas"	"20"	"62 years"	"62"	"Malignant neoplasm of ovary"	"C56"	14	93154	Unreliable
+	"Kansas"	"20"	"62 years"	"62"	"Brain, unspecified - Malignant neoplasms"	"C71.9"	11	93154	Unreliable
+	"Kansas"	"20"	"62 years"	"62"	"Malignant neoplasm without specification of site"	"C80"	12	93154	Unreliable
+	"Kansas"	"20"	"62 years"	"62"	"Unspecified diabetes mellitus, without complications"	"E14.9"	20	93154	21.5
+	"Kansas"	"20"	"62 years"	"62"	"Acute myocardial infarction, unspecified"	"I21.9"	21	93154	22.5
+	"Kansas"	"20"	"62 years"	"62"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	24	93154	25.8
+	"Kansas"	"20"	"62 years"	"62"	"Atherosclerotic heart disease"	"I25.1"	38	93154	40.8
+	"Kansas"	"20"	"62 years"	"62"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	49	93154	52.6
+	"Kansas"	"20"	"63 years"	"63"	"Septicaemia, unspecified"	"A41.9"	12	90892	Unreliable
+	"Kansas"	"20"	"63 years"	"63"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	16	90892	Unreliable
+	"Kansas"	"20"	"63 years"	"63"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	26	90892	28.6
+	"Kansas"	"20"	"63 years"	"63"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	74	90892	81.4
+	"Kansas"	"20"	"63 years"	"63"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	50	90892	55.0
+	"Kansas"	"20"	"63 years"	"63"	"Malignant neoplasm of ovary"	"C56"	20	90892	22.0
+	"Kansas"	"20"	"63 years"	"63"	"Malignant neoplasm without specification of site"	"C80"	17	90892	Unreliable
+	"Kansas"	"20"	"63 years"	"63"	"Unspecified diabetes mellitus, without complications"	"E14.9"	10	90892	Unreliable
+	"Kansas"	"20"	"63 years"	"63"	"Acute myocardial infarction, unspecified"	"I21.9"	23	90892	25.3
+	"Kansas"	"20"	"63 years"	"63"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	14	90892	Unreliable
+	"Kansas"	"20"	"63 years"	"63"	"Atherosclerotic heart disease"	"I25.1"	39	90892	42.9
+	"Kansas"	"20"	"63 years"	"63"	"Stroke, not specified as haemorrhage or infarction"	"I64"	14	90892	Unreliable
+	"Kansas"	"20"	"63 years"	"63"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	75	90892	82.5
+	"Kansas"	"20"	"63 years"	"63"	"Chronic kidney disease, stage 5"	"N18.5"	10	90892	Unreliable
+	"Kansas"	"20"	"63 years"	"63"	"COVID-19"	"U07.1"	17	90892	Unreliable
+	"Kansas"	"20"	"64 years"	"64"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	10	87798	Unreliable
+	"Kansas"	"20"	"64 years"	"64"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	27	87798	30.8
+	"Kansas"	"20"	"64 years"	"64"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	86	87798	98.0
+	"Kansas"	"20"	"64 years"	"64"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	52	87798	59.2
+	"Kansas"	"20"	"64 years"	"64"	"Malignant neoplasm of ovary"	"C56"	12	87798	Unreliable
+	"Kansas"	"20"	"64 years"	"64"	"Brain, unspecified - Malignant neoplasms"	"C71.9"	10	87798	Unreliable
+	"Kansas"	"20"	"64 years"	"64"	"Malignant neoplasm without specification of site"	"C80"	11	87798	Unreliable
+	"Kansas"	"20"	"64 years"	"64"	"Unspecified diabetes mellitus, with renal complications"	"E14.2"	11	87798	Unreliable
+	"Kansas"	"20"	"64 years"	"64"	"Acute myocardial infarction, unspecified"	"I21.9"	28	87798	31.9
+	"Kansas"	"20"	"64 years"	"64"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	14	87798	Unreliable
+	"Kansas"	"20"	"64 years"	"64"	"Atherosclerotic heart disease"	"I25.1"	34	87798	38.7
+	"Kansas"	"20"	"64 years"	"64"	"Stroke, not specified as haemorrhage or infarction"	"I64"	14	87798	Unreliable
+	"Kansas"	"20"	"64 years"	"64"	"Pneumonia, unspecified"	"J18.9"	13	87798	Unreliable
+	"Kansas"	"20"	"64 years"	"64"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	53	87798	60.4
+	"Kansas"	"20"	"64 years"	"64"	"Chronic kidney disease, stage 5"	"N18.5"	17	87798	Unreliable
+	"Kansas"	"20"	"64 years"	"64"	"COVID-19"	"U07.1"	12	87798	Unreliable
+	"Kansas"	"20"	"65 years"	"65"	"Septicaemia, unspecified"	"A41.9"	14	84801	Unreliable
+	"Kansas"	"20"	"65 years"	"65"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	14	84801	Unreliable
+	"Kansas"	"20"	"65 years"	"65"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	20	84801	23.6
+	"Kansas"	"20"	"65 years"	"65"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	87	84801	102.6
+	"Kansas"	"20"	"65 years"	"65"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	31	84801	36.6
+	"Kansas"	"20"	"65 years"	"65"	"Malignant neoplasm of ovary"	"C56"	14	84801	Unreliable
+	"Kansas"	"20"	"65 years"	"65"	"Malignant neoplasm without specification of site"	"C80"	17	84801	Unreliable
+	"Kansas"	"20"	"65 years"	"65"	"Acute myocardial infarction, unspecified"	"I21.9"	32	84801	37.7
+	"Kansas"	"20"	"65 years"	"65"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	20	84801	23.6
+	"Kansas"	"20"	"65 years"	"65"	"Atherosclerotic heart disease"	"I25.1"	40	84801	47.2
+	"Kansas"	"20"	"65 years"	"65"	"Stroke, not specified as haemorrhage or infarction"	"I64"	12	84801	Unreliable
+	"Kansas"	"20"	"65 years"	"65"	"Pneumonia, unspecified"	"J18.9"	14	84801	Unreliable
+	"Kansas"	"20"	"65 years"	"65"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	62	84801	73.1
+	"Kansas"	"20"	"65 years"	"65"	"Chronic kidney disease, stage 5"	"N18.5"	12	84801	Unreliable
+	"Kansas"	"20"	"65 years"	"65"	"COVID-19"	"U07.1"	21	84801	24.8
+	"Kansas"	"20"	"66 years"	"66"	"Septicaemia, unspecified"	"A41.9"	16	81258	Unreliable
+	"Kansas"	"20"	"66 years"	"66"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	18	81258	Unreliable
+	"Kansas"	"20"	"66 years"	"66"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	20	81258	24.6
+	"Kansas"	"20"	"66 years"	"66"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	70	81258	86.1
+	"Kansas"	"20"	"66 years"	"66"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	51	81258	62.8
+	"Kansas"	"20"	"66 years"	"66"	"Endometrium - Malignant neoplasms"	"C54.1"	12	81258	Unreliable
+	"Kansas"	"20"	"66 years"	"66"	"Malignant neoplasm of ovary"	"C56"	10	81258	Unreliable
+	"Kansas"	"20"	"66 years"	"66"	"Brain, unspecified - Malignant neoplasms"	"C71.9"	10	81258	Unreliable
+	"Kansas"	"20"	"66 years"	"66"	"Malignant neoplasm without specification of site"	"C80"	11	81258	Unreliable
+	"Kansas"	"20"	"66 years"	"66"	"Unspecified diabetes mellitus, without complications"	"E14.9"	13	81258	Unreliable
+	"Kansas"	"20"	"66 years"	"66"	"Unspecified dementia"	"F03"	17	81258	Unreliable
+	"Kansas"	"20"	"66 years"	"66"	"Motor neuron disease"	"G12.2"	11	81258	Unreliable
+	"Kansas"	"20"	"66 years"	"66"	"Acute myocardial infarction, unspecified"	"I21.9"	33	81258	40.6
+	"Kansas"	"20"	"66 years"	"66"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	17	81258	Unreliable
+	"Kansas"	"20"	"66 years"	"66"	"Atherosclerotic heart disease"	"I25.1"	39	81258	48.0
+	"Kansas"	"20"	"66 years"	"66"	"Pneumonia, unspecified"	"J18.9"	11	81258	Unreliable
+	"Kansas"	"20"	"66 years"	"66"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	11	81258	Unreliable
+	"Kansas"	"20"	"66 years"	"66"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	60	81258	73.8
+	"Kansas"	"20"	"66 years"	"66"	"Unspecified renal failure"	"N19"	10	81258	Unreliable
+	"Kansas"	"20"	"66 years"	"66"	"COVID-19"	"U07.1"	19	81258	Unreliable
+	"Kansas"	"20"	"67 years"	"67"	"Septicaemia, unspecified"	"A41.9"	13	77587	Unreliable
+	"Kansas"	"20"	"67 years"	"67"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	22	77587	28.4
+	"Kansas"	"20"	"67 years"	"67"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	27	77587	34.8
+	"Kansas"	"20"	"67 years"	"67"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	92	77587	118.6
+	"Kansas"	"20"	"67 years"	"67"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	52	77587	67.0
+	"Kansas"	"20"	"67 years"	"67"	"Malignant neoplasm of ovary"	"C56"	21	77587	27.1
+	"Kansas"	"20"	"67 years"	"67"	"Malignant neoplasm without specification of site"	"C80"	17	77587	Unreliable
+	"Kansas"	"20"	"67 years"	"67"	"Unspecified diabetes mellitus, without complications"	"E14.9"	15	77587	Unreliable
+	"Kansas"	"20"	"67 years"	"67"	"Unspecified dementia"	"F03"	18	77587	Unreliable
+	"Kansas"	"20"	"67 years"	"67"	"Acute myocardial infarction, unspecified"	"I21.9"	21	77587	27.1
+	"Kansas"	"20"	"67 years"	"67"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	18	77587	Unreliable
+	"Kansas"	"20"	"67 years"	"67"	"Atherosclerotic heart disease"	"I25.1"	45	77587	58.0
+	"Kansas"	"20"	"67 years"	"67"	"Congestive heart failure"	"I50.0"	16	77587	Unreliable
+	"Kansas"	"20"	"67 years"	"67"	"Stroke, not specified as haemorrhage or infarction"	"I64"	12	77587	Unreliable
+	"Kansas"	"20"	"67 years"	"67"	"Pneumonia, unspecified"	"J18.9"	10	77587	Unreliable
+	"Kansas"	"20"	"67 years"	"67"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	11	77587	Unreliable
+	"Kansas"	"20"	"67 years"	"67"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	69	77587	88.9
+	"Kansas"	"20"	"67 years"	"67"	"Chronic kidney disease, stage 5"	"N18.5"	11	77587	Unreliable
+	"Kansas"	"20"	"67 years"	"67"	"COVID-19"	"U07.1"	18	77587	Unreliable
+	"Kansas"	"20"	"68 years"	"68"	"Septicaemia, unspecified"	"A41.9"	13	74547	Unreliable
+	"Kansas"	"20"	"68 years"	"68"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	27	74547	36.2
+	"Kansas"	"20"	"68 years"	"68"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	96	74547	128.8
+	"Kansas"	"20"	"68 years"	"68"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	40	74547	53.7
+	"Kansas"	"20"	"68 years"	"68"	"Endometrium - Malignant neoplasms"	"C54.1"	10	74547	Unreliable
+	"Kansas"	"20"	"68 years"	"68"	"Malignant neoplasm of ovary"	"C56"	21	74547	28.2
+	"Kansas"	"20"	"68 years"	"68"	"Malignant neoplasm without specification of site"	"C80"	12	74547	Unreliable
+	"Kansas"	"20"	"68 years"	"68"	"Acute myeloid leukaemia - Malignant neoplasms"	"C92.0"	10	74547	Unreliable
+	"Kansas"	"20"	"68 years"	"68"	"Unspecified diabetes mellitus, with renal complications"	"E14.2"	15	74547	Unreliable
+	"Kansas"	"20"	"68 years"	"68"	"Unspecified diabetes mellitus, without complications"	"E14.9"	10	74547	Unreliable
+	"Kansas"	"20"	"68 years"	"68"	"Unspecified dementia"	"F03"	13	74547	Unreliable
+	"Kansas"	"20"	"68 years"	"68"	"Alzheimer disease, unspecified"	"G30.9"	11	74547	Unreliable
+	"Kansas"	"20"	"68 years"	"68"	"Acute myocardial infarction, unspecified"	"I21.9"	32	74547	42.9
+	"Kansas"	"20"	"68 years"	"68"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	20	74547	26.8
+	"Kansas"	"20"	"68 years"	"68"	"Atherosclerotic heart disease"	"I25.1"	44	74547	59.0
+	"Kansas"	"20"	"68 years"	"68"	"Stroke, not specified as haemorrhage or infarction"	"I64"	13	74547	Unreliable
+	"Kansas"	"20"	"68 years"	"68"	"Pneumonia, unspecified"	"J18.9"	10	74547	Unreliable
+	"Kansas"	"20"	"68 years"	"68"	"Emphysema, unspecified"	"J43.9"	10	74547	Unreliable
+	"Kansas"	"20"	"68 years"	"68"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	77	74547	103.3
+	"Kansas"	"20"	"68 years"	"68"	"Other and unspecified cirrhosis of liver"	"K74.6"	13	74547	Unreliable
+	"Kansas"	"20"	"68 years"	"68"	"COVID-19"	"U07.1"	34	74547	45.6
+	"Kansas"	"20"	"69 years"	"69"	"Septicaemia, unspecified"	"A41.9"	13	72882	Unreliable
+	"Kansas"	"20"	"69 years"	"69"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	16	72882	Unreliable
+	"Kansas"	"20"	"69 years"	"69"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	26	72882	35.7
+	"Kansas"	"20"	"69 years"	"69"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	99	72882	135.8
+	"Kansas"	"20"	"69 years"	"69"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	49	72882	67.2
+	"Kansas"	"20"	"69 years"	"69"	"Malignant neoplasm of uterus, part unspecified"	"C55"	13	72882	Unreliable
+	"Kansas"	"20"	"69 years"	"69"	"Malignant neoplasm of ovary"	"C56"	20	72882	27.4
+	"Kansas"	"20"	"69 years"	"69"	"Brain, unspecified - Malignant neoplasms"	"C71.9"	13	72882	Unreliable
+	"Kansas"	"20"	"69 years"	"69"	"Malignant neoplasm without specification of site"	"C80"	14	72882	Unreliable
+	"Kansas"	"20"	"69 years"	"69"	"Unspecified diabetes mellitus, without complications"	"E14.9"	16	72882	Unreliable
+	"Kansas"	"20"	"69 years"	"69"	"Unspecified dementia"	"F03"	16	72882	Unreliable
+	"Kansas"	"20"	"69 years"	"69"	"Alzheimer disease, unspecified"	"G30.9"	17	72882	Unreliable
+	"Kansas"	"20"	"69 years"	"69"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	14	72882	Unreliable
+	"Kansas"	"20"	"69 years"	"69"	"Acute myocardial infarction, unspecified"	"I21.9"	25	72882	34.3
+	"Kansas"	"20"	"69 years"	"69"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	20	72882	27.4
+	"Kansas"	"20"	"69 years"	"69"	"Atherosclerotic heart disease"	"I25.1"	46	72882	63.1
+	"Kansas"	"20"	"69 years"	"69"	"Congestive heart failure"	"I50.0"	12	72882	Unreliable
+	"Kansas"	"20"	"69 years"	"69"	"Stroke, not specified as haemorrhage or infarction"	"I64"	20	72882	27.4
+	"Kansas"	"20"	"69 years"	"69"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	12	72882	Unreliable
+	"Kansas"	"20"	"69 years"	"69"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	71	72882	97.4
+	"Kansas"	"20"	"69 years"	"69"	"Acute renal failure, unspecified"	"N17.9"	10	72882	Unreliable
+	"Kansas"	"20"	"69 years"	"69"	"Chronic kidney disease, stage 5"	"N18.5"	12	72882	Unreliable
+	"Kansas"	"20"	"69 years"	"69"	"COVID-19"	"U07.1"	16	72882	Unreliable
+	"Kansas"	"20"	"70 years"	"70"	"Septicaemia, unspecified"	"A41.9"	19	67495	Unreliable
+	"Kansas"	"20"	"70 years"	"70"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	19	67495	Unreliable
+	"Kansas"	"20"	"70 years"	"70"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	26	67495	38.5
+	"Kansas"	"20"	"70 years"	"70"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	110	67495	163.0
+	"Kansas"	"20"	"70 years"	"70"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	47	67495	69.6
+	"Kansas"	"20"	"70 years"	"70"	"Endometrium - Malignant neoplasms"	"C54.1"	10	67495	Unreliable
+	"Kansas"	"20"	"70 years"	"70"	"Malignant neoplasm of ovary"	"C56"	22	67495	32.6
+	"Kansas"	"20"	"70 years"	"70"	"Malignant neoplasm without specification of site"	"C80"	14	67495	Unreliable
+	"Kansas"	"20"	"70 years"	"70"	"Non-insulin-dependent diabetes mellitus, without complications"	"E11.9"	17	67495	Unreliable
+	"Kansas"	"20"	"70 years"	"70"	"Unspecified diabetes mellitus, without complications"	"E14.9"	17	67495	Unreliable
+	"Kansas"	"20"	"70 years"	"70"	"Unspecified dementia"	"F03"	27	67495	40.0
+	"Kansas"	"20"	"70 years"	"70"	"Alzheimer disease, unspecified"	"G30.9"	13	67495	Unreliable
+	"Kansas"	"20"	"70 years"	"70"	"Acute myocardial infarction, unspecified"	"I21.9"	24	67495	35.6
+	"Kansas"	"20"	"70 years"	"70"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	21	67495	31.1
+	"Kansas"	"20"	"70 years"	"70"	"Atherosclerotic heart disease"	"I25.1"	66	67495	97.8
+	"Kansas"	"20"	"70 years"	"70"	"Congestive heart failure"	"I50.0"	19	67495	Unreliable
+	"Kansas"	"20"	"70 years"	"70"	"Stroke, not specified as haemorrhage or infarction"	"I64"	20	67495	29.6
+	"Kansas"	"20"	"70 years"	"70"	"Pneumonia, unspecified"	"J18.9"	12	67495	Unreliable
+	"Kansas"	"20"	"70 years"	"70"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	12	67495	Unreliable
+	"Kansas"	"20"	"70 years"	"70"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	86	67495	127.4
+	"Kansas"	"20"	"70 years"	"70"	"COVID-19"	"U07.1"	21	67495	31.1
+	"Kansas"	"20"	"71 years"	"71"	"Septicaemia, unspecified"	"A41.9"	10	63019	Unreliable
+	"Kansas"	"20"	"71 years"	"71"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	10	63019	Unreliable
+	"Kansas"	"20"	"71 years"	"71"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	36	63019	57.1
+	"Kansas"	"20"	"71 years"	"71"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	110	63019	174.6
+	"Kansas"	"20"	"71 years"	"71"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	50	63019	79.3
+	"Kansas"	"20"	"71 years"	"71"	"Malignant neoplasm of ovary"	"C56"	18	63019	Unreliable
+	"Kansas"	"20"	"71 years"	"71"	"Brain, unspecified - Malignant neoplasms"	"C71.9"	13	63019	Unreliable
+	"Kansas"	"20"	"71 years"	"71"	"Malignant neoplasm without specification of site"	"C80"	10	63019	Unreliable
+	"Kansas"	"20"	"71 years"	"71"	"Unspecified diabetes mellitus, with renal complications"	"E14.2"	12	63019	Unreliable
+	"Kansas"	"20"	"71 years"	"71"	"Unspecified diabetes mellitus, without complications"	"E14.9"	13	63019	Unreliable
+	"Kansas"	"20"	"71 years"	"71"	"Unspecified dementia"	"F03"	23	63019	36.5
+	"Kansas"	"20"	"71 years"	"71"	"Motor neuron disease"	"G12.2"	13	63019	Unreliable
+	"Kansas"	"20"	"71 years"	"71"	"Parkinson disease"	"G20"	12	63019	Unreliable
+	"Kansas"	"20"	"71 years"	"71"	"Alzheimer disease, unspecified"	"G30.9"	17	63019	Unreliable
+	"Kansas"	"20"	"71 years"	"71"	"Hypertensive heart disease with (congestive) heart failure"	"I11.0"	10	63019	Unreliable
+	"Kansas"	"20"	"71 years"	"71"	"Acute myocardial infarction, unspecified"	"I21.9"	34	63019	54.0
+	"Kansas"	"20"	"71 years"	"71"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	15	63019	Unreliable
+	"Kansas"	"20"	"71 years"	"71"	"Atherosclerotic heart disease"	"I25.1"	55	63019	87.3
+	"Kansas"	"20"	"71 years"	"71"	"Congestive heart failure"	"I50.0"	12	63019	Unreliable
+	"Kansas"	"20"	"71 years"	"71"	"Stroke, not specified as haemorrhage or infarction"	"I64"	21	63019	33.3
+	"Kansas"	"20"	"71 years"	"71"	"Pneumonia, unspecified"	"J18.9"	14	63019	Unreliable
+	"Kansas"	"20"	"71 years"	"71"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	91	63019	144.4
+	"Kansas"	"20"	"71 years"	"71"	"Chronic kidney disease, stage 5"	"N18.5"	11	63019	Unreliable
+	"Kansas"	"20"	"71 years"	"71"	"COVID-19"	"U07.1"	38	63019	60.3
+	"Kansas"	"20"	"72 years"	"72"	"Septicaemia, unspecified"	"A41.9"	14	59315	Unreliable
+	"Kansas"	"20"	"72 years"	"72"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	18	59315	Unreliable
+	"Kansas"	"20"	"72 years"	"72"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	34	59315	57.3
+	"Kansas"	"20"	"72 years"	"72"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	111	59315	187.1
+	"Kansas"	"20"	"72 years"	"72"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	38	59315	64.1
+	"Kansas"	"20"	"72 years"	"72"	"Malignant neoplasm of uterus, part unspecified"	"C55"	10	59315	Unreliable
+	"Kansas"	"20"	"72 years"	"72"	"Malignant neoplasm of ovary"	"C56"	19	59315	Unreliable
+	"Kansas"	"20"	"72 years"	"72"	"Brain, unspecified - Malignant neoplasms"	"C71.9"	14	59315	Unreliable
+	"Kansas"	"20"	"72 years"	"72"	"Malignant neoplasm without specification of site"	"C80"	13	59315	Unreliable
+	"Kansas"	"20"	"72 years"	"72"	"Multiple myeloma - Malignant neoplasms"	"C90.0"	10	59315	Unreliable
+	"Kansas"	"20"	"72 years"	"72"	"Unspecified diabetes mellitus, without complications"	"E14.9"	21	59315	35.4
+	"Kansas"	"20"	"72 years"	"72"	"Unspecified dementia"	"F03"	19	59315	Unreliable
+	"Kansas"	"20"	"72 years"	"72"	"Parkinson disease"	"G20"	11	59315	Unreliable
+	"Kansas"	"20"	"72 years"	"72"	"Alzheimer disease, unspecified"	"G30.9"	23	59315	38.8
+	"Kansas"	"20"	"72 years"	"72"	"Acute myocardial infarction, unspecified"	"I21.9"	35	59315	59.0
+	"Kansas"	"20"	"72 years"	"72"	"Atherosclerotic heart disease"	"I25.1"	74	59315	124.8
+	"Kansas"	"20"	"72 years"	"72"	"Congestive heart failure"	"I50.0"	18	59315	Unreliable
+	"Kansas"	"20"	"72 years"	"72"	"Intracerebral haemorrhage, unspecified"	"I61.9"	11	59315	Unreliable
+	"Kansas"	"20"	"72 years"	"72"	"Cerebral infarction, unspecified"	"I63.9"	12	59315	Unreliable
+	"Kansas"	"20"	"72 years"	"72"	"Stroke, not specified as haemorrhage or infarction"	"I64"	24	59315	40.5
+	"Kansas"	"20"	"72 years"	"72"	"Pneumonia, unspecified"	"J18.9"	17	59315	Unreliable
+	"Kansas"	"20"	"72 years"	"72"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	11	59315	Unreliable
+	"Kansas"	"20"	"72 years"	"72"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	86	59315	145.0
+	"Kansas"	"20"	"72 years"	"72"	"Chronic kidney disease, stage 5"	"N18.5"	13	59315	Unreliable
+	"Kansas"	"20"	"72 years"	"72"	"Urinary tract infection, site not specified"	"N39.0"	12	59315	Unreliable
+	"Kansas"	"20"	"72 years"	"72"	"COVID-19"	"U07.1"	26	59315	43.8
+	"Kansas"	"20"	"72 years"	"72"	"Unspecified fall"	"W19"	11	59315	Unreliable
+	"Kansas"	"20"	"73 years"	"73"	"Septicaemia, unspecified"	"A41.9"	23	55756	41.3
+	"Kansas"	"20"	"73 years"	"73"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	26	55756	46.6
+	"Kansas"	"20"	"73 years"	"73"	"Intrahepatic bile duct carcinoma - Malignant neoplasms"	"C22.1"	14	55756	Unreliable
+	"Kansas"	"20"	"73 years"	"73"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	21	55756	37.7
+	"Kansas"	"20"	"73 years"	"73"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	102	55756	182.9
+	"Kansas"	"20"	"73 years"	"73"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	41	55756	73.5
+	"Kansas"	"20"	"73 years"	"73"	"Malignant neoplasm of ovary"	"C56"	17	55756	Unreliable
+	"Kansas"	"20"	"73 years"	"73"	"Malignant neoplasm of kidney, except renal pelvis"	"C64"	14	55756	Unreliable
+	"Kansas"	"20"	"73 years"	"73"	"Malignant neoplasm without specification of site"	"C80"	15	55756	Unreliable
+	"Kansas"	"20"	"73 years"	"73"	"Non-insulin-dependent diabetes mellitus, without complications"	"E11.9"	12	55756	Unreliable
+	"Kansas"	"20"	"73 years"	"73"	"Unspecified diabetes mellitus, without complications"	"E14.9"	19	55756	Unreliable
+	"Kansas"	"20"	"73 years"	"73"	"Unspecified dementia"	"F03"	31	55756	55.6
+	"Kansas"	"20"	"73 years"	"73"	"Parkinson disease"	"G20"	16	55756	Unreliable
+	"Kansas"	"20"	"73 years"	"73"	"Alzheimer disease, unspecified"	"G30.9"	18	55756	Unreliable
+	"Kansas"	"20"	"73 years"	"73"	"Senile degeneration of brain, not elsewhere classified"	"G31.1"	12	55756	Unreliable
+	"Kansas"	"20"	"73 years"	"73"	"Acute myocardial infarction, unspecified"	"I21.9"	41	55756	73.5
+	"Kansas"	"20"	"73 years"	"73"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	10	55756	Unreliable
+	"Kansas"	"20"	"73 years"	"73"	"Atherosclerotic heart disease"	"I25.1"	61	55756	109.4
+	"Kansas"	"20"	"73 years"	"73"	"Congestive heart failure"	"I50.0"	22	55756	39.5
+	"Kansas"	"20"	"73 years"	"73"	"Heart failure, unspecified"	"I50.9"	10	55756	Unreliable
+	"Kansas"	"20"	"73 years"	"73"	"Stroke, not specified as haemorrhage or infarction"	"I64"	25	55756	44.8
+	"Kansas"	"20"	"73 years"	"73"	"Generalized and unspecified atherosclerosis"	"I70.9"	11	55756	Unreliable
+	"Kansas"	"20"	"73 years"	"73"	"Pneumonia, unspecified"	"J18.9"	12	55756	Unreliable
+	"Kansas"	"20"	"73 years"	"73"	"Emphysema, unspecified"	"J43.9"	10	55756	Unreliable
+	"Kansas"	"20"	"73 years"	"73"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	22	55756	39.5
+	"Kansas"	"20"	"73 years"	"73"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	102	55756	182.9
+	"Kansas"	"20"	"73 years"	"73"	"Pneumonitis due to food and vomit"	"J69.0"	11	55756	Unreliable
+	"Kansas"	"20"	"73 years"	"73"	"Other ill-defined and unspecified causes of mortality"	"R99"	10	55756	Unreliable
+	"Kansas"	"20"	"73 years"	"73"	"COVID-19"	"U07.1"	29	55756	52.0
+	"Kansas"	"20"	"74 years"	"74"	"Septicaemia, unspecified"	"A41.9"	12	50436	Unreliable
+	"Kansas"	"20"	"74 years"	"74"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	20	50436	39.7
+	"Kansas"	"20"	"74 years"	"74"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	20	50436	39.7
+	"Kansas"	"20"	"74 years"	"74"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	112	50436	222.1
+	"Kansas"	"20"	"74 years"	"74"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	49	50436	97.2
+	"Kansas"	"20"	"74 years"	"74"	"Endometrium - Malignant neoplasms"	"C54.1"	10	50436	Unreliable
+	"Kansas"	"20"	"74 years"	"74"	"Malignant neoplasm of ovary"	"C56"	22	50436	43.6
+	"Kansas"	"20"	"74 years"	"74"	"Malignant neoplasm without specification of site"	"C80"	11	50436	Unreliable
+	"Kansas"	"20"	"74 years"	"74"	"Non-insulin-dependent diabetes mellitus, without complications"	"E11.9"	11	50436	Unreliable
+	"Kansas"	"20"	"74 years"	"74"	"Unspecified diabetes mellitus, with renal complications"	"E14.2"	11	50436	Unreliable
+	"Kansas"	"20"	"74 years"	"74"	"Unspecified diabetes mellitus, without complications"	"E14.9"	12	50436	Unreliable
+	"Kansas"	"20"	"74 years"	"74"	"Unspecified dementia"	"F03"	44	50436	87.2
+	"Kansas"	"20"	"74 years"	"74"	"Parkinson disease"	"G20"	12	50436	Unreliable
+	"Kansas"	"20"	"74 years"	"74"	"Alzheimer disease, unspecified"	"G30.9"	22	50436	43.6
+	"Kansas"	"20"	"74 years"	"74"	"Essential (primary) hypertension"	"I10"	11	50436	Unreliable
+	"Kansas"	"20"	"74 years"	"74"	"Acute myocardial infarction, unspecified"	"I21.9"	29	50436	57.5
+	"Kansas"	"20"	"74 years"	"74"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	16	50436	Unreliable
+	"Kansas"	"20"	"74 years"	"74"	"Atherosclerotic heart disease"	"I25.1"	48	50436	95.2
+	"Kansas"	"20"	"74 years"	"74"	"Atrial fibrillation and flutter"	"I48"	10	50436	Unreliable
+	"Kansas"	"20"	"74 years"	"74"	"Congestive heart failure"	"I50.0"	17	50436	Unreliable
+	"Kansas"	"20"	"74 years"	"74"	"Heart failure, unspecified"	"I50.9"	13	50436	Unreliable
+	"Kansas"	"20"	"74 years"	"74"	"Intracerebral haemorrhage, unspecified"	"I61.9"	11	50436	Unreliable
+	"Kansas"	"20"	"74 years"	"74"	"Stroke, not specified as haemorrhage or infarction"	"I64"	34	50436	67.4
+	"Kansas"	"20"	"74 years"	"74"	"Pneumonia, unspecified"	"J18.9"	24	50436	47.6
+	"Kansas"	"20"	"74 years"	"74"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	19	50436	Unreliable
+	"Kansas"	"20"	"74 years"	"74"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	89	50436	176.5
+	"Kansas"	"20"	"74 years"	"74"	"Pneumonitis due to food and vomit"	"J69.0"	11	50436	Unreliable
+	"Kansas"	"20"	"74 years"	"74"	"Chronic kidney disease, stage 5"	"N18.5"	12	50436	Unreliable
+	"Kansas"	"20"	"74 years"	"74"	"COVID-19"	"U07.1"	33	50436	65.4
+	"Kansas"	"20"	"75 years"	"75"	"Septicaemia, unspecified"	"A41.9"	25	48435	51.6
+	"Kansas"	"20"	"75 years"	"75"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	22	48435	45.4
+	"Kansas"	"20"	"75 years"	"75"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	22	48435	45.4
+	"Kansas"	"20"	"75 years"	"75"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	114	48435	235.4
+	"Kansas"	"20"	"75 years"	"75"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	48	48435	99.1
+	"Kansas"	"20"	"75 years"	"75"	"Malignant neoplasm of ovary"	"C56"	19	48435	Unreliable
+	"Kansas"	"20"	"75 years"	"75"	"Malignant neoplasm without specification of site"	"C80"	17	48435	Unreliable
+	"Kansas"	"20"	"75 years"	"75"	"Multiple myeloma - Malignant neoplasms"	"C90.0"	13	48435	Unreliable
+	"Kansas"	"20"	"75 years"	"75"	"Unspecified diabetes mellitus, with renal complications"	"E14.2"	10	48435	Unreliable
+	"Kansas"	"20"	"75 years"	"75"	"Unspecified diabetes mellitus, without complications"	"E14.9"	15	48435	Unreliable
+	"Kansas"	"20"	"75 years"	"75"	"Unspecified dementia"	"F03"	54	48435	111.5
+	"Kansas"	"20"	"75 years"	"75"	"Parkinson disease"	"G20"	17	48435	Unreliable
+	"Kansas"	"20"	"75 years"	"75"	"Alzheimer disease, unspecified"	"G30.9"	33	48435	68.1
+	"Kansas"	"20"	"75 years"	"75"	"Senile degeneration of brain, not elsewhere classified"	"G31.1"	10	48435	Unreliable
+	"Kansas"	"20"	"75 years"	"75"	"Acute myocardial infarction, unspecified"	"I21.9"	33	48435	68.1
+	"Kansas"	"20"	"75 years"	"75"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	14	48435	Unreliable
+	"Kansas"	"20"	"75 years"	"75"	"Atherosclerotic heart disease"	"I25.1"	69	48435	142.5
+	"Kansas"	"20"	"75 years"	"75"	"Congestive heart failure"	"I50.0"	16	48435	Unreliable
+	"Kansas"	"20"	"75 years"	"75"	"Stroke, not specified as haemorrhage or infarction"	"I64"	31	48435	64.0
+	"Kansas"	"20"	"75 years"	"75"	"Generalized and unspecified atherosclerosis"	"I70.9"	12	48435	Unreliable
+	"Kansas"	"20"	"75 years"	"75"	"Pneumonia, unspecified"	"J18.9"	15	48435	Unreliable
+	"Kansas"	"20"	"75 years"	"75"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	16	48435	Unreliable
+	"Kansas"	"20"	"75 years"	"75"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	110	48435	227.1
+	"Kansas"	"20"	"75 years"	"75"	"Other and unspecified cirrhosis of liver"	"K74.6"	11	48435	Unreliable
+	"Kansas"	"20"	"75 years"	"75"	"Chronic kidney disease, stage 5"	"N18.5"	15	48435	Unreliable
+	"Kansas"	"20"	"75 years"	"75"	"COVID-19"	"U07.1"	32	48435	66.1
+	"Kansas"	"20"	"76 years"	"76"	"Septicaemia, unspecified"	"A41.9"	25	46253	54.1
+	"Kansas"	"20"	"76 years"	"76"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	16	46253	Unreliable
+	"Kansas"	"20"	"76 years"	"76"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	32	46253	69.2
+	"Kansas"	"20"	"76 years"	"76"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	89	46253	192.4
+	"Kansas"	"20"	"76 years"	"76"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	42	46253	90.8
+	"Kansas"	"20"	"76 years"	"76"	"Malignant neoplasm of ovary"	"C56"	15	46253	Unreliable
+	"Kansas"	"20"	"76 years"	"76"	"Malignant neoplasm without specification of site"	"C80"	17	46253	Unreliable
+	"Kansas"	"20"	"76 years"	"76"	"Acute myeloid leukaemia - Malignant neoplasms"	"C92.0"	12	46253	Unreliable
+	"Kansas"	"20"	"76 years"	"76"	"Unspecified diabetes mellitus, with renal complications"	"E14.2"	12	46253	Unreliable
+	"Kansas"	"20"	"76 years"	"76"	"Unspecified dementia"	"F03"	59	46253	127.6
+	"Kansas"	"20"	"76 years"	"76"	"Parkinson disease"	"G20"	27	46253	58.4
+	"Kansas"	"20"	"76 years"	"76"	"Alzheimer disease, unspecified"	"G30.9"	46	46253	99.5
+	"Kansas"	"20"	"76 years"	"76"	"Senile degeneration of brain, not elsewhere classified"	"G31.1"	14	46253	Unreliable
+	"Kansas"	"20"	"76 years"	"76"	"Essential (primary) hypertension"	"I10"	11	46253	Unreliable
+	"Kansas"	"20"	"76 years"	"76"	"Hypertensive heart disease with (congestive) heart failure"	"I11.0"	11	46253	Unreliable
+	"Kansas"	"20"	"76 years"	"76"	"Acute myocardial infarction, unspecified"	"I21.9"	41	46253	88.6
+	"Kansas"	"20"	"76 years"	"76"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	13	46253	Unreliable
+	"Kansas"	"20"	"76 years"	"76"	"Atherosclerotic heart disease"	"I25.1"	86	46253	185.9
+	"Kansas"	"20"	"76 years"	"76"	"Atrial fibrillation and flutter"	"I48"	10	46253	Unreliable
+	"Kansas"	"20"	"76 years"	"76"	"Congestive heart failure"	"I50.0"	23	46253	49.7
+	"Kansas"	"20"	"76 years"	"76"	"Intracerebral haemorrhage, unspecified"	"I61.9"	11	46253	Unreliable
+	"Kansas"	"20"	"76 years"	"76"	"Stroke, not specified as haemorrhage or infarction"	"I64"	33	46253	71.3
+	"Kansas"	"20"	"76 years"	"76"	"Generalized and unspecified atherosclerosis"	"I70.9"	13	46253	Unreliable
+	"Kansas"	"20"	"76 years"	"76"	"Pneumonia, unspecified"	"J18.9"	18	46253	Unreliable
+	"Kansas"	"20"	"76 years"	"76"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	16	46253	Unreliable
+	"Kansas"	"20"	"76 years"	"76"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	97	46253	209.7
+	"Kansas"	"20"	"76 years"	"76"	"Urinary tract infection, site not specified"	"N39.0"	13	46253	Unreliable
+	"Kansas"	"20"	"76 years"	"76"	"COVID-19"	"U07.1"	27	46253	58.4
+	"Kansas"	"20"	"76 years"	"76"	"Unspecified fall"	"W19"	12	46253	Unreliable
+	"Kansas"	"20"	"77 years"	"77"	"Septicaemia, unspecified"	"A41.9"	22	43200	50.9
+	"Kansas"	"20"	"77 years"	"77"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	15	43200	Unreliable
+	"Kansas"	"20"	"77 years"	"77"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	30	43200	69.4
+	"Kansas"	"20"	"77 years"	"77"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	101	43200	233.8
+	"Kansas"	"20"	"77 years"	"77"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	41	43200	94.9
+	"Kansas"	"20"	"77 years"	"77"	"Malignant neoplasm of ovary"	"C56"	19	43200	Unreliable
+	"Kansas"	"20"	"77 years"	"77"	"Malignant neoplasm without specification of site"	"C80"	12	43200	Unreliable
+	"Kansas"	"20"	"77 years"	"77"	"Non-insulin-dependent diabetes mellitus, without complications"	"E11.9"	13	43200	Unreliable
+	"Kansas"	"20"	"77 years"	"77"	"Unspecified diabetes mellitus, with renal complications"	"E14.2"	11	43200	Unreliable
+	"Kansas"	"20"	"77 years"	"77"	"Unspecified diabetes mellitus, without complications"	"E14.9"	11	43200	Unreliable
+	"Kansas"	"20"	"77 years"	"77"	"Unspecified dementia"	"F03"	61	43200	141.2
+	"Kansas"	"20"	"77 years"	"77"	"Parkinson disease"	"G20"	21	43200	48.6
+	"Kansas"	"20"	"77 years"	"77"	"Alzheimer disease, unspecified"	"G30.9"	52	43200	120.4
+	"Kansas"	"20"	"77 years"	"77"	"Senile degeneration of brain, not elsewhere classified"	"G31.1"	16	43200	Unreliable
+	"Kansas"	"20"	"77 years"	"77"	"Multiple sclerosis"	"G35"	10	43200	Unreliable
+	"Kansas"	"20"	"77 years"	"77"	"Hypertensive heart disease with (congestive) heart failure"	"I11.0"	10	43200	Unreliable
+	"Kansas"	"20"	"77 years"	"77"	"Acute myocardial infarction, unspecified"	"I21.9"	33	43200	76.4
+	"Kansas"	"20"	"77 years"	"77"	"Atherosclerotic heart disease"	"I25.1"	97	43200	224.5
+	"Kansas"	"20"	"77 years"	"77"	"Congestive heart failure"	"I50.0"	31	43200	71.8
+	"Kansas"	"20"	"77 years"	"77"	"Intracerebral haemorrhage, unspecified"	"I61.9"	15	43200	Unreliable
+	"Kansas"	"20"	"77 years"	"77"	"Stroke, not specified as haemorrhage or infarction"	"I64"	35	43200	81.0
+	"Kansas"	"20"	"77 years"	"77"	"Generalized and unspecified atherosclerosis"	"I70.9"	11	43200	Unreliable
+	"Kansas"	"20"	"77 years"	"77"	"Pneumonia, unspecified"	"J18.9"	14	43200	Unreliable
+	"Kansas"	"20"	"77 years"	"77"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	23	43200	53.2
+	"Kansas"	"20"	"77 years"	"77"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	107	43200	247.7
+	"Kansas"	"20"	"77 years"	"77"	"Chronic kidney disease, stage 5"	"N18.5"	10	43200	Unreliable
+	"Kansas"	"20"	"77 years"	"77"	"Urinary tract infection, site not specified"	"N39.0"	10	43200	Unreliable
+	"Kansas"	"20"	"77 years"	"77"	"COVID-19"	"U07.1"	32	43200	74.1
+	"Kansas"	"20"	"77 years"	"77"	"Unspecified fall"	"W19"	19	43200	Unreliable
+	"Kansas"	"20"	"78 years"	"78"	"Septicaemia, unspecified"	"A41.9"	20	39994	50.0
+	"Kansas"	"20"	"78 years"	"78"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	19	39994	Unreliable
+	"Kansas"	"20"	"78 years"	"78"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	20	39994	50.0
+	"Kansas"	"20"	"78 years"	"78"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	99	39994	247.5
+	"Kansas"	"20"	"78 years"	"78"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	41	39994	102.5
+	"Kansas"	"20"	"78 years"	"78"	"Endometrium - Malignant neoplasms"	"C54.1"	10	39994	Unreliable
+	"Kansas"	"20"	"78 years"	"78"	"Malignant neoplasm of ovary"	"C56"	25	39994	62.5
+	"Kansas"	"20"	"78 years"	"78"	"Brain, unspecified - Malignant neoplasms"	"C71.9"	11	39994	Unreliable
+	"Kansas"	"20"	"78 years"	"78"	"Malignant neoplasm without specification of site"	"C80"	16	39994	Unreliable
+	"Kansas"	"20"	"78 years"	"78"	"Multiple myeloma - Malignant neoplasms"	"C90.0"	11	39994	Unreliable
+	"Kansas"	"20"	"78 years"	"78"	"Unspecified diabetes mellitus, with renal complications"	"E14.2"	13	39994	Unreliable
+	"Kansas"	"20"	"78 years"	"78"	"Unspecified diabetes mellitus, without complications"	"E14.9"	13	39994	Unreliable
+	"Kansas"	"20"	"78 years"	"78"	"Vascular dementia, unspecified"	"F01.9"	10	39994	Unreliable
+	"Kansas"	"20"	"78 years"	"78"	"Unspecified dementia"	"F03"	71	39994	177.5
+	"Kansas"	"20"	"78 years"	"78"	"Parkinson disease"	"G20"	15	39994	Unreliable
+	"Kansas"	"20"	"78 years"	"78"	"Alzheimer disease, unspecified"	"G30.9"	54	39994	135.0
+	"Kansas"	"20"	"78 years"	"78"	"Senile degeneration of brain, not elsewhere classified"	"G31.1"	19	39994	Unreliable
+	"Kansas"	"20"	"78 years"	"78"	"Essential (primary) hypertension"	"I10"	12	39994	Unreliable
+	"Kansas"	"20"	"78 years"	"78"	"Hypertensive heart disease with (congestive) heart failure"	"I11.0"	14	39994	Unreliable
+	"Kansas"	"20"	"78 years"	"78"	"Acute myocardial infarction, unspecified"	"I21.9"	36	39994	90.0
+	"Kansas"	"20"	"78 years"	"78"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	10	39994	Unreliable
+	"Kansas"	"20"	"78 years"	"78"	"Atherosclerotic heart disease"	"I25.1"	73	39994	182.5
+	"Kansas"	"20"	"78 years"	"78"	"Other secondary pulmonary hypertension"	"I27.2"	10	39994	Unreliable
+	"Kansas"	"20"	"78 years"	"78"	"Atrial fibrillation and flutter"	"I48"	15	39994	Unreliable
+	"Kansas"	"20"	"78 years"	"78"	"Congestive heart failure"	"I50.0"	26	39994	65.0
+	"Kansas"	"20"	"78 years"	"78"	"Heart failure, unspecified"	"I50.9"	10	39994	Unreliable
+	"Kansas"	"20"	"78 years"	"78"	"Stroke, not specified as haemorrhage or infarction"	"I64"	35	39994	87.5
+	"Kansas"	"20"	"78 years"	"78"	"Generalized and unspecified atherosclerosis"	"I70.9"	15	39994	Unreliable
+	"Kansas"	"20"	"78 years"	"78"	"Pneumonia, unspecified"	"J18.9"	17	39994	Unreliable
+	"Kansas"	"20"	"78 years"	"78"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	18	39994	Unreliable
+	"Kansas"	"20"	"78 years"	"78"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	108	39994	270.0
+	"Kansas"	"20"	"78 years"	"78"	"Pneumonitis due to food and vomit"	"J69.0"	12	39994	Unreliable
+	"Kansas"	"20"	"78 years"	"78"	"Chronic kidney disease, stage 5"	"N18.5"	17	39994	Unreliable
+	"Kansas"	"20"	"78 years"	"78"	"Chronic renal failure, unspecified"	"N18.9"	12	39994	Unreliable
+	"Kansas"	"20"	"78 years"	"78"	"COVID-19"	"U07.1"	52	39994	130.0
+	"Kansas"	"20"	"78 years"	"78"	"Unspecified fall"	"W19"	13	39994	Unreliable
+	"Kansas"	"20"	"79 years"	"79"	"Septicaemia, unspecified"	"A41.9"	20	37784	52.9
+	"Kansas"	"20"	"79 years"	"79"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	21	37784	55.6
+	"Kansas"	"20"	"79 years"	"79"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	23	37784	60.9
+	"Kansas"	"20"	"79 years"	"79"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	106	37784	280.5
+	"Kansas"	"20"	"79 years"	"79"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	33	37784	87.3
+	"Kansas"	"20"	"79 years"	"79"	"Malignant neoplasm of ovary"	"C56"	24	37784	63.5
+	"Kansas"	"20"	"79 years"	"79"	"Malignant neoplasm of kidney, except renal pelvis"	"C64"	10	37784	Unreliable
+	"Kansas"	"20"	"79 years"	"79"	"Malignant neoplasm without specification of site"	"C80"	16	37784	Unreliable
+	"Kansas"	"20"	"79 years"	"79"	"Multiple myeloma - Malignant neoplasms"	"C90.0"	10	37784	Unreliable
+	"Kansas"	"20"	"79 years"	"79"	"Acute myeloid leukaemia - Malignant neoplasms"	"C92.0"	18	37784	Unreliable
+	"Kansas"	"20"	"79 years"	"79"	"Non-insulin-dependent diabetes mellitus, without complications"	"E11.9"	13	37784	Unreliable
+	"Kansas"	"20"	"79 years"	"79"	"Unspecified diabetes mellitus, with renal complications"	"E14.2"	11	37784	Unreliable
+	"Kansas"	"20"	"79 years"	"79"	"Unspecified diabetes mellitus, without complications"	"E14.9"	18	37784	Unreliable
+	"Kansas"	"20"	"79 years"	"79"	"Vascular dementia, unspecified"	"F01.9"	13	37784	Unreliable
+	"Kansas"	"20"	"79 years"	"79"	"Unspecified dementia"	"F03"	83	37784	219.7
+	"Kansas"	"20"	"79 years"	"79"	"Parkinson disease"	"G20"	26	37784	68.8
+	"Kansas"	"20"	"79 years"	"79"	"Alzheimer disease, unspecified"	"G30.9"	63	37784	166.7
+	"Kansas"	"20"	"79 years"	"79"	"Senile degeneration of brain, not elsewhere classified"	"G31.1"	20	37784	52.9
+	"Kansas"	"20"	"79 years"	"79"	"Hypertensive heart disease with (congestive) heart failure"	"I11.0"	12	37784	Unreliable
+	"Kansas"	"20"	"79 years"	"79"	"Acute myocardial infarction, unspecified"	"I21.9"	37	37784	97.9
+	"Kansas"	"20"	"79 years"	"79"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	12	37784	Unreliable
+	"Kansas"	"20"	"79 years"	"79"	"Atherosclerotic heart disease"	"I25.1"	102	37784	270.0
+	"Kansas"	"20"	"79 years"	"79"	"Atrial fibrillation and flutter"	"I48"	13	37784	Unreliable
+	"Kansas"	"20"	"79 years"	"79"	"Congestive heart failure"	"I50.0"	24	37784	63.5
+	"Kansas"	"20"	"79 years"	"79"	"Stroke, not specified as haemorrhage or infarction"	"I64"	38	37784	100.6
+	"Kansas"	"20"	"79 years"	"79"	"Generalized and unspecified atherosclerosis"	"I70.9"	22	37784	58.2
+	"Kansas"	"20"	"79 years"	"79"	"Pneumonia, unspecified"	"J18.9"	27	37784	71.5
+	"Kansas"	"20"	"79 years"	"79"	"Emphysema, unspecified"	"J43.9"	12	37784	Unreliable
+	"Kansas"	"20"	"79 years"	"79"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	19	37784	Unreliable
+	"Kansas"	"20"	"79 years"	"79"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	101	37784	267.3
+	"Kansas"	"20"	"79 years"	"79"	"Other interstitial pulmonary diseases with fibrosis"	"J84.1"	10	37784	Unreliable
+	"Kansas"	"20"	"79 years"	"79"	"Chronic kidney disease, stage 5"	"N18.5"	13	37784	Unreliable
+	"Kansas"	"20"	"79 years"	"79"	"COVID-19"	"U07.1"	37	37784	97.9
+	"Kansas"	"20"	"79 years"	"79"	"Unspecified fall"	"W19"	18	37784	Unreliable
+	"Kansas"	"20"	"80 years"	"80"	"Septicaemia, unspecified"	"A41.9"	31	35733	86.8
+	"Kansas"	"20"	"80 years"	"80"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	26	35733	72.8
+	"Kansas"	"20"	"80 years"	"80"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	20	35733	56.0
+	"Kansas"	"20"	"80 years"	"80"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	80	35733	223.9
+	"Kansas"	"20"	"80 years"	"80"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	38	35733	106.3
+	"Kansas"	"20"	"80 years"	"80"	"Malignant neoplasm of ovary"	"C56"	11	35733	Unreliable
+	"Kansas"	"20"	"80 years"	"80"	"Bladder, unspecified - Malignant neoplasms"	"C67.9"	10	35733	Unreliable
+	"Kansas"	"20"	"80 years"	"80"	"Malignant neoplasm without specification of site"	"C80"	11	35733	Unreliable
+	"Kansas"	"20"	"80 years"	"80"	"Multiple myeloma - Malignant neoplasms"	"C90.0"	10	35733	Unreliable
+	"Kansas"	"20"	"80 years"	"80"	"Non-insulin-dependent diabetes mellitus, without complications"	"E11.9"	10	35733	Unreliable
+	"Kansas"	"20"	"80 years"	"80"	"Unspecified diabetes mellitus, without complications"	"E14.9"	14	35733	Unreliable
+	"Kansas"	"20"	"80 years"	"80"	"Unspecified dementia"	"F03"	109	35733	305.0
+	"Kansas"	"20"	"80 years"	"80"	"Parkinson disease"	"G20"	20	35733	56.0
+	"Kansas"	"20"	"80 years"	"80"	"Alzheimer disease, unspecified"	"G30.9"	64	35733	179.1
+	"Kansas"	"20"	"80 years"	"80"	"Senile degeneration of brain, not elsewhere classified"	"G31.1"	20	35733	56.0
+	"Kansas"	"20"	"80 years"	"80"	"Essential (primary) hypertension"	"I10"	14	35733	Unreliable
+	"Kansas"	"20"	"80 years"	"80"	"Hypertensive heart disease with (congestive) heart failure"	"I11.0"	12	35733	Unreliable
+	"Kansas"	"20"	"80 years"	"80"	"Acute myocardial infarction, unspecified"	"I21.9"	38	35733	106.3
+	"Kansas"	"20"	"80 years"	"80"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	17	35733	Unreliable
+	"Kansas"	"20"	"80 years"	"80"	"Atherosclerotic heart disease"	"I25.1"	101	35733	282.7
+	"Kansas"	"20"	"80 years"	"80"	"Atrial fibrillation and flutter"	"I48"	18	35733	Unreliable
+	"Kansas"	"20"	"80 years"	"80"	"Congestive heart failure"	"I50.0"	37	35733	103.5
+	"Kansas"	"20"	"80 years"	"80"	"Heart failure, unspecified"	"I50.9"	12	35733	Unreliable
+	"Kansas"	"20"	"80 years"	"80"	"Intracerebral haemorrhage, unspecified"	"I61.9"	14	35733	Unreliable
+	"Kansas"	"20"	"80 years"	"80"	"Stroke, not specified as haemorrhage or infarction"	"I64"	52	35733	145.5
+	"Kansas"	"20"	"80 years"	"80"	"Generalized and unspecified atherosclerosis"	"I70.9"	15	35733	Unreliable
+	"Kansas"	"20"	"80 years"	"80"	"Pneumonia, unspecified"	"J18.9"	23	35733	64.4
+	"Kansas"	"20"	"80 years"	"80"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	14	35733	Unreliable
+	"Kansas"	"20"	"80 years"	"80"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	119	35733	333.0
+	"Kansas"	"20"	"80 years"	"80"	"Pneumonitis due to food and vomit"	"J69.0"	17	35733	Unreliable
+	"Kansas"	"20"	"80 years"	"80"	"Other interstitial pulmonary diseases with fibrosis"	"J84.1"	10	35733	Unreliable
+	"Kansas"	"20"	"80 years"	"80"	"Vascular disorder of intestine, unspecified"	"K55.9"	11	35733	Unreliable
+	"Kansas"	"20"	"80 years"	"80"	"Chronic kidney disease, stage 5"	"N18.5"	14	35733	Unreliable
+	"Kansas"	"20"	"80 years"	"80"	"COVID-19"	"U07.1"	40	35733	111.9
+	"Kansas"	"20"	"80 years"	"80"	"Unspecified fall"	"W19"	11	35733	Unreliable
+	"Kansas"	"20"	"81 years"	"81"	"Septicaemia, unspecified"	"A41.9"	21	33743	62.2
+	"Kansas"	"20"	"81 years"	"81"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	24	33743	71.1
+	"Kansas"	"20"	"81 years"	"81"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	21	33743	62.2
+	"Kansas"	"20"	"81 years"	"81"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	87	33743	257.8
+	"Kansas"	"20"	"81 years"	"81"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	31	33743	91.9
+	"Kansas"	"20"	"81 years"	"81"	"Malignant neoplasm of ovary"	"C56"	17	33743	Unreliable
+	"Kansas"	"20"	"81 years"	"81"	"Malignant neoplasm without specification of site"	"C80"	11	33743	Unreliable
+	"Kansas"	"20"	"81 years"	"81"	"Multiple myeloma - Malignant neoplasms"	"C90.0"	13	33743	Unreliable
+	"Kansas"	"20"	"81 years"	"81"	"Myelodysplastic syndrome, unspecified - Uncertain neoplasms"	"D46.9"	10	33743	Unreliable
+	"Kansas"	"20"	"81 years"	"81"	"Non-insulin-dependent diabetes mellitus, without complications"	"E11.9"	16	33743	Unreliable
+	"Kansas"	"20"	"81 years"	"81"	"Unspecified diabetes mellitus, with renal complications"	"E14.2"	11	33743	Unreliable
+	"Kansas"	"20"	"81 years"	"81"	"Unspecified diabetes mellitus, without complications"	"E14.9"	23	33743	68.2
+	"Kansas"	"20"	"81 years"	"81"	"Vascular dementia, unspecified"	"F01.9"	12	33743	Unreliable
+	"Kansas"	"20"	"81 years"	"81"	"Unspecified dementia"	"F03"	114	33743	337.8
+	"Kansas"	"20"	"81 years"	"81"	"Parkinson disease"	"G20"	27	33743	80.0
+	"Kansas"	"20"	"81 years"	"81"	"Alzheimer disease, unspecified"	"G30.9"	91	33743	269.7
+	"Kansas"	"20"	"81 years"	"81"	"Senile degeneration of brain, not elsewhere classified"	"G31.1"	32	33743	94.8
+	"Kansas"	"20"	"81 years"	"81"	"Hypertensive heart disease with (congestive) heart failure"	"I11.0"	16	33743	Unreliable
+	"Kansas"	"20"	"81 years"	"81"	"Hypertensive renal disease with renal failure"	"I12.0"	10	33743	Unreliable
+	"Kansas"	"20"	"81 years"	"81"	"Acute myocardial infarction, unspecified"	"I21.9"	37	33743	109.7
+	"Kansas"	"20"	"81 years"	"81"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	16	33743	Unreliable
+	"Kansas"	"20"	"81 years"	"81"	"Atherosclerotic heart disease"	"I25.1"	106	33743	314.1
+	"Kansas"	"20"	"81 years"	"81"	"Other secondary pulmonary hypertension"	"I27.2"	10	33743	Unreliable
+	"Kansas"	"20"	"81 years"	"81"	"Atrial fibrillation and flutter"	"I48"	19	33743	Unreliable
+	"Kansas"	"20"	"81 years"	"81"	"Congestive heart failure"	"I50.0"	51	33743	151.1
+	"Kansas"	"20"	"81 years"	"81"	"Heart failure, unspecified"	"I50.9"	16	33743	Unreliable
+	"Kansas"	"20"	"81 years"	"81"	"Intracerebral haemorrhage, unspecified"	"I61.9"	12	33743	Unreliable
+	"Kansas"	"20"	"81 years"	"81"	"Stroke, not specified as haemorrhage or infarction"	"I64"	44	33743	130.4
+	"Kansas"	"20"	"81 years"	"81"	"Generalized and unspecified atherosclerosis"	"I70.9"	20	33743	59.3
+	"Kansas"	"20"	"81 years"	"81"	"Pneumonia, unspecified"	"J18.9"	32	33743	94.8
+	"Kansas"	"20"	"81 years"	"81"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	15	33743	Unreliable
+	"Kansas"	"20"	"81 years"	"81"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	103	33743	305.2
+	"Kansas"	"20"	"81 years"	"81"	"Pneumonitis due to food and vomit"	"J69.0"	10	33743	Unreliable
+	"Kansas"	"20"	"81 years"	"81"	"Chronic kidney disease, stage 5"	"N18.5"	10	33743	Unreliable
+	"Kansas"	"20"	"81 years"	"81"	"COVID-19"	"U07.1"	39	33743	115.6
+	"Kansas"	"20"	"81 years"	"81"	"Unspecified fall"	"W19"	14	33743	Unreliable
+	"Kansas"	"20"	"82 years"	"82"	"Septicaemia, unspecified"	"A41.9"	20	31967	62.6
+	"Kansas"	"20"	"82 years"	"82"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	33	31967	103.2
+	"Kansas"	"20"	"82 years"	"82"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	22	31967	68.8
+	"Kansas"	"20"	"82 years"	"82"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	83	31967	259.6
+	"Kansas"	"20"	"82 years"	"82"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	44	31967	137.6
+	"Kansas"	"20"	"82 years"	"82"	"Malignant neoplasm of ovary"	"C56"	11	31967	Unreliable
+	"Kansas"	"20"	"82 years"	"82"	"Malignant neoplasm without specification of site"	"C80"	17	31967	Unreliable
+	"Kansas"	"20"	"82 years"	"82"	"Non-Hodgkin lymphoma, unspecified type"	"C85.9"	10	31967	Unreliable
+	"Kansas"	"20"	"82 years"	"82"	"Non-insulin-dependent diabetes mellitus, with renal complications"	"E11.2"	12	31967	Unreliable
+	"Kansas"	"20"	"82 years"	"82"	"Vascular dementia, unspecified"	"F01.9"	16	31967	Unreliable
+	"Kansas"	"20"	"82 years"	"82"	"Unspecified dementia"	"F03"	123	31967	384.8
+	"Kansas"	"20"	"82 years"	"82"	"Parkinson disease"	"G20"	34	31967	106.4
+	"Kansas"	"20"	"82 years"	"82"	"Alzheimer disease, unspecified"	"G30.9"	107	31967	334.7
+	"Kansas"	"20"	"82 years"	"82"	"Senile degeneration of brain, not elsewhere classified"	"G31.1"	27	31967	84.5
+	"Kansas"	"20"	"82 years"	"82"	"Hypertensive heart disease with (congestive) heart failure"	"I11.0"	20	31967	62.6
+	"Kansas"	"20"	"82 years"	"82"	"Acute myocardial infarction, unspecified"	"I21.9"	59	31967	184.6
+	"Kansas"	"20"	"82 years"	"82"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	18	31967	Unreliable
+	"Kansas"	"20"	"82 years"	"82"	"Atherosclerotic heart disease"	"I25.1"	122	31967	381.6
+	"Kansas"	"20"	"82 years"	"82"	"Aortic (valve) stenosis"	"I35.0"	14	31967	Unreliable
+	"Kansas"	"20"	"82 years"	"82"	"Atrial fibrillation and flutter"	"I48"	14	31967	Unreliable
+	"Kansas"	"20"	"82 years"	"82"	"Congestive heart failure"	"I50.0"	45	31967	140.8
+	"Kansas"	"20"	"82 years"	"82"	"Heart failure, unspecified"	"I50.9"	10	31967	Unreliable
+	"Kansas"	"20"	"82 years"	"82"	"Intracerebral haemorrhage, unspecified"	"I61.9"	13	31967	Unreliable
+	"Kansas"	"20"	"82 years"	"82"	"Cerebral infarction, unspecified"	"I63.9"	14	31967	Unreliable
+	"Kansas"	"20"	"82 years"	"82"	"Stroke, not specified as haemorrhage or infarction"	"I64"	63	31967	197.1
+	"Kansas"	"20"	"82 years"	"82"	"Sequelae of stroke, not specified as haemorrhage or infarction"	"I69.4"	11	31967	Unreliable
+	"Kansas"	"20"	"82 years"	"82"	"Generalized and unspecified atherosclerosis"	"I70.9"	25	31967	78.2
+	"Kansas"	"20"	"82 years"	"82"	"Pneumonia, unspecified"	"J18.9"	36	31967	112.6
+	"Kansas"	"20"	"82 years"	"82"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	27	31967	84.5
+	"Kansas"	"20"	"82 years"	"82"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	120	31967	375.4
+	"Kansas"	"20"	"82 years"	"82"	"Pneumonitis due to food and vomit"	"J69.0"	12	31967	Unreliable
+	"Kansas"	"20"	"82 years"	"82"	"Other interstitial pulmonary diseases with fibrosis"	"J84.1"	10	31967	Unreliable
+	"Kansas"	"20"	"82 years"	"82"	"Acute renal failure, unspecified"	"N17.9"	11	31967	Unreliable
+	"Kansas"	"20"	"82 years"	"82"	"Chronic kidney disease, stage 5"	"N18.5"	12	31967	Unreliable
+	"Kansas"	"20"	"82 years"	"82"	"Chronic renal failure, unspecified"	"N18.9"	11	31967	Unreliable
+	"Kansas"	"20"	"82 years"	"82"	"Unspecified renal failure"	"N19"	14	31967	Unreliable
+	"Kansas"	"20"	"82 years"	"82"	"Urinary tract infection, site not specified"	"N39.0"	10	31967	Unreliable
+	"Kansas"	"20"	"82 years"	"82"	"COVID-19"	"U07.1"	47	31967	147.0
+	"Kansas"	"20"	"82 years"	"82"	"Other fall on same level"	"W18"	12	31967	Unreliable
+	"Kansas"	"20"	"82 years"	"82"	"Unspecified fall"	"W19"	21	31967	65.7
+	"Kansas"	"20"	"83 years"	"83"	"Septicaemia, unspecified"	"A41.9"	29	30036	96.6
+	"Kansas"	"20"	"83 years"	"83"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	30	30036	99.9
+	"Kansas"	"20"	"83 years"	"83"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	29	30036	96.6
+	"Kansas"	"20"	"83 years"	"83"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	71	30036	236.4
+	"Kansas"	"20"	"83 years"	"83"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	34	30036	113.2
+	"Kansas"	"20"	"83 years"	"83"	"Malignant neoplasm of ovary"	"C56"	12	30036	Unreliable
+	"Kansas"	"20"	"83 years"	"83"	"Malignant neoplasm without specification of site"	"C80"	14	30036	Unreliable
+	"Kansas"	"20"	"83 years"	"83"	"Non-insulin-dependent diabetes mellitus, without complications"	"E11.9"	10	30036	Unreliable
+	"Kansas"	"20"	"83 years"	"83"	"Unspecified diabetes mellitus, without complications"	"E14.9"	19	30036	Unreliable
+	"Kansas"	"20"	"83 years"	"83"	"Vascular dementia, unspecified"	"F01.9"	17	30036	Unreliable
+	"Kansas"	"20"	"83 years"	"83"	"Unspecified dementia"	"F03"	132	30036	439.5
+	"Kansas"	"20"	"83 years"	"83"	"Parkinson disease"	"G20"	27	30036	89.9
+	"Kansas"	"20"	"83 years"	"83"	"Alzheimer disease, unspecified"	"G30.9"	109	30036	362.9
+	"Kansas"	"20"	"83 years"	"83"	"Senile degeneration of brain, not elsewhere classified"	"G31.1"	22	30036	73.2
+	"Kansas"	"20"	"83 years"	"83"	"Hypertensive heart disease with (congestive) heart failure"	"I11.0"	12	30036	Unreliable
+	"Kansas"	"20"	"83 years"	"83"	"Hypertensive renal disease with renal failure"	"I12.0"	11	30036	Unreliable
+	"Kansas"	"20"	"83 years"	"83"	"Acute myocardial infarction, unspecified"	"I21.9"	36	30036	119.9
+	"Kansas"	"20"	"83 years"	"83"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	17	30036	Unreliable
+	"Kansas"	"20"	"83 years"	"83"	"Atherosclerotic heart disease"	"I25.1"	104	30036	346.3
+	"Kansas"	"20"	"83 years"	"83"	"Aortic (valve) stenosis"	"I35.0"	17	30036	Unreliable
+	"Kansas"	"20"	"83 years"	"83"	"Cardiomyopathy, unspecified"	"I42.9"	10	30036	Unreliable
+	"Kansas"	"20"	"83 years"	"83"	"Atrial fibrillation and flutter"	"I48"	21	30036	69.9
+	"Kansas"	"20"	"83 years"	"83"	"Congestive heart failure"	"I50.0"	58	30036	193.1
+	"Kansas"	"20"	"83 years"	"83"	"Heart failure, unspecified"	"I50.9"	15	30036	Unreliable
+	"Kansas"	"20"	"83 years"	"83"	"Intracerebral haemorrhage, unspecified"	"I61.9"	18	30036	Unreliable
+	"Kansas"	"20"	"83 years"	"83"	"Stroke, not specified as haemorrhage or infarction"	"I64"	64	30036	213.1
+	"Kansas"	"20"	"83 years"	"83"	"Generalized and unspecified atherosclerosis"	"I70.9"	21	30036	69.9
+	"Kansas"	"20"	"83 years"	"83"	"Pneumonia, unspecified"	"J18.9"	20	30036	66.6
+	"Kansas"	"20"	"83 years"	"83"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	28	30036	93.2
+	"Kansas"	"20"	"83 years"	"83"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	110	30036	366.2
+	"Kansas"	"20"	"83 years"	"83"	"Pneumonitis due to food and vomit"	"J69.0"	11	30036	Unreliable
+	"Kansas"	"20"	"83 years"	"83"	"Chronic renal failure, unspecified"	"N18.9"	18	30036	Unreliable
+	"Kansas"	"20"	"83 years"	"83"	"Urinary tract infection, site not specified"	"N39.0"	12	30036	Unreliable
+	"Kansas"	"20"	"83 years"	"83"	"COVID-19"	"U07.1"	42	30036	139.8
+	"Kansas"	"20"	"83 years"	"83"	"Unspecified fall"	"W19"	18	30036	Unreliable
+	"Kansas"	"20"	"84 years"	"84"	"Septicaemia, unspecified"	"A41.9"	27	28702	94.1
+	"Kansas"	"20"	"84 years"	"84"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	17	28702	Unreliable
+	"Kansas"	"20"	"84 years"	"84"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	17	28702	Unreliable
+	"Kansas"	"20"	"84 years"	"84"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	76	28702	264.8
+	"Kansas"	"20"	"84 years"	"84"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	39	28702	135.9
+	"Kansas"	"20"	"84 years"	"84"	"Malignant neoplasm of ovary"	"C56"	10	28702	Unreliable
+	"Kansas"	"20"	"84 years"	"84"	"Malignant neoplasm of kidney, except renal pelvis"	"C64"	12	28702	Unreliable
+	"Kansas"	"20"	"84 years"	"84"	"Multiple myeloma - Malignant neoplasms"	"C90.0"	16	28702	Unreliable
+	"Kansas"	"20"	"84 years"	"84"	"Non-insulin-dependent diabetes mellitus, with renal complications"	"E11.2"	11	28702	Unreliable
+	"Kansas"	"20"	"84 years"	"84"	"Unspecified diabetes mellitus, without complications"	"E14.9"	16	28702	Unreliable
+	"Kansas"	"20"	"84 years"	"84"	"Vascular dementia, unspecified"	"F01.9"	16	28702	Unreliable
+	"Kansas"	"20"	"84 years"	"84"	"Unspecified dementia"	"F03"	165	28702	574.9
+	"Kansas"	"20"	"84 years"	"84"	"Parkinson disease"	"G20"	34	28702	118.5
+	"Kansas"	"20"	"84 years"	"84"	"Alzheimer disease, unspecified"	"G30.9"	100	28702	348.4
+	"Kansas"	"20"	"84 years"	"84"	"Senile degeneration of brain, not elsewhere classified"	"G31.1"	34	28702	118.5
+	"Kansas"	"20"	"84 years"	"84"	"Hypertensive heart disease with (congestive) heart failure"	"I11.0"	22	28702	76.6
+	"Kansas"	"20"	"84 years"	"84"	"Acute myocardial infarction, unspecified"	"I21.9"	63	28702	219.5
+	"Kansas"	"20"	"84 years"	"84"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	15	28702	Unreliable
+	"Kansas"	"20"	"84 years"	"84"	"Atherosclerotic heart disease"	"I25.1"	119	28702	414.6
+	"Kansas"	"20"	"84 years"	"84"	"Chronic ischaemic heart disease, unspecified"	"I25.9"	11	28702	Unreliable
+	"Kansas"	"20"	"84 years"	"84"	"Aortic (valve) stenosis"	"I35.0"	14	28702	Unreliable
+	"Kansas"	"20"	"84 years"	"84"	"Atrial fibrillation and flutter"	"I48"	22	28702	76.6
+	"Kansas"	"20"	"84 years"	"84"	"Congestive heart failure"	"I50.0"	61	28702	212.5
+	"Kansas"	"20"	"84 years"	"84"	"Heart failure, unspecified"	"I50.9"	20	28702	69.7
+	"Kansas"	"20"	"84 years"	"84"	"Intracerebral haemorrhage, unspecified"	"I61.9"	20	28702	69.7
+	"Kansas"	"20"	"84 years"	"84"	"Cerebral infarction, unspecified"	"I63.9"	10	28702	Unreliable
+	"Kansas"	"20"	"84 years"	"84"	"Stroke, not specified as haemorrhage or infarction"	"I64"	56	28702	195.1
+	"Kansas"	"20"	"84 years"	"84"	"Generalized and unspecified atherosclerosis"	"I70.9"	26	28702	90.6
+	"Kansas"	"20"	"84 years"	"84"	"Pneumonia, unspecified"	"J18.9"	33	28702	115.0
+	"Kansas"	"20"	"84 years"	"84"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	15	28702	Unreliable
+	"Kansas"	"20"	"84 years"	"84"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	118	28702	411.1
+	"Kansas"	"20"	"84 years"	"84"	"Pneumonitis due to food and vomit"	"J69.0"	20	28702	69.7
+	"Kansas"	"20"	"84 years"	"84"	"Chronic kidney disease, stage 5"	"N18.5"	11	28702	Unreliable
+	"Kansas"	"20"	"84 years"	"84"	"Other specified disorders of kidney and ureter"	"N28.8"	14	28702	Unreliable
+	"Kansas"	"20"	"84 years"	"84"	"COVID-19"	"U07.1"	50	28702	174.2
+	"Kansas"	"20"	"84 years"	"84"	"Other fall on same level"	"W18"	10	28702	Unreliable
+	"Kansas"	"20"	"84 years"	"84"	"Unspecified fall"	"W19"	27	28702	94.1
+	"Kansas"	"20"	"85 years"	"85"	"Septicaemia, unspecified"	"A41.9"	22	Not Applicable	Not Applicable
+	"Kansas"	"20"	"85 years"	"85"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	26	Not Applicable	Not Applicable
+	"Kansas"	"20"	"85 years"	"85"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	32	Not Applicable	Not Applicable
+	"Kansas"	"20"	"85 years"	"85"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	76	Not Applicable	Not Applicable
+	"Kansas"	"20"	"85 years"	"85"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	25	Not Applicable	Not Applicable
+	"Kansas"	"20"	"85 years"	"85"	"Malignant neoplasm of ovary"	"C56"	13	Not Applicable	Not Applicable
+	"Kansas"	"20"	"85 years"	"85"	"Malignant neoplasm without specification of site"	"C80"	28	Not Applicable	Not Applicable
+	"Kansas"	"20"	"85 years"	"85"	"Non-Hodgkin lymphoma, unspecified type"	"C85.9"	13	Not Applicable	Not Applicable
+	"Kansas"	"20"	"85 years"	"85"	"Multiple myeloma - Malignant neoplasms"	"C90.0"	10	Not Applicable	Not Applicable
+	"Kansas"	"20"	"85 years"	"85"	"Non-insulin-dependent diabetes mellitus, with renal complications"	"E11.2"	12	Not Applicable	Not Applicable
+	"Kansas"	"20"	"85 years"	"85"	"Non-insulin-dependent diabetes mellitus, without complications"	"E11.9"	11	Not Applicable	Not Applicable
+	"Kansas"	"20"	"85 years"	"85"	"Unspecified diabetes mellitus, without complications"	"E14.9"	13	Not Applicable	Not Applicable
+	"Kansas"	"20"	"85 years"	"85"	"Vascular dementia, unspecified"	"F01.9"	12	Not Applicable	Not Applicable
+	"Kansas"	"20"	"85 years"	"85"	"Unspecified dementia"	"F03"	180	Not Applicable	Not Applicable
+	"Kansas"	"20"	"85 years"	"85"	"Parkinson disease"	"G20"	38	Not Applicable	Not Applicable
+	"Kansas"	"20"	"85 years"	"85"	"Alzheimer disease, unspecified"	"G30.9"	145	Not Applicable	Not Applicable
+	"Kansas"	"20"	"85 years"	"85"	"Senile degeneration of brain, not elsewhere classified"	"G31.1"	35	Not Applicable	Not Applicable
+	"Kansas"	"20"	"85 years"	"85"	"Essential (primary) hypertension"	"I10"	10	Not Applicable	Not Applicable
+	"Kansas"	"20"	"85 years"	"85"	"Hypertensive heart disease with (congestive) heart failure"	"I11.0"	22	Not Applicable	Not Applicable
+	"Kansas"	"20"	"85 years"	"85"	"Hypertensive renal disease with renal failure"	"I12.0"	12	Not Applicable	Not Applicable
+	"Kansas"	"20"	"85 years"	"85"	"Acute myocardial infarction, unspecified"	"I21.9"	65	Not Applicable	Not Applicable
+	"Kansas"	"20"	"85 years"	"85"	"Atherosclerotic heart disease"	"I25.1"	130	Not Applicable	Not Applicable
+	"Kansas"	"20"	"85 years"	"85"	"Aortic (valve) stenosis"	"I35.0"	15	Not Applicable	Not Applicable
+	"Kansas"	"20"	"85 years"	"85"	"Cardiomyopathy, unspecified"	"I42.9"	15	Not Applicable	Not Applicable
+	"Kansas"	"20"	"85 years"	"85"	"Atrial fibrillation and flutter"	"I48"	22	Not Applicable	Not Applicable
+	"Kansas"	"20"	"85 years"	"85"	"Congestive heart failure"	"I50.0"	74	Not Applicable	Not Applicable
+	"Kansas"	"20"	"85 years"	"85"	"Heart failure, unspecified"	"I50.9"	16	Not Applicable	Not Applicable
+	"Kansas"	"20"	"85 years"	"85"	"Cerebral infarction, unspecified"	"I63.9"	12	Not Applicable	Not Applicable
+	"Kansas"	"20"	"85 years"	"85"	"Stroke, not specified as haemorrhage or infarction"	"I64"	71	Not Applicable	Not Applicable
+	"Kansas"	"20"	"85 years"	"85"	"Generalized and unspecified atherosclerosis"	"I70.9"	27	Not Applicable	Not Applicable
+	"Kansas"	"20"	"85 years"	"85"	"Pneumonia, unspecified"	"J18.9"	32	Not Applicable	Not Applicable
+	"Kansas"	"20"	"85 years"	"85"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	20	Not Applicable	Not Applicable
+	"Kansas"	"20"	"85 years"	"85"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	115	Not Applicable	Not Applicable
+	"Kansas"	"20"	"85 years"	"85"	"Other interstitial pulmonary diseases with fibrosis"	"J84.1"	10	Not Applicable	Not Applicable
+	"Kansas"	"20"	"85 years"	"85"	"Acute renal failure, unspecified"	"N17.9"	11	Not Applicable	Not Applicable
+	"Kansas"	"20"	"85 years"	"85"	"Chronic kidney disease, stage 5"	"N18.5"	13	Not Applicable	Not Applicable
+	"Kansas"	"20"	"85 years"	"85"	"Urinary tract infection, site not specified"	"N39.0"	19	Not Applicable	Not Applicable
+	"Kansas"	"20"	"85 years"	"85"	"COVID-19"	"U07.1"	46	Not Applicable	Not Applicable
+	"Kansas"	"20"	"85 years"	"85"	"Other fall on same level"	"W18"	10	Not Applicable	Not Applicable
+	"Kansas"	"20"	"85 years"	"85"	"Unspecified fall"	"W19"	29	Not Applicable	Not Applicable
+	"Kansas"	"20"	"86 years"	"86"	"Septicaemia, unspecified"	"A41.9"	21	Not Applicable	Not Applicable
+	"Kansas"	"20"	"86 years"	"86"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	27	Not Applicable	Not Applicable
+	"Kansas"	"20"	"86 years"	"86"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	21	Not Applicable	Not Applicable
+	"Kansas"	"20"	"86 years"	"86"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	70	Not Applicable	Not Applicable
+	"Kansas"	"20"	"86 years"	"86"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	40	Not Applicable	Not Applicable
+	"Kansas"	"20"	"86 years"	"86"	"Malignant neoplasm of ovary"	"C56"	13	Not Applicable	Not Applicable
+	"Kansas"	"20"	"86 years"	"86"	"Malignant neoplasm without specification of site"	"C80"	16	Not Applicable	Not Applicable
+	"Kansas"	"20"	"86 years"	"86"	"Non-Hodgkin lymphoma, unspecified type"	"C85.9"	10	Not Applicable	Not Applicable
+	"Kansas"	"20"	"86 years"	"86"	"Myelodysplastic syndrome, unspecified - Uncertain neoplasms"	"D46.9"	12	Not Applicable	Not Applicable
+	"Kansas"	"20"	"86 years"	"86"	"Non-insulin-dependent diabetes mellitus, without complications"	"E11.9"	12	Not Applicable	Not Applicable
+	"Kansas"	"20"	"86 years"	"86"	"Unspecified diabetes mellitus, with renal complications"	"E14.2"	12	Not Applicable	Not Applicable
+	"Kansas"	"20"	"86 years"	"86"	"Unspecified diabetes mellitus, without complications"	"E14.9"	21	Not Applicable	Not Applicable
+	"Kansas"	"20"	"86 years"	"86"	"Vascular dementia, unspecified"	"F01.9"	23	Not Applicable	Not Applicable
+	"Kansas"	"20"	"86 years"	"86"	"Unspecified dementia"	"F03"	208	Not Applicable	Not Applicable
+	"Kansas"	"20"	"86 years"	"86"	"Parkinson disease"	"G20"	48	Not Applicable	Not Applicable
+	"Kansas"	"20"	"86 years"	"86"	"Alzheimer disease with late onset"	"G30.1"	11	Not Applicable	Not Applicable
+	"Kansas"	"20"	"86 years"	"86"	"Alzheimer disease, unspecified"	"G30.9"	143	Not Applicable	Not Applicable
+	"Kansas"	"20"	"86 years"	"86"	"Senile degeneration of brain, not elsewhere classified"	"G31.1"	24	Not Applicable	Not Applicable
+	"Kansas"	"20"	"86 years"	"86"	"Essential (primary) hypertension"	"I10"	15	Not Applicable	Not Applicable
+	"Kansas"	"20"	"86 years"	"86"	"Hypertensive heart disease with (congestive) heart failure"	"I11.0"	26	Not Applicable	Not Applicable
+	"Kansas"	"20"	"86 years"	"86"	"Hypertensive renal disease with renal failure"	"I12.0"	16	Not Applicable	Not Applicable
+	"Kansas"	"20"	"86 years"	"86"	"Acute myocardial infarction, unspecified"	"I21.9"	59	Not Applicable	Not Applicable
+	"Kansas"	"20"	"86 years"	"86"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	12	Not Applicable	Not Applicable
+	"Kansas"	"20"	"86 years"	"86"	"Atherosclerotic heart disease"	"I25.1"	142	Not Applicable	Not Applicable
+	"Kansas"	"20"	"86 years"	"86"	"Aortic (valve) stenosis"	"I35.0"	10	Not Applicable	Not Applicable
+	"Kansas"	"20"	"86 years"	"86"	"Cardiomyopathy, unspecified"	"I42.9"	12	Not Applicable	Not Applicable
+	"Kansas"	"20"	"86 years"	"86"	"Atrial fibrillation and flutter"	"I48"	23	Not Applicable	Not Applicable
+	"Kansas"	"20"	"86 years"	"86"	"Congestive heart failure"	"I50.0"	75	Not Applicable	Not Applicable
+	"Kansas"	"20"	"86 years"	"86"	"Heart failure, unspecified"	"I50.9"	15	Not Applicable	Not Applicable
+	"Kansas"	"20"	"86 years"	"86"	"Intracerebral haemorrhage, unspecified"	"I61.9"	14	Not Applicable	Not Applicable
+	"Kansas"	"20"	"86 years"	"86"	"Cerebral infarction, unspecified"	"I63.9"	10	Not Applicable	Not Applicable
+	"Kansas"	"20"	"86 years"	"86"	"Stroke, not specified as haemorrhage or infarction"	"I64"	80	Not Applicable	Not Applicable
+	"Kansas"	"20"	"86 years"	"86"	"Sequelae of stroke, not specified as haemorrhage or infarction"	"I69.4"	11	Not Applicable	Not Applicable
+	"Kansas"	"20"	"86 years"	"86"	"Generalized and unspecified atherosclerosis"	"I70.9"	30	Not Applicable	Not Applicable
+	"Kansas"	"20"	"86 years"	"86"	"Peripheral vascular disease, unspecified"	"I73.9"	11	Not Applicable	Not Applicable
+	"Kansas"	"20"	"86 years"	"86"	"Pneumonia, unspecified"	"J18.9"	34	Not Applicable	Not Applicable
+	"Kansas"	"20"	"86 years"	"86"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	16	Not Applicable	Not Applicable
+	"Kansas"	"20"	"86 years"	"86"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	104	Not Applicable	Not Applicable
+	"Kansas"	"20"	"86 years"	"86"	"Pneumonitis due to food and vomit"	"J69.0"	18	Not Applicable	Not Applicable
+	"Kansas"	"20"	"86 years"	"86"	"Chronic kidney disease, stage 5"	"N18.5"	14	Not Applicable	Not Applicable
+	"Kansas"	"20"	"86 years"	"86"	"Chronic renal failure, unspecified"	"N18.9"	13	Not Applicable	Not Applicable
+	"Kansas"	"20"	"86 years"	"86"	"Urinary tract infection, site not specified"	"N39.0"	14	Not Applicable	Not Applicable
+	"Kansas"	"20"	"86 years"	"86"	"Senility"	"R54"	15	Not Applicable	Not Applicable
+	"Kansas"	"20"	"86 years"	"86"	"COVID-19"	"U07.1"	54	Not Applicable	Not Applicable
+	"Kansas"	"20"	"86 years"	"86"	"Other fall on same level"	"W18"	17	Not Applicable	Not Applicable
+	"Kansas"	"20"	"86 years"	"86"	"Unspecified fall"	"W19"	32	Not Applicable	Not Applicable
+	"Kansas"	"20"	"87 years"	"87"	"Septicaemia, unspecified"	"A41.9"	26	Not Applicable	Not Applicable
+	"Kansas"	"20"	"87 years"	"87"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	19	Not Applicable	Not Applicable
+	"Kansas"	"20"	"87 years"	"87"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	18	Not Applicable	Not Applicable
+	"Kansas"	"20"	"87 years"	"87"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	60	Not Applicable	Not Applicable
+	"Kansas"	"20"	"87 years"	"87"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	35	Not Applicable	Not Applicable
+	"Kansas"	"20"	"87 years"	"87"	"Malignant neoplasm of ovary"	"C56"	18	Not Applicable	Not Applicable
+	"Kansas"	"20"	"87 years"	"87"	"Malignant neoplasm without specification of site"	"C80"	21	Not Applicable	Not Applicable
+	"Kansas"	"20"	"87 years"	"87"	"Non-insulin-dependent diabetes mellitus, without complications"	"E11.9"	14	Not Applicable	Not Applicable
+	"Kansas"	"20"	"87 years"	"87"	"Unspecified diabetes mellitus, with renal complications"	"E14.2"	10	Not Applicable	Not Applicable
+	"Kansas"	"20"	"87 years"	"87"	"Unspecified diabetes mellitus, without complications"	"E14.9"	19	Not Applicable	Not Applicable
+	"Kansas"	"20"	"87 years"	"87"	"Vascular dementia, unspecified"	"F01.9"	20	Not Applicable	Not Applicable
+	"Kansas"	"20"	"87 years"	"87"	"Unspecified dementia"	"F03"	205	Not Applicable	Not Applicable
+	"Kansas"	"20"	"87 years"	"87"	"Parkinson disease"	"G20"	35	Not Applicable	Not Applicable
+	"Kansas"	"20"	"87 years"	"87"	"Alzheimer disease, unspecified"	"G30.9"	155	Not Applicable	Not Applicable
+	"Kansas"	"20"	"87 years"	"87"	"Senile degeneration of brain, not elsewhere classified"	"G31.1"	60	Not Applicable	Not Applicable
+	"Kansas"	"20"	"87 years"	"87"	"Essential (primary) hypertension"	"I10"	15	Not Applicable	Not Applicable
+	"Kansas"	"20"	"87 years"	"87"	"Hypertensive heart disease with (congestive) heart failure"	"I11.0"	27	Not Applicable	Not Applicable
+	"Kansas"	"20"	"87 years"	"87"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	14	Not Applicable	Not Applicable
+	"Kansas"	"20"	"87 years"	"87"	"Hypertensive renal disease with renal failure"	"I12.0"	16	Not Applicable	Not Applicable
+	"Kansas"	"20"	"87 years"	"87"	"Acute myocardial infarction, unspecified"	"I21.9"	37	Not Applicable	Not Applicable
+	"Kansas"	"20"	"87 years"	"87"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	20	Not Applicable	Not Applicable
+	"Kansas"	"20"	"87 years"	"87"	"Atherosclerotic heart disease"	"I25.1"	158	Not Applicable	Not Applicable
+	"Kansas"	"20"	"87 years"	"87"	"Chronic ischaemic heart disease, unspecified"	"I25.9"	11	Not Applicable	Not Applicable
+	"Kansas"	"20"	"87 years"	"87"	"Aortic (valve) stenosis"	"I35.0"	21	Not Applicable	Not Applicable
+	"Kansas"	"20"	"87 years"	"87"	"Atrial fibrillation and flutter"	"I48"	33	Not Applicable	Not Applicable
+	"Kansas"	"20"	"87 years"	"87"	"Congestive heart failure"	"I50.0"	62	Not Applicable	Not Applicable
+	"Kansas"	"20"	"87 years"	"87"	"Heart failure, unspecified"	"I50.9"	18	Not Applicable	Not Applicable
+	"Kansas"	"20"	"87 years"	"87"	"Intracerebral haemorrhage, unspecified"	"I61.9"	14	Not Applicable	Not Applicable
+	"Kansas"	"20"	"87 years"	"87"	"Cerebral infarction, unspecified"	"I63.9"	11	Not Applicable	Not Applicable
+	"Kansas"	"20"	"87 years"	"87"	"Stroke, not specified as haemorrhage or infarction"	"I64"	80	Not Applicable	Not Applicable
+	"Kansas"	"20"	"87 years"	"87"	"Generalized and unspecified atherosclerosis"	"I70.9"	24	Not Applicable	Not Applicable
+	"Kansas"	"20"	"87 years"	"87"	"Pneumonia, unspecified"	"J18.9"	38	Not Applicable	Not Applicable
+	"Kansas"	"20"	"87 years"	"87"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	20	Not Applicable	Not Applicable
+	"Kansas"	"20"	"87 years"	"87"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	111	Not Applicable	Not Applicable
+	"Kansas"	"20"	"87 years"	"87"	"Pneumonitis due to food and vomit"	"J69.0"	18	Not Applicable	Not Applicable
+	"Kansas"	"20"	"87 years"	"87"	"Other interstitial pulmonary diseases with fibrosis"	"J84.1"	14	Not Applicable	Not Applicable
+	"Kansas"	"20"	"87 years"	"87"	"Gastrointestinal haemorrhage, unspecified"	"K92.2"	15	Not Applicable	Not Applicable
+	"Kansas"	"20"	"87 years"	"87"	"Acute renal failure, unspecified"	"N17.9"	10	Not Applicable	Not Applicable
+	"Kansas"	"20"	"87 years"	"87"	"Chronic kidney disease, stage 5"	"N18.5"	11	Not Applicable	Not Applicable
+	"Kansas"	"20"	"87 years"	"87"	"Urinary tract infection, site not specified"	"N39.0"	21	Not Applicable	Not Applicable
+	"Kansas"	"20"	"87 years"	"87"	"Senility"	"R54"	26	Not Applicable	Not Applicable
+	"Kansas"	"20"	"87 years"	"87"	"COVID-19"	"U07.1"	46	Not Applicable	Not Applicable
+	"Kansas"	"20"	"87 years"	"87"	"Other fall on same level"	"W18"	24	Not Applicable	Not Applicable
+	"Kansas"	"20"	"87 years"	"87"	"Unspecified fall"	"W19"	23	Not Applicable	Not Applicable
+	"Kansas"	"20"	"88 years"	"88"	"Septicaemia, unspecified"	"A41.9"	21	Not Applicable	Not Applicable
+	"Kansas"	"20"	"88 years"	"88"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	27	Not Applicable	Not Applicable
+	"Kansas"	"20"	"88 years"	"88"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	20	Not Applicable	Not Applicable
+	"Kansas"	"20"	"88 years"	"88"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	47	Not Applicable	Not Applicable
+	"Kansas"	"20"	"88 years"	"88"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	40	Not Applicable	Not Applicable
+	"Kansas"	"20"	"88 years"	"88"	"Malignant neoplasm without specification of site"	"C80"	13	Not Applicable	Not Applicable
+	"Kansas"	"20"	"88 years"	"88"	"Non-insulin-dependent diabetes mellitus, without complications"	"E11.9"	13	Not Applicable	Not Applicable
+	"Kansas"	"20"	"88 years"	"88"	"Unspecified diabetes mellitus, without complications"	"E14.9"	16	Not Applicable	Not Applicable
+	"Kansas"	"20"	"88 years"	"88"	"Vascular dementia, unspecified"	"F01.9"	40	Not Applicable	Not Applicable
+	"Kansas"	"20"	"88 years"	"88"	"Unspecified dementia"	"F03"	232	Not Applicable	Not Applicable
+	"Kansas"	"20"	"88 years"	"88"	"Parkinson disease"	"G20"	40	Not Applicable	Not Applicable
+	"Kansas"	"20"	"88 years"	"88"	"Alzheimer disease, unspecified"	"G30.9"	165	Not Applicable	Not Applicable
+	"Kansas"	"20"	"88 years"	"88"	"Senile degeneration of brain, not elsewhere classified"	"G31.1"	49	Not Applicable	Not Applicable
+	"Kansas"	"20"	"88 years"	"88"	"Essential (primary) hypertension"	"I10"	18	Not Applicable	Not Applicable
+	"Kansas"	"20"	"88 years"	"88"	"Hypertensive heart disease with (congestive) heart failure"	"I11.0"	26	Not Applicable	Not Applicable
+	"Kansas"	"20"	"88 years"	"88"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	11	Not Applicable	Not Applicable
+	"Kansas"	"20"	"88 years"	"88"	"Hypertensive renal disease with renal failure"	"I12.0"	13	Not Applicable	Not Applicable
+	"Kansas"	"20"	"88 years"	"88"	"Hypertensive heart and renal disease with both (congestive) heart failure and renal failure"	"I13.2"	10	Not Applicable	Not Applicable
+	"Kansas"	"20"	"88 years"	"88"	"Acute myocardial infarction, unspecified"	"I21.9"	60	Not Applicable	Not Applicable
+	"Kansas"	"20"	"88 years"	"88"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	13	Not Applicable	Not Applicable
+	"Kansas"	"20"	"88 years"	"88"	"Atherosclerotic heart disease"	"I25.1"	173	Not Applicable	Not Applicable
+	"Kansas"	"20"	"88 years"	"88"	"Chronic ischaemic heart disease, unspecified"	"I25.9"	11	Not Applicable	Not Applicable
+	"Kansas"	"20"	"88 years"	"88"	"Other secondary pulmonary hypertension"	"I27.2"	11	Not Applicable	Not Applicable
+	"Kansas"	"20"	"88 years"	"88"	"Aortic (valve) stenosis"	"I35.0"	20	Not Applicable	Not Applicable
+	"Kansas"	"20"	"88 years"	"88"	"Atrial fibrillation and flutter"	"I48"	40	Not Applicable	Not Applicable
+	"Kansas"	"20"	"88 years"	"88"	"Congestive heart failure"	"I50.0"	77	Not Applicable	Not Applicable
+	"Kansas"	"20"	"88 years"	"88"	"Heart failure, unspecified"	"I50.9"	20	Not Applicable	Not Applicable
+	"Kansas"	"20"	"88 years"	"88"	"Intracerebral haemorrhage, unspecified"	"I61.9"	12	Not Applicable	Not Applicable
+	"Kansas"	"20"	"88 years"	"88"	"Cerebral infarction, unspecified"	"I63.9"	19	Not Applicable	Not Applicable
+	"Kansas"	"20"	"88 years"	"88"	"Stroke, not specified as haemorrhage or infarction"	"I64"	74	Not Applicable	Not Applicable
+	"Kansas"	"20"	"88 years"	"88"	"Cerebrovascular disease, unspecified"	"I67.9"	11	Not Applicable	Not Applicable
+	"Kansas"	"20"	"88 years"	"88"	"Generalized and unspecified atherosclerosis"	"I70.9"	41	Not Applicable	Not Applicable
+	"Kansas"	"20"	"88 years"	"88"	"Pneumonia, unspecified"	"J18.9"	39	Not Applicable	Not Applicable
+	"Kansas"	"20"	"88 years"	"88"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	21	Not Applicable	Not Applicable
+	"Kansas"	"20"	"88 years"	"88"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	95	Not Applicable	Not Applicable
+	"Kansas"	"20"	"88 years"	"88"	"Pneumonitis due to food and vomit"	"J69.0"	24	Not Applicable	Not Applicable
+	"Kansas"	"20"	"88 years"	"88"	"Gastrointestinal haemorrhage, unspecified"	"K92.2"	14	Not Applicable	Not Applicable
+	"Kansas"	"20"	"88 years"	"88"	"Chronic kidney disease, stage 5"	"N18.5"	12	Not Applicable	Not Applicable
+	"Kansas"	"20"	"88 years"	"88"	"Unspecified renal failure"	"N19"	14	Not Applicable	Not Applicable
+	"Kansas"	"20"	"88 years"	"88"	"Urinary tract infection, site not specified"	"N39.0"	14	Not Applicable	Not Applicable
+	"Kansas"	"20"	"88 years"	"88"	"Senility"	"R54"	19	Not Applicable	Not Applicable
+	"Kansas"	"20"	"88 years"	"88"	"Other ill-defined and unspecified causes of mortality"	"R99"	13	Not Applicable	Not Applicable
+	"Kansas"	"20"	"88 years"	"88"	"COVID-19"	"U07.1"	59	Not Applicable	Not Applicable
+	"Kansas"	"20"	"88 years"	"88"	"Other fall on same level"	"W18"	14	Not Applicable	Not Applicable
+	"Kansas"	"20"	"88 years"	"88"	"Unspecified fall"	"W19"	33	Not Applicable	Not Applicable
+	"Kansas"	"20"	"89 years"	"89"	"Septicaemia, unspecified"	"A41.9"	24	Not Applicable	Not Applicable
+	"Kansas"	"20"	"89 years"	"89"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	15	Not Applicable	Not Applicable
+	"Kansas"	"20"	"89 years"	"89"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	19	Not Applicable	Not Applicable
+	"Kansas"	"20"	"89 years"	"89"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	42	Not Applicable	Not Applicable
+	"Kansas"	"20"	"89 years"	"89"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	34	Not Applicable	Not Applicable
+	"Kansas"	"20"	"89 years"	"89"	"Malignant neoplasm of ovary"	"C56"	11	Not Applicable	Not Applicable
+	"Kansas"	"20"	"89 years"	"89"	"Malignant neoplasm without specification of site"	"C80"	11	Not Applicable	Not Applicable
+	"Kansas"	"20"	"89 years"	"89"	"Anaemia, unspecified"	"D64.9"	11	Not Applicable	Not Applicable
+	"Kansas"	"20"	"89 years"	"89"	"Non-insulin-dependent diabetes mellitus, without complications"	"E11.9"	12	Not Applicable	Not Applicable
+	"Kansas"	"20"	"89 years"	"89"	"Unspecified diabetes mellitus, without complications"	"E14.9"	10	Not Applicable	Not Applicable
+	"Kansas"	"20"	"89 years"	"89"	"Vascular dementia, unspecified"	"F01.9"	25	Not Applicable	Not Applicable
+	"Kansas"	"20"	"89 years"	"89"	"Unspecified dementia"	"F03"	255	Not Applicable	Not Applicable
+	"Kansas"	"20"	"89 years"	"89"	"Parkinson disease"	"G20"	43	Not Applicable	Not Applicable
+	"Kansas"	"20"	"89 years"	"89"	"Alzheimer disease, unspecified"	"G30.9"	175	Not Applicable	Not Applicable
+	"Kansas"	"20"	"89 years"	"89"	"Senile degeneration of brain, not elsewhere classified"	"G31.1"	47	Not Applicable	Not Applicable
+	"Kansas"	"20"	"89 years"	"89"	"Essential (primary) hypertension"	"I10"	18	Not Applicable	Not Applicable
+	"Kansas"	"20"	"89 years"	"89"	"Hypertensive heart disease with (congestive) heart failure"	"I11.0"	40	Not Applicable	Not Applicable
+	"Kansas"	"20"	"89 years"	"89"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	10	Not Applicable	Not Applicable
+	"Kansas"	"20"	"89 years"	"89"	"Hypertensive renal disease with renal failure"	"I12.0"	15	Not Applicable	Not Applicable
+	"Kansas"	"20"	"89 years"	"89"	"Hypertensive heart and renal disease with both (congestive) heart failure and renal failure"	"I13.2"	12	Not Applicable	Not Applicable
+	"Kansas"	"20"	"89 years"	"89"	"Acute myocardial infarction, unspecified"	"I21.9"	52	Not Applicable	Not Applicable
+	"Kansas"	"20"	"89 years"	"89"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	14	Not Applicable	Not Applicable
+	"Kansas"	"20"	"89 years"	"89"	"Atherosclerotic heart disease"	"I25.1"	167	Not Applicable	Not Applicable
+	"Kansas"	"20"	"89 years"	"89"	"Aortic (valve) stenosis"	"I35.0"	29	Not Applicable	Not Applicable
+	"Kansas"	"20"	"89 years"	"89"	"Endocarditis, valve unspecified"	"I38"	11	Not Applicable	Not Applicable
+	"Kansas"	"20"	"89 years"	"89"	"Atrial fibrillation and flutter"	"I48"	44	Not Applicable	Not Applicable
+	"Kansas"	"20"	"89 years"	"89"	"Congestive heart failure"	"I50.0"	83	Not Applicable	Not Applicable
+	"Kansas"	"20"	"89 years"	"89"	"Heart failure, unspecified"	"I50.9"	19	Not Applicable	Not Applicable
+	"Kansas"	"20"	"89 years"	"89"	"Heart disease, unspecified"	"I51.9"	12	Not Applicable	Not Applicable
+	"Kansas"	"20"	"89 years"	"89"	"Intracerebral haemorrhage, unspecified"	"I61.9"	18	Not Applicable	Not Applicable
+	"Kansas"	"20"	"89 years"	"89"	"Cerebral infarction, unspecified"	"I63.9"	14	Not Applicable	Not Applicable
+	"Kansas"	"20"	"89 years"	"89"	"Stroke, not specified as haemorrhage or infarction"	"I64"	84	Not Applicable	Not Applicable
+	"Kansas"	"20"	"89 years"	"89"	"Cerebrovascular disease, unspecified"	"I67.9"	15	Not Applicable	Not Applicable
+	"Kansas"	"20"	"89 years"	"89"	"Sequelae of stroke, not specified as haemorrhage or infarction"	"I69.4"	10	Not Applicable	Not Applicable
+	"Kansas"	"20"	"89 years"	"89"	"Generalized and unspecified atherosclerosis"	"I70.9"	35	Not Applicable	Not Applicable
+	"Kansas"	"20"	"89 years"	"89"	"Pneumonia, unspecified"	"J18.9"	46	Not Applicable	Not Applicable
+	"Kansas"	"20"	"89 years"	"89"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	24	Not Applicable	Not Applicable
+	"Kansas"	"20"	"89 years"	"89"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	90	Not Applicable	Not Applicable
+	"Kansas"	"20"	"89 years"	"89"	"Pneumonitis due to food and vomit"	"J69.0"	23	Not Applicable	Not Applicable
+	"Kansas"	"20"	"89 years"	"89"	"Other interstitial pulmonary diseases with fibrosis"	"J84.1"	11	Not Applicable	Not Applicable
+	"Kansas"	"20"	"89 years"	"89"	"Gastrointestinal haemorrhage, unspecified"	"K92.2"	13	Not Applicable	Not Applicable
+	"Kansas"	"20"	"89 years"	"89"	"Acute renal failure, unspecified"	"N17.9"	12	Not Applicable	Not Applicable
+	"Kansas"	"20"	"89 years"	"89"	"Chronic kidney disease, stage 5"	"N18.5"	14	Not Applicable	Not Applicable
+	"Kansas"	"20"	"89 years"	"89"	"Chronic renal failure, unspecified"	"N18.9"	10	Not Applicable	Not Applicable
+	"Kansas"	"20"	"89 years"	"89"	"Urinary tract infection, site not specified"	"N39.0"	23	Not Applicable	Not Applicable
+	"Kansas"	"20"	"89 years"	"89"	"Senility"	"R54"	20	Not Applicable	Not Applicable
+	"Kansas"	"20"	"89 years"	"89"	"COVID-19"	"U07.1"	62	Not Applicable	Not Applicable
+	"Kansas"	"20"	"89 years"	"89"	"Other fall on same level"	"W18"	16	Not Applicable	Not Applicable
+	"Kansas"	"20"	"89 years"	"89"	"Unspecified fall"	"W19"	28	Not Applicable	Not Applicable
+	"Kansas"	"20"	"90 years"	"90"	"Septicaemia, unspecified"	"A41.9"	18	Not Applicable	Not Applicable
+	"Kansas"	"20"	"90 years"	"90"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	21	Not Applicable	Not Applicable
+	"Kansas"	"20"	"90 years"	"90"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	20	Not Applicable	Not Applicable
+	"Kansas"	"20"	"90 years"	"90"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	47	Not Applicable	Not Applicable
+	"Kansas"	"20"	"90 years"	"90"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	31	Not Applicable	Not Applicable
+	"Kansas"	"20"	"90 years"	"90"	"Malignant neoplasm of ovary"	"C56"	11	Not Applicable	Not Applicable
+	"Kansas"	"20"	"90 years"	"90"	"Non-insulin-dependent diabetes mellitus, without complications"	"E11.9"	12	Not Applicable	Not Applicable
+	"Kansas"	"20"	"90 years"	"90"	"Unspecified diabetes mellitus, without complications"	"E14.9"	12	Not Applicable	Not Applicable
+	"Kansas"	"20"	"90 years"	"90"	"Vascular dementia, unspecified"	"F01.9"	22	Not Applicable	Not Applicable
+	"Kansas"	"20"	"90 years"	"90"	"Unspecified dementia"	"F03"	273	Not Applicable	Not Applicable
+	"Kansas"	"20"	"90 years"	"90"	"Parkinson disease"	"G20"	36	Not Applicable	Not Applicable
+	"Kansas"	"20"	"90 years"	"90"	"Alzheimer disease, unspecified"	"G30.9"	150	Not Applicable	Not Applicable
+	"Kansas"	"20"	"90 years"	"90"	"Senile degeneration of brain, not elsewhere classified"	"G31.1"	51	Not Applicable	Not Applicable
+	"Kansas"	"20"	"90 years"	"90"	"Essential (primary) hypertension"	"I10"	15	Not Applicable	Not Applicable
+	"Kansas"	"20"	"90 years"	"90"	"Hypertensive heart disease with (congestive) heart failure"	"I11.0"	43	Not Applicable	Not Applicable
+	"Kansas"	"20"	"90 years"	"90"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	12	Not Applicable	Not Applicable
+	"Kansas"	"20"	"90 years"	"90"	"Hypertensive renal disease with renal failure"	"I12.0"	24	Not Applicable	Not Applicable
+	"Kansas"	"20"	"90 years"	"90"	"Hypertensive heart and renal disease with both (congestive) heart failure and renal failure"	"I13.2"	11	Not Applicable	Not Applicable
+	"Kansas"	"20"	"90 years"	"90"	"Acute myocardial infarction, unspecified"	"I21.9"	55	Not Applicable	Not Applicable
+	"Kansas"	"20"	"90 years"	"90"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	19	Not Applicable	Not Applicable
+	"Kansas"	"20"	"90 years"	"90"	"Atherosclerotic heart disease"	"I25.1"	164	Not Applicable	Not Applicable
+	"Kansas"	"20"	"90 years"	"90"	"Aortic (valve) stenosis"	"I35.0"	27	Not Applicable	Not Applicable
+	"Kansas"	"20"	"90 years"	"90"	"Atrial fibrillation and flutter"	"I48"	50	Not Applicable	Not Applicable
+	"Kansas"	"20"	"90 years"	"90"	"Congestive heart failure"	"I50.0"	89	Not Applicable	Not Applicable
+	"Kansas"	"20"	"90 years"	"90"	"Heart failure, unspecified"	"I50.9"	19	Not Applicable	Not Applicable
+	"Kansas"	"20"	"90 years"	"90"	"Intracerebral haemorrhage, unspecified"	"I61.9"	11	Not Applicable	Not Applicable
+	"Kansas"	"20"	"90 years"	"90"	"Stroke, not specified as haemorrhage or infarction"	"I64"	84	Not Applicable	Not Applicable
+	"Kansas"	"20"	"90 years"	"90"	"Cerebrovascular disease, unspecified"	"I67.9"	10	Not Applicable	Not Applicable
+	"Kansas"	"20"	"90 years"	"90"	"Generalized and unspecified atherosclerosis"	"I70.9"	35	Not Applicable	Not Applicable
+	"Kansas"	"20"	"90 years"	"90"	"Pneumonia, unspecified"	"J18.9"	57	Not Applicable	Not Applicable
+	"Kansas"	"20"	"90 years"	"90"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	17	Not Applicable	Not Applicable
+	"Kansas"	"20"	"90 years"	"90"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	87	Not Applicable	Not Applicable
+	"Kansas"	"20"	"90 years"	"90"	"Pneumonitis due to food and vomit"	"J69.0"	29	Not Applicable	Not Applicable
+	"Kansas"	"20"	"90 years"	"90"	"Gastrointestinal haemorrhage, unspecified"	"K92.2"	13	Not Applicable	Not Applicable
+	"Kansas"	"20"	"90 years"	"90"	"Chronic renal failure, unspecified"	"N18.9"	10	Not Applicable	Not Applicable
+	"Kansas"	"20"	"90 years"	"90"	"Unspecified renal failure"	"N19"	15	Not Applicable	Not Applicable
+	"Kansas"	"20"	"90 years"	"90"	"Urinary tract infection, site not specified"	"N39.0"	16	Not Applicable	Not Applicable
+	"Kansas"	"20"	"90 years"	"90"	"Senility"	"R54"	27	Not Applicable	Not Applicable
+	"Kansas"	"20"	"90 years"	"90"	"COVID-19"	"U07.1"	62	Not Applicable	Not Applicable
+	"Kansas"	"20"	"90 years"	"90"	"Other fall on same level"	"W18"	17	Not Applicable	Not Applicable
+	"Kansas"	"20"	"90 years"	"90"	"Unspecified fall"	"W19"	36	Not Applicable	Not Applicable
+	"Kansas"	"20"	"90 years"	"90"	"Exposure to unspecified factor causing fracture"	"X59.0"	10	Not Applicable	Not Applicable
+	"Kansas"	"20"	"91 years"	"91"	"Septicaemia, unspecified"	"A41.9"	23	Not Applicable	Not Applicable
+	"Kansas"	"20"	"91 years"	"91"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	29	Not Applicable	Not Applicable
+	"Kansas"	"20"	"91 years"	"91"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	10	Not Applicable	Not Applicable
+	"Kansas"	"20"	"91 years"	"91"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	35	Not Applicable	Not Applicable
+	"Kansas"	"20"	"91 years"	"91"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	21	Not Applicable	Not Applicable
+	"Kansas"	"20"	"91 years"	"91"	"Non-Hodgkin lymphoma, unspecified type"	"C85.9"	11	Not Applicable	Not Applicable
+	"Kansas"	"20"	"91 years"	"91"	"Unspecified diabetes mellitus, without complications"	"E14.9"	14	Not Applicable	Not Applicable
+	"Kansas"	"20"	"91 years"	"91"	"Vascular dementia, unspecified"	"F01.9"	23	Not Applicable	Not Applicable
+	"Kansas"	"20"	"91 years"	"91"	"Unspecified dementia"	"F03"	262	Not Applicable	Not Applicable
+	"Kansas"	"20"	"91 years"	"91"	"Parkinson disease"	"G20"	30	Not Applicable	Not Applicable
+	"Kansas"	"20"	"91 years"	"91"	"Alzheimer disease, unspecified"	"G30.9"	153	Not Applicable	Not Applicable
+	"Kansas"	"20"	"91 years"	"91"	"Senile degeneration of brain, not elsewhere classified"	"G31.1"	50	Not Applicable	Not Applicable
+	"Kansas"	"20"	"91 years"	"91"	"Essential (primary) hypertension"	"I10"	19	Not Applicable	Not Applicable
+	"Kansas"	"20"	"91 years"	"91"	"Hypertensive heart disease with (congestive) heart failure"	"I11.0"	40	Not Applicable	Not Applicable
+	"Kansas"	"20"	"91 years"	"91"	"Hypertensive renal disease with renal failure"	"I12.0"	10	Not Applicable	Not Applicable
+	"Kansas"	"20"	"91 years"	"91"	"Hypertensive heart and renal disease with both (congestive) heart failure and renal failure"	"I13.2"	11	Not Applicable	Not Applicable
+	"Kansas"	"20"	"91 years"	"91"	"Acute myocardial infarction, unspecified"	"I21.9"	42	Not Applicable	Not Applicable
+	"Kansas"	"20"	"91 years"	"91"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	14	Not Applicable	Not Applicable
+	"Kansas"	"20"	"91 years"	"91"	"Atherosclerotic heart disease"	"I25.1"	158	Not Applicable	Not Applicable
+	"Kansas"	"20"	"91 years"	"91"	"Chronic ischaemic heart disease, unspecified"	"I25.9"	13	Not Applicable	Not Applicable
+	"Kansas"	"20"	"91 years"	"91"	"Aortic (valve) stenosis"	"I35.0"	34	Not Applicable	Not Applicable
+	"Kansas"	"20"	"91 years"	"91"	"Endocarditis, valve unspecified"	"I38"	10	Not Applicable	Not Applicable
+	"Kansas"	"20"	"91 years"	"91"	"Cardiomyopathy, unspecified"	"I42.9"	14	Not Applicable	Not Applicable
+	"Kansas"	"20"	"91 years"	"91"	"Atrial fibrillation and flutter"	"I48"	37	Not Applicable	Not Applicable
+	"Kansas"	"20"	"91 years"	"91"	"Congestive heart failure"	"I50.0"	88	Not Applicable	Not Applicable
+	"Kansas"	"20"	"91 years"	"91"	"Heart failure, unspecified"	"I50.9"	19	Not Applicable	Not Applicable
+	"Kansas"	"20"	"91 years"	"91"	"Intracerebral haemorrhage, unspecified"	"I61.9"	16	Not Applicable	Not Applicable
+	"Kansas"	"20"	"91 years"	"91"	"Cerebral infarction, unspecified"	"I63.9"	15	Not Applicable	Not Applicable
+	"Kansas"	"20"	"91 years"	"91"	"Stroke, not specified as haemorrhage or infarction"	"I64"	98	Not Applicable	Not Applicable
+	"Kansas"	"20"	"91 years"	"91"	"Cerebrovascular disease, unspecified"	"I67.9"	12	Not Applicable	Not Applicable
+	"Kansas"	"20"	"91 years"	"91"	"Generalized and unspecified atherosclerosis"	"I70.9"	38	Not Applicable	Not Applicable
+	"Kansas"	"20"	"91 years"	"91"	"Pneumonia, unspecified"	"J18.9"	53	Not Applicable	Not Applicable
+	"Kansas"	"20"	"91 years"	"91"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	11	Not Applicable	Not Applicable
+	"Kansas"	"20"	"91 years"	"91"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	83	Not Applicable	Not Applicable
+	"Kansas"	"20"	"91 years"	"91"	"Pneumonitis due to food and vomit"	"J69.0"	20	Not Applicable	Not Applicable
+	"Kansas"	"20"	"91 years"	"91"	"Other interstitial pulmonary diseases with fibrosis"	"J84.1"	12	Not Applicable	Not Applicable
+	"Kansas"	"20"	"91 years"	"91"	"Gastrointestinal haemorrhage, unspecified"	"K92.2"	14	Not Applicable	Not Applicable
+	"Kansas"	"20"	"91 years"	"91"	"Chronic renal failure, unspecified"	"N18.9"	15	Not Applicable	Not Applicable
+	"Kansas"	"20"	"91 years"	"91"	"Urinary tract infection, site not specified"	"N39.0"	18	Not Applicable	Not Applicable
+	"Kansas"	"20"	"91 years"	"91"	"Senility"	"R54"	32	Not Applicable	Not Applicable
+	"Kansas"	"20"	"91 years"	"91"	"COVID-19"	"U07.1"	61	Not Applicable	Not Applicable
+	"Kansas"	"20"	"91 years"	"91"	"Other fall on same level"	"W18"	20	Not Applicable	Not Applicable
+	"Kansas"	"20"	"91 years"	"91"	"Unspecified fall"	"W19"	43	Not Applicable	Not Applicable
+	"Kansas"	"20"	"92 years"	"92"	"Septicaemia, unspecified"	"A41.9"	17	Not Applicable	Not Applicable
+	"Kansas"	"20"	"92 years"	"92"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	16	Not Applicable	Not Applicable
+	"Kansas"	"20"	"92 years"	"92"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	10	Not Applicable	Not Applicable
+	"Kansas"	"20"	"92 years"	"92"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	20	Not Applicable	Not Applicable
+	"Kansas"	"20"	"92 years"	"92"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	26	Not Applicable	Not Applicable
+	"Kansas"	"20"	"92 years"	"92"	"Non-insulin-dependent diabetes mellitus, without complications"	"E11.9"	12	Not Applicable	Not Applicable
+	"Kansas"	"20"	"92 years"	"92"	"Unspecified diabetes mellitus, without complications"	"E14.9"	15	Not Applicable	Not Applicable
+	"Kansas"	"20"	"92 years"	"92"	"Vascular dementia, unspecified"	"F01.9"	22	Not Applicable	Not Applicable
+	"Kansas"	"20"	"92 years"	"92"	"Unspecified dementia"	"F03"	287	Not Applicable	Not Applicable
+	"Kansas"	"20"	"92 years"	"92"	"Parkinson disease"	"G20"	31	Not Applicable	Not Applicable
+	"Kansas"	"20"	"92 years"	"92"	"Alzheimer disease with late onset"	"G30.1"	11	Not Applicable	Not Applicable
+	"Kansas"	"20"	"92 years"	"92"	"Alzheimer disease, unspecified"	"G30.9"	171	Not Applicable	Not Applicable
+	"Kansas"	"20"	"92 years"	"92"	"Senile degeneration of brain, not elsewhere classified"	"G31.1"	48	Not Applicable	Not Applicable
+	"Kansas"	"20"	"92 years"	"92"	"Essential (primary) hypertension"	"I10"	25	Not Applicable	Not Applicable
+	"Kansas"	"20"	"92 years"	"92"	"Hypertensive heart disease with (congestive) heart failure"	"I11.0"	40	Not Applicable	Not Applicable
+	"Kansas"	"20"	"92 years"	"92"	"Hypertensive renal disease with renal failure"	"I12.0"	15	Not Applicable	Not Applicable
+	"Kansas"	"20"	"92 years"	"92"	"Acute myocardial infarction, unspecified"	"I21.9"	56	Not Applicable	Not Applicable
+	"Kansas"	"20"	"92 years"	"92"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	16	Not Applicable	Not Applicable
+	"Kansas"	"20"	"92 years"	"92"	"Atherosclerotic heart disease"	"I25.1"	175	Not Applicable	Not Applicable
+	"Kansas"	"20"	"92 years"	"92"	"Aortic (valve) stenosis"	"I35.0"	28	Not Applicable	Not Applicable
+	"Kansas"	"20"	"92 years"	"92"	"Cardiomyopathy, unspecified"	"I42.9"	11	Not Applicable	Not Applicable
+	"Kansas"	"20"	"92 years"	"92"	"Atrial fibrillation and flutter"	"I48"	30	Not Applicable	Not Applicable
+	"Kansas"	"20"	"92 years"	"92"	"Congestive heart failure"	"I50.0"	100	Not Applicable	Not Applicable
+	"Kansas"	"20"	"92 years"	"92"	"Heart failure, unspecified"	"I50.9"	18	Not Applicable	Not Applicable
+	"Kansas"	"20"	"92 years"	"92"	"Intracerebral haemorrhage, unspecified"	"I61.9"	11	Not Applicable	Not Applicable
+	"Kansas"	"20"	"92 years"	"92"	"Cerebral infarction, unspecified"	"I63.9"	14	Not Applicable	Not Applicable
+	"Kansas"	"20"	"92 years"	"92"	"Stroke, not specified as haemorrhage or infarction"	"I64"	86	Not Applicable	Not Applicable
+	"Kansas"	"20"	"92 years"	"92"	"Cerebrovascular disease, unspecified"	"I67.9"	17	Not Applicable	Not Applicable
+	"Kansas"	"20"	"92 years"	"92"	"Generalized and unspecified atherosclerosis"	"I70.9"	35	Not Applicable	Not Applicable
+	"Kansas"	"20"	"92 years"	"92"	"Peripheral vascular disease, unspecified"	"I73.9"	12	Not Applicable	Not Applicable
+	"Kansas"	"20"	"92 years"	"92"	"Pneumonia, unspecified"	"J18.9"	44	Not Applicable	Not Applicable
+	"Kansas"	"20"	"92 years"	"92"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	20	Not Applicable	Not Applicable
+	"Kansas"	"20"	"92 years"	"92"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	68	Not Applicable	Not Applicable
+	"Kansas"	"20"	"92 years"	"92"	"Pneumonitis due to food and vomit"	"J69.0"	26	Not Applicable	Not Applicable
+	"Kansas"	"20"	"92 years"	"92"	"Other and unspecified intestinal obstruction"	"K56.6"	11	Not Applicable	Not Applicable
+	"Kansas"	"20"	"92 years"	"92"	"Chronic renal failure, unspecified"	"N18.9"	17	Not Applicable	Not Applicable
+	"Kansas"	"20"	"92 years"	"92"	"Unspecified renal failure"	"N19"	12	Not Applicable	Not Applicable
+	"Kansas"	"20"	"92 years"	"92"	"Urinary tract infection, site not specified"	"N39.0"	16	Not Applicable	Not Applicable
+	"Kansas"	"20"	"92 years"	"92"	"Senility"	"R54"	29	Not Applicable	Not Applicable
+	"Kansas"	"20"	"92 years"	"92"	"Other ill-defined and unspecified causes of mortality"	"R99"	11	Not Applicable	Not Applicable
+	"Kansas"	"20"	"92 years"	"92"	"COVID-19"	"U07.1"	67	Not Applicable	Not Applicable
+	"Kansas"	"20"	"92 years"	"92"	"Other fall on same level"	"W18"	18	Not Applicable	Not Applicable
+	"Kansas"	"20"	"92 years"	"92"	"Unspecified fall"	"W19"	28	Not Applicable	Not Applicable
+	"Kansas"	"20"	"93 years"	"93"	"Septicaemia, unspecified"	"A41.9"	22	Not Applicable	Not Applicable
+	"Kansas"	"20"	"93 years"	"93"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	22	Not Applicable	Not Applicable
+	"Kansas"	"20"	"93 years"	"93"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	14	Not Applicable	Not Applicable
+	"Kansas"	"20"	"93 years"	"93"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	22	Not Applicable	Not Applicable
+	"Kansas"	"20"	"93 years"	"93"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	29	Not Applicable	Not Applicable
+	"Kansas"	"20"	"93 years"	"93"	"Unspecified diabetes mellitus, without complications"	"E14.9"	12	Not Applicable	Not Applicable
+	"Kansas"	"20"	"93 years"	"93"	"Vascular dementia, unspecified"	"F01.9"	22	Not Applicable	Not Applicable
+	"Kansas"	"20"	"93 years"	"93"	"Unspecified dementia"	"F03"	224	Not Applicable	Not Applicable
+	"Kansas"	"20"	"93 years"	"93"	"Parkinson disease"	"G20"	25	Not Applicable	Not Applicable
+	"Kansas"	"20"	"93 years"	"93"	"Alzheimer disease with late onset"	"G30.1"	15	Not Applicable	Not Applicable
+	"Kansas"	"20"	"93 years"	"93"	"Alzheimer disease, unspecified"	"G30.9"	130	Not Applicable	Not Applicable
+	"Kansas"	"20"	"93 years"	"93"	"Senile degeneration of brain, not elsewhere classified"	"G31.1"	60	Not Applicable	Not Applicable
+	"Kansas"	"20"	"93 years"	"93"	"Essential (primary) hypertension"	"I10"	21	Not Applicable	Not Applicable
+	"Kansas"	"20"	"93 years"	"93"	"Hypertensive heart disease with (congestive) heart failure"	"I11.0"	39	Not Applicable	Not Applicable
+	"Kansas"	"20"	"93 years"	"93"	"Hypertensive renal disease with renal failure"	"I12.0"	14	Not Applicable	Not Applicable
+	"Kansas"	"20"	"93 years"	"93"	"Acute myocardial infarction, unspecified"	"I21.9"	45	Not Applicable	Not Applicable
+	"Kansas"	"20"	"93 years"	"93"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	16	Not Applicable	Not Applicable
+	"Kansas"	"20"	"93 years"	"93"	"Atherosclerotic heart disease"	"I25.1"	138	Not Applicable	Not Applicable
+	"Kansas"	"20"	"93 years"	"93"	"Chronic ischaemic heart disease, unspecified"	"I25.9"	11	Not Applicable	Not Applicable
+	"Kansas"	"20"	"93 years"	"93"	"Aortic (valve) stenosis"	"I35.0"	20	Not Applicable	Not Applicable
+	"Kansas"	"20"	"93 years"	"93"	"Atrial fibrillation and flutter"	"I48"	45	Not Applicable	Not Applicable
+	"Kansas"	"20"	"93 years"	"93"	"Congestive heart failure"	"I50.0"	85	Not Applicable	Not Applicable
+	"Kansas"	"20"	"93 years"	"93"	"Heart failure, unspecified"	"I50.9"	21	Not Applicable	Not Applicable
+	"Kansas"	"20"	"93 years"	"93"	"Cerebral infarction, unspecified"	"I63.9"	23	Not Applicable	Not Applicable
+	"Kansas"	"20"	"93 years"	"93"	"Stroke, not specified as haemorrhage or infarction"	"I64"	78	Not Applicable	Not Applicable
+	"Kansas"	"20"	"93 years"	"93"	"Cerebrovascular disease, unspecified"	"I67.9"	11	Not Applicable	Not Applicable
+	"Kansas"	"20"	"93 years"	"93"	"Generalized and unspecified atherosclerosis"	"I70.9"	27	Not Applicable	Not Applicable
+	"Kansas"	"20"	"93 years"	"93"	"Pneumonia, unspecified"	"J18.9"	39	Not Applicable	Not Applicable
+	"Kansas"	"20"	"93 years"	"93"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	15	Not Applicable	Not Applicable
+	"Kansas"	"20"	"93 years"	"93"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	60	Not Applicable	Not Applicable
+	"Kansas"	"20"	"93 years"	"93"	"Pneumonitis due to food and vomit"	"J69.0"	22	Not Applicable	Not Applicable
+	"Kansas"	"20"	"93 years"	"93"	"Gastrointestinal haemorrhage, unspecified"	"K92.2"	12	Not Applicable	Not Applicable
+	"Kansas"	"20"	"93 years"	"93"	"Acute renal failure, unspecified"	"N17.9"	12	Not Applicable	Not Applicable
+	"Kansas"	"20"	"93 years"	"93"	"Chronic renal failure, unspecified"	"N18.9"	11	Not Applicable	Not Applicable
+	"Kansas"	"20"	"93 years"	"93"	"Unspecified renal failure"	"N19"	11	Not Applicable	Not Applicable
+	"Kansas"	"20"	"93 years"	"93"	"Urinary tract infection, site not specified"	"N39.0"	14	Not Applicable	Not Applicable
+	"Kansas"	"20"	"93 years"	"93"	"Senility"	"R54"	22	Not Applicable	Not Applicable
+	"Kansas"	"20"	"93 years"	"93"	"COVID-19"	"U07.1"	46	Not Applicable	Not Applicable
+	"Kansas"	"20"	"93 years"	"93"	"Other fall on same level"	"W18"	20	Not Applicable	Not Applicable
+	"Kansas"	"20"	"93 years"	"93"	"Unspecified fall"	"W19"	23	Not Applicable	Not Applicable
+	"Kansas"	"20"	"94 years"	"94"	"Septicaemia, unspecified"	"A41.9"	18	Not Applicable	Not Applicable
+	"Kansas"	"20"	"94 years"	"94"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	17	Not Applicable	Not Applicable
+	"Kansas"	"20"	"94 years"	"94"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	13	Not Applicable	Not Applicable
+	"Kansas"	"20"	"94 years"	"94"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	21	Not Applicable	Not Applicable
+	"Kansas"	"20"	"94 years"	"94"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	24	Not Applicable	Not Applicable
+	"Kansas"	"20"	"94 years"	"94"	"Vascular dementia, unspecified"	"F01.9"	32	Not Applicable	Not Applicable
+	"Kansas"	"20"	"94 years"	"94"	"Unspecified dementia"	"F03"	260	Not Applicable	Not Applicable
+	"Kansas"	"20"	"94 years"	"94"	"Parkinson disease"	"G20"	25	Not Applicable	Not Applicable
+	"Kansas"	"20"	"94 years"	"94"	"Alzheimer disease, unspecified"	"G30.9"	128	Not Applicable	Not Applicable
+	"Kansas"	"20"	"94 years"	"94"	"Senile degeneration of brain, not elsewhere classified"	"G31.1"	56	Not Applicable	Not Applicable
+	"Kansas"	"20"	"94 years"	"94"	"Essential (primary) hypertension"	"I10"	13	Not Applicable	Not Applicable
+	"Kansas"	"20"	"94 years"	"94"	"Hypertensive heart disease with (congestive) heart failure"	"I11.0"	41	Not Applicable	Not Applicable
+	"Kansas"	"20"	"94 years"	"94"	"Hypertensive renal disease with renal failure"	"I12.0"	12	Not Applicable	Not Applicable
+	"Kansas"	"20"	"94 years"	"94"	"Acute myocardial infarction, unspecified"	"I21.9"	40	Not Applicable	Not Applicable
+	"Kansas"	"20"	"94 years"	"94"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	15	Not Applicable	Not Applicable
+	"Kansas"	"20"	"94 years"	"94"	"Atherosclerotic heart disease"	"I25.1"	144	Not Applicable	Not Applicable
+	"Kansas"	"20"	"94 years"	"94"	"Aortic (valve) stenosis"	"I35.0"	20	Not Applicable	Not Applicable
+	"Kansas"	"20"	"94 years"	"94"	"Endocarditis, valve unspecified"	"I38"	12	Not Applicable	Not Applicable
+	"Kansas"	"20"	"94 years"	"94"	"Atrial fibrillation and flutter"	"I48"	37	Not Applicable	Not Applicable
+	"Kansas"	"20"	"94 years"	"94"	"Congestive heart failure"	"I50.0"	90	Not Applicable	Not Applicable
+	"Kansas"	"20"	"94 years"	"94"	"Heart failure, unspecified"	"I50.9"	16	Not Applicable	Not Applicable
+	"Kansas"	"20"	"94 years"	"94"	"Intracerebral haemorrhage, unspecified"	"I61.9"	13	Not Applicable	Not Applicable
+	"Kansas"	"20"	"94 years"	"94"	"Cerebral infarction, unspecified"	"I63.9"	10	Not Applicable	Not Applicable
+	"Kansas"	"20"	"94 years"	"94"	"Stroke, not specified as haemorrhage or infarction"	"I64"	52	Not Applicable	Not Applicable
+	"Kansas"	"20"	"94 years"	"94"	"Cerebrovascular disease, unspecified"	"I67.9"	14	Not Applicable	Not Applicable
+	"Kansas"	"20"	"94 years"	"94"	"Generalized and unspecified atherosclerosis"	"I70.9"	31	Not Applicable	Not Applicable
+	"Kansas"	"20"	"94 years"	"94"	"Peripheral vascular disease, unspecified"	"I73.9"	11	Not Applicable	Not Applicable
+	"Kansas"	"20"	"94 years"	"94"	"Pneumonia, unspecified"	"J18.9"	40	Not Applicable	Not Applicable
+	"Kansas"	"20"	"94 years"	"94"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	56	Not Applicable	Not Applicable
+	"Kansas"	"20"	"94 years"	"94"	"Pneumonitis due to food and vomit"	"J69.0"	22	Not Applicable	Not Applicable
+	"Kansas"	"20"	"94 years"	"94"	"Gastrointestinal haemorrhage, unspecified"	"K92.2"	14	Not Applicable	Not Applicable
+	"Kansas"	"20"	"94 years"	"94"	"Chronic renal failure, unspecified"	"N18.9"	14	Not Applicable	Not Applicable
+	"Kansas"	"20"	"94 years"	"94"	"Unspecified renal failure"	"N19"	14	Not Applicable	Not Applicable
+	"Kansas"	"20"	"94 years"	"94"	"Urinary tract infection, site not specified"	"N39.0"	10	Not Applicable	Not Applicable
+	"Kansas"	"20"	"94 years"	"94"	"Senility"	"R54"	29	Not Applicable	Not Applicable
+	"Kansas"	"20"	"94 years"	"94"	"COVID-19"	"U07.1"	45	Not Applicable	Not Applicable
+	"Kansas"	"20"	"94 years"	"94"	"Other fall on same level"	"W18"	14	Not Applicable	Not Applicable
+	"Kansas"	"20"	"94 years"	"94"	"Unspecified fall"	"W19"	31	Not Applicable	Not Applicable
+	"Kansas"	"20"	"95 years"	"95"	"Septicaemia, unspecified"	"A41.9"	21	Not Applicable	Not Applicable
+	"Kansas"	"20"	"95 years"	"95"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	13	Not Applicable	Not Applicable
+	"Kansas"	"20"	"95 years"	"95"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	16	Not Applicable	Not Applicable
+	"Kansas"	"20"	"95 years"	"95"	"Vascular dementia, unspecified"	"F01.9"	14	Not Applicable	Not Applicable
+	"Kansas"	"20"	"95 years"	"95"	"Unspecified dementia"	"F03"	219	Not Applicable	Not Applicable
+	"Kansas"	"20"	"95 years"	"95"	"Alzheimer disease with late onset"	"G30.1"	11	Not Applicable	Not Applicable
+	"Kansas"	"20"	"95 years"	"95"	"Alzheimer disease, unspecified"	"G30.9"	113	Not Applicable	Not Applicable
+	"Kansas"	"20"	"95 years"	"95"	"Senile degeneration of brain, not elsewhere classified"	"G31.1"	42	Not Applicable	Not Applicable
+	"Kansas"	"20"	"95 years"	"95"	"Essential (primary) hypertension"	"I10"	18	Not Applicable	Not Applicable
+	"Kansas"	"20"	"95 years"	"95"	"Hypertensive heart disease with (congestive) heart failure"	"I11.0"	31	Not Applicable	Not Applicable
+	"Kansas"	"20"	"95 years"	"95"	"Hypertensive renal disease with renal failure"	"I12.0"	12	Not Applicable	Not Applicable
+	"Kansas"	"20"	"95 years"	"95"	"Acute myocardial infarction, unspecified"	"I21.9"	37	Not Applicable	Not Applicable
+	"Kansas"	"20"	"95 years"	"95"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	15	Not Applicable	Not Applicable
+	"Kansas"	"20"	"95 years"	"95"	"Atherosclerotic heart disease"	"I25.1"	105	Not Applicable	Not Applicable
+	"Kansas"	"20"	"95 years"	"95"	"Aortic (valve) stenosis"	"I35.0"	29	Not Applicable	Not Applicable
+	"Kansas"	"20"	"95 years"	"95"	"Atrial fibrillation and flutter"	"I48"	46	Not Applicable	Not Applicable
+	"Kansas"	"20"	"95 years"	"95"	"Congestive heart failure"	"I50.0"	87	Not Applicable	Not Applicable
+	"Kansas"	"20"	"95 years"	"95"	"Heart failure, unspecified"	"I50.9"	21	Not Applicable	Not Applicable
+	"Kansas"	"20"	"95 years"	"95"	"Stroke, not specified as haemorrhage or infarction"	"I64"	62	Not Applicable	Not Applicable
+	"Kansas"	"20"	"95 years"	"95"	"Cerebrovascular disease, unspecified"	"I67.9"	10	Not Applicable	Not Applicable
+	"Kansas"	"20"	"95 years"	"95"	"Generalized and unspecified atherosclerosis"	"I70.9"	35	Not Applicable	Not Applicable
+	"Kansas"	"20"	"95 years"	"95"	"Pneumonia, unspecified"	"J18.9"	32	Not Applicable	Not Applicable
+	"Kansas"	"20"	"95 years"	"95"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	53	Not Applicable	Not Applicable
+	"Kansas"	"20"	"95 years"	"95"	"Pneumonitis due to food and vomit"	"J69.0"	16	Not Applicable	Not Applicable
+	"Kansas"	"20"	"95 years"	"95"	"Chronic renal failure, unspecified"	"N18.9"	10	Not Applicable	Not Applicable
+	"Kansas"	"20"	"95 years"	"95"	"Urinary tract infection, site not specified"	"N39.0"	14	Not Applicable	Not Applicable
+	"Kansas"	"20"	"95 years"	"95"	"Senility"	"R54"	24	Not Applicable	Not Applicable
+	"Kansas"	"20"	"95 years"	"95"	"COVID-19"	"U07.1"	35	Not Applicable	Not Applicable
+	"Kansas"	"20"	"95 years"	"95"	"Other fall on same level"	"W18"	14	Not Applicable	Not Applicable
+	"Kansas"	"20"	"95 years"	"95"	"Unspecified fall"	"W19"	24	Not Applicable	Not Applicable
+	"Kansas"	"20"	"96 years"	"96"	"Septicaemia, unspecified"	"A41.9"	10	Not Applicable	Not Applicable
+	"Kansas"	"20"	"96 years"	"96"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	20	Not Applicable	Not Applicable
+	"Kansas"	"20"	"96 years"	"96"	"Vascular dementia, unspecified"	"F01.9"	13	Not Applicable	Not Applicable
+	"Kansas"	"20"	"96 years"	"96"	"Unspecified dementia"	"F03"	198	Not Applicable	Not Applicable
+	"Kansas"	"20"	"96 years"	"96"	"Parkinson disease"	"G20"	14	Not Applicable	Not Applicable
+	"Kansas"	"20"	"96 years"	"96"	"Alzheimer disease, unspecified"	"G30.9"	90	Not Applicable	Not Applicable
+	"Kansas"	"20"	"96 years"	"96"	"Senile degeneration of brain, not elsewhere classified"	"G31.1"	30	Not Applicable	Not Applicable
+	"Kansas"	"20"	"96 years"	"96"	"Essential (primary) hypertension"	"I10"	20	Not Applicable	Not Applicable
+	"Kansas"	"20"	"96 years"	"96"	"Hypertensive heart disease with (congestive) heart failure"	"I11.0"	38	Not Applicable	Not Applicable
+	"Kansas"	"20"	"96 years"	"96"	"Acute myocardial infarction, unspecified"	"I21.9"	27	Not Applicable	Not Applicable
+	"Kansas"	"20"	"96 years"	"96"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	10	Not Applicable	Not Applicable
+	"Kansas"	"20"	"96 years"	"96"	"Atherosclerotic heart disease"	"I25.1"	105	Not Applicable	Not Applicable
+	"Kansas"	"20"	"96 years"	"96"	"Aortic (valve) stenosis"	"I35.0"	21	Not Applicable	Not Applicable
+	"Kansas"	"20"	"96 years"	"96"	"Atrial fibrillation and flutter"	"I48"	24	Not Applicable	Not Applicable
+	"Kansas"	"20"	"96 years"	"96"	"Congestive heart failure"	"I50.0"	60	Not Applicable	Not Applicable
+	"Kansas"	"20"	"96 years"	"96"	"Heart failure, unspecified"	"I50.9"	10	Not Applicable	Not Applicable
+	"Kansas"	"20"	"96 years"	"96"	"Stroke, not specified as haemorrhage or infarction"	"I64"	49	Not Applicable	Not Applicable
+	"Kansas"	"20"	"96 years"	"96"	"Generalized and unspecified atherosclerosis"	"I70.9"	26	Not Applicable	Not Applicable
+	"Kansas"	"20"	"96 years"	"96"	"Pneumonia, unspecified"	"J18.9"	33	Not Applicable	Not Applicable
+	"Kansas"	"20"	"96 years"	"96"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	28	Not Applicable	Not Applicable
+	"Kansas"	"20"	"96 years"	"96"	"Pneumonitis due to food and vomit"	"J69.0"	17	Not Applicable	Not Applicable
+	"Kansas"	"20"	"96 years"	"96"	"Urinary tract infection, site not specified"	"N39.0"	12	Not Applicable	Not Applicable
+	"Kansas"	"20"	"96 years"	"96"	"Senility"	"R54"	24	Not Applicable	Not Applicable
+	"Kansas"	"20"	"96 years"	"96"	"COVID-19"	"U07.1"	27	Not Applicable	Not Applicable
+	"Kansas"	"20"	"96 years"	"96"	"Unspecified fall"	"W19"	10	Not Applicable	Not Applicable
+	"Kansas"	"20"	"97 years"	"97"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	13	Not Applicable	Not Applicable
+	"Kansas"	"20"	"97 years"	"97"	"Unspecified diabetes mellitus, without complications"	"E14.9"	12	Not Applicable	Not Applicable
+	"Kansas"	"20"	"97 years"	"97"	"Vascular dementia, unspecified"	"F01.9"	19	Not Applicable	Not Applicable
+	"Kansas"	"20"	"97 years"	"97"	"Unspecified dementia"	"F03"	170	Not Applicable	Not Applicable
+	"Kansas"	"20"	"97 years"	"97"	"Parkinson disease"	"G20"	10	Not Applicable	Not Applicable
+	"Kansas"	"20"	"97 years"	"97"	"Alzheimer disease, unspecified"	"G30.9"	75	Not Applicable	Not Applicable
+	"Kansas"	"20"	"97 years"	"97"	"Senile degeneration of brain, not elsewhere classified"	"G31.1"	28	Not Applicable	Not Applicable
+	"Kansas"	"20"	"97 years"	"97"	"Essential (primary) hypertension"	"I10"	19	Not Applicable	Not Applicable
+	"Kansas"	"20"	"97 years"	"97"	"Hypertensive heart disease with (congestive) heart failure"	"I11.0"	28	Not Applicable	Not Applicable
+	"Kansas"	"20"	"97 years"	"97"	"Hypertensive renal disease with renal failure"	"I12.0"	11	Not Applicable	Not Applicable
+	"Kansas"	"20"	"97 years"	"97"	"Acute myocardial infarction, unspecified"	"I21.9"	26	Not Applicable	Not Applicable
+	"Kansas"	"20"	"97 years"	"97"	"Atherosclerotic heart disease"	"I25.1"	89	Not Applicable	Not Applicable
+	"Kansas"	"20"	"97 years"	"97"	"Aortic (valve) stenosis"	"I35.0"	20	Not Applicable	Not Applicable
+	"Kansas"	"20"	"97 years"	"97"	"Atrial fibrillation and flutter"	"I48"	21	Not Applicable	Not Applicable
+	"Kansas"	"20"	"97 years"	"97"	"Congestive heart failure"	"I50.0"	55	Not Applicable	Not Applicable
+	"Kansas"	"20"	"97 years"	"97"	"Heart failure, unspecified"	"I50.9"	10	Not Applicable	Not Applicable
+	"Kansas"	"20"	"97 years"	"97"	"Stroke, not specified as haemorrhage or infarction"	"I64"	44	Not Applicable	Not Applicable
+	"Kansas"	"20"	"97 years"	"97"	"Cerebrovascular disease, unspecified"	"I67.9"	12	Not Applicable	Not Applicable
+	"Kansas"	"20"	"97 years"	"97"	"Sequelae of other and unspecified cerebrovascular diseases"	"I69.8"	10	Not Applicable	Not Applicable
+	"Kansas"	"20"	"97 years"	"97"	"Generalized and unspecified atherosclerosis"	"I70.9"	21	Not Applicable	Not Applicable
+	"Kansas"	"20"	"97 years"	"97"	"Pneumonia, unspecified"	"J18.9"	34	Not Applicable	Not Applicable
+	"Kansas"	"20"	"97 years"	"97"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	29	Not Applicable	Not Applicable
+	"Kansas"	"20"	"97 years"	"97"	"Pneumonitis due to food and vomit"	"J69.0"	11	Not Applicable	Not Applicable
+	"Kansas"	"20"	"97 years"	"97"	"Senility"	"R54"	17	Not Applicable	Not Applicable
+	"Kansas"	"20"	"97 years"	"97"	"COVID-19"	"U07.1"	23	Not Applicable	Not Applicable
+	"Kansas"	"20"	"97 years"	"97"	"Unspecified fall"	"W19"	11	Not Applicable	Not Applicable
+	"Kansas"	"20"	"98 years"	"98"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	10	Not Applicable	Not Applicable
+	"Kansas"	"20"	"98 years"	"98"	"Vascular dementia, unspecified"	"F01.9"	10	Not Applicable	Not Applicable
+	"Kansas"	"20"	"98 years"	"98"	"Unspecified dementia"	"F03"	121	Not Applicable	Not Applicable
+	"Kansas"	"20"	"98 years"	"98"	"Alzheimer disease, unspecified"	"G30.9"	59	Not Applicable	Not Applicable
+	"Kansas"	"20"	"98 years"	"98"	"Senile degeneration of brain, not elsewhere classified"	"G31.1"	20	Not Applicable	Not Applicable
+	"Kansas"	"20"	"98 years"	"98"	"Hypertensive heart disease with (congestive) heart failure"	"I11.0"	17	Not Applicable	Not Applicable
+	"Kansas"	"20"	"98 years"	"98"	"Acute myocardial infarction, unspecified"	"I21.9"	13	Not Applicable	Not Applicable
+	"Kansas"	"20"	"98 years"	"98"	"Atherosclerotic heart disease"	"I25.1"	81	Not Applicable	Not Applicable
+	"Kansas"	"20"	"98 years"	"98"	"Aortic (valve) stenosis"	"I35.0"	17	Not Applicable	Not Applicable
+	"Kansas"	"20"	"98 years"	"98"	"Atrial fibrillation and flutter"	"I48"	15	Not Applicable	Not Applicable
+	"Kansas"	"20"	"98 years"	"98"	"Congestive heart failure"	"I50.0"	46	Not Applicable	Not Applicable
+	"Kansas"	"20"	"98 years"	"98"	"Heart failure, unspecified"	"I50.9"	10	Not Applicable	Not Applicable
+	"Kansas"	"20"	"98 years"	"98"	"Stroke, not specified as haemorrhage or infarction"	"I64"	38	Not Applicable	Not Applicable
+	"Kansas"	"20"	"98 years"	"98"	"Generalized and unspecified atherosclerosis"	"I70.9"	19	Not Applicable	Not Applicable
+	"Kansas"	"20"	"98 years"	"98"	"Pneumonia, unspecified"	"J18.9"	25	Not Applicable	Not Applicable
+	"Kansas"	"20"	"98 years"	"98"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	20	Not Applicable	Not Applicable
+	"Kansas"	"20"	"98 years"	"98"	"Pneumonitis due to food and vomit"	"J69.0"	11	Not Applicable	Not Applicable
+	"Kansas"	"20"	"98 years"	"98"	"Senility"	"R54"	13	Not Applicable	Not Applicable
+	"Kansas"	"20"	"98 years"	"98"	"COVID-19"	"U07.1"	24	Not Applicable	Not Applicable
+	"Kansas"	"20"	"98 years"	"98"	"Unspecified fall"	"W19"	15	Not Applicable	Not Applicable
+	"Kansas"	"20"	"99 years"	"99"	"Vascular dementia, unspecified"	"F01.9"	14	Not Applicable	Not Applicable
+	"Kansas"	"20"	"99 years"	"99"	"Unspecified dementia"	"F03"	84	Not Applicable	Not Applicable
+	"Kansas"	"20"	"99 years"	"99"	"Alzheimer disease, unspecified"	"G30.9"	57	Not Applicable	Not Applicable
+	"Kansas"	"20"	"99 years"	"99"	"Senile degeneration of brain, not elsewhere classified"	"G31.1"	28	Not Applicable	Not Applicable
+	"Kansas"	"20"	"99 years"	"99"	"Essential (primary) hypertension"	"I10"	12	Not Applicable	Not Applicable
+	"Kansas"	"20"	"99 years"	"99"	"Hypertensive heart disease with (congestive) heart failure"	"I11.0"	19	Not Applicable	Not Applicable
+	"Kansas"	"20"	"99 years"	"99"	"Acute myocardial infarction, unspecified"	"I21.9"	22	Not Applicable	Not Applicable
+	"Kansas"	"20"	"99 years"	"99"	"Atherosclerotic heart disease"	"I25.1"	47	Not Applicable	Not Applicable
+	"Kansas"	"20"	"99 years"	"99"	"Aortic (valve) stenosis"	"I35.0"	13	Not Applicable	Not Applicable
+	"Kansas"	"20"	"99 years"	"99"	"Atrial fibrillation and flutter"	"I48"	16	Not Applicable	Not Applicable
+	"Kansas"	"20"	"99 years"	"99"	"Congestive heart failure"	"I50.0"	41	Not Applicable	Not Applicable
+	"Kansas"	"20"	"99 years"	"99"	"Stroke, not specified as haemorrhage or infarction"	"I64"	35	Not Applicable	Not Applicable
+	"Kansas"	"20"	"99 years"	"99"	"Generalized and unspecified atherosclerosis"	"I70.9"	14	Not Applicable	Not Applicable
+	"Kansas"	"20"	"99 years"	"99"	"Pneumonia, unspecified"	"J18.9"	19	Not Applicable	Not Applicable
+	"Kansas"	"20"	"99 years"	"99"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	14	Not Applicable	Not Applicable
+	"Kansas"	"20"	"99 years"	"99"	"Senility"	"R54"	16	Not Applicable	Not Applicable
+	"Kansas"	"20"	"99 years"	"99"	"COVID-19"	"U07.1"	12	Not Applicable	Not Applicable
+	"Kansas"	"20"	"100+ years"	"100"	"Hyperlipidaemia, unspecified"	"E78.5"	10	Not Applicable	Not Applicable
+	"Kansas"	"20"	"100+ years"	"100"	"Vascular dementia, unspecified"	"F01.9"	19	Not Applicable	Not Applicable
+	"Kansas"	"20"	"100+ years"	"100"	"Unspecified dementia"	"F03"	188	Not Applicable	Not Applicable
+	"Kansas"	"20"	"100+ years"	"100"	"Alzheimer disease, unspecified"	"G30.9"	111	Not Applicable	Not Applicable
+	"Kansas"	"20"	"100+ years"	"100"	"Senile degeneration of brain, not elsewhere classified"	"G31.1"	37	Not Applicable	Not Applicable
+	"Kansas"	"20"	"100+ years"	"100"	"Essential (primary) hypertension"	"I10"	28	Not Applicable	Not Applicable
+	"Kansas"	"20"	"100+ years"	"100"	"Hypertensive heart disease with (congestive) heart failure"	"I11.0"	44	Not Applicable	Not Applicable
+	"Kansas"	"20"	"100+ years"	"100"	"Acute myocardial infarction, unspecified"	"I21.9"	38	Not Applicable	Not Applicable
+	"Kansas"	"20"	"100+ years"	"100"	"Atherosclerotic heart disease"	"I25.1"	126	Not Applicable	Not Applicable
+	"Kansas"	"20"	"100+ years"	"100"	"Chronic ischaemic heart disease, unspecified"	"I25.9"	10	Not Applicable	Not Applicable
+	"Kansas"	"20"	"100+ years"	"100"	"Other secondary pulmonary hypertension"	"I27.2"	11	Not Applicable	Not Applicable
+	"Kansas"	"20"	"100+ years"	"100"	"Aortic (valve) stenosis"	"I35.0"	21	Not Applicable	Not Applicable
+	"Kansas"	"20"	"100+ years"	"100"	"Atrial fibrillation and flutter"	"I48"	32	Not Applicable	Not Applicable
+	"Kansas"	"20"	"100+ years"	"100"	"Congestive heart failure"	"I50.0"	102	Not Applicable	Not Applicable
+	"Kansas"	"20"	"100+ years"	"100"	"Heart failure, unspecified"	"I50.9"	27	Not Applicable	Not Applicable
+	"Kansas"	"20"	"100+ years"	"100"	"Stroke, not specified as haemorrhage or infarction"	"I64"	41	Not Applicable	Not Applicable
+	"Kansas"	"20"	"100+ years"	"100"	"Cerebrovascular disease, unspecified"	"I67.9"	10	Not Applicable	Not Applicable
+	"Kansas"	"20"	"100+ years"	"100"	"Generalized and unspecified atherosclerosis"	"I70.9"	26	Not Applicable	Not Applicable
+	"Kansas"	"20"	"100+ years"	"100"	"Pneumonia, unspecified"	"J18.9"	34	Not Applicable	Not Applicable
+	"Kansas"	"20"	"100+ years"	"100"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	33	Not Applicable	Not Applicable
+	"Kansas"	"20"	"100+ years"	"100"	"Pneumonitis due to food and vomit"	"J69.0"	18	Not Applicable	Not Applicable
+	"Kansas"	"20"	"100+ years"	"100"	"Urinary tract infection, site not specified"	"N39.0"	10	Not Applicable	Not Applicable
+	"Kansas"	"20"	"100+ years"	"100"	"Senility"	"R54"	67	Not Applicable	Not Applicable
+	"Kansas"	"20"	"100+ years"	"100"	"Other ill-defined and unspecified causes of mortality"	"R99"	14	Not Applicable	Not Applicable
+	"Kansas"	"20"	"100+ years"	"100"	"COVID-19"	"U07.1"	34	Not Applicable	Not Applicable
+	"Kansas"	"20"	"100+ years"	"100"	"Unspecified fall"	"W19"	19	Not Applicable	Not Applicable
+"---"
+"Dataset: Underlying Cause of Death, 1999-2020"
+"Query Parameters:"
+"Title: Kansas CoD F"
+"Gender: Female"
+"States: Kansas (20)"
+"Year/Month: 2016; 2017; 2018; 2019; 2020"
+"Group By: State; Single-Year Ages; Cause of death"
+"Show Totals: Disabled"
+"Show Zero Values: Disabled"
+"Show Suppressed: False"
+"Calculate Rates Per: 100,000"
+"Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/ucd.html for more information."
+"---"
+"Query Date: Apr 8, 2022 2:26:18 AM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. Underlying Cause of Death"
+"1999-2020 on CDC WONDER Online Database, released in 2021. Data are from the Multiple Cause of Death Files, 1999-2020, as"
+"compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative Program. Accessed"
+"at http://wonder.cdc.gov/ucd-icd10.html on Apr 8, 2022 2:26:18 AM"
+"---"
+Messages:
+"1. The full results are too long to be displayed. Due to suppression constraints rows that are zero, suppressed or a total will"
+"not be available."
+"---"
+Caveats:
+"1. Population and rates are labeled 'Not Applicable' when they include a subset of ages 85-100+ because populations are not"
+"available for those ages. More information: http://wonder.cdc.gov/wonder/help/ucd.html#Ages 85-100."
+"2. Death rates are flagged as Unreliable when the rate is calculated with a numerator of 20 or less. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Unreliable."
+"3. Deaths of persons with Age ""Not Stated"" are included in ""All"" counts and rates, but are not distributed among age groups,"
+"so are not included in age-specific counts, age-specific rates or in any age-adjusted rates. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Not Stated."
+"4. The population figures for year 2020 are bridged-race estimates of the July 1 resident population, from the Vintage 2020"
+"postcensal series released by NCHS on September 22, 2021. The population figures for year 2019 are bridged-race estimates of the"
+"July 1 resident population, from the Vintage 2019 postcensal series released by NCHS on July 9, 2020. The population figures for"
+"year 2018 are bridged-race estimates of the July 1 resident population, from the Vintage 2018 postcensal series released by NCHS"
+"on June 25, 2019. The population figures for year 2017 are bridged-race estimates of the July 1 resident population, from the"
+"Vintage 2017 postcensal series released by NCHS on June 27, 2018. The population figures for year 2016 are bridged-race"
+"estimates of the July 1 resident population, from the Vintage 2016 postcensal series released by NCHS on June 26, 2017. The"
+"population figures for year 2015 are bridged-race estimates of the July 1 resident population, from the Vintage 2015 postcensal"
+"series released by NCHS on June 28, 2016. The population figures for year 2014 are bridged-race estimates of the July 1 resident"
+"population, from the Vintage 2014 postcensal series released by NCHS on June 30, 2015. The population figures for year 2013 are"
+"bridged-race estimates of the July 1 resident population, from the Vintage 2013 postcensal series released by NCHS on June 26,"
+"2014. The population figures for year 2012 are bridged-race estimates of the July 1 resident population, from the Vintage 2012"
+"postcensal series released by NCHS on June 13, 2013. The population figures for year 2011 are bridged-race estimates of the July"
+"1 resident population, from the Vintage 2011 postcensal series released by NCHS on July 18, 2012. Population figures for 2010"
+"are April 1 Census counts. The population figures for years 2001 - 2009 are bridged-race estimates of the July 1 resident"
+"population, from the revised intercensal county-level 2000 - 2009 series released by NCHS on October 26, 2012. Population"
+"figures for 2000 are April 1 Census counts. Population figures for 1999 are from the 1990-1999 intercensal series of July 1"
+"estimates. Population figures for the infant age groups are the number of live births. <br/><b>Note:</b> Rates and population"
+"figures for years 2001 - 2009 differ slightly from previously published reports, due to use of the population estimates which"
+"were available at the time of release."
+"5. The population figures used in the calculation of death rates for the age group 'under 1 year' are the estimates of the"
+"resident population that is under one year of age. More information: http://wonder.cdc.gov/wonder/help/ucd.html#Age Group."
+"6. Beginning with the 2018 data, changes have been implemented that affect the counts for ICD-10 cause of death codes O00-O99"
+"compared to previous practice. In addition, data for the cause of death codes O00-O99 for 2003 through 2017 reflect differences"
+"in information available to individual states and probable errors. Caution should be used in interpreting these data. More"
+"information can be found at: https://www.cdc.gov/nchs/maternal-mortality/."
+"7. On March 11, 2021, the 2019 mortality data on CDC WONDER was updated with the 2019 mortality data updated by NCHS on March 4,"
+"2021 to include corrected information for residents of Texas affecting 5 records previously coded to cause code *U01.4,"
+"Terrorism involving firearms (homicide). The underlying and multiple cause of death codes for 5 records were corrected in the"
+"2019 data. Underlying and multiple cause of death codes for those 5 records were recoded to Assault (homicide) by other and"
+"unspecified firearm discharge, ICD-10 code X95. The corrected final death records replaces the data released on December 22,"
+"2020."
+"8. Changes to cause of death classification affect reporting trends. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#ICD-10 Changes."

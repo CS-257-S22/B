@@ -1,0 +1,147 @@
+"Notes"	"State"	"State Code"	"Single-Year Ages"	"Single-Year Ages Code"	Deaths	Population	Crude Rate
+	"Rhode Island"	"44"	"< 1 year"	"0"	165	27243	605.7
+	"Rhode Island"	"44"	"1 year"	"1"	12	27652	Unreliable
+	"Rhode Island"	"44"	"18 years"	"18"	16	39238	Unreliable
+	"Rhode Island"	"44"	"19 years"	"19"	18	43730	Unreliable
+	"Rhode Island"	"44"	"20 years"	"20"	18	42016	Unreliable
+	"Rhode Island"	"44"	"21 years"	"21"	34	41106	82.7
+	"Rhode Island"	"44"	"22 years"	"22"	47	37571	125.1
+	"Rhode Island"	"44"	"23 years"	"23"	35	36318	96.4
+	"Rhode Island"	"44"	"24 years"	"24"	58	36650	158.3
+	"Rhode Island"	"44"	"25 years"	"25"	38	37579	101.1
+	"Rhode Island"	"44"	"26 years"	"26"	52	38737	134.2
+	"Rhode Island"	"44"	"27 years"	"27"	54	39115	138.1
+	"Rhode Island"	"44"	"28 years"	"28"	60	39507	151.9
+	"Rhode Island"	"44"	"29 years"	"29"	54	39080	138.2
+	"Rhode Island"	"44"	"30 years"	"30"	76	38109	199.4
+	"Rhode Island"	"44"	"31 years"	"31"	70	36627	191.1
+	"Rhode Island"	"44"	"32 years"	"32"	54	35599	151.7
+	"Rhode Island"	"44"	"33 years"	"33"	69	34818	198.2
+	"Rhode Island"	"44"	"34 years"	"34"	62	33890	182.9
+	"Rhode Island"	"44"	"35 years"	"35"	78	33474	233.0
+	"Rhode Island"	"44"	"36 years"	"36"	82	33215	246.9
+	"Rhode Island"	"44"	"37 years"	"37"	75	33011	227.2
+	"Rhode Island"	"44"	"38 years"	"38"	62	32060	193.4
+	"Rhode Island"	"44"	"39 years"	"39"	73	31168	234.2
+	"Rhode Island"	"44"	"40 years"	"40"	86	30308	283.8
+	"Rhode Island"	"44"	"41 years"	"41"	67	29364	228.2
+	"Rhode Island"	"44"	"42 years"	"42"	87	29097	299.0
+	"Rhode Island"	"44"	"43 years"	"43"	90	28894	311.5
+	"Rhode Island"	"44"	"44 years"	"44"	100	29288	341.4
+	"Rhode Island"	"44"	"45 years"	"45"	95	30123	315.4
+	"Rhode Island"	"44"	"46 years"	"46"	125	31232	400.2
+	"Rhode Island"	"44"	"47 years"	"47"	143	32195	444.2
+	"Rhode Island"	"44"	"48 years"	"48"	123	32914	373.7
+	"Rhode Island"	"44"	"49 years"	"49"	127	33405	380.2
+	"Rhode Island"	"44"	"50 years"	"50"	168	33947	494.9
+	"Rhode Island"	"44"	"51 years"	"51"	175	34645	505.1
+	"Rhode Island"	"44"	"52 years"	"52"	185	35516	520.9
+	"Rhode Island"	"44"	"53 years"	"53"	198	36180	547.3
+	"Rhode Island"	"44"	"54 years"	"54"	209	36457	573.3
+	"Rhode Island"	"44"	"55 years"	"55"	297	37049	801.6
+	"Rhode Island"	"44"	"56 years"	"56"	255	37166	686.1
+	"Rhode Island"	"44"	"57 years"	"57"	319	36786	867.2
+	"Rhode Island"	"44"	"58 years"	"58"	345	36869	935.7
+	"Rhode Island"	"44"	"59 years"	"59"	344	36426	944.4
+	"Rhode Island"	"44"	"60 years"	"60"	334	36039	926.8
+	"Rhode Island"	"44"	"61 years"	"61"	413	35340	1168.6
+	"Rhode Island"	"44"	"62 years"	"62"	394	34396	1145.5
+	"Rhode Island"	"44"	"63 years"	"63"	404	33141	1219.0
+	"Rhode Island"	"44"	"64 years"	"64"	454	31715	1431.5
+	"Rhode Island"	"44"	"65 years"	"65"	455	30013	1516.0
+	"Rhode Island"	"44"	"66 years"	"66"	425	28537	1489.3
+	"Rhode Island"	"44"	"67 years"	"67"	489	27439	1782.1
+	"Rhode Island"	"44"	"68 years"	"68"	443	26198	1691.0
+	"Rhode Island"	"44"	"69 years"	"69"	517	26018	1987.1
+	"Rhode Island"	"44"	"70 years"	"70"	556	24297	2288.3
+	"Rhode Island"	"44"	"71 years"	"71"	546	22423	2435.0
+	"Rhode Island"	"44"	"72 years"	"72"	563	20657	2725.5
+	"Rhode Island"	"44"	"73 years"	"73"	535	19358	2763.7
+	"Rhode Island"	"44"	"74 years"	"74"	548	17055	3213.1
+	"Rhode Island"	"44"	"75 years"	"75"	511	15942	3205.4
+	"Rhode Island"	"44"	"76 years"	"76"	598	14624	4089.2
+	"Rhode Island"	"44"	"77 years"	"77"	603	13410	4496.6
+	"Rhode Island"	"44"	"78 years"	"78"	554	11843	4677.9
+	"Rhode Island"	"44"	"79 years"	"79"	536	10913	4911.6
+	"Rhode Island"	"44"	"80 years"	"80"	572	10160	5629.9
+	"Rhode Island"	"44"	"81 years"	"81"	602	9249	6508.8
+	"Rhode Island"	"44"	"82 years"	"82"	641	8408	7623.7
+	"Rhode Island"	"44"	"83 years"	"83"	627	7876	7960.9
+	"Rhode Island"	"44"	"84 years"	"84"	632	7194	8785.1
+	"Rhode Island"	"44"	"85 years"	"85"	695	Not Applicable	Not Applicable
+	"Rhode Island"	"44"	"86 years"	"86"	678	Not Applicable	Not Applicable
+	"Rhode Island"	"44"	"87 years"	"87"	691	Not Applicable	Not Applicable
+	"Rhode Island"	"44"	"88 years"	"88"	734	Not Applicable	Not Applicable
+	"Rhode Island"	"44"	"89 years"	"89"	691	Not Applicable	Not Applicable
+	"Rhode Island"	"44"	"90 years"	"90"	643	Not Applicable	Not Applicable
+	"Rhode Island"	"44"	"91 years"	"91"	587	Not Applicable	Not Applicable
+	"Rhode Island"	"44"	"92 years"	"92"	567	Not Applicable	Not Applicable
+	"Rhode Island"	"44"	"93 years"	"93"	488	Not Applicable	Not Applicable
+	"Rhode Island"	"44"	"94 years"	"94"	437	Not Applicable	Not Applicable
+	"Rhode Island"	"44"	"95 years"	"95"	346	Not Applicable	Not Applicable
+	"Rhode Island"	"44"	"96 years"	"96"	282	Not Applicable	Not Applicable
+	"Rhode Island"	"44"	"97 years"	"97"	178	Not Applicable	Not Applicable
+	"Rhode Island"	"44"	"98 years"	"98"	144	Not Applicable	Not Applicable
+	"Rhode Island"	"44"	"99 years"	"99"	92	Not Applicable	Not Applicable
+	"Rhode Island"	"44"	"100+ years"	"100"	134	Not Applicable	Not Applicable
+"Total"	"Rhode Island"	"44"			25307	2572771	983.6
+"Total"					25307	2572771	983.6
+"---"
+"Dataset: Underlying Cause of Death, 1999-2020"
+"Query Parameters:"
+"Title: Rhode Island General M"
+"Gender: Male"
+"States: Rhode Island (44)"
+"Year/Month: 2016; 2017; 2018; 2019; 2020"
+"Group By: State; Single-Year Ages"
+"Show Totals: True"
+"Show Zero Values: False"
+"Show Suppressed: False"
+"Calculate Rates Per: 100,000"
+"Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/ucd.html for more information."
+"---"
+"Query Date: Apr 11, 2022 2:48:54 AM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. Underlying Cause of Death"
+"1999-2020 on CDC WONDER Online Database, released in 2021. Data are from the Multiple Cause of Death Files, 1999-2020, as"
+"compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative Program. Accessed"
+"at http://wonder.cdc.gov/ucd-icd10.html on Apr 11, 2022 2:48:54 AM"
+"---"
+Messages:
+"1. Rows with suppressed Deaths are hidden, but the Deaths and Population values in those rows are included in the totals. Use"
+"Quick Options above to show suppressed rows."
+"---"
+Caveats:
+"1. Population and rates are labeled 'Not Applicable' when they include a subset of ages 85-100+ because populations are not"
+"available for those ages. More information: http://wonder.cdc.gov/wonder/help/ucd.html#Ages 85-100."
+"2. Data are Suppressed when the data meet the criteria for confidentiality constraints. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Assurance of Confidentiality."
+"3. Death rates are flagged as Unreliable when the rate is calculated with a numerator of 20 or less. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Unreliable."
+"4. Deaths of persons with Age ""Not Stated"" are included in ""All"" counts and rates, but are not distributed among age groups,"
+"so are not included in age-specific counts, age-specific rates or in any age-adjusted rates. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Not Stated."
+"5. The population figures for year 2020 are bridged-race estimates of the July 1 resident population, from the Vintage 2020"
+"postcensal series released by NCHS on September 22, 2021. The population figures for year 2019 are bridged-race estimates of the"
+"July 1 resident population, from the Vintage 2019 postcensal series released by NCHS on July 9, 2020. The population figures for"
+"year 2018 are bridged-race estimates of the July 1 resident population, from the Vintage 2018 postcensal series released by NCHS"
+"on June 25, 2019. The population figures for year 2017 are bridged-race estimates of the July 1 resident population, from the"
+"Vintage 2017 postcensal series released by NCHS on June 27, 2018. The population figures for year 2016 are bridged-race"
+"estimates of the July 1 resident population, from the Vintage 2016 postcensal series released by NCHS on June 26, 2017. The"
+"population figures for year 2015 are bridged-race estimates of the July 1 resident population, from the Vintage 2015 postcensal"
+"series released by NCHS on June 28, 2016. The population figures for year 2014 are bridged-race estimates of the July 1 resident"
+"population, from the Vintage 2014 postcensal series released by NCHS on June 30, 2015. The population figures for year 2013 are"
+"bridged-race estimates of the July 1 resident population, from the Vintage 2013 postcensal series released by NCHS on June 26,"
+"2014. The population figures for year 2012 are bridged-race estimates of the July 1 resident population, from the Vintage 2012"
+"postcensal series released by NCHS on June 13, 2013. The population figures for year 2011 are bridged-race estimates of the July"
+"1 resident population, from the Vintage 2011 postcensal series released by NCHS on July 18, 2012. Population figures for 2010"
+"are April 1 Census counts. The population figures for years 2001 - 2009 are bridged-race estimates of the July 1 resident"
+"population, from the revised intercensal county-level 2000 - 2009 series released by NCHS on October 26, 2012. Population"
+"figures for 2000 are April 1 Census counts. Population figures for 1999 are from the 1990-1999 intercensal series of July 1"
+"estimates. Population figures for the infant age groups are the number of live births. <br/><b>Note:</b> Rates and population"
+"figures for years 2001 - 2009 differ slightly from previously published reports, due to use of the population estimates which"
+"were available at the time of release."
+"6. The population figures used in the calculation of death rates for the age group 'under 1 year' are the estimates of the"
+"resident population that is under one year of age. More information: http://wonder.cdc.gov/wonder/help/ucd.html#Age Group."

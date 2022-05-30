@@ -1,0 +1,152 @@
+"Notes"	"State"	"State Code"	"Single-Year Ages"	"Single-Year Ages Code"	Deaths	Population	Crude Rate
+	"Montana"	"30"	"< 1 year"	"0"	163	30966	526.4
+	"Montana"	"30"	"1 year"	"1"	13	31092	Unreliable
+	"Montana"	"30"	"13 years"	"13"	13	33045	Unreliable
+	"Montana"	"30"	"14 years"	"14"	10	32426	Unreliable
+	"Montana"	"30"	"15 years"	"15"	10	32237	Unreliable
+	"Montana"	"30"	"16 years"	"16"	28	32821	85.3
+	"Montana"	"30"	"17 years"	"17"	28	32769	85.4
+	"Montana"	"30"	"18 years"	"18"	47	32378	145.2
+	"Montana"	"30"	"19 years"	"19"	46	35926	128.0
+	"Montana"	"30"	"20 years"	"20"	53	36326	145.9
+	"Montana"	"30"	"21 years"	"21"	55	37795	145.5
+	"Montana"	"30"	"22 years"	"22"	60	39097	153.5
+	"Montana"	"30"	"23 years"	"23"	59	39668	148.7
+	"Montana"	"30"	"24 years"	"24"	56	38813	144.3
+	"Montana"	"30"	"25 years"	"25"	66	37581	175.6
+	"Montana"	"30"	"26 years"	"26"	63	37017	170.2
+	"Montana"	"30"	"27 years"	"27"	58	36632	158.3
+	"Montana"	"30"	"28 years"	"28"	61	35888	170.0
+	"Montana"	"30"	"29 years"	"29"	76	34594	219.7
+	"Montana"	"30"	"30 years"	"30"	62	33903	182.9
+	"Montana"	"30"	"31 years"	"31"	89	33925	262.3
+	"Montana"	"30"	"32 years"	"32"	90	33957	265.0
+	"Montana"	"30"	"33 years"	"33"	66	34144	193.3
+	"Montana"	"30"	"34 years"	"34"	77	34440	223.6
+	"Montana"	"30"	"35 years"	"35"	68	34911	194.8
+	"Montana"	"30"	"36 years"	"36"	82	34865	235.2
+	"Montana"	"30"	"37 years"	"37"	79	34820	226.9
+	"Montana"	"30"	"38 years"	"38"	86	34117	252.1
+	"Montana"	"30"	"39 years"	"39"	95	33524	283.4
+	"Montana"	"30"	"40 years"	"40"	100	32181	310.7
+	"Montana"	"30"	"41 years"	"41"	106	31015	341.8
+	"Montana"	"30"	"42 years"	"42"	99	30143	328.4
+	"Montana"	"30"	"43 years"	"43"	97	29274	331.4
+	"Montana"	"30"	"44 years"	"44"	93	29027	320.4
+	"Montana"	"30"	"45 years"	"45"	103	29100	354.0
+	"Montana"	"30"	"46 years"	"46"	111	29632	374.6
+	"Montana"	"30"	"47 years"	"47"	122	29907	407.9
+	"Montana"	"30"	"48 years"	"48"	124	29733	417.0
+	"Montana"	"30"	"49 years"	"49"	156	29961	520.7
+	"Montana"	"30"	"50 years"	"50"	178	29807	597.2
+	"Montana"	"30"	"51 years"	"51"	159	29573	537.7
+	"Montana"	"30"	"52 years"	"52"	175	30725	569.6
+	"Montana"	"30"	"53 years"	"53"	206	31638	651.1
+	"Montana"	"30"	"54 years"	"54"	210	32971	636.9
+	"Montana"	"30"	"55 years"	"55"	255	34609	736.8
+	"Montana"	"30"	"56 years"	"56"	312	35775	872.1
+	"Montana"	"30"	"57 years"	"57"	330	36591	901.9
+	"Montana"	"30"	"58 years"	"58"	359	37150	966.4
+	"Montana"	"30"	"59 years"	"59"	371	37460	990.4
+	"Montana"	"30"	"60 years"	"60"	433	37745	1147.2
+	"Montana"	"30"	"61 years"	"61"	438	37470	1168.9
+	"Montana"	"30"	"62 years"	"62"	475	37328	1272.5
+	"Montana"	"30"	"63 years"	"63"	472	37118	1271.6
+	"Montana"	"30"	"64 years"	"64"	519	36672	1415.2
+	"Montana"	"30"	"65 years"	"65"	544	36118	1506.2
+	"Montana"	"30"	"66 years"	"66"	548	35311	1551.9
+	"Montana"	"30"	"67 years"	"67"	597	34357	1737.6
+	"Montana"	"30"	"68 years"	"68"	596	33016	1805.2
+	"Montana"	"30"	"69 years"	"69"	636	32208	1974.7
+	"Montana"	"30"	"70 years"	"70"	626	29741	2104.8
+	"Montana"	"30"	"71 years"	"71"	669	27601	2423.8
+	"Montana"	"30"	"72 years"	"72"	663	25549	2595.0
+	"Montana"	"30"	"73 years"	"73"	649	23683	2740.4
+	"Montana"	"30"	"74 years"	"74"	656	21107	3108.0
+	"Montana"	"30"	"75 years"	"75"	676	19829	3409.1
+	"Montana"	"30"	"76 years"	"76"	730	18278	3993.9
+	"Montana"	"30"	"77 years"	"77"	711	16866	4215.6
+	"Montana"	"30"	"78 years"	"78"	710	15070	4711.3
+	"Montana"	"30"	"79 years"	"79"	693	13728	5048.1
+	"Montana"	"30"	"80 years"	"80"	749	12377	6051.5
+	"Montana"	"30"	"81 years"	"81"	713	11232	6347.9
+	"Montana"	"30"	"82 years"	"82"	696	10062	6917.1
+	"Montana"	"30"	"83 years"	"83"	735	9018	8150.4
+	"Montana"	"30"	"84 years"	"84"	677	8004	8458.3
+	"Montana"	"30"	"85 years"	"85"	702	Not Applicable	Not Applicable
+	"Montana"	"30"	"86 years"	"86"	681	Not Applicable	Not Applicable
+	"Montana"	"30"	"87 years"	"87"	720	Not Applicable	Not Applicable
+	"Montana"	"30"	"88 years"	"88"	703	Not Applicable	Not Applicable
+	"Montana"	"30"	"89 years"	"89"	708	Not Applicable	Not Applicable
+	"Montana"	"30"	"90 years"	"90"	629	Not Applicable	Not Applicable
+	"Montana"	"30"	"91 years"	"91"	573	Not Applicable	Not Applicable
+	"Montana"	"30"	"92 years"	"92"	429	Not Applicable	Not Applicable
+	"Montana"	"30"	"93 years"	"93"	397	Not Applicable	Not Applicable
+	"Montana"	"30"	"94 years"	"94"	337	Not Applicable	Not Applicable
+	"Montana"	"30"	"95 years"	"95"	267	Not Applicable	Not Applicable
+	"Montana"	"30"	"96 years"	"96"	229	Not Applicable	Not Applicable
+	"Montana"	"30"	"97 years"	"97"	163	Not Applicable	Not Applicable
+	"Montana"	"30"	"98 years"	"98"	113	Not Applicable	Not Applicable
+	"Montana"	"30"	"99 years"	"99"	83	Not Applicable	Not Applicable
+	"Montana"	"30"	"100+ years"	"100"	125	Not Applicable	Not Applicable
+"Total"	"Montana"	"30"			27955	2670750	1046.7
+"Total"					27955	2670750	1046.7
+"---"
+"Dataset: Underlying Cause of Death, 1999-2020"
+"Query Parameters:"
+"Title: Montana General M"
+"Gender: Male"
+"States: Montana (30)"
+"Year/Month: 2016; 2017; 2018; 2019; 2020"
+"Group By: State; Single-Year Ages"
+"Show Totals: True"
+"Show Zero Values: False"
+"Show Suppressed: False"
+"Calculate Rates Per: 100,000"
+"Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/ucd.html for more information."
+"---"
+"Query Date: Apr 10, 2022 9:14:24 PM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. Underlying Cause of Death"
+"1999-2020 on CDC WONDER Online Database, released in 2021. Data are from the Multiple Cause of Death Files, 1999-2020, as"
+"compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative Program. Accessed"
+"at http://wonder.cdc.gov/ucd-icd10.html on Apr 10, 2022 9:14:24 PM"
+"---"
+Messages:
+"1. Rows with suppressed Deaths are hidden, but the Deaths and Population values in those rows are included in the totals. Use"
+"Quick Options above to show suppressed rows."
+"---"
+Caveats:
+"1. Population and rates are labeled 'Not Applicable' when they include a subset of ages 85-100+ because populations are not"
+"available for those ages. More information: http://wonder.cdc.gov/wonder/help/ucd.html#Ages 85-100."
+"2. Data are Suppressed when the data meet the criteria for confidentiality constraints. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Assurance of Confidentiality."
+"3. Death rates are flagged as Unreliable when the rate is calculated with a numerator of 20 or less. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Unreliable."
+"4. Deaths of persons with Age ""Not Stated"" are included in ""All"" counts and rates, but are not distributed among age groups,"
+"so are not included in age-specific counts, age-specific rates or in any age-adjusted rates. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Not Stated."
+"5. The population figures for year 2020 are bridged-race estimates of the July 1 resident population, from the Vintage 2020"
+"postcensal series released by NCHS on September 22, 2021. The population figures for year 2019 are bridged-race estimates of the"
+"July 1 resident population, from the Vintage 2019 postcensal series released by NCHS on July 9, 2020. The population figures for"
+"year 2018 are bridged-race estimates of the July 1 resident population, from the Vintage 2018 postcensal series released by NCHS"
+"on June 25, 2019. The population figures for year 2017 are bridged-race estimates of the July 1 resident population, from the"
+"Vintage 2017 postcensal series released by NCHS on June 27, 2018. The population figures for year 2016 are bridged-race"
+"estimates of the July 1 resident population, from the Vintage 2016 postcensal series released by NCHS on June 26, 2017. The"
+"population figures for year 2015 are bridged-race estimates of the July 1 resident population, from the Vintage 2015 postcensal"
+"series released by NCHS on June 28, 2016. The population figures for year 2014 are bridged-race estimates of the July 1 resident"
+"population, from the Vintage 2014 postcensal series released by NCHS on June 30, 2015. The population figures for year 2013 are"
+"bridged-race estimates of the July 1 resident population, from the Vintage 2013 postcensal series released by NCHS on June 26,"
+"2014. The population figures for year 2012 are bridged-race estimates of the July 1 resident population, from the Vintage 2012"
+"postcensal series released by NCHS on June 13, 2013. The population figures for year 2011 are bridged-race estimates of the July"
+"1 resident population, from the Vintage 2011 postcensal series released by NCHS on July 18, 2012. Population figures for 2010"
+"are April 1 Census counts. The population figures for years 2001 - 2009 are bridged-race estimates of the July 1 resident"
+"population, from the revised intercensal county-level 2000 - 2009 series released by NCHS on October 26, 2012. Population"
+"figures for 2000 are April 1 Census counts. Population figures for 1999 are from the 1990-1999 intercensal series of July 1"
+"estimates. Population figures for the infant age groups are the number of live births. <br/><b>Note:</b> Rates and population"
+"figures for years 2001 - 2009 differ slightly from previously published reports, due to use of the population estimates which"
+"were available at the time of release."
+"6. The population figures used in the calculation of death rates for the age group 'under 1 year' are the estimates of the"
+"resident population that is under one year of age. More information: http://wonder.cdc.gov/wonder/help/ucd.html#Age Group."

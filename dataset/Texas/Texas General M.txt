@@ -1,0 +1,158 @@
+"Notes"	"State"	"State Code"	"Single-Year Ages"	"Single-Year Ages Code"	Deaths	Population	Crude Rate
+	"Texas"	"48"	"< 1 year"	"0"	5918	998819	592.5
+	"Texas"	"48"	"1 year"	"1"	448	1010830	44.3
+	"Texas"	"48"	"2 years"	"2"	281	1028622	27.3
+	"Texas"	"48"	"3 years"	"3"	265	1040105	25.5
+	"Texas"	"48"	"4 years"	"4"	191	1045837	18.3
+	"Texas"	"48"	"5 years"	"5"	162	1045715	15.5
+	"Texas"	"48"	"6 years"	"6"	134	1043233	12.8
+	"Texas"	"48"	"7 years"	"7"	137	1042351	13.1
+	"Texas"	"48"	"8 years"	"8"	135	1049504	12.9
+	"Texas"	"48"	"9 years"	"9"	106	1058247	10.0
+	"Texas"	"48"	"10 years"	"10"	147	1062124	13.8
+	"Texas"	"48"	"11 years"	"11"	179	1064035	16.8
+	"Texas"	"48"	"12 years"	"12"	161	1066796	15.1
+	"Texas"	"48"	"13 years"	"13"	212	1059773	20.0
+	"Texas"	"48"	"14 years"	"14"	290	1052810	27.5
+	"Texas"	"48"	"15 years"	"15"	383	1049494	36.5
+	"Texas"	"48"	"16 years"	"16"	598	1048358	57.0
+	"Texas"	"48"	"17 years"	"17"	760	1043478	72.8
+	"Texas"	"48"	"18 years"	"18"	959	1020940	93.9
+	"Texas"	"48"	"19 years"	"19"	1186	1016846	116.6
+	"Texas"	"48"	"20 years"	"20"	1216	1008966	120.5
+	"Texas"	"48"	"21 years"	"21"	1370	1006339	136.1
+	"Texas"	"48"	"22 years"	"22"	1398	1025677	136.3
+	"Texas"	"48"	"23 years"	"23"	1426	1051194	135.7
+	"Texas"	"48"	"24 years"	"24"	1435	1075686	133.4
+	"Texas"	"48"	"25 years"	"25"	1559	1092255	142.7
+	"Texas"	"48"	"26 years"	"26"	1556	1100756	141.4
+	"Texas"	"48"	"27 years"	"27"	1566	1100800	142.3
+	"Texas"	"48"	"28 years"	"28"	1656	1091653	151.7
+	"Texas"	"48"	"29 years"	"29"	1677	1079147	155.4
+	"Texas"	"48"	"30 years"	"30"	1626	1066664	152.4
+	"Texas"	"48"	"31 years"	"31"	1652	1059728	155.9
+	"Texas"	"48"	"32 years"	"32"	1787	1050359	170.1
+	"Texas"	"48"	"33 years"	"33"	1777	1048356	169.5
+	"Texas"	"48"	"34 years"	"34"	1896	1044591	181.5
+	"Texas"	"48"	"35 years"	"35"	1879	1038051	181.0
+	"Texas"	"48"	"36 years"	"36"	1944	1030777	188.6
+	"Texas"	"48"	"37 years"	"37"	2136	1021423	209.1
+	"Texas"	"48"	"38 years"	"38"	2153	999625	215.4
+	"Texas"	"48"	"39 years"	"39"	2140	979164	218.6
+	"Texas"	"48"	"40 years"	"40"	2219	957299	231.8
+	"Texas"	"48"	"41 years"	"41"	2257	935509	241.3
+	"Texas"	"48"	"42 years"	"42"	2363	921433	256.4
+	"Texas"	"48"	"43 years"	"43"	2495	914662	272.8
+	"Texas"	"48"	"44 years"	"44"	2703	911454	296.6
+	"Texas"	"48"	"45 years"	"45"	3053	918221	332.5
+	"Texas"	"48"	"46 years"	"46"	3239	918239	352.7
+	"Texas"	"48"	"47 years"	"47"	3528	917256	384.6
+	"Texas"	"48"	"48 years"	"48"	3834	905471	423.4
+	"Texas"	"48"	"49 years"	"49"	4133	887273	465.8
+	"Texas"	"48"	"50 years"	"50"	4339	864379	502.0
+	"Texas"	"48"	"51 years"	"51"	4650	847157	548.9
+	"Texas"	"48"	"52 years"	"52"	5208	845500	616.0
+	"Texas"	"48"	"53 years"	"53"	5662	849114	666.8
+	"Texas"	"48"	"54 years"	"54"	6393	852025	750.3
+	"Texas"	"48"	"55 years"	"55"	6986	855321	816.8
+	"Texas"	"48"	"56 years"	"56"	7378	850929	867.1
+	"Texas"	"48"	"57 years"	"57"	8188	839623	975.2
+	"Texas"	"48"	"58 years"	"58"	8661	824554	1050.4
+	"Texas"	"48"	"59 years"	"59"	9511	808151	1176.9
+	"Texas"	"48"	"60 years"	"60"	9722	785329	1238.0
+	"Texas"	"48"	"61 years"	"61"	10416	758620	1373.0
+	"Texas"	"48"	"62 years"	"62"	10804	731251	1477.5
+	"Texas"	"48"	"63 years"	"63"	11139	700733	1589.6
+	"Texas"	"48"	"64 years"	"64"	11481	666613	1722.3
+	"Texas"	"48"	"65 years"	"65"	11391	634002	1796.7
+	"Texas"	"48"	"66 years"	"66"	11595	602044	1925.9
+	"Texas"	"48"	"67 years"	"67"	11700	575156	2034.2
+	"Texas"	"48"	"68 years"	"68"	11968	552475	2166.3
+	"Texas"	"48"	"69 years"	"69"	12280	538129	2282.0
+	"Texas"	"48"	"70 years"	"70"	12562	502448	2500.2
+	"Texas"	"48"	"71 years"	"71"	12677	467825	2709.8
+	"Texas"	"48"	"72 years"	"72"	12807	434736	2945.9
+	"Texas"	"48"	"73 years"	"73"	12850	401389	3201.4
+	"Texas"	"48"	"74 years"	"74"	12647	357237	3540.2
+	"Texas"	"48"	"75 years"	"75"	12853	332767	3862.5
+	"Texas"	"48"	"76 years"	"76"	12835	306248	4191.0
+	"Texas"	"48"	"77 years"	"77"	12693	279009	4549.3
+	"Texas"	"48"	"78 years"	"78"	12646	251373	5030.8
+	"Texas"	"48"	"79 years"	"79"	12642	228992	5520.7
+	"Texas"	"48"	"80 years"	"80"	12702	208175	6101.6
+	"Texas"	"48"	"81 years"	"81"	12836	190256	6746.7
+	"Texas"	"48"	"82 years"	"82"	12642	171770	7359.8
+	"Texas"	"48"	"83 years"	"83"	12384	153996	8041.8
+	"Texas"	"48"	"84 years"	"84"	12725	138583	9182.2
+	"Texas"	"48"	"85 years"	"85"	12372	Not Applicable	Not Applicable
+	"Texas"	"48"	"86 years"	"86"	11862	Not Applicable	Not Applicable
+	"Texas"	"48"	"87 years"	"87"	11526	Not Applicable	Not Applicable
+	"Texas"	"48"	"88 years"	"88"	10827	Not Applicable	Not Applicable
+	"Texas"	"48"	"89 years"	"89"	10092	Not Applicable	Not Applicable
+	"Texas"	"48"	"90 years"	"90"	9320	Not Applicable	Not Applicable
+	"Texas"	"48"	"91 years"	"91"	8378	Not Applicable	Not Applicable
+	"Texas"	"48"	"92 years"	"92"	7172	Not Applicable	Not Applicable
+	"Texas"	"48"	"93 years"	"93"	6161	Not Applicable	Not Applicable
+	"Texas"	"48"	"94 years"	"94"	5072	Not Applicable	Not Applicable
+	"Texas"	"48"	"95 years"	"95"	4000	Not Applicable	Not Applicable
+	"Texas"	"48"	"96 years"	"96"	3017	Not Applicable	Not Applicable
+	"Texas"	"48"	"97 years"	"97"	2233	Not Applicable	Not Applicable
+	"Texas"	"48"	"98 years"	"98"	1540	Not Applicable	Not Applicable
+	"Texas"	"48"	"99 years"	"99"	1028	Not Applicable	Not Applicable
+	"Texas"	"48"	"100+ years"	"100"	1527	Not Applicable	Not Applicable
+	"Texas"	"48"	"Not Stated"	"NS"	17	Not Applicable	Not Applicable
+"Total"	"Texas"	"48"			552442	71137084	776.6
+"Total"					552442	71137084	776.6
+"---"
+"Dataset: Underlying Cause of Death, 1999-2020"
+"Query Parameters:"
+"Title: Texas General M"
+"Gender: Male"
+"States: Texas (48)"
+"Year/Month: 2016; 2017; 2018; 2019; 2020"
+"Group By: State; Single-Year Ages"
+"Show Totals: True"
+"Show Zero Values: False"
+"Show Suppressed: False"
+"Calculate Rates Per: 100,000"
+"Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/ucd.html for more information."
+"---"
+"Query Date: Apr 11, 2022 3:04:05 AM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. Underlying Cause of Death"
+"1999-2020 on CDC WONDER Online Database, released in 2021. Data are from the Multiple Cause of Death Files, 1999-2020, as"
+"compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative Program. Accessed"
+"at http://wonder.cdc.gov/ucd-icd10.html on Apr 11, 2022 3:04:05 AM"
+"---"
+Caveats:
+"1. Population and rates are labeled 'Not Applicable' when they include a subset of ages 85-100+ because populations are not"
+"available for those ages. More information: http://wonder.cdc.gov/wonder/help/ucd.html#Ages 85-100."
+"2. Death rates are flagged as Unreliable when the rate is calculated with a numerator of 20 or less. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Unreliable."
+"3. Deaths of persons with Age ""Not Stated"" are included in ""All"" counts and rates, but are not distributed among age groups,"
+"so are not included in age-specific counts, age-specific rates or in any age-adjusted rates. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Not Stated."
+"4. The population figures for year 2020 are bridged-race estimates of the July 1 resident population, from the Vintage 2020"
+"postcensal series released by NCHS on September 22, 2021. The population figures for year 2019 are bridged-race estimates of the"
+"July 1 resident population, from the Vintage 2019 postcensal series released by NCHS on July 9, 2020. The population figures for"
+"year 2018 are bridged-race estimates of the July 1 resident population, from the Vintage 2018 postcensal series released by NCHS"
+"on June 25, 2019. The population figures for year 2017 are bridged-race estimates of the July 1 resident population, from the"
+"Vintage 2017 postcensal series released by NCHS on June 27, 2018. The population figures for year 2016 are bridged-race"
+"estimates of the July 1 resident population, from the Vintage 2016 postcensal series released by NCHS on June 26, 2017. The"
+"population figures for year 2015 are bridged-race estimates of the July 1 resident population, from the Vintage 2015 postcensal"
+"series released by NCHS on June 28, 2016. The population figures for year 2014 are bridged-race estimates of the July 1 resident"
+"population, from the Vintage 2014 postcensal series released by NCHS on June 30, 2015. The population figures for year 2013 are"
+"bridged-race estimates of the July 1 resident population, from the Vintage 2013 postcensal series released by NCHS on June 26,"
+"2014. The population figures for year 2012 are bridged-race estimates of the July 1 resident population, from the Vintage 2012"
+"postcensal series released by NCHS on June 13, 2013. The population figures for year 2011 are bridged-race estimates of the July"
+"1 resident population, from the Vintage 2011 postcensal series released by NCHS on July 18, 2012. Population figures for 2010"
+"are April 1 Census counts. The population figures for years 2001 - 2009 are bridged-race estimates of the July 1 resident"
+"population, from the revised intercensal county-level 2000 - 2009 series released by NCHS on October 26, 2012. Population"
+"figures for 2000 are April 1 Census counts. Population figures for 1999 are from the 1990-1999 intercensal series of July 1"
+"estimates. Population figures for the infant age groups are the number of live births. <br/><b>Note:</b> Rates and population"
+"figures for years 2001 - 2009 differ slightly from previously published reports, due to use of the population estimates which"
+"were available at the time of release."
+"5. The population figures used in the calculation of death rates for the age group 'under 1 year' are the estimates of the"
+"resident population that is under one year of age. More information: http://wonder.cdc.gov/wonder/help/ucd.html#Age Group."

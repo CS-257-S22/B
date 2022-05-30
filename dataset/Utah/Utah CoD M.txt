@@ -1,0 +1,1143 @@
+"Notes"	"State"	"State Code"	"Single-Year Ages"	"Single-Year Ages Code"	"Cause of death"	"Cause of death Code"	Deaths	Population	Crude Rate
+	"Utah"	"49"	"< 1 year"	"0"	"Newborn affected by incompetent cervix"	"P01.0"	16	127357	Unreliable
+	"Utah"	"49"	"< 1 year"	"0"	"Newborn affected by premature rupture of membranes"	"P01.1"	39	127357	30.6
+	"Utah"	"49"	"< 1 year"	"0"	"Newborn affected by other forms of placental separation and haemorrhage"	"P02.1"	16	127357	Unreliable
+	"Utah"	"49"	"< 1 year"	"0"	"Newborn affected by chorioamnionitis"	"P02.7"	16	127357	Unreliable
+	"Utah"	"49"	"< 1 year"	"0"	"Extreme immaturity"	"P07.2"	78	127357	61.2
+	"Utah"	"49"	"< 1 year"	"0"	"Other preterm infants"	"P07.3"	37	127357	29.1
+	"Utah"	"49"	"< 1 year"	"0"	"Neonatal cardiac failure"	"P29.0"	13	127357	Unreliable
+	"Utah"	"49"	"< 1 year"	"0"	"Bacterial sepsis of newborn, unspecified"	"P36.9"	18	127357	Unreliable
+	"Utah"	"49"	"< 1 year"	"0"	"Hydrops fetalis not due to haemolytic disease"	"P83.2"	10	127357	Unreliable
+	"Utah"	"49"	"< 1 year"	"0"	"Anencephaly"	"Q00.0"	16	127357	Unreliable
+	"Utah"	"49"	"< 1 year"	"0"	"Hypoplastic left heart syndrome"	"Q23.4"	19	127357	Unreliable
+	"Utah"	"49"	"< 1 year"	"0"	"Hypoplasia and dysplasia of lung"	"Q33.6"	14	127357	Unreliable
+	"Utah"	"49"	"< 1 year"	"0"	"Edwards syndrome, unspecified"	"Q91.3"	26	127357	20.4
+	"Utah"	"49"	"< 1 year"	"0"	"Patau syndrome, unspecified"	"Q91.7"	10	127357	Unreliable
+	"Utah"	"49"	"< 1 year"	"0"	"Sudden infant death syndrome - SIDS"	"R95"	47	127357	36.9
+	"Utah"	"49"	"< 1 year"	"0"	"Other ill-defined and unspecified causes of mortality"	"R99"	21	127357	16.5
+	"Utah"	"49"	"14 years"	"14"	"Intentional self-harm by hanging, strangulation and suffocation"	"X70"	13	133917	Unreliable
+	"Utah"	"49"	"16 years"	"16"	"Intentional self-harm by hanging, strangulation and suffocation"	"X70"	13	131812	Unreliable
+	"Utah"	"49"	"17 years"	"17"	"Intentional self-harm by handgun discharge"	"X72"	11	129883	Unreliable
+	"Utah"	"49"	"17 years"	"17"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	13	129883	Unreliable
+	"Utah"	"49"	"18 years"	"18"	"Intentional self-harm by hanging, strangulation and suffocation"	"X70"	17	124389	Unreliable
+	"Utah"	"49"	"18 years"	"18"	"Intentional self-harm by handgun discharge"	"X72"	10	124389	Unreliable
+	"Utah"	"49"	"18 years"	"18"	"Intentional self-harm by rifle, shotgun and larger firearm discharge"	"X73"	10	124389	Unreliable
+	"Utah"	"49"	"18 years"	"18"	"Assault by other and unspecified firearm discharge"	"X95"	10	124389	Unreliable
+	"Utah"	"49"	"19 years"	"19"	"Intentional self-harm by hanging, strangulation and suffocation"	"X70"	12	112992	Unreliable
+	"Utah"	"49"	"20 years"	"20"	"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X42"	11	108121	Unreliable
+	"Utah"	"49"	"20 years"	"20"	"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X44"	10	108121	Unreliable
+	"Utah"	"49"	"20 years"	"20"	"Intentional self-harm by hanging, strangulation and suffocation"	"X70"	25	108121	23.1
+	"Utah"	"49"	"21 years"	"21"	"Intentional self-harm by hanging, strangulation and suffocation"	"X70"	15	123880	Unreliable
+	"Utah"	"49"	"21 years"	"21"	"Intentional self-harm by handgun discharge"	"X72"	11	123880	Unreliable
+	"Utah"	"49"	"22 years"	"22"	"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X42"	13	142267	Unreliable
+	"Utah"	"49"	"22 years"	"22"	"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X44"	17	142267	Unreliable
+	"Utah"	"49"	"22 years"	"22"	"Intentional self-harm by hanging, strangulation and suffocation"	"X70"	15	142267	Unreliable
+	"Utah"	"49"	"22 years"	"22"	"Intentional self-harm by handgun discharge"	"X72"	12	142267	Unreliable
+	"Utah"	"49"	"22 years"	"22"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	10	142267	Unreliable
+	"Utah"	"49"	"23 years"	"23"	"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X44"	23	150197	15.3
+	"Utah"	"49"	"23 years"	"23"	"Intentional self-harm by hanging, strangulation and suffocation"	"X70"	14	150197	Unreliable
+	"Utah"	"49"	"23 years"	"23"	"Intentional self-harm by handgun discharge"	"X72"	22	150197	14.6
+	"Utah"	"49"	"23 years"	"23"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	14	150197	Unreliable
+	"Utah"	"49"	"24 years"	"24"	"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X42"	10	144538	Unreliable
+	"Utah"	"49"	"24 years"	"24"	"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X44"	12	144538	Unreliable
+	"Utah"	"49"	"24 years"	"24"	"Intentional self-harm by hanging, strangulation and suffocation"	"X70"	16	144538	Unreliable
+	"Utah"	"49"	"24 years"	"24"	"Intentional self-harm by handgun discharge"	"X72"	20	144538	13.8
+	"Utah"	"49"	"24 years"	"24"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	12	144538	Unreliable
+	"Utah"	"49"	"25 years"	"25"	"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X44"	15	136401	Unreliable
+	"Utah"	"49"	"25 years"	"25"	"Intentional self-harm by hanging, strangulation and suffocation"	"X70"	17	136401	Unreliable
+	"Utah"	"49"	"25 years"	"25"	"Intentional self-harm by handgun discharge"	"X72"	17	136401	Unreliable
+	"Utah"	"49"	"26 years"	"26"	"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X44"	16	128932	Unreliable
+	"Utah"	"49"	"26 years"	"26"	"Intentional self-harm by hanging, strangulation and suffocation"	"X70"	17	128932	Unreliable
+	"Utah"	"49"	"26 years"	"26"	"Intentional self-harm by handgun discharge"	"X72"	20	128932	15.5
+	"Utah"	"49"	"26 years"	"26"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	12	128932	Unreliable
+	"Utah"	"49"	"27 years"	"27"	"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X42"	11	124172	Unreliable
+	"Utah"	"49"	"27 years"	"27"	"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X44"	17	124172	Unreliable
+	"Utah"	"49"	"27 years"	"27"	"Intentional self-harm by hanging, strangulation and suffocation"	"X70"	12	124172	Unreliable
+	"Utah"	"49"	"27 years"	"27"	"Intentional self-harm by handgun discharge"	"X72"	18	124172	Unreliable
+	"Utah"	"49"	"27 years"	"27"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	10	124172	Unreliable
+	"Utah"	"49"	"28 years"	"28"	"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X42"	12	121148	Unreliable
+	"Utah"	"49"	"28 years"	"28"	"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X44"	24	121148	19.8
+	"Utah"	"49"	"28 years"	"28"	"Intentional self-harm by hanging, strangulation and suffocation"	"X70"	18	121148	Unreliable
+	"Utah"	"49"	"28 years"	"28"	"Intentional self-harm by handgun discharge"	"X72"	20	121148	16.5
+	"Utah"	"49"	"28 years"	"28"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	10	121148	Unreliable
+	"Utah"	"49"	"29 years"	"29"	"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X42"	17	115644	Unreliable
+	"Utah"	"49"	"29 years"	"29"	"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X44"	28	115644	24.2
+	"Utah"	"49"	"29 years"	"29"	"Intentional self-harm by hanging, strangulation and suffocation"	"X70"	18	115644	Unreliable
+	"Utah"	"49"	"29 years"	"29"	"Intentional self-harm by handgun discharge"	"X72"	12	115644	Unreliable
+	"Utah"	"49"	"29 years"	"29"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	12	115644	Unreliable
+	"Utah"	"49"	"30 years"	"30"	"Person injured in unspecified motor-vehicle accident, traffic"	"V89.2"	11	111926	Unreliable
+	"Utah"	"49"	"30 years"	"30"	"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X42"	11	111926	Unreliable
+	"Utah"	"49"	"30 years"	"30"	"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X44"	26	111926	23.2
+	"Utah"	"49"	"30 years"	"30"	"Intentional self-harm by hanging, strangulation and suffocation"	"X70"	15	111926	Unreliable
+	"Utah"	"49"	"30 years"	"30"	"Intentional self-harm by handgun discharge"	"X72"	12	111926	Unreliable
+	"Utah"	"49"	"30 years"	"30"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	10	111926	Unreliable
+	"Utah"	"49"	"31 years"	"31"	"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X42"	13	111027	Unreliable
+	"Utah"	"49"	"31 years"	"31"	"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X44"	34	111027	30.6
+	"Utah"	"49"	"31 years"	"31"	"Intentional self-harm by hanging, strangulation and suffocation"	"X70"	10	111027	Unreliable
+	"Utah"	"49"	"31 years"	"31"	"Intentional self-harm by handgun discharge"	"X72"	15	111027	Unreliable
+	"Utah"	"49"	"32 years"	"32"	"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X42"	22	109733	20.0
+	"Utah"	"49"	"32 years"	"32"	"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X44"	24	109733	21.9
+	"Utah"	"49"	"32 years"	"32"	"Intentional self-harm by hanging, strangulation and suffocation"	"X70"	20	109733	18.2
+	"Utah"	"49"	"32 years"	"32"	"Intentional self-harm by handgun discharge"	"X72"	11	109733	Unreliable
+	"Utah"	"49"	"33 years"	"33"	"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X42"	14	110910	Unreliable
+	"Utah"	"49"	"33 years"	"33"	"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X44"	31	110910	28.0
+	"Utah"	"49"	"33 years"	"33"	"Intentional self-harm by hanging, strangulation and suffocation"	"X70"	14	110910	Unreliable
+	"Utah"	"49"	"33 years"	"33"	"Intentional self-harm by handgun discharge"	"X72"	14	110910	Unreliable
+	"Utah"	"49"	"33 years"	"33"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	10	110910	Unreliable
+	"Utah"	"49"	"34 years"	"34"	"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X42"	10	113227	Unreliable
+	"Utah"	"49"	"34 years"	"34"	"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X44"	30	113227	26.5
+	"Utah"	"49"	"34 years"	"34"	"Intentional self-harm by hanging, strangulation and suffocation"	"X70"	15	113227	Unreliable
+	"Utah"	"49"	"34 years"	"34"	"Intentional self-harm by handgun discharge"	"X72"	14	113227	Unreliable
+	"Utah"	"49"	"35 years"	"35"	"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X42"	11	115586	Unreliable
+	"Utah"	"49"	"35 years"	"35"	"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X44"	30	115586	26.0
+	"Utah"	"49"	"35 years"	"35"	"Intentional self-harm by hanging, strangulation and suffocation"	"X70"	14	115586	Unreliable
+	"Utah"	"49"	"35 years"	"35"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	10	115586	Unreliable
+	"Utah"	"49"	"36 years"	"36"	"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X44"	25	116796	21.4
+	"Utah"	"49"	"36 years"	"36"	"Intentional self-harm by hanging, strangulation and suffocation"	"X70"	17	116796	Unreliable
+	"Utah"	"49"	"36 years"	"36"	"Intentional self-harm by handgun discharge"	"X72"	18	116796	Unreliable
+	"Utah"	"49"	"37 years"	"37"	"Person injured in unspecified motor-vehicle accident, traffic"	"V89.2"	12	117540	Unreliable
+	"Utah"	"49"	"37 years"	"37"	"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X44"	28	117540	23.8
+	"Utah"	"49"	"37 years"	"37"	"Intentional self-harm by hanging, strangulation and suffocation"	"X70"	15	117540	Unreliable
+	"Utah"	"49"	"37 years"	"37"	"Intentional self-harm by handgun discharge"	"X72"	21	117540	17.9
+	"Utah"	"49"	"38 years"	"38"	"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X44"	30	116910	25.7
+	"Utah"	"49"	"38 years"	"38"	"Intentional self-harm by hanging, strangulation and suffocation"	"X70"	13	116910	Unreliable
+	"Utah"	"49"	"38 years"	"38"	"Intentional self-harm by handgun discharge"	"X72"	19	116910	Unreliable
+	"Utah"	"49"	"38 years"	"38"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	11	116910	Unreliable
+	"Utah"	"49"	"39 years"	"39"	"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X44"	19	115341	Unreliable
+	"Utah"	"49"	"39 years"	"39"	"Intentional self-harm by hanging, strangulation and suffocation"	"X70"	22	115341	19.1
+	"Utah"	"49"	"39 years"	"39"	"Intentional self-harm by handgun discharge"	"X72"	11	115341	Unreliable
+	"Utah"	"49"	"39 years"	"39"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	10	115341	Unreliable
+	"Utah"	"49"	"40 years"	"40"	"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X42"	11	112499	Unreliable
+	"Utah"	"49"	"40 years"	"40"	"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X44"	34	112499	30.2
+	"Utah"	"49"	"40 years"	"40"	"Intentional self-harm by hanging, strangulation and suffocation"	"X70"	16	112499	Unreliable
+	"Utah"	"49"	"40 years"	"40"	"Intentional self-harm by handgun discharge"	"X72"	10	112499	Unreliable
+	"Utah"	"49"	"40 years"	"40"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	11	112499	Unreliable
+	"Utah"	"49"	"41 years"	"41"	"Accidental poisoning by and exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic drugs, not elsewhere classified"	"X41"	11	108285	Unreliable
+	"Utah"	"49"	"41 years"	"41"	"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X44"	22	108285	20.3
+	"Utah"	"49"	"41 years"	"41"	"Intentional self-harm by hanging, strangulation and suffocation"	"X70"	12	108285	Unreliable
+	"Utah"	"49"	"41 years"	"41"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	13	108285	Unreliable
+	"Utah"	"49"	"42 years"	"42"	"Person injured in unspecified motor-vehicle accident, traffic"	"V89.2"	10	103513	Unreliable
+	"Utah"	"49"	"42 years"	"42"	"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X44"	22	103513	21.3
+	"Utah"	"49"	"42 years"	"42"	"Intentional self-harm by hanging, strangulation and suffocation"	"X70"	25	103513	24.2
+	"Utah"	"49"	"43 years"	"43"	"Acute myocardial infarction, unspecified"	"I21.9"	10	99040	Unreliable
+	"Utah"	"49"	"43 years"	"43"	"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X44"	21	99040	21.2
+	"Utah"	"49"	"43 years"	"43"	"Intentional self-harm by hanging, strangulation and suffocation"	"X70"	11	99040	Unreliable
+	"Utah"	"49"	"43 years"	"43"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	11	99040	Unreliable
+	"Utah"	"49"	"44 years"	"44"	"Accidental poisoning by and exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic drugs, not elsewhere classified"	"X41"	12	94586	Unreliable
+	"Utah"	"49"	"44 years"	"44"	"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X42"	10	94586	Unreliable
+	"Utah"	"49"	"44 years"	"44"	"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X44"	21	94586	22.2
+	"Utah"	"49"	"44 years"	"44"	"Intentional self-harm by handgun discharge"	"X72"	11	94586	Unreliable
+	"Utah"	"49"	"45 years"	"45"	"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X44"	15	92187	Unreliable
+	"Utah"	"49"	"45 years"	"45"	"Intentional self-harm by hanging, strangulation and suffocation"	"X70"	12	92187	Unreliable
+	"Utah"	"49"	"45 years"	"45"	"Intentional self-harm by handgun discharge"	"X72"	11	92187	Unreliable
+	"Utah"	"49"	"46 years"	"46"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	12	90097	Unreliable
+	"Utah"	"49"	"46 years"	"46"	"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X44"	12	90097	Unreliable
+	"Utah"	"49"	"46 years"	"46"	"Intentional self-harm by hanging, strangulation and suffocation"	"X70"	14	90097	Unreliable
+	"Utah"	"49"	"46 years"	"46"	"Intentional self-harm by handgun discharge"	"X72"	12	90097	Unreliable
+	"Utah"	"49"	"47 years"	"47"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	10	87259	Unreliable
+	"Utah"	"49"	"47 years"	"47"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	10	87259	Unreliable
+	"Utah"	"49"	"47 years"	"47"	"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X44"	23	87259	26.4
+	"Utah"	"49"	"47 years"	"47"	"Intentional self-harm by hanging, strangulation and suffocation"	"X70"	15	87259	Unreliable
+	"Utah"	"49"	"47 years"	"47"	"Intentional self-harm by handgun discharge"	"X72"	11	87259	Unreliable
+	"Utah"	"49"	"47 years"	"47"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	11	87259	Unreliable
+	"Utah"	"49"	"48 years"	"48"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	12	85307	Unreliable
+	"Utah"	"49"	"48 years"	"48"	"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X44"	17	85307	Unreliable
+	"Utah"	"49"	"48 years"	"48"	"Intentional self-harm by handgun discharge"	"X72"	10	85307	Unreliable
+	"Utah"	"49"	"49 years"	"49"	"Alcoholic cirrhosis of liver"	"K70.3"	10	82543	Unreliable
+	"Utah"	"49"	"49 years"	"49"	"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X44"	19	82543	Unreliable
+	"Utah"	"49"	"49 years"	"49"	"Intentional self-harm by hanging, strangulation and suffocation"	"X70"	12	82543	Unreliable
+	"Utah"	"49"	"49 years"	"49"	"Intentional self-harm by handgun discharge"	"X72"	20	82543	24.2
+	"Utah"	"49"	"50 years"	"50"	"Acute myocardial infarction, unspecified"	"I21.9"	12	79081	Unreliable
+	"Utah"	"49"	"50 years"	"50"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	19	79081	Unreliable
+	"Utah"	"49"	"50 years"	"50"	"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X44"	11	79081	Unreliable
+	"Utah"	"49"	"50 years"	"50"	"Intentional self-harm by hanging, strangulation and suffocation"	"X70"	10	79081	Unreliable
+	"Utah"	"49"	"51 years"	"51"	"Acute myocardial infarction, unspecified"	"I21.9"	10	76487	Unreliable
+	"Utah"	"49"	"51 years"	"51"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	20	76487	26.1
+	"Utah"	"49"	"51 years"	"51"	"Atherosclerotic heart disease"	"I25.1"	12	76487	Unreliable
+	"Utah"	"49"	"51 years"	"51"	"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X44"	14	76487	Unreliable
+	"Utah"	"49"	"51 years"	"51"	"Intentional self-harm by hanging, strangulation and suffocation"	"X70"	10	76487	Unreliable
+	"Utah"	"49"	"52 years"	"52"	"Unspecified diabetes mellitus, without complications"	"E14.9"	11	75393	Unreliable
+	"Utah"	"49"	"52 years"	"52"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	10	75393	Unreliable
+	"Utah"	"49"	"52 years"	"52"	"Acute myocardial infarction, unspecified"	"I21.9"	15	75393	Unreliable
+	"Utah"	"49"	"52 years"	"52"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	13	75393	Unreliable
+	"Utah"	"49"	"52 years"	"52"	"Atherosclerotic heart disease"	"I25.1"	10	75393	Unreliable
+	"Utah"	"49"	"52 years"	"52"	"Intentional self-harm by handgun discharge"	"X72"	12	75393	Unreliable
+	"Utah"	"49"	"53 years"	"53"	"Unspecified diabetes mellitus, without complications"	"E14.9"	10	75182	Unreliable
+	"Utah"	"49"	"53 years"	"53"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	10	75182	Unreliable
+	"Utah"	"49"	"53 years"	"53"	"Acute myocardial infarction, unspecified"	"I21.9"	10	75182	Unreliable
+	"Utah"	"49"	"53 years"	"53"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	31	75182	41.2
+	"Utah"	"49"	"53 years"	"53"	"Other ill-defined and unspecified causes of mortality"	"R99"	11	75182	Unreliable
+	"Utah"	"49"	"53 years"	"53"	"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X44"	18	75182	Unreliable
+	"Utah"	"49"	"53 years"	"53"	"Intentional self-harm by hanging, strangulation and suffocation"	"X70"	10	75182	Unreliable
+	"Utah"	"49"	"53 years"	"53"	"Intentional self-harm by handgun discharge"	"X72"	13	75182	Unreliable
+	"Utah"	"49"	"54 years"	"54"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	13	75561	Unreliable
+	"Utah"	"49"	"54 years"	"54"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	12	75561	Unreliable
+	"Utah"	"49"	"54 years"	"54"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	10	75561	Unreliable
+	"Utah"	"49"	"54 years"	"54"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	13	75561	Unreliable
+	"Utah"	"49"	"54 years"	"54"	"Acute myocardial infarction, unspecified"	"I21.9"	16	75561	Unreliable
+	"Utah"	"49"	"54 years"	"54"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	24	75561	31.8
+	"Utah"	"49"	"54 years"	"54"	"Atherosclerotic heart disease"	"I25.1"	12	75561	Unreliable
+	"Utah"	"49"	"54 years"	"54"	"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X44"	13	75561	Unreliable
+	"Utah"	"49"	"54 years"	"54"	"Intentional self-poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X64"	10	75561	Unreliable
+	"Utah"	"49"	"54 years"	"54"	"Intentional self-harm by handgun discharge"	"X72"	16	75561	Unreliable
+	"Utah"	"49"	"55 years"	"55"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	10	76288	Unreliable
+	"Utah"	"49"	"55 years"	"55"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	11	76288	Unreliable
+	"Utah"	"49"	"55 years"	"55"	"Acute myocardial infarction, unspecified"	"I21.9"	11	76288	Unreliable
+	"Utah"	"49"	"55 years"	"55"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	23	76288	30.1
+	"Utah"	"49"	"55 years"	"55"	"Atherosclerotic heart disease"	"I25.1"	13	76288	Unreliable
+	"Utah"	"49"	"55 years"	"55"	"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X44"	22	76288	28.8
+	"Utah"	"49"	"56 years"	"56"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	12	76781	Unreliable
+	"Utah"	"49"	"56 years"	"56"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	13	76781	Unreliable
+	"Utah"	"49"	"56 years"	"56"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	11	76781	Unreliable
+	"Utah"	"49"	"56 years"	"56"	"Acute myocardial infarction, unspecified"	"I21.9"	10	76781	Unreliable
+	"Utah"	"49"	"56 years"	"56"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	27	76781	35.2
+	"Utah"	"49"	"56 years"	"56"	"Atherosclerotic heart disease"	"I25.1"	18	76781	Unreliable
+	"Utah"	"49"	"56 years"	"56"	"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X44"	14	76781	Unreliable
+	"Utah"	"49"	"56 years"	"56"	"Intentional self-harm by handgun discharge"	"X72"	10	76781	Unreliable
+	"Utah"	"49"	"57 years"	"57"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	10	76575	Unreliable
+	"Utah"	"49"	"57 years"	"57"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	11	76575	Unreliable
+	"Utah"	"49"	"57 years"	"57"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	17	76575	Unreliable
+	"Utah"	"49"	"57 years"	"57"	"Mental and behavioural disorders due to use of alcohol, dependence syndrome"	"F10.2"	10	76575	Unreliable
+	"Utah"	"49"	"57 years"	"57"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	10	76575	Unreliable
+	"Utah"	"49"	"57 years"	"57"	"Acute myocardial infarction, unspecified"	"I21.9"	27	76575	35.3
+	"Utah"	"49"	"57 years"	"57"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	33	76575	43.1
+	"Utah"	"49"	"57 years"	"57"	"Atherosclerotic heart disease"	"I25.1"	20	76575	26.1
+	"Utah"	"49"	"57 years"	"57"	"Alcoholic cirrhosis of liver"	"K70.3"	25	76575	32.6
+	"Utah"	"49"	"57 years"	"57"	"Other ill-defined and unspecified causes of mortality"	"R99"	11	76575	Unreliable
+	"Utah"	"49"	"57 years"	"57"	"Accidental poisoning by and exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic drugs, not elsewhere classified"	"X41"	10	76575	Unreliable
+	"Utah"	"49"	"57 years"	"57"	"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X44"	16	76575	Unreliable
+	"Utah"	"49"	"57 years"	"57"	"Intentional self-harm by handgun discharge"	"X72"	13	76575	Unreliable
+	"Utah"	"49"	"57 years"	"57"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	10	76575	Unreliable
+	"Utah"	"49"	"58 years"	"58"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	15	75829	Unreliable
+	"Utah"	"49"	"58 years"	"58"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	23	75829	30.3
+	"Utah"	"49"	"58 years"	"58"	"Malignant neoplasm of prostate"	"C61"	11	75829	Unreliable
+	"Utah"	"49"	"58 years"	"58"	"Unspecified diabetes mellitus, without complications"	"E14.9"	10	75829	Unreliable
+	"Utah"	"49"	"58 years"	"58"	"Mental and behavioural disorders due to use of alcohol, dependence syndrome"	"F10.2"	10	75829	Unreliable
+	"Utah"	"49"	"58 years"	"58"	"Acute myocardial infarction, unspecified"	"I21.9"	21	75829	27.7
+	"Utah"	"49"	"58 years"	"58"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	26	75829	34.3
+	"Utah"	"49"	"58 years"	"58"	"Atherosclerotic heart disease"	"I25.1"	23	75829	30.3
+	"Utah"	"49"	"58 years"	"58"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	11	75829	Unreliable
+	"Utah"	"49"	"58 years"	"58"	"Other and unspecified cirrhosis of liver"	"K74.6"	11	75829	Unreliable
+	"Utah"	"49"	"58 years"	"58"	"Accidental poisoning by and exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic drugs, not elsewhere classified"	"X41"	11	75829	Unreliable
+	"Utah"	"49"	"58 years"	"58"	"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X44"	15	75829	Unreliable
+	"Utah"	"49"	"58 years"	"58"	"Intentional self-harm by handgun discharge"	"X72"	11	75829	Unreliable
+	"Utah"	"49"	"59 years"	"59"	"Oesophagus, unspecified - Malignant neoplasms"	"C15.9"	12	75244	Unreliable
+	"Utah"	"49"	"59 years"	"59"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	12	75244	Unreliable
+	"Utah"	"49"	"59 years"	"59"	"Liver cell carcinoma - Malignant neoplasms"	"C22.0"	14	75244	Unreliable
+	"Utah"	"49"	"59 years"	"59"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	12	75244	Unreliable
+	"Utah"	"49"	"59 years"	"59"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	18	75244	Unreliable
+	"Utah"	"49"	"59 years"	"59"	"Unspecified diabetes mellitus, without complications"	"E14.9"	15	75244	Unreliable
+	"Utah"	"49"	"59 years"	"59"	"Acute myocardial infarction, unspecified"	"I21.9"	37	75244	49.2
+	"Utah"	"49"	"59 years"	"59"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	28	75244	37.2
+	"Utah"	"49"	"59 years"	"59"	"Atherosclerotic heart disease"	"I25.1"	31	75244	41.2
+	"Utah"	"49"	"59 years"	"59"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	19	75244	Unreliable
+	"Utah"	"49"	"59 years"	"59"	"COVID-19"	"U07.1"	18	75244	Unreliable
+	"Utah"	"49"	"59 years"	"59"	"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X44"	10	75244	Unreliable
+	"Utah"	"49"	"60 years"	"60"	"Septicaemia, unspecified"	"A41.9"	14	73895	Unreliable
+	"Utah"	"49"	"60 years"	"60"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	10	73895	Unreliable
+	"Utah"	"49"	"60 years"	"60"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	13	73895	Unreliable
+	"Utah"	"49"	"60 years"	"60"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	30	73895	40.6
+	"Utah"	"49"	"60 years"	"60"	"Brain, unspecified - Malignant neoplasms"	"C71.9"	12	73895	Unreliable
+	"Utah"	"49"	"60 years"	"60"	"Malignant neoplasm without specification of site"	"C80"	11	73895	Unreliable
+	"Utah"	"49"	"60 years"	"60"	"Unspecified diabetes mellitus, with renal complications"	"E14.2"	10	73895	Unreliable
+	"Utah"	"49"	"60 years"	"60"	"Unspecified diabetes mellitus, without complications"	"E14.9"	13	73895	Unreliable
+	"Utah"	"49"	"60 years"	"60"	"Mental and behavioural disorders due to use of alcohol, dependence syndrome"	"F10.2"	12	73895	Unreliable
+	"Utah"	"49"	"60 years"	"60"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	12	73895	Unreliable
+	"Utah"	"49"	"60 years"	"60"	"Acute myocardial infarction, unspecified"	"I21.9"	30	73895	40.6
+	"Utah"	"49"	"60 years"	"60"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	29	73895	39.2
+	"Utah"	"49"	"60 years"	"60"	"Atherosclerotic heart disease"	"I25.1"	22	73895	29.8
+	"Utah"	"49"	"60 years"	"60"	"Pneumonia, unspecified"	"J18.9"	11	73895	Unreliable
+	"Utah"	"49"	"60 years"	"60"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	24	73895	32.5
+	"Utah"	"49"	"60 years"	"60"	"Alcoholic cirrhosis of liver"	"K70.3"	12	73895	Unreliable
+	"Utah"	"49"	"60 years"	"60"	"Other ill-defined and unspecified causes of mortality"	"R99"	11	73895	Unreliable
+	"Utah"	"49"	"60 years"	"60"	"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X44"	16	73895	Unreliable
+	"Utah"	"49"	"60 years"	"60"	"Intentional self-harm by handgun discharge"	"X72"	10	73895	Unreliable
+	"Utah"	"49"	"61 years"	"61"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	23	72504	31.7
+	"Utah"	"49"	"61 years"	"61"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	19	72504	Unreliable
+	"Utah"	"49"	"61 years"	"61"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	31	72504	42.8
+	"Utah"	"49"	"61 years"	"61"	"Malignant neoplasm of kidney, except renal pelvis"	"C64"	10	72504	Unreliable
+	"Utah"	"49"	"61 years"	"61"	"Brain, unspecified - Malignant neoplasms"	"C71.9"	12	72504	Unreliable
+	"Utah"	"49"	"61 years"	"61"	"Malignant neoplasm without specification of site"	"C80"	11	72504	Unreliable
+	"Utah"	"49"	"61 years"	"61"	"Unspecified diabetes mellitus, with renal complications"	"E14.2"	11	72504	Unreliable
+	"Utah"	"49"	"61 years"	"61"	"Unspecified diabetes mellitus, without complications"	"E14.9"	13	72504	Unreliable
+	"Utah"	"49"	"61 years"	"61"	"Mental and behavioural disorders due to use of alcohol, dependence syndrome"	"F10.2"	10	72504	Unreliable
+	"Utah"	"49"	"61 years"	"61"	"Acute myocardial infarction, unspecified"	"I21.9"	27	72504	37.2
+	"Utah"	"49"	"61 years"	"61"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	39	72504	53.8
+	"Utah"	"49"	"61 years"	"61"	"Atherosclerotic heart disease"	"I25.1"	17	72504	Unreliable
+	"Utah"	"49"	"61 years"	"61"	"Stroke, not specified as haemorrhage or infarction"	"I64"	14	72504	Unreliable
+	"Utah"	"49"	"61 years"	"61"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	29	72504	40.0
+	"Utah"	"49"	"61 years"	"61"	"Alcoholic cirrhosis of liver"	"K70.3"	12	72504	Unreliable
+	"Utah"	"49"	"61 years"	"61"	"Other and unspecified cirrhosis of liver"	"K74.6"	10	72504	Unreliable
+	"Utah"	"49"	"61 years"	"61"	"Other ill-defined and unspecified causes of mortality"	"R99"	23	72504	31.7
+	"Utah"	"49"	"61 years"	"61"	"COVID-19"	"U07.1"	13	72504	Unreliable
+	"Utah"	"49"	"62 years"	"62"	"Oesophagus, unspecified - Malignant neoplasms"	"C15.9"	10	71077	Unreliable
+	"Utah"	"49"	"62 years"	"62"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	14	71077	Unreliable
+	"Utah"	"49"	"62 years"	"62"	"Liver cell carcinoma - Malignant neoplasms"	"C22.0"	10	71077	Unreliable
+	"Utah"	"49"	"62 years"	"62"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	25	71077	35.2
+	"Utah"	"49"	"62 years"	"62"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	32	71077	45.0
+	"Utah"	"49"	"62 years"	"62"	"Malignant neoplasm of prostate"	"C61"	17	71077	Unreliable
+	"Utah"	"49"	"62 years"	"62"	"Brain, unspecified - Malignant neoplasms"	"C71.9"	10	71077	Unreliable
+	"Utah"	"49"	"62 years"	"62"	"Unspecified diabetes mellitus, without complications"	"E14.9"	10	71077	Unreliable
+	"Utah"	"49"	"62 years"	"62"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	11	71077	Unreliable
+	"Utah"	"49"	"62 years"	"62"	"Acute myocardial infarction, unspecified"	"I21.9"	27	71077	38.0
+	"Utah"	"49"	"62 years"	"62"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	30	71077	42.2
+	"Utah"	"49"	"62 years"	"62"	"Atherosclerotic heart disease"	"I25.1"	20	71077	28.1
+	"Utah"	"49"	"62 years"	"62"	"Pneumonia, unspecified"	"J18.9"	17	71077	Unreliable
+	"Utah"	"49"	"62 years"	"62"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	32	71077	45.0
+	"Utah"	"49"	"62 years"	"62"	"Alcoholic cirrhosis of liver"	"K70.3"	10	71077	Unreliable
+	"Utah"	"49"	"62 years"	"62"	"Other and unspecified cirrhosis of liver"	"K74.6"	11	71077	Unreliable
+	"Utah"	"49"	"62 years"	"62"	"Other ill-defined and unspecified causes of mortality"	"R99"	13	71077	Unreliable
+	"Utah"	"49"	"62 years"	"62"	"COVID-19"	"U07.1"	19	71077	Unreliable
+	"Utah"	"49"	"62 years"	"62"	"Accidental poisoning by and exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic drugs, not elsewhere classified"	"X41"	10	71077	Unreliable
+	"Utah"	"49"	"63 years"	"63"	"Septicaemia, unspecified"	"A41.9"	10	69058	Unreliable
+	"Utah"	"49"	"63 years"	"63"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	16	69058	Unreliable
+	"Utah"	"49"	"63 years"	"63"	"Liver cell carcinoma - Malignant neoplasms"	"C22.0"	14	69058	Unreliable
+	"Utah"	"49"	"63 years"	"63"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	21	69058	30.4
+	"Utah"	"49"	"63 years"	"63"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	32	69058	46.3
+	"Utah"	"49"	"63 years"	"63"	"Malignant neoplasm of prostate"	"C61"	23	69058	33.3
+	"Utah"	"49"	"63 years"	"63"	"Malignant neoplasm without specification of site"	"C80"	10	69058	Unreliable
+	"Utah"	"49"	"63 years"	"63"	"Unspecified diabetes mellitus, without complications"	"E14.9"	16	69058	Unreliable
+	"Utah"	"49"	"63 years"	"63"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	10	69058	Unreliable
+	"Utah"	"49"	"63 years"	"63"	"Acute myocardial infarction, unspecified"	"I21.9"	28	69058	40.5
+	"Utah"	"49"	"63 years"	"63"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	38	69058	55.0
+	"Utah"	"49"	"63 years"	"63"	"Atherosclerotic heart disease"	"I25.1"	18	69058	Unreliable
+	"Utah"	"49"	"63 years"	"63"	"Stroke, not specified as haemorrhage or infarction"	"I64"	12	69058	Unreliable
+	"Utah"	"49"	"63 years"	"63"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	35	69058	50.7
+	"Utah"	"49"	"63 years"	"63"	"Other and unspecified cirrhosis of liver"	"K74.6"	10	69058	Unreliable
+	"Utah"	"49"	"63 years"	"63"	"Other ill-defined and unspecified causes of mortality"	"R99"	17	69058	Unreliable
+	"Utah"	"49"	"63 years"	"63"	"COVID-19"	"U07.1"	13	69058	Unreliable
+	"Utah"	"49"	"64 years"	"64"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	11	66346	Unreliable
+	"Utah"	"49"	"64 years"	"64"	"Liver cell carcinoma - Malignant neoplasms"	"C22.0"	11	66346	Unreliable
+	"Utah"	"49"	"64 years"	"64"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	19	66346	Unreliable
+	"Utah"	"49"	"64 years"	"64"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	30	66346	45.2
+	"Utah"	"49"	"64 years"	"64"	"Malignant neoplasm of prostate"	"C61"	16	66346	Unreliable
+	"Utah"	"49"	"64 years"	"64"	"Brain, unspecified - Malignant neoplasms"	"C71.9"	10	66346	Unreliable
+	"Utah"	"49"	"64 years"	"64"	"Malignant neoplasm without specification of site"	"C80"	12	66346	Unreliable
+	"Utah"	"49"	"64 years"	"64"	"Unspecified diabetes mellitus, with renal complications"	"E14.2"	11	66346	Unreliable
+	"Utah"	"49"	"64 years"	"64"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	13	66346	Unreliable
+	"Utah"	"49"	"64 years"	"64"	"Acute myocardial infarction, unspecified"	"I21.9"	40	66346	60.3
+	"Utah"	"49"	"64 years"	"64"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	31	66346	46.7
+	"Utah"	"49"	"64 years"	"64"	"Atherosclerotic heart disease"	"I25.1"	30	66346	45.2
+	"Utah"	"49"	"64 years"	"64"	"Congestive heart failure"	"I50.0"	11	66346	Unreliable
+	"Utah"	"49"	"64 years"	"64"	"Stroke, not specified as haemorrhage or infarction"	"I64"	10	66346	Unreliable
+	"Utah"	"49"	"64 years"	"64"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	37	66346	55.8
+	"Utah"	"49"	"64 years"	"64"	"Alcoholic cirrhosis of liver"	"K70.3"	13	66346	Unreliable
+	"Utah"	"49"	"64 years"	"64"	"Other and unspecified cirrhosis of liver"	"K74.6"	14	66346	Unreliable
+	"Utah"	"49"	"64 years"	"64"	"Other ill-defined and unspecified causes of mortality"	"R99"	17	66346	Unreliable
+	"Utah"	"49"	"64 years"	"64"	"COVID-19"	"U07.1"	15	66346	Unreliable
+	"Utah"	"49"	"64 years"	"64"	"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X44"	12	66346	Unreliable
+	"Utah"	"49"	"65 years"	"65"	"Septicaemia, unspecified"	"A41.9"	10	63696	Unreliable
+	"Utah"	"49"	"65 years"	"65"	"Oesophagus, unspecified - Malignant neoplasms"	"C15.9"	10	63696	Unreliable
+	"Utah"	"49"	"65 years"	"65"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	14	63696	Unreliable
+	"Utah"	"49"	"65 years"	"65"	"Liver cell carcinoma - Malignant neoplasms"	"C22.0"	10	63696	Unreliable
+	"Utah"	"49"	"65 years"	"65"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	21	63696	33.0
+	"Utah"	"49"	"65 years"	"65"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	38	63696	59.7
+	"Utah"	"49"	"65 years"	"65"	"Malignant neoplasm of prostate"	"C61"	17	63696	Unreliable
+	"Utah"	"49"	"65 years"	"65"	"Malignant neoplasm without specification of site"	"C80"	16	63696	Unreliable
+	"Utah"	"49"	"65 years"	"65"	"Non-insulin-dependent diabetes mellitus, without complications"	"E11.9"	10	63696	Unreliable
+	"Utah"	"49"	"65 years"	"65"	"Unspecified diabetes mellitus, without complications"	"E14.9"	19	63696	Unreliable
+	"Utah"	"49"	"65 years"	"65"	"Motor neuron disease"	"G12.2"	10	63696	Unreliable
+	"Utah"	"49"	"65 years"	"65"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	10	63696	Unreliable
+	"Utah"	"49"	"65 years"	"65"	"Acute myocardial infarction, unspecified"	"I21.9"	27	63696	42.4
+	"Utah"	"49"	"65 years"	"65"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	33	63696	51.8
+	"Utah"	"49"	"65 years"	"65"	"Atherosclerotic heart disease"	"I25.1"	40	63696	62.8
+	"Utah"	"49"	"65 years"	"65"	"Congestive heart failure"	"I50.0"	11	63696	Unreliable
+	"Utah"	"49"	"65 years"	"65"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	41	63696	64.4
+	"Utah"	"49"	"65 years"	"65"	"Other and unspecified cirrhosis of liver"	"K74.6"	10	63696	Unreliable
+	"Utah"	"49"	"65 years"	"65"	"COVID-19"	"U07.1"	16	63696	Unreliable
+	"Utah"	"49"	"66 years"	"66"	"Septicaemia, unspecified"	"A41.9"	10	60541	Unreliable
+	"Utah"	"49"	"66 years"	"66"	"Oesophagus, unspecified - Malignant neoplasms"	"C15.9"	16	60541	Unreliable
+	"Utah"	"49"	"66 years"	"66"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	18	60541	Unreliable
+	"Utah"	"49"	"66 years"	"66"	"Liver cell carcinoma - Malignant neoplasms"	"C22.0"	15	60541	Unreliable
+	"Utah"	"49"	"66 years"	"66"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	28	60541	46.2
+	"Utah"	"49"	"66 years"	"66"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	30	60541	49.6
+	"Utah"	"49"	"66 years"	"66"	"Malignant neoplasm of prostate"	"C61"	17	60541	Unreliable
+	"Utah"	"49"	"66 years"	"66"	"Malignant neoplasm of kidney, except renal pelvis"	"C64"	11	60541	Unreliable
+	"Utah"	"49"	"66 years"	"66"	"Brain, unspecified - Malignant neoplasms"	"C71.9"	14	60541	Unreliable
+	"Utah"	"49"	"66 years"	"66"	"Non-insulin-dependent diabetes mellitus, without complications"	"E11.9"	10	60541	Unreliable
+	"Utah"	"49"	"66 years"	"66"	"Unspecified diabetes mellitus, without complications"	"E14.9"	17	60541	Unreliable
+	"Utah"	"49"	"66 years"	"66"	"Mental and behavioural disorders due to use of alcohol, dependence syndrome"	"F10.2"	11	60541	Unreliable
+	"Utah"	"49"	"66 years"	"66"	"Motor neuron disease"	"G12.2"	10	60541	Unreliable
+	"Utah"	"49"	"66 years"	"66"	"Essential (primary) hypertension"	"I10"	10	60541	Unreliable
+	"Utah"	"49"	"66 years"	"66"	"Acute myocardial infarction, unspecified"	"I21.9"	23	60541	38.0
+	"Utah"	"49"	"66 years"	"66"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	25	60541	41.3
+	"Utah"	"49"	"66 years"	"66"	"Atherosclerotic heart disease"	"I25.1"	32	60541	52.9
+	"Utah"	"49"	"66 years"	"66"	"Stroke, not specified as haemorrhage or infarction"	"I64"	13	60541	Unreliable
+	"Utah"	"49"	"66 years"	"66"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	41	60541	67.7
+	"Utah"	"49"	"66 years"	"66"	"Other ill-defined and unspecified causes of mortality"	"R99"	21	60541	34.7
+	"Utah"	"49"	"66 years"	"66"	"COVID-19"	"U07.1"	14	60541	Unreliable
+	"Utah"	"49"	"66 years"	"66"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	10	60541	Unreliable
+	"Utah"	"49"	"67 years"	"67"	"Oesophagus, unspecified - Malignant neoplasms"	"C15.9"	12	57498	Unreliable
+	"Utah"	"49"	"67 years"	"67"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	12	57498	Unreliable
+	"Utah"	"49"	"67 years"	"67"	"Liver cell carcinoma - Malignant neoplasms"	"C22.0"	12	57498	Unreliable
+	"Utah"	"49"	"67 years"	"67"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	22	57498	38.3
+	"Utah"	"49"	"67 years"	"67"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	48	57498	83.5
+	"Utah"	"49"	"67 years"	"67"	"Malignant neoplasm of prostate"	"C61"	30	57498	52.2
+	"Utah"	"49"	"67 years"	"67"	"Malignant neoplasm of kidney, except renal pelvis"	"C64"	10	57498	Unreliable
+	"Utah"	"49"	"67 years"	"67"	"Unspecified diabetes mellitus, without complications"	"E14.9"	15	57498	Unreliable
+	"Utah"	"49"	"67 years"	"67"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	13	57498	Unreliable
+	"Utah"	"49"	"67 years"	"67"	"Acute myocardial infarction, unspecified"	"I21.9"	37	57498	64.4
+	"Utah"	"49"	"67 years"	"67"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	34	57498	59.1
+	"Utah"	"49"	"67 years"	"67"	"Atherosclerotic heart disease"	"I25.1"	32	57498	55.7
+	"Utah"	"49"	"67 years"	"67"	"Congestive heart failure"	"I50.0"	19	57498	Unreliable
+	"Utah"	"49"	"67 years"	"67"	"Stroke, not specified as haemorrhage or infarction"	"I64"	10	57498	Unreliable
+	"Utah"	"49"	"67 years"	"67"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	36	57498	62.6
+	"Utah"	"49"	"67 years"	"67"	"Alcoholic cirrhosis of liver"	"K70.3"	11	57498	Unreliable
+	"Utah"	"49"	"67 years"	"67"	"Other and unspecified cirrhosis of liver"	"K74.6"	12	57498	Unreliable
+	"Utah"	"49"	"67 years"	"67"	"Other ill-defined and unspecified causes of mortality"	"R99"	16	57498	Unreliable
+	"Utah"	"49"	"67 years"	"67"	"COVID-19"	"U07.1"	20	57498	34.8
+	"Utah"	"49"	"67 years"	"67"	"Intentional self-harm by handgun discharge"	"X72"	11	57498	Unreliable
+	"Utah"	"49"	"68 years"	"68"	"Oesophagus, unspecified - Malignant neoplasms"	"C15.9"	10	55072	Unreliable
+	"Utah"	"49"	"68 years"	"68"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	11	55072	Unreliable
+	"Utah"	"49"	"68 years"	"68"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	27	55072	49.0
+	"Utah"	"49"	"68 years"	"68"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	37	55072	67.2
+	"Utah"	"49"	"68 years"	"68"	"Malignant neoplasm of prostate"	"C61"	19	55072	Unreliable
+	"Utah"	"49"	"68 years"	"68"	"Malignant neoplasm of kidney, except renal pelvis"	"C64"	11	55072	Unreliable
+	"Utah"	"49"	"68 years"	"68"	"Malignant neoplasm without specification of site"	"C80"	10	55072	Unreliable
+	"Utah"	"49"	"68 years"	"68"	"Unspecified diabetes mellitus, without complications"	"E14.9"	20	55072	36.3
+	"Utah"	"49"	"68 years"	"68"	"Hyperlipidaemia, unspecified"	"E78.5"	11	55072	Unreliable
+	"Utah"	"49"	"68 years"	"68"	"Unspecified dementia"	"F03"	11	55072	Unreliable
+	"Utah"	"49"	"68 years"	"68"	"Mental and behavioural disorders due to use of alcohol, dependence syndrome"	"F10.2"	11	55072	Unreliable
+	"Utah"	"49"	"68 years"	"68"	"Acute myocardial infarction, unspecified"	"I21.9"	36	55072	65.4
+	"Utah"	"49"	"68 years"	"68"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	22	55072	39.9
+	"Utah"	"49"	"68 years"	"68"	"Atherosclerotic heart disease"	"I25.1"	34	55072	61.7
+	"Utah"	"49"	"68 years"	"68"	"Congestive heart failure"	"I50.0"	13	55072	Unreliable
+	"Utah"	"49"	"68 years"	"68"	"Stroke, not specified as haemorrhage or infarction"	"I64"	11	55072	Unreliable
+	"Utah"	"49"	"68 years"	"68"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	47	55072	85.3
+	"Utah"	"49"	"68 years"	"68"	"Other and unspecified cirrhosis of liver"	"K74.6"	14	55072	Unreliable
+	"Utah"	"49"	"68 years"	"68"	"Other ill-defined and unspecified causes of mortality"	"R99"	17	55072	Unreliable
+	"Utah"	"49"	"68 years"	"68"	"COVID-19"	"U07.1"	17	55072	Unreliable
+	"Utah"	"49"	"69 years"	"69"	"Oesophagus, unspecified - Malignant neoplasms"	"C15.9"	16	53427	Unreliable
+	"Utah"	"49"	"69 years"	"69"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	16	53427	Unreliable
+	"Utah"	"49"	"69 years"	"69"	"Liver cell carcinoma - Malignant neoplasms"	"C22.0"	13	53427	Unreliable
+	"Utah"	"49"	"69 years"	"69"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	26	53427	48.7
+	"Utah"	"49"	"69 years"	"69"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	41	53427	76.7
+	"Utah"	"49"	"69 years"	"69"	"Malignant neoplasm of prostate"	"C61"	26	53427	48.7
+	"Utah"	"49"	"69 years"	"69"	"Malignant neoplasm of kidney, except renal pelvis"	"C64"	14	53427	Unreliable
+	"Utah"	"49"	"69 years"	"69"	"Brain, unspecified - Malignant neoplasms"	"C71.9"	16	53427	Unreliable
+	"Utah"	"49"	"69 years"	"69"	"Malignant neoplasm without specification of site"	"C80"	15	53427	Unreliable
+	"Utah"	"49"	"69 years"	"69"	"Non-insulin-dependent diabetes mellitus, without complications"	"E11.9"	11	53427	Unreliable
+	"Utah"	"49"	"69 years"	"69"	"Unspecified diabetes mellitus, with renal complications"	"E14.2"	12	53427	Unreliable
+	"Utah"	"49"	"69 years"	"69"	"Unspecified diabetes mellitus, without complications"	"E14.9"	19	53427	Unreliable
+	"Utah"	"49"	"69 years"	"69"	"Unspecified dementia"	"F03"	12	53427	Unreliable
+	"Utah"	"49"	"69 years"	"69"	"Alzheimer disease, unspecified"	"G30.9"	17	53427	Unreliable
+	"Utah"	"49"	"69 years"	"69"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	10	53427	Unreliable
+	"Utah"	"49"	"69 years"	"69"	"Acute myocardial infarction, unspecified"	"I21.9"	37	53427	69.3
+	"Utah"	"49"	"69 years"	"69"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	25	53427	46.8
+	"Utah"	"49"	"69 years"	"69"	"Atherosclerotic heart disease"	"I25.1"	44	53427	82.4
+	"Utah"	"49"	"69 years"	"69"	"Congestive heart failure"	"I50.0"	16	53427	Unreliable
+	"Utah"	"49"	"69 years"	"69"	"Stroke, not specified as haemorrhage or infarction"	"I64"	14	53427	Unreliable
+	"Utah"	"49"	"69 years"	"69"	"Pneumonia, unspecified"	"J18.9"	10	53427	Unreliable
+	"Utah"	"49"	"69 years"	"69"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	11	53427	Unreliable
+	"Utah"	"49"	"69 years"	"69"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	41	53427	76.7
+	"Utah"	"49"	"69 years"	"69"	"Interstitial pulmonary disease, unspecified"	"J84.9"	10	53427	Unreliable
+	"Utah"	"49"	"69 years"	"69"	"Other ill-defined and unspecified causes of mortality"	"R99"	21	53427	39.3
+	"Utah"	"49"	"69 years"	"69"	"COVID-19"	"U07.1"	18	53427	Unreliable
+	"Utah"	"49"	"69 years"	"69"	"Other fall on same level"	"W18"	10	53427	Unreliable
+	"Utah"	"49"	"70 years"	"70"	"Septicaemia, unspecified"	"A41.9"	13	49721	Unreliable
+	"Utah"	"49"	"70 years"	"70"	"Oesophagus, unspecified - Malignant neoplasms"	"C15.9"	13	49721	Unreliable
+	"Utah"	"49"	"70 years"	"70"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	10	49721	Unreliable
+	"Utah"	"49"	"70 years"	"70"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	23	49721	46.3
+	"Utah"	"49"	"70 years"	"70"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	53	49721	106.6
+	"Utah"	"49"	"70 years"	"70"	"Malignant neoplasm of prostate"	"C61"	32	49721	64.4
+	"Utah"	"49"	"70 years"	"70"	"Malignant neoplasm of kidney, except renal pelvis"	"C64"	12	49721	Unreliable
+	"Utah"	"49"	"70 years"	"70"	"Malignant neoplasm without specification of site"	"C80"	13	49721	Unreliable
+	"Utah"	"49"	"70 years"	"70"	"Non-insulin-dependent diabetes mellitus, with renal complications"	"E11.2"	10	49721	Unreliable
+	"Utah"	"49"	"70 years"	"70"	"Unspecified diabetes mellitus, with renal complications"	"E14.2"	12	49721	Unreliable
+	"Utah"	"49"	"70 years"	"70"	"Unspecified diabetes mellitus, without complications"	"E14.9"	14	49721	Unreliable
+	"Utah"	"49"	"70 years"	"70"	"Unspecified dementia"	"F03"	12	49721	Unreliable
+	"Utah"	"49"	"70 years"	"70"	"Parkinson disease"	"G20"	18	49721	Unreliable
+	"Utah"	"49"	"70 years"	"70"	"Alzheimer disease, unspecified"	"G30.9"	10	49721	Unreliable
+	"Utah"	"49"	"70 years"	"70"	"Acute myocardial infarction, unspecified"	"I21.9"	31	49721	62.3
+	"Utah"	"49"	"70 years"	"70"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	29	49721	58.3
+	"Utah"	"49"	"70 years"	"70"	"Atherosclerotic heart disease"	"I25.1"	42	49721	84.5
+	"Utah"	"49"	"70 years"	"70"	"Congestive heart failure"	"I50.0"	24	49721	48.3
+	"Utah"	"49"	"70 years"	"70"	"Stroke, not specified as haemorrhage or infarction"	"I64"	13	49721	Unreliable
+	"Utah"	"49"	"70 years"	"70"	"Pneumonia, unspecified"	"J18.9"	12	49721	Unreliable
+	"Utah"	"49"	"70 years"	"70"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	10	49721	Unreliable
+	"Utah"	"49"	"70 years"	"70"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	40	49721	80.4
+	"Utah"	"49"	"70 years"	"70"	"Pneumonitis due to food and vomit"	"J69.0"	13	49721	Unreliable
+	"Utah"	"49"	"70 years"	"70"	"Other interstitial pulmonary diseases with fibrosis"	"J84.1"	10	49721	Unreliable
+	"Utah"	"49"	"70 years"	"70"	"Alcoholic cirrhosis of liver"	"K70.3"	12	49721	Unreliable
+	"Utah"	"49"	"70 years"	"70"	"Other ill-defined and unspecified causes of mortality"	"R99"	14	49721	Unreliable
+	"Utah"	"49"	"70 years"	"70"	"COVID-19"	"U07.1"	31	49721	62.3
+	"Utah"	"49"	"71 years"	"71"	"Septicaemia, unspecified"	"A41.9"	11	46122	Unreliable
+	"Utah"	"49"	"71 years"	"71"	"Oesophagus, unspecified - Malignant neoplasms"	"C15.9"	19	46122	Unreliable
+	"Utah"	"49"	"71 years"	"71"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	14	46122	Unreliable
+	"Utah"	"49"	"71 years"	"71"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	21	46122	45.5
+	"Utah"	"49"	"71 years"	"71"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	41	46122	88.9
+	"Utah"	"49"	"71 years"	"71"	"Malignant neoplasm of prostate"	"C61"	28	46122	60.7
+	"Utah"	"49"	"71 years"	"71"	"Malignant neoplasm of kidney, except renal pelvis"	"C64"	10	46122	Unreliable
+	"Utah"	"49"	"71 years"	"71"	"Brain, unspecified - Malignant neoplasms"	"C71.9"	13	46122	Unreliable
+	"Utah"	"49"	"71 years"	"71"	"Malignant neoplasm without specification of site"	"C80"	13	46122	Unreliable
+	"Utah"	"49"	"71 years"	"71"	"Multiple myeloma - Malignant neoplasms"	"C90.0"	10	46122	Unreliable
+	"Utah"	"49"	"71 years"	"71"	"Unspecified diabetes mellitus, with renal complications"	"E14.2"	10	46122	Unreliable
+	"Utah"	"49"	"71 years"	"71"	"Unspecified diabetes mellitus, without complications"	"E14.9"	16	46122	Unreliable
+	"Utah"	"49"	"71 years"	"71"	"Parkinson disease"	"G20"	25	46122	54.2
+	"Utah"	"49"	"71 years"	"71"	"Alzheimer disease, unspecified"	"G30.9"	11	46122	Unreliable
+	"Utah"	"49"	"71 years"	"71"	"Acute myocardial infarction, unspecified"	"I21.9"	34	46122	73.7
+	"Utah"	"49"	"71 years"	"71"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	29	46122	62.9
+	"Utah"	"49"	"71 years"	"71"	"Atherosclerotic heart disease"	"I25.1"	60	46122	130.1
+	"Utah"	"49"	"71 years"	"71"	"Congestive heart failure"	"I50.0"	18	46122	Unreliable
+	"Utah"	"49"	"71 years"	"71"	"Stroke, not specified as haemorrhage or infarction"	"I64"	20	46122	43.4
+	"Utah"	"49"	"71 years"	"71"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	57	46122	123.6
+	"Utah"	"49"	"71 years"	"71"	"Other and unspecified cirrhosis of liver"	"K74.6"	10	46122	Unreliable
+	"Utah"	"49"	"71 years"	"71"	"Other ill-defined and unspecified causes of mortality"	"R99"	19	46122	Unreliable
+	"Utah"	"49"	"71 years"	"71"	"COVID-19"	"U07.1"	18	46122	Unreliable
+	"Utah"	"49"	"72 years"	"72"	"Oesophagus, unspecified - Malignant neoplasms"	"C15.9"	11	42850	Unreliable
+	"Utah"	"49"	"72 years"	"72"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	14	42850	Unreliable
+	"Utah"	"49"	"72 years"	"72"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	31	42850	72.3
+	"Utah"	"49"	"72 years"	"72"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	40	42850	93.3
+	"Utah"	"49"	"72 years"	"72"	"Malignant neoplasm of prostate"	"C61"	26	42850	60.7
+	"Utah"	"49"	"72 years"	"72"	"Bladder, unspecified - Malignant neoplasms"	"C67.9"	10	42850	Unreliable
+	"Utah"	"49"	"72 years"	"72"	"Brain, unspecified - Malignant neoplasms"	"C71.9"	10	42850	Unreliable
+	"Utah"	"49"	"72 years"	"72"	"Malignant neoplasm without specification of site"	"C80"	11	42850	Unreliable
+	"Utah"	"49"	"72 years"	"72"	"Multiple myeloma - Malignant neoplasms"	"C90.0"	14	42850	Unreliable
+	"Utah"	"49"	"72 years"	"72"	"Non-insulin-dependent diabetes mellitus, without complications"	"E11.9"	12	42850	Unreliable
+	"Utah"	"49"	"72 years"	"72"	"Unspecified diabetes mellitus, with renal complications"	"E14.2"	14	42850	Unreliable
+	"Utah"	"49"	"72 years"	"72"	"Unspecified diabetes mellitus, without complications"	"E14.9"	16	42850	Unreliable
+	"Utah"	"49"	"72 years"	"72"	"Unspecified dementia"	"F03"	11	42850	Unreliable
+	"Utah"	"49"	"72 years"	"72"	"Parkinson disease"	"G20"	26	42850	60.7
+	"Utah"	"49"	"72 years"	"72"	"Alzheimer disease, unspecified"	"G30.9"	13	42850	Unreliable
+	"Utah"	"49"	"72 years"	"72"	"Essential (primary) hypertension"	"I10"	10	42850	Unreliable
+	"Utah"	"49"	"72 years"	"72"	"Acute myocardial infarction, unspecified"	"I21.9"	32	42850	74.7
+	"Utah"	"49"	"72 years"	"72"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	22	42850	51.3
+	"Utah"	"49"	"72 years"	"72"	"Atherosclerotic heart disease"	"I25.1"	60	42850	140.0
+	"Utah"	"49"	"72 years"	"72"	"Congestive heart failure"	"I50.0"	15	42850	Unreliable
+	"Utah"	"49"	"72 years"	"72"	"Stroke, not specified as haemorrhage or infarction"	"I64"	16	42850	Unreliable
+	"Utah"	"49"	"72 years"	"72"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	11	42850	Unreliable
+	"Utah"	"49"	"72 years"	"72"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	57	42850	133.0
+	"Utah"	"49"	"72 years"	"72"	"Other and unspecified cirrhosis of liver"	"K74.6"	12	42850	Unreliable
+	"Utah"	"49"	"72 years"	"72"	"Other ill-defined and unspecified causes of mortality"	"R99"	12	42850	Unreliable
+	"Utah"	"49"	"72 years"	"72"	"COVID-19"	"U07.1"	28	42850	65.3
+	"Utah"	"49"	"73 years"	"73"	"Septicaemia, unspecified"	"A41.9"	19	39709	Unreliable
+	"Utah"	"49"	"73 years"	"73"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	14	39709	Unreliable
+	"Utah"	"49"	"73 years"	"73"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	29	39709	73.0
+	"Utah"	"49"	"73 years"	"73"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	44	39709	110.8
+	"Utah"	"49"	"73 years"	"73"	"Malignant neoplasm of prostate"	"C61"	29	39709	73.0
+	"Utah"	"49"	"73 years"	"73"	"Malignant neoplasm without specification of site"	"C80"	17	39709	Unreliable
+	"Utah"	"49"	"73 years"	"73"	"Acute myeloid leukaemia - Malignant neoplasms"	"C92.0"	13	39709	Unreliable
+	"Utah"	"49"	"73 years"	"73"	"Unspecified diabetes mellitus, with renal complications"	"E14.2"	11	39709	Unreliable
+	"Utah"	"49"	"73 years"	"73"	"Unspecified diabetes mellitus, without complications"	"E14.9"	16	39709	Unreliable
+	"Utah"	"49"	"73 years"	"73"	"Unspecified dementia"	"F03"	15	39709	Unreliable
+	"Utah"	"49"	"73 years"	"73"	"Parkinson disease"	"G20"	16	39709	Unreliable
+	"Utah"	"49"	"73 years"	"73"	"Alzheimer disease, unspecified"	"G30.9"	28	39709	70.5
+	"Utah"	"49"	"73 years"	"73"	"Acute myocardial infarction, unspecified"	"I21.9"	27	39709	68.0
+	"Utah"	"49"	"73 years"	"73"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	18	39709	Unreliable
+	"Utah"	"49"	"73 years"	"73"	"Atherosclerotic heart disease"	"I25.1"	46	39709	115.8
+	"Utah"	"49"	"73 years"	"73"	"Congestive heart failure"	"I50.0"	20	39709	50.4
+	"Utah"	"49"	"73 years"	"73"	"Stroke, not specified as haemorrhage or infarction"	"I64"	18	39709	Unreliable
+	"Utah"	"49"	"73 years"	"73"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	62	39709	156.1
+	"Utah"	"49"	"73 years"	"73"	"Other interstitial pulmonary diseases with fibrosis"	"J84.1"	10	39709	Unreliable
+	"Utah"	"49"	"73 years"	"73"	"Other ill-defined and unspecified causes of mortality"	"R99"	13	39709	Unreliable
+	"Utah"	"49"	"73 years"	"73"	"COVID-19"	"U07.1"	18	39709	Unreliable
+	"Utah"	"49"	"74 years"	"74"	"Septicaemia, unspecified"	"A41.9"	13	35541	Unreliable
+	"Utah"	"49"	"74 years"	"74"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	15	35541	Unreliable
+	"Utah"	"49"	"74 years"	"74"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	23	35541	64.7
+	"Utah"	"49"	"74 years"	"74"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	32	35541	90.0
+	"Utah"	"49"	"74 years"	"74"	"Malignant neoplasm of prostate"	"C61"	38	35541	106.9
+	"Utah"	"49"	"74 years"	"74"	"Bladder, unspecified - Malignant neoplasms"	"C67.9"	12	35541	Unreliable
+	"Utah"	"49"	"74 years"	"74"	"Brain, unspecified - Malignant neoplasms"	"C71.9"	10	35541	Unreliable
+	"Utah"	"49"	"74 years"	"74"	"Malignant neoplasm without specification of site"	"C80"	14	35541	Unreliable
+	"Utah"	"49"	"74 years"	"74"	"Non-Hodgkin lymphoma, unspecified type"	"C85.9"	10	35541	Unreliable
+	"Utah"	"49"	"74 years"	"74"	"Non-insulin-dependent diabetes mellitus, without complications"	"E11.9"	15	35541	Unreliable
+	"Utah"	"49"	"74 years"	"74"	"Unspecified diabetes mellitus, with renal complications"	"E14.2"	11	35541	Unreliable
+	"Utah"	"49"	"74 years"	"74"	"Unspecified diabetes mellitus, without complications"	"E14.9"	10	35541	Unreliable
+	"Utah"	"49"	"74 years"	"74"	"Unspecified dementia"	"F03"	19	35541	Unreliable
+	"Utah"	"49"	"74 years"	"74"	"Parkinson disease"	"G20"	30	35541	84.4
+	"Utah"	"49"	"74 years"	"74"	"Alzheimer disease, unspecified"	"G30.9"	26	35541	73.2
+	"Utah"	"49"	"74 years"	"74"	"Acute myocardial infarction, unspecified"	"I21.9"	28	35541	78.8
+	"Utah"	"49"	"74 years"	"74"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	18	35541	Unreliable
+	"Utah"	"49"	"74 years"	"74"	"Atherosclerotic heart disease"	"I25.1"	49	35541	137.9
+	"Utah"	"49"	"74 years"	"74"	"Congestive heart failure"	"I50.0"	29	35541	81.6
+	"Utah"	"49"	"74 years"	"74"	"Stroke, not specified as haemorrhage or infarction"	"I64"	20	35541	56.3
+	"Utah"	"49"	"74 years"	"74"	"Pneumonia, unspecified"	"J18.9"	11	35541	Unreliable
+	"Utah"	"49"	"74 years"	"74"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	62	35541	174.4
+	"Utah"	"49"	"74 years"	"74"	"COVID-19"	"U07.1"	14	35541	Unreliable
+	"Utah"	"49"	"75 years"	"75"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	47	33504	140.3
+	"Utah"	"49"	"75 years"	"75"	"Malignant neoplasm of prostate"	"C61"	40	33504	119.4
+	"Utah"	"49"	"75 years"	"75"	"Malignant neoplasm of kidney, except renal pelvis"	"C64"	13	33504	Unreliable
+	"Utah"	"49"	"75 years"	"75"	"Brain, unspecified - Malignant neoplasms"	"C71.9"	10	33504	Unreliable
+	"Utah"	"49"	"75 years"	"75"	"Malignant neoplasm without specification of site"	"C80"	15	33504	Unreliable
+	"Utah"	"49"	"75 years"	"75"	"Non-insulin-dependent diabetes mellitus, without complications"	"E11.9"	11	33504	Unreliable
+	"Utah"	"49"	"75 years"	"75"	"Unspecified diabetes mellitus, with renal complications"	"E14.2"	14	33504	Unreliable
+	"Utah"	"49"	"75 years"	"75"	"Unspecified diabetes mellitus, without complications"	"E14.9"	14	33504	Unreliable
+	"Utah"	"49"	"75 years"	"75"	"Unspecified dementia"	"F03"	15	33504	Unreliable
+	"Utah"	"49"	"75 years"	"75"	"Parkinson disease"	"G20"	36	33504	107.4
+	"Utah"	"49"	"75 years"	"75"	"Alzheimer disease, unspecified"	"G30.9"	34	33504	101.5
+	"Utah"	"49"	"75 years"	"75"	"Acute myocardial infarction, unspecified"	"I21.9"	33	33504	98.5
+	"Utah"	"49"	"75 years"	"75"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	12	33504	Unreliable
+	"Utah"	"49"	"75 years"	"75"	"Atherosclerotic heart disease"	"I25.1"	64	33504	191.0
+	"Utah"	"49"	"75 years"	"75"	"Ischaemic cardiomyopathy"	"I25.5"	10	33504	Unreliable
+	"Utah"	"49"	"75 years"	"75"	"Atrial fibrillation and flutter"	"I48"	14	33504	Unreliable
+	"Utah"	"49"	"75 years"	"75"	"Congestive heart failure"	"I50.0"	30	33504	89.5
+	"Utah"	"49"	"75 years"	"75"	"Stroke, not specified as haemorrhage or infarction"	"I64"	20	33504	59.7
+	"Utah"	"49"	"75 years"	"75"	"Pneumonia, unspecified"	"J18.9"	19	33504	Unreliable
+	"Utah"	"49"	"75 years"	"75"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	49	33504	146.3
+	"Utah"	"49"	"75 years"	"75"	"Other interstitial pulmonary diseases with fibrosis"	"J84.1"	11	33504	Unreliable
+	"Utah"	"49"	"75 years"	"75"	"Other ill-defined and unspecified causes of mortality"	"R99"	12	33504	Unreliable
+	"Utah"	"49"	"75 years"	"75"	"COVID-19"	"U07.1"	16	33504	Unreliable
+	"Utah"	"49"	"76 years"	"76"	"Septicaemia, unspecified"	"A41.9"	14	31285	Unreliable
+	"Utah"	"49"	"76 years"	"76"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	23	31285	73.5
+	"Utah"	"49"	"76 years"	"76"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	20	31285	63.9
+	"Utah"	"49"	"76 years"	"76"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	51	31285	163.0
+	"Utah"	"49"	"76 years"	"76"	"Malignant neoplasm of prostate"	"C61"	33	31285	105.5
+	"Utah"	"49"	"76 years"	"76"	"Malignant neoplasm of kidney, except renal pelvis"	"C64"	12	31285	Unreliable
+	"Utah"	"49"	"76 years"	"76"	"Malignant neoplasm without specification of site"	"C80"	14	31285	Unreliable
+	"Utah"	"49"	"76 years"	"76"	"Non-insulin-dependent diabetes mellitus, with renal complications"	"E11.2"	10	31285	Unreliable
+	"Utah"	"49"	"76 years"	"76"	"Unspecified diabetes mellitus, without complications"	"E14.9"	16	31285	Unreliable
+	"Utah"	"49"	"76 years"	"76"	"Unspecified dementia"	"F03"	21	31285	67.1
+	"Utah"	"49"	"76 years"	"76"	"Parkinson disease"	"G20"	34	31285	108.7
+	"Utah"	"49"	"76 years"	"76"	"Alzheimer disease, unspecified"	"G30.9"	46	31285	147.0
+	"Utah"	"49"	"76 years"	"76"	"Other specified degenerative diseases of nervous system"	"G31.8"	12	31285	Unreliable
+	"Utah"	"49"	"76 years"	"76"	"Acute myocardial infarction, unspecified"	"I21.9"	43	31285	137.4
+	"Utah"	"49"	"76 years"	"76"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	17	31285	Unreliable
+	"Utah"	"49"	"76 years"	"76"	"Atherosclerotic heart disease"	"I25.1"	58	31285	185.4
+	"Utah"	"49"	"76 years"	"76"	"Congestive heart failure"	"I50.0"	33	31285	105.5
+	"Utah"	"49"	"76 years"	"76"	"Stroke, not specified as haemorrhage or infarction"	"I64"	40	31285	127.9
+	"Utah"	"49"	"76 years"	"76"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	68	31285	217.4
+	"Utah"	"49"	"76 years"	"76"	"Other interstitial pulmonary diseases with fibrosis"	"J84.1"	10	31285	Unreliable
+	"Utah"	"49"	"76 years"	"76"	"Other ill-defined and unspecified causes of mortality"	"R99"	14	31285	Unreliable
+	"Utah"	"49"	"76 years"	"76"	"COVID-19"	"U07.1"	23	31285	73.5
+	"Utah"	"49"	"77 years"	"77"	"Septicaemia, unspecified"	"A41.9"	15	28527	Unreliable
+	"Utah"	"49"	"77 years"	"77"	"Oesophagus, unspecified - Malignant neoplasms"	"C15.9"	10	28527	Unreliable
+	"Utah"	"49"	"77 years"	"77"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	17	28527	Unreliable
+	"Utah"	"49"	"77 years"	"77"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	19	28527	Unreliable
+	"Utah"	"49"	"77 years"	"77"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	47	28527	164.8
+	"Utah"	"49"	"77 years"	"77"	"Malignant neoplasm of prostate"	"C61"	39	28527	136.7
+	"Utah"	"49"	"77 years"	"77"	"Brain, unspecified - Malignant neoplasms"	"C71.9"	11	28527	Unreliable
+	"Utah"	"49"	"77 years"	"77"	"Malignant neoplasm without specification of site"	"C80"	14	28527	Unreliable
+	"Utah"	"49"	"77 years"	"77"	"Multiple myeloma - Malignant neoplasms"	"C90.0"	10	28527	Unreliable
+	"Utah"	"49"	"77 years"	"77"	"Unspecified diabetes mellitus, with renal complications"	"E14.2"	10	28527	Unreliable
+	"Utah"	"49"	"77 years"	"77"	"Unspecified dementia"	"F03"	21	28527	73.6
+	"Utah"	"49"	"77 years"	"77"	"Parkinson disease"	"G20"	35	28527	122.7
+	"Utah"	"49"	"77 years"	"77"	"Alzheimer disease, unspecified"	"G30.9"	38	28527	133.2
+	"Utah"	"49"	"77 years"	"77"	"Essential (primary) hypertension"	"I10"	11	28527	Unreliable
+	"Utah"	"49"	"77 years"	"77"	"Acute myocardial infarction, unspecified"	"I21.9"	41	28527	143.7
+	"Utah"	"49"	"77 years"	"77"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	21	28527	73.6
+	"Utah"	"49"	"77 years"	"77"	"Atherosclerotic heart disease"	"I25.1"	63	28527	220.8
+	"Utah"	"49"	"77 years"	"77"	"Ischaemic cardiomyopathy"	"I25.5"	10	28527	Unreliable
+	"Utah"	"49"	"77 years"	"77"	"Atrial fibrillation and flutter"	"I48"	11	28527	Unreliable
+	"Utah"	"49"	"77 years"	"77"	"Congestive heart failure"	"I50.0"	27	28527	94.6
+	"Utah"	"49"	"77 years"	"77"	"Stroke, not specified as haemorrhage or infarction"	"I64"	22	28527	77.1
+	"Utah"	"49"	"77 years"	"77"	"Pneumonia, unspecified"	"J18.9"	11	28527	Unreliable
+	"Utah"	"49"	"77 years"	"77"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	61	28527	213.8
+	"Utah"	"49"	"77 years"	"77"	"Other interstitial pulmonary diseases with fibrosis"	"J84.1"	11	28527	Unreliable
+	"Utah"	"49"	"77 years"	"77"	"Other and unspecified cirrhosis of liver"	"K74.6"	10	28527	Unreliable
+	"Utah"	"49"	"77 years"	"77"	"COVID-19"	"U07.1"	31	28527	108.7
+	"Utah"	"49"	"77 years"	"77"	"Other fall on same level"	"W18"	10	28527	Unreliable
+	"Utah"	"49"	"78 years"	"78"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	11	25795	Unreliable
+	"Utah"	"49"	"78 years"	"78"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	23	25795	89.2
+	"Utah"	"49"	"78 years"	"78"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	36	25795	139.6
+	"Utah"	"49"	"78 years"	"78"	"Malignant neoplasm of prostate"	"C61"	42	25795	162.8
+	"Utah"	"49"	"78 years"	"78"	"Bladder, unspecified - Malignant neoplasms"	"C67.9"	14	25795	Unreliable
+	"Utah"	"49"	"78 years"	"78"	"Malignant neoplasm without specification of site"	"C80"	13	25795	Unreliable
+	"Utah"	"49"	"78 years"	"78"	"Non-insulin-dependent diabetes mellitus, without complications"	"E11.9"	14	25795	Unreliable
+	"Utah"	"49"	"78 years"	"78"	"Unspecified diabetes mellitus, without complications"	"E14.9"	22	25795	85.3
+	"Utah"	"49"	"78 years"	"78"	"Vascular dementia, unspecified"	"F01.9"	10	25795	Unreliable
+	"Utah"	"49"	"78 years"	"78"	"Unspecified dementia"	"F03"	26	25795	100.8
+	"Utah"	"49"	"78 years"	"78"	"Parkinson disease"	"G20"	40	25795	155.1
+	"Utah"	"49"	"78 years"	"78"	"Alzheimer disease, unspecified"	"G30.9"	32	25795	124.1
+	"Utah"	"49"	"78 years"	"78"	"Other specified degenerative diseases of nervous system"	"G31.8"	12	25795	Unreliable
+	"Utah"	"49"	"78 years"	"78"	"Acute myocardial infarction, unspecified"	"I21.9"	38	25795	147.3
+	"Utah"	"49"	"78 years"	"78"	"Atherosclerotic heart disease"	"I25.1"	49	25795	190.0
+	"Utah"	"49"	"78 years"	"78"	"Atrial fibrillation and flutter"	"I48"	15	25795	Unreliable
+	"Utah"	"49"	"78 years"	"78"	"Congestive heart failure"	"I50.0"	29	25795	112.4
+	"Utah"	"49"	"78 years"	"78"	"Cerebral infarction, unspecified"	"I63.9"	10	25795	Unreliable
+	"Utah"	"49"	"78 years"	"78"	"Stroke, not specified as haemorrhage or infarction"	"I64"	24	25795	93.0
+	"Utah"	"49"	"78 years"	"78"	"Pneumonia, unspecified"	"J18.9"	22	25795	85.3
+	"Utah"	"49"	"78 years"	"78"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	64	25795	248.1
+	"Utah"	"49"	"78 years"	"78"	"Other interstitial pulmonary diseases with fibrosis"	"J84.1"	11	25795	Unreliable
+	"Utah"	"49"	"78 years"	"78"	"Other ill-defined and unspecified causes of mortality"	"R99"	10	25795	Unreliable
+	"Utah"	"49"	"78 years"	"78"	"COVID-19"	"U07.1"	19	25795	Unreliable
+	"Utah"	"49"	"78 years"	"78"	"Other fall on same level"	"W18"	10	25795	Unreliable
+	"Utah"	"49"	"79 years"	"79"	"Oesophagus, unspecified - Malignant neoplasms"	"C15.9"	12	23668	Unreliable
+	"Utah"	"49"	"79 years"	"79"	"Stomach, unspecified - Malignant neoplasms"	"C16.9"	10	23668	Unreliable
+	"Utah"	"49"	"79 years"	"79"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	11	23668	Unreliable
+	"Utah"	"49"	"79 years"	"79"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	21	23668	88.7
+	"Utah"	"49"	"79 years"	"79"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	41	23668	173.2
+	"Utah"	"49"	"79 years"	"79"	"Malignant neoplasm of prostate"	"C61"	32	23668	135.2
+	"Utah"	"49"	"79 years"	"79"	"Malignant neoplasm without specification of site"	"C80"	16	23668	Unreliable
+	"Utah"	"49"	"79 years"	"79"	"Non-insulin-dependent diabetes mellitus, with renal complications"	"E11.2"	11	23668	Unreliable
+	"Utah"	"49"	"79 years"	"79"	"Non-insulin-dependent diabetes mellitus, without complications"	"E11.9"	10	23668	Unreliable
+	"Utah"	"49"	"79 years"	"79"	"Unspecified diabetes mellitus, with renal complications"	"E14.2"	21	23668	88.7
+	"Utah"	"49"	"79 years"	"79"	"Unspecified diabetes mellitus, without complications"	"E14.9"	17	23668	Unreliable
+	"Utah"	"49"	"79 years"	"79"	"Unspecified dementia"	"F03"	36	23668	152.1
+	"Utah"	"49"	"79 years"	"79"	"Parkinson disease"	"G20"	45	23668	190.1
+	"Utah"	"49"	"79 years"	"79"	"Alzheimer disease, unspecified"	"G30.9"	55	23668	232.4
+	"Utah"	"49"	"79 years"	"79"	"Acute myocardial infarction, unspecified"	"I21.9"	28	23668	118.3
+	"Utah"	"49"	"79 years"	"79"	"Atherosclerotic heart disease"	"I25.1"	66	23668	278.9
+	"Utah"	"49"	"79 years"	"79"	"Congestive heart failure"	"I50.0"	42	23668	177.5
+	"Utah"	"49"	"79 years"	"79"	"Stroke, not specified as haemorrhage or infarction"	"I64"	32	23668	135.2
+	"Utah"	"49"	"79 years"	"79"	"Pneumonia, unspecified"	"J18.9"	10	23668	Unreliable
+	"Utah"	"49"	"79 years"	"79"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	11	23668	Unreliable
+	"Utah"	"49"	"79 years"	"79"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	69	23668	291.5
+	"Utah"	"49"	"79 years"	"79"	"Pneumonitis due to food and vomit"	"J69.0"	10	23668	Unreliable
+	"Utah"	"49"	"79 years"	"79"	"Other interstitial pulmonary diseases with fibrosis"	"J84.1"	11	23668	Unreliable
+	"Utah"	"49"	"79 years"	"79"	"Other ill-defined and unspecified causes of mortality"	"R99"	15	23668	Unreliable
+	"Utah"	"49"	"79 years"	"79"	"COVID-19"	"U07.1"	19	23668	Unreliable
+	"Utah"	"49"	"80 years"	"80"	"Septicaemia, unspecified"	"A41.9"	12	21962	Unreliable
+	"Utah"	"49"	"80 years"	"80"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	20	21962	91.1
+	"Utah"	"49"	"80 years"	"80"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	33	21962	150.3
+	"Utah"	"49"	"80 years"	"80"	"Malignant neoplasm of prostate"	"C61"	37	21962	168.5
+	"Utah"	"49"	"80 years"	"80"	"Malignant neoplasm of kidney, except renal pelvis"	"C64"	10	21962	Unreliable
+	"Utah"	"49"	"80 years"	"80"	"Bladder, unspecified - Malignant neoplasms"	"C67.9"	13	21962	Unreliable
+	"Utah"	"49"	"80 years"	"80"	"Malignant neoplasm without specification of site"	"C80"	18	21962	Unreliable
+	"Utah"	"49"	"80 years"	"80"	"Acute myeloid leukaemia - Malignant neoplasms"	"C92.0"	11	21962	Unreliable
+	"Utah"	"49"	"80 years"	"80"	"Non-insulin-dependent diabetes mellitus, with renal complications"	"E11.2"	11	21962	Unreliable
+	"Utah"	"49"	"80 years"	"80"	"Unspecified diabetes mellitus, without complications"	"E14.9"	11	21962	Unreliable
+	"Utah"	"49"	"80 years"	"80"	"Unspecified dementia"	"F03"	42	21962	191.2
+	"Utah"	"49"	"80 years"	"80"	"Parkinson disease"	"G20"	50	21962	227.7
+	"Utah"	"49"	"80 years"	"80"	"Alzheimer disease, unspecified"	"G30.9"	49	21962	223.1
+	"Utah"	"49"	"80 years"	"80"	"Acute myocardial infarction, unspecified"	"I21.9"	32	21962	145.7
+	"Utah"	"49"	"80 years"	"80"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	16	21962	Unreliable
+	"Utah"	"49"	"80 years"	"80"	"Atherosclerotic heart disease"	"I25.1"	58	21962	264.1
+	"Utah"	"49"	"80 years"	"80"	"Atrial fibrillation and flutter"	"I48"	10	21962	Unreliable
+	"Utah"	"49"	"80 years"	"80"	"Congestive heart failure"	"I50.0"	52	21962	236.8
+	"Utah"	"49"	"80 years"	"80"	"Stroke, not specified as haemorrhage or infarction"	"I64"	20	21962	91.1
+	"Utah"	"49"	"80 years"	"80"	"Pneumonia, unspecified"	"J18.9"	15	21962	Unreliable
+	"Utah"	"49"	"80 years"	"80"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	12	21962	Unreliable
+	"Utah"	"49"	"80 years"	"80"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	69	21962	314.2
+	"Utah"	"49"	"80 years"	"80"	"Pneumonitis due to food and vomit"	"J69.0"	11	21962	Unreliable
+	"Utah"	"49"	"80 years"	"80"	"Other interstitial pulmonary diseases with fibrosis"	"J84.1"	12	21962	Unreliable
+	"Utah"	"49"	"80 years"	"80"	"Other and unspecified cirrhosis of liver"	"K74.6"	10	21962	Unreliable
+	"Utah"	"49"	"80 years"	"80"	"COVID-19"	"U07.1"	28	21962	127.5
+	"Utah"	"49"	"80 years"	"80"	"Other fall on same level"	"W18"	11	21962	Unreliable
+	"Utah"	"49"	"81 years"	"81"	"Septicaemia, unspecified"	"A41.9"	18	20218	Unreliable
+	"Utah"	"49"	"81 years"	"81"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	10	20218	Unreliable
+	"Utah"	"49"	"81 years"	"81"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	22	20218	108.8
+	"Utah"	"49"	"81 years"	"81"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	35	20218	173.1
+	"Utah"	"49"	"81 years"	"81"	"Malignant neoplasm of prostate"	"C61"	43	20218	212.7
+	"Utah"	"49"	"81 years"	"81"	"Malignant neoplasm without specification of site"	"C80"	12	20218	Unreliable
+	"Utah"	"49"	"81 years"	"81"	"Unspecified diabetes mellitus, without complications"	"E14.9"	11	20218	Unreliable
+	"Utah"	"49"	"81 years"	"81"	"Unspecified dementia"	"F03"	51	20218	252.3
+	"Utah"	"49"	"81 years"	"81"	"Parkinson disease"	"G20"	46	20218	227.5
+	"Utah"	"49"	"81 years"	"81"	"Alzheimer disease, unspecified"	"G30.9"	75	20218	371.0
+	"Utah"	"49"	"81 years"	"81"	"Other specified degenerative diseases of nervous system"	"G31.8"	14	20218	Unreliable
+	"Utah"	"49"	"81 years"	"81"	"Acute myocardial infarction, unspecified"	"I21.9"	34	20218	168.2
+	"Utah"	"49"	"81 years"	"81"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	16	20218	Unreliable
+	"Utah"	"49"	"81 years"	"81"	"Atherosclerotic heart disease"	"I25.1"	68	20218	336.3
+	"Utah"	"49"	"81 years"	"81"	"Ischaemic cardiomyopathy"	"I25.5"	11	20218	Unreliable
+	"Utah"	"49"	"81 years"	"81"	"Congestive heart failure"	"I50.0"	50	20218	247.3
+	"Utah"	"49"	"81 years"	"81"	"Intracerebral haemorrhage, unspecified"	"I61.9"	10	20218	Unreliable
+	"Utah"	"49"	"81 years"	"81"	"Stroke, not specified as haemorrhage or infarction"	"I64"	37	20218	183.0
+	"Utah"	"49"	"81 years"	"81"	"Pneumonia, unspecified"	"J18.9"	16	20218	Unreliable
+	"Utah"	"49"	"81 years"	"81"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	60	20218	296.8
+	"Utah"	"49"	"81 years"	"81"	"Pneumonitis due to food and vomit"	"J69.0"	16	20218	Unreliable
+	"Utah"	"49"	"81 years"	"81"	"Other and unspecified cirrhosis of liver"	"K74.6"	11	20218	Unreliable
+	"Utah"	"49"	"81 years"	"81"	"COVID-19"	"U07.1"	22	20218	108.8
+	"Utah"	"49"	"81 years"	"81"	"Other fall on same level"	"W18"	16	20218	Unreliable
+	"Utah"	"49"	"82 years"	"82"	"Septicaemia, unspecified"	"A41.9"	15	18476	Unreliable
+	"Utah"	"49"	"82 years"	"82"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	21	18476	113.7
+	"Utah"	"49"	"82 years"	"82"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	35	18476	189.4
+	"Utah"	"49"	"82 years"	"82"	"Malignant neoplasm of prostate"	"C61"	55	18476	297.7
+	"Utah"	"49"	"82 years"	"82"	"Malignant neoplasm of kidney, except renal pelvis"	"C64"	11	18476	Unreliable
+	"Utah"	"49"	"82 years"	"82"	"Bladder, unspecified - Malignant neoplasms"	"C67.9"	14	18476	Unreliable
+	"Utah"	"49"	"82 years"	"82"	"Malignant neoplasm without specification of site"	"C80"	10	18476	Unreliable
+	"Utah"	"49"	"82 years"	"82"	"Multiple myeloma - Malignant neoplasms"	"C90.0"	10	18476	Unreliable
+	"Utah"	"49"	"82 years"	"82"	"Non-insulin-dependent diabetes mellitus, without complications"	"E11.9"	12	18476	Unreliable
+	"Utah"	"49"	"82 years"	"82"	"Unspecified diabetes mellitus, with renal complications"	"E14.2"	12	18476	Unreliable
+	"Utah"	"49"	"82 years"	"82"	"Unspecified diabetes mellitus, without complications"	"E14.9"	25	18476	135.3
+	"Utah"	"49"	"82 years"	"82"	"Vascular dementia, unspecified"	"F01.9"	13	18476	Unreliable
+	"Utah"	"49"	"82 years"	"82"	"Unspecified dementia"	"F03"	48	18476	259.8
+	"Utah"	"49"	"82 years"	"82"	"Parkinson disease"	"G20"	42	18476	227.3
+	"Utah"	"49"	"82 years"	"82"	"Alzheimer disease, unspecified"	"G30.9"	73	18476	395.1
+	"Utah"	"49"	"82 years"	"82"	"Acute myocardial infarction, unspecified"	"I21.9"	46	18476	249.0
+	"Utah"	"49"	"82 years"	"82"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	12	18476	Unreliable
+	"Utah"	"49"	"82 years"	"82"	"Atherosclerotic heart disease"	"I25.1"	84	18476	454.6
+	"Utah"	"49"	"82 years"	"82"	"Atrial fibrillation and flutter"	"I48"	14	18476	Unreliable
+	"Utah"	"49"	"82 years"	"82"	"Congestive heart failure"	"I50.0"	40	18476	216.5
+	"Utah"	"49"	"82 years"	"82"	"Intracerebral haemorrhage, unspecified"	"I61.9"	10	18476	Unreliable
+	"Utah"	"49"	"82 years"	"82"	"Stroke, not specified as haemorrhage or infarction"	"I64"	37	18476	200.3
+	"Utah"	"49"	"82 years"	"82"	"Pneumonia, unspecified"	"J18.9"	20	18476	108.2
+	"Utah"	"49"	"82 years"	"82"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	14	18476	Unreliable
+	"Utah"	"49"	"82 years"	"82"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	58	18476	313.9
+	"Utah"	"49"	"82 years"	"82"	"Other interstitial pulmonary diseases with fibrosis"	"J84.1"	17	18476	Unreliable
+	"Utah"	"49"	"82 years"	"82"	"Chronic kidney disease, stage 5"	"N18.5"	10	18476	Unreliable
+	"Utah"	"49"	"82 years"	"82"	"Other ill-defined and unspecified causes of mortality"	"R99"	10	18476	Unreliable
+	"Utah"	"49"	"82 years"	"82"	"COVID-19"	"U07.1"	28	18476	151.5
+	"Utah"	"49"	"82 years"	"82"	"Other fall on same level"	"W18"	12	18476	Unreliable
+	"Utah"	"49"	"83 years"	"83"	"Septicaemia, unspecified"	"A41.9"	20	16479	121.4
+	"Utah"	"49"	"83 years"	"83"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	10	16479	Unreliable
+	"Utah"	"49"	"83 years"	"83"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	14	16479	Unreliable
+	"Utah"	"49"	"83 years"	"83"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	37	16479	224.5
+	"Utah"	"49"	"83 years"	"83"	"Malignant neoplasm of prostate"	"C61"	41	16479	248.8
+	"Utah"	"49"	"83 years"	"83"	"Bladder, unspecified - Malignant neoplasms"	"C67.9"	14	16479	Unreliable
+	"Utah"	"49"	"83 years"	"83"	"Multiple myeloma - Malignant neoplasms"	"C90.0"	11	16479	Unreliable
+	"Utah"	"49"	"83 years"	"83"	"Unspecified diabetes mellitus, with renal complications"	"E14.2"	15	16479	Unreliable
+	"Utah"	"49"	"83 years"	"83"	"Unspecified diabetes mellitus, without complications"	"E14.9"	12	16479	Unreliable
+	"Utah"	"49"	"83 years"	"83"	"Unspecified dementia"	"F03"	47	16479	285.2
+	"Utah"	"49"	"83 years"	"83"	"Parkinson disease"	"G20"	49	16479	297.3
+	"Utah"	"49"	"83 years"	"83"	"Alzheimer disease, unspecified"	"G30.9"	97	16479	588.6
+	"Utah"	"49"	"83 years"	"83"	"Hypertensive heart disease with (congestive) heart failure"	"I11.0"	12	16479	Unreliable
+	"Utah"	"49"	"83 years"	"83"	"Acute myocardial infarction, unspecified"	"I21.9"	46	16479	279.1
+	"Utah"	"49"	"83 years"	"83"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	11	16479	Unreliable
+	"Utah"	"49"	"83 years"	"83"	"Atherosclerotic heart disease"	"I25.1"	90	16479	546.1
+	"Utah"	"49"	"83 years"	"83"	"Atrial fibrillation and flutter"	"I48"	15	16479	Unreliable
+	"Utah"	"49"	"83 years"	"83"	"Congestive heart failure"	"I50.0"	59	16479	358.0
+	"Utah"	"49"	"83 years"	"83"	"Heart failure, unspecified"	"I50.9"	12	16479	Unreliable
+	"Utah"	"49"	"83 years"	"83"	"Cardiovascular disease, unspecified"	"I51.6"	11	16479	Unreliable
+	"Utah"	"49"	"83 years"	"83"	"Stroke, not specified as haemorrhage or infarction"	"I64"	29	16479	176.0
+	"Utah"	"49"	"83 years"	"83"	"Pneumonia, unspecified"	"J18.9"	17	16479	Unreliable
+	"Utah"	"49"	"83 years"	"83"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	54	16479	327.7
+	"Utah"	"49"	"83 years"	"83"	"Pneumonitis due to food and vomit"	"J69.0"	10	16479	Unreliable
+	"Utah"	"49"	"83 years"	"83"	"Other interstitial pulmonary diseases with fibrosis"	"J84.1"	14	16479	Unreliable
+	"Utah"	"49"	"83 years"	"83"	"Chronic kidney disease, stage 5"	"N18.5"	19	16479	Unreliable
+	"Utah"	"49"	"83 years"	"83"	"COVID-19"	"U07.1"	35	16479	212.4
+	"Utah"	"49"	"83 years"	"83"	"Other fall on same level"	"W18"	13	16479	Unreliable
+	"Utah"	"49"	"84 years"	"84"	"Septicaemia, unspecified"	"A41.9"	10	14902	Unreliable
+	"Utah"	"49"	"84 years"	"84"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	12	14902	Unreliable
+	"Utah"	"49"	"84 years"	"84"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	15	14902	Unreliable
+	"Utah"	"49"	"84 years"	"84"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	33	14902	221.4
+	"Utah"	"49"	"84 years"	"84"	"Malignant neoplasm of prostate"	"C61"	45	14902	302.0
+	"Utah"	"49"	"84 years"	"84"	"Bladder, unspecified - Malignant neoplasms"	"C67.9"	11	14902	Unreliable
+	"Utah"	"49"	"84 years"	"84"	"Malignant neoplasm without specification of site"	"C80"	10	14902	Unreliable
+	"Utah"	"49"	"84 years"	"84"	"Non-insulin-dependent diabetes mellitus, without complications"	"E11.9"	19	14902	Unreliable
+	"Utah"	"49"	"84 years"	"84"	"Unspecified diabetes mellitus, with renal complications"	"E14.2"	13	14902	Unreliable
+	"Utah"	"49"	"84 years"	"84"	"Unspecified diabetes mellitus, without complications"	"E14.9"	14	14902	Unreliable
+	"Utah"	"49"	"84 years"	"84"	"Vascular dementia, unspecified"	"F01.9"	13	14902	Unreliable
+	"Utah"	"49"	"84 years"	"84"	"Unspecified dementia"	"F03"	53	14902	355.7
+	"Utah"	"49"	"84 years"	"84"	"Parkinson disease"	"G20"	52	14902	348.9
+	"Utah"	"49"	"84 years"	"84"	"Alzheimer disease, unspecified"	"G30.9"	75	14902	503.3
+	"Utah"	"49"	"84 years"	"84"	"Acute myocardial infarction, unspecified"	"I21.9"	35	14902	234.9
+	"Utah"	"49"	"84 years"	"84"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	14	14902	Unreliable
+	"Utah"	"49"	"84 years"	"84"	"Atherosclerotic heart disease"	"I25.1"	107	14902	718.0
+	"Utah"	"49"	"84 years"	"84"	"Atrial fibrillation and flutter"	"I48"	17	14902	Unreliable
+	"Utah"	"49"	"84 years"	"84"	"Congestive heart failure"	"I50.0"	70	14902	469.7
+	"Utah"	"49"	"84 years"	"84"	"Heart failure, unspecified"	"I50.9"	12	14902	Unreliable
+	"Utah"	"49"	"84 years"	"84"	"Stroke, not specified as haemorrhage or infarction"	"I64"	49	14902	328.8
+	"Utah"	"49"	"84 years"	"84"	"Pneumonia, unspecified"	"J18.9"	18	14902	Unreliable
+	"Utah"	"49"	"84 years"	"84"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	72	14902	483.2
+	"Utah"	"49"	"84 years"	"84"	"Pneumonitis due to food and vomit"	"J69.0"	12	14902	Unreliable
+	"Utah"	"49"	"84 years"	"84"	"Other interstitial pulmonary diseases with fibrosis"	"J84.1"	12	14902	Unreliable
+	"Utah"	"49"	"84 years"	"84"	"Chronic kidney disease, stage 5"	"N18.5"	13	14902	Unreliable
+	"Utah"	"49"	"84 years"	"84"	"Unspecified renal failure"	"N19"	13	14902	Unreliable
+	"Utah"	"49"	"84 years"	"84"	"COVID-19"	"U07.1"	23	14902	154.3
+	"Utah"	"49"	"84 years"	"84"	"Other fall on same level"	"W18"	18	14902	Unreliable
+	"Utah"	"49"	"85 years"	"85"	"Septicaemia, unspecified"	"A41.9"	14	Not Applicable	Not Applicable
+	"Utah"	"49"	"85 years"	"85"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	11	Not Applicable	Not Applicable
+	"Utah"	"49"	"85 years"	"85"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	19	Not Applicable	Not Applicable
+	"Utah"	"49"	"85 years"	"85"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	30	Not Applicable	Not Applicable
+	"Utah"	"49"	"85 years"	"85"	"Malignant neoplasm of prostate"	"C61"	46	Not Applicable	Not Applicable
+	"Utah"	"49"	"85 years"	"85"	"Bladder, unspecified - Malignant neoplasms"	"C67.9"	12	Not Applicable	Not Applicable
+	"Utah"	"49"	"85 years"	"85"	"Malignant neoplasm without specification of site"	"C80"	17	Not Applicable	Not Applicable
+	"Utah"	"49"	"85 years"	"85"	"Non-insulin-dependent diabetes mellitus, without complications"	"E11.9"	10	Not Applicable	Not Applicable
+	"Utah"	"49"	"85 years"	"85"	"Unspecified diabetes mellitus, with renal complications"	"E14.2"	12	Not Applicable	Not Applicable
+	"Utah"	"49"	"85 years"	"85"	"Unspecified diabetes mellitus, without complications"	"E14.9"	13	Not Applicable	Not Applicable
+	"Utah"	"49"	"85 years"	"85"	"Unspecified dementia"	"F03"	57	Not Applicable	Not Applicable
+	"Utah"	"49"	"85 years"	"85"	"Parkinson disease"	"G20"	55	Not Applicable	Not Applicable
+	"Utah"	"49"	"85 years"	"85"	"Alzheimer disease, unspecified"	"G30.9"	79	Not Applicable	Not Applicable
+	"Utah"	"49"	"85 years"	"85"	"Acute myocardial infarction, unspecified"	"I21.9"	32	Not Applicable	Not Applicable
+	"Utah"	"49"	"85 years"	"85"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	12	Not Applicable	Not Applicable
+	"Utah"	"49"	"85 years"	"85"	"Atherosclerotic heart disease"	"I25.1"	95	Not Applicable	Not Applicable
+	"Utah"	"49"	"85 years"	"85"	"Atrial fibrillation and flutter"	"I48"	22	Not Applicable	Not Applicable
+	"Utah"	"49"	"85 years"	"85"	"Congestive heart failure"	"I50.0"	90	Not Applicable	Not Applicable
+	"Utah"	"49"	"85 years"	"85"	"Stroke, not specified as haemorrhage or infarction"	"I64"	47	Not Applicable	Not Applicable
+	"Utah"	"49"	"85 years"	"85"	"Pneumonia, unspecified"	"J18.9"	21	Not Applicable	Not Applicable
+	"Utah"	"49"	"85 years"	"85"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	57	Not Applicable	Not Applicable
+	"Utah"	"49"	"85 years"	"85"	"Pneumonitis due to food and vomit"	"J69.0"	19	Not Applicable	Not Applicable
+	"Utah"	"49"	"85 years"	"85"	"Other interstitial pulmonary diseases with fibrosis"	"J84.1"	13	Not Applicable	Not Applicable
+	"Utah"	"49"	"85 years"	"85"	"Chronic kidney disease, stage 5"	"N18.5"	12	Not Applicable	Not Applicable
+	"Utah"	"49"	"85 years"	"85"	"Unspecified renal failure"	"N19"	10	Not Applicable	Not Applicable
+	"Utah"	"49"	"85 years"	"85"	"COVID-19"	"U07.1"	18	Not Applicable	Not Applicable
+	"Utah"	"49"	"85 years"	"85"	"Other fall on same level"	"W18"	29	Not Applicable	Not Applicable
+	"Utah"	"49"	"86 years"	"86"	"Septicaemia, unspecified"	"A41.9"	20	Not Applicable	Not Applicable
+	"Utah"	"49"	"86 years"	"86"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	12	Not Applicable	Not Applicable
+	"Utah"	"49"	"86 years"	"86"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	24	Not Applicable	Not Applicable
+	"Utah"	"49"	"86 years"	"86"	"Malignant neoplasm of prostate"	"C61"	46	Not Applicable	Not Applicable
+	"Utah"	"49"	"86 years"	"86"	"Bladder, unspecified - Malignant neoplasms"	"C67.9"	16	Not Applicable	Not Applicable
+	"Utah"	"49"	"86 years"	"86"	"Unspecified diabetes mellitus, without complications"	"E14.9"	16	Not Applicable	Not Applicable
+	"Utah"	"49"	"86 years"	"86"	"Vascular dementia, unspecified"	"F01.9"	10	Not Applicable	Not Applicable
+	"Utah"	"49"	"86 years"	"86"	"Unspecified dementia"	"F03"	68	Not Applicable	Not Applicable
+	"Utah"	"49"	"86 years"	"86"	"Parkinson disease"	"G20"	60	Not Applicable	Not Applicable
+	"Utah"	"49"	"86 years"	"86"	"Alzheimer disease, unspecified"	"G30.9"	88	Not Applicable	Not Applicable
+	"Utah"	"49"	"86 years"	"86"	"Acute myocardial infarction, unspecified"	"I21.9"	26	Not Applicable	Not Applicable
+	"Utah"	"49"	"86 years"	"86"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	14	Not Applicable	Not Applicable
+	"Utah"	"49"	"86 years"	"86"	"Atherosclerotic heart disease"	"I25.1"	87	Not Applicable	Not Applicable
+	"Utah"	"49"	"86 years"	"86"	"Cardiomyopathy, unspecified"	"I42.9"	11	Not Applicable	Not Applicable
+	"Utah"	"49"	"86 years"	"86"	"Atrial fibrillation and flutter"	"I48"	25	Not Applicable	Not Applicable
+	"Utah"	"49"	"86 years"	"86"	"Congestive heart failure"	"I50.0"	80	Not Applicable	Not Applicable
+	"Utah"	"49"	"86 years"	"86"	"Cardiovascular disease, unspecified"	"I51.6"	11	Not Applicable	Not Applicable
+	"Utah"	"49"	"86 years"	"86"	"Stroke, not specified as haemorrhage or infarction"	"I64"	40	Not Applicable	Not Applicable
+	"Utah"	"49"	"86 years"	"86"	"Pneumonia, unspecified"	"J18.9"	21	Not Applicable	Not Applicable
+	"Utah"	"49"	"86 years"	"86"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	51	Not Applicable	Not Applicable
+	"Utah"	"49"	"86 years"	"86"	"Pneumonitis due to food and vomit"	"J69.0"	15	Not Applicable	Not Applicable
+	"Utah"	"49"	"86 years"	"86"	"Other interstitial pulmonary diseases with fibrosis"	"J84.1"	16	Not Applicable	Not Applicable
+	"Utah"	"49"	"86 years"	"86"	"COVID-19"	"U07.1"	28	Not Applicable	Not Applicable
+	"Utah"	"49"	"86 years"	"86"	"Other fall on same level"	"W18"	20	Not Applicable	Not Applicable
+	"Utah"	"49"	"87 years"	"87"	"Septicaemia, unspecified"	"A41.9"	12	Not Applicable	Not Applicable
+	"Utah"	"49"	"87 years"	"87"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	13	Not Applicable	Not Applicable
+	"Utah"	"49"	"87 years"	"87"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	11	Not Applicable	Not Applicable
+	"Utah"	"49"	"87 years"	"87"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	12	Not Applicable	Not Applicable
+	"Utah"	"49"	"87 years"	"87"	"Malignant neoplasm of prostate"	"C61"	46	Not Applicable	Not Applicable
+	"Utah"	"49"	"87 years"	"87"	"Bladder, unspecified - Malignant neoplasms"	"C67.9"	12	Not Applicable	Not Applicable
+	"Utah"	"49"	"87 years"	"87"	"Non-insulin-dependent diabetes mellitus, without complications"	"E11.9"	10	Not Applicable	Not Applicable
+	"Utah"	"49"	"87 years"	"87"	"Unspecified diabetes mellitus, without complications"	"E14.9"	12	Not Applicable	Not Applicable
+	"Utah"	"49"	"87 years"	"87"	"Vascular dementia, unspecified"	"F01.9"	21	Not Applicable	Not Applicable
+	"Utah"	"49"	"87 years"	"87"	"Unspecified dementia"	"F03"	76	Not Applicable	Not Applicable
+	"Utah"	"49"	"87 years"	"87"	"Parkinson disease"	"G20"	52	Not Applicable	Not Applicable
+	"Utah"	"49"	"87 years"	"87"	"Alzheimer disease, unspecified"	"G30.9"	92	Not Applicable	Not Applicable
+	"Utah"	"49"	"87 years"	"87"	"Acute myocardial infarction, unspecified"	"I21.9"	30	Not Applicable	Not Applicable
+	"Utah"	"49"	"87 years"	"87"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	16	Not Applicable	Not Applicable
+	"Utah"	"49"	"87 years"	"87"	"Atherosclerotic heart disease"	"I25.1"	94	Not Applicable	Not Applicable
+	"Utah"	"49"	"87 years"	"87"	"Atrial fibrillation and flutter"	"I48"	24	Not Applicable	Not Applicable
+	"Utah"	"49"	"87 years"	"87"	"Congestive heart failure"	"I50.0"	58	Not Applicable	Not Applicable
+	"Utah"	"49"	"87 years"	"87"	"Heart failure, unspecified"	"I50.9"	17	Not Applicable	Not Applicable
+	"Utah"	"49"	"87 years"	"87"	"Stroke, not specified as haemorrhage or infarction"	"I64"	41	Not Applicable	Not Applicable
+	"Utah"	"49"	"87 years"	"87"	"Pneumonia, unspecified"	"J18.9"	18	Not Applicable	Not Applicable
+	"Utah"	"49"	"87 years"	"87"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	46	Not Applicable	Not Applicable
+	"Utah"	"49"	"87 years"	"87"	"Pneumonitis due to food and vomit"	"J69.0"	10	Not Applicable	Not Applicable
+	"Utah"	"49"	"87 years"	"87"	"Other interstitial pulmonary diseases with fibrosis"	"J84.1"	11	Not Applicable	Not Applicable
+	"Utah"	"49"	"87 years"	"87"	"Chronic kidney disease, stage 5"	"N18.5"	12	Not Applicable	Not Applicable
+	"Utah"	"49"	"87 years"	"87"	"Chronic renal failure, unspecified"	"N18.9"	10	Not Applicable	Not Applicable
+	"Utah"	"49"	"87 years"	"87"	"Unspecified renal failure"	"N19"	14	Not Applicable	Not Applicable
+	"Utah"	"49"	"87 years"	"87"	"COVID-19"	"U07.1"	14	Not Applicable	Not Applicable
+	"Utah"	"49"	"87 years"	"87"	"Other fall on same level"	"W18"	21	Not Applicable	Not Applicable
+	"Utah"	"49"	"88 years"	"88"	"Septicaemia, unspecified"	"A41.9"	13	Not Applicable	Not Applicable
+	"Utah"	"49"	"88 years"	"88"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	12	Not Applicable	Not Applicable
+	"Utah"	"49"	"88 years"	"88"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	11	Not Applicable	Not Applicable
+	"Utah"	"49"	"88 years"	"88"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	18	Not Applicable	Not Applicable
+	"Utah"	"49"	"88 years"	"88"	"Malignant neoplasm of prostate"	"C61"	60	Not Applicable	Not Applicable
+	"Utah"	"49"	"88 years"	"88"	"Bladder, unspecified - Malignant neoplasms"	"C67.9"	15	Not Applicable	Not Applicable
+	"Utah"	"49"	"88 years"	"88"	"Non-insulin-dependent diabetes mellitus, without complications"	"E11.9"	10	Not Applicable	Not Applicable
+	"Utah"	"49"	"88 years"	"88"	"Unspecified diabetes mellitus, without complications"	"E14.9"	15	Not Applicable	Not Applicable
+	"Utah"	"49"	"88 years"	"88"	"Unspecified protein-energy malnutrition"	"E46"	11	Not Applicable	Not Applicable
+	"Utah"	"49"	"88 years"	"88"	"Vascular dementia, unspecified"	"F01.9"	10	Not Applicable	Not Applicable
+	"Utah"	"49"	"88 years"	"88"	"Unspecified dementia"	"F03"	49	Not Applicable	Not Applicable
+	"Utah"	"49"	"88 years"	"88"	"Parkinson disease"	"G20"	45	Not Applicable	Not Applicable
+	"Utah"	"49"	"88 years"	"88"	"Alzheimer disease, unspecified"	"G30.9"	88	Not Applicable	Not Applicable
+	"Utah"	"49"	"88 years"	"88"	"Acute myocardial infarction, unspecified"	"I21.9"	36	Not Applicable	Not Applicable
+	"Utah"	"49"	"88 years"	"88"	"Atherosclerotic heart disease"	"I25.1"	94	Not Applicable	Not Applicable
+	"Utah"	"49"	"88 years"	"88"	"Ischaemic cardiomyopathy"	"I25.5"	11	Not Applicable	Not Applicable
+	"Utah"	"49"	"88 years"	"88"	"Atrial fibrillation and flutter"	"I48"	26	Not Applicable	Not Applicable
+	"Utah"	"49"	"88 years"	"88"	"Congestive heart failure"	"I50.0"	82	Not Applicable	Not Applicable
+	"Utah"	"49"	"88 years"	"88"	"Heart failure, unspecified"	"I50.9"	15	Not Applicable	Not Applicable
+	"Utah"	"49"	"88 years"	"88"	"Stroke, not specified as haemorrhage or infarction"	"I64"	33	Not Applicable	Not Applicable
+	"Utah"	"49"	"88 years"	"88"	"Pneumonia, unspecified"	"J18.9"	23	Not Applicable	Not Applicable
+	"Utah"	"49"	"88 years"	"88"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	46	Not Applicable	Not Applicable
+	"Utah"	"49"	"88 years"	"88"	"Other interstitial pulmonary diseases with fibrosis"	"J84.1"	13	Not Applicable	Not Applicable
+	"Utah"	"49"	"88 years"	"88"	"Chronic renal failure, unspecified"	"N18.9"	15	Not Applicable	Not Applicable
+	"Utah"	"49"	"88 years"	"88"	"Unspecified renal failure"	"N19"	12	Not Applicable	Not Applicable
+	"Utah"	"49"	"88 years"	"88"	"COVID-19"	"U07.1"	19	Not Applicable	Not Applicable
+	"Utah"	"49"	"88 years"	"88"	"Other fall on same level"	"W18"	16	Not Applicable	Not Applicable
+	"Utah"	"49"	"89 years"	"89"	"Septicaemia, unspecified"	"A41.9"	12	Not Applicable	Not Applicable
+	"Utah"	"49"	"89 years"	"89"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	16	Not Applicable	Not Applicable
+	"Utah"	"49"	"89 years"	"89"	"Malignant neoplasm of prostate"	"C61"	51	Not Applicable	Not Applicable
+	"Utah"	"49"	"89 years"	"89"	"Bladder, unspecified - Malignant neoplasms"	"C67.9"	16	Not Applicable	Not Applicable
+	"Utah"	"49"	"89 years"	"89"	"Unspecified diabetes mellitus, without complications"	"E14.9"	14	Not Applicable	Not Applicable
+	"Utah"	"49"	"89 years"	"89"	"Vascular dementia, unspecified"	"F01.9"	16	Not Applicable	Not Applicable
+	"Utah"	"49"	"89 years"	"89"	"Unspecified dementia"	"F03"	70	Not Applicable	Not Applicable
+	"Utah"	"49"	"89 years"	"89"	"Parkinson disease"	"G20"	29	Not Applicable	Not Applicable
+	"Utah"	"49"	"89 years"	"89"	"Alzheimer disease, unspecified"	"G30.9"	83	Not Applicable	Not Applicable
+	"Utah"	"49"	"89 years"	"89"	"Senile degeneration of brain, not elsewhere classified"	"G31.1"	14	Not Applicable	Not Applicable
+	"Utah"	"49"	"89 years"	"89"	"Hypertensive heart disease with (congestive) heart failure"	"I11.0"	10	Not Applicable	Not Applicable
+	"Utah"	"49"	"89 years"	"89"	"Acute myocardial infarction, unspecified"	"I21.9"	33	Not Applicable	Not Applicable
+	"Utah"	"49"	"89 years"	"89"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	12	Not Applicable	Not Applicable
+	"Utah"	"49"	"89 years"	"89"	"Atherosclerotic heart disease"	"I25.1"	92	Not Applicable	Not Applicable
+	"Utah"	"49"	"89 years"	"89"	"Ischaemic cardiomyopathy"	"I25.5"	10	Not Applicable	Not Applicable
+	"Utah"	"49"	"89 years"	"89"	"Aortic (valve) stenosis"	"I35.0"	12	Not Applicable	Not Applicable
+	"Utah"	"49"	"89 years"	"89"	"Atrial fibrillation and flutter"	"I48"	20	Not Applicable	Not Applicable
+	"Utah"	"49"	"89 years"	"89"	"Congestive heart failure"	"I50.0"	87	Not Applicable	Not Applicable
+	"Utah"	"49"	"89 years"	"89"	"Heart failure, unspecified"	"I50.9"	12	Not Applicable	Not Applicable
+	"Utah"	"49"	"89 years"	"89"	"Stroke, not specified as haemorrhage or infarction"	"I64"	46	Not Applicable	Not Applicable
+	"Utah"	"49"	"89 years"	"89"	"Pneumonia, unspecified"	"J18.9"	17	Not Applicable	Not Applicable
+	"Utah"	"49"	"89 years"	"89"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	37	Not Applicable	Not Applicable
+	"Utah"	"49"	"89 years"	"89"	"Other interstitial pulmonary diseases with fibrosis"	"J84.1"	10	Not Applicable	Not Applicable
+	"Utah"	"49"	"89 years"	"89"	"COVID-19"	"U07.1"	13	Not Applicable	Not Applicable
+	"Utah"	"49"	"89 years"	"89"	"Other fall on same level"	"W18"	14	Not Applicable	Not Applicable
+	"Utah"	"49"	"90 years"	"90"	"Septicaemia, unspecified"	"A41.9"	10	Not Applicable	Not Applicable
+	"Utah"	"49"	"90 years"	"90"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	11	Not Applicable	Not Applicable
+	"Utah"	"49"	"90 years"	"90"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	16	Not Applicable	Not Applicable
+	"Utah"	"49"	"90 years"	"90"	"Malignant neoplasm of prostate"	"C61"	34	Not Applicable	Not Applicable
+	"Utah"	"49"	"90 years"	"90"	"Malignant neoplasm without specification of site"	"C80"	10	Not Applicable	Not Applicable
+	"Utah"	"49"	"90 years"	"90"	"Unspecified diabetes mellitus, without complications"	"E14.9"	19	Not Applicable	Not Applicable
+	"Utah"	"49"	"90 years"	"90"	"Unspecified protein-energy malnutrition"	"E46"	10	Not Applicable	Not Applicable
+	"Utah"	"49"	"90 years"	"90"	"Vascular dementia, unspecified"	"F01.9"	19	Not Applicable	Not Applicable
+	"Utah"	"49"	"90 years"	"90"	"Unspecified dementia"	"F03"	54	Not Applicable	Not Applicable
+	"Utah"	"49"	"90 years"	"90"	"Parkinson disease"	"G20"	23	Not Applicable	Not Applicable
+	"Utah"	"49"	"90 years"	"90"	"Alzheimer disease, unspecified"	"G30.9"	88	Not Applicable	Not Applicable
+	"Utah"	"49"	"90 years"	"90"	"Senile degeneration of brain, not elsewhere classified"	"G31.1"	10	Not Applicable	Not Applicable
+	"Utah"	"49"	"90 years"	"90"	"Hypertensive heart disease with (congestive) heart failure"	"I11.0"	13	Not Applicable	Not Applicable
+	"Utah"	"49"	"90 years"	"90"	"Acute myocardial infarction, unspecified"	"I21.9"	39	Not Applicable	Not Applicable
+	"Utah"	"49"	"90 years"	"90"	"Atherosclerotic heart disease"	"I25.1"	100	Not Applicable	Not Applicable
+	"Utah"	"49"	"90 years"	"90"	"Atrial fibrillation and flutter"	"I48"	28	Not Applicable	Not Applicable
+	"Utah"	"49"	"90 years"	"90"	"Congestive heart failure"	"I50.0"	86	Not Applicable	Not Applicable
+	"Utah"	"49"	"90 years"	"90"	"Heart failure, unspecified"	"I50.9"	13	Not Applicable	Not Applicable
+	"Utah"	"49"	"90 years"	"90"	"Stroke, not specified as haemorrhage or infarction"	"I64"	35	Not Applicable	Not Applicable
+	"Utah"	"49"	"90 years"	"90"	"Pneumonia, unspecified"	"J18.9"	24	Not Applicable	Not Applicable
+	"Utah"	"49"	"90 years"	"90"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	41	Not Applicable	Not Applicable
+	"Utah"	"49"	"90 years"	"90"	"Pneumonitis due to food and vomit"	"J69.0"	20	Not Applicable	Not Applicable
+	"Utah"	"49"	"90 years"	"90"	"Chronic renal failure, unspecified"	"N18.9"	13	Not Applicable	Not Applicable
+	"Utah"	"49"	"90 years"	"90"	"COVID-19"	"U07.1"	19	Not Applicable	Not Applicable
+	"Utah"	"49"	"90 years"	"90"	"Other fall on same level"	"W18"	15	Not Applicable	Not Applicable
+	"Utah"	"49"	"91 years"	"91"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	10	Not Applicable	Not Applicable
+	"Utah"	"49"	"91 years"	"91"	"Malignant neoplasm of prostate"	"C61"	38	Not Applicable	Not Applicable
+	"Utah"	"49"	"91 years"	"91"	"Vascular dementia, unspecified"	"F01.9"	10	Not Applicable	Not Applicable
+	"Utah"	"49"	"91 years"	"91"	"Unspecified dementia"	"F03"	64	Not Applicable	Not Applicable
+	"Utah"	"49"	"91 years"	"91"	"Parkinson disease"	"G20"	23	Not Applicable	Not Applicable
+	"Utah"	"49"	"91 years"	"91"	"Alzheimer disease, unspecified"	"G30.9"	82	Not Applicable	Not Applicable
+	"Utah"	"49"	"91 years"	"91"	"Acute myocardial infarction, unspecified"	"I21.9"	25	Not Applicable	Not Applicable
+	"Utah"	"49"	"91 years"	"91"	"Atherosclerotic heart disease"	"I25.1"	75	Not Applicable	Not Applicable
+	"Utah"	"49"	"91 years"	"91"	"Aortic (valve) stenosis"	"I35.0"	10	Not Applicable	Not Applicable
+	"Utah"	"49"	"91 years"	"91"	"Atrial fibrillation and flutter"	"I48"	22	Not Applicable	Not Applicable
+	"Utah"	"49"	"91 years"	"91"	"Congestive heart failure"	"I50.0"	97	Not Applicable	Not Applicable
+	"Utah"	"49"	"91 years"	"91"	"Heart failure, unspecified"	"I50.9"	12	Not Applicable	Not Applicable
+	"Utah"	"49"	"91 years"	"91"	"Stroke, not specified as haemorrhage or infarction"	"I64"	30	Not Applicable	Not Applicable
+	"Utah"	"49"	"91 years"	"91"	"Sequelae of stroke, not specified as haemorrhage or infarction"	"I69.4"	14	Not Applicable	Not Applicable
+	"Utah"	"49"	"91 years"	"91"	"Pneumonia, unspecified"	"J18.9"	29	Not Applicable	Not Applicable
+	"Utah"	"49"	"91 years"	"91"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	38	Not Applicable	Not Applicable
+	"Utah"	"49"	"91 years"	"91"	"Pneumonitis due to food and vomit"	"J69.0"	20	Not Applicable	Not Applicable
+	"Utah"	"49"	"91 years"	"91"	"Chronic renal failure, unspecified"	"N18.9"	15	Not Applicable	Not Applicable
+	"Utah"	"49"	"91 years"	"91"	"COVID-19"	"U07.1"	16	Not Applicable	Not Applicable
+	"Utah"	"49"	"91 years"	"91"	"Other fall on same level"	"W18"	26	Not Applicable	Not Applicable
+	"Utah"	"49"	"92 years"	"92"	"Septicaemia, unspecified"	"A41.9"	10	Not Applicable	Not Applicable
+	"Utah"	"49"	"92 years"	"92"	"Malignant neoplasm of prostate"	"C61"	32	Not Applicable	Not Applicable
+	"Utah"	"49"	"92 years"	"92"	"Vascular dementia, unspecified"	"F01.9"	10	Not Applicable	Not Applicable
+	"Utah"	"49"	"92 years"	"92"	"Unspecified dementia"	"F03"	50	Not Applicable	Not Applicable
+	"Utah"	"49"	"92 years"	"92"	"Parkinson disease"	"G20"	19	Not Applicable	Not Applicable
+	"Utah"	"49"	"92 years"	"92"	"Alzheimer disease, unspecified"	"G30.9"	62	Not Applicable	Not Applicable
+	"Utah"	"49"	"92 years"	"92"	"Hypertensive heart disease with (congestive) heart failure"	"I11.0"	12	Not Applicable	Not Applicable
+	"Utah"	"49"	"92 years"	"92"	"Acute myocardial infarction, unspecified"	"I21.9"	17	Not Applicable	Not Applicable
+	"Utah"	"49"	"92 years"	"92"	"Atherosclerotic heart disease"	"I25.1"	100	Not Applicable	Not Applicable
+	"Utah"	"49"	"92 years"	"92"	"Atrial fibrillation and flutter"	"I48"	13	Not Applicable	Not Applicable
+	"Utah"	"49"	"92 years"	"92"	"Congestive heart failure"	"I50.0"	67	Not Applicable	Not Applicable
+	"Utah"	"49"	"92 years"	"92"	"Stroke, not specified as haemorrhage or infarction"	"I64"	26	Not Applicable	Not Applicable
+	"Utah"	"49"	"92 years"	"92"	"Sequelae of stroke, not specified as haemorrhage or infarction"	"I69.4"	10	Not Applicable	Not Applicable
+	"Utah"	"49"	"92 years"	"92"	"Pneumonia, unspecified"	"J18.9"	12	Not Applicable	Not Applicable
+	"Utah"	"49"	"92 years"	"92"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	19	Not Applicable	Not Applicable
+	"Utah"	"49"	"92 years"	"92"	"COVID-19"	"U07.1"	12	Not Applicable	Not Applicable
+	"Utah"	"49"	"92 years"	"92"	"Other fall on same level"	"W18"	14	Not Applicable	Not Applicable
+	"Utah"	"49"	"93 years"	"93"	"Malignant neoplasm of prostate"	"C61"	20	Not Applicable	Not Applicable
+	"Utah"	"49"	"93 years"	"93"	"Unspecified dementia"	"F03"	39	Not Applicable	Not Applicable
+	"Utah"	"49"	"93 years"	"93"	"Parkinson disease"	"G20"	12	Not Applicable	Not Applicable
+	"Utah"	"49"	"93 years"	"93"	"Alzheimer disease, unspecified"	"G30.9"	55	Not Applicable	Not Applicable
+	"Utah"	"49"	"93 years"	"93"	"Hypertensive heart disease with (congestive) heart failure"	"I11.0"	16	Not Applicable	Not Applicable
+	"Utah"	"49"	"93 years"	"93"	"Acute myocardial infarction, unspecified"	"I21.9"	15	Not Applicable	Not Applicable
+	"Utah"	"49"	"93 years"	"93"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	11	Not Applicable	Not Applicable
+	"Utah"	"49"	"93 years"	"93"	"Atherosclerotic heart disease"	"I25.1"	66	Not Applicable	Not Applicable
+	"Utah"	"49"	"93 years"	"93"	"Atrial fibrillation and flutter"	"I48"	29	Not Applicable	Not Applicable
+	"Utah"	"49"	"93 years"	"93"	"Congestive heart failure"	"I50.0"	63	Not Applicable	Not Applicable
+	"Utah"	"49"	"93 years"	"93"	"Heart failure, unspecified"	"I50.9"	10	Not Applicable	Not Applicable
+	"Utah"	"49"	"93 years"	"93"	"Stroke, not specified as haemorrhage or infarction"	"I64"	13	Not Applicable	Not Applicable
+	"Utah"	"49"	"93 years"	"93"	"Pneumonia, unspecified"	"J18.9"	16	Not Applicable	Not Applicable
+	"Utah"	"49"	"93 years"	"93"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	19	Not Applicable	Not Applicable
+	"Utah"	"49"	"93 years"	"93"	"Other interstitial pulmonary diseases with fibrosis"	"J84.1"	11	Not Applicable	Not Applicable
+	"Utah"	"49"	"93 years"	"93"	"COVID-19"	"U07.1"	13	Not Applicable	Not Applicable
+	"Utah"	"49"	"93 years"	"93"	"Other fall on same level"	"W18"	10	Not Applicable	Not Applicable
+	"Utah"	"49"	"94 years"	"94"	"Malignant neoplasm of prostate"	"C61"	23	Not Applicable	Not Applicable
+	"Utah"	"49"	"94 years"	"94"	"Unspecified protein-energy malnutrition"	"E46"	11	Not Applicable	Not Applicable
+	"Utah"	"49"	"94 years"	"94"	"Unspecified dementia"	"F03"	25	Not Applicable	Not Applicable
+	"Utah"	"49"	"94 years"	"94"	"Alzheimer disease, unspecified"	"G30.9"	43	Not Applicable	Not Applicable
+	"Utah"	"49"	"94 years"	"94"	"Acute myocardial infarction, unspecified"	"I21.9"	14	Not Applicable	Not Applicable
+	"Utah"	"49"	"94 years"	"94"	"Atherosclerotic heart disease"	"I25.1"	59	Not Applicable	Not Applicable
+	"Utah"	"49"	"94 years"	"94"	"Atrial fibrillation and flutter"	"I48"	14	Not Applicable	Not Applicable
+	"Utah"	"49"	"94 years"	"94"	"Congestive heart failure"	"I50.0"	62	Not Applicable	Not Applicable
+	"Utah"	"49"	"94 years"	"94"	"Stroke, not specified as haemorrhage or infarction"	"I64"	20	Not Applicable	Not Applicable
+	"Utah"	"49"	"94 years"	"94"	"Pneumonia, unspecified"	"J18.9"	10	Not Applicable	Not Applicable
+	"Utah"	"49"	"94 years"	"94"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	16	Not Applicable	Not Applicable
+	"Utah"	"49"	"94 years"	"94"	"Pneumonitis due to food and vomit"	"J69.0"	11	Not Applicable	Not Applicable
+	"Utah"	"49"	"94 years"	"94"	"Senility"	"R54"	11	Not Applicable	Not Applicable
+	"Utah"	"49"	"94 years"	"94"	"Other fall on same level"	"W18"	13	Not Applicable	Not Applicable
+	"Utah"	"49"	"95 years"	"95"	"Malignant neoplasm of prostate"	"C61"	18	Not Applicable	Not Applicable
+	"Utah"	"49"	"95 years"	"95"	"Unspecified dementia"	"F03"	30	Not Applicable	Not Applicable
+	"Utah"	"49"	"95 years"	"95"	"Alzheimer disease, unspecified"	"G30.9"	37	Not Applicable	Not Applicable
+	"Utah"	"49"	"95 years"	"95"	"Acute myocardial infarction, unspecified"	"I21.9"	10	Not Applicable	Not Applicable
+	"Utah"	"49"	"95 years"	"95"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	11	Not Applicable	Not Applicable
+	"Utah"	"49"	"95 years"	"95"	"Atherosclerotic heart disease"	"I25.1"	41	Not Applicable	Not Applicable
+	"Utah"	"49"	"95 years"	"95"	"Atrial fibrillation and flutter"	"I48"	14	Not Applicable	Not Applicable
+	"Utah"	"49"	"95 years"	"95"	"Congestive heart failure"	"I50.0"	45	Not Applicable	Not Applicable
+	"Utah"	"49"	"95 years"	"95"	"Stroke, not specified as haemorrhage or infarction"	"I64"	13	Not Applicable	Not Applicable
+	"Utah"	"49"	"95 years"	"95"	"Pneumonia, unspecified"	"J18.9"	10	Not Applicable	Not Applicable
+	"Utah"	"49"	"95 years"	"95"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	14	Not Applicable	Not Applicable
+	"Utah"	"49"	"95 years"	"95"	"COVID-19"	"U07.1"	10	Not Applicable	Not Applicable
+	"Utah"	"49"	"95 years"	"95"	"Other fall on same level"	"W18"	14	Not Applicable	Not Applicable
+	"Utah"	"49"	"96 years"	"96"	"Malignant neoplasm of prostate"	"C61"	13	Not Applicable	Not Applicable
+	"Utah"	"49"	"96 years"	"96"	"Unspecified dementia"	"F03"	26	Not Applicable	Not Applicable
+	"Utah"	"49"	"96 years"	"96"	"Alzheimer disease, unspecified"	"G30.9"	28	Not Applicable	Not Applicable
+	"Utah"	"49"	"96 years"	"96"	"Acute myocardial infarction, unspecified"	"I21.9"	12	Not Applicable	Not Applicable
+	"Utah"	"49"	"96 years"	"96"	"Atherosclerotic heart disease"	"I25.1"	37	Not Applicable	Not Applicable
+	"Utah"	"49"	"96 years"	"96"	"Congestive heart failure"	"I50.0"	44	Not Applicable	Not Applicable
+	"Utah"	"49"	"96 years"	"96"	"Stroke, not specified as haemorrhage or infarction"	"I64"	19	Not Applicable	Not Applicable
+	"Utah"	"49"	"97 years"	"97"	"Unspecified dementia"	"F03"	17	Not Applicable	Not Applicable
+	"Utah"	"49"	"97 years"	"97"	"Alzheimer disease, unspecified"	"G30.9"	11	Not Applicable	Not Applicable
+	"Utah"	"49"	"97 years"	"97"	"Atherosclerotic heart disease"	"I25.1"	21	Not Applicable	Not Applicable
+	"Utah"	"49"	"97 years"	"97"	"Congestive heart failure"	"I50.0"	32	Not Applicable	Not Applicable
+	"Utah"	"49"	"97 years"	"97"	"Pneumonia, unspecified"	"J18.9"	10	Not Applicable	Not Applicable
+	"Utah"	"49"	"97 years"	"97"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	12	Not Applicable	Not Applicable
+	"Utah"	"49"	"98 years"	"98"	"Alzheimer disease, unspecified"	"G30.9"	18	Not Applicable	Not Applicable
+	"Utah"	"49"	"98 years"	"98"	"Atherosclerotic heart disease"	"I25.1"	22	Not Applicable	Not Applicable
+	"Utah"	"49"	"98 years"	"98"	"Congestive heart failure"	"I50.0"	29	Not Applicable	Not Applicable
+	"Utah"	"49"	"99 years"	"99"	"Atherosclerotic heart disease"	"I25.1"	13	Not Applicable	Not Applicable
+	"Utah"	"49"	"99 years"	"99"	"Congestive heart failure"	"I50.0"	15	Not Applicable	Not Applicable
+	"Utah"	"49"	"100+ years"	"100"	"Unspecified dementia"	"F03"	11	Not Applicable	Not Applicable
+	"Utah"	"49"	"100+ years"	"100"	"Atherosclerotic heart disease"	"I25.1"	25	Not Applicable	Not Applicable
+	"Utah"	"49"	"100+ years"	"100"	"Congestive heart failure"	"I50.0"	19	Not Applicable	Not Applicable
+"---"
+"Dataset: Underlying Cause of Death, 1999-2020"
+"Query Parameters:"
+"Title: Utah CoD M"
+"Gender: Male"
+"States: Utah (49)"
+"Year/Month: 2016; 2017; 2018; 2019; 2020"
+"Group By: State; Single-Year Ages; Cause of death"
+"Show Totals: Disabled"
+"Show Zero Values: Disabled"
+"Show Suppressed: False"
+"Calculate Rates Per: 100,000"
+"Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/ucd.html for more information."
+"---"
+"Query Date: Apr 11, 2022 3:04:36 AM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. Underlying Cause of Death"
+"1999-2020 on CDC WONDER Online Database, released in 2021. Data are from the Multiple Cause of Death Files, 1999-2020, as"
+"compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative Program. Accessed"
+"at http://wonder.cdc.gov/ucd-icd10.html on Apr 11, 2022 3:04:36 AM"
+"---"
+Messages:
+"1. The full results are too long to be displayed. Due to suppression constraints rows that are zero, suppressed or a total will"
+"not be available."
+"---"
+Caveats:
+"1. Population and rates are labeled 'Not Applicable' when they include a subset of ages 85-100+ because populations are not"
+"available for those ages. More information: http://wonder.cdc.gov/wonder/help/ucd.html#Ages 85-100."
+"2. Death rates are flagged as Unreliable when the rate is calculated with a numerator of 20 or less. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Unreliable."
+"3. Deaths of persons with Age ""Not Stated"" are included in ""All"" counts and rates, but are not distributed among age groups,"
+"so are not included in age-specific counts, age-specific rates or in any age-adjusted rates. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Not Stated."
+"4. The population figures for year 2020 are bridged-race estimates of the July 1 resident population, from the Vintage 2020"
+"postcensal series released by NCHS on September 22, 2021. The population figures for year 2019 are bridged-race estimates of the"
+"July 1 resident population, from the Vintage 2019 postcensal series released by NCHS on July 9, 2020. The population figures for"
+"year 2018 are bridged-race estimates of the July 1 resident population, from the Vintage 2018 postcensal series released by NCHS"
+"on June 25, 2019. The population figures for year 2017 are bridged-race estimates of the July 1 resident population, from the"
+"Vintage 2017 postcensal series released by NCHS on June 27, 2018. The population figures for year 2016 are bridged-race"
+"estimates of the July 1 resident population, from the Vintage 2016 postcensal series released by NCHS on June 26, 2017. The"
+"population figures for year 2015 are bridged-race estimates of the July 1 resident population, from the Vintage 2015 postcensal"
+"series released by NCHS on June 28, 2016. The population figures for year 2014 are bridged-race estimates of the July 1 resident"
+"population, from the Vintage 2014 postcensal series released by NCHS on June 30, 2015. The population figures for year 2013 are"
+"bridged-race estimates of the July 1 resident population, from the Vintage 2013 postcensal series released by NCHS on June 26,"
+"2014. The population figures for year 2012 are bridged-race estimates of the July 1 resident population, from the Vintage 2012"
+"postcensal series released by NCHS on June 13, 2013. The population figures for year 2011 are bridged-race estimates of the July"
+"1 resident population, from the Vintage 2011 postcensal series released by NCHS on July 18, 2012. Population figures for 2010"
+"are April 1 Census counts. The population figures for years 2001 - 2009 are bridged-race estimates of the July 1 resident"
+"population, from the revised intercensal county-level 2000 - 2009 series released by NCHS on October 26, 2012. Population"
+"figures for 2000 are April 1 Census counts. Population figures for 1999 are from the 1990-1999 intercensal series of July 1"
+"estimates. Population figures for the infant age groups are the number of live births. <br/><b>Note:</b> Rates and population"
+"figures for years 2001 - 2009 differ slightly from previously published reports, due to use of the population estimates which"
+"were available at the time of release."
+"5. The population figures used in the calculation of death rates for the age group 'under 1 year' are the estimates of the"
+"resident population that is under one year of age. More information: http://wonder.cdc.gov/wonder/help/ucd.html#Age Group."
+"6. Beginning with the 2018 data, changes have been implemented that affect the counts for ICD-10 cause of death codes O00-O99"
+"compared to previous practice. In addition, data for the cause of death codes O00-O99 for 2003 through 2017 reflect differences"
+"in information available to individual states and probable errors. Caution should be used in interpreting these data. More"
+"information can be found at: https://www.cdc.gov/nchs/maternal-mortality/."
+"7. On March 11, 2021, the 2019 mortality data on CDC WONDER was updated with the 2019 mortality data updated by NCHS on March 4,"
+"2021 to include corrected information for residents of Texas affecting 5 records previously coded to cause code *U01.4,"
+"Terrorism involving firearms (homicide). The underlying and multiple cause of death codes for 5 records were corrected in the"
+"2019 data. Underlying and multiple cause of death codes for those 5 records were recoded to Assault (homicide) by other and"
+"unspecified firearm discharge, ICD-10 code X95. The corrected final death records replaces the data released on December 22,"
+"2020."
+"8. Changes to cause of death classification affect reporting trends. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#ICD-10 Changes."

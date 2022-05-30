@@ -1,0 +1,158 @@
+"Notes"	"State"	"State Code"	"Single-Year Ages"	"Single-Year Ages Code"	Deaths	Population	Crude Rate
+	"North Carolina"	"37"	"< 1 year"	"0"	2276	305305	745.5
+	"North Carolina"	"37"	"1 year"	"1"	139	308172	45.1
+	"North Carolina"	"37"	"2 years"	"2"	94	312091	30.1
+	"North Carolina"	"37"	"3 years"	"3"	57	313940	18.2
+	"North Carolina"	"37"	"4 years"	"4"	63	314208	20.1
+	"North Carolina"	"37"	"5 years"	"5"	57	316127	18.0
+	"North Carolina"	"37"	"6 years"	"6"	44	317794	13.8
+	"North Carolina"	"37"	"7 years"	"7"	46	320642	14.3
+	"North Carolina"	"37"	"8 years"	"8"	38	325559	11.7
+	"North Carolina"	"37"	"9 years"	"9"	42	330994	12.7
+	"North Carolina"	"37"	"10 years"	"10"	48	335075	14.3
+	"North Carolina"	"37"	"11 years"	"11"	53	337249	15.7
+	"North Carolina"	"37"	"12 years"	"12"	51	339520	15.0
+	"North Carolina"	"37"	"13 years"	"13"	76	338018	22.5
+	"North Carolina"	"37"	"14 years"	"14"	86	336708	25.5
+	"North Carolina"	"37"	"15 years"	"15"	117	336941	34.7
+	"North Carolina"	"37"	"16 years"	"16"	191	338845	56.4
+	"North Carolina"	"37"	"17 years"	"17"	242	338642	71.5
+	"North Carolina"	"37"	"18 years"	"18"	377	352143	107.1
+	"North Carolina"	"37"	"19 years"	"19"	426	366975	116.1
+	"North Carolina"	"37"	"20 years"	"20"	458	366407	125.0
+	"North Carolina"	"37"	"21 years"	"21"	574	363792	157.8
+	"North Carolina"	"37"	"22 years"	"22"	588	360296	163.2
+	"North Carolina"	"37"	"23 years"	"23"	571	357490	159.7
+	"North Carolina"	"37"	"24 years"	"24"	661	360023	183.6
+	"North Carolina"	"37"	"25 years"	"25"	635	364975	174.0
+	"North Carolina"	"37"	"26 years"	"26"	703	366191	192.0
+	"North Carolina"	"37"	"27 years"	"27"	722	365634	197.5
+	"North Carolina"	"37"	"28 years"	"28"	753	359200	209.6
+	"North Carolina"	"37"	"29 years"	"29"	742	351923	210.8
+	"North Carolina"	"37"	"30 years"	"30"	768	341214	225.1
+	"North Carolina"	"37"	"31 years"	"31"	765	333939	229.1
+	"North Carolina"	"37"	"32 years"	"32"	744	327238	227.4
+	"North Carolina"	"37"	"33 years"	"33"	771	323646	238.2
+	"North Carolina"	"37"	"34 years"	"34"	788	322266	244.5
+	"North Carolina"	"37"	"35 years"	"35"	783	321918	243.2
+	"North Carolina"	"37"	"36 years"	"36"	841	321510	261.6
+	"North Carolina"	"37"	"37 years"	"37"	876	321830	272.2
+	"North Carolina"	"37"	"38 years"	"38"	900	319746	281.5
+	"North Carolina"	"37"	"39 years"	"39"	907	316901	286.2
+	"North Carolina"	"37"	"40 years"	"40"	971	314207	309.0
+	"North Carolina"	"37"	"41 years"	"41"	915	311864	293.4
+	"North Carolina"	"37"	"42 years"	"42"	961	310475	309.5
+	"North Carolina"	"37"	"43 years"	"43"	1021	311187	328.1
+	"North Carolina"	"37"	"44 years"	"44"	1064	316553	336.1
+	"North Carolina"	"37"	"45 years"	"45"	1109	327249	338.9
+	"North Carolina"	"37"	"46 years"	"46"	1307	335356	389.7
+	"North Carolina"	"37"	"47 years"	"47"	1393	340282	409.4
+	"North Carolina"	"37"	"48 years"	"48"	1559	342416	455.3
+	"North Carolina"	"37"	"49 years"	"49"	1660	338460	490.5
+	"North Carolina"	"37"	"50 years"	"50"	1829	332027	550.9
+	"North Carolina"	"37"	"51 years"	"51"	1926	330112	583.4
+	"North Carolina"	"37"	"52 years"	"52"	2162	330903	653.4
+	"North Carolina"	"37"	"53 years"	"53"	2318	334173	693.7
+	"North Carolina"	"37"	"54 years"	"54"	2711	337070	804.3
+	"North Carolina"	"37"	"55 years"	"55"	3005	338871	886.8
+	"North Carolina"	"37"	"56 years"	"56"	3220	338500	951.3
+	"North Carolina"	"37"	"57 years"	"57"	3383	333548	1014.2
+	"North Carolina"	"37"	"58 years"	"58"	3670	328502	1117.2
+	"North Carolina"	"37"	"59 years"	"59"	3936	325120	1210.6
+	"North Carolina"	"37"	"60 years"	"60"	4153	318215	1305.1
+	"North Carolina"	"37"	"61 years"	"61"	4357	310710	1402.3
+	"North Carolina"	"37"	"62 years"	"62"	4532	303702	1492.3
+	"North Carolina"	"37"	"63 years"	"63"	4740	295032	1606.6
+	"North Carolina"	"37"	"64 years"	"64"	4873	285487	1706.9
+	"North Carolina"	"37"	"65 years"	"65"	4851	275883	1758.4
+	"North Carolina"	"37"	"66 years"	"66"	5063	266281	1901.4
+	"North Carolina"	"37"	"67 years"	"67"	5251	258038	2035.0
+	"North Carolina"	"37"	"68 years"	"68"	5565	252281	2205.9
+	"North Carolina"	"37"	"69 years"	"69"	5706	249311	2288.7
+	"North Carolina"	"37"	"70 years"	"70"	5840	235343	2481.5
+	"North Carolina"	"37"	"71 years"	"71"	5872	221050	2656.4
+	"North Carolina"	"37"	"72 years"	"72"	6028	205609	2931.8
+	"North Carolina"	"37"	"73 years"	"73"	6168	191770	3216.4
+	"North Carolina"	"37"	"74 years"	"74"	6102	169737	3595.0
+	"North Carolina"	"37"	"75 years"	"75"	5985	158741	3770.3
+	"North Carolina"	"37"	"76 years"	"76"	6029	145797	4135.2
+	"North Carolina"	"37"	"77 years"	"77"	6088	132609	4590.9
+	"North Carolina"	"37"	"78 years"	"78"	5962	117767	5062.5
+	"North Carolina"	"37"	"79 years"	"79"	5876	106117	5537.3
+	"North Carolina"	"37"	"80 years"	"80"	6069	96429	6293.7
+	"North Carolina"	"37"	"81 years"	"81"	5870	87935	6675.4
+	"North Carolina"	"37"	"82 years"	"82"	5878	78604	7478.0
+	"North Carolina"	"37"	"83 years"	"83"	5844	70248	8319.1
+	"North Carolina"	"37"	"84 years"	"84"	5799	62653	9255.7
+	"North Carolina"	"37"	"85 years"	"85"	5691	Not Applicable	Not Applicable
+	"North Carolina"	"37"	"86 years"	"86"	5451	Not Applicable	Not Applicable
+	"North Carolina"	"37"	"87 years"	"87"	5244	Not Applicable	Not Applicable
+	"North Carolina"	"37"	"88 years"	"88"	5129	Not Applicable	Not Applicable
+	"North Carolina"	"37"	"89 years"	"89"	4635	Not Applicable	Not Applicable
+	"North Carolina"	"37"	"90 years"	"90"	4319	Not Applicable	Not Applicable
+	"North Carolina"	"37"	"91 years"	"91"	3741	Not Applicable	Not Applicable
+	"North Carolina"	"37"	"92 years"	"92"	3317	Not Applicable	Not Applicable
+	"North Carolina"	"37"	"93 years"	"93"	2755	Not Applicable	Not Applicable
+	"North Carolina"	"37"	"94 years"	"94"	2311	Not Applicable	Not Applicable
+	"North Carolina"	"37"	"95 years"	"95"	1808	Not Applicable	Not Applicable
+	"North Carolina"	"37"	"96 years"	"96"	1312	Not Applicable	Not Applicable
+	"North Carolina"	"37"	"97 years"	"97"	955	Not Applicable	Not Applicable
+	"North Carolina"	"37"	"98 years"	"98"	650	Not Applicable	Not Applicable
+	"North Carolina"	"37"	"99 years"	"99"	411	Not Applicable	Not Applicable
+	"North Carolina"	"37"	"100+ years"	"100"	657	Not Applicable	Not Applicable
+	"North Carolina"	"37"	"Not Stated"	"NS"	12	Not Applicable	Not Applicable
+"Total"	"North Carolina"	"37"			246092	25238097	975.1
+"Total"					246092	25238097	975.1
+"---"
+"Dataset: Underlying Cause of Death, 1999-2020"
+"Query Parameters:"
+"Title: North Carolina General M"
+"Gender: Male"
+"States: North Carolina (37)"
+"Year/Month: 2016; 2017; 2018; 2019; 2020"
+"Group By: State; Single-Year Ages"
+"Show Totals: True"
+"Show Zero Values: False"
+"Show Suppressed: False"
+"Calculate Rates Per: 100,000"
+"Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/ucd.html for more information."
+"---"
+"Query Date: Apr 11, 2022 2:33:55 AM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. Underlying Cause of Death"
+"1999-2020 on CDC WONDER Online Database, released in 2021. Data are from the Multiple Cause of Death Files, 1999-2020, as"
+"compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative Program. Accessed"
+"at http://wonder.cdc.gov/ucd-icd10.html on Apr 11, 2022 2:33:55 AM"
+"---"
+Caveats:
+"1. Population and rates are labeled 'Not Applicable' when they include a subset of ages 85-100+ because populations are not"
+"available for those ages. More information: http://wonder.cdc.gov/wonder/help/ucd.html#Ages 85-100."
+"2. Death rates are flagged as Unreliable when the rate is calculated with a numerator of 20 or less. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Unreliable."
+"3. Deaths of persons with Age ""Not Stated"" are included in ""All"" counts and rates, but are not distributed among age groups,"
+"so are not included in age-specific counts, age-specific rates or in any age-adjusted rates. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Not Stated."
+"4. The population figures for year 2020 are bridged-race estimates of the July 1 resident population, from the Vintage 2020"
+"postcensal series released by NCHS on September 22, 2021. The population figures for year 2019 are bridged-race estimates of the"
+"July 1 resident population, from the Vintage 2019 postcensal series released by NCHS on July 9, 2020. The population figures for"
+"year 2018 are bridged-race estimates of the July 1 resident population, from the Vintage 2018 postcensal series released by NCHS"
+"on June 25, 2019. The population figures for year 2017 are bridged-race estimates of the July 1 resident population, from the"
+"Vintage 2017 postcensal series released by NCHS on June 27, 2018. The population figures for year 2016 are bridged-race"
+"estimates of the July 1 resident population, from the Vintage 2016 postcensal series released by NCHS on June 26, 2017. The"
+"population figures for year 2015 are bridged-race estimates of the July 1 resident population, from the Vintage 2015 postcensal"
+"series released by NCHS on June 28, 2016. The population figures for year 2014 are bridged-race estimates of the July 1 resident"
+"population, from the Vintage 2014 postcensal series released by NCHS on June 30, 2015. The population figures for year 2013 are"
+"bridged-race estimates of the July 1 resident population, from the Vintage 2013 postcensal series released by NCHS on June 26,"
+"2014. The population figures for year 2012 are bridged-race estimates of the July 1 resident population, from the Vintage 2012"
+"postcensal series released by NCHS on June 13, 2013. The population figures for year 2011 are bridged-race estimates of the July"
+"1 resident population, from the Vintage 2011 postcensal series released by NCHS on July 18, 2012. Population figures for 2010"
+"are April 1 Census counts. The population figures for years 2001 - 2009 are bridged-race estimates of the July 1 resident"
+"population, from the revised intercensal county-level 2000 - 2009 series released by NCHS on October 26, 2012. Population"
+"figures for 2000 are April 1 Census counts. Population figures for 1999 are from the 1990-1999 intercensal series of July 1"
+"estimates. Population figures for the infant age groups are the number of live births. <br/><b>Note:</b> Rates and population"
+"figures for years 2001 - 2009 differ slightly from previously published reports, due to use of the population estimates which"
+"were available at the time of release."
+"5. The population figures used in the calculation of death rates for the age group 'under 1 year' are the estimates of the"
+"resident population that is under one year of age. More information: http://wonder.cdc.gov/wonder/help/ucd.html#Age Group."

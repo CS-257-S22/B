@@ -1,0 +1,491 @@
+"Notes"	"State"	"State Code"	"Single-Year Ages"	"Single-Year Ages Code"	"Cause of death"	"Cause of death Code"	Deaths	Population	Crude Rate
+	"Delaware"	"10"	"< 1 year"	"0"	"Extreme immaturity"	"P07.2"	16	26167	Unreliable
+	"Delaware"	"10"	"< 1 year"	"0"	"Other preterm infants"	"P07.3"	13	26167	Unreliable
+	"Delaware"	"10"	"< 1 year"	"0"	"Sudden infant death syndrome - SIDS"	"R95"	10	26167	Unreliable
+	"Delaware"	"10"	"< 1 year"	"0"	"Other ill-defined and unspecified causes of mortality"	"R99"	12	26167	Unreliable
+	"Delaware"	"10"	"24 years"	"24"	"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X42"	14	30276	Unreliable
+	"Delaware"	"10"	"30 years"	"30"	"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X42"	14	32984	Unreliable
+	"Delaware"	"10"	"32 years"	"32"	"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X42"	14	31069	Unreliable
+	"Delaware"	"10"	"33 years"	"33"	"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X42"	13	30485	Unreliable
+	"Delaware"	"10"	"34 years"	"34"	"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X42"	10	30308	Unreliable
+	"Delaware"	"10"	"35 years"	"35"	"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X42"	13	30051	Unreliable
+	"Delaware"	"10"	"36 years"	"36"	"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X44"	10	30170	Unreliable
+	"Delaware"	"10"	"38 years"	"38"	"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X42"	11	29700	Unreliable
+	"Delaware"	"10"	"44 years"	"44"	"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X42"	10	27379	Unreliable
+	"Delaware"	"10"	"50 years"	"50"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	10	31978	Unreliable
+	"Delaware"	"10"	"50 years"	"50"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	11	31978	Unreliable
+	"Delaware"	"10"	"51 years"	"51"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	10	32479	Unreliable
+	"Delaware"	"10"	"52 years"	"52"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	11	33364	Unreliable
+	"Delaware"	"10"	"52 years"	"52"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	18	33364	Unreliable
+	"Delaware"	"10"	"53 years"	"53"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	11	34426	Unreliable
+	"Delaware"	"10"	"53 years"	"53"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	10	34426	Unreliable
+	"Delaware"	"10"	"55 years"	"55"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	17	35807	Unreliable
+	"Delaware"	"10"	"55 years"	"55"	"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X42"	12	35807	Unreliable
+	"Delaware"	"10"	"56 years"	"56"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	16	36266	Unreliable
+	"Delaware"	"10"	"56 years"	"56"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	12	36266	Unreliable
+	"Delaware"	"10"	"57 years"	"57"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	20	36423	54.9
+	"Delaware"	"10"	"57 years"	"57"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	11	36423	Unreliable
+	"Delaware"	"10"	"58 years"	"58"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	31	36443	85.1
+	"Delaware"	"10"	"58 years"	"58"	"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X42"	10	36443	Unreliable
+	"Delaware"	"10"	"59 years"	"59"	"Septicaemia, unspecified"	"A41.9"	10	36638	Unreliable
+	"Delaware"	"10"	"59 years"	"59"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	23	36638	62.8
+	"Delaware"	"10"	"59 years"	"59"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	18	36638	Unreliable
+	"Delaware"	"10"	"59 years"	"59"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	14	36638	Unreliable
+	"Delaware"	"10"	"59 years"	"59"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	11	36638	Unreliable
+	"Delaware"	"10"	"60 years"	"60"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	29	36405	79.7
+	"Delaware"	"10"	"60 years"	"60"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	22	36405	60.4
+	"Delaware"	"10"	"60 years"	"60"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	11	36405	Unreliable
+	"Delaware"	"10"	"60 years"	"60"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	14	36405	Unreliable
+	"Delaware"	"10"	"61 years"	"61"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	24	35985	66.7
+	"Delaware"	"10"	"61 years"	"61"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	19	35985	Unreliable
+	"Delaware"	"10"	"61 years"	"61"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	13	35985	Unreliable
+	"Delaware"	"10"	"61 years"	"61"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	10	35985	Unreliable
+	"Delaware"	"10"	"62 years"	"62"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	26	35798	72.6
+	"Delaware"	"10"	"62 years"	"62"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	15	35798	Unreliable
+	"Delaware"	"10"	"62 years"	"62"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	15	35798	Unreliable
+	"Delaware"	"10"	"63 years"	"63"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	11	35349	Unreliable
+	"Delaware"	"10"	"63 years"	"63"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	35	35349	99.0
+	"Delaware"	"10"	"63 years"	"63"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	10	35349	Unreliable
+	"Delaware"	"10"	"63 years"	"63"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	11	35349	Unreliable
+	"Delaware"	"10"	"63 years"	"63"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	13	35349	Unreliable
+	"Delaware"	"10"	"64 years"	"64"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	32	34764	92.0
+	"Delaware"	"10"	"64 years"	"64"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	16	34764	Unreliable
+	"Delaware"	"10"	"64 years"	"64"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	11	34764	Unreliable
+	"Delaware"	"10"	"64 years"	"64"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	15	34764	Unreliable
+	"Delaware"	"10"	"64 years"	"64"	"COVID-19"	"U07.1"	12	34764	Unreliable
+	"Delaware"	"10"	"65 years"	"65"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	35	34167	102.4
+	"Delaware"	"10"	"65 years"	"65"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	14	34167	Unreliable
+	"Delaware"	"10"	"65 years"	"65"	"Atherosclerotic heart disease"	"I25.1"	11	34167	Unreliable
+	"Delaware"	"10"	"65 years"	"65"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	20	34167	58.5
+	"Delaware"	"10"	"66 years"	"66"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	15	33134	Unreliable
+	"Delaware"	"10"	"66 years"	"66"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	29	33134	87.5
+	"Delaware"	"10"	"66 years"	"66"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	19	33134	Unreliable
+	"Delaware"	"10"	"66 years"	"66"	"Acute myocardial infarction, unspecified"	"I21.9"	11	33134	Unreliable
+	"Delaware"	"10"	"66 years"	"66"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	20	33134	60.4
+	"Delaware"	"10"	"67 years"	"67"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	10	32394	Unreliable
+	"Delaware"	"10"	"67 years"	"67"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	46	32394	142.0
+	"Delaware"	"10"	"67 years"	"67"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	22	32394	67.9
+	"Delaware"	"10"	"67 years"	"67"	"Acute myocardial infarction, unspecified"	"I21.9"	15	32394	Unreliable
+	"Delaware"	"10"	"67 years"	"67"	"Atherosclerotic heart disease"	"I25.1"	16	32394	Unreliable
+	"Delaware"	"10"	"67 years"	"67"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	22	32394	67.9
+	"Delaware"	"10"	"68 years"	"68"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	35	31863	109.8
+	"Delaware"	"10"	"68 years"	"68"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	17	31863	Unreliable
+	"Delaware"	"10"	"68 years"	"68"	"Atherosclerotic heart disease"	"I25.1"	16	31863	Unreliable
+	"Delaware"	"10"	"68 years"	"68"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	23	31863	72.2
+	"Delaware"	"10"	"69 years"	"69"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	11	31092	Unreliable
+	"Delaware"	"10"	"69 years"	"69"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	41	31092	131.9
+	"Delaware"	"10"	"69 years"	"69"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	15	31092	Unreliable
+	"Delaware"	"10"	"69 years"	"69"	"Malignant neoplasm of ovary"	"C56"	11	31092	Unreliable
+	"Delaware"	"10"	"69 years"	"69"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	14	31092	Unreliable
+	"Delaware"	"10"	"69 years"	"69"	"Atherosclerotic heart disease"	"I25.1"	13	31092	Unreliable
+	"Delaware"	"10"	"69 years"	"69"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	27	31092	86.8
+	"Delaware"	"10"	"70 years"	"70"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	21	29575	71.0
+	"Delaware"	"10"	"70 years"	"70"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	46	29575	155.5
+	"Delaware"	"10"	"70 years"	"70"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	16	29575	Unreliable
+	"Delaware"	"10"	"70 years"	"70"	"Acute myocardial infarction, unspecified"	"I21.9"	10	29575	Unreliable
+	"Delaware"	"10"	"70 years"	"70"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	15	29575	Unreliable
+	"Delaware"	"10"	"70 years"	"70"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	32	29575	108.2
+	"Delaware"	"10"	"71 years"	"71"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	14	27934	Unreliable
+	"Delaware"	"10"	"71 years"	"71"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	45	27934	161.1
+	"Delaware"	"10"	"71 years"	"71"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	26	27934	93.1
+	"Delaware"	"10"	"71 years"	"71"	"Acute myocardial infarction, unspecified"	"I21.9"	10	27934	Unreliable
+	"Delaware"	"10"	"71 years"	"71"	"Atherosclerotic heart disease"	"I25.1"	19	27934	Unreliable
+	"Delaware"	"10"	"71 years"	"71"	"Stroke, not specified as haemorrhage or infarction"	"I64"	11	27934	Unreliable
+	"Delaware"	"10"	"71 years"	"71"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	35	27934	125.3
+	"Delaware"	"10"	"72 years"	"72"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	51	26207	194.6
+	"Delaware"	"10"	"72 years"	"72"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	14	26207	Unreliable
+	"Delaware"	"10"	"72 years"	"72"	"Alzheimer disease, unspecified"	"G30.9"	12	26207	Unreliable
+	"Delaware"	"10"	"72 years"	"72"	"Atherosclerotic heart disease"	"I25.1"	29	26207	110.7
+	"Delaware"	"10"	"72 years"	"72"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	33	26207	125.9
+	"Delaware"	"10"	"73 years"	"73"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	14	24617	Unreliable
+	"Delaware"	"10"	"73 years"	"73"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	41	24617	166.6
+	"Delaware"	"10"	"73 years"	"73"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	23	24617	93.4
+	"Delaware"	"10"	"73 years"	"73"	"Alzheimer disease, unspecified"	"G30.9"	11	24617	Unreliable
+	"Delaware"	"10"	"73 years"	"73"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	15	24617	Unreliable
+	"Delaware"	"10"	"73 years"	"73"	"Atherosclerotic heart disease"	"I25.1"	20	24617	81.2
+	"Delaware"	"10"	"73 years"	"73"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	35	24617	142.2
+	"Delaware"	"10"	"73 years"	"73"	"COVID-19"	"U07.1"	14	24617	Unreliable
+	"Delaware"	"10"	"74 years"	"74"	"Septicaemia, unspecified"	"A41.9"	11	22164	Unreliable
+	"Delaware"	"10"	"74 years"	"74"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	14	22164	Unreliable
+	"Delaware"	"10"	"74 years"	"74"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	42	22164	189.5
+	"Delaware"	"10"	"74 years"	"74"	"Unspecified dementia"	"F03"	10	22164	Unreliable
+	"Delaware"	"10"	"74 years"	"74"	"Alzheimer disease, unspecified"	"G30.9"	16	22164	Unreliable
+	"Delaware"	"10"	"74 years"	"74"	"Acute myocardial infarction, unspecified"	"I21.9"	12	22164	Unreliable
+	"Delaware"	"10"	"74 years"	"74"	"Atherosclerotic heart disease"	"I25.1"	18	22164	Unreliable
+	"Delaware"	"10"	"74 years"	"74"	"Congestive heart failure"	"I50.0"	11	22164	Unreliable
+	"Delaware"	"10"	"74 years"	"74"	"Stroke, not specified as haemorrhage or infarction"	"I64"	16	22164	Unreliable
+	"Delaware"	"10"	"74 years"	"74"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	28	22164	126.3
+	"Delaware"	"10"	"75 years"	"75"	"Septicaemia, unspecified"	"A41.9"	10	21009	Unreliable
+	"Delaware"	"10"	"75 years"	"75"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	53	21009	252.3
+	"Delaware"	"10"	"75 years"	"75"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	18	21009	Unreliable
+	"Delaware"	"10"	"75 years"	"75"	"Unspecified dementia"	"F03"	17	21009	Unreliable
+	"Delaware"	"10"	"75 years"	"75"	"Alzheimer disease, unspecified"	"G30.9"	18	21009	Unreliable
+	"Delaware"	"10"	"75 years"	"75"	"Acute myocardial infarction, unspecified"	"I21.9"	14	21009	Unreliable
+	"Delaware"	"10"	"75 years"	"75"	"Atherosclerotic heart disease"	"I25.1"	19	21009	Unreliable
+	"Delaware"	"10"	"75 years"	"75"	"Stroke, not specified as haemorrhage or infarction"	"I64"	10	21009	Unreliable
+	"Delaware"	"10"	"75 years"	"75"	"Pneumonia, unspecified"	"J18.9"	11	21009	Unreliable
+	"Delaware"	"10"	"75 years"	"75"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	43	21009	204.7
+	"Delaware"	"10"	"75 years"	"75"	"Chronic kidney disease, stage 5"	"N18.5"	11	21009	Unreliable
+	"Delaware"	"10"	"76 years"	"76"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	14	19513	Unreliable
+	"Delaware"	"10"	"76 years"	"76"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	42	19513	215.2
+	"Delaware"	"10"	"76 years"	"76"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	14	19513	Unreliable
+	"Delaware"	"10"	"76 years"	"76"	"Unspecified dementia"	"F03"	11	19513	Unreliable
+	"Delaware"	"10"	"76 years"	"76"	"Alzheimer disease, unspecified"	"G30.9"	25	19513	128.1
+	"Delaware"	"10"	"76 years"	"76"	"Acute myocardial infarction, unspecified"	"I21.9"	14	19513	Unreliable
+	"Delaware"	"10"	"76 years"	"76"	"Atherosclerotic heart disease"	"I25.1"	20	19513	102.5
+	"Delaware"	"10"	"76 years"	"76"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	30	19513	153.7
+	"Delaware"	"10"	"77 years"	"77"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	11	17945	Unreliable
+	"Delaware"	"10"	"77 years"	"77"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	13	17945	Unreliable
+	"Delaware"	"10"	"77 years"	"77"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	28	17945	156.0
+	"Delaware"	"10"	"77 years"	"77"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	17	17945	Unreliable
+	"Delaware"	"10"	"77 years"	"77"	"Unspecified dementia"	"F03"	16	17945	Unreliable
+	"Delaware"	"10"	"77 years"	"77"	"Alzheimer disease, unspecified"	"G30.9"	25	17945	139.3
+	"Delaware"	"10"	"77 years"	"77"	"Acute myocardial infarction, unspecified"	"I21.9"	10	17945	Unreliable
+	"Delaware"	"10"	"77 years"	"77"	"Atherosclerotic heart disease"	"I25.1"	23	17945	128.2
+	"Delaware"	"10"	"77 years"	"77"	"Stroke, not specified as haemorrhage or infarction"	"I64"	12	17945	Unreliable
+	"Delaware"	"10"	"77 years"	"77"	"Pneumonia, unspecified"	"J18.9"	10	17945	Unreliable
+	"Delaware"	"10"	"77 years"	"77"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	41	17945	228.5
+	"Delaware"	"10"	"77 years"	"77"	"Urinary tract infection, site not specified"	"N39.0"	10	17945	Unreliable
+	"Delaware"	"10"	"77 years"	"77"	"COVID-19"	"U07.1"	14	17945	Unreliable
+	"Delaware"	"10"	"78 years"	"78"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	37	16099	229.8
+	"Delaware"	"10"	"78 years"	"78"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	21	16099	130.4
+	"Delaware"	"10"	"78 years"	"78"	"Malignant neoplasm without specification of site"	"C80"	10	16099	Unreliable
+	"Delaware"	"10"	"78 years"	"78"	"Unspecified dementia"	"F03"	22	16099	136.7
+	"Delaware"	"10"	"78 years"	"78"	"Alzheimer disease, unspecified"	"G30.9"	30	16099	186.3
+	"Delaware"	"10"	"78 years"	"78"	"Acute myocardial infarction, unspecified"	"I21.9"	11	16099	Unreliable
+	"Delaware"	"10"	"78 years"	"78"	"Atherosclerotic heart disease"	"I25.1"	20	16099	124.2
+	"Delaware"	"10"	"78 years"	"78"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	34	16099	211.2
+	"Delaware"	"10"	"79 years"	"79"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	10	14732	Unreliable
+	"Delaware"	"10"	"79 years"	"79"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	44	14732	298.7
+	"Delaware"	"10"	"79 years"	"79"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	17	14732	Unreliable
+	"Delaware"	"10"	"79 years"	"79"	"Unspecified dementia"	"F03"	19	14732	Unreliable
+	"Delaware"	"10"	"79 years"	"79"	"Alzheimer disease, unspecified"	"G30.9"	24	14732	162.9
+	"Delaware"	"10"	"79 years"	"79"	"Acute myocardial infarction, unspecified"	"I21.9"	15	14732	Unreliable
+	"Delaware"	"10"	"79 years"	"79"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	14	14732	Unreliable
+	"Delaware"	"10"	"79 years"	"79"	"Atherosclerotic heart disease"	"I25.1"	27	14732	183.3
+	"Delaware"	"10"	"79 years"	"79"	"Stroke, not specified as haemorrhage or infarction"	"I64"	18	14732	Unreliable
+	"Delaware"	"10"	"79 years"	"79"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	42	14732	285.1
+	"Delaware"	"10"	"79 years"	"79"	"COVID-19"	"U07.1"	11	14732	Unreliable
+	"Delaware"	"10"	"80 years"	"80"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	11	13515	Unreliable
+	"Delaware"	"10"	"80 years"	"80"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	13	13515	Unreliable
+	"Delaware"	"10"	"80 years"	"80"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	37	13515	273.8
+	"Delaware"	"10"	"80 years"	"80"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	24	13515	177.6
+	"Delaware"	"10"	"80 years"	"80"	"Unspecified dementia"	"F03"	23	13515	170.2
+	"Delaware"	"10"	"80 years"	"80"	"Alzheimer disease, unspecified"	"G30.9"	25	13515	185.0
+	"Delaware"	"10"	"80 years"	"80"	"Atherosclerotic heart disease"	"I25.1"	34	13515	251.6
+	"Delaware"	"10"	"80 years"	"80"	"Stroke, not specified as haemorrhage or infarction"	"I64"	15	13515	Unreliable
+	"Delaware"	"10"	"80 years"	"80"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	39	13515	288.6
+	"Delaware"	"10"	"80 years"	"80"	"COVID-19"	"U07.1"	18	13515	Unreliable
+	"Delaware"	"10"	"81 years"	"81"	"Septicaemia, unspecified"	"A41.9"	12	12500	Unreliable
+	"Delaware"	"10"	"81 years"	"81"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	10	12500	Unreliable
+	"Delaware"	"10"	"81 years"	"81"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	14	12500	Unreliable
+	"Delaware"	"10"	"81 years"	"81"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	45	12500	360.0
+	"Delaware"	"10"	"81 years"	"81"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	10	12500	Unreliable
+	"Delaware"	"10"	"81 years"	"81"	"Unspecified dementia"	"F03"	30	12500	240.0
+	"Delaware"	"10"	"81 years"	"81"	"Parkinson disease"	"G20"	10	12500	Unreliable
+	"Delaware"	"10"	"81 years"	"81"	"Alzheimer disease, unspecified"	"G30.9"	48	12500	384.0
+	"Delaware"	"10"	"81 years"	"81"	"Atherosclerotic heart disease"	"I25.1"	30	12500	240.0
+	"Delaware"	"10"	"81 years"	"81"	"Cardiomyopathy, unspecified"	"I42.9"	10	12500	Unreliable
+	"Delaware"	"10"	"81 years"	"81"	"Stroke, not specified as haemorrhage or infarction"	"I64"	18	12500	Unreliable
+	"Delaware"	"10"	"81 years"	"81"	"Pneumonia, unspecified"	"J18.9"	15	12500	Unreliable
+	"Delaware"	"10"	"81 years"	"81"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	42	12500	336.0
+	"Delaware"	"10"	"81 years"	"81"	"COVID-19"	"U07.1"	17	12500	Unreliable
+	"Delaware"	"10"	"82 years"	"82"	"Septicaemia, unspecified"	"A41.9"	12	11432	Unreliable
+	"Delaware"	"10"	"82 years"	"82"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	13	11432	Unreliable
+	"Delaware"	"10"	"82 years"	"82"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	30	11432	262.4
+	"Delaware"	"10"	"82 years"	"82"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	16	11432	Unreliable
+	"Delaware"	"10"	"82 years"	"82"	"Unspecified dementia"	"F03"	31	11432	271.2
+	"Delaware"	"10"	"82 years"	"82"	"Parkinson disease"	"G20"	16	11432	Unreliable
+	"Delaware"	"10"	"82 years"	"82"	"Alzheimer disease, unspecified"	"G30.9"	49	11432	428.6
+	"Delaware"	"10"	"82 years"	"82"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	11	11432	Unreliable
+	"Delaware"	"10"	"82 years"	"82"	"Atherosclerotic heart disease"	"I25.1"	34	11432	297.4
+	"Delaware"	"10"	"82 years"	"82"	"Congestive heart failure"	"I50.0"	10	11432	Unreliable
+	"Delaware"	"10"	"82 years"	"82"	"Stroke, not specified as haemorrhage or infarction"	"I64"	21	11432	183.7
+	"Delaware"	"10"	"82 years"	"82"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	46	11432	402.4
+	"Delaware"	"10"	"82 years"	"82"	"Chronic kidney disease, stage 5"	"N18.5"	12	11432	Unreliable
+	"Delaware"	"10"	"82 years"	"82"	"COVID-19"	"U07.1"	11	11432	Unreliable
+	"Delaware"	"10"	"83 years"	"83"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	11	10483	Unreliable
+	"Delaware"	"10"	"83 years"	"83"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	15	10483	Unreliable
+	"Delaware"	"10"	"83 years"	"83"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	31	10483	295.7
+	"Delaware"	"10"	"83 years"	"83"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	20	10483	190.8
+	"Delaware"	"10"	"83 years"	"83"	"Unspecified dementia"	"F03"	38	10483	362.5
+	"Delaware"	"10"	"83 years"	"83"	"Alzheimer disease, unspecified"	"G30.9"	48	10483	457.9
+	"Delaware"	"10"	"83 years"	"83"	"Acute myocardial infarction, unspecified"	"I21.9"	16	10483	Unreliable
+	"Delaware"	"10"	"83 years"	"83"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	13	10483	Unreliable
+	"Delaware"	"10"	"83 years"	"83"	"Atherosclerotic heart disease"	"I25.1"	32	10483	305.3
+	"Delaware"	"10"	"83 years"	"83"	"Congestive heart failure"	"I50.0"	15	10483	Unreliable
+	"Delaware"	"10"	"83 years"	"83"	"Stroke, not specified as haemorrhage or infarction"	"I64"	14	10483	Unreliable
+	"Delaware"	"10"	"83 years"	"83"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	37	10483	353.0
+	"Delaware"	"10"	"83 years"	"83"	"Chronic kidney disease, stage 5"	"N18.5"	10	10483	Unreliable
+	"Delaware"	"10"	"83 years"	"83"	"COVID-19"	"U07.1"	15	10483	Unreliable
+	"Delaware"	"10"	"84 years"	"84"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	17	9688	Unreliable
+	"Delaware"	"10"	"84 years"	"84"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	16	9688	Unreliable
+	"Delaware"	"10"	"84 years"	"84"	"Unspecified dementia"	"F03"	51	9688	526.4
+	"Delaware"	"10"	"84 years"	"84"	"Alzheimer disease, unspecified"	"G30.9"	60	9688	619.3
+	"Delaware"	"10"	"84 years"	"84"	"Atherosclerotic heart disease"	"I25.1"	41	9688	423.2
+	"Delaware"	"10"	"84 years"	"84"	"Congestive heart failure"	"I50.0"	18	9688	Unreliable
+	"Delaware"	"10"	"84 years"	"84"	"Stroke, not specified as haemorrhage or infarction"	"I64"	26	9688	268.4
+	"Delaware"	"10"	"84 years"	"84"	"Pneumonia, unspecified"	"J18.9"	13	9688	Unreliable
+	"Delaware"	"10"	"84 years"	"84"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	48	9688	495.5
+	"Delaware"	"10"	"84 years"	"84"	"COVID-19"	"U07.1"	17	9688	Unreliable
+	"Delaware"	"10"	"85 years"	"85"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	22	Not Applicable	Not Applicable
+	"Delaware"	"10"	"85 years"	"85"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	17	Not Applicable	Not Applicable
+	"Delaware"	"10"	"85 years"	"85"	"Unspecified diabetes mellitus, without complications"	"E14.9"	10	Not Applicable	Not Applicable
+	"Delaware"	"10"	"85 years"	"85"	"Unspecified dementia"	"F03"	45	Not Applicable	Not Applicable
+	"Delaware"	"10"	"85 years"	"85"	"Parkinson disease"	"G20"	11	Not Applicable	Not Applicable
+	"Delaware"	"10"	"85 years"	"85"	"Alzheimer disease, unspecified"	"G30.9"	50	Not Applicable	Not Applicable
+	"Delaware"	"10"	"85 years"	"85"	"Acute myocardial infarction, unspecified"	"I21.9"	25	Not Applicable	Not Applicable
+	"Delaware"	"10"	"85 years"	"85"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	14	Not Applicable	Not Applicable
+	"Delaware"	"10"	"85 years"	"85"	"Atherosclerotic heart disease"	"I25.1"	37	Not Applicable	Not Applicable
+	"Delaware"	"10"	"85 years"	"85"	"Congestive heart failure"	"I50.0"	11	Not Applicable	Not Applicable
+	"Delaware"	"10"	"85 years"	"85"	"Stroke, not specified as haemorrhage or infarction"	"I64"	14	Not Applicable	Not Applicable
+	"Delaware"	"10"	"85 years"	"85"	"Cerebrovascular disease, unspecified"	"I67.9"	14	Not Applicable	Not Applicable
+	"Delaware"	"10"	"85 years"	"85"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	39	Not Applicable	Not Applicable
+	"Delaware"	"10"	"85 years"	"85"	"Chronic kidney disease, stage 5"	"N18.5"	17	Not Applicable	Not Applicable
+	"Delaware"	"10"	"85 years"	"85"	"COVID-19"	"U07.1"	14	Not Applicable	Not Applicable
+	"Delaware"	"10"	"86 years"	"86"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	23	Not Applicable	Not Applicable
+	"Delaware"	"10"	"86 years"	"86"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	11	Not Applicable	Not Applicable
+	"Delaware"	"10"	"86 years"	"86"	"Unspecified dementia"	"F03"	72	Not Applicable	Not Applicable
+	"Delaware"	"10"	"86 years"	"86"	"Parkinson disease"	"G20"	14	Not Applicable	Not Applicable
+	"Delaware"	"10"	"86 years"	"86"	"Alzheimer disease, unspecified"	"G30.9"	47	Not Applicable	Not Applicable
+	"Delaware"	"10"	"86 years"	"86"	"Acute myocardial infarction, unspecified"	"I21.9"	14	Not Applicable	Not Applicable
+	"Delaware"	"10"	"86 years"	"86"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	13	Not Applicable	Not Applicable
+	"Delaware"	"10"	"86 years"	"86"	"Atherosclerotic heart disease"	"I25.1"	42	Not Applicable	Not Applicable
+	"Delaware"	"10"	"86 years"	"86"	"Atrial fibrillation and flutter"	"I48"	12	Not Applicable	Not Applicable
+	"Delaware"	"10"	"86 years"	"86"	"Congestive heart failure"	"I50.0"	15	Not Applicable	Not Applicable
+	"Delaware"	"10"	"86 years"	"86"	"Heart disease, unspecified"	"I51.9"	10	Not Applicable	Not Applicable
+	"Delaware"	"10"	"86 years"	"86"	"Stroke, not specified as haemorrhage or infarction"	"I64"	34	Not Applicable	Not Applicable
+	"Delaware"	"10"	"86 years"	"86"	"Cerebral atherosclerosis"	"I67.2"	14	Not Applicable	Not Applicable
+	"Delaware"	"10"	"86 years"	"86"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	41	Not Applicable	Not Applicable
+	"Delaware"	"10"	"86 years"	"86"	"Pneumonitis due to food and vomit"	"J69.0"	11	Not Applicable	Not Applicable
+	"Delaware"	"10"	"86 years"	"86"	"COVID-19"	"U07.1"	17	Not Applicable	Not Applicable
+	"Delaware"	"10"	"87 years"	"87"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	22	Not Applicable	Not Applicable
+	"Delaware"	"10"	"87 years"	"87"	"Unspecified dementia"	"F03"	71	Not Applicable	Not Applicable
+	"Delaware"	"10"	"87 years"	"87"	"Parkinson disease"	"G20"	12	Not Applicable	Not Applicable
+	"Delaware"	"10"	"87 years"	"87"	"Alzheimer disease, unspecified"	"G30.9"	55	Not Applicable	Not Applicable
+	"Delaware"	"10"	"87 years"	"87"	"Acute myocardial infarction, unspecified"	"I21.9"	13	Not Applicable	Not Applicable
+	"Delaware"	"10"	"87 years"	"87"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	10	Not Applicable	Not Applicable
+	"Delaware"	"10"	"87 years"	"87"	"Atherosclerotic heart disease"	"I25.1"	47	Not Applicable	Not Applicable
+	"Delaware"	"10"	"87 years"	"87"	"Aortic (valve) stenosis"	"I35.0"	13	Not Applicable	Not Applicable
+	"Delaware"	"10"	"87 years"	"87"	"Congestive heart failure"	"I50.0"	16	Not Applicable	Not Applicable
+	"Delaware"	"10"	"87 years"	"87"	"Stroke, not specified as haemorrhage or infarction"	"I64"	18	Not Applicable	Not Applicable
+	"Delaware"	"10"	"87 years"	"87"	"Cerebrovascular disease, unspecified"	"I67.9"	22	Not Applicable	Not Applicable
+	"Delaware"	"10"	"87 years"	"87"	"Pneumonia, unspecified"	"J18.9"	10	Not Applicable	Not Applicable
+	"Delaware"	"10"	"87 years"	"87"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	44	Not Applicable	Not Applicable
+	"Delaware"	"10"	"87 years"	"87"	"COVID-19"	"U07.1"	24	Not Applicable	Not Applicable
+	"Delaware"	"10"	"88 years"	"88"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	10	Not Applicable	Not Applicable
+	"Delaware"	"10"	"88 years"	"88"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	21	Not Applicable	Not Applicable
+	"Delaware"	"10"	"88 years"	"88"	"Unspecified dementia"	"F03"	71	Not Applicable	Not Applicable
+	"Delaware"	"10"	"88 years"	"88"	"Alzheimer disease, unspecified"	"G30.9"	62	Not Applicable	Not Applicable
+	"Delaware"	"10"	"88 years"	"88"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	11	Not Applicable	Not Applicable
+	"Delaware"	"10"	"88 years"	"88"	"Acute myocardial infarction, unspecified"	"I21.9"	15	Not Applicable	Not Applicable
+	"Delaware"	"10"	"88 years"	"88"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	11	Not Applicable	Not Applicable
+	"Delaware"	"10"	"88 years"	"88"	"Atherosclerotic heart disease"	"I25.1"	51	Not Applicable	Not Applicable
+	"Delaware"	"10"	"88 years"	"88"	"Aortic (valve) stenosis"	"I35.0"	10	Not Applicable	Not Applicable
+	"Delaware"	"10"	"88 years"	"88"	"Cardiomyopathy, unspecified"	"I42.9"	10	Not Applicable	Not Applicable
+	"Delaware"	"10"	"88 years"	"88"	"Congestive heart failure"	"I50.0"	11	Not Applicable	Not Applicable
+	"Delaware"	"10"	"88 years"	"88"	"Heart disease, unspecified"	"I51.9"	14	Not Applicable	Not Applicable
+	"Delaware"	"10"	"88 years"	"88"	"Stroke, not specified as haemorrhage or infarction"	"I64"	17	Not Applicable	Not Applicable
+	"Delaware"	"10"	"88 years"	"88"	"Cerebrovascular disease, unspecified"	"I67.9"	17	Not Applicable	Not Applicable
+	"Delaware"	"10"	"88 years"	"88"	"Sequelae of stroke, not specified as haemorrhage or infarction"	"I69.4"	12	Not Applicable	Not Applicable
+	"Delaware"	"10"	"88 years"	"88"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	51	Not Applicable	Not Applicable
+	"Delaware"	"10"	"88 years"	"88"	"COVID-19"	"U07.1"	14	Not Applicable	Not Applicable
+	"Delaware"	"10"	"89 years"	"89"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	15	Not Applicable	Not Applicable
+	"Delaware"	"10"	"89 years"	"89"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	13	Not Applicable	Not Applicable
+	"Delaware"	"10"	"89 years"	"89"	"Unspecified dementia"	"F03"	76	Not Applicable	Not Applicable
+	"Delaware"	"10"	"89 years"	"89"	"Alzheimer disease, unspecified"	"G30.9"	69	Not Applicable	Not Applicable
+	"Delaware"	"10"	"89 years"	"89"	"Acute myocardial infarction, unspecified"	"I21.9"	13	Not Applicable	Not Applicable
+	"Delaware"	"10"	"89 years"	"89"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	12	Not Applicable	Not Applicable
+	"Delaware"	"10"	"89 years"	"89"	"Atherosclerotic heart disease"	"I25.1"	59	Not Applicable	Not Applicable
+	"Delaware"	"10"	"89 years"	"89"	"Cardiomyopathy, unspecified"	"I42.9"	11	Not Applicable	Not Applicable
+	"Delaware"	"10"	"89 years"	"89"	"Congestive heart failure"	"I50.0"	21	Not Applicable	Not Applicable
+	"Delaware"	"10"	"89 years"	"89"	"Heart disease, unspecified"	"I51.9"	11	Not Applicable	Not Applicable
+	"Delaware"	"10"	"89 years"	"89"	"Stroke, not specified as haemorrhage or infarction"	"I64"	21	Not Applicable	Not Applicable
+	"Delaware"	"10"	"89 years"	"89"	"Cerebrovascular disease, unspecified"	"I67.9"	17	Not Applicable	Not Applicable
+	"Delaware"	"10"	"89 years"	"89"	"Sequelae of stroke, not specified as haemorrhage or infarction"	"I69.4"	11	Not Applicable	Not Applicable
+	"Delaware"	"10"	"89 years"	"89"	"Pneumonia, unspecified"	"J18.9"	11	Not Applicable	Not Applicable
+	"Delaware"	"10"	"89 years"	"89"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	38	Not Applicable	Not Applicable
+	"Delaware"	"10"	"89 years"	"89"	"COVID-19"	"U07.1"	18	Not Applicable	Not Applicable
+	"Delaware"	"10"	"90 years"	"90"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	10	Not Applicable	Not Applicable
+	"Delaware"	"10"	"90 years"	"90"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	14	Not Applicable	Not Applicable
+	"Delaware"	"10"	"90 years"	"90"	"Unspecified dementia"	"F03"	64	Not Applicable	Not Applicable
+	"Delaware"	"10"	"90 years"	"90"	"Parkinson disease"	"G20"	12	Not Applicable	Not Applicable
+	"Delaware"	"10"	"90 years"	"90"	"Alzheimer disease, unspecified"	"G30.9"	77	Not Applicable	Not Applicable
+	"Delaware"	"10"	"90 years"	"90"	"Acute myocardial infarction, unspecified"	"I21.9"	15	Not Applicable	Not Applicable
+	"Delaware"	"10"	"90 years"	"90"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	18	Not Applicable	Not Applicable
+	"Delaware"	"10"	"90 years"	"90"	"Atherosclerotic heart disease"	"I25.1"	56	Not Applicable	Not Applicable
+	"Delaware"	"10"	"90 years"	"90"	"Aortic (valve) stenosis"	"I35.0"	10	Not Applicable	Not Applicable
+	"Delaware"	"10"	"90 years"	"90"	"Atrial fibrillation and flutter"	"I48"	17	Not Applicable	Not Applicable
+	"Delaware"	"10"	"90 years"	"90"	"Congestive heart failure"	"I50.0"	19	Not Applicable	Not Applicable
+	"Delaware"	"10"	"90 years"	"90"	"Heart disease, unspecified"	"I51.9"	14	Not Applicable	Not Applicable
+	"Delaware"	"10"	"90 years"	"90"	"Stroke, not specified as haemorrhage or infarction"	"I64"	35	Not Applicable	Not Applicable
+	"Delaware"	"10"	"90 years"	"90"	"Cerebral atherosclerosis"	"I67.2"	10	Not Applicable	Not Applicable
+	"Delaware"	"10"	"90 years"	"90"	"Cerebrovascular disease, unspecified"	"I67.9"	15	Not Applicable	Not Applicable
+	"Delaware"	"10"	"90 years"	"90"	"Pneumonia, unspecified"	"J18.9"	16	Not Applicable	Not Applicable
+	"Delaware"	"10"	"90 years"	"90"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	26	Not Applicable	Not Applicable
+	"Delaware"	"10"	"90 years"	"90"	"COVID-19"	"U07.1"	13	Not Applicable	Not Applicable
+	"Delaware"	"10"	"91 years"	"91"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	13	Not Applicable	Not Applicable
+	"Delaware"	"10"	"91 years"	"91"	"Vascular dementia, unspecified"	"F01.9"	12	Not Applicable	Not Applicable
+	"Delaware"	"10"	"91 years"	"91"	"Unspecified dementia"	"F03"	82	Not Applicable	Not Applicable
+	"Delaware"	"10"	"91 years"	"91"	"Alzheimer disease, unspecified"	"G30.9"	63	Not Applicable	Not Applicable
+	"Delaware"	"10"	"91 years"	"91"	"Acute myocardial infarction, unspecified"	"I21.9"	17	Not Applicable	Not Applicable
+	"Delaware"	"10"	"91 years"	"91"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	14	Not Applicable	Not Applicable
+	"Delaware"	"10"	"91 years"	"91"	"Atherosclerotic heart disease"	"I25.1"	44	Not Applicable	Not Applicable
+	"Delaware"	"10"	"91 years"	"91"	"Aortic (valve) stenosis"	"I35.0"	10	Not Applicable	Not Applicable
+	"Delaware"	"10"	"91 years"	"91"	"Congestive heart failure"	"I50.0"	22	Not Applicable	Not Applicable
+	"Delaware"	"10"	"91 years"	"91"	"Stroke, not specified as haemorrhage or infarction"	"I64"	17	Not Applicable	Not Applicable
+	"Delaware"	"10"	"91 years"	"91"	"Cerebral atherosclerosis"	"I67.2"	10	Not Applicable	Not Applicable
+	"Delaware"	"10"	"91 years"	"91"	"Cerebrovascular disease, unspecified"	"I67.9"	11	Not Applicable	Not Applicable
+	"Delaware"	"10"	"91 years"	"91"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	26	Not Applicable	Not Applicable
+	"Delaware"	"10"	"91 years"	"91"	"COVID-19"	"U07.1"	16	Not Applicable	Not Applicable
+	"Delaware"	"10"	"92 years"	"92"	"Septicaemia, unspecified"	"A41.9"	13	Not Applicable	Not Applicable
+	"Delaware"	"10"	"92 years"	"92"	"Unspecified dementia"	"F03"	74	Not Applicable	Not Applicable
+	"Delaware"	"10"	"92 years"	"92"	"Alzheimer disease, unspecified"	"G30.9"	72	Not Applicable	Not Applicable
+	"Delaware"	"10"	"92 years"	"92"	"Acute myocardial infarction, unspecified"	"I21.9"	14	Not Applicable	Not Applicable
+	"Delaware"	"10"	"92 years"	"92"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	16	Not Applicable	Not Applicable
+	"Delaware"	"10"	"92 years"	"92"	"Atherosclerotic heart disease"	"I25.1"	51	Not Applicable	Not Applicable
+	"Delaware"	"10"	"92 years"	"92"	"Cardiomyopathy, unspecified"	"I42.9"	10	Not Applicable	Not Applicable
+	"Delaware"	"10"	"92 years"	"92"	"Atrial fibrillation and flutter"	"I48"	12	Not Applicable	Not Applicable
+	"Delaware"	"10"	"92 years"	"92"	"Congestive heart failure"	"I50.0"	22	Not Applicable	Not Applicable
+	"Delaware"	"10"	"92 years"	"92"	"Heart disease, unspecified"	"I51.9"	14	Not Applicable	Not Applicable
+	"Delaware"	"10"	"92 years"	"92"	"Stroke, not specified as haemorrhage or infarction"	"I64"	18	Not Applicable	Not Applicable
+	"Delaware"	"10"	"92 years"	"92"	"Cerebrovascular disease, unspecified"	"I67.9"	17	Not Applicable	Not Applicable
+	"Delaware"	"10"	"92 years"	"92"	"Pneumonia, unspecified"	"J18.9"	11	Not Applicable	Not Applicable
+	"Delaware"	"10"	"92 years"	"92"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	26	Not Applicable	Not Applicable
+	"Delaware"	"10"	"92 years"	"92"	"COVID-19"	"U07.1"	22	Not Applicable	Not Applicable
+	"Delaware"	"10"	"93 years"	"93"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	10	Not Applicable	Not Applicable
+	"Delaware"	"10"	"93 years"	"93"	"Unspecified dementia"	"F03"	86	Not Applicable	Not Applicable
+	"Delaware"	"10"	"93 years"	"93"	"Alzheimer disease, unspecified"	"G30.9"	51	Not Applicable	Not Applicable
+	"Delaware"	"10"	"93 years"	"93"	"Acute myocardial infarction, unspecified"	"I21.9"	13	Not Applicable	Not Applicable
+	"Delaware"	"10"	"93 years"	"93"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	20	Not Applicable	Not Applicable
+	"Delaware"	"10"	"93 years"	"93"	"Atherosclerotic heart disease"	"I25.1"	55	Not Applicable	Not Applicable
+	"Delaware"	"10"	"93 years"	"93"	"Atrial fibrillation and flutter"	"I48"	12	Not Applicable	Not Applicable
+	"Delaware"	"10"	"93 years"	"93"	"Congestive heart failure"	"I50.0"	23	Not Applicable	Not Applicable
+	"Delaware"	"10"	"93 years"	"93"	"Stroke, not specified as haemorrhage or infarction"	"I64"	23	Not Applicable	Not Applicable
+	"Delaware"	"10"	"93 years"	"93"	"Cerebrovascular disease, unspecified"	"I67.9"	14	Not Applicable	Not Applicable
+	"Delaware"	"10"	"93 years"	"93"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	17	Not Applicable	Not Applicable
+	"Delaware"	"10"	"93 years"	"93"	"COVID-19"	"U07.1"	16	Not Applicable	Not Applicable
+	"Delaware"	"10"	"94 years"	"94"	"Unspecified dementia"	"F03"	82	Not Applicable	Not Applicable
+	"Delaware"	"10"	"94 years"	"94"	"Alzheimer disease, unspecified"	"G30.9"	65	Not Applicable	Not Applicable
+	"Delaware"	"10"	"94 years"	"94"	"Acute myocardial infarction, unspecified"	"I21.9"	12	Not Applicable	Not Applicable
+	"Delaware"	"10"	"94 years"	"94"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	14	Not Applicable	Not Applicable
+	"Delaware"	"10"	"94 years"	"94"	"Atherosclerotic heart disease"	"I25.1"	53	Not Applicable	Not Applicable
+	"Delaware"	"10"	"94 years"	"94"	"Atrial fibrillation and flutter"	"I48"	10	Not Applicable	Not Applicable
+	"Delaware"	"10"	"94 years"	"94"	"Congestive heart failure"	"I50.0"	23	Not Applicable	Not Applicable
+	"Delaware"	"10"	"94 years"	"94"	"Stroke, not specified as haemorrhage or infarction"	"I64"	19	Not Applicable	Not Applicable
+	"Delaware"	"10"	"94 years"	"94"	"Cerebrovascular disease, unspecified"	"I67.9"	14	Not Applicable	Not Applicable
+	"Delaware"	"10"	"94 years"	"94"	"Pneumonia, unspecified"	"J18.9"	17	Not Applicable	Not Applicable
+	"Delaware"	"10"	"94 years"	"94"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	18	Not Applicable	Not Applicable
+	"Delaware"	"10"	"94 years"	"94"	"COVID-19"	"U07.1"	17	Not Applicable	Not Applicable
+	"Delaware"	"10"	"95 years"	"95"	"Unspecified dementia"	"F03"	73	Not Applicable	Not Applicable
+	"Delaware"	"10"	"95 years"	"95"	"Alzheimer disease, unspecified"	"G30.9"	52	Not Applicable	Not Applicable
+	"Delaware"	"10"	"95 years"	"95"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	10	Not Applicable	Not Applicable
+	"Delaware"	"10"	"95 years"	"95"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	13	Not Applicable	Not Applicable
+	"Delaware"	"10"	"95 years"	"95"	"Atherosclerotic heart disease"	"I25.1"	36	Not Applicable	Not Applicable
+	"Delaware"	"10"	"95 years"	"95"	"Atrial fibrillation and flutter"	"I48"	10	Not Applicable	Not Applicable
+	"Delaware"	"10"	"95 years"	"95"	"Congestive heart failure"	"I50.0"	26	Not Applicable	Not Applicable
+	"Delaware"	"10"	"95 years"	"95"	"Stroke, not specified as haemorrhage or infarction"	"I64"	16	Not Applicable	Not Applicable
+	"Delaware"	"10"	"95 years"	"95"	"Cerebrovascular disease, unspecified"	"I67.9"	18	Not Applicable	Not Applicable
+	"Delaware"	"10"	"95 years"	"95"	"Pneumonia, unspecified"	"J18.9"	10	Not Applicable	Not Applicable
+	"Delaware"	"10"	"95 years"	"95"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	19	Not Applicable	Not Applicable
+	"Delaware"	"10"	"95 years"	"95"	"COVID-19"	"U07.1"	11	Not Applicable	Not Applicable
+	"Delaware"	"10"	"96 years"	"96"	"Unspecified dementia"	"F03"	54	Not Applicable	Not Applicable
+	"Delaware"	"10"	"96 years"	"96"	"Alzheimer disease, unspecified"	"G30.9"	41	Not Applicable	Not Applicable
+	"Delaware"	"10"	"96 years"	"96"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	12	Not Applicable	Not Applicable
+	"Delaware"	"10"	"96 years"	"96"	"Atherosclerotic heart disease"	"I25.1"	43	Not Applicable	Not Applicable
+	"Delaware"	"10"	"96 years"	"96"	"Congestive heart failure"	"I50.0"	22	Not Applicable	Not Applicable
+	"Delaware"	"10"	"96 years"	"96"	"Stroke, not specified as haemorrhage or infarction"	"I64"	13	Not Applicable	Not Applicable
+	"Delaware"	"10"	"96 years"	"96"	"Sequelae of stroke, not specified as haemorrhage or infarction"	"I69.4"	10	Not Applicable	Not Applicable
+	"Delaware"	"10"	"96 years"	"96"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	14	Not Applicable	Not Applicable
+	"Delaware"	"10"	"96 years"	"96"	"COVID-19"	"U07.1"	10	Not Applicable	Not Applicable
+	"Delaware"	"10"	"97 years"	"97"	"Unspecified dementia"	"F03"	51	Not Applicable	Not Applicable
+	"Delaware"	"10"	"97 years"	"97"	"Alzheimer disease, unspecified"	"G30.9"	28	Not Applicable	Not Applicable
+	"Delaware"	"10"	"97 years"	"97"	"Acute myocardial infarction, unspecified"	"I21.9"	12	Not Applicable	Not Applicable
+	"Delaware"	"10"	"97 years"	"97"	"Atherosclerotic heart disease"	"I25.1"	31	Not Applicable	Not Applicable
+	"Delaware"	"10"	"97 years"	"97"	"Stroke, not specified as haemorrhage or infarction"	"I64"	13	Not Applicable	Not Applicable
+	"Delaware"	"10"	"97 years"	"97"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	10	Not Applicable	Not Applicable
+	"Delaware"	"10"	"98 years"	"98"	"Unspecified dementia"	"F03"	36	Not Applicable	Not Applicable
+	"Delaware"	"10"	"98 years"	"98"	"Alzheimer disease, unspecified"	"G30.9"	23	Not Applicable	Not Applicable
+	"Delaware"	"10"	"98 years"	"98"	"Atherosclerotic heart disease"	"I25.1"	28	Not Applicable	Not Applicable
+	"Delaware"	"10"	"98 years"	"98"	"Stroke, not specified as haemorrhage or infarction"	"I64"	10	Not Applicable	Not Applicable
+	"Delaware"	"10"	"99 years"	"99"	"Unspecified dementia"	"F03"	21	Not Applicable	Not Applicable
+	"Delaware"	"10"	"99 years"	"99"	"Alzheimer disease, unspecified"	"G30.9"	27	Not Applicable	Not Applicable
+	"Delaware"	"10"	"99 years"	"99"	"Atherosclerotic heart disease"	"I25.1"	18	Not Applicable	Not Applicable
+	"Delaware"	"10"	"99 years"	"99"	"Congestive heart failure"	"I50.0"	10	Not Applicable	Not Applicable
+	"Delaware"	"10"	"100+ years"	"100"	"Unspecified dementia"	"F03"	64	Not Applicable	Not Applicable
+	"Delaware"	"10"	"100+ years"	"100"	"Alzheimer disease, unspecified"	"G30.9"	40	Not Applicable	Not Applicable
+	"Delaware"	"10"	"100+ years"	"100"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	16	Not Applicable	Not Applicable
+	"Delaware"	"10"	"100+ years"	"100"	"Atherosclerotic heart disease"	"I25.1"	32	Not Applicable	Not Applicable
+	"Delaware"	"10"	"100+ years"	"100"	"Congestive heart failure"	"I50.0"	13	Not Applicable	Not Applicable
+	"Delaware"	"10"	"100+ years"	"100"	"Cerebrovascular disease, unspecified"	"I67.9"	12	Not Applicable	Not Applicable
+	"Delaware"	"10"	"100+ years"	"100"	"Pneumonia, unspecified"	"J18.9"	10	Not Applicable	Not Applicable
+	"Delaware"	"10"	"100+ years"	"100"	"COVID-19"	"U07.1"	11	Not Applicable	Not Applicable
+"---"
+"Dataset: Underlying Cause of Death, 1999-2020"
+"Query Parameters:"
+"Title: Delaware CoD F"
+"Gender: Female"
+"States: Delaware (10)"
+"Year/Month: 2016; 2017; 2018; 2019; 2020"
+"Group By: State; Single-Year Ages; Cause of death"
+"Show Totals: Disabled"
+"Show Zero Values: Disabled"
+"Show Suppressed: False"
+"Calculate Rates Per: 100,000"
+"Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/ucd.html for more information."
+"---"
+"Query Date: Apr 8, 2022 12:52:38 AM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. Underlying Cause of Death"
+"1999-2020 on CDC WONDER Online Database, released in 2021. Data are from the Multiple Cause of Death Files, 1999-2020, as"
+"compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative Program. Accessed"
+"at http://wonder.cdc.gov/ucd-icd10.html on Apr 8, 2022 12:52:38 AM"
+"---"
+Messages:
+"1. The full results are too long to be displayed. Due to suppression constraints rows that are zero, suppressed or a total will"
+"not be available."
+"---"
+Caveats:
+"1. Population and rates are labeled 'Not Applicable' when they include a subset of ages 85-100+ because populations are not"
+"available for those ages. More information: http://wonder.cdc.gov/wonder/help/ucd.html#Ages 85-100."
+"2. Death rates are flagged as Unreliable when the rate is calculated with a numerator of 20 or less. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Unreliable."
+"3. Deaths of persons with Age ""Not Stated"" are included in ""All"" counts and rates, but are not distributed among age groups,"
+"so are not included in age-specific counts, age-specific rates or in any age-adjusted rates. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Not Stated."
+"4. The population figures for year 2020 are bridged-race estimates of the July 1 resident population, from the Vintage 2020"
+"postcensal series released by NCHS on September 22, 2021. The population figures for year 2019 are bridged-race estimates of the"
+"July 1 resident population, from the Vintage 2019 postcensal series released by NCHS on July 9, 2020. The population figures for"
+"year 2018 are bridged-race estimates of the July 1 resident population, from the Vintage 2018 postcensal series released by NCHS"
+"on June 25, 2019. The population figures for year 2017 are bridged-race estimates of the July 1 resident population, from the"
+"Vintage 2017 postcensal series released by NCHS on June 27, 2018. The population figures for year 2016 are bridged-race"
+"estimates of the July 1 resident population, from the Vintage 2016 postcensal series released by NCHS on June 26, 2017. The"
+"population figures for year 2015 are bridged-race estimates of the July 1 resident population, from the Vintage 2015 postcensal"
+"series released by NCHS on June 28, 2016. The population figures for year 2014 are bridged-race estimates of the July 1 resident"
+"population, from the Vintage 2014 postcensal series released by NCHS on June 30, 2015. The population figures for year 2013 are"
+"bridged-race estimates of the July 1 resident population, from the Vintage 2013 postcensal series released by NCHS on June 26,"
+"2014. The population figures for year 2012 are bridged-race estimates of the July 1 resident population, from the Vintage 2012"
+"postcensal series released by NCHS on June 13, 2013. The population figures for year 2011 are bridged-race estimates of the July"
+"1 resident population, from the Vintage 2011 postcensal series released by NCHS on July 18, 2012. Population figures for 2010"
+"are April 1 Census counts. The population figures for years 2001 - 2009 are bridged-race estimates of the July 1 resident"
+"population, from the revised intercensal county-level 2000 - 2009 series released by NCHS on October 26, 2012. Population"
+"figures for 2000 are April 1 Census counts. Population figures for 1999 are from the 1990-1999 intercensal series of July 1"
+"estimates. Population figures for the infant age groups are the number of live births. <br/><b>Note:</b> Rates and population"
+"figures for years 2001 - 2009 differ slightly from previously published reports, due to use of the population estimates which"
+"were available at the time of release."
+"5. The population figures used in the calculation of death rates for the age group 'under 1 year' are the estimates of the"
+"resident population that is under one year of age. More information: http://wonder.cdc.gov/wonder/help/ucd.html#Age Group."
+"6. Beginning with the 2018 data, changes have been implemented that affect the counts for ICD-10 cause of death codes O00-O99"
+"compared to previous practice. In addition, data for the cause of death codes O00-O99 for 2003 through 2017 reflect differences"
+"in information available to individual states and probable errors. Caution should be used in interpreting these data. More"
+"information can be found at: https://www.cdc.gov/nchs/maternal-mortality/."
+"7. On March 11, 2021, the 2019 mortality data on CDC WONDER was updated with the 2019 mortality data updated by NCHS on March 4,"
+"2021 to include corrected information for residents of Texas affecting 5 records previously coded to cause code *U01.4,"
+"Terrorism involving firearms (homicide). The underlying and multiple cause of death codes for 5 records were corrected in the"
+"2019 data. Underlying and multiple cause of death codes for those 5 records were recoded to Assault (homicide) by other and"
+"unspecified firearm discharge, ICD-10 code X95. The corrected final death records replaces the data released on December 22,"
+"2020."
+"8. Changes to cause of death classification affect reporting trends. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#ICD-10 Changes."

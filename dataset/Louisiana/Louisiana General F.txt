@@ -1,0 +1,162 @@
+"Notes"	"State"	"State Code"	"Single-Year Ages"	"Single-Year Ages Code"	Deaths	Population	Crude Rate
+	"Louisiana"	"22"	"< 1 year"	"0"	1007	146725	686.3
+	"Louisiana"	"22"	"1 year"	"1"	73	148891	49.0
+	"Louisiana"	"22"	"2 years"	"2"	56	151566	36.9
+	"Louisiana"	"22"	"3 years"	"3"	33	150926	21.9
+	"Louisiana"	"22"	"4 years"	"4"	29	151137	19.2
+	"Louisiana"	"22"	"5 years"	"5"	30	149773	20.0
+	"Louisiana"	"22"	"6 years"	"6"	27	148474	18.2
+	"Louisiana"	"22"	"7 years"	"7"	20	147858	13.5
+	"Louisiana"	"22"	"8 years"	"8"	17	149335	Unreliable
+	"Louisiana"	"22"	"9 years"	"9"	16	150896	Unreliable
+	"Louisiana"	"22"	"10 years"	"10"	21	151530	13.9
+	"Louisiana"	"22"	"11 years"	"11"	19	151094	Unreliable
+	"Louisiana"	"22"	"12 years"	"12"	20	151055	13.2
+	"Louisiana"	"22"	"13 years"	"13"	31	149527	20.7
+	"Louisiana"	"22"	"14 years"	"14"	36	147437	24.4
+	"Louisiana"	"22"	"15 years"	"15"	43	147644	29.1
+	"Louisiana"	"22"	"16 years"	"16"	40	148536	26.9
+	"Louisiana"	"22"	"17 years"	"17"	65	149353	43.5
+	"Louisiana"	"22"	"18 years"	"18"	79	142513	55.4
+	"Louisiana"	"22"	"19 years"	"19"	89	139358	63.9
+	"Louisiana"	"22"	"20 years"	"20"	84	145247	57.8
+	"Louisiana"	"22"	"21 years"	"21"	100	149422	66.9
+	"Louisiana"	"22"	"22 years"	"22"	96	155672	61.7
+	"Louisiana"	"22"	"23 years"	"23"	116	157792	73.5
+	"Louisiana"	"22"	"24 years"	"24"	136	160242	84.9
+	"Louisiana"	"22"	"25 years"	"25"	121	165512	73.1
+	"Louisiana"	"22"	"26 years"	"26"	124	170170	72.9
+	"Louisiana"	"22"	"27 years"	"27"	165	171927	96.0
+	"Louisiana"	"22"	"28 years"	"28"	162	172034	94.2
+	"Louisiana"	"22"	"29 years"	"29"	192	169542	113.2
+	"Louisiana"	"22"	"30 years"	"30"	224	166567	134.5
+	"Louisiana"	"22"	"31 years"	"31"	202	164474	122.8
+	"Louisiana"	"22"	"32 years"	"32"	234	162818	143.7
+	"Louisiana"	"22"	"33 years"	"33"	261	162877	160.2
+	"Louisiana"	"22"	"34 years"	"34"	258	163353	157.9
+	"Louisiana"	"22"	"35 years"	"35"	242	162618	148.8
+	"Louisiana"	"22"	"36 years"	"36"	308	161483	190.7
+	"Louisiana"	"22"	"37 years"	"37"	302	158950	190.0
+	"Louisiana"	"22"	"38 years"	"38"	283	155139	182.4
+	"Louisiana"	"22"	"39 years"	"39"	288	150929	190.8
+	"Louisiana"	"22"	"40 years"	"40"	324	145842	222.2
+	"Louisiana"	"22"	"41 years"	"41"	364	140869	258.4
+	"Louisiana"	"22"	"42 years"	"42"	364	137088	265.5
+	"Louisiana"	"22"	"43 years"	"43"	376	134775	279.0
+	"Louisiana"	"22"	"44 years"	"44"	361	133984	269.4
+	"Louisiana"	"22"	"45 years"	"45"	412	136256	302.4
+	"Louisiana"	"22"	"46 years"	"46"	450	138791	324.2
+	"Louisiana"	"22"	"47 years"	"47"	463	141170	328.0
+	"Louisiana"	"22"	"48 years"	"48"	539	142705	377.7
+	"Louisiana"	"22"	"49 years"	"49"	566	143361	394.8
+	"Louisiana"	"22"	"50 years"	"50"	627	143122	438.1
+	"Louisiana"	"22"	"51 years"	"51"	731	144818	504.8
+	"Louisiana"	"22"	"52 years"	"52"	743	148574	500.1
+	"Louisiana"	"22"	"53 years"	"53"	872	152508	571.8
+	"Louisiana"	"22"	"54 years"	"54"	934	156299	597.6
+	"Louisiana"	"22"	"55 years"	"55"	1087	159951	679.6
+	"Louisiana"	"22"	"56 years"	"56"	1169	162269	720.4
+	"Louisiana"	"22"	"57 years"	"57"	1314	162913	806.6
+	"Louisiana"	"22"	"58 years"	"58"	1395	162580	858.0
+	"Louisiana"	"22"	"59 years"	"59"	1472	161709	910.3
+	"Louisiana"	"22"	"60 years"	"60"	1513	159905	946.2
+	"Louisiana"	"22"	"61 years"	"61"	1592	157332	1011.9
+	"Louisiana"	"22"	"62 years"	"62"	1643	154706	1062.0
+	"Louisiana"	"22"	"63 years"	"63"	1759	150313	1170.2
+	"Louisiana"	"22"	"64 years"	"64"	1838	145396	1264.1
+	"Louisiana"	"22"	"65 years"	"65"	1839	140570	1308.2
+	"Louisiana"	"22"	"66 years"	"66"	1862	134741	1381.9
+	"Louisiana"	"22"	"67 years"	"67"	1998	129753	1539.8
+	"Louisiana"	"22"	"68 years"	"68"	2005	124973	1604.3
+	"Louisiana"	"22"	"69 years"	"69"	2196	122887	1787.0
+	"Louisiana"	"22"	"70 years"	"70"	2112	114359	1846.8
+	"Louisiana"	"22"	"71 years"	"71"	2253	106865	2108.3
+	"Louisiana"	"22"	"72 years"	"72"	2407	100152	2403.3
+	"Louisiana"	"22"	"73 years"	"73"	2462	94067	2617.3
+	"Louisiana"	"22"	"74 years"	"74"	2446	84656	2889.3
+	"Louisiana"	"22"	"75 years"	"75"	2440	80780	3020.5
+	"Louisiana"	"22"	"76 years"	"76"	2508	76286	3287.6
+	"Louisiana"	"22"	"77 years"	"77"	2725	71328	3820.4
+	"Louisiana"	"22"	"78 years"	"78"	2625	65786	3990.2
+	"Louisiana"	"22"	"79 years"	"79"	2672	61009	4379.7
+	"Louisiana"	"22"	"80 years"	"80"	2715	56842	4776.4
+	"Louisiana"	"22"	"81 years"	"81"	2889	52996	5451.4
+	"Louisiana"	"22"	"82 years"	"82"	2920	49123	5944.3
+	"Louisiana"	"22"	"83 years"	"83"	2997	44940	6668.9
+	"Louisiana"	"22"	"84 years"	"84"	3106	41515	7481.6
+	"Louisiana"	"22"	"85 years"	"85"	3068	Not Applicable	Not Applicable
+	"Louisiana"	"22"	"86 years"	"86"	3255	Not Applicable	Not Applicable
+	"Louisiana"	"22"	"87 years"	"87"	3174	Not Applicable	Not Applicable
+	"Louisiana"	"22"	"88 years"	"88"	3332	Not Applicable	Not Applicable
+	"Louisiana"	"22"	"89 years"	"89"	3202	Not Applicable	Not Applicable
+	"Louisiana"	"22"	"90 years"	"90"	3082	Not Applicable	Not Applicable
+	"Louisiana"	"22"	"91 years"	"91"	2931	Not Applicable	Not Applicable
+	"Louisiana"	"22"	"92 years"	"92"	2650	Not Applicable	Not Applicable
+	"Louisiana"	"22"	"93 years"	"93"	2394	Not Applicable	Not Applicable
+	"Louisiana"	"22"	"94 years"	"94"	2148	Not Applicable	Not Applicable
+	"Louisiana"	"22"	"95 years"	"95"	1759	Not Applicable	Not Applicable
+	"Louisiana"	"22"	"96 years"	"96"	1501	Not Applicable	Not Applicable
+	"Louisiana"	"22"	"97 years"	"97"	1185	Not Applicable	Not Applicable
+	"Louisiana"	"22"	"98 years"	"98"	843	Not Applicable	Not Applicable
+	"Louisiana"	"22"	"99 years"	"99"	631	Not Applicable	Not Applicable
+	"Louisiana"	"22"	"100+ years"	"100"	1319	Not Applicable	Not Applicable
+"---"
+"Dataset: Underlying Cause of Death, 1999-2020"
+"Query Parameters:"
+"Title: Louisiana General F"
+"Gender: Female"
+"States: Louisiana (22)"
+"Year/Month: 2016; 2017; 2018; 2019; 2020"
+"Group By: State; Single-Year Ages"
+"Show Totals: Disabled"
+"Show Zero Values: False"
+"Show Suppressed: False"
+"Calculate Rates Per: 100,000"
+"Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/ucd.html for more information."
+"---"
+"Query Date: Apr 8, 2022 2:32:24 AM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. Underlying Cause of Death"
+"1999-2020 on CDC WONDER Online Database, released in 2021. Data are from the Multiple Cause of Death Files, 1999-2020, as"
+"compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative Program. Accessed"
+"at http://wonder.cdc.gov/ucd-icd10.html on Apr 8, 2022 2:32:24 AM"
+"---"
+Messages:
+"1. Totals are not available for these results due to suppression constraints. More Information:"
+"http://wonder.cdc.gov/wonder/help/faq.html#Privacy."
+"2. Rows with suppressed Deaths are hidden. Use Quick Options above to show suppressed rows."
+"---"
+Caveats:
+"1. Population and rates are labeled 'Not Applicable' when they include a subset of ages 85-100+ because populations are not"
+"available for those ages. More information: http://wonder.cdc.gov/wonder/help/ucd.html#Ages 85-100."
+"2. Data are Suppressed when the data meet the criteria for confidentiality constraints. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Assurance of Confidentiality."
+"3. Death rates are flagged as Unreliable when the rate is calculated with a numerator of 20 or less. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Unreliable."
+"4. Deaths of persons with Age ""Not Stated"" are included in ""All"" counts and rates, but are not distributed among age groups,"
+"so are not included in age-specific counts, age-specific rates or in any age-adjusted rates. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Not Stated."
+"5. The population figures for year 2020 are bridged-race estimates of the July 1 resident population, from the Vintage 2020"
+"postcensal series released by NCHS on September 22, 2021. The population figures for year 2019 are bridged-race estimates of the"
+"July 1 resident population, from the Vintage 2019 postcensal series released by NCHS on July 9, 2020. The population figures for"
+"year 2018 are bridged-race estimates of the July 1 resident population, from the Vintage 2018 postcensal series released by NCHS"
+"on June 25, 2019. The population figures for year 2017 are bridged-race estimates of the July 1 resident population, from the"
+"Vintage 2017 postcensal series released by NCHS on June 27, 2018. The population figures for year 2016 are bridged-race"
+"estimates of the July 1 resident population, from the Vintage 2016 postcensal series released by NCHS on June 26, 2017. The"
+"population figures for year 2015 are bridged-race estimates of the July 1 resident population, from the Vintage 2015 postcensal"
+"series released by NCHS on June 28, 2016. The population figures for year 2014 are bridged-race estimates of the July 1 resident"
+"population, from the Vintage 2014 postcensal series released by NCHS on June 30, 2015. The population figures for year 2013 are"
+"bridged-race estimates of the July 1 resident population, from the Vintage 2013 postcensal series released by NCHS on June 26,"
+"2014. The population figures for year 2012 are bridged-race estimates of the July 1 resident population, from the Vintage 2012"
+"postcensal series released by NCHS on June 13, 2013. The population figures for year 2011 are bridged-race estimates of the July"
+"1 resident population, from the Vintage 2011 postcensal series released by NCHS on July 18, 2012. Population figures for 2010"
+"are April 1 Census counts. The population figures for years 2001 - 2009 are bridged-race estimates of the July 1 resident"
+"population, from the revised intercensal county-level 2000 - 2009 series released by NCHS on October 26, 2012. Population"
+"figures for 2000 are April 1 Census counts. Population figures for 1999 are from the 1990-1999 intercensal series of July 1"
+"estimates. Population figures for the infant age groups are the number of live births. <br/><b>Note:</b> Rates and population"
+"figures for years 2001 - 2009 differ slightly from previously published reports, due to use of the population estimates which"
+"were available at the time of release."
+"6. The population figures used in the calculation of death rates for the age group 'under 1 year' are the estimates of the"
+"resident population that is under one year of age. More information: http://wonder.cdc.gov/wonder/help/ucd.html#Age Group."

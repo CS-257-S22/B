@@ -1,0 +1,162 @@
+"Notes"	"State"	"State Code"	"Single-Year Ages"	"Single-Year Ages Code"	Deaths	Population	Crude Rate
+	"Mississippi"	"28"	"< 1 year"	"0"	682	88664	769.2
+	"Mississippi"	"28"	"1 year"	"1"	65	90354	71.9
+	"Mississippi"	"28"	"2 years"	"2"	32	91953	34.8
+	"Mississippi"	"28"	"3 years"	"3"	23	92102	25.0
+	"Mississippi"	"28"	"4 years"	"4"	17	92994	Unreliable
+	"Mississippi"	"28"	"5 years"	"5"	20	93148	21.5
+	"Mississippi"	"28"	"6 years"	"6"	16	93530	Unreliable
+	"Mississippi"	"28"	"7 years"	"7"	23	94590	24.3
+	"Mississippi"	"28"	"8 years"	"8"	17	97281	Unreliable
+	"Mississippi"	"28"	"9 years"	"9"	17	98852	Unreliable
+	"Mississippi"	"28"	"10 years"	"10"	16	100277	Unreliable
+	"Mississippi"	"28"	"11 years"	"11"	23	101265	22.7
+	"Mississippi"	"28"	"12 years"	"12"	22	101208	21.7
+	"Mississippi"	"28"	"13 years"	"13"	17	99875	Unreliable
+	"Mississippi"	"28"	"14 years"	"14"	23	98606	23.3
+	"Mississippi"	"28"	"15 years"	"15"	23	98451	23.4
+	"Mississippi"	"28"	"16 years"	"16"	38	99364	38.2
+	"Mississippi"	"28"	"17 years"	"17"	44	100141	43.9
+	"Mississippi"	"28"	"18 years"	"18"	52	99516	52.3
+	"Mississippi"	"28"	"19 years"	"19"	53	102541	51.7
+	"Mississippi"	"28"	"20 years"	"20"	71	100861	70.4
+	"Mississippi"	"28"	"21 years"	"21"	64	101452	63.1
+	"Mississippi"	"28"	"22 years"	"22"	67	102198	65.6
+	"Mississippi"	"28"	"23 years"	"23"	83	101973	81.4
+	"Mississippi"	"28"	"24 years"	"24"	85	102563	82.9
+	"Mississippi"	"28"	"25 years"	"25"	90	103017	87.4
+	"Mississippi"	"28"	"26 years"	"26"	83	104953	79.1
+	"Mississippi"	"28"	"27 years"	"27"	95	103833	91.5
+	"Mississippi"	"28"	"28 years"	"28"	121	102465	118.1
+	"Mississippi"	"28"	"29 years"	"29"	123	100221	122.7
+	"Mississippi"	"28"	"30 years"	"30"	117	97739	119.7
+	"Mississippi"	"28"	"31 years"	"31"	133	95716	139.0
+	"Mississippi"	"28"	"32 years"	"32"	156	94255	165.5
+	"Mississippi"	"28"	"33 years"	"33"	167	94704	176.3
+	"Mississippi"	"28"	"34 years"	"34"	138	95807	144.0
+	"Mississippi"	"28"	"35 years"	"35"	157	96572	162.6
+	"Mississippi"	"28"	"36 years"	"36"	180	97241	185.1
+	"Mississippi"	"28"	"37 years"	"37"	223	97377	229.0
+	"Mississippi"	"28"	"38 years"	"38"	204	96483	211.4
+	"Mississippi"	"28"	"39 years"	"39"	246	95429	257.8
+	"Mississippi"	"28"	"40 years"	"40"	221	93453	236.5
+	"Mississippi"	"28"	"41 years"	"41"	219	91808	238.5
+	"Mississippi"	"28"	"42 years"	"42"	256	90715	282.2
+	"Mississippi"	"28"	"43 years"	"43"	268	90472	296.2
+	"Mississippi"	"28"	"44 years"	"44"	289	91051	317.4
+	"Mississippi"	"28"	"45 years"	"45"	358	93402	383.3
+	"Mississippi"	"28"	"46 years"	"46"	373	94808	393.4
+	"Mississippi"	"28"	"47 years"	"47"	383	95671	400.3
+	"Mississippi"	"28"	"48 years"	"48"	424	95336	444.7
+	"Mississippi"	"28"	"49 years"	"49"	436	94635	460.7
+	"Mississippi"	"28"	"50 years"	"50"	460	93285	493.1
+	"Mississippi"	"28"	"51 years"	"51"	507	93788	540.6
+	"Mississippi"	"28"	"52 years"	"52"	570	95744	595.3
+	"Mississippi"	"28"	"53 years"	"53"	682	97770	697.6
+	"Mississippi"	"28"	"54 years"	"54"	704	100010	703.9
+	"Mississippi"	"28"	"55 years"	"55"	781	102306	763.4
+	"Mississippi"	"28"	"56 years"	"56"	828	104016	796.0
+	"Mississippi"	"28"	"57 years"	"57"	879	103870	846.3
+	"Mississippi"	"28"	"58 years"	"58"	1026	103872	987.8
+	"Mississippi"	"28"	"59 years"	"59"	1032	103450	997.6
+	"Mississippi"	"28"	"60 years"	"60"	1128	102294	1102.7
+	"Mississippi"	"28"	"61 years"	"61"	1159	100523	1153.0
+	"Mississippi"	"28"	"62 years"	"62"	1231	98741	1246.7
+	"Mississippi"	"28"	"63 years"	"63"	1326	96550	1373.4
+	"Mississippi"	"28"	"64 years"	"64"	1329	93365	1423.4
+	"Mississippi"	"28"	"65 years"	"65"	1346	90541	1486.6
+	"Mississippi"	"28"	"66 years"	"66"	1282	87680	1462.1
+	"Mississippi"	"28"	"67 years"	"67"	1392	84230	1652.6
+	"Mississippi"	"28"	"68 years"	"68"	1472	81921	1796.9
+	"Mississippi"	"28"	"69 years"	"69"	1545	80884	1910.1
+	"Mississippi"	"28"	"70 years"	"70"	1589	75583	2102.3
+	"Mississippi"	"28"	"71 years"	"71"	1645	70912	2319.8
+	"Mississippi"	"28"	"72 years"	"72"	1662	66616	2494.9
+	"Mississippi"	"28"	"73 years"	"73"	1689	62586	2698.7
+	"Mississippi"	"28"	"74 years"	"74"	1739	56703	3066.9
+	"Mississippi"	"28"	"75 years"	"75"	1763	54149	3255.8
+	"Mississippi"	"28"	"76 years"	"76"	1786	51299	3481.5
+	"Mississippi"	"28"	"77 years"	"77"	1846	48411	3813.2
+	"Mississippi"	"28"	"78 years"	"78"	1903	44842	4243.8
+	"Mississippi"	"28"	"79 years"	"79"	1936	41778	4634.0
+	"Mississippi"	"28"	"80 years"	"80"	2019	38941	5184.8
+	"Mississippi"	"28"	"81 years"	"81"	2097	36689	5715.6
+	"Mississippi"	"28"	"82 years"	"82"	2201	33457	6578.6
+	"Mississippi"	"28"	"83 years"	"83"	2120	30674	6911.4
+	"Mississippi"	"28"	"84 years"	"84"	2224	28024	7936.1
+	"Mississippi"	"28"	"85 years"	"85"	2244	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"86 years"	"86"	2266	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"87 years"	"87"	2190	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"88 years"	"88"	2289	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"89 years"	"89"	2235	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"90 years"	"90"	2139	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"91 years"	"91"	1965	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"92 years"	"92"	1821	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"93 years"	"93"	1611	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"94 years"	"94"	1427	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"95 years"	"95"	1223	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"96 years"	"96"	1006	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"97 years"	"97"	836	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"98 years"	"98"	554	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"99 years"	"99"	454	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"100+ years"	"100"	1060	Not Applicable	Not Applicable
+"---"
+"Dataset: Underlying Cause of Death, 1999-2020"
+"Query Parameters:"
+"Title: Mississippi General F"
+"Gender: Female"
+"States: Mississippi (28)"
+"Year/Month: 2016; 2017; 2018; 2019; 2020"
+"Group By: State; Single-Year Ages"
+"Show Totals: Disabled"
+"Show Zero Values: False"
+"Show Suppressed: False"
+"Calculate Rates Per: 100,000"
+"Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/ucd.html for more information."
+"---"
+"Query Date: Apr 8, 2022 9:50:41 AM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. Underlying Cause of Death"
+"1999-2020 on CDC WONDER Online Database, released in 2021. Data are from the Multiple Cause of Death Files, 1999-2020, as"
+"compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative Program. Accessed"
+"at http://wonder.cdc.gov/ucd-icd10.html on Apr 8, 2022 9:50:41 AM"
+"---"
+Messages:
+"1. Totals are not available for these results due to suppression constraints. More Information:"
+"http://wonder.cdc.gov/wonder/help/faq.html#Privacy."
+"2. Rows with suppressed Deaths are hidden. Use Quick Options above to show suppressed rows."
+"---"
+Caveats:
+"1. Population and rates are labeled 'Not Applicable' when they include a subset of ages 85-100+ because populations are not"
+"available for those ages. More information: http://wonder.cdc.gov/wonder/help/ucd.html#Ages 85-100."
+"2. Data are Suppressed when the data meet the criteria for confidentiality constraints. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Assurance of Confidentiality."
+"3. Death rates are flagged as Unreliable when the rate is calculated with a numerator of 20 or less. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Unreliable."
+"4. Deaths of persons with Age ""Not Stated"" are included in ""All"" counts and rates, but are not distributed among age groups,"
+"so are not included in age-specific counts, age-specific rates or in any age-adjusted rates. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Not Stated."
+"5. The population figures for year 2020 are bridged-race estimates of the July 1 resident population, from the Vintage 2020"
+"postcensal series released by NCHS on September 22, 2021. The population figures for year 2019 are bridged-race estimates of the"
+"July 1 resident population, from the Vintage 2019 postcensal series released by NCHS on July 9, 2020. The population figures for"
+"year 2018 are bridged-race estimates of the July 1 resident population, from the Vintage 2018 postcensal series released by NCHS"
+"on June 25, 2019. The population figures for year 2017 are bridged-race estimates of the July 1 resident population, from the"
+"Vintage 2017 postcensal series released by NCHS on June 27, 2018. The population figures for year 2016 are bridged-race"
+"estimates of the July 1 resident population, from the Vintage 2016 postcensal series released by NCHS on June 26, 2017. The"
+"population figures for year 2015 are bridged-race estimates of the July 1 resident population, from the Vintage 2015 postcensal"
+"series released by NCHS on June 28, 2016. The population figures for year 2014 are bridged-race estimates of the July 1 resident"
+"population, from the Vintage 2014 postcensal series released by NCHS on June 30, 2015. The population figures for year 2013 are"
+"bridged-race estimates of the July 1 resident population, from the Vintage 2013 postcensal series released by NCHS on June 26,"
+"2014. The population figures for year 2012 are bridged-race estimates of the July 1 resident population, from the Vintage 2012"
+"postcensal series released by NCHS on June 13, 2013. The population figures for year 2011 are bridged-race estimates of the July"
+"1 resident population, from the Vintage 2011 postcensal series released by NCHS on July 18, 2012. Population figures for 2010"
+"are April 1 Census counts. The population figures for years 2001 - 2009 are bridged-race estimates of the July 1 resident"
+"population, from the revised intercensal county-level 2000 - 2009 series released by NCHS on October 26, 2012. Population"
+"figures for 2000 are April 1 Census counts. Population figures for 1999 are from the 1990-1999 intercensal series of July 1"
+"estimates. Population figures for the infant age groups are the number of live births. <br/><b>Note:</b> Rates and population"
+"figures for years 2001 - 2009 differ slightly from previously published reports, due to use of the population estimates which"
+"were available at the time of release."
+"6. The population figures used in the calculation of death rates for the age group 'under 1 year' are the estimates of the"
+"resident population that is under one year of age. More information: http://wonder.cdc.gov/wonder/help/ucd.html#Age Group."

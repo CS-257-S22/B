@@ -1,0 +1,321 @@
+"Notes"	"State"	"State Code"	"Single-Year Ages"	"Single-Year Ages Code"	"Cause of death"	"Cause of death Code"	Deaths	Population	Crude Rate
+	"Vermont"	"50"	"26 years"	"26"	"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X42"	13	19610	Unreliable
+	"Vermont"	"50"	"27 years"	"27"	"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X42"	13	19084	Unreliable
+	"Vermont"	"50"	"29 years"	"29"	"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X42"	11	18853	Unreliable
+	"Vermont"	"50"	"30 years"	"30"	"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X42"	10	18601	Unreliable
+	"Vermont"	"50"	"31 years"	"31"	"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X42"	11	18440	Unreliable
+	"Vermont"	"50"	"32 years"	"32"	"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X42"	16	18435	Unreliable
+	"Vermont"	"50"	"33 years"	"33"	"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X42"	19	18262	Unreliable
+	"Vermont"	"50"	"34 years"	"34"	"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X42"	14	18089	Unreliable
+	"Vermont"	"50"	"35 years"	"35"	"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X42"	14	18223	Unreliable
+	"Vermont"	"50"	"36 years"	"36"	"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X42"	12	18320	Unreliable
+	"Vermont"	"50"	"38 years"	"38"	"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X42"	13	17683	Unreliable
+	"Vermont"	"50"	"40 years"	"40"	"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X42"	10	17171	Unreliable
+	"Vermont"	"50"	"47 years"	"47"	"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X42"	11	18973	Unreliable
+	"Vermont"	"50"	"49 years"	"49"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	12	19774	Unreliable
+	"Vermont"	"50"	"50 years"	"50"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	13	19812	Unreliable
+	"Vermont"	"50"	"52 years"	"52"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	12	20651	Unreliable
+	"Vermont"	"50"	"53 years"	"53"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	14	21480	Unreliable
+	"Vermont"	"50"	"53 years"	"53"	"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X42"	11	21480	Unreliable
+	"Vermont"	"50"	"54 years"	"54"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	10	22077	Unreliable
+	"Vermont"	"50"	"54 years"	"54"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	26	22077	117.8
+	"Vermont"	"50"	"55 years"	"55"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	15	22837	Unreliable
+	"Vermont"	"50"	"55 years"	"55"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	23	22837	100.7
+	"Vermont"	"50"	"56 years"	"56"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	11	23322	Unreliable
+	"Vermont"	"50"	"56 years"	"56"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	21	23322	90.0
+	"Vermont"	"50"	"57 years"	"57"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	15	23527	Unreliable
+	"Vermont"	"50"	"57 years"	"57"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	32	23527	136.0
+	"Vermont"	"50"	"58 years"	"58"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	21	23929	87.8
+	"Vermont"	"50"	"58 years"	"58"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	33	23929	137.9
+	"Vermont"	"50"	"58 years"	"58"	"Alcoholic cirrhosis of liver"	"K70.3"	10	23929	Unreliable
+	"Vermont"	"50"	"59 years"	"59"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	18	24058	Unreliable
+	"Vermont"	"50"	"59 years"	"59"	"Acute myocardial infarction, unspecified"	"I21.9"	10	24058	Unreliable
+	"Vermont"	"50"	"59 years"	"59"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	43	24058	178.7
+	"Vermont"	"50"	"60 years"	"60"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	17	23913	Unreliable
+	"Vermont"	"50"	"60 years"	"60"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	37	23913	154.7
+	"Vermont"	"50"	"61 years"	"61"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	17	23738	Unreliable
+	"Vermont"	"50"	"61 years"	"61"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	37	23738	155.9
+	"Vermont"	"50"	"61 years"	"61"	"Alcoholic cirrhosis of liver"	"K70.3"	12	23738	Unreliable
+	"Vermont"	"50"	"62 years"	"62"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	16	23321	Unreliable
+	"Vermont"	"50"	"62 years"	"62"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	39	23321	167.2
+	"Vermont"	"50"	"63 years"	"63"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	28	22745	123.1
+	"Vermont"	"50"	"63 years"	"63"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	43	22745	189.1
+	"Vermont"	"50"	"64 years"	"64"	"Oesophagus, unspecified - Malignant neoplasms"	"C15.9"	10	22128	Unreliable
+	"Vermont"	"50"	"64 years"	"64"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	23	22128	103.9
+	"Vermont"	"50"	"64 years"	"64"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	43	22128	194.3
+	"Vermont"	"50"	"65 years"	"65"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	32	21469	149.1
+	"Vermont"	"50"	"65 years"	"65"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	39	21469	181.7
+	"Vermont"	"50"	"66 years"	"66"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	23	20644	111.4
+	"Vermont"	"50"	"66 years"	"66"	"Acute myocardial infarction, unspecified"	"I21.9"	12	20644	Unreliable
+	"Vermont"	"50"	"66 years"	"66"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	39	20644	188.9
+	"Vermont"	"50"	"66 years"	"66"	"Atherosclerotic heart disease"	"I25.1"	11	20644	Unreliable
+	"Vermont"	"50"	"67 years"	"67"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	13	20011	Unreliable
+	"Vermont"	"50"	"67 years"	"67"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	27	20011	134.9
+	"Vermont"	"50"	"67 years"	"67"	"Acute myocardial infarction, unspecified"	"I21.9"	10	20011	Unreliable
+	"Vermont"	"50"	"67 years"	"67"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	41	20011	204.9
+	"Vermont"	"50"	"67 years"	"67"	"Atherosclerotic heart disease"	"I25.1"	12	20011	Unreliable
+	"Vermont"	"50"	"67 years"	"67"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	11	20011	Unreliable
+	"Vermont"	"50"	"68 years"	"68"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	13	19399	Unreliable
+	"Vermont"	"50"	"68 years"	"68"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	32	19399	165.0
+	"Vermont"	"50"	"68 years"	"68"	"Malignant neoplasm of prostate"	"C61"	11	19399	Unreliable
+	"Vermont"	"50"	"68 years"	"68"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	52	19399	268.1
+	"Vermont"	"50"	"68 years"	"68"	"Atherosclerotic heart disease"	"I25.1"	13	19399	Unreliable
+	"Vermont"	"50"	"68 years"	"68"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	14	19399	Unreliable
+	"Vermont"	"50"	"69 years"	"69"	"Oesophagus, unspecified - Malignant neoplasms"	"C15.9"	10	19066	Unreliable
+	"Vermont"	"50"	"69 years"	"69"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	27	19066	141.6
+	"Vermont"	"50"	"69 years"	"69"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	41	19066	215.0
+	"Vermont"	"50"	"69 years"	"69"	"Atherosclerotic heart disease"	"I25.1"	21	19066	110.1
+	"Vermont"	"50"	"69 years"	"69"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	15	19066	Unreliable
+	"Vermont"	"50"	"70 years"	"70"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	36	17558	205.0
+	"Vermont"	"50"	"70 years"	"70"	"Malignant neoplasm of prostate"	"C61"	13	17558	Unreliable
+	"Vermont"	"50"	"70 years"	"70"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	35	17558	199.3
+	"Vermont"	"50"	"70 years"	"70"	"Atherosclerotic heart disease"	"I25.1"	17	17558	Unreliable
+	"Vermont"	"50"	"70 years"	"70"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	19	17558	Unreliable
+	"Vermont"	"50"	"71 years"	"71"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	23	16370	140.5
+	"Vermont"	"50"	"71 years"	"71"	"Malignant neoplasm of prostate"	"C61"	10	16370	Unreliable
+	"Vermont"	"50"	"71 years"	"71"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	41	16370	250.5
+	"Vermont"	"50"	"71 years"	"71"	"Atherosclerotic heart disease"	"I25.1"	16	16370	Unreliable
+	"Vermont"	"50"	"71 years"	"71"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	12	16370	Unreliable
+	"Vermont"	"50"	"72 years"	"72"	"Oesophagus, unspecified - Malignant neoplasms"	"C15.9"	11	15073	Unreliable
+	"Vermont"	"50"	"72 years"	"72"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	12	15073	Unreliable
+	"Vermont"	"50"	"72 years"	"72"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	25	15073	165.9
+	"Vermont"	"50"	"72 years"	"72"	"Malignant neoplasm without specification of site"	"C80"	10	15073	Unreliable
+	"Vermont"	"50"	"72 years"	"72"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	45	15073	298.5
+	"Vermont"	"50"	"72 years"	"72"	"Atherosclerotic heart disease"	"I25.1"	19	15073	Unreliable
+	"Vermont"	"50"	"72 years"	"72"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	19	15073	Unreliable
+	"Vermont"	"50"	"73 years"	"73"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	37	14054	263.3
+	"Vermont"	"50"	"73 years"	"73"	"Malignant neoplasm of prostate"	"C61"	12	14054	Unreliable
+	"Vermont"	"50"	"73 years"	"73"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	42	14054	298.8
+	"Vermont"	"50"	"73 years"	"73"	"Atherosclerotic heart disease"	"I25.1"	18	14054	Unreliable
+	"Vermont"	"50"	"73 years"	"73"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	14	14054	Unreliable
+	"Vermont"	"50"	"74 years"	"74"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	23	12405	185.4
+	"Vermont"	"50"	"74 years"	"74"	"Malignant neoplasm of prostate"	"C61"	16	12405	Unreliable
+	"Vermont"	"50"	"74 years"	"74"	"Malignant neoplasm without specification of site"	"C80"	10	12405	Unreliable
+	"Vermont"	"50"	"74 years"	"74"	"Alzheimer disease, unspecified"	"G30.9"	10	12405	Unreliable
+	"Vermont"	"50"	"74 years"	"74"	"Acute myocardial infarction, unspecified"	"I21.9"	14	12405	Unreliable
+	"Vermont"	"50"	"74 years"	"74"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	35	12405	282.1
+	"Vermont"	"50"	"74 years"	"74"	"Atherosclerotic heart disease"	"I25.1"	19	12405	Unreliable
+	"Vermont"	"50"	"74 years"	"74"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	24	12405	193.5
+	"Vermont"	"50"	"75 years"	"75"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	13	11519	Unreliable
+	"Vermont"	"50"	"75 years"	"75"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	28	11519	243.1
+	"Vermont"	"50"	"75 years"	"75"	"Malignant neoplasm of prostate"	"C61"	11	11519	Unreliable
+	"Vermont"	"50"	"75 years"	"75"	"Alzheimer disease, unspecified"	"G30.9"	13	11519	Unreliable
+	"Vermont"	"50"	"75 years"	"75"	"Acute myocardial infarction, unspecified"	"I21.9"	14	11519	Unreliable
+	"Vermont"	"50"	"75 years"	"75"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	39	11519	338.6
+	"Vermont"	"50"	"75 years"	"75"	"Atherosclerotic heart disease"	"I25.1"	26	11519	225.7
+	"Vermont"	"50"	"75 years"	"75"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	18	11519	Unreliable
+	"Vermont"	"50"	"76 years"	"76"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	31	10632	291.6
+	"Vermont"	"50"	"76 years"	"76"	"Malignant neoplasm of prostate"	"C61"	13	10632	Unreliable
+	"Vermont"	"50"	"76 years"	"76"	"Alzheimer disease, unspecified"	"G30.9"	14	10632	Unreliable
+	"Vermont"	"50"	"76 years"	"76"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	31	10632	291.6
+	"Vermont"	"50"	"76 years"	"76"	"Atherosclerotic heart disease"	"I25.1"	29	10632	272.8
+	"Vermont"	"50"	"76 years"	"76"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	13	10632	Unreliable
+	"Vermont"	"50"	"77 years"	"77"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	19	9613	Unreliable
+	"Vermont"	"50"	"77 years"	"77"	"Malignant neoplasm of prostate"	"C61"	10	9613	Unreliable
+	"Vermont"	"50"	"77 years"	"77"	"Malignant neoplasm without specification of site"	"C80"	12	9613	Unreliable
+	"Vermont"	"50"	"77 years"	"77"	"Parkinson disease"	"G20"	14	9613	Unreliable
+	"Vermont"	"50"	"77 years"	"77"	"Alzheimer disease, unspecified"	"G30.9"	16	9613	Unreliable
+	"Vermont"	"50"	"77 years"	"77"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	25	9613	260.1
+	"Vermont"	"50"	"77 years"	"77"	"Atherosclerotic heart disease"	"I25.1"	30	9613	312.1
+	"Vermont"	"50"	"77 years"	"77"	"Stroke, not specified as haemorrhage or infarction"	"I64"	10	9613	Unreliable
+	"Vermont"	"50"	"77 years"	"77"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	22	9613	228.9
+	"Vermont"	"50"	"78 years"	"78"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	25	8475	295.0
+	"Vermont"	"50"	"78 years"	"78"	"Malignant neoplasm of prostate"	"C61"	12	8475	Unreliable
+	"Vermont"	"50"	"78 years"	"78"	"Parkinson disease"	"G20"	10	8475	Unreliable
+	"Vermont"	"50"	"78 years"	"78"	"Alzheimer disease, unspecified"	"G30.9"	15	8475	Unreliable
+	"Vermont"	"50"	"78 years"	"78"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	30	8475	354.0
+	"Vermont"	"50"	"78 years"	"78"	"Atherosclerotic heart disease"	"I25.1"	22	8475	259.6
+	"Vermont"	"50"	"78 years"	"78"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	15	8475	Unreliable
+	"Vermont"	"50"	"79 years"	"79"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	10	7628	Unreliable
+	"Vermont"	"50"	"79 years"	"79"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	24	7628	314.6
+	"Vermont"	"50"	"79 years"	"79"	"Malignant neoplasm of prostate"	"C61"	14	7628	Unreliable
+	"Vermont"	"50"	"79 years"	"79"	"Alzheimer disease, unspecified"	"G30.9"	18	7628	Unreliable
+	"Vermont"	"50"	"79 years"	"79"	"Acute myocardial infarction, unspecified"	"I21.9"	12	7628	Unreliable
+	"Vermont"	"50"	"79 years"	"79"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	27	7628	354.0
+	"Vermont"	"50"	"79 years"	"79"	"Atherosclerotic heart disease"	"I25.1"	16	7628	Unreliable
+	"Vermont"	"50"	"79 years"	"79"	"Stroke, not specified as haemorrhage or infarction"	"I64"	10	7628	Unreliable
+	"Vermont"	"50"	"79 years"	"79"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	16	7628	Unreliable
+	"Vermont"	"50"	"80 years"	"80"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	16	6845	Unreliable
+	"Vermont"	"50"	"80 years"	"80"	"Malignant neoplasm of prostate"	"C61"	11	6845	Unreliable
+	"Vermont"	"50"	"80 years"	"80"	"Alzheimer disease, unspecified"	"G30.9"	15	6845	Unreliable
+	"Vermont"	"50"	"80 years"	"80"	"Acute myocardial infarction, unspecified"	"I21.9"	15	6845	Unreliable
+	"Vermont"	"50"	"80 years"	"80"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	27	6845	394.4
+	"Vermont"	"50"	"80 years"	"80"	"Atherosclerotic heart disease"	"I25.1"	13	6845	Unreliable
+	"Vermont"	"50"	"80 years"	"80"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	21	6845	306.8
+	"Vermont"	"50"	"81 years"	"81"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	16	6286	Unreliable
+	"Vermont"	"50"	"81 years"	"81"	"Malignant neoplasm of prostate"	"C61"	11	6286	Unreliable
+	"Vermont"	"50"	"81 years"	"81"	"Alzheimer disease, unspecified"	"G30.9"	12	6286	Unreliable
+	"Vermont"	"50"	"81 years"	"81"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	27	6286	429.5
+	"Vermont"	"50"	"81 years"	"81"	"Atherosclerotic heart disease"	"I25.1"	18	6286	Unreliable
+	"Vermont"	"50"	"81 years"	"81"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	16	6286	Unreliable
+	"Vermont"	"50"	"82 years"	"82"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	19	5820	Unreliable
+	"Vermont"	"50"	"82 years"	"82"	"Unspecified dementia"	"F03"	15	5820	Unreliable
+	"Vermont"	"50"	"82 years"	"82"	"Parkinson disease"	"G20"	16	5820	Unreliable
+	"Vermont"	"50"	"82 years"	"82"	"Alzheimer disease, unspecified"	"G30.9"	22	5820	378.0
+	"Vermont"	"50"	"82 years"	"82"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	32	5820	549.8
+	"Vermont"	"50"	"82 years"	"82"	"Atherosclerotic heart disease"	"I25.1"	27	5820	463.9
+	"Vermont"	"50"	"82 years"	"82"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	12	5820	Unreliable
+	"Vermont"	"50"	"83 years"	"83"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	17	5151	Unreliable
+	"Vermont"	"50"	"83 years"	"83"	"Malignant neoplasm of prostate"	"C61"	15	5151	Unreliable
+	"Vermont"	"50"	"83 years"	"83"	"Unspecified dementia"	"F03"	15	5151	Unreliable
+	"Vermont"	"50"	"83 years"	"83"	"Parkinson disease"	"G20"	14	5151	Unreliable
+	"Vermont"	"50"	"83 years"	"83"	"Alzheimer disease, unspecified"	"G30.9"	15	5151	Unreliable
+	"Vermont"	"50"	"83 years"	"83"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	32	5151	621.2
+	"Vermont"	"50"	"83 years"	"83"	"Atherosclerotic heart disease"	"I25.1"	34	5151	660.1
+	"Vermont"	"50"	"83 years"	"83"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	28	5151	543.6
+	"Vermont"	"50"	"84 years"	"84"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	17	4728	Unreliable
+	"Vermont"	"50"	"84 years"	"84"	"Malignant neoplasm of prostate"	"C61"	13	4728	Unreliable
+	"Vermont"	"50"	"84 years"	"84"	"Unspecified dementia"	"F03"	16	4728	Unreliable
+	"Vermont"	"50"	"84 years"	"84"	"Alzheimer disease, unspecified"	"G30.9"	25	4728	528.8
+	"Vermont"	"50"	"84 years"	"84"	"Acute myocardial infarction, unspecified"	"I21.9"	12	4728	Unreliable
+	"Vermont"	"50"	"84 years"	"84"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	35	4728	740.3
+	"Vermont"	"50"	"84 years"	"84"	"Atherosclerotic heart disease"	"I25.1"	29	4728	613.4
+	"Vermont"	"50"	"84 years"	"84"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	23	4728	486.5
+	"Vermont"	"50"	"84 years"	"84"	"Other fall on same level"	"W18"	10	4728	Unreliable
+	"Vermont"	"50"	"85 years"	"85"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	11	Not Applicable	Not Applicable
+	"Vermont"	"50"	"85 years"	"85"	"Malignant neoplasm of prostate"	"C61"	20	Not Applicable	Not Applicable
+	"Vermont"	"50"	"85 years"	"85"	"Unspecified dementia"	"F03"	18	Not Applicable	Not Applicable
+	"Vermont"	"50"	"85 years"	"85"	"Alzheimer disease, unspecified"	"G30.9"	26	Not Applicable	Not Applicable
+	"Vermont"	"50"	"85 years"	"85"	"Acute myocardial infarction, unspecified"	"I21.9"	12	Not Applicable	Not Applicable
+	"Vermont"	"50"	"85 years"	"85"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	27	Not Applicable	Not Applicable
+	"Vermont"	"50"	"85 years"	"85"	"Atherosclerotic heart disease"	"I25.1"	19	Not Applicable	Not Applicable
+	"Vermont"	"50"	"85 years"	"85"	"Aortic (valve) stenosis"	"I35.0"	11	Not Applicable	Not Applicable
+	"Vermont"	"50"	"85 years"	"85"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	14	Not Applicable	Not Applicable
+	"Vermont"	"50"	"85 years"	"85"	"Other fall on same level"	"W18"	10	Not Applicable	Not Applicable
+	"Vermont"	"50"	"86 years"	"86"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	16	Not Applicable	Not Applicable
+	"Vermont"	"50"	"86 years"	"86"	"Malignant neoplasm of prostate"	"C61"	15	Not Applicable	Not Applicable
+	"Vermont"	"50"	"86 years"	"86"	"Unspecified dementia"	"F03"	21	Not Applicable	Not Applicable
+	"Vermont"	"50"	"86 years"	"86"	"Alzheimer disease, unspecified"	"G30.9"	29	Not Applicable	Not Applicable
+	"Vermont"	"50"	"86 years"	"86"	"Acute myocardial infarction, unspecified"	"I21.9"	10	Not Applicable	Not Applicable
+	"Vermont"	"50"	"86 years"	"86"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	21	Not Applicable	Not Applicable
+	"Vermont"	"50"	"86 years"	"86"	"Atherosclerotic heart disease"	"I25.1"	30	Not Applicable	Not Applicable
+	"Vermont"	"50"	"86 years"	"86"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	18	Not Applicable	Not Applicable
+	"Vermont"	"50"	"86 years"	"86"	"Other fall on same level"	"W18"	11	Not Applicable	Not Applicable
+	"Vermont"	"50"	"87 years"	"87"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	17	Not Applicable	Not Applicable
+	"Vermont"	"50"	"87 years"	"87"	"Malignant neoplasm of prostate"	"C61"	16	Not Applicable	Not Applicable
+	"Vermont"	"50"	"87 years"	"87"	"Unspecified dementia"	"F03"	16	Not Applicable	Not Applicable
+	"Vermont"	"50"	"87 years"	"87"	"Parkinson disease"	"G20"	15	Not Applicable	Not Applicable
+	"Vermont"	"50"	"87 years"	"87"	"Alzheimer disease, unspecified"	"G30.9"	16	Not Applicable	Not Applicable
+	"Vermont"	"50"	"87 years"	"87"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	21	Not Applicable	Not Applicable
+	"Vermont"	"50"	"87 years"	"87"	"Atherosclerotic heart disease"	"I25.1"	30	Not Applicable	Not Applicable
+	"Vermont"	"50"	"88 years"	"88"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	16	Not Applicable	Not Applicable
+	"Vermont"	"50"	"88 years"	"88"	"Malignant neoplasm of prostate"	"C61"	20	Not Applicable	Not Applicable
+	"Vermont"	"50"	"88 years"	"88"	"Unspecified dementia"	"F03"	18	Not Applicable	Not Applicable
+	"Vermont"	"50"	"88 years"	"88"	"Alzheimer disease, unspecified"	"G30.9"	27	Not Applicable	Not Applicable
+	"Vermont"	"50"	"88 years"	"88"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	21	Not Applicable	Not Applicable
+	"Vermont"	"50"	"88 years"	"88"	"Atherosclerotic heart disease"	"I25.1"	35	Not Applicable	Not Applicable
+	"Vermont"	"50"	"88 years"	"88"	"Stroke, not specified as haemorrhage or infarction"	"I64"	13	Not Applicable	Not Applicable
+	"Vermont"	"50"	"88 years"	"88"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	14	Not Applicable	Not Applicable
+	"Vermont"	"50"	"88 years"	"88"	"Other fall on same level"	"W18"	13	Not Applicable	Not Applicable
+	"Vermont"	"50"	"89 years"	"89"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	13	Not Applicable	Not Applicable
+	"Vermont"	"50"	"89 years"	"89"	"Malignant neoplasm of prostate"	"C61"	13	Not Applicable	Not Applicable
+	"Vermont"	"50"	"89 years"	"89"	"Unspecified dementia"	"F03"	27	Not Applicable	Not Applicable
+	"Vermont"	"50"	"89 years"	"89"	"Parkinson disease"	"G20"	15	Not Applicable	Not Applicable
+	"Vermont"	"50"	"89 years"	"89"	"Alzheimer disease, unspecified"	"G30.9"	29	Not Applicable	Not Applicable
+	"Vermont"	"50"	"89 years"	"89"	"Acute myocardial infarction, unspecified"	"I21.9"	14	Not Applicable	Not Applicable
+	"Vermont"	"50"	"89 years"	"89"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	28	Not Applicable	Not Applicable
+	"Vermont"	"50"	"89 years"	"89"	"Atherosclerotic heart disease"	"I25.1"	34	Not Applicable	Not Applicable
+	"Vermont"	"50"	"89 years"	"89"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	11	Not Applicable	Not Applicable
+	"Vermont"	"50"	"89 years"	"89"	"Other fall on same level"	"W18"	11	Not Applicable	Not Applicable
+	"Vermont"	"50"	"90 years"	"90"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	13	Not Applicable	Not Applicable
+	"Vermont"	"50"	"90 years"	"90"	"Malignant neoplasm of prostate"	"C61"	12	Not Applicable	Not Applicable
+	"Vermont"	"50"	"90 years"	"90"	"Unspecified dementia"	"F03"	16	Not Applicable	Not Applicable
+	"Vermont"	"50"	"90 years"	"90"	"Parkinson disease"	"G20"	10	Not Applicable	Not Applicable
+	"Vermont"	"50"	"90 years"	"90"	"Alzheimer disease, unspecified"	"G30.9"	18	Not Applicable	Not Applicable
+	"Vermont"	"50"	"90 years"	"90"	"Acute myocardial infarction, unspecified"	"I21.9"	14	Not Applicable	Not Applicable
+	"Vermont"	"50"	"90 years"	"90"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	25	Not Applicable	Not Applicable
+	"Vermont"	"50"	"90 years"	"90"	"Atherosclerotic heart disease"	"I25.1"	30	Not Applicable	Not Applicable
+	"Vermont"	"50"	"90 years"	"90"	"Other fall on same level"	"W18"	10	Not Applicable	Not Applicable
+	"Vermont"	"50"	"91 years"	"91"	"Unspecified dementia"	"F03"	17	Not Applicable	Not Applicable
+	"Vermont"	"50"	"91 years"	"91"	"Alzheimer disease, unspecified"	"G30.9"	22	Not Applicable	Not Applicable
+	"Vermont"	"50"	"91 years"	"91"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	16	Not Applicable	Not Applicable
+	"Vermont"	"50"	"91 years"	"91"	"Atherosclerotic heart disease"	"I25.1"	27	Not Applicable	Not Applicable
+	"Vermont"	"50"	"92 years"	"92"	"Malignant neoplasm of prostate"	"C61"	11	Not Applicable	Not Applicable
+	"Vermont"	"50"	"92 years"	"92"	"Unspecified dementia"	"F03"	19	Not Applicable	Not Applicable
+	"Vermont"	"50"	"92 years"	"92"	"Alzheimer disease, unspecified"	"G30.9"	25	Not Applicable	Not Applicable
+	"Vermont"	"50"	"92 years"	"92"	"Acute myocardial infarction, unspecified"	"I21.9"	10	Not Applicable	Not Applicable
+	"Vermont"	"50"	"92 years"	"92"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	17	Not Applicable	Not Applicable
+	"Vermont"	"50"	"92 years"	"92"	"Atherosclerotic heart disease"	"I25.1"	33	Not Applicable	Not Applicable
+	"Vermont"	"50"	"93 years"	"93"	"Malignant neoplasm of prostate"	"C61"	13	Not Applicable	Not Applicable
+	"Vermont"	"50"	"93 years"	"93"	"Unspecified dementia"	"F03"	13	Not Applicable	Not Applicable
+	"Vermont"	"50"	"93 years"	"93"	"Alzheimer disease, unspecified"	"G30.9"	16	Not Applicable	Not Applicable
+	"Vermont"	"50"	"93 years"	"93"	"Acute myocardial infarction, unspecified"	"I21.9"	11	Not Applicable	Not Applicable
+	"Vermont"	"50"	"93 years"	"93"	"Atherosclerotic heart disease"	"I25.1"	28	Not Applicable	Not Applicable
+	"Vermont"	"50"	"93 years"	"93"	"Other fall on same level"	"W18"	14	Not Applicable	Not Applicable
+	"Vermont"	"50"	"94 years"	"94"	"Unspecified dementia"	"F03"	19	Not Applicable	Not Applicable
+	"Vermont"	"50"	"94 years"	"94"	"Alzheimer disease, unspecified"	"G30.9"	17	Not Applicable	Not Applicable
+	"Vermont"	"50"	"94 years"	"94"	"Atherosclerotic heart disease"	"I25.1"	18	Not Applicable	Not Applicable
+	"Vermont"	"50"	"95 years"	"95"	"Alzheimer disease, unspecified"	"G30.9"	10	Not Applicable	Not Applicable
+	"Vermont"	"50"	"95 years"	"95"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	10	Not Applicable	Not Applicable
+	"Vermont"	"50"	"95 years"	"95"	"Atherosclerotic heart disease"	"I25.1"	13	Not Applicable	Not Applicable
+	"Vermont"	"50"	"96 years"	"96"	"Unspecified dementia"	"F03"	14	Not Applicable	Not Applicable
+	"Vermont"	"50"	"96 years"	"96"	"Atherosclerotic heart disease"	"I25.1"	12	Not Applicable	Not Applicable
+"---"
+"Dataset: Underlying Cause of Death, 1999-2020"
+"Query Parameters:"
+"Title: Vermont CoD M"
+"Gender: Male"
+"States: Vermont (50)"
+"Year/Month: 2016; 2017; 2018; 2019; 2020"
+"Group By: State; Single-Year Ages; Cause of death"
+"Show Totals: Disabled"
+"Show Zero Values: Disabled"
+"Show Suppressed: False"
+"Calculate Rates Per: 100,000"
+"Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/ucd.html for more information."
+"---"
+"Query Date: Apr 11, 2022 3:08:17 AM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. Underlying Cause of Death"
+"1999-2020 on CDC WONDER Online Database, released in 2021. Data are from the Multiple Cause of Death Files, 1999-2020, as"
+"compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative Program. Accessed"
+"at http://wonder.cdc.gov/ucd-icd10.html on Apr 11, 2022 3:08:17 AM"
+"---"
+Messages:
+"1. The full results are too long to be displayed. Due to suppression constraints rows that are zero, suppressed or a total will"
+"not be available."
+"---"
+Caveats:
+"1. Population and rates are labeled 'Not Applicable' when they include a subset of ages 85-100+ because populations are not"
+"available for those ages. More information: http://wonder.cdc.gov/wonder/help/ucd.html#Ages 85-100."
+"2. Death rates are flagged as Unreliable when the rate is calculated with a numerator of 20 or less. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Unreliable."
+"3. Deaths of persons with Age ""Not Stated"" are included in ""All"" counts and rates, but are not distributed among age groups,"
+"so are not included in age-specific counts, age-specific rates or in any age-adjusted rates. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Not Stated."
+"4. The population figures for year 2020 are bridged-race estimates of the July 1 resident population, from the Vintage 2020"
+"postcensal series released by NCHS on September 22, 2021. The population figures for year 2019 are bridged-race estimates of the"
+"July 1 resident population, from the Vintage 2019 postcensal series released by NCHS on July 9, 2020. The population figures for"
+"year 2018 are bridged-race estimates of the July 1 resident population, from the Vintage 2018 postcensal series released by NCHS"
+"on June 25, 2019. The population figures for year 2017 are bridged-race estimates of the July 1 resident population, from the"
+"Vintage 2017 postcensal series released by NCHS on June 27, 2018. The population figures for year 2016 are bridged-race"
+"estimates of the July 1 resident population, from the Vintage 2016 postcensal series released by NCHS on June 26, 2017. The"
+"population figures for year 2015 are bridged-race estimates of the July 1 resident population, from the Vintage 2015 postcensal"
+"series released by NCHS on June 28, 2016. The population figures for year 2014 are bridged-race estimates of the July 1 resident"
+"population, from the Vintage 2014 postcensal series released by NCHS on June 30, 2015. The population figures for year 2013 are"
+"bridged-race estimates of the July 1 resident population, from the Vintage 2013 postcensal series released by NCHS on June 26,"
+"2014. The population figures for year 2012 are bridged-race estimates of the July 1 resident population, from the Vintage 2012"
+"postcensal series released by NCHS on June 13, 2013. The population figures for year 2011 are bridged-race estimates of the July"
+"1 resident population, from the Vintage 2011 postcensal series released by NCHS on July 18, 2012. Population figures for 2010"
+"are April 1 Census counts. The population figures for years 2001 - 2009 are bridged-race estimates of the July 1 resident"
+"population, from the revised intercensal county-level 2000 - 2009 series released by NCHS on October 26, 2012. Population"
+"figures for 2000 are April 1 Census counts. Population figures for 1999 are from the 1990-1999 intercensal series of July 1"
+"estimates. Population figures for the infant age groups are the number of live births. <br/><b>Note:</b> Rates and population"
+"figures for years 2001 - 2009 differ slightly from previously published reports, due to use of the population estimates which"
+"were available at the time of release."
+"5. The population figures used in the calculation of death rates for the age group 'under 1 year' are the estimates of the"
+"resident population that is under one year of age. More information: http://wonder.cdc.gov/wonder/help/ucd.html#Age Group."
+"6. Beginning with the 2018 data, changes have been implemented that affect the counts for ICD-10 cause of death codes O00-O99"
+"compared to previous practice. In addition, data for the cause of death codes O00-O99 for 2003 through 2017 reflect differences"
+"in information available to individual states and probable errors. Caution should be used in interpreting these data. More"
+"information can be found at: https://www.cdc.gov/nchs/maternal-mortality/."
+"7. On March 11, 2021, the 2019 mortality data on CDC WONDER was updated with the 2019 mortality data updated by NCHS on March 4,"
+"2021 to include corrected information for residents of Texas affecting 5 records previously coded to cause code *U01.4,"
+"Terrorism involving firearms (homicide). The underlying and multiple cause of death codes for 5 records were corrected in the"
+"2019 data. Underlying and multiple cause of death codes for those 5 records were recoded to Assault (homicide) by other and"
+"unspecified firearm discharge, ICD-10 code X95. The corrected final death records replaces the data released on December 22,"
+"2020."
+"8. Changes to cause of death classification affect reporting trends. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#ICD-10 Changes."

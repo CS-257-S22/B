@@ -1,0 +1,1772 @@
+"Notes"	"State"	"State Code"	"Single-Year Ages"	"Single-Year Ages Code"	"Cause of death"	"Cause of death Code"	Deaths	Population	Crude Rate
+	"Connecticut"	"09"	"< 1 year"	"0"	"Newborn affected by incompetent cervix"	"P01.0"	17	89884	Unreliable
+	"Connecticut"	"09"	"< 1 year"	"0"	"Newborn affected by premature rupture of membranes"	"P01.1"	28	89884	31.2
+	"Connecticut"	"09"	"< 1 year"	"0"	"Extreme immaturity"	"P07.2"	55	89884	61.2
+	"Connecticut"	"09"	"< 1 year"	"0"	"Other preterm infants"	"P07.3"	13	89884	Unreliable
+	"Connecticut"	"09"	"< 1 year"	"0"	"Respiratory distress syndrome of newborn"	"P22.0"	10	89884	Unreliable
+	"Connecticut"	"09"	"< 1 year"	"0"	"Neonatal cardiac dysrhythmia"	"P29.1"	13	89884	Unreliable
+	"Connecticut"	"09"	"< 1 year"	"0"	"Sudden infant death syndrome - SIDS"	"R95"	24	89884	26.7
+	"Connecticut"	"09"	"< 1 year"	"0"	"Other ill-defined and unspecified causes of mortality"	"R99"	23	89884	25.6
+	"Connecticut"	"09"	"< 1 year"	"0"	"Accidental suffocation and strangulation in bed"	"W75"	12	89884	Unreliable
+	"Connecticut"	"09"	"17 years"	"17"	"Person injured in unspecified motor-vehicle accident, traffic"	"V89.2"	10	120698	Unreliable
+	"Connecticut"	"09"	"18 years"	"18"	"Person injured in unspecified motor-vehicle accident, traffic"	"V89.2"	11	129074	Unreliable
+	"Connecticut"	"09"	"18 years"	"18"	"Assault by other and unspecified firearm discharge"	"X95"	10	129074	Unreliable
+	"Connecticut"	"09"	"19 years"	"19"	"Person injured in unspecified motor-vehicle accident, traffic"	"V89.2"	11	131486	Unreliable
+	"Connecticut"	"09"	"19 years"	"19"	"Intentional self-harm by hanging, strangulation and suffocation"	"X70"	12	131486	Unreliable
+	"Connecticut"	"09"	"20 years"	"20"	"Person injured in unspecified motor-vehicle accident, traffic"	"V89.2"	21	133562	15.7
+	"Connecticut"	"09"	"20 years"	"20"	"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X44"	10	133562	Unreliable
+	"Connecticut"	"09"	"20 years"	"20"	"Intentional self-harm by hanging, strangulation and suffocation"	"X70"	10	133562	Unreliable
+	"Connecticut"	"09"	"21 years"	"21"	"Person injured in unspecified motor-vehicle accident, traffic"	"V89.2"	12	130264	Unreliable
+	"Connecticut"	"09"	"21 years"	"21"	"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X42"	16	130264	Unreliable
+	"Connecticut"	"09"	"21 years"	"21"	"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X44"	12	130264	Unreliable
+	"Connecticut"	"09"	"21 years"	"21"	"Intentional self-harm by hanging, strangulation and suffocation"	"X70"	10	130264	Unreliable
+	"Connecticut"	"09"	"21 years"	"21"	"Assault by other and unspecified firearm discharge"	"X95"	17	130264	Unreliable
+	"Connecticut"	"09"	"22 years"	"22"	"Person injured in unspecified motor-vehicle accident, traffic"	"V89.2"	23	124879	18.4
+	"Connecticut"	"09"	"22 years"	"22"	"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X42"	23	124879	18.4
+	"Connecticut"	"09"	"22 years"	"22"	"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X44"	11	124879	Unreliable
+	"Connecticut"	"09"	"22 years"	"22"	"Intentional self-harm by hanging, strangulation and suffocation"	"X70"	13	124879	Unreliable
+	"Connecticut"	"09"	"22 years"	"22"	"Assault by other and unspecified firearm discharge"	"X95"	15	124879	Unreliable
+	"Connecticut"	"09"	"23 years"	"23"	"Person injured in unspecified motor-vehicle accident, traffic"	"V89.2"	14	119867	Unreliable
+	"Connecticut"	"09"	"23 years"	"23"	"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X42"	33	119867	27.5
+	"Connecticut"	"09"	"23 years"	"23"	"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X44"	24	119867	20.0
+	"Connecticut"	"09"	"23 years"	"23"	"Intentional self-harm by hanging, strangulation and suffocation"	"X70"	12	119867	Unreliable
+	"Connecticut"	"09"	"24 years"	"24"	"Person injured in unspecified motor-vehicle accident, traffic"	"V89.2"	17	118683	Unreliable
+	"Connecticut"	"09"	"24 years"	"24"	"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X42"	53	118683	44.7
+	"Connecticut"	"09"	"24 years"	"24"	"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X44"	34	118683	28.6
+	"Connecticut"	"09"	"24 years"	"24"	"Intentional self-harm by hanging, strangulation and suffocation"	"X70"	11	118683	Unreliable
+	"Connecticut"	"09"	"24 years"	"24"	"Assault by other and unspecified firearm discharge"	"X95"	15	118683	Unreliable
+	"Connecticut"	"09"	"25 years"	"25"	"Person injured in unspecified motor-vehicle accident, traffic"	"V89.2"	10	118613	Unreliable
+	"Connecticut"	"09"	"25 years"	"25"	"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X42"	40	118613	33.7
+	"Connecticut"	"09"	"25 years"	"25"	"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X44"	24	118613	20.2
+	"Connecticut"	"09"	"25 years"	"25"	"Intentional self-harm by hanging, strangulation and suffocation"	"X70"	13	118613	Unreliable
+	"Connecticut"	"09"	"25 years"	"25"	"Assault by other and unspecified firearm discharge"	"X95"	11	118613	Unreliable
+	"Connecticut"	"09"	"26 years"	"26"	"Person injured in unspecified motor-vehicle accident, traffic"	"V89.2"	15	117417	Unreliable
+	"Connecticut"	"09"	"26 years"	"26"	"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X42"	46	117417	39.2
+	"Connecticut"	"09"	"26 years"	"26"	"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X44"	32	117417	27.3
+	"Connecticut"	"09"	"26 years"	"26"	"Assault by other and unspecified firearm discharge"	"X95"	12	117417	Unreliable
+	"Connecticut"	"09"	"27 years"	"27"	"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X42"	51	115157	44.3
+	"Connecticut"	"09"	"27 years"	"27"	"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X44"	31	115157	26.9
+	"Connecticut"	"09"	"27 years"	"27"	"Intentional self-harm by hanging, strangulation and suffocation"	"X70"	12	115157	Unreliable
+	"Connecticut"	"09"	"27 years"	"27"	"Assault by other and unspecified firearm discharge"	"X95"	11	115157	Unreliable
+	"Connecticut"	"09"	"28 years"	"28"	"Person injured in unspecified motor-vehicle accident, traffic"	"V89.2"	16	113626	Unreliable
+	"Connecticut"	"09"	"28 years"	"28"	"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X42"	52	113626	45.8
+	"Connecticut"	"09"	"28 years"	"28"	"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X44"	42	113626	37.0
+	"Connecticut"	"09"	"28 years"	"28"	"Assault by other and unspecified firearm discharge"	"X95"	29	113626	25.5
+	"Connecticut"	"09"	"29 years"	"29"	"Person injured in unspecified motor-vehicle accident, traffic"	"V89.2"	15	113374	Unreliable
+	"Connecticut"	"09"	"29 years"	"29"	"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X42"	65	113374	57.3
+	"Connecticut"	"09"	"29 years"	"29"	"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X44"	44	113374	38.8
+	"Connecticut"	"09"	"29 years"	"29"	"Intentional self-harm by hanging, strangulation and suffocation"	"X70"	11	113374	Unreliable
+	"Connecticut"	"09"	"30 years"	"30"	"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X42"	64	112690	56.8
+	"Connecticut"	"09"	"30 years"	"30"	"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X44"	41	112690	36.4
+	"Connecticut"	"09"	"30 years"	"30"	"Intentional self-harm by hanging, strangulation and suffocation"	"X70"	11	112690	Unreliable
+	"Connecticut"	"09"	"31 years"	"31"	"Person injured in unspecified motor-vehicle accident, traffic"	"V89.2"	13	112377	Unreliable
+	"Connecticut"	"09"	"31 years"	"31"	"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X42"	64	112377	57.0
+	"Connecticut"	"09"	"31 years"	"31"	"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X44"	45	112377	40.0
+	"Connecticut"	"09"	"31 years"	"31"	"Intentional self-harm by hanging, strangulation and suffocation"	"X70"	13	112377	Unreliable
+	"Connecticut"	"09"	"32 years"	"32"	"Person injured in unspecified motor-vehicle accident, traffic"	"V89.2"	12	111646	Unreliable
+	"Connecticut"	"09"	"32 years"	"32"	"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X42"	48	111646	43.0
+	"Connecticut"	"09"	"32 years"	"32"	"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X44"	46	111646	41.2
+	"Connecticut"	"09"	"32 years"	"32"	"Intentional self-harm by hanging, strangulation and suffocation"	"X70"	10	111646	Unreliable
+	"Connecticut"	"09"	"33 years"	"33"	"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X42"	79	111198	71.0
+	"Connecticut"	"09"	"33 years"	"33"	"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X44"	48	111198	43.2
+	"Connecticut"	"09"	"33 years"	"33"	"Intentional self-harm by hanging, strangulation and suffocation"	"X70"	13	111198	Unreliable
+	"Connecticut"	"09"	"34 years"	"34"	"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X42"	60	110481	54.3
+	"Connecticut"	"09"	"34 years"	"34"	"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X44"	49	110481	44.4
+	"Connecticut"	"09"	"34 years"	"34"	"Assault by other and unspecified firearm discharge"	"X95"	12	110481	Unreliable
+	"Connecticut"	"09"	"35 years"	"35"	"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X42"	65	109445	59.4
+	"Connecticut"	"09"	"35 years"	"35"	"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X44"	57	109445	52.1
+	"Connecticut"	"09"	"35 years"	"35"	"Intentional self-harm by hanging, strangulation and suffocation"	"X70"	11	109445	Unreliable
+	"Connecticut"	"09"	"35 years"	"35"	"Assault by other and unspecified firearm discharge"	"X95"	11	109445	Unreliable
+	"Connecticut"	"09"	"36 years"	"36"	"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X42"	69	108909	63.4
+	"Connecticut"	"09"	"36 years"	"36"	"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X44"	49	108909	45.0
+	"Connecticut"	"09"	"36 years"	"36"	"Intentional self-harm by hanging, strangulation and suffocation"	"X70"	10	108909	Unreliable
+	"Connecticut"	"09"	"37 years"	"37"	"Person injured in unspecified motor-vehicle accident, traffic"	"V89.2"	14	107569	Unreliable
+	"Connecticut"	"09"	"37 years"	"37"	"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X42"	62	107569	57.6
+	"Connecticut"	"09"	"37 years"	"37"	"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X44"	50	107569	46.5
+	"Connecticut"	"09"	"37 years"	"37"	"Assault by other and unspecified firearm discharge"	"X95"	12	107569	Unreliable
+	"Connecticut"	"09"	"38 years"	"38"	"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X42"	53	105843	50.1
+	"Connecticut"	"09"	"38 years"	"38"	"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X44"	41	105843	38.7
+	"Connecticut"	"09"	"38 years"	"38"	"Intentional self-harm by hanging, strangulation and suffocation"	"X70"	17	105843	Unreliable
+	"Connecticut"	"09"	"39 years"	"39"	"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X42"	66	104411	63.2
+	"Connecticut"	"09"	"39 years"	"39"	"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X44"	51	104411	48.8
+	"Connecticut"	"09"	"39 years"	"39"	"Intentional self-harm by hanging, strangulation and suffocation"	"X70"	10	104411	Unreliable
+	"Connecticut"	"09"	"40 years"	"40"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	10	102810	Unreliable
+	"Connecticut"	"09"	"40 years"	"40"	"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X42"	49	102810	47.7
+	"Connecticut"	"09"	"40 years"	"40"	"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X44"	51	102810	49.6
+	"Connecticut"	"09"	"41 years"	"41"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	11	101446	Unreliable
+	"Connecticut"	"09"	"41 years"	"41"	"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X42"	63	101446	62.1
+	"Connecticut"	"09"	"41 years"	"41"	"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X44"	46	101446	45.3
+	"Connecticut"	"09"	"42 years"	"42"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	12	100624	Unreliable
+	"Connecticut"	"09"	"42 years"	"42"	"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X42"	28	100624	27.8
+	"Connecticut"	"09"	"42 years"	"42"	"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X44"	34	100624	33.8
+	"Connecticut"	"09"	"43 years"	"43"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	14	100645	Unreliable
+	"Connecticut"	"09"	"43 years"	"43"	"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X42"	43	100645	42.7
+	"Connecticut"	"09"	"43 years"	"43"	"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X44"	42	100645	41.7
+	"Connecticut"	"09"	"44 years"	"44"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	15	102357	Unreliable
+	"Connecticut"	"09"	"44 years"	"44"	"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X42"	60	102357	58.6
+	"Connecticut"	"09"	"44 years"	"44"	"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X44"	35	102357	34.2
+	"Connecticut"	"09"	"45 years"	"45"	"Acute myocardial infarction, unspecified"	"I21.9"	11	106008	Unreliable
+	"Connecticut"	"09"	"45 years"	"45"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	17	106008	Unreliable
+	"Connecticut"	"09"	"45 years"	"45"	"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X42"	47	106008	44.3
+	"Connecticut"	"09"	"45 years"	"45"	"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X44"	27	106008	25.5
+	"Connecticut"	"09"	"45 years"	"45"	"Intentional self-harm by hanging, strangulation and suffocation"	"X70"	11	106008	Unreliable
+	"Connecticut"	"09"	"45 years"	"45"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	13	106008	Unreliable
+	"Connecticut"	"09"	"46 years"	"46"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	12	110155	Unreliable
+	"Connecticut"	"09"	"46 years"	"46"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	22	110155	20.0
+	"Connecticut"	"09"	"46 years"	"46"	"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X42"	38	110155	34.5
+	"Connecticut"	"09"	"46 years"	"46"	"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X44"	45	110155	40.9
+	"Connecticut"	"09"	"47 years"	"47"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	18	113860	Unreliable
+	"Connecticut"	"09"	"47 years"	"47"	"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X42"	47	113860	41.3
+	"Connecticut"	"09"	"47 years"	"47"	"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X44"	34	113860	29.9
+	"Connecticut"	"09"	"48 years"	"48"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	10	117010	Unreliable
+	"Connecticut"	"09"	"48 years"	"48"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	16	117010	Unreliable
+	"Connecticut"	"09"	"48 years"	"48"	"Acute myocardial infarction, unspecified"	"I21.9"	11	117010	Unreliable
+	"Connecticut"	"09"	"48 years"	"48"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	16	117010	Unreliable
+	"Connecticut"	"09"	"48 years"	"48"	"Atherosclerotic heart disease"	"I25.1"	11	117010	Unreliable
+	"Connecticut"	"09"	"48 years"	"48"	"Alcoholic cirrhosis of liver"	"K70.3"	14	117010	Unreliable
+	"Connecticut"	"09"	"48 years"	"48"	"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X42"	53	117010	45.3
+	"Connecticut"	"09"	"48 years"	"48"	"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X44"	33	117010	28.2
+	"Connecticut"	"09"	"49 years"	"49"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	19	119523	Unreliable
+	"Connecticut"	"09"	"49 years"	"49"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	11	119523	Unreliable
+	"Connecticut"	"09"	"49 years"	"49"	"Acute myocardial infarction, unspecified"	"I21.9"	12	119523	Unreliable
+	"Connecticut"	"09"	"49 years"	"49"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	29	119523	24.3
+	"Connecticut"	"09"	"49 years"	"49"	"Alcoholic cirrhosis of liver"	"K70.3"	13	119523	Unreliable
+	"Connecticut"	"09"	"49 years"	"49"	"COVID-19"	"U07.1"	13	119523	Unreliable
+	"Connecticut"	"09"	"49 years"	"49"	"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X42"	53	119523	44.3
+	"Connecticut"	"09"	"49 years"	"49"	"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X44"	28	119523	23.4
+	"Connecticut"	"09"	"50 years"	"50"	"Septicaemia, unspecified"	"A41.9"	10	121124	Unreliable
+	"Connecticut"	"09"	"50 years"	"50"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	11	121124	Unreliable
+	"Connecticut"	"09"	"50 years"	"50"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	18	121124	Unreliable
+	"Connecticut"	"09"	"50 years"	"50"	"Acute myocardial infarction, unspecified"	"I21.9"	22	121124	18.2
+	"Connecticut"	"09"	"50 years"	"50"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	36	121124	29.7
+	"Connecticut"	"09"	"50 years"	"50"	"Atherosclerotic heart disease"	"I25.1"	16	121124	Unreliable
+	"Connecticut"	"09"	"50 years"	"50"	"COVID-19"	"U07.1"	10	121124	Unreliable
+	"Connecticut"	"09"	"50 years"	"50"	"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X42"	48	121124	39.6
+	"Connecticut"	"09"	"50 years"	"50"	"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X44"	48	121124	39.6
+	"Connecticut"	"09"	"50 years"	"50"	"Intentional self-harm by hanging, strangulation and suffocation"	"X70"	12	121124	Unreliable
+	"Connecticut"	"09"	"51 years"	"51"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	17	123131	Unreliable
+	"Connecticut"	"09"	"51 years"	"51"	"Brain, unspecified - Malignant neoplasms"	"C71.9"	14	123131	Unreliable
+	"Connecticut"	"09"	"51 years"	"51"	"Unspecified diabetes mellitus, without complications"	"E14.9"	11	123131	Unreliable
+	"Connecticut"	"09"	"51 years"	"51"	"Acute myocardial infarction, unspecified"	"I21.9"	24	123131	19.5
+	"Connecticut"	"09"	"51 years"	"51"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	38	123131	30.9
+	"Connecticut"	"09"	"51 years"	"51"	"Alcoholic cirrhosis of liver"	"K70.3"	17	123131	Unreliable
+	"Connecticut"	"09"	"51 years"	"51"	"Other and unspecified cirrhosis of liver"	"K74.6"	16	123131	Unreliable
+	"Connecticut"	"09"	"51 years"	"51"	"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X42"	46	123131	37.4
+	"Connecticut"	"09"	"51 years"	"51"	"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X44"	40	123131	32.5
+	"Connecticut"	"09"	"52 years"	"52"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	10	125781	Unreliable
+	"Connecticut"	"09"	"52 years"	"52"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	18	125781	Unreliable
+	"Connecticut"	"09"	"52 years"	"52"	"Brain, unspecified - Malignant neoplasms"	"C71.9"	10	125781	Unreliable
+	"Connecticut"	"09"	"52 years"	"52"	"Unspecified diabetes mellitus, without complications"	"E14.9"	14	125781	Unreliable
+	"Connecticut"	"09"	"52 years"	"52"	"Mental and behavioural disorders due to use of alcohol, dependence syndrome"	"F10.2"	11	125781	Unreliable
+	"Connecticut"	"09"	"52 years"	"52"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	17	125781	Unreliable
+	"Connecticut"	"09"	"52 years"	"52"	"Acute myocardial infarction, unspecified"	"I21.9"	22	125781	17.5
+	"Connecticut"	"09"	"52 years"	"52"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	55	125781	43.7
+	"Connecticut"	"09"	"52 years"	"52"	"Atherosclerotic heart disease"	"I25.1"	14	125781	Unreliable
+	"Connecticut"	"09"	"52 years"	"52"	"Alcoholic cirrhosis of liver"	"K70.3"	12	125781	Unreliable
+	"Connecticut"	"09"	"52 years"	"52"	"COVID-19"	"U07.1"	16	125781	Unreliable
+	"Connecticut"	"09"	"52 years"	"52"	"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X42"	49	125781	39.0
+	"Connecticut"	"09"	"52 years"	"52"	"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X44"	40	125781	31.8
+	"Connecticut"	"09"	"52 years"	"52"	"Intentional self-harm by hanging, strangulation and suffocation"	"X70"	16	125781	Unreliable
+	"Connecticut"	"09"	"53 years"	"53"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	12	128500	Unreliable
+	"Connecticut"	"09"	"53 years"	"53"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	29	128500	22.6
+	"Connecticut"	"09"	"53 years"	"53"	"Mental and behavioural disorders due to use of alcohol, dependence syndrome"	"F10.2"	11	128500	Unreliable
+	"Connecticut"	"09"	"53 years"	"53"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	20	128500	15.6
+	"Connecticut"	"09"	"53 years"	"53"	"Acute myocardial infarction, unspecified"	"I21.9"	19	128500	Unreliable
+	"Connecticut"	"09"	"53 years"	"53"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	42	128500	32.7
+	"Connecticut"	"09"	"53 years"	"53"	"Atherosclerotic heart disease"	"I25.1"	12	128500	Unreliable
+	"Connecticut"	"09"	"53 years"	"53"	"Cardiac arrest, unspecified"	"I46.9"	11	128500	Unreliable
+	"Connecticut"	"09"	"53 years"	"53"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	10	128500	Unreliable
+	"Connecticut"	"09"	"53 years"	"53"	"Alcoholic cirrhosis of liver"	"K70.3"	20	128500	15.6
+	"Connecticut"	"09"	"53 years"	"53"	"COVID-19"	"U07.1"	12	128500	Unreliable
+	"Connecticut"	"09"	"53 years"	"53"	"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X42"	60	128500	46.7
+	"Connecticut"	"09"	"53 years"	"53"	"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X44"	46	128500	35.8
+	"Connecticut"	"09"	"53 years"	"53"	"Intentional self-harm by hanging, strangulation and suffocation"	"X70"	23	128500	17.9
+	"Connecticut"	"09"	"54 years"	"54"	"Septicaemia, unspecified"	"A41.9"	12	130558	Unreliable
+	"Connecticut"	"09"	"54 years"	"54"	"Oesophagus, unspecified - Malignant neoplasms"	"C15.9"	16	130558	Unreliable
+	"Connecticut"	"09"	"54 years"	"54"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	10	130558	Unreliable
+	"Connecticut"	"09"	"54 years"	"54"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	14	130558	Unreliable
+	"Connecticut"	"09"	"54 years"	"54"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	27	130558	20.7
+	"Connecticut"	"09"	"54 years"	"54"	"Brain, unspecified - Malignant neoplasms"	"C71.9"	15	130558	Unreliable
+	"Connecticut"	"09"	"54 years"	"54"	"Malignant neoplasm without specification of site"	"C80"	12	130558	Unreliable
+	"Connecticut"	"09"	"54 years"	"54"	"Unspecified diabetes mellitus, without complications"	"E14.9"	19	130558	Unreliable
+	"Connecticut"	"09"	"54 years"	"54"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	17	130558	Unreliable
+	"Connecticut"	"09"	"54 years"	"54"	"Acute myocardial infarction, unspecified"	"I21.9"	32	130558	24.5
+	"Connecticut"	"09"	"54 years"	"54"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	57	130558	43.7
+	"Connecticut"	"09"	"54 years"	"54"	"Atherosclerotic heart disease"	"I25.1"	22	130558	16.9
+	"Connecticut"	"09"	"54 years"	"54"	"Cardiac arrest, unspecified"	"I46.9"	11	130558	Unreliable
+	"Connecticut"	"09"	"54 years"	"54"	"Alcoholic cirrhosis of liver"	"K70.3"	26	130558	19.9
+	"Connecticut"	"09"	"54 years"	"54"	"Other and unspecified cirrhosis of liver"	"K74.6"	10	130558	Unreliable
+	"Connecticut"	"09"	"54 years"	"54"	"COVID-19"	"U07.1"	20	130558	15.3
+	"Connecticut"	"09"	"54 years"	"54"	"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X42"	65	130558	49.8
+	"Connecticut"	"09"	"54 years"	"54"	"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X44"	37	130558	28.3
+	"Connecticut"	"09"	"54 years"	"54"	"Intentional self-harm by hanging, strangulation and suffocation"	"X70"	16	130558	Unreliable
+	"Connecticut"	"09"	"54 years"	"54"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	12	130558	Unreliable
+	"Connecticut"	"09"	"55 years"	"55"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	12	131526	Unreliable
+	"Connecticut"	"09"	"55 years"	"55"	"Liver cell carcinoma - Malignant neoplasms"	"C22.0"	10	131526	Unreliable
+	"Connecticut"	"09"	"55 years"	"55"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	18	131526	Unreliable
+	"Connecticut"	"09"	"55 years"	"55"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	44	131526	33.5
+	"Connecticut"	"09"	"55 years"	"55"	"Malignant neoplasm without specification of site"	"C80"	12	131526	Unreliable
+	"Connecticut"	"09"	"55 years"	"55"	"Unspecified diabetes mellitus, without complications"	"E14.9"	14	131526	Unreliable
+	"Connecticut"	"09"	"55 years"	"55"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	17	131526	Unreliable
+	"Connecticut"	"09"	"55 years"	"55"	"Acute myocardial infarction, unspecified"	"I21.9"	21	131526	16.0
+	"Connecticut"	"09"	"55 years"	"55"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	56	131526	42.6
+	"Connecticut"	"09"	"55 years"	"55"	"Atherosclerotic heart disease"	"I25.1"	26	131526	19.8
+	"Connecticut"	"09"	"55 years"	"55"	"Cardiac arrest, unspecified"	"I46.9"	17	131526	Unreliable
+	"Connecticut"	"09"	"55 years"	"55"	"Alcoholic cirrhosis of liver"	"K70.3"	23	131526	17.5
+	"Connecticut"	"09"	"55 years"	"55"	"Other and unspecified cirrhosis of liver"	"K74.6"	11	131526	Unreliable
+	"Connecticut"	"09"	"55 years"	"55"	"COVID-19"	"U07.1"	18	131526	Unreliable
+	"Connecticut"	"09"	"55 years"	"55"	"Person injured in unspecified motor-vehicle accident, traffic"	"V89.2"	11	131526	Unreliable
+	"Connecticut"	"09"	"55 years"	"55"	"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X42"	56	131526	42.6
+	"Connecticut"	"09"	"55 years"	"55"	"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X44"	32	131526	24.3
+	"Connecticut"	"09"	"55 years"	"55"	"Intentional self-harm by hanging, strangulation and suffocation"	"X70"	15	131526	Unreliable
+	"Connecticut"	"09"	"56 years"	"56"	"Septicaemia, unspecified"	"A41.9"	11	131645	Unreliable
+	"Connecticut"	"09"	"56 years"	"56"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	13	131645	Unreliable
+	"Connecticut"	"09"	"56 years"	"56"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	13	131645	Unreliable
+	"Connecticut"	"09"	"56 years"	"56"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	46	131645	34.9
+	"Connecticut"	"09"	"56 years"	"56"	"Brain, unspecified - Malignant neoplasms"	"C71.9"	10	131645	Unreliable
+	"Connecticut"	"09"	"56 years"	"56"	"Malignant neoplasm without specification of site"	"C80"	12	131645	Unreliable
+	"Connecticut"	"09"	"56 years"	"56"	"Unspecified diabetes mellitus, without complications"	"E14.9"	26	131645	19.8
+	"Connecticut"	"09"	"56 years"	"56"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	23	131645	17.5
+	"Connecticut"	"09"	"56 years"	"56"	"Acute myocardial infarction, unspecified"	"I21.9"	34	131645	25.8
+	"Connecticut"	"09"	"56 years"	"56"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	63	131645	47.9
+	"Connecticut"	"09"	"56 years"	"56"	"Atherosclerotic heart disease"	"I25.1"	32	131645	24.3
+	"Connecticut"	"09"	"56 years"	"56"	"Cardiomyopathy, unspecified"	"I42.9"	13	131645	Unreliable
+	"Connecticut"	"09"	"56 years"	"56"	"Alcoholic cirrhosis of liver"	"K70.3"	19	131645	Unreliable
+	"Connecticut"	"09"	"56 years"	"56"	"Other and unspecified cirrhosis of liver"	"K74.6"	11	131645	Unreliable
+	"Connecticut"	"09"	"56 years"	"56"	"COVID-19"	"U07.1"	17	131645	Unreliable
+	"Connecticut"	"09"	"56 years"	"56"	"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X42"	40	131645	30.4
+	"Connecticut"	"09"	"56 years"	"56"	"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X44"	34	131645	25.8
+	"Connecticut"	"09"	"56 years"	"56"	"Intentional self-harm by hanging, strangulation and suffocation"	"X70"	13	131645	Unreliable
+	"Connecticut"	"09"	"56 years"	"56"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	13	131645	Unreliable
+	"Connecticut"	"09"	"57 years"	"57"	"Septicaemia, unspecified"	"A41.9"	14	130620	Unreliable
+	"Connecticut"	"09"	"57 years"	"57"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	19	130620	Unreliable
+	"Connecticut"	"09"	"57 years"	"57"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	19	130620	Unreliable
+	"Connecticut"	"09"	"57 years"	"57"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	56	130620	42.9
+	"Connecticut"	"09"	"57 years"	"57"	"Brain, unspecified - Malignant neoplasms"	"C71.9"	12	130620	Unreliable
+	"Connecticut"	"09"	"57 years"	"57"	"Unspecified diabetes mellitus, without complications"	"E14.9"	16	130620	Unreliable
+	"Connecticut"	"09"	"57 years"	"57"	"Mental and behavioural disorders due to use of alcohol, dependence syndrome"	"F10.2"	13	130620	Unreliable
+	"Connecticut"	"09"	"57 years"	"57"	"Motor neuron disease"	"G12.2"	10	130620	Unreliable
+	"Connecticut"	"09"	"57 years"	"57"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	25	130620	19.1
+	"Connecticut"	"09"	"57 years"	"57"	"Acute myocardial infarction, unspecified"	"I21.9"	25	130620	19.1
+	"Connecticut"	"09"	"57 years"	"57"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	71	130620	54.4
+	"Connecticut"	"09"	"57 years"	"57"	"Atherosclerotic heart disease"	"I25.1"	36	130620	27.6
+	"Connecticut"	"09"	"57 years"	"57"	"Cardiomyopathy, unspecified"	"I42.9"	10	130620	Unreliable
+	"Connecticut"	"09"	"57 years"	"57"	"Cardiac arrest, unspecified"	"I46.9"	13	130620	Unreliable
+	"Connecticut"	"09"	"57 years"	"57"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	12	130620	Unreliable
+	"Connecticut"	"09"	"57 years"	"57"	"Alcoholic cirrhosis of liver"	"K70.3"	24	130620	18.4
+	"Connecticut"	"09"	"57 years"	"57"	"Other and unspecified cirrhosis of liver"	"K74.6"	23	130620	17.6
+	"Connecticut"	"09"	"57 years"	"57"	"COVID-19"	"U07.1"	27	130620	20.7
+	"Connecticut"	"09"	"57 years"	"57"	"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X42"	50	130620	38.3
+	"Connecticut"	"09"	"57 years"	"57"	"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X44"	38	130620	29.1
+	"Connecticut"	"09"	"57 years"	"57"	"Accidental poisoning by and exposure to alcohol"	"X45"	16	130620	Unreliable
+	"Connecticut"	"09"	"57 years"	"57"	"Intentional self-harm by hanging, strangulation and suffocation"	"X70"	12	130620	Unreliable
+	"Connecticut"	"09"	"58 years"	"58"	"Septicaemia, unspecified"	"A41.9"	10	129715	Unreliable
+	"Connecticut"	"09"	"58 years"	"58"	"Oesophagus, unspecified - Malignant neoplasms"	"C15.9"	13	129715	Unreliable
+	"Connecticut"	"09"	"58 years"	"58"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	14	129715	Unreliable
+	"Connecticut"	"09"	"58 years"	"58"	"Liver cell carcinoma - Malignant neoplasms"	"C22.0"	14	129715	Unreliable
+	"Connecticut"	"09"	"58 years"	"58"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	30	129715	23.1
+	"Connecticut"	"09"	"58 years"	"58"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	58	129715	44.7
+	"Connecticut"	"09"	"58 years"	"58"	"Malignant neoplasm of prostate"	"C61"	13	129715	Unreliable
+	"Connecticut"	"09"	"58 years"	"58"	"Brain, unspecified - Malignant neoplasms"	"C71.9"	15	129715	Unreliable
+	"Connecticut"	"09"	"58 years"	"58"	"Mental and behavioural disorders due to use of alcohol, dependence syndrome"	"F10.2"	15	129715	Unreliable
+	"Connecticut"	"09"	"58 years"	"58"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	18	129715	Unreliable
+	"Connecticut"	"09"	"58 years"	"58"	"Acute myocardial infarction, unspecified"	"I21.9"	39	129715	30.1
+	"Connecticut"	"09"	"58 years"	"58"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	71	129715	54.7
+	"Connecticut"	"09"	"58 years"	"58"	"Atherosclerotic heart disease"	"I25.1"	35	129715	27.0
+	"Connecticut"	"09"	"58 years"	"58"	"Cardiac arrest, unspecified"	"I46.9"	17	129715	Unreliable
+	"Connecticut"	"09"	"58 years"	"58"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	10	129715	Unreliable
+	"Connecticut"	"09"	"58 years"	"58"	"Pneumonitis due to food and vomit"	"J69.0"	10	129715	Unreliable
+	"Connecticut"	"09"	"58 years"	"58"	"Alcoholic cirrhosis of liver"	"K70.3"	20	129715	15.4
+	"Connecticut"	"09"	"58 years"	"58"	"Other and unspecified cirrhosis of liver"	"K74.6"	19	129715	Unreliable
+	"Connecticut"	"09"	"58 years"	"58"	"COVID-19"	"U07.1"	30	129715	23.1
+	"Connecticut"	"09"	"58 years"	"58"	"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X42"	34	129715	26.2
+	"Connecticut"	"09"	"58 years"	"58"	"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X44"	43	129715	33.1
+	"Connecticut"	"09"	"58 years"	"58"	"Accidental poisoning by and exposure to alcohol"	"X45"	10	129715	Unreliable
+	"Connecticut"	"09"	"58 years"	"58"	"Intentional self-harm by hanging, strangulation and suffocation"	"X70"	15	129715	Unreliable
+	"Connecticut"	"09"	"58 years"	"58"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	12	129715	Unreliable
+	"Connecticut"	"09"	"59 years"	"59"	"Septicaemia, unspecified"	"A41.9"	20	128482	15.6
+	"Connecticut"	"09"	"59 years"	"59"	"Oesophagus, unspecified - Malignant neoplasms"	"C15.9"	15	128482	Unreliable
+	"Connecticut"	"09"	"59 years"	"59"	"Stomach, unspecified - Malignant neoplasms"	"C16.9"	10	128482	Unreliable
+	"Connecticut"	"09"	"59 years"	"59"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	18	128482	Unreliable
+	"Connecticut"	"09"	"59 years"	"59"	"Liver cell carcinoma - Malignant neoplasms"	"C22.0"	11	128482	Unreliable
+	"Connecticut"	"09"	"59 years"	"59"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	19	128482	Unreliable
+	"Connecticut"	"09"	"59 years"	"59"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	71	128482	55.3
+	"Connecticut"	"09"	"59 years"	"59"	"Malignant neoplasm of prostate"	"C61"	14	128482	Unreliable
+	"Connecticut"	"09"	"59 years"	"59"	"Malignant neoplasm of kidney, except renal pelvis"	"C64"	10	128482	Unreliable
+	"Connecticut"	"09"	"59 years"	"59"	"Brain, unspecified - Malignant neoplasms"	"C71.9"	10	128482	Unreliable
+	"Connecticut"	"09"	"59 years"	"59"	"Malignant neoplasm without specification of site"	"C80"	19	128482	Unreliable
+	"Connecticut"	"09"	"59 years"	"59"	"Unspecified diabetes mellitus, without complications"	"E14.9"	20	128482	15.6
+	"Connecticut"	"09"	"59 years"	"59"	"Mental and behavioural disorders due to use of alcohol, dependence syndrome"	"F10.2"	11	128482	Unreliable
+	"Connecticut"	"09"	"59 years"	"59"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	26	128482	20.2
+	"Connecticut"	"09"	"59 years"	"59"	"Acute myocardial infarction, unspecified"	"I21.9"	40	128482	31.1
+	"Connecticut"	"09"	"59 years"	"59"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	88	128482	68.5
+	"Connecticut"	"09"	"59 years"	"59"	"Atherosclerotic heart disease"	"I25.1"	34	128482	26.5
+	"Connecticut"	"09"	"59 years"	"59"	"Cardiac arrest, unspecified"	"I46.9"	17	128482	Unreliable
+	"Connecticut"	"09"	"59 years"	"59"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	10	128482	Unreliable
+	"Connecticut"	"09"	"59 years"	"59"	"Alcoholic cirrhosis of liver"	"K70.3"	21	128482	16.3
+	"Connecticut"	"09"	"59 years"	"59"	"Other and unspecified cirrhosis of liver"	"K74.6"	26	128482	20.2
+	"Connecticut"	"09"	"59 years"	"59"	"COVID-19"	"U07.1"	22	128482	17.1
+	"Connecticut"	"09"	"59 years"	"59"	"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X42"	34	128482	26.5
+	"Connecticut"	"09"	"59 years"	"59"	"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X44"	28	128482	21.8
+	"Connecticut"	"09"	"59 years"	"59"	"Intentional self-harm by hanging, strangulation and suffocation"	"X70"	12	128482	Unreliable
+	"Connecticut"	"09"	"60 years"	"60"	"Septicaemia, unspecified"	"A41.9"	18	125290	Unreliable
+	"Connecticut"	"09"	"60 years"	"60"	"Oesophagus, unspecified - Malignant neoplasms"	"C15.9"	18	125290	Unreliable
+	"Connecticut"	"09"	"60 years"	"60"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	17	125290	Unreliable
+	"Connecticut"	"09"	"60 years"	"60"	"Malignant neoplasm of rectum"	"C20"	10	125290	Unreliable
+	"Connecticut"	"09"	"60 years"	"60"	"Liver cell carcinoma - Malignant neoplasms"	"C22.0"	23	125290	18.4
+	"Connecticut"	"09"	"60 years"	"60"	"Intrahepatic bile duct carcinoma - Malignant neoplasms"	"C22.1"	11	125290	Unreliable
+	"Connecticut"	"09"	"60 years"	"60"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	31	125290	24.7
+	"Connecticut"	"09"	"60 years"	"60"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	55	125290	43.9
+	"Connecticut"	"09"	"60 years"	"60"	"Malignant neoplasm of prostate"	"C61"	12	125290	Unreliable
+	"Connecticut"	"09"	"60 years"	"60"	"Brain, unspecified - Malignant neoplasms"	"C71.9"	16	125290	Unreliable
+	"Connecticut"	"09"	"60 years"	"60"	"Malignant neoplasm without specification of site"	"C80"	21	125290	16.8
+	"Connecticut"	"09"	"60 years"	"60"	"Unspecified diabetes mellitus, without complications"	"E14.9"	30	125290	23.9
+	"Connecticut"	"09"	"60 years"	"60"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	18	125290	Unreliable
+	"Connecticut"	"09"	"60 years"	"60"	"Acute myocardial infarction, unspecified"	"I21.9"	37	125290	29.5
+	"Connecticut"	"09"	"60 years"	"60"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	87	125290	69.4
+	"Connecticut"	"09"	"60 years"	"60"	"Atherosclerotic heart disease"	"I25.1"	41	125290	32.7
+	"Connecticut"	"09"	"60 years"	"60"	"Cardiomyopathy, unspecified"	"I42.9"	12	125290	Unreliable
+	"Connecticut"	"09"	"60 years"	"60"	"Cardiac arrest, unspecified"	"I46.9"	17	125290	Unreliable
+	"Connecticut"	"09"	"60 years"	"60"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	16	125290	Unreliable
+	"Connecticut"	"09"	"60 years"	"60"	"Alcoholic cirrhosis of liver"	"K70.3"	25	125290	20.0
+	"Connecticut"	"09"	"60 years"	"60"	"Other and unspecified cirrhosis of liver"	"K74.6"	22	125290	17.6
+	"Connecticut"	"09"	"60 years"	"60"	"Chronic kidney disease, stage 5"	"N18.5"	10	125290	Unreliable
+	"Connecticut"	"09"	"60 years"	"60"	"COVID-19"	"U07.1"	48	125290	38.3
+	"Connecticut"	"09"	"60 years"	"60"	"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X42"	47	125290	37.5
+	"Connecticut"	"09"	"60 years"	"60"	"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X44"	41	125290	32.7
+	"Connecticut"	"09"	"60 years"	"60"	"Intentional self-harm by hanging, strangulation and suffocation"	"X70"	16	125290	Unreliable
+	"Connecticut"	"09"	"61 years"	"61"	"Septicaemia, unspecified"	"A41.9"	16	121472	Unreliable
+	"Connecticut"	"09"	"61 years"	"61"	"Oesophagus, unspecified - Malignant neoplasms"	"C15.9"	24	121472	19.8
+	"Connecticut"	"09"	"61 years"	"61"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	20	121472	16.5
+	"Connecticut"	"09"	"61 years"	"61"	"Liver cell carcinoma - Malignant neoplasms"	"C22.0"	14	121472	Unreliable
+	"Connecticut"	"09"	"61 years"	"61"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	27	121472	22.2
+	"Connecticut"	"09"	"61 years"	"61"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	69	121472	56.8
+	"Connecticut"	"09"	"61 years"	"61"	"Malignant neoplasm of prostate"	"C61"	20	121472	16.5
+	"Connecticut"	"09"	"61 years"	"61"	"Malignant neoplasm of kidney, except renal pelvis"	"C64"	17	121472	Unreliable
+	"Connecticut"	"09"	"61 years"	"61"	"Brain, unspecified - Malignant neoplasms"	"C71.9"	17	121472	Unreliable
+	"Connecticut"	"09"	"61 years"	"61"	"Malignant neoplasm without specification of site"	"C80"	20	121472	16.5
+	"Connecticut"	"09"	"61 years"	"61"	"Unspecified diabetes mellitus, without complications"	"E14.9"	22	121472	18.1
+	"Connecticut"	"09"	"61 years"	"61"	"Anoxic brain damage, not elsewhere classified"	"G93.1"	10	121472	Unreliable
+	"Connecticut"	"09"	"61 years"	"61"	"Essential (primary) hypertension"	"I10"	11	121472	Unreliable
+	"Connecticut"	"09"	"61 years"	"61"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	10	121472	Unreliable
+	"Connecticut"	"09"	"61 years"	"61"	"Acute myocardial infarction, unspecified"	"I21.9"	53	121472	43.6
+	"Connecticut"	"09"	"61 years"	"61"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	83	121472	68.3
+	"Connecticut"	"09"	"61 years"	"61"	"Atherosclerotic heart disease"	"I25.1"	32	121472	26.3
+	"Connecticut"	"09"	"61 years"	"61"	"Cardiac arrest, unspecified"	"I46.9"	15	121472	Unreliable
+	"Connecticut"	"09"	"61 years"	"61"	"Pneumonia, unspecified"	"J18.9"	13	121472	Unreliable
+	"Connecticut"	"09"	"61 years"	"61"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	29	121472	23.9
+	"Connecticut"	"09"	"61 years"	"61"	"Alcoholic cirrhosis of liver"	"K70.3"	23	121472	18.9
+	"Connecticut"	"09"	"61 years"	"61"	"Other and unspecified cirrhosis of liver"	"K74.6"	23	121472	18.9
+	"Connecticut"	"09"	"61 years"	"61"	"Chronic kidney disease, stage 5"	"N18.5"	13	121472	Unreliable
+	"Connecticut"	"09"	"61 years"	"61"	"COVID-19"	"U07.1"	33	121472	27.2
+	"Connecticut"	"09"	"61 years"	"61"	"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X42"	32	121472	26.3
+	"Connecticut"	"09"	"61 years"	"61"	"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X44"	33	121472	27.2
+	"Connecticut"	"09"	"61 years"	"61"	"Intentional self-harm by hanging, strangulation and suffocation"	"X70"	12	121472	Unreliable
+	"Connecticut"	"09"	"61 years"	"61"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	10	121472	Unreliable
+	"Connecticut"	"09"	"62 years"	"62"	"Septicaemia, unspecified"	"A41.9"	18	117105	Unreliable
+	"Connecticut"	"09"	"62 years"	"62"	"Oesophagus, unspecified - Malignant neoplasms"	"C15.9"	27	117105	23.1
+	"Connecticut"	"09"	"62 years"	"62"	"Stomach, unspecified - Malignant neoplasms"	"C16.9"	14	117105	Unreliable
+	"Connecticut"	"09"	"62 years"	"62"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	20	117105	17.1
+	"Connecticut"	"09"	"62 years"	"62"	"Liver cell carcinoma - Malignant neoplasms"	"C22.0"	15	117105	Unreliable
+	"Connecticut"	"09"	"62 years"	"62"	"Liver, unspecified - Malignant neoplasms"	"C22.9"	10	117105	Unreliable
+	"Connecticut"	"09"	"62 years"	"62"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	39	117105	33.3
+	"Connecticut"	"09"	"62 years"	"62"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	86	117105	73.4
+	"Connecticut"	"09"	"62 years"	"62"	"Malignant neoplasm of prostate"	"C61"	12	117105	Unreliable
+	"Connecticut"	"09"	"62 years"	"62"	"Bladder, unspecified - Malignant neoplasms"	"C67.9"	12	117105	Unreliable
+	"Connecticut"	"09"	"62 years"	"62"	"Brain, unspecified - Malignant neoplasms"	"C71.9"	13	117105	Unreliable
+	"Connecticut"	"09"	"62 years"	"62"	"Malignant neoplasm without specification of site"	"C80"	22	117105	18.8
+	"Connecticut"	"09"	"62 years"	"62"	"Multiple myeloma - Malignant neoplasms"	"C90.0"	11	117105	Unreliable
+	"Connecticut"	"09"	"62 years"	"62"	"Unspecified diabetes mellitus, without complications"	"E14.9"	17	117105	Unreliable
+	"Connecticut"	"09"	"62 years"	"62"	"Essential (primary) hypertension"	"I10"	10	117105	Unreliable
+	"Connecticut"	"09"	"62 years"	"62"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	15	117105	Unreliable
+	"Connecticut"	"09"	"62 years"	"62"	"Acute myocardial infarction, unspecified"	"I21.9"	44	117105	37.6
+	"Connecticut"	"09"	"62 years"	"62"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	88	117105	75.1
+	"Connecticut"	"09"	"62 years"	"62"	"Atherosclerotic heart disease"	"I25.1"	53	117105	45.3
+	"Connecticut"	"09"	"62 years"	"62"	"Cardiac arrest, unspecified"	"I46.9"	18	117105	Unreliable
+	"Connecticut"	"09"	"62 years"	"62"	"Congestive heart failure"	"I50.0"	12	117105	Unreliable
+	"Connecticut"	"09"	"62 years"	"62"	"Heart failure, unspecified"	"I50.9"	10	117105	Unreliable
+	"Connecticut"	"09"	"62 years"	"62"	"Stroke, not specified as haemorrhage or infarction"	"I64"	10	117105	Unreliable
+	"Connecticut"	"09"	"62 years"	"62"	"Pneumonia, unspecified"	"J18.9"	10	117105	Unreliable
+	"Connecticut"	"09"	"62 years"	"62"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	26	117105	22.2
+	"Connecticut"	"09"	"62 years"	"62"	"Alcoholic cirrhosis of liver"	"K70.3"	20	117105	17.1
+	"Connecticut"	"09"	"62 years"	"62"	"Other and unspecified cirrhosis of liver"	"K74.6"	28	117105	23.9
+	"Connecticut"	"09"	"62 years"	"62"	"COVID-19"	"U07.1"	33	117105	28.2
+	"Connecticut"	"09"	"62 years"	"62"	"Unspecified fall"	"W19"	11	117105	Unreliable
+	"Connecticut"	"09"	"62 years"	"62"	"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X42"	23	117105	19.6
+	"Connecticut"	"09"	"62 years"	"62"	"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X44"	19	117105	Unreliable
+	"Connecticut"	"09"	"63 years"	"63"	"Septicaemia, unspecified"	"A41.9"	23	111630	20.6
+	"Connecticut"	"09"	"63 years"	"63"	"Oesophagus, unspecified - Malignant neoplasms"	"C15.9"	22	111630	19.7
+	"Connecticut"	"09"	"63 years"	"63"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	19	111630	Unreliable
+	"Connecticut"	"09"	"63 years"	"63"	"Liver cell carcinoma - Malignant neoplasms"	"C22.0"	24	111630	21.5
+	"Connecticut"	"09"	"63 years"	"63"	"Intrahepatic bile duct carcinoma - Malignant neoplasms"	"C22.1"	10	111630	Unreliable
+	"Connecticut"	"09"	"63 years"	"63"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	29	111630	26.0
+	"Connecticut"	"09"	"63 years"	"63"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	91	111630	81.5
+	"Connecticut"	"09"	"63 years"	"63"	"Malignant melanoma of skin, unspecified - Malignant neoplasms"	"C43.9"	10	111630	Unreliable
+	"Connecticut"	"09"	"63 years"	"63"	"Malignant neoplasm of prostate"	"C61"	24	111630	21.5
+	"Connecticut"	"09"	"63 years"	"63"	"Bladder, unspecified - Malignant neoplasms"	"C67.9"	15	111630	Unreliable
+	"Connecticut"	"09"	"63 years"	"63"	"Brain, unspecified - Malignant neoplasms"	"C71.9"	15	111630	Unreliable
+	"Connecticut"	"09"	"63 years"	"63"	"Malignant neoplasm without specification of site"	"C80"	27	111630	24.2
+	"Connecticut"	"09"	"63 years"	"63"	"Unspecified diabetes mellitus, without complications"	"E14.9"	26	111630	23.3
+	"Connecticut"	"09"	"63 years"	"63"	"Mental and behavioural disorders due to use of alcohol, dependence syndrome"	"F10.2"	14	111630	Unreliable
+	"Connecticut"	"09"	"63 years"	"63"	"Essential (primary) hypertension"	"I10"	10	111630	Unreliable
+	"Connecticut"	"09"	"63 years"	"63"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	20	111630	17.9
+	"Connecticut"	"09"	"63 years"	"63"	"Acute myocardial infarction, unspecified"	"I21.9"	30	111630	26.9
+	"Connecticut"	"09"	"63 years"	"63"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	92	111630	82.4
+	"Connecticut"	"09"	"63 years"	"63"	"Atherosclerotic heart disease"	"I25.1"	52	111630	46.6
+	"Connecticut"	"09"	"63 years"	"63"	"Cardiac arrest, unspecified"	"I46.9"	27	111630	24.2
+	"Connecticut"	"09"	"63 years"	"63"	"Congestive heart failure"	"I50.0"	19	111630	Unreliable
+	"Connecticut"	"09"	"63 years"	"63"	"Pneumonia, unspecified"	"J18.9"	11	111630	Unreliable
+	"Connecticut"	"09"	"63 years"	"63"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	23	111630	20.6
+	"Connecticut"	"09"	"63 years"	"63"	"Alcoholic cirrhosis of liver"	"K70.3"	18	111630	Unreliable
+	"Connecticut"	"09"	"63 years"	"63"	"Other and unspecified cirrhosis of liver"	"K74.6"	20	111630	17.9
+	"Connecticut"	"09"	"63 years"	"63"	"Chronic kidney disease, stage 5"	"N18.5"	10	111630	Unreliable
+	"Connecticut"	"09"	"63 years"	"63"	"COVID-19"	"U07.1"	45	111630	40.3
+	"Connecticut"	"09"	"63 years"	"63"	"Unspecified fall"	"W19"	14	111630	Unreliable
+	"Connecticut"	"09"	"63 years"	"63"	"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X42"	23	111630	20.6
+	"Connecticut"	"09"	"63 years"	"63"	"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X44"	21	111630	18.8
+	"Connecticut"	"09"	"63 years"	"63"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	10	111630	Unreliable
+	"Connecticut"	"09"	"64 years"	"64"	"Septicaemia, unspecified"	"A41.9"	15	105879	Unreliable
+	"Connecticut"	"09"	"64 years"	"64"	"Oesophagus, unspecified - Malignant neoplasms"	"C15.9"	18	105879	Unreliable
+	"Connecticut"	"09"	"64 years"	"64"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	16	105879	Unreliable
+	"Connecticut"	"09"	"64 years"	"64"	"Liver cell carcinoma - Malignant neoplasms"	"C22.0"	31	105879	29.3
+	"Connecticut"	"09"	"64 years"	"64"	"Intrahepatic bile duct carcinoma - Malignant neoplasms"	"C22.1"	16	105879	Unreliable
+	"Connecticut"	"09"	"64 years"	"64"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	30	105879	28.3
+	"Connecticut"	"09"	"64 years"	"64"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	110	105879	103.9
+	"Connecticut"	"09"	"64 years"	"64"	"Malignant neoplasm of prostate"	"C61"	19	105879	Unreliable
+	"Connecticut"	"09"	"64 years"	"64"	"Malignant neoplasm of kidney, except renal pelvis"	"C64"	11	105879	Unreliable
+	"Connecticut"	"09"	"64 years"	"64"	"Bladder, unspecified - Malignant neoplasms"	"C67.9"	10	105879	Unreliable
+	"Connecticut"	"09"	"64 years"	"64"	"Brain, unspecified - Malignant neoplasms"	"C71.9"	19	105879	Unreliable
+	"Connecticut"	"09"	"64 years"	"64"	"Malignant neoplasm without specification of site"	"C80"	23	105879	21.7
+	"Connecticut"	"09"	"64 years"	"64"	"Unspecified diabetes mellitus, without complications"	"E14.9"	19	105879	Unreliable
+	"Connecticut"	"09"	"64 years"	"64"	"Unspecified dementia"	"F03"	11	105879	Unreliable
+	"Connecticut"	"09"	"64 years"	"64"	"Anoxic brain damage, not elsewhere classified"	"G93.1"	13	105879	Unreliable
+	"Connecticut"	"09"	"64 years"	"64"	"Essential (primary) hypertension"	"I10"	14	105879	Unreliable
+	"Connecticut"	"09"	"64 years"	"64"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	18	105879	Unreliable
+	"Connecticut"	"09"	"64 years"	"64"	"Acute myocardial infarction, unspecified"	"I21.9"	44	105879	41.6
+	"Connecticut"	"09"	"64 years"	"64"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	104	105879	98.2
+	"Connecticut"	"09"	"64 years"	"64"	"Atherosclerotic heart disease"	"I25.1"	55	105879	51.9
+	"Connecticut"	"09"	"64 years"	"64"	"Cardiac arrest, unspecified"	"I46.9"	19	105879	Unreliable
+	"Connecticut"	"09"	"64 years"	"64"	"Stroke, not specified as haemorrhage or infarction"	"I64"	15	105879	Unreliable
+	"Connecticut"	"09"	"64 years"	"64"	"Pneumonia, unspecified"	"J18.9"	14	105879	Unreliable
+	"Connecticut"	"09"	"64 years"	"64"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	27	105879	25.5
+	"Connecticut"	"09"	"64 years"	"64"	"Pneumonitis due to food and vomit"	"J69.0"	13	105879	Unreliable
+	"Connecticut"	"09"	"64 years"	"64"	"Alcoholic cirrhosis of liver"	"K70.3"	23	105879	21.7
+	"Connecticut"	"09"	"64 years"	"64"	"Other and unspecified cirrhosis of liver"	"K74.6"	16	105879	Unreliable
+	"Connecticut"	"09"	"64 years"	"64"	"Chronic kidney disease, stage 5"	"N18.5"	11	105879	Unreliable
+	"Connecticut"	"09"	"64 years"	"64"	"COVID-19"	"U07.1"	40	105879	37.8
+	"Connecticut"	"09"	"64 years"	"64"	"Unspecified fall"	"W19"	11	105879	Unreliable
+	"Connecticut"	"09"	"64 years"	"64"	"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X42"	20	105879	18.9
+	"Connecticut"	"09"	"64 years"	"64"	"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X44"	18	105879	Unreliable
+	"Connecticut"	"09"	"64 years"	"64"	"Intentional self-harm by hanging, strangulation and suffocation"	"X70"	11	105879	Unreliable
+	"Connecticut"	"09"	"65 years"	"65"	"Septicaemia, unspecified"	"A41.9"	37	100440	36.8
+	"Connecticut"	"09"	"65 years"	"65"	"Oesophagus, unspecified - Malignant neoplasms"	"C15.9"	22	100440	21.9
+	"Connecticut"	"09"	"65 years"	"65"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	20	100440	19.9
+	"Connecticut"	"09"	"65 years"	"65"	"Liver cell carcinoma - Malignant neoplasms"	"C22.0"	19	100440	Unreliable
+	"Connecticut"	"09"	"65 years"	"65"	"Intrahepatic bile duct carcinoma - Malignant neoplasms"	"C22.1"	11	100440	Unreliable
+	"Connecticut"	"09"	"65 years"	"65"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	42	100440	41.8
+	"Connecticut"	"09"	"65 years"	"65"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	107	100440	106.5
+	"Connecticut"	"09"	"65 years"	"65"	"Malignant neoplasm of prostate"	"C61"	17	100440	Unreliable
+	"Connecticut"	"09"	"65 years"	"65"	"Brain, unspecified - Malignant neoplasms"	"C71.9"	11	100440	Unreliable
+	"Connecticut"	"09"	"65 years"	"65"	"Malignant neoplasm without specification of site"	"C80"	22	100440	21.9
+	"Connecticut"	"09"	"65 years"	"65"	"Multiple myeloma - Malignant neoplasms"	"C90.0"	13	100440	Unreliable
+	"Connecticut"	"09"	"65 years"	"65"	"Unspecified diabetes mellitus, with renal complications"	"E14.2"	12	100440	Unreliable
+	"Connecticut"	"09"	"65 years"	"65"	"Unspecified diabetes mellitus, without complications"	"E14.9"	22	100440	21.9
+	"Connecticut"	"09"	"65 years"	"65"	"Essential (primary) hypertension"	"I10"	11	100440	Unreliable
+	"Connecticut"	"09"	"65 years"	"65"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	14	100440	Unreliable
+	"Connecticut"	"09"	"65 years"	"65"	"Acute myocardial infarction, unspecified"	"I21.9"	56	100440	55.8
+	"Connecticut"	"09"	"65 years"	"65"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	74	100440	73.7
+	"Connecticut"	"09"	"65 years"	"65"	"Atherosclerotic heart disease"	"I25.1"	64	100440	63.7
+	"Connecticut"	"09"	"65 years"	"65"	"Cardiac arrest, unspecified"	"I46.9"	27	100440	26.9
+	"Connecticut"	"09"	"65 years"	"65"	"Stroke, not specified as haemorrhage or infarction"	"I64"	21	100440	20.9
+	"Connecticut"	"09"	"65 years"	"65"	"Pneumonia, unspecified"	"J18.9"	12	100440	Unreliable
+	"Connecticut"	"09"	"65 years"	"65"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	34	100440	33.9
+	"Connecticut"	"09"	"65 years"	"65"	"Alcoholic cirrhosis of liver"	"K70.3"	12	100440	Unreliable
+	"Connecticut"	"09"	"65 years"	"65"	"Other and unspecified cirrhosis of liver"	"K74.6"	22	100440	21.9
+	"Connecticut"	"09"	"65 years"	"65"	"Chronic kidney disease, stage 5"	"N18.5"	15	100440	Unreliable
+	"Connecticut"	"09"	"65 years"	"65"	"COVID-19"	"U07.1"	39	100440	38.8
+	"Connecticut"	"09"	"65 years"	"65"	"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X42"	18	100440	Unreliable
+	"Connecticut"	"09"	"65 years"	"65"	"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X44"	14	100440	Unreliable
+	"Connecticut"	"09"	"65 years"	"65"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	10	100440	Unreliable
+	"Connecticut"	"09"	"66 years"	"66"	"Septicaemia, unspecified"	"A41.9"	22	94259	23.3
+	"Connecticut"	"09"	"66 years"	"66"	"Oesophagus, unspecified - Malignant neoplasms"	"C15.9"	27	94259	28.6
+	"Connecticut"	"09"	"66 years"	"66"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	18	94259	Unreliable
+	"Connecticut"	"09"	"66 years"	"66"	"Liver cell carcinoma - Malignant neoplasms"	"C22.0"	12	94259	Unreliable
+	"Connecticut"	"09"	"66 years"	"66"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	40	94259	42.4
+	"Connecticut"	"09"	"66 years"	"66"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	96	94259	101.8
+	"Connecticut"	"09"	"66 years"	"66"	"Malignant neoplasm of prostate"	"C61"	21	94259	22.3
+	"Connecticut"	"09"	"66 years"	"66"	"Malignant neoplasm of kidney, except renal pelvis"	"C64"	15	94259	Unreliable
+	"Connecticut"	"09"	"66 years"	"66"	"Bladder, unspecified - Malignant neoplasms"	"C67.9"	11	94259	Unreliable
+	"Connecticut"	"09"	"66 years"	"66"	"Brain, unspecified - Malignant neoplasms"	"C71.9"	21	94259	22.3
+	"Connecticut"	"09"	"66 years"	"66"	"Malignant neoplasm without specification of site"	"C80"	30	94259	31.8
+	"Connecticut"	"09"	"66 years"	"66"	"Multiple myeloma - Malignant neoplasms"	"C90.0"	10	94259	Unreliable
+	"Connecticut"	"09"	"66 years"	"66"	"Acute myeloid leukaemia - Malignant neoplasms"	"C92.0"	18	94259	Unreliable
+	"Connecticut"	"09"	"66 years"	"66"	"Unspecified diabetes mellitus, without complications"	"E14.9"	25	94259	26.5
+	"Connecticut"	"09"	"66 years"	"66"	"Motor neuron disease"	"G12.2"	12	94259	Unreliable
+	"Connecticut"	"09"	"66 years"	"66"	"Essential (primary) hypertension"	"I10"	13	94259	Unreliable
+	"Connecticut"	"09"	"66 years"	"66"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	15	94259	Unreliable
+	"Connecticut"	"09"	"66 years"	"66"	"Acute myocardial infarction, unspecified"	"I21.9"	48	94259	50.9
+	"Connecticut"	"09"	"66 years"	"66"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	95	94259	100.8
+	"Connecticut"	"09"	"66 years"	"66"	"Atherosclerotic heart disease"	"I25.1"	53	94259	56.2
+	"Connecticut"	"09"	"66 years"	"66"	"Cardiac arrest, unspecified"	"I46.9"	14	94259	Unreliable
+	"Connecticut"	"09"	"66 years"	"66"	"Congestive heart failure"	"I50.0"	15	94259	Unreliable
+	"Connecticut"	"09"	"66 years"	"66"	"Heart failure, unspecified"	"I50.9"	12	94259	Unreliable
+	"Connecticut"	"09"	"66 years"	"66"	"Stroke, not specified as haemorrhage or infarction"	"I64"	18	94259	Unreliable
+	"Connecticut"	"09"	"66 years"	"66"	"Pneumonia, unspecified"	"J18.9"	12	94259	Unreliable
+	"Connecticut"	"09"	"66 years"	"66"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	41	94259	43.5
+	"Connecticut"	"09"	"66 years"	"66"	"Alcoholic cirrhosis of liver"	"K70.3"	14	94259	Unreliable
+	"Connecticut"	"09"	"66 years"	"66"	"Other and unspecified cirrhosis of liver"	"K74.6"	10	94259	Unreliable
+	"Connecticut"	"09"	"66 years"	"66"	"Chronic kidney disease, stage 5"	"N18.5"	14	94259	Unreliable
+	"Connecticut"	"09"	"66 years"	"66"	"COVID-19"	"U07.1"	46	94259	48.8
+	"Connecticut"	"09"	"66 years"	"66"	"Unspecified fall"	"W19"	11	94259	Unreliable
+	"Connecticut"	"09"	"66 years"	"66"	"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X42"	12	94259	Unreliable
+	"Connecticut"	"09"	"66 years"	"66"	"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X44"	15	94259	Unreliable
+	"Connecticut"	"09"	"67 years"	"67"	"Septicaemia, unspecified"	"A41.9"	26	88998	29.2
+	"Connecticut"	"09"	"67 years"	"67"	"Oesophagus, unspecified - Malignant neoplasms"	"C15.9"	32	88998	36.0
+	"Connecticut"	"09"	"67 years"	"67"	"Stomach, unspecified - Malignant neoplasms"	"C16.9"	15	88998	Unreliable
+	"Connecticut"	"09"	"67 years"	"67"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	22	88998	24.7
+	"Connecticut"	"09"	"67 years"	"67"	"Liver cell carcinoma - Malignant neoplasms"	"C22.0"	12	88998	Unreliable
+	"Connecticut"	"09"	"67 years"	"67"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	31	88998	34.8
+	"Connecticut"	"09"	"67 years"	"67"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	94	88998	105.6
+	"Connecticut"	"09"	"67 years"	"67"	"Malignant neoplasm of prostate"	"C61"	27	88998	30.3
+	"Connecticut"	"09"	"67 years"	"67"	"Malignant neoplasm of kidney, except renal pelvis"	"C64"	12	88998	Unreliable
+	"Connecticut"	"09"	"67 years"	"67"	"Brain, unspecified - Malignant neoplasms"	"C71.9"	12	88998	Unreliable
+	"Connecticut"	"09"	"67 years"	"67"	"Malignant neoplasm without specification of site"	"C80"	23	88998	25.8
+	"Connecticut"	"09"	"67 years"	"67"	"Acute myeloid leukaemia - Malignant neoplasms"	"C92.0"	15	88998	Unreliable
+	"Connecticut"	"09"	"67 years"	"67"	"Unspecified diabetes mellitus, with renal complications"	"E14.2"	11	88998	Unreliable
+	"Connecticut"	"09"	"67 years"	"67"	"Unspecified diabetes mellitus, without complications"	"E14.9"	24	88998	27.0
+	"Connecticut"	"09"	"67 years"	"67"	"Unspecified dementia"	"F03"	16	88998	Unreliable
+	"Connecticut"	"09"	"67 years"	"67"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	17	88998	Unreliable
+	"Connecticut"	"09"	"67 years"	"67"	"Acute myocardial infarction, unspecified"	"I21.9"	40	88998	44.9
+	"Connecticut"	"09"	"67 years"	"67"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	90	88998	101.1
+	"Connecticut"	"09"	"67 years"	"67"	"Atherosclerotic heart disease"	"I25.1"	76	88998	85.4
+	"Connecticut"	"09"	"67 years"	"67"	"Cardiac arrest, unspecified"	"I46.9"	25	88998	28.1
+	"Connecticut"	"09"	"67 years"	"67"	"Congestive heart failure"	"I50.0"	18	88998	Unreliable
+	"Connecticut"	"09"	"67 years"	"67"	"Stroke, not specified as haemorrhage or infarction"	"I64"	13	88998	Unreliable
+	"Connecticut"	"09"	"67 years"	"67"	"Pneumonia, unspecified"	"J18.9"	16	88998	Unreliable
+	"Connecticut"	"09"	"67 years"	"67"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	39	88998	43.8
+	"Connecticut"	"09"	"67 years"	"67"	"Pneumonitis due to food and vomit"	"J69.0"	13	88998	Unreliable
+	"Connecticut"	"09"	"67 years"	"67"	"Alcoholic cirrhosis of liver"	"K70.3"	14	88998	Unreliable
+	"Connecticut"	"09"	"67 years"	"67"	"Other and unspecified cirrhosis of liver"	"K74.6"	26	88998	29.2
+	"Connecticut"	"09"	"67 years"	"67"	"COVID-19"	"U07.1"	54	88998	60.7
+	"Connecticut"	"09"	"67 years"	"67"	"Unspecified fall"	"W19"	10	88998	Unreliable
+	"Connecticut"	"09"	"67 years"	"67"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	10	88998	Unreliable
+	"Connecticut"	"09"	"68 years"	"68"	"Septicaemia, unspecified"	"A41.9"	26	85220	30.5
+	"Connecticut"	"09"	"68 years"	"68"	"Oesophagus, unspecified - Malignant neoplasms"	"C15.9"	25	85220	29.3
+	"Connecticut"	"09"	"68 years"	"68"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	18	85220	Unreliable
+	"Connecticut"	"09"	"68 years"	"68"	"Liver cell carcinoma - Malignant neoplasms"	"C22.0"	15	85220	Unreliable
+	"Connecticut"	"09"	"68 years"	"68"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	49	85220	57.5
+	"Connecticut"	"09"	"68 years"	"68"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	123	85220	144.3
+	"Connecticut"	"09"	"68 years"	"68"	"Malignant neoplasm of prostate"	"C61"	37	85220	43.4
+	"Connecticut"	"09"	"68 years"	"68"	"Malignant neoplasm of kidney, except renal pelvis"	"C64"	13	85220	Unreliable
+	"Connecticut"	"09"	"68 years"	"68"	"Bladder, unspecified - Malignant neoplasms"	"C67.9"	16	85220	Unreliable
+	"Connecticut"	"09"	"68 years"	"68"	"Brain, unspecified - Malignant neoplasms"	"C71.9"	13	85220	Unreliable
+	"Connecticut"	"09"	"68 years"	"68"	"Malignant neoplasm without specification of site"	"C80"	19	85220	Unreliable
+	"Connecticut"	"09"	"68 years"	"68"	"Non-insulin-dependent diabetes mellitus, without complications"	"E11.9"	13	85220	Unreliable
+	"Connecticut"	"09"	"68 years"	"68"	"Unspecified diabetes mellitus, without complications"	"E14.9"	25	85220	29.3
+	"Connecticut"	"09"	"68 years"	"68"	"Unspecified dementia"	"F03"	10	85220	Unreliable
+	"Connecticut"	"09"	"68 years"	"68"	"Mental and behavioural disorders due to use of alcohol, dependence syndrome"	"F10.2"	13	85220	Unreliable
+	"Connecticut"	"09"	"68 years"	"68"	"Parkinson disease"	"G20"	10	85220	Unreliable
+	"Connecticut"	"09"	"68 years"	"68"	"Essential (primary) hypertension"	"I10"	12	85220	Unreliable
+	"Connecticut"	"09"	"68 years"	"68"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	17	85220	Unreliable
+	"Connecticut"	"09"	"68 years"	"68"	"Acute myocardial infarction, unspecified"	"I21.9"	52	85220	61.0
+	"Connecticut"	"09"	"68 years"	"68"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	84	85220	98.6
+	"Connecticut"	"09"	"68 years"	"68"	"Atherosclerotic heart disease"	"I25.1"	65	85220	76.3
+	"Connecticut"	"09"	"68 years"	"68"	"Cardiomyopathy, unspecified"	"I42.9"	14	85220	Unreliable
+	"Connecticut"	"09"	"68 years"	"68"	"Cardiac arrest, unspecified"	"I46.9"	19	85220	Unreliable
+	"Connecticut"	"09"	"68 years"	"68"	"Atrial fibrillation and flutter"	"I48"	10	85220	Unreliable
+	"Connecticut"	"09"	"68 years"	"68"	"Stroke, not specified as haemorrhage or infarction"	"I64"	18	85220	Unreliable
+	"Connecticut"	"09"	"68 years"	"68"	"Pneumonia, unspecified"	"J18.9"	16	85220	Unreliable
+	"Connecticut"	"09"	"68 years"	"68"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	14	85220	Unreliable
+	"Connecticut"	"09"	"68 years"	"68"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	38	85220	44.6
+	"Connecticut"	"09"	"68 years"	"68"	"Pneumonitis due to food and vomit"	"J69.0"	19	85220	Unreliable
+	"Connecticut"	"09"	"68 years"	"68"	"Alcoholic cirrhosis of liver"	"K70.3"	10	85220	Unreliable
+	"Connecticut"	"09"	"68 years"	"68"	"Other and unspecified cirrhosis of liver"	"K74.6"	14	85220	Unreliable
+	"Connecticut"	"09"	"68 years"	"68"	"Chronic kidney disease, stage 5"	"N18.5"	16	85220	Unreliable
+	"Connecticut"	"09"	"68 years"	"68"	"COVID-19"	"U07.1"	66	85220	77.4
+	"Connecticut"	"09"	"68 years"	"68"	"Unspecified fall"	"W19"	12	85220	Unreliable
+	"Connecticut"	"09"	"68 years"	"68"	"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X42"	11	85220	Unreliable
+	"Connecticut"	"09"	"69 years"	"69"	"Septicaemia, unspecified"	"A41.9"	36	84001	42.9
+	"Connecticut"	"09"	"69 years"	"69"	"Oesophagus, unspecified - Malignant neoplasms"	"C15.9"	30	84001	35.7
+	"Connecticut"	"09"	"69 years"	"69"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	26	84001	31.0
+	"Connecticut"	"09"	"69 years"	"69"	"Liver cell carcinoma - Malignant neoplasms"	"C22.0"	17	84001	Unreliable
+	"Connecticut"	"09"	"69 years"	"69"	"Intrahepatic bile duct carcinoma - Malignant neoplasms"	"C22.1"	15	84001	Unreliable
+	"Connecticut"	"09"	"69 years"	"69"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	49	84001	58.3
+	"Connecticut"	"09"	"69 years"	"69"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	113	84001	134.5
+	"Connecticut"	"09"	"69 years"	"69"	"Malignant neoplasm of prostate"	"C61"	31	84001	36.9
+	"Connecticut"	"09"	"69 years"	"69"	"Malignant neoplasm of kidney, except renal pelvis"	"C64"	15	84001	Unreliable
+	"Connecticut"	"09"	"69 years"	"69"	"Bladder, unspecified - Malignant neoplasms"	"C67.9"	18	84001	Unreliable
+	"Connecticut"	"09"	"69 years"	"69"	"Brain, unspecified - Malignant neoplasms"	"C71.9"	13	84001	Unreliable
+	"Connecticut"	"09"	"69 years"	"69"	"Malignant neoplasm without specification of site"	"C80"	23	84001	27.4
+	"Connecticut"	"09"	"69 years"	"69"	"Multiple myeloma - Malignant neoplasms"	"C90.0"	19	84001	Unreliable
+	"Connecticut"	"09"	"69 years"	"69"	"Acute myeloid leukaemia - Malignant neoplasms"	"C92.0"	10	84001	Unreliable
+	"Connecticut"	"09"	"69 years"	"69"	"Unspecified diabetes mellitus, without complications"	"E14.9"	19	84001	Unreliable
+	"Connecticut"	"09"	"69 years"	"69"	"Unspecified dementia"	"F03"	20	84001	23.8
+	"Connecticut"	"09"	"69 years"	"69"	"Parkinson disease"	"G20"	17	84001	Unreliable
+	"Connecticut"	"09"	"69 years"	"69"	"Essential (primary) hypertension"	"I10"	11	84001	Unreliable
+	"Connecticut"	"09"	"69 years"	"69"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	14	84001	Unreliable
+	"Connecticut"	"09"	"69 years"	"69"	"Acute myocardial infarction, unspecified"	"I21.9"	40	84001	47.6
+	"Connecticut"	"09"	"69 years"	"69"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	73	84001	86.9
+	"Connecticut"	"09"	"69 years"	"69"	"Atherosclerotic heart disease"	"I25.1"	62	84001	73.8
+	"Connecticut"	"09"	"69 years"	"69"	"Cardiac arrest, unspecified"	"I46.9"	22	84001	26.2
+	"Connecticut"	"09"	"69 years"	"69"	"Atrial fibrillation and flutter"	"I48"	11	84001	Unreliable
+	"Connecticut"	"09"	"69 years"	"69"	"Congestive heart failure"	"I50.0"	12	84001	Unreliable
+	"Connecticut"	"09"	"69 years"	"69"	"Stroke, not specified as haemorrhage or infarction"	"I64"	15	84001	Unreliable
+	"Connecticut"	"09"	"69 years"	"69"	"Pneumonia, unspecified"	"J18.9"	15	84001	Unreliable
+	"Connecticut"	"09"	"69 years"	"69"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	42	84001	50.0
+	"Connecticut"	"09"	"69 years"	"69"	"Pneumonitis due to food and vomit"	"J69.0"	16	84001	Unreliable
+	"Connecticut"	"09"	"69 years"	"69"	"Alcoholic cirrhosis of liver"	"K70.3"	17	84001	Unreliable
+	"Connecticut"	"09"	"69 years"	"69"	"Other and unspecified cirrhosis of liver"	"K74.6"	25	84001	29.8
+	"Connecticut"	"09"	"69 years"	"69"	"Chronic kidney disease, stage 5"	"N18.5"	10	84001	Unreliable
+	"Connecticut"	"09"	"69 years"	"69"	"COVID-19"	"U07.1"	59	84001	70.2
+	"Connecticut"	"09"	"70 years"	"70"	"Septicaemia, unspecified"	"A41.9"	20	78797	25.4
+	"Connecticut"	"09"	"70 years"	"70"	"Oesophagus, unspecified - Malignant neoplasms"	"C15.9"	21	78797	26.7
+	"Connecticut"	"09"	"70 years"	"70"	"Stomach, unspecified - Malignant neoplasms"	"C16.9"	10	78797	Unreliable
+	"Connecticut"	"09"	"70 years"	"70"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	22	78797	27.9
+	"Connecticut"	"09"	"70 years"	"70"	"Liver cell carcinoma - Malignant neoplasms"	"C22.0"	23	78797	29.2
+	"Connecticut"	"09"	"70 years"	"70"	"Intrahepatic bile duct carcinoma - Malignant neoplasms"	"C22.1"	10	78797	Unreliable
+	"Connecticut"	"09"	"70 years"	"70"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	45	78797	57.1
+	"Connecticut"	"09"	"70 years"	"70"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	118	78797	149.8
+	"Connecticut"	"09"	"70 years"	"70"	"Malignant neoplasm of prostate"	"C61"	48	78797	60.9
+	"Connecticut"	"09"	"70 years"	"70"	"Brain, unspecified - Malignant neoplasms"	"C71.9"	16	78797	Unreliable
+	"Connecticut"	"09"	"70 years"	"70"	"Malignant neoplasm without specification of site"	"C80"	23	78797	29.2
+	"Connecticut"	"09"	"70 years"	"70"	"Multiple myeloma - Malignant neoplasms"	"C90.0"	11	78797	Unreliable
+	"Connecticut"	"09"	"70 years"	"70"	"Acute myeloid leukaemia - Malignant neoplasms"	"C92.0"	12	78797	Unreliable
+	"Connecticut"	"09"	"70 years"	"70"	"Unspecified diabetes mellitus, without complications"	"E14.9"	19	78797	Unreliable
+	"Connecticut"	"09"	"70 years"	"70"	"Unspecified dementia"	"F03"	26	78797	33.0
+	"Connecticut"	"09"	"70 years"	"70"	"Parkinson disease"	"G20"	19	78797	Unreliable
+	"Connecticut"	"09"	"70 years"	"70"	"Essential (primary) hypertension"	"I10"	12	78797	Unreliable
+	"Connecticut"	"09"	"70 years"	"70"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	10	78797	Unreliable
+	"Connecticut"	"09"	"70 years"	"70"	"Acute myocardial infarction, unspecified"	"I21.9"	37	78797	47.0
+	"Connecticut"	"09"	"70 years"	"70"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	72	78797	91.4
+	"Connecticut"	"09"	"70 years"	"70"	"Atherosclerotic heart disease"	"I25.1"	73	78797	92.6
+	"Connecticut"	"09"	"70 years"	"70"	"Cardiomyopathy, unspecified"	"I42.9"	10	78797	Unreliable
+	"Connecticut"	"09"	"70 years"	"70"	"Cardiac arrest, unspecified"	"I46.9"	21	78797	26.7
+	"Connecticut"	"09"	"70 years"	"70"	"Congestive heart failure"	"I50.0"	17	78797	Unreliable
+	"Connecticut"	"09"	"70 years"	"70"	"Stroke, not specified as haemorrhage or infarction"	"I64"	22	78797	27.9
+	"Connecticut"	"09"	"70 years"	"70"	"Pneumonia, unspecified"	"J18.9"	28	78797	35.5
+	"Connecticut"	"09"	"70 years"	"70"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	13	78797	Unreliable
+	"Connecticut"	"09"	"70 years"	"70"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	52	78797	66.0
+	"Connecticut"	"09"	"70 years"	"70"	"Pneumonitis due to food and vomit"	"J69.0"	14	78797	Unreliable
+	"Connecticut"	"09"	"70 years"	"70"	"Alcoholic cirrhosis of liver"	"K70.3"	11	78797	Unreliable
+	"Connecticut"	"09"	"70 years"	"70"	"Other and unspecified cirrhosis of liver"	"K74.6"	20	78797	25.4
+	"Connecticut"	"09"	"70 years"	"70"	"Chronic kidney disease, stage 5"	"N18.5"	12	78797	Unreliable
+	"Connecticut"	"09"	"70 years"	"70"	"COVID-19"	"U07.1"	63	78797	80.0
+	"Connecticut"	"09"	"70 years"	"70"	"Unspecified fall"	"W19"	15	78797	Unreliable
+	"Connecticut"	"09"	"71 years"	"71"	"Septicaemia, unspecified"	"A41.9"	38	73887	51.4
+	"Connecticut"	"09"	"71 years"	"71"	"Oesophagus, unspecified - Malignant neoplasms"	"C15.9"	25	73887	33.8
+	"Connecticut"	"09"	"71 years"	"71"	"Stomach, unspecified - Malignant neoplasms"	"C16.9"	11	73887	Unreliable
+	"Connecticut"	"09"	"71 years"	"71"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	25	73887	33.8
+	"Connecticut"	"09"	"71 years"	"71"	"Liver cell carcinoma - Malignant neoplasms"	"C22.0"	13	73887	Unreliable
+	"Connecticut"	"09"	"71 years"	"71"	"Intrahepatic bile duct carcinoma - Malignant neoplasms"	"C22.1"	15	73887	Unreliable
+	"Connecticut"	"09"	"71 years"	"71"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	37	73887	50.1
+	"Connecticut"	"09"	"71 years"	"71"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	128	73887	173.2
+	"Connecticut"	"09"	"71 years"	"71"	"Malignant neoplasm of prostate"	"C61"	47	73887	63.6
+	"Connecticut"	"09"	"71 years"	"71"	"Malignant neoplasm of kidney, except renal pelvis"	"C64"	12	73887	Unreliable
+	"Connecticut"	"09"	"71 years"	"71"	"Bladder, unspecified - Malignant neoplasms"	"C67.9"	18	73887	Unreliable
+	"Connecticut"	"09"	"71 years"	"71"	"Brain, unspecified - Malignant neoplasms"	"C71.9"	14	73887	Unreliable
+	"Connecticut"	"09"	"71 years"	"71"	"Malignant neoplasm without specification of site"	"C80"	24	73887	32.5
+	"Connecticut"	"09"	"71 years"	"71"	"Non-Hodgkin lymphoma, unspecified type"	"C85.9"	10	73887	Unreliable
+	"Connecticut"	"09"	"71 years"	"71"	"Unspecified diabetes mellitus, without complications"	"E14.9"	29	73887	39.2
+	"Connecticut"	"09"	"71 years"	"71"	"Unspecified dementia"	"F03"	19	73887	Unreliable
+	"Connecticut"	"09"	"71 years"	"71"	"Motor neuron disease"	"G12.2"	10	73887	Unreliable
+	"Connecticut"	"09"	"71 years"	"71"	"Parkinson disease"	"G20"	18	73887	Unreliable
+	"Connecticut"	"09"	"71 years"	"71"	"Alzheimer disease, unspecified"	"G30.9"	16	73887	Unreliable
+	"Connecticut"	"09"	"71 years"	"71"	"Essential (primary) hypertension"	"I10"	10	73887	Unreliable
+	"Connecticut"	"09"	"71 years"	"71"	"Acute myocardial infarction, unspecified"	"I21.9"	48	73887	65.0
+	"Connecticut"	"09"	"71 years"	"71"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	70	73887	94.7
+	"Connecticut"	"09"	"71 years"	"71"	"Atherosclerotic heart disease"	"I25.1"	75	73887	101.5
+	"Connecticut"	"09"	"71 years"	"71"	"Cardiomyopathy, unspecified"	"I42.9"	13	73887	Unreliable
+	"Connecticut"	"09"	"71 years"	"71"	"Cardiac arrest, unspecified"	"I46.9"	25	73887	33.8
+	"Connecticut"	"09"	"71 years"	"71"	"Atrial fibrillation and flutter"	"I48"	15	73887	Unreliable
+	"Connecticut"	"09"	"71 years"	"71"	"Congestive heart failure"	"I50.0"	23	73887	31.1
+	"Connecticut"	"09"	"71 years"	"71"	"Stroke, not specified as haemorrhage or infarction"	"I64"	14	73887	Unreliable
+	"Connecticut"	"09"	"71 years"	"71"	"Pneumonia, unspecified"	"J18.9"	13	73887	Unreliable
+	"Connecticut"	"09"	"71 years"	"71"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	44	73887	59.6
+	"Connecticut"	"09"	"71 years"	"71"	"Pneumonitis due to food and vomit"	"J69.0"	17	73887	Unreliable
+	"Connecticut"	"09"	"71 years"	"71"	"Other interstitial pulmonary diseases with fibrosis"	"J84.1"	15	73887	Unreliable
+	"Connecticut"	"09"	"71 years"	"71"	"Other and unspecified cirrhosis of liver"	"K74.6"	18	73887	Unreliable
+	"Connecticut"	"09"	"71 years"	"71"	"Chronic kidney disease, stage 5"	"N18.5"	14	73887	Unreliable
+	"Connecticut"	"09"	"71 years"	"71"	"COVID-19"	"U07.1"	60	73887	81.2
+	"Connecticut"	"09"	"71 years"	"71"	"Unspecified fall"	"W19"	12	73887	Unreliable
+	"Connecticut"	"09"	"72 years"	"72"	"Septicaemia, unspecified"	"A41.9"	31	69565	44.6
+	"Connecticut"	"09"	"72 years"	"72"	"Oesophagus, unspecified - Malignant neoplasms"	"C15.9"	23	69565	33.1
+	"Connecticut"	"09"	"72 years"	"72"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	26	69565	37.4
+	"Connecticut"	"09"	"72 years"	"72"	"Malignant neoplasm of rectum"	"C20"	10	69565	Unreliable
+	"Connecticut"	"09"	"72 years"	"72"	"Liver cell carcinoma - Malignant neoplasms"	"C22.0"	17	69565	Unreliable
+	"Connecticut"	"09"	"72 years"	"72"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	39	69565	56.1
+	"Connecticut"	"09"	"72 years"	"72"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	145	69565	208.4
+	"Connecticut"	"09"	"72 years"	"72"	"Malignant melanoma of skin, unspecified - Malignant neoplasms"	"C43.9"	10	69565	Unreliable
+	"Connecticut"	"09"	"72 years"	"72"	"Malignant neoplasm of prostate"	"C61"	48	69565	69.0
+	"Connecticut"	"09"	"72 years"	"72"	"Malignant neoplasm of kidney, except renal pelvis"	"C64"	11	69565	Unreliable
+	"Connecticut"	"09"	"72 years"	"72"	"Bladder, unspecified - Malignant neoplasms"	"C67.9"	18	69565	Unreliable
+	"Connecticut"	"09"	"72 years"	"72"	"Brain, unspecified - Malignant neoplasms"	"C71.9"	16	69565	Unreliable
+	"Connecticut"	"09"	"72 years"	"72"	"Malignant neoplasm without specification of site"	"C80"	26	69565	37.4
+	"Connecticut"	"09"	"72 years"	"72"	"Unspecified diabetes mellitus, with renal complications"	"E14.2"	12	69565	Unreliable
+	"Connecticut"	"09"	"72 years"	"72"	"Unspecified diabetes mellitus, without complications"	"E14.9"	21	69565	30.2
+	"Connecticut"	"09"	"72 years"	"72"	"Unspecified dementia"	"F03"	34	69565	48.9
+	"Connecticut"	"09"	"72 years"	"72"	"Motor neuron disease"	"G12.2"	10	69565	Unreliable
+	"Connecticut"	"09"	"72 years"	"72"	"Parkinson disease"	"G20"	20	69565	28.8
+	"Connecticut"	"09"	"72 years"	"72"	"Alzheimer disease, unspecified"	"G30.9"	12	69565	Unreliable
+	"Connecticut"	"09"	"72 years"	"72"	"Essential (primary) hypertension"	"I10"	11	69565	Unreliable
+	"Connecticut"	"09"	"72 years"	"72"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	10	69565	Unreliable
+	"Connecticut"	"09"	"72 years"	"72"	"Acute myocardial infarction, unspecified"	"I21.9"	54	69565	77.6
+	"Connecticut"	"09"	"72 years"	"72"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	69	69565	99.2
+	"Connecticut"	"09"	"72 years"	"72"	"Atherosclerotic heart disease"	"I25.1"	89	69565	127.9
+	"Connecticut"	"09"	"72 years"	"72"	"Cardiomyopathy, unspecified"	"I42.9"	11	69565	Unreliable
+	"Connecticut"	"09"	"72 years"	"72"	"Cardiac arrest, unspecified"	"I46.9"	28	69565	40.3
+	"Connecticut"	"09"	"72 years"	"72"	"Atrial fibrillation and flutter"	"I48"	10	69565	Unreliable
+	"Connecticut"	"09"	"72 years"	"72"	"Congestive heart failure"	"I50.0"	23	69565	33.1
+	"Connecticut"	"09"	"72 years"	"72"	"Heart failure, unspecified"	"I50.9"	14	69565	Unreliable
+	"Connecticut"	"09"	"72 years"	"72"	"Intracranial haemorrhage (nontraumatic), unspecified"	"I62.9"	11	69565	Unreliable
+	"Connecticut"	"09"	"72 years"	"72"	"Stroke, not specified as haemorrhage or infarction"	"I64"	16	69565	Unreliable
+	"Connecticut"	"09"	"72 years"	"72"	"Pneumonia, unspecified"	"J18.9"	26	69565	37.4
+	"Connecticut"	"09"	"72 years"	"72"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	75	69565	107.8
+	"Connecticut"	"09"	"72 years"	"72"	"Pneumonitis due to food and vomit"	"J69.0"	10	69565	Unreliable
+	"Connecticut"	"09"	"72 years"	"72"	"Other interstitial pulmonary diseases with fibrosis"	"J84.1"	11	69565	Unreliable
+	"Connecticut"	"09"	"72 years"	"72"	"Alcoholic cirrhosis of liver"	"K70.3"	13	69565	Unreliable
+	"Connecticut"	"09"	"72 years"	"72"	"Other and unspecified cirrhosis of liver"	"K74.6"	11	69565	Unreliable
+	"Connecticut"	"09"	"72 years"	"72"	"Chronic kidney disease, stage 5"	"N18.5"	18	69565	Unreliable
+	"Connecticut"	"09"	"72 years"	"72"	"COVID-19"	"U07.1"	61	69565	87.7
+	"Connecticut"	"09"	"72 years"	"72"	"Unspecified fall"	"W19"	14	69565	Unreliable
+	"Connecticut"	"09"	"72 years"	"72"	"Inhalation and ingestion of other objects causing obstruction of respiratory tract"	"W80"	10	69565	Unreliable
+	"Connecticut"	"09"	"73 years"	"73"	"Septicaemia, unspecified"	"A41.9"	50	66110	75.6
+	"Connecticut"	"09"	"73 years"	"73"	"Oesophagus, unspecified - Malignant neoplasms"	"C15.9"	26	66110	39.3
+	"Connecticut"	"09"	"73 years"	"73"	"Stomach, unspecified - Malignant neoplasms"	"C16.9"	10	66110	Unreliable
+	"Connecticut"	"09"	"73 years"	"73"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	20	66110	30.3
+	"Connecticut"	"09"	"73 years"	"73"	"Liver cell carcinoma - Malignant neoplasms"	"C22.0"	15	66110	Unreliable
+	"Connecticut"	"09"	"73 years"	"73"	"Intrahepatic bile duct carcinoma - Malignant neoplasms"	"C22.1"	11	66110	Unreliable
+	"Connecticut"	"09"	"73 years"	"73"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	46	66110	69.6
+	"Connecticut"	"09"	"73 years"	"73"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	122	66110	184.5
+	"Connecticut"	"09"	"73 years"	"73"	"Malignant neoplasm of prostate"	"C61"	42	66110	63.5
+	"Connecticut"	"09"	"73 years"	"73"	"Malignant neoplasm of kidney, except renal pelvis"	"C64"	19	66110	Unreliable
+	"Connecticut"	"09"	"73 years"	"73"	"Bladder, unspecified - Malignant neoplasms"	"C67.9"	16	66110	Unreliable
+	"Connecticut"	"09"	"73 years"	"73"	"Brain, unspecified - Malignant neoplasms"	"C71.9"	13	66110	Unreliable
+	"Connecticut"	"09"	"73 years"	"73"	"Malignant neoplasm without specification of site"	"C80"	25	66110	37.8
+	"Connecticut"	"09"	"73 years"	"73"	"Multiple myeloma - Malignant neoplasms"	"C90.0"	13	66110	Unreliable
+	"Connecticut"	"09"	"73 years"	"73"	"Acute myeloid leukaemia - Malignant neoplasms"	"C92.0"	17	66110	Unreliable
+	"Connecticut"	"09"	"73 years"	"73"	"Unspecified diabetes mellitus, without complications"	"E14.9"	21	66110	31.8
+	"Connecticut"	"09"	"73 years"	"73"	"Unspecified dementia"	"F03"	35	66110	52.9
+	"Connecticut"	"09"	"73 years"	"73"	"Parkinson disease"	"G20"	27	66110	40.8
+	"Connecticut"	"09"	"73 years"	"73"	"Alzheimer disease, unspecified"	"G30.9"	21	66110	31.8
+	"Connecticut"	"09"	"73 years"	"73"	"Essential (primary) hypertension"	"I10"	16	66110	Unreliable
+	"Connecticut"	"09"	"73 years"	"73"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	13	66110	Unreliable
+	"Connecticut"	"09"	"73 years"	"73"	"Acute subendocardial myocardial infarction"	"I21.4"	10	66110	Unreliable
+	"Connecticut"	"09"	"73 years"	"73"	"Acute myocardial infarction, unspecified"	"I21.9"	48	66110	72.6
+	"Connecticut"	"09"	"73 years"	"73"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	48	66110	72.6
+	"Connecticut"	"09"	"73 years"	"73"	"Atherosclerotic heart disease"	"I25.1"	119	66110	180.0
+	"Connecticut"	"09"	"73 years"	"73"	"Ischaemic cardiomyopathy"	"I25.5"	10	66110	Unreliable
+	"Connecticut"	"09"	"73 years"	"73"	"Cardiomyopathy, unspecified"	"I42.9"	13	66110	Unreliable
+	"Connecticut"	"09"	"73 years"	"73"	"Cardiac arrest, unspecified"	"I46.9"	23	66110	34.8
+	"Connecticut"	"09"	"73 years"	"73"	"Congestive heart failure"	"I50.0"	15	66110	Unreliable
+	"Connecticut"	"09"	"73 years"	"73"	"Heart failure, unspecified"	"I50.9"	18	66110	Unreliable
+	"Connecticut"	"09"	"73 years"	"73"	"Stroke, not specified as haemorrhage or infarction"	"I64"	26	66110	39.3
+	"Connecticut"	"09"	"73 years"	"73"	"Pneumonia, unspecified"	"J18.9"	26	66110	39.3
+	"Connecticut"	"09"	"73 years"	"73"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	16	66110	Unreliable
+	"Connecticut"	"09"	"73 years"	"73"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	63	66110	95.3
+	"Connecticut"	"09"	"73 years"	"73"	"Pneumonitis due to food and vomit"	"J69.0"	10	66110	Unreliable
+	"Connecticut"	"09"	"73 years"	"73"	"Alcoholic cirrhosis of liver"	"K70.3"	12	66110	Unreliable
+	"Connecticut"	"09"	"73 years"	"73"	"Other and unspecified cirrhosis of liver"	"K74.6"	15	66110	Unreliable
+	"Connecticut"	"09"	"73 years"	"73"	"Chronic kidney disease, stage 5"	"N18.5"	16	66110	Unreliable
+	"Connecticut"	"09"	"73 years"	"73"	"COVID-19"	"U07.1"	79	66110	119.5
+	"Connecticut"	"09"	"73 years"	"73"	"Unspecified fall"	"W19"	13	66110	Unreliable
+	"Connecticut"	"09"	"74 years"	"74"	"Septicaemia, unspecified"	"A41.9"	30	59437	50.5
+	"Connecticut"	"09"	"74 years"	"74"	"Oesophagus, unspecified - Malignant neoplasms"	"C15.9"	13	59437	Unreliable
+	"Connecticut"	"09"	"74 years"	"74"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	27	59437	45.4
+	"Connecticut"	"09"	"74 years"	"74"	"Liver cell carcinoma - Malignant neoplasms"	"C22.0"	10	59437	Unreliable
+	"Connecticut"	"09"	"74 years"	"74"	"Intrahepatic bile duct carcinoma - Malignant neoplasms"	"C22.1"	10	59437	Unreliable
+	"Connecticut"	"09"	"74 years"	"74"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	37	59437	62.3
+	"Connecticut"	"09"	"74 years"	"74"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	125	59437	210.3
+	"Connecticut"	"09"	"74 years"	"74"	"Malignant neoplasm of prostate"	"C61"	66	59437	111.0
+	"Connecticut"	"09"	"74 years"	"74"	"Malignant neoplasm of kidney, except renal pelvis"	"C64"	12	59437	Unreliable
+	"Connecticut"	"09"	"74 years"	"74"	"Bladder, unspecified - Malignant neoplasms"	"C67.9"	26	59437	43.7
+	"Connecticut"	"09"	"74 years"	"74"	"Brain, unspecified - Malignant neoplasms"	"C71.9"	18	59437	Unreliable
+	"Connecticut"	"09"	"74 years"	"74"	"Malignant neoplasm without specification of site"	"C80"	19	59437	Unreliable
+	"Connecticut"	"09"	"74 years"	"74"	"Multiple myeloma - Malignant neoplasms"	"C90.0"	10	59437	Unreliable
+	"Connecticut"	"09"	"74 years"	"74"	"Acute myeloid leukaemia - Malignant neoplasms"	"C92.0"	11	59437	Unreliable
+	"Connecticut"	"09"	"74 years"	"74"	"Non-insulin-dependent diabetes mellitus, without complications"	"E11.9"	10	59437	Unreliable
+	"Connecticut"	"09"	"74 years"	"74"	"Unspecified diabetes mellitus, with renal complications"	"E14.2"	12	59437	Unreliable
+	"Connecticut"	"09"	"74 years"	"74"	"Unspecified diabetes mellitus, without complications"	"E14.9"	16	59437	Unreliable
+	"Connecticut"	"09"	"74 years"	"74"	"Unspecified dementia"	"F03"	47	59437	79.1
+	"Connecticut"	"09"	"74 years"	"74"	"Parkinson disease"	"G20"	28	59437	47.1
+	"Connecticut"	"09"	"74 years"	"74"	"Alzheimer disease, unspecified"	"G30.9"	23	59437	38.7
+	"Connecticut"	"09"	"74 years"	"74"	"Essential (primary) hypertension"	"I10"	11	59437	Unreliable
+	"Connecticut"	"09"	"74 years"	"74"	"Acute myocardial infarction, unspecified"	"I21.9"	45	59437	75.7
+	"Connecticut"	"09"	"74 years"	"74"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	65	59437	109.4
+	"Connecticut"	"09"	"74 years"	"74"	"Atherosclerotic heart disease"	"I25.1"	99	59437	166.6
+	"Connecticut"	"09"	"74 years"	"74"	"Ischaemic cardiomyopathy"	"I25.5"	10	59437	Unreliable
+	"Connecticut"	"09"	"74 years"	"74"	"Cardiac arrest, unspecified"	"I46.9"	23	59437	38.7
+	"Connecticut"	"09"	"74 years"	"74"	"Atrial fibrillation and flutter"	"I48"	17	59437	Unreliable
+	"Connecticut"	"09"	"74 years"	"74"	"Congestive heart failure"	"I50.0"	21	59437	35.3
+	"Connecticut"	"09"	"74 years"	"74"	"Heart failure, unspecified"	"I50.9"	10	59437	Unreliable
+	"Connecticut"	"09"	"74 years"	"74"	"Intracranial haemorrhage (nontraumatic), unspecified"	"I62.9"	10	59437	Unreliable
+	"Connecticut"	"09"	"74 years"	"74"	"Stroke, not specified as haemorrhage or infarction"	"I64"	26	59437	43.7
+	"Connecticut"	"09"	"74 years"	"74"	"Pneumonia, unspecified"	"J18.9"	20	59437	33.6
+	"Connecticut"	"09"	"74 years"	"74"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	60	59437	100.9
+	"Connecticut"	"09"	"74 years"	"74"	"Pneumonitis due to food and vomit"	"J69.0"	16	59437	Unreliable
+	"Connecticut"	"09"	"74 years"	"74"	"Other and unspecified cirrhosis of liver"	"K74.6"	11	59437	Unreliable
+	"Connecticut"	"09"	"74 years"	"74"	"Chronic kidney disease, stage 5"	"N18.5"	14	59437	Unreliable
+	"Connecticut"	"09"	"74 years"	"74"	"COVID-19"	"U07.1"	86	59437	144.7
+	"Connecticut"	"09"	"74 years"	"74"	"Unspecified fall"	"W19"	14	59437	Unreliable
+	"Connecticut"	"09"	"75 years"	"75"	"Septicaemia, unspecified"	"A41.9"	28	55651	50.3
+	"Connecticut"	"09"	"75 years"	"75"	"Oesophagus, unspecified - Malignant neoplasms"	"C15.9"	16	55651	Unreliable
+	"Connecticut"	"09"	"75 years"	"75"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	24	55651	43.1
+	"Connecticut"	"09"	"75 years"	"75"	"Liver cell carcinoma - Malignant neoplasms"	"C22.0"	12	55651	Unreliable
+	"Connecticut"	"09"	"75 years"	"75"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	57	55651	102.4
+	"Connecticut"	"09"	"75 years"	"75"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	119	55651	213.8
+	"Connecticut"	"09"	"75 years"	"75"	"Malignant melanoma of skin, unspecified - Malignant neoplasms"	"C43.9"	13	55651	Unreliable
+	"Connecticut"	"09"	"75 years"	"75"	"Malignant neoplasm of prostate"	"C61"	48	55651	86.3
+	"Connecticut"	"09"	"75 years"	"75"	"Malignant neoplasm of kidney, except renal pelvis"	"C64"	13	55651	Unreliable
+	"Connecticut"	"09"	"75 years"	"75"	"Bladder, unspecified - Malignant neoplasms"	"C67.9"	22	55651	39.5
+	"Connecticut"	"09"	"75 years"	"75"	"Brain, unspecified - Malignant neoplasms"	"C71.9"	13	55651	Unreliable
+	"Connecticut"	"09"	"75 years"	"75"	"Malignant neoplasm without specification of site"	"C80"	23	55651	41.3
+	"Connecticut"	"09"	"75 years"	"75"	"Multiple myeloma - Malignant neoplasms"	"C90.0"	12	55651	Unreliable
+	"Connecticut"	"09"	"75 years"	"75"	"Acute myeloid leukaemia - Malignant neoplasms"	"C92.0"	12	55651	Unreliable
+	"Connecticut"	"09"	"75 years"	"75"	"Unspecified diabetes mellitus, with renal complications"	"E14.2"	10	55651	Unreliable
+	"Connecticut"	"09"	"75 years"	"75"	"Unspecified diabetes mellitus, without complications"	"E14.9"	27	55651	48.5
+	"Connecticut"	"09"	"75 years"	"75"	"Unspecified dementia"	"F03"	50	55651	89.8
+	"Connecticut"	"09"	"75 years"	"75"	"Parkinson disease"	"G20"	23	55651	41.3
+	"Connecticut"	"09"	"75 years"	"75"	"Alzheimer disease, unspecified"	"G30.9"	24	55651	43.1
+	"Connecticut"	"09"	"75 years"	"75"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	15	55651	Unreliable
+	"Connecticut"	"09"	"75 years"	"75"	"Acute myocardial infarction, unspecified"	"I21.9"	48	55651	86.3
+	"Connecticut"	"09"	"75 years"	"75"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	51	55651	91.6
+	"Connecticut"	"09"	"75 years"	"75"	"Atherosclerotic heart disease"	"I25.1"	90	55651	161.7
+	"Connecticut"	"09"	"75 years"	"75"	"Ischaemic cardiomyopathy"	"I25.5"	10	55651	Unreliable
+	"Connecticut"	"09"	"75 years"	"75"	"Cardiomyopathy, unspecified"	"I42.9"	11	55651	Unreliable
+	"Connecticut"	"09"	"75 years"	"75"	"Cardiac arrest, unspecified"	"I46.9"	25	55651	44.9
+	"Connecticut"	"09"	"75 years"	"75"	"Atrial fibrillation and flutter"	"I48"	17	55651	Unreliable
+	"Connecticut"	"09"	"75 years"	"75"	"Congestive heart failure"	"I50.0"	34	55651	61.1
+	"Connecticut"	"09"	"75 years"	"75"	"Stroke, not specified as haemorrhage or infarction"	"I64"	29	55651	52.1
+	"Connecticut"	"09"	"75 years"	"75"	"Pneumonia, unspecified"	"J18.9"	21	55651	37.7
+	"Connecticut"	"09"	"75 years"	"75"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	22	55651	39.5
+	"Connecticut"	"09"	"75 years"	"75"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	80	55651	143.8
+	"Connecticut"	"09"	"75 years"	"75"	"Pneumonitis due to food and vomit"	"J69.0"	14	55651	Unreliable
+	"Connecticut"	"09"	"75 years"	"75"	"Other and unspecified cirrhosis of liver"	"K74.6"	15	55651	Unreliable
+	"Connecticut"	"09"	"75 years"	"75"	"Chronic kidney disease, stage 5"	"N18.5"	11	55651	Unreliable
+	"Connecticut"	"09"	"75 years"	"75"	"COVID-19"	"U07.1"	62	55651	111.4
+	"Connecticut"	"09"	"75 years"	"75"	"Unspecified fall"	"W19"	12	55651	Unreliable
+	"Connecticut"	"09"	"76 years"	"76"	"Septicaemia, unspecified"	"A41.9"	30	51254	58.5
+	"Connecticut"	"09"	"76 years"	"76"	"Oesophagus, unspecified - Malignant neoplasms"	"C15.9"	19	51254	Unreliable
+	"Connecticut"	"09"	"76 years"	"76"	"Stomach, unspecified - Malignant neoplasms"	"C16.9"	10	51254	Unreliable
+	"Connecticut"	"09"	"76 years"	"76"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	17	51254	Unreliable
+	"Connecticut"	"09"	"76 years"	"76"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	49	51254	95.6
+	"Connecticut"	"09"	"76 years"	"76"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	124	51254	241.9
+	"Connecticut"	"09"	"76 years"	"76"	"Malignant neoplasm of prostate"	"C61"	68	51254	132.7
+	"Connecticut"	"09"	"76 years"	"76"	"Malignant neoplasm of kidney, except renal pelvis"	"C64"	13	51254	Unreliable
+	"Connecticut"	"09"	"76 years"	"76"	"Bladder, unspecified - Malignant neoplasms"	"C67.9"	17	51254	Unreliable
+	"Connecticut"	"09"	"76 years"	"76"	"Brain, unspecified - Malignant neoplasms"	"C71.9"	17	51254	Unreliable
+	"Connecticut"	"09"	"76 years"	"76"	"Malignant neoplasm without specification of site"	"C80"	32	51254	62.4
+	"Connecticut"	"09"	"76 years"	"76"	"Multiple myeloma - Malignant neoplasms"	"C90.0"	18	51254	Unreliable
+	"Connecticut"	"09"	"76 years"	"76"	"Acute myeloid leukaemia - Malignant neoplasms"	"C92.0"	15	51254	Unreliable
+	"Connecticut"	"09"	"76 years"	"76"	"Myelodysplastic syndrome, unspecified - Uncertain neoplasms"	"D46.9"	10	51254	Unreliable
+	"Connecticut"	"09"	"76 years"	"76"	"Unspecified diabetes mellitus, without complications"	"E14.9"	17	51254	Unreliable
+	"Connecticut"	"09"	"76 years"	"76"	"Unspecified dementia"	"F03"	49	51254	95.6
+	"Connecticut"	"09"	"76 years"	"76"	"Parkinson disease"	"G20"	30	51254	58.5
+	"Connecticut"	"09"	"76 years"	"76"	"Alzheimer disease, unspecified"	"G30.9"	38	51254	74.1
+	"Connecticut"	"09"	"76 years"	"76"	"Acute myocardial infarction, unspecified"	"I21.9"	52	51254	101.5
+	"Connecticut"	"09"	"76 years"	"76"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	73	51254	142.4
+	"Connecticut"	"09"	"76 years"	"76"	"Atherosclerotic heart disease"	"I25.1"	111	51254	216.6
+	"Connecticut"	"09"	"76 years"	"76"	"Aortic (valve) stenosis"	"I35.0"	10	51254	Unreliable
+	"Connecticut"	"09"	"76 years"	"76"	"Cardiomyopathy, unspecified"	"I42.9"	16	51254	Unreliable
+	"Connecticut"	"09"	"76 years"	"76"	"Cardiac arrest, unspecified"	"I46.9"	29	51254	56.6
+	"Connecticut"	"09"	"76 years"	"76"	"Atrial fibrillation and flutter"	"I48"	15	51254	Unreliable
+	"Connecticut"	"09"	"76 years"	"76"	"Congestive heart failure"	"I50.0"	14	51254	Unreliable
+	"Connecticut"	"09"	"76 years"	"76"	"Heart failure, unspecified"	"I50.9"	13	51254	Unreliable
+	"Connecticut"	"09"	"76 years"	"76"	"Stroke, not specified as haemorrhage or infarction"	"I64"	28	51254	54.6
+	"Connecticut"	"09"	"76 years"	"76"	"Pneumonia, unspecified"	"J18.9"	24	51254	46.8
+	"Connecticut"	"09"	"76 years"	"76"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	16	51254	Unreliable
+	"Connecticut"	"09"	"76 years"	"76"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	84	51254	163.9
+	"Connecticut"	"09"	"76 years"	"76"	"Pneumonitis due to food and vomit"	"J69.0"	28	51254	54.6
+	"Connecticut"	"09"	"76 years"	"76"	"Other interstitial pulmonary diseases with fibrosis"	"J84.1"	15	51254	Unreliable
+	"Connecticut"	"09"	"76 years"	"76"	"Interstitial pulmonary disease, unspecified"	"J84.9"	11	51254	Unreliable
+	"Connecticut"	"09"	"76 years"	"76"	"Other and unspecified cirrhosis of liver"	"K74.6"	19	51254	Unreliable
+	"Connecticut"	"09"	"76 years"	"76"	"Gastrointestinal haemorrhage, unspecified"	"K92.2"	10	51254	Unreliable
+	"Connecticut"	"09"	"76 years"	"76"	"Chronic kidney disease, stage 5"	"N18.5"	15	51254	Unreliable
+	"Connecticut"	"09"	"76 years"	"76"	"Chronic renal failure, unspecified"	"N18.9"	10	51254	Unreliable
+	"Connecticut"	"09"	"76 years"	"76"	"COVID-19"	"U07.1"	71	51254	138.5
+	"Connecticut"	"09"	"76 years"	"76"	"Unspecified fall"	"W19"	20	51254	39.0
+	"Connecticut"	"09"	"77 years"	"77"	"Septicaemia, unspecified"	"A41.9"	32	47012	68.1
+	"Connecticut"	"09"	"77 years"	"77"	"Oesophagus, unspecified - Malignant neoplasms"	"C15.9"	23	47012	48.9
+	"Connecticut"	"09"	"77 years"	"77"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	31	47012	65.9
+	"Connecticut"	"09"	"77 years"	"77"	"Intrahepatic bile duct carcinoma - Malignant neoplasms"	"C22.1"	10	47012	Unreliable
+	"Connecticut"	"09"	"77 years"	"77"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	35	47012	74.4
+	"Connecticut"	"09"	"77 years"	"77"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	118	47012	251.0
+	"Connecticut"	"09"	"77 years"	"77"	"Malignant melanoma of skin, unspecified - Malignant neoplasms"	"C43.9"	12	47012	Unreliable
+	"Connecticut"	"09"	"77 years"	"77"	"Malignant neoplasm of prostate"	"C61"	53	47012	112.7
+	"Connecticut"	"09"	"77 years"	"77"	"Malignant neoplasm of kidney, except renal pelvis"	"C64"	11	47012	Unreliable
+	"Connecticut"	"09"	"77 years"	"77"	"Bladder, unspecified - Malignant neoplasms"	"C67.9"	19	47012	Unreliable
+	"Connecticut"	"09"	"77 years"	"77"	"Brain, unspecified - Malignant neoplasms"	"C71.9"	12	47012	Unreliable
+	"Connecticut"	"09"	"77 years"	"77"	"Malignant neoplasm without specification of site"	"C80"	39	47012	83.0
+	"Connecticut"	"09"	"77 years"	"77"	"Multiple myeloma - Malignant neoplasms"	"C90.0"	12	47012	Unreliable
+	"Connecticut"	"09"	"77 years"	"77"	"Acute myeloid leukaemia - Malignant neoplasms"	"C92.0"	11	47012	Unreliable
+	"Connecticut"	"09"	"77 years"	"77"	"Unspecified diabetes mellitus, without complications"	"E14.9"	17	47012	Unreliable
+	"Connecticut"	"09"	"77 years"	"77"	"Unspecified dementia"	"F03"	55	47012	117.0
+	"Connecticut"	"09"	"77 years"	"77"	"Parkinson disease"	"G20"	33	47012	70.2
+	"Connecticut"	"09"	"77 years"	"77"	"Alzheimer disease, unspecified"	"G30.9"	24	47012	51.1
+	"Connecticut"	"09"	"77 years"	"77"	"Acute myocardial infarction, unspecified"	"I21.9"	55	47012	117.0
+	"Connecticut"	"09"	"77 years"	"77"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	49	47012	104.2
+	"Connecticut"	"09"	"77 years"	"77"	"Atherosclerotic heart disease"	"I25.1"	94	47012	199.9
+	"Connecticut"	"09"	"77 years"	"77"	"Ischaemic cardiomyopathy"	"I25.5"	13	47012	Unreliable
+	"Connecticut"	"09"	"77 years"	"77"	"Cardiac arrest, unspecified"	"I46.9"	17	47012	Unreliable
+	"Connecticut"	"09"	"77 years"	"77"	"Atrial fibrillation and flutter"	"I48"	19	47012	Unreliable
+	"Connecticut"	"09"	"77 years"	"77"	"Congestive heart failure"	"I50.0"	31	47012	65.9
+	"Connecticut"	"09"	"77 years"	"77"	"Heart failure, unspecified"	"I50.9"	15	47012	Unreliable
+	"Connecticut"	"09"	"77 years"	"77"	"Stroke, not specified as haemorrhage or infarction"	"I64"	26	47012	55.3
+	"Connecticut"	"09"	"77 years"	"77"	"Pneumonia, unspecified"	"J18.9"	18	47012	Unreliable
+	"Connecticut"	"09"	"77 years"	"77"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	18	47012	Unreliable
+	"Connecticut"	"09"	"77 years"	"77"	"Chronic obstructive pulmonary disease with acute exacerbation, unspecified"	"J44.1"	11	47012	Unreliable
+	"Connecticut"	"09"	"77 years"	"77"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	71	47012	151.0
+	"Connecticut"	"09"	"77 years"	"77"	"Pneumonitis due to food and vomit"	"J69.0"	13	47012	Unreliable
+	"Connecticut"	"09"	"77 years"	"77"	"Other interstitial pulmonary diseases with fibrosis"	"J84.1"	10	47012	Unreliable
+	"Connecticut"	"09"	"77 years"	"77"	"Chronic kidney disease, stage 5"	"N18.5"	17	47012	Unreliable
+	"Connecticut"	"09"	"77 years"	"77"	"COVID-19"	"U07.1"	80	47012	170.2
+	"Connecticut"	"09"	"77 years"	"77"	"Unspecified fall"	"W19"	11	47012	Unreliable
+	"Connecticut"	"09"	"78 years"	"78"	"Septicaemia, unspecified"	"A41.9"	31	41819	74.1
+	"Connecticut"	"09"	"78 years"	"78"	"Oesophagus, unspecified - Malignant neoplasms"	"C15.9"	20	41819	47.8
+	"Connecticut"	"09"	"78 years"	"78"	"Stomach, unspecified - Malignant neoplasms"	"C16.9"	10	41819	Unreliable
+	"Connecticut"	"09"	"78 years"	"78"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	15	41819	Unreliable
+	"Connecticut"	"09"	"78 years"	"78"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	37	41819	88.5
+	"Connecticut"	"09"	"78 years"	"78"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	115	41819	275.0
+	"Connecticut"	"09"	"78 years"	"78"	"Malignant neoplasm of prostate"	"C61"	59	41819	141.1
+	"Connecticut"	"09"	"78 years"	"78"	"Malignant neoplasm of kidney, except renal pelvis"	"C64"	10	41819	Unreliable
+	"Connecticut"	"09"	"78 years"	"78"	"Bladder, unspecified - Malignant neoplasms"	"C67.9"	13	41819	Unreliable
+	"Connecticut"	"09"	"78 years"	"78"	"Brain, unspecified - Malignant neoplasms"	"C71.9"	12	41819	Unreliable
+	"Connecticut"	"09"	"78 years"	"78"	"Malignant neoplasm without specification of site"	"C80"	30	41819	71.7
+	"Connecticut"	"09"	"78 years"	"78"	"Non-Hodgkin lymphoma, unspecified type"	"C85.9"	10	41819	Unreliable
+	"Connecticut"	"09"	"78 years"	"78"	"Multiple myeloma - Malignant neoplasms"	"C90.0"	11	41819	Unreliable
+	"Connecticut"	"09"	"78 years"	"78"	"Unspecified diabetes mellitus, without complications"	"E14.9"	17	41819	Unreliable
+	"Connecticut"	"09"	"78 years"	"78"	"Unspecified dementia"	"F03"	57	41819	136.3
+	"Connecticut"	"09"	"78 years"	"78"	"Parkinson disease"	"G20"	40	41819	95.7
+	"Connecticut"	"09"	"78 years"	"78"	"Alzheimer disease, unspecified"	"G30.9"	34	41819	81.3
+	"Connecticut"	"09"	"78 years"	"78"	"Acute myocardial infarction, unspecified"	"I21.9"	38	41819	90.9
+	"Connecticut"	"09"	"78 years"	"78"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	56	41819	133.9
+	"Connecticut"	"09"	"78 years"	"78"	"Atherosclerotic heart disease"	"I25.1"	115	41819	275.0
+	"Connecticut"	"09"	"78 years"	"78"	"Ischaemic cardiomyopathy"	"I25.5"	13	41819	Unreliable
+	"Connecticut"	"09"	"78 years"	"78"	"Cardiomyopathy, unspecified"	"I42.9"	11	41819	Unreliable
+	"Connecticut"	"09"	"78 years"	"78"	"Cardiac arrest, unspecified"	"I46.9"	25	41819	59.8
+	"Connecticut"	"09"	"78 years"	"78"	"Atrial fibrillation and flutter"	"I48"	15	41819	Unreliable
+	"Connecticut"	"09"	"78 years"	"78"	"Congestive heart failure"	"I50.0"	30	41819	71.7
+	"Connecticut"	"09"	"78 years"	"78"	"Heart failure, unspecified"	"I50.9"	12	41819	Unreliable
+	"Connecticut"	"09"	"78 years"	"78"	"Intracerebral haemorrhage, unspecified"	"I61.9"	15	41819	Unreliable
+	"Connecticut"	"09"	"78 years"	"78"	"Stroke, not specified as haemorrhage or infarction"	"I64"	35	41819	83.7
+	"Connecticut"	"09"	"78 years"	"78"	"Pneumonia, unspecified"	"J18.9"	32	41819	76.5
+	"Connecticut"	"09"	"78 years"	"78"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	17	41819	Unreliable
+	"Connecticut"	"09"	"78 years"	"78"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	60	41819	143.5
+	"Connecticut"	"09"	"78 years"	"78"	"Pneumonitis due to food and vomit"	"J69.0"	26	41819	62.2
+	"Connecticut"	"09"	"78 years"	"78"	"Other interstitial pulmonary diseases with fibrosis"	"J84.1"	14	41819	Unreliable
+	"Connecticut"	"09"	"78 years"	"78"	"Gastrointestinal haemorrhage, unspecified"	"K92.2"	16	41819	Unreliable
+	"Connecticut"	"09"	"78 years"	"78"	"Chronic kidney disease, stage 5"	"N18.5"	22	41819	52.6
+	"Connecticut"	"09"	"78 years"	"78"	"COVID-19"	"U07.1"	71	41819	169.8
+	"Connecticut"	"09"	"78 years"	"78"	"Unspecified fall"	"W19"	18	41819	Unreliable
+	"Connecticut"	"09"	"79 years"	"79"	"Septicaemia, unspecified"	"A41.9"	44	38084	115.5
+	"Connecticut"	"09"	"79 years"	"79"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	20	38084	52.5
+	"Connecticut"	"09"	"79 years"	"79"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	38	38084	99.8
+	"Connecticut"	"09"	"79 years"	"79"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	107	38084	281.0
+	"Connecticut"	"09"	"79 years"	"79"	"Malignant neoplasm of prostate"	"C61"	47	38084	123.4
+	"Connecticut"	"09"	"79 years"	"79"	"Malignant neoplasm of kidney, except renal pelvis"	"C64"	12	38084	Unreliable
+	"Connecticut"	"09"	"79 years"	"79"	"Bladder, unspecified - Malignant neoplasms"	"C67.9"	19	38084	Unreliable
+	"Connecticut"	"09"	"79 years"	"79"	"Malignant neoplasm without specification of site"	"C80"	24	38084	63.0
+	"Connecticut"	"09"	"79 years"	"79"	"Acute myeloid leukaemia - Malignant neoplasms"	"C92.0"	11	38084	Unreliable
+	"Connecticut"	"09"	"79 years"	"79"	"Myelodysplastic syndrome, unspecified - Uncertain neoplasms"	"D46.9"	10	38084	Unreliable
+	"Connecticut"	"09"	"79 years"	"79"	"Unspecified diabetes mellitus, without complications"	"E14.9"	20	38084	52.5
+	"Connecticut"	"09"	"79 years"	"79"	"Vascular dementia, unspecified"	"F01.9"	11	38084	Unreliable
+	"Connecticut"	"09"	"79 years"	"79"	"Unspecified dementia"	"F03"	76	38084	199.6
+	"Connecticut"	"09"	"79 years"	"79"	"Motor neuron disease"	"G12.2"	11	38084	Unreliable
+	"Connecticut"	"09"	"79 years"	"79"	"Parkinson disease"	"G20"	50	38084	131.3
+	"Connecticut"	"09"	"79 years"	"79"	"Alzheimer disease, unspecified"	"G30.9"	30	38084	78.8
+	"Connecticut"	"09"	"79 years"	"79"	"Acute myocardial infarction, unspecified"	"I21.9"	60	38084	157.5
+	"Connecticut"	"09"	"79 years"	"79"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	46	38084	120.8
+	"Connecticut"	"09"	"79 years"	"79"	"Atherosclerotic heart disease"	"I25.1"	105	38084	275.7
+	"Connecticut"	"09"	"79 years"	"79"	"Cardiomyopathy, unspecified"	"I42.9"	13	38084	Unreliable
+	"Connecticut"	"09"	"79 years"	"79"	"Cardiac arrest, unspecified"	"I46.9"	29	38084	76.1
+	"Connecticut"	"09"	"79 years"	"79"	"Atrial fibrillation and flutter"	"I48"	16	38084	Unreliable
+	"Connecticut"	"09"	"79 years"	"79"	"Congestive heart failure"	"I50.0"	30	38084	78.8
+	"Connecticut"	"09"	"79 years"	"79"	"Heart failure, unspecified"	"I50.9"	27	38084	70.9
+	"Connecticut"	"09"	"79 years"	"79"	"Intracerebral haemorrhage, unspecified"	"I61.9"	11	38084	Unreliable
+	"Connecticut"	"09"	"79 years"	"79"	"Stroke, not specified as haemorrhage or infarction"	"I64"	25	38084	65.6
+	"Connecticut"	"09"	"79 years"	"79"	"Pneumonia, unspecified"	"J18.9"	25	38084	65.6
+	"Connecticut"	"09"	"79 years"	"79"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	14	38084	Unreliable
+	"Connecticut"	"09"	"79 years"	"79"	"Chronic obstructive pulmonary disease with acute exacerbation, unspecified"	"J44.1"	11	38084	Unreliable
+	"Connecticut"	"09"	"79 years"	"79"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	72	38084	189.1
+	"Connecticut"	"09"	"79 years"	"79"	"Pneumonitis due to food and vomit"	"J69.0"	20	38084	52.5
+	"Connecticut"	"09"	"79 years"	"79"	"Other interstitial pulmonary diseases with fibrosis"	"J84.1"	10	38084	Unreliable
+	"Connecticut"	"09"	"79 years"	"79"	"Gastrointestinal haemorrhage, unspecified"	"K92.2"	11	38084	Unreliable
+	"Connecticut"	"09"	"79 years"	"79"	"Chronic kidney disease, stage 5"	"N18.5"	13	38084	Unreliable
+	"Connecticut"	"09"	"79 years"	"79"	"COVID-19"	"U07.1"	73	38084	191.7
+	"Connecticut"	"09"	"79 years"	"79"	"Unspecified fall"	"W19"	17	38084	Unreliable
+	"Connecticut"	"09"	"79 years"	"79"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	10	38084	Unreliable
+	"Connecticut"	"09"	"80 years"	"80"	"Septicaemia, unspecified"	"A41.9"	35	34998	100.0
+	"Connecticut"	"09"	"80 years"	"80"	"Oesophagus, unspecified - Malignant neoplasms"	"C15.9"	11	34998	Unreliable
+	"Connecticut"	"09"	"80 years"	"80"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	19	34998	Unreliable
+	"Connecticut"	"09"	"80 years"	"80"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	24	34998	68.6
+	"Connecticut"	"09"	"80 years"	"80"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	94	34998	268.6
+	"Connecticut"	"09"	"80 years"	"80"	"Malignant neoplasm of prostate"	"C61"	50	34998	142.9
+	"Connecticut"	"09"	"80 years"	"80"	"Malignant neoplasm of kidney, except renal pelvis"	"C64"	16	34998	Unreliable
+	"Connecticut"	"09"	"80 years"	"80"	"Bladder, unspecified - Malignant neoplasms"	"C67.9"	20	34998	57.1
+	"Connecticut"	"09"	"80 years"	"80"	"Malignant neoplasm without specification of site"	"C80"	24	34998	68.6
+	"Connecticut"	"09"	"80 years"	"80"	"Multiple myeloma - Malignant neoplasms"	"C90.0"	14	34998	Unreliable
+	"Connecticut"	"09"	"80 years"	"80"	"Acute myeloid leukaemia - Malignant neoplasms"	"C92.0"	10	34998	Unreliable
+	"Connecticut"	"09"	"80 years"	"80"	"Unspecified diabetes mellitus, with renal complications"	"E14.2"	13	34998	Unreliable
+	"Connecticut"	"09"	"80 years"	"80"	"Unspecified diabetes mellitus, without complications"	"E14.9"	20	34998	57.1
+	"Connecticut"	"09"	"80 years"	"80"	"Hyperlipidaemia, unspecified"	"E78.5"	10	34998	Unreliable
+	"Connecticut"	"09"	"80 years"	"80"	"Vascular dementia, unspecified"	"F01.9"	11	34998	Unreliable
+	"Connecticut"	"09"	"80 years"	"80"	"Unspecified dementia"	"F03"	93	34998	265.7
+	"Connecticut"	"09"	"80 years"	"80"	"Parkinson disease"	"G20"	45	34998	128.6
+	"Connecticut"	"09"	"80 years"	"80"	"Alzheimer disease, unspecified"	"G30.9"	45	34998	128.6
+	"Connecticut"	"09"	"80 years"	"80"	"Acute myocardial infarction, unspecified"	"I21.9"	39	34998	111.4
+	"Connecticut"	"09"	"80 years"	"80"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	49	34998	140.0
+	"Connecticut"	"09"	"80 years"	"80"	"Atherosclerotic heart disease"	"I25.1"	114	34998	325.7
+	"Connecticut"	"09"	"80 years"	"80"	"Cardiomyopathy, unspecified"	"I42.9"	15	34998	Unreliable
+	"Connecticut"	"09"	"80 years"	"80"	"Cardiac arrest, unspecified"	"I46.9"	30	34998	85.7
+	"Connecticut"	"09"	"80 years"	"80"	"Atrial fibrillation and flutter"	"I48"	16	34998	Unreliable
+	"Connecticut"	"09"	"80 years"	"80"	"Congestive heart failure"	"I50.0"	52	34998	148.6
+	"Connecticut"	"09"	"80 years"	"80"	"Heart failure, unspecified"	"I50.9"	14	34998	Unreliable
+	"Connecticut"	"09"	"80 years"	"80"	"Intracerebral haemorrhage, unspecified"	"I61.9"	12	34998	Unreliable
+	"Connecticut"	"09"	"80 years"	"80"	"Stroke, not specified as haemorrhage or infarction"	"I64"	42	34998	120.0
+	"Connecticut"	"09"	"80 years"	"80"	"Pneumonia, unspecified"	"J18.9"	27	34998	77.1
+	"Connecticut"	"09"	"80 years"	"80"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	13	34998	Unreliable
+	"Connecticut"	"09"	"80 years"	"80"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	60	34998	171.4
+	"Connecticut"	"09"	"80 years"	"80"	"Pneumonitis due to food and vomit"	"J69.0"	15	34998	Unreliable
+	"Connecticut"	"09"	"80 years"	"80"	"Other interstitial pulmonary diseases with fibrosis"	"J84.1"	12	34998	Unreliable
+	"Connecticut"	"09"	"80 years"	"80"	"Interstitial pulmonary disease, unspecified"	"J84.9"	11	34998	Unreliable
+	"Connecticut"	"09"	"80 years"	"80"	"Chronic kidney disease, stage 5"	"N18.5"	15	34998	Unreliable
+	"Connecticut"	"09"	"80 years"	"80"	"Chronic renal failure, unspecified"	"N18.9"	11	34998	Unreliable
+	"Connecticut"	"09"	"80 years"	"80"	"COVID-19"	"U07.1"	82	34998	234.3
+	"Connecticut"	"09"	"80 years"	"80"	"Unspecified fall"	"W19"	20	34998	57.1
+	"Connecticut"	"09"	"81 years"	"81"	"Septicaemia, unspecified"	"A41.9"	52	32383	160.6
+	"Connecticut"	"09"	"81 years"	"81"	"Oesophagus, unspecified - Malignant neoplasms"	"C15.9"	13	32383	Unreliable
+	"Connecticut"	"09"	"81 years"	"81"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	16	32383	Unreliable
+	"Connecticut"	"09"	"81 years"	"81"	"Intrahepatic bile duct carcinoma - Malignant neoplasms"	"C22.1"	11	32383	Unreliable
+	"Connecticut"	"09"	"81 years"	"81"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	29	32383	89.6
+	"Connecticut"	"09"	"81 years"	"81"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	101	32383	311.9
+	"Connecticut"	"09"	"81 years"	"81"	"Malignant neoplasm of prostate"	"C61"	64	32383	197.6
+	"Connecticut"	"09"	"81 years"	"81"	"Bladder, unspecified - Malignant neoplasms"	"C67.9"	36	32383	111.2
+	"Connecticut"	"09"	"81 years"	"81"	"Malignant neoplasm without specification of site"	"C80"	39	32383	120.4
+	"Connecticut"	"09"	"81 years"	"81"	"Non-Hodgkin lymphoma, unspecified type"	"C85.9"	16	32383	Unreliable
+	"Connecticut"	"09"	"81 years"	"81"	"Multiple myeloma - Malignant neoplasms"	"C90.0"	12	32383	Unreliable
+	"Connecticut"	"09"	"81 years"	"81"	"Acute myeloid leukaemia - Malignant neoplasms"	"C92.0"	12	32383	Unreliable
+	"Connecticut"	"09"	"81 years"	"81"	"Unspecified diabetes mellitus, with renal complications"	"E14.2"	14	32383	Unreliable
+	"Connecticut"	"09"	"81 years"	"81"	"Unspecified dementia"	"F03"	94	32383	290.3
+	"Connecticut"	"09"	"81 years"	"81"	"Parkinson disease"	"G20"	56	32383	172.9
+	"Connecticut"	"09"	"81 years"	"81"	"Alzheimer disease, unspecified"	"G30.9"	52	32383	160.6
+	"Connecticut"	"09"	"81 years"	"81"	"Essential (primary) hypertension"	"I10"	12	32383	Unreliable
+	"Connecticut"	"09"	"81 years"	"81"	"Acute myocardial infarction, unspecified"	"I21.9"	47	32383	145.1
+	"Connecticut"	"09"	"81 years"	"81"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	39	32383	120.4
+	"Connecticut"	"09"	"81 years"	"81"	"Atherosclerotic heart disease"	"I25.1"	114	32383	352.0
+	"Connecticut"	"09"	"81 years"	"81"	"Ischaemic cardiomyopathy"	"I25.5"	12	32383	Unreliable
+	"Connecticut"	"09"	"81 years"	"81"	"Aortic (valve) stenosis"	"I35.0"	11	32383	Unreliable
+	"Connecticut"	"09"	"81 years"	"81"	"Cardiomyopathy, unspecified"	"I42.9"	13	32383	Unreliable
+	"Connecticut"	"09"	"81 years"	"81"	"Cardiac arrest, unspecified"	"I46.9"	24	32383	74.1
+	"Connecticut"	"09"	"81 years"	"81"	"Atrial fibrillation and flutter"	"I48"	21	32383	64.8
+	"Connecticut"	"09"	"81 years"	"81"	"Congestive heart failure"	"I50.0"	43	32383	132.8
+	"Connecticut"	"09"	"81 years"	"81"	"Heart failure, unspecified"	"I50.9"	19	32383	Unreliable
+	"Connecticut"	"09"	"81 years"	"81"	"Intracranial haemorrhage (nontraumatic), unspecified"	"I62.9"	10	32383	Unreliable
+	"Connecticut"	"09"	"81 years"	"81"	"Stroke, not specified as haemorrhage or infarction"	"I64"	33	32383	101.9
+	"Connecticut"	"09"	"81 years"	"81"	"Pneumonia, unspecified"	"J18.9"	20	32383	61.8
+	"Connecticut"	"09"	"81 years"	"81"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	22	32383	67.9
+	"Connecticut"	"09"	"81 years"	"81"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	84	32383	259.4
+	"Connecticut"	"09"	"81 years"	"81"	"Pneumonitis due to food and vomit"	"J69.0"	25	32383	77.2
+	"Connecticut"	"09"	"81 years"	"81"	"Other interstitial pulmonary diseases with fibrosis"	"J84.1"	18	32383	Unreliable
+	"Connecticut"	"09"	"81 years"	"81"	"Other and unspecified cirrhosis of liver"	"K74.6"	10	32383	Unreliable
+	"Connecticut"	"09"	"81 years"	"81"	"Gastrointestinal haemorrhage, unspecified"	"K92.2"	11	32383	Unreliable
+	"Connecticut"	"09"	"81 years"	"81"	"Acute renal failure, unspecified"	"N17.9"	10	32383	Unreliable
+	"Connecticut"	"09"	"81 years"	"81"	"Chronic kidney disease, stage 5"	"N18.5"	11	32383	Unreliable
+	"Connecticut"	"09"	"81 years"	"81"	"Chronic renal failure, unspecified"	"N18.9"	19	32383	Unreliable
+	"Connecticut"	"09"	"81 years"	"81"	"Unspecified renal failure"	"N19"	10	32383	Unreliable
+	"Connecticut"	"09"	"81 years"	"81"	"Urinary tract infection, site not specified"	"N39.0"	12	32383	Unreliable
+	"Connecticut"	"09"	"81 years"	"81"	"COVID-19"	"U07.1"	84	32383	259.4
+	"Connecticut"	"09"	"81 years"	"81"	"Unspecified fall"	"W19"	24	32383	74.1
+	"Connecticut"	"09"	"82 years"	"82"	"Septicaemia, unspecified"	"A41.9"	37	29790	124.2
+	"Connecticut"	"09"	"82 years"	"82"	"Oesophagus, unspecified - Malignant neoplasms"	"C15.9"	10	29790	Unreliable
+	"Connecticut"	"09"	"82 years"	"82"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	27	29790	90.6
+	"Connecticut"	"09"	"82 years"	"82"	"Liver cell carcinoma - Malignant neoplasms"	"C22.0"	10	29790	Unreliable
+	"Connecticut"	"09"	"82 years"	"82"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	27	29790	90.6
+	"Connecticut"	"09"	"82 years"	"82"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	95	29790	318.9
+	"Connecticut"	"09"	"82 years"	"82"	"Malignant melanoma of skin, unspecified - Malignant neoplasms"	"C43.9"	10	29790	Unreliable
+	"Connecticut"	"09"	"82 years"	"82"	"Malignant neoplasm of prostate"	"C61"	53	29790	177.9
+	"Connecticut"	"09"	"82 years"	"82"	"Bladder, unspecified - Malignant neoplasms"	"C67.9"	30	29790	100.7
+	"Connecticut"	"09"	"82 years"	"82"	"Malignant neoplasm without specification of site"	"C80"	21	29790	70.5
+	"Connecticut"	"09"	"82 years"	"82"	"Non-insulin-dependent diabetes mellitus, without complications"	"E11.9"	11	29790	Unreliable
+	"Connecticut"	"09"	"82 years"	"82"	"Unspecified diabetes mellitus, with renal complications"	"E14.2"	13	29790	Unreliable
+	"Connecticut"	"09"	"82 years"	"82"	"Unspecified diabetes mellitus, without complications"	"E14.9"	18	29790	Unreliable
+	"Connecticut"	"09"	"82 years"	"82"	"Vascular dementia, unspecified"	"F01.9"	10	29790	Unreliable
+	"Connecticut"	"09"	"82 years"	"82"	"Unspecified dementia"	"F03"	92	29790	308.8
+	"Connecticut"	"09"	"82 years"	"82"	"Parkinson disease"	"G20"	43	29790	144.3
+	"Connecticut"	"09"	"82 years"	"82"	"Alzheimer disease, unspecified"	"G30.9"	67	29790	224.9
+	"Connecticut"	"09"	"82 years"	"82"	"Essential (primary) hypertension"	"I10"	11	29790	Unreliable
+	"Connecticut"	"09"	"82 years"	"82"	"Acute subendocardial myocardial infarction"	"I21.4"	14	29790	Unreliable
+	"Connecticut"	"09"	"82 years"	"82"	"Acute myocardial infarction, unspecified"	"I21.9"	46	29790	154.4
+	"Connecticut"	"09"	"82 years"	"82"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	59	29790	198.1
+	"Connecticut"	"09"	"82 years"	"82"	"Atherosclerotic heart disease"	"I25.1"	122	29790	409.5
+	"Connecticut"	"09"	"82 years"	"82"	"Aortic (valve) stenosis"	"I35.0"	11	29790	Unreliable
+	"Connecticut"	"09"	"82 years"	"82"	"Cardiomyopathy, unspecified"	"I42.9"	15	29790	Unreliable
+	"Connecticut"	"09"	"82 years"	"82"	"Cardiac arrest, unspecified"	"I46.9"	30	29790	100.7
+	"Connecticut"	"09"	"82 years"	"82"	"Atrial fibrillation and flutter"	"I48"	30	29790	100.7
+	"Connecticut"	"09"	"82 years"	"82"	"Congestive heart failure"	"I50.0"	45	29790	151.1
+	"Connecticut"	"09"	"82 years"	"82"	"Heart failure, unspecified"	"I50.9"	22	29790	73.9
+	"Connecticut"	"09"	"82 years"	"82"	"Intracerebral haemorrhage, unspecified"	"I61.9"	12	29790	Unreliable
+	"Connecticut"	"09"	"82 years"	"82"	"Stroke, not specified as haemorrhage or infarction"	"I64"	38	29790	127.6
+	"Connecticut"	"09"	"82 years"	"82"	"Pneumonia, unspecified"	"J18.9"	25	29790	83.9
+	"Connecticut"	"09"	"82 years"	"82"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	27	29790	90.6
+	"Connecticut"	"09"	"82 years"	"82"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	72	29790	241.7
+	"Connecticut"	"09"	"82 years"	"82"	"Pneumonitis due to food and vomit"	"J69.0"	36	29790	120.8
+	"Connecticut"	"09"	"82 years"	"82"	"Other interstitial pulmonary diseases with fibrosis"	"J84.1"	19	29790	Unreliable
+	"Connecticut"	"09"	"82 years"	"82"	"Other and unspecified cirrhosis of liver"	"K74.6"	10	29790	Unreliable
+	"Connecticut"	"09"	"82 years"	"82"	"Acute renal failure, unspecified"	"N17.9"	11	29790	Unreliable
+	"Connecticut"	"09"	"82 years"	"82"	"Chronic kidney disease, stage 5"	"N18.5"	18	29790	Unreliable
+	"Connecticut"	"09"	"82 years"	"82"	"Chronic renal failure, unspecified"	"N18.9"	14	29790	Unreliable
+	"Connecticut"	"09"	"82 years"	"82"	"Unspecified renal failure"	"N19"	14	29790	Unreliable
+	"Connecticut"	"09"	"82 years"	"82"	"COVID-19"	"U07.1"	91	29790	305.5
+	"Connecticut"	"09"	"82 years"	"82"	"Unspecified fall"	"W19"	29	29790	97.3
+	"Connecticut"	"09"	"82 years"	"82"	"Inhalation and ingestion of other objects causing obstruction of respiratory tract"	"W80"	10	29790	Unreliable
+	"Connecticut"	"09"	"83 years"	"83"	"Septicaemia, unspecified"	"A41.9"	28	27103	103.3
+	"Connecticut"	"09"	"83 years"	"83"	"Oesophagus, unspecified - Malignant neoplasms"	"C15.9"	11	27103	Unreliable
+	"Connecticut"	"09"	"83 years"	"83"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	22	27103	81.2
+	"Connecticut"	"09"	"83 years"	"83"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	31	27103	114.4
+	"Connecticut"	"09"	"83 years"	"83"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	97	27103	357.9
+	"Connecticut"	"09"	"83 years"	"83"	"Malignant neoplasm of prostate"	"C61"	72	27103	265.7
+	"Connecticut"	"09"	"83 years"	"83"	"Bladder, unspecified - Malignant neoplasms"	"C67.9"	28	27103	103.3
+	"Connecticut"	"09"	"83 years"	"83"	"Malignant neoplasm without specification of site"	"C80"	33	27103	121.8
+	"Connecticut"	"09"	"83 years"	"83"	"Non-Hodgkin lymphoma, unspecified type"	"C85.9"	17	27103	Unreliable
+	"Connecticut"	"09"	"83 years"	"83"	"Acute myeloid leukaemia - Malignant neoplasms"	"C92.0"	10	27103	Unreliable
+	"Connecticut"	"09"	"83 years"	"83"	"Unspecified diabetes mellitus, without complications"	"E14.9"	12	27103	Unreliable
+	"Connecticut"	"09"	"83 years"	"83"	"Metabolic disorder, unspecified"	"E88.9"	11	27103	Unreliable
+	"Connecticut"	"09"	"83 years"	"83"	"Vascular dementia, unspecified"	"F01.9"	16	27103	Unreliable
+	"Connecticut"	"09"	"83 years"	"83"	"Unspecified dementia"	"F03"	129	27103	476.0
+	"Connecticut"	"09"	"83 years"	"83"	"Parkinson disease"	"G20"	55	27103	202.9
+	"Connecticut"	"09"	"83 years"	"83"	"Alzheimer disease, unspecified"	"G30.9"	63	27103	232.4
+	"Connecticut"	"09"	"83 years"	"83"	"Other specified degenerative diseases of nervous system"	"G31.8"	10	27103	Unreliable
+	"Connecticut"	"09"	"83 years"	"83"	"Essential (primary) hypertension"	"I10"	13	27103	Unreliable
+	"Connecticut"	"09"	"83 years"	"83"	"Acute myocardial infarction, unspecified"	"I21.9"	52	27103	191.9
+	"Connecticut"	"09"	"83 years"	"83"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	43	27103	158.7
+	"Connecticut"	"09"	"83 years"	"83"	"Atherosclerotic heart disease"	"I25.1"	173	27103	638.3
+	"Connecticut"	"09"	"83 years"	"83"	"Ischaemic cardiomyopathy"	"I25.5"	18	27103	Unreliable
+	"Connecticut"	"09"	"83 years"	"83"	"Chronic ischaemic heart disease, unspecified"	"I25.9"	11	27103	Unreliable
+	"Connecticut"	"09"	"83 years"	"83"	"Aortic (valve) stenosis"	"I35.0"	15	27103	Unreliable
+	"Connecticut"	"09"	"83 years"	"83"	"Cardiomyopathy, unspecified"	"I42.9"	19	27103	Unreliable
+	"Connecticut"	"09"	"83 years"	"83"	"Cardiac arrest, unspecified"	"I46.9"	25	27103	92.2
+	"Connecticut"	"09"	"83 years"	"83"	"Atrial fibrillation and flutter"	"I48"	20	27103	73.8
+	"Connecticut"	"09"	"83 years"	"83"	"Cardiac arrhythmia, unspecified"	"I49.9"	11	27103	Unreliable
+	"Connecticut"	"09"	"83 years"	"83"	"Congestive heart failure"	"I50.0"	43	27103	158.7
+	"Connecticut"	"09"	"83 years"	"83"	"Heart failure, unspecified"	"I50.9"	22	27103	81.2
+	"Connecticut"	"09"	"83 years"	"83"	"Stroke, not specified as haemorrhage or infarction"	"I64"	37	27103	136.5
+	"Connecticut"	"09"	"83 years"	"83"	"Pneumonia, unspecified"	"J18.9"	35	27103	129.1
+	"Connecticut"	"09"	"83 years"	"83"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	16	27103	Unreliable
+	"Connecticut"	"09"	"83 years"	"83"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	63	27103	232.4
+	"Connecticut"	"09"	"83 years"	"83"	"Pneumonitis due to food and vomit"	"J69.0"	35	27103	129.1
+	"Connecticut"	"09"	"83 years"	"83"	"Other interstitial pulmonary diseases with fibrosis"	"J84.1"	18	27103	Unreliable
+	"Connecticut"	"09"	"83 years"	"83"	"Gastrointestinal haemorrhage, unspecified"	"K92.2"	11	27103	Unreliable
+	"Connecticut"	"09"	"83 years"	"83"	"Chronic kidney disease, stage 5"	"N18.5"	14	27103	Unreliable
+	"Connecticut"	"09"	"83 years"	"83"	"Chronic renal failure, unspecified"	"N18.9"	17	27103	Unreliable
+	"Connecticut"	"09"	"83 years"	"83"	"Unspecified renal failure"	"N19"	17	27103	Unreliable
+	"Connecticut"	"09"	"83 years"	"83"	"Urinary tract infection, site not specified"	"N39.0"	11	27103	Unreliable
+	"Connecticut"	"09"	"83 years"	"83"	"COVID-19"	"U07.1"	81	27103	298.9
+	"Connecticut"	"09"	"83 years"	"83"	"Unspecified fall"	"W19"	18	27103	Unreliable
+	"Connecticut"	"09"	"84 years"	"84"	"Septicaemia, unspecified"	"A41.9"	37	24947	148.3
+	"Connecticut"	"09"	"84 years"	"84"	"Oesophagus, unspecified - Malignant neoplasms"	"C15.9"	19	24947	Unreliable
+	"Connecticut"	"09"	"84 years"	"84"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	18	24947	Unreliable
+	"Connecticut"	"09"	"84 years"	"84"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	31	24947	124.3
+	"Connecticut"	"09"	"84 years"	"84"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	82	24947	328.7
+	"Connecticut"	"09"	"84 years"	"84"	"Malignant neoplasm of prostate"	"C61"	63	24947	252.5
+	"Connecticut"	"09"	"84 years"	"84"	"Malignant neoplasm of kidney, except renal pelvis"	"C64"	12	24947	Unreliable
+	"Connecticut"	"09"	"84 years"	"84"	"Bladder, unspecified - Malignant neoplasms"	"C67.9"	31	24947	124.3
+	"Connecticut"	"09"	"84 years"	"84"	"Malignant neoplasm without specification of site"	"C80"	24	24947	96.2
+	"Connecticut"	"09"	"84 years"	"84"	"Non-Hodgkin lymphoma, unspecified type"	"C85.9"	11	24947	Unreliable
+	"Connecticut"	"09"	"84 years"	"84"	"Multiple myeloma - Malignant neoplasms"	"C90.0"	14	24947	Unreliable
+	"Connecticut"	"09"	"84 years"	"84"	"Unspecified diabetes mellitus, without complications"	"E14.9"	20	24947	80.2
+	"Connecticut"	"09"	"84 years"	"84"	"Vascular dementia, unspecified"	"F01.9"	10	24947	Unreliable
+	"Connecticut"	"09"	"84 years"	"84"	"Unspecified dementia"	"F03"	147	24947	589.2
+	"Connecticut"	"09"	"84 years"	"84"	"Parkinson disease"	"G20"	52	24947	208.4
+	"Connecticut"	"09"	"84 years"	"84"	"Alzheimer disease, unspecified"	"G30.9"	73	24947	292.6
+	"Connecticut"	"09"	"84 years"	"84"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	10	24947	Unreliable
+	"Connecticut"	"09"	"84 years"	"84"	"Acute myocardial infarction, unspecified"	"I21.9"	44	24947	176.4
+	"Connecticut"	"09"	"84 years"	"84"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	39	24947	156.3
+	"Connecticut"	"09"	"84 years"	"84"	"Atherosclerotic heart disease"	"I25.1"	165	24947	661.4
+	"Connecticut"	"09"	"84 years"	"84"	"Aortic (valve) stenosis"	"I35.0"	11	24947	Unreliable
+	"Connecticut"	"09"	"84 years"	"84"	"Cardiomyopathy, unspecified"	"I42.9"	18	24947	Unreliable
+	"Connecticut"	"09"	"84 years"	"84"	"Cardiac arrest, unspecified"	"I46.9"	33	24947	132.3
+	"Connecticut"	"09"	"84 years"	"84"	"Atrial fibrillation and flutter"	"I48"	35	24947	140.3
+	"Connecticut"	"09"	"84 years"	"84"	"Congestive heart failure"	"I50.0"	63	24947	252.5
+	"Connecticut"	"09"	"84 years"	"84"	"Heart failure, unspecified"	"I50.9"	23	24947	92.2
+	"Connecticut"	"09"	"84 years"	"84"	"Stroke, not specified as haemorrhage or infarction"	"I64"	43	24947	172.4
+	"Connecticut"	"09"	"84 years"	"84"	"Pneumonia, unspecified"	"J18.9"	26	24947	104.2
+	"Connecticut"	"09"	"84 years"	"84"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	16	24947	Unreliable
+	"Connecticut"	"09"	"84 years"	"84"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	65	24947	260.6
+	"Connecticut"	"09"	"84 years"	"84"	"Pneumonitis due to food and vomit"	"J69.0"	19	24947	Unreliable
+	"Connecticut"	"09"	"84 years"	"84"	"Other interstitial pulmonary diseases with fibrosis"	"J84.1"	17	24947	Unreliable
+	"Connecticut"	"09"	"84 years"	"84"	"Chronic kidney disease, stage 5"	"N18.5"	16	24947	Unreliable
+	"Connecticut"	"09"	"84 years"	"84"	"Chronic renal failure, unspecified"	"N18.9"	15	24947	Unreliable
+	"Connecticut"	"09"	"84 years"	"84"	"Unspecified renal failure"	"N19"	16	24947	Unreliable
+	"Connecticut"	"09"	"84 years"	"84"	"Urinary tract infection, site not specified"	"N39.0"	11	24947	Unreliable
+	"Connecticut"	"09"	"84 years"	"84"	"COVID-19"	"U07.1"	81	24947	324.7
+	"Connecticut"	"09"	"84 years"	"84"	"Unspecified fall"	"W19"	31	24947	124.3
+	"Connecticut"	"09"	"85 years"	"85"	"Septicaemia, unspecified"	"A41.9"	34	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"85 years"	"85"	"Oesophagus, unspecified - Malignant neoplasms"	"C15.9"	15	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"85 years"	"85"	"Stomach, unspecified - Malignant neoplasms"	"C16.9"	11	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"85 years"	"85"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	27	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"85 years"	"85"	"Intrahepatic bile duct carcinoma - Malignant neoplasms"	"C22.1"	13	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"85 years"	"85"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	20	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"85 years"	"85"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	84	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"85 years"	"85"	"Malignant neoplasm of prostate"	"C61"	61	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"85 years"	"85"	"Malignant neoplasm of kidney, except renal pelvis"	"C64"	13	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"85 years"	"85"	"Bladder, unspecified - Malignant neoplasms"	"C67.9"	24	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"85 years"	"85"	"Malignant neoplasm without specification of site"	"C80"	24	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"85 years"	"85"	"Non-Hodgkin lymphoma, unspecified type"	"C85.9"	15	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"85 years"	"85"	"Multiple myeloma - Malignant neoplasms"	"C90.0"	10	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"85 years"	"85"	"Non-insulin-dependent diabetes mellitus, with renal complications"	"E11.2"	10	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"85 years"	"85"	"Unspecified diabetes mellitus, without complications"	"E14.9"	22	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"85 years"	"85"	"Vascular dementia, unspecified"	"F01.9"	21	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"85 years"	"85"	"Unspecified dementia"	"F03"	129	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"85 years"	"85"	"Parkinson disease"	"G20"	60	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"85 years"	"85"	"Alzheimer disease, unspecified"	"G30.9"	71	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"85 years"	"85"	"Anoxic brain damage, not elsewhere classified"	"G93.1"	10	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"85 years"	"85"	"Essential (primary) hypertension"	"I10"	12	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"85 years"	"85"	"Hypertensive renal disease with renal failure"	"I12.0"	12	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"85 years"	"85"	"Acute myocardial infarction, unspecified"	"I21.9"	53	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"85 years"	"85"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	50	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"85 years"	"85"	"Atherosclerotic heart disease"	"I25.1"	166	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"85 years"	"85"	"Ischaemic cardiomyopathy"	"I25.5"	11	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"85 years"	"85"	"Cardiomyopathy, unspecified"	"I42.9"	15	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"85 years"	"85"	"Cardiac arrest, unspecified"	"I46.9"	39	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"85 years"	"85"	"Atrial fibrillation and flutter"	"I48"	26	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"85 years"	"85"	"Congestive heart failure"	"I50.0"	52	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"85 years"	"85"	"Heart failure, unspecified"	"I50.9"	31	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"85 years"	"85"	"Intracerebral haemorrhage, unspecified"	"I61.9"	11	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"85 years"	"85"	"Stroke, not specified as haemorrhage or infarction"	"I64"	39	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"85 years"	"85"	"Pneumonia, unspecified"	"J18.9"	42	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"85 years"	"85"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	20	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"85 years"	"85"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	73	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"85 years"	"85"	"Pneumonitis due to food and vomit"	"J69.0"	41	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"85 years"	"85"	"Other interstitial pulmonary diseases with fibrosis"	"J84.1"	16	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"85 years"	"85"	"Gastrointestinal haemorrhage, unspecified"	"K92.2"	18	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"85 years"	"85"	"Acute renal failure, unspecified"	"N17.9"	13	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"85 years"	"85"	"Chronic kidney disease, stage 5"	"N18.5"	14	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"85 years"	"85"	"Chronic renal failure, unspecified"	"N18.9"	11	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"85 years"	"85"	"Unspecified renal failure"	"N19"	13	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"85 years"	"85"	"COVID-19"	"U07.1"	103	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"85 years"	"85"	"Unspecified fall"	"W19"	26	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"85 years"	"85"	"Inhalation and ingestion of other objects causing obstruction of respiratory tract"	"W80"	11	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"86 years"	"86"	"Septicaemia, unspecified"	"A41.9"	45	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"86 years"	"86"	"Oesophagus, unspecified - Malignant neoplasms"	"C15.9"	15	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"86 years"	"86"	"Stomach, unspecified - Malignant neoplasms"	"C16.9"	10	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"86 years"	"86"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	18	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"86 years"	"86"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	27	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"86 years"	"86"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	90	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"86 years"	"86"	"Malignant neoplasm of prostate"	"C61"	70	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"86 years"	"86"	"Bladder, unspecified - Malignant neoplasms"	"C67.9"	25	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"86 years"	"86"	"Malignant neoplasm without specification of site"	"C80"	31	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"86 years"	"86"	"Non-Hodgkin lymphoma, unspecified type"	"C85.9"	13	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"86 years"	"86"	"Malignant neoplasms of independent (primary) multiple sites"	"C97"	13	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"86 years"	"86"	"Non-insulin-dependent diabetes mellitus, without complications"	"E11.9"	13	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"86 years"	"86"	"Unspecified diabetes mellitus, without complications"	"E14.9"	18	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"86 years"	"86"	"Hyperlipidaemia, unspecified"	"E78.5"	11	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"86 years"	"86"	"Vascular dementia, unspecified"	"F01.9"	16	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"86 years"	"86"	"Unspecified dementia"	"F03"	138	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"86 years"	"86"	"Parkinson disease"	"G20"	69	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"86 years"	"86"	"Alzheimer disease, unspecified"	"G30.9"	77	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"86 years"	"86"	"Essential (primary) hypertension"	"I10"	14	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"86 years"	"86"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	11	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"86 years"	"86"	"Acute myocardial infarction, unspecified"	"I21.9"	50	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"86 years"	"86"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	47	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"86 years"	"86"	"Atherosclerotic heart disease"	"I25.1"	176	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"86 years"	"86"	"Ischaemic cardiomyopathy"	"I25.5"	10	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"86 years"	"86"	"Aortic (valve) stenosis"	"I35.0"	21	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"86 years"	"86"	"Cardiomyopathy, unspecified"	"I42.9"	13	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"86 years"	"86"	"Cardiac arrest, unspecified"	"I46.9"	37	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"86 years"	"86"	"Atrial fibrillation and flutter"	"I48"	22	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"86 years"	"86"	"Congestive heart failure"	"I50.0"	68	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"86 years"	"86"	"Heart failure, unspecified"	"I50.9"	24	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"86 years"	"86"	"Intracerebral haemorrhage, unspecified"	"I61.9"	12	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"86 years"	"86"	"Stroke, not specified as haemorrhage or infarction"	"I64"	37	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"86 years"	"86"	"Pneumonia, unspecified"	"J18.9"	40	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"86 years"	"86"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	18	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"86 years"	"86"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	54	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"86 years"	"86"	"Pneumonitis due to food and vomit"	"J69.0"	33	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"86 years"	"86"	"Other interstitial pulmonary diseases with fibrosis"	"J84.1"	10	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"86 years"	"86"	"Gastrointestinal haemorrhage, unspecified"	"K92.2"	14	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"86 years"	"86"	"Chronic kidney disease, stage 5"	"N18.5"	20	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"86 years"	"86"	"Chronic renal failure, unspecified"	"N18.9"	12	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"86 years"	"86"	"Unspecified renal failure"	"N19"	13	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"86 years"	"86"	"Urinary tract infection, site not specified"	"N39.0"	12	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"86 years"	"86"	"COVID-19"	"U07.1"	86	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"86 years"	"86"	"Unspecified fall"	"W19"	42	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"86 years"	"86"	"Inhalation and ingestion of other objects causing obstruction of respiratory tract"	"W80"	11	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"87 years"	"87"	"Septicaemia, unspecified"	"A41.9"	37	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"87 years"	"87"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	24	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"87 years"	"87"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	29	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"87 years"	"87"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	72	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"87 years"	"87"	"Malignant neoplasm of prostate"	"C61"	71	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"87 years"	"87"	"Malignant neoplasm of kidney, except renal pelvis"	"C64"	11	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"87 years"	"87"	"Bladder, unspecified - Malignant neoplasms"	"C67.9"	21	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"87 years"	"87"	"Malignant neoplasm without specification of site"	"C80"	25	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"87 years"	"87"	"Multiple myeloma - Malignant neoplasms"	"C90.0"	15	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"87 years"	"87"	"Chronic lymphocytic leukaemia - Malignant neoplasms"	"C91.1"	11	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"87 years"	"87"	"Non-insulin-dependent diabetes mellitus, without complications"	"E11.9"	10	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"87 years"	"87"	"Unspecified diabetes mellitus, with renal complications"	"E14.2"	14	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"87 years"	"87"	"Unspecified diabetes mellitus, without complications"	"E14.9"	12	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"87 years"	"87"	"Hyperlipidaemia, unspecified"	"E78.5"	10	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"87 years"	"87"	"Vascular dementia, unspecified"	"F01.9"	17	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"87 years"	"87"	"Unspecified dementia"	"F03"	177	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"87 years"	"87"	"Parkinson disease"	"G20"	56	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"87 years"	"87"	"Alzheimer disease, unspecified"	"G30.9"	84	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"87 years"	"87"	"Essential (primary) hypertension"	"I10"	17	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"87 years"	"87"	"Hypertensive heart disease with (congestive) heart failure"	"I11.0"	12	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"87 years"	"87"	"Acute myocardial infarction, unspecified"	"I21.9"	50	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"87 years"	"87"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	47	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"87 years"	"87"	"Atherosclerotic heart disease"	"I25.1"	180	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"87 years"	"87"	"Ischaemic cardiomyopathy"	"I25.5"	12	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"87 years"	"87"	"Aortic (valve) stenosis"	"I35.0"	17	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"87 years"	"87"	"Cardiomyopathy, unspecified"	"I42.9"	18	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"87 years"	"87"	"Cardiac arrest, unspecified"	"I46.9"	32	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"87 years"	"87"	"Atrial fibrillation and flutter"	"I48"	43	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"87 years"	"87"	"Congestive heart failure"	"I50.0"	78	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"87 years"	"87"	"Heart failure, unspecified"	"I50.9"	33	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"87 years"	"87"	"Intracerebral haemorrhage, unspecified"	"I61.9"	11	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"87 years"	"87"	"Stroke, not specified as haemorrhage or infarction"	"I64"	29	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"87 years"	"87"	"Cerebral atherosclerosis"	"I67.2"	10	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"87 years"	"87"	"Pneumonia, unspecified"	"J18.9"	60	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"87 years"	"87"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	19	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"87 years"	"87"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	72	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"87 years"	"87"	"Pneumonitis due to food and vomit"	"J69.0"	43	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"87 years"	"87"	"Other interstitial pulmonary diseases with fibrosis"	"J84.1"	20	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"87 years"	"87"	"Gastrointestinal haemorrhage, unspecified"	"K92.2"	12	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"87 years"	"87"	"Chronic kidney disease, stage 5"	"N18.5"	15	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"87 years"	"87"	"Chronic renal failure, unspecified"	"N18.9"	17	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"87 years"	"87"	"Urinary tract infection, site not specified"	"N39.0"	17	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"87 years"	"87"	"COVID-19"	"U07.1"	82	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"87 years"	"87"	"Unspecified fall"	"W19"	44	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"88 years"	"88"	"Septicaemia, unspecified"	"A41.9"	40	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"88 years"	"88"	"Oesophagus, unspecified - Malignant neoplasms"	"C15.9"	10	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"88 years"	"88"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	18	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"88 years"	"88"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	12	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"88 years"	"88"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	65	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"88 years"	"88"	"Malignant neoplasm of prostate"	"C61"	68	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"88 years"	"88"	"Malignant neoplasm of kidney, except renal pelvis"	"C64"	10	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"88 years"	"88"	"Bladder, unspecified - Malignant neoplasms"	"C67.9"	26	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"88 years"	"88"	"Brain, unspecified - Malignant neoplasms"	"C71.9"	15	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"88 years"	"88"	"Malignant neoplasm without specification of site"	"C80"	26	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"88 years"	"88"	"Non-Hodgkin lymphoma, unspecified type"	"C85.9"	10	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"88 years"	"88"	"Myelodysplastic syndrome, unspecified - Uncertain neoplasms"	"D46.9"	11	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"88 years"	"88"	"Unspecified diabetes mellitus, without complications"	"E14.9"	22	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"88 years"	"88"	"Vascular dementia, unspecified"	"F01.9"	17	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"88 years"	"88"	"Unspecified dementia"	"F03"	169	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"88 years"	"88"	"Parkinson disease"	"G20"	56	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"88 years"	"88"	"Alzheimer disease, unspecified"	"G30.9"	89	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"88 years"	"88"	"Essential (primary) hypertension"	"I10"	15	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"88 years"	"88"	"Hypertensive heart disease with (congestive) heart failure"	"I11.0"	11	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"88 years"	"88"	"Hypertensive renal disease with renal failure"	"I12.0"	11	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"88 years"	"88"	"Acute subendocardial myocardial infarction"	"I21.4"	11	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"88 years"	"88"	"Acute myocardial infarction, unspecified"	"I21.9"	60	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"88 years"	"88"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	44	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"88 years"	"88"	"Atherosclerotic heart disease"	"I25.1"	187	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"88 years"	"88"	"Ischaemic cardiomyopathy"	"I25.5"	13	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"88 years"	"88"	"Chronic ischaemic heart disease, unspecified"	"I25.9"	12	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"88 years"	"88"	"Aortic (valve) stenosis"	"I35.0"	24	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"88 years"	"88"	"Cardiomyopathy, unspecified"	"I42.9"	15	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"88 years"	"88"	"Cardiac arrest, unspecified"	"I46.9"	25	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"88 years"	"88"	"Atrial fibrillation and flutter"	"I48"	33	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"88 years"	"88"	"Congestive heart failure"	"I50.0"	90	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"88 years"	"88"	"Heart failure, unspecified"	"I50.9"	40	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"88 years"	"88"	"Stroke, not specified as haemorrhage or infarction"	"I64"	49	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"88 years"	"88"	"Cerebral atherosclerosis"	"I67.2"	14	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"88 years"	"88"	"Pneumonia, unspecified"	"J18.9"	49	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"88 years"	"88"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	12	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"88 years"	"88"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	77	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"88 years"	"88"	"Pneumonitis due to food and vomit"	"J69.0"	47	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"88 years"	"88"	"Other interstitial pulmonary diseases with fibrosis"	"J84.1"	16	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"88 years"	"88"	"Gastrointestinal haemorrhage, unspecified"	"K92.2"	14	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"88 years"	"88"	"Chronic kidney disease, stage 5"	"N18.5"	22	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"88 years"	"88"	"Chronic renal failure, unspecified"	"N18.9"	10	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"88 years"	"88"	"Urinary tract infection, site not specified"	"N39.0"	18	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"88 years"	"88"	"COVID-19"	"U07.1"	93	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"88 years"	"88"	"Unspecified fall"	"W19"	43	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"89 years"	"89"	"Septicaemia, unspecified"	"A41.9"	35	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"89 years"	"89"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	19	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"89 years"	"89"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	25	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"89 years"	"89"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	67	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"89 years"	"89"	"Malignant neoplasm of prostate"	"C61"	63	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"89 years"	"89"	"Bladder, unspecified - Malignant neoplasms"	"C67.9"	30	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"89 years"	"89"	"Malignant neoplasm without specification of site"	"C80"	18	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"89 years"	"89"	"Non-Hodgkin lymphoma, unspecified type"	"C85.9"	12	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"89 years"	"89"	"Malignant neoplasms of independent (primary) multiple sites"	"C97"	11	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"89 years"	"89"	"Myelodysplastic syndrome, unspecified - Uncertain neoplasms"	"D46.9"	12	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"89 years"	"89"	"Unspecified diabetes mellitus, with renal complications"	"E14.2"	10	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"89 years"	"89"	"Unspecified diabetes mellitus, without complications"	"E14.9"	13	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"89 years"	"89"	"Hyperlipidaemia, unspecified"	"E78.5"	14	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"89 years"	"89"	"Vascular dementia, unspecified"	"F01.9"	15	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"89 years"	"89"	"Unspecified dementia"	"F03"	201	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"89 years"	"89"	"Parkinson disease"	"G20"	58	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"89 years"	"89"	"Alzheimer disease, unspecified"	"G30.9"	76	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"89 years"	"89"	"Essential (primary) hypertension"	"I10"	10	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"89 years"	"89"	"Hypertensive heart disease with (congestive) heart failure"	"I11.0"	11	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"89 years"	"89"	"Hypertensive renal disease with renal failure"	"I12.0"	10	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"89 years"	"89"	"Acute subendocardial myocardial infarction"	"I21.4"	10	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"89 years"	"89"	"Acute myocardial infarction, unspecified"	"I21.9"	53	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"89 years"	"89"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	40	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"89 years"	"89"	"Atherosclerotic heart disease"	"I25.1"	205	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"89 years"	"89"	"Aortic (valve) stenosis"	"I35.0"	16	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"89 years"	"89"	"Cardiomyopathy, unspecified"	"I42.9"	19	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"89 years"	"89"	"Cardiac arrest, unspecified"	"I46.9"	38	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"89 years"	"89"	"Atrial fibrillation and flutter"	"I48"	52	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"89 years"	"89"	"Congestive heart failure"	"I50.0"	71	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"89 years"	"89"	"Heart failure, unspecified"	"I50.9"	40	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"89 years"	"89"	"Intracranial haemorrhage (nontraumatic), unspecified"	"I62.9"	11	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"89 years"	"89"	"Cerebral infarction, unspecified"	"I63.9"	12	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"89 years"	"89"	"Stroke, not specified as haemorrhage or infarction"	"I64"	47	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"89 years"	"89"	"Pneumonia, unspecified"	"J18.9"	41	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"89 years"	"89"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	14	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"89 years"	"89"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	69	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"89 years"	"89"	"Pneumonitis due to food and vomit"	"J69.0"	49	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"89 years"	"89"	"Other interstitial pulmonary diseases with fibrosis"	"J84.1"	15	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"89 years"	"89"	"Gastrointestinal haemorrhage, unspecified"	"K92.2"	10	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"89 years"	"89"	"Chronic kidney disease, stage 5"	"N18.5"	21	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"89 years"	"89"	"Chronic renal failure, unspecified"	"N18.9"	18	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"89 years"	"89"	"Unspecified renal failure"	"N19"	13	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"89 years"	"89"	"Urinary tract infection, site not specified"	"N39.0"	12	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"89 years"	"89"	"COVID-19"	"U07.1"	114	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"89 years"	"89"	"Unspecified fall"	"W19"	33	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"90 years"	"90"	"Enterocolitis due to Clostridium difficile"	"A04.7"	10	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"90 years"	"90"	"Septicaemia, unspecified"	"A41.9"	36	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"90 years"	"90"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	20	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"90 years"	"90"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	15	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"90 years"	"90"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	33	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"90 years"	"90"	"Malignant neoplasm of prostate"	"C61"	69	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"90 years"	"90"	"Bladder, unspecified - Malignant neoplasms"	"C67.9"	24	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"90 years"	"90"	"Malignant neoplasm without specification of site"	"C80"	27	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"90 years"	"90"	"Non-Hodgkin lymphoma, unspecified type"	"C85.9"	11	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"90 years"	"90"	"Malignant neoplasms of independent (primary) multiple sites"	"C97"	10	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"90 years"	"90"	"Unspecified diabetes mellitus, without complications"	"E14.9"	16	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"90 years"	"90"	"Vascular dementia, unspecified"	"F01.9"	19	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"90 years"	"90"	"Unspecified dementia"	"F03"	164	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"90 years"	"90"	"Parkinson disease"	"G20"	43	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"90 years"	"90"	"Alzheimer disease, unspecified"	"G30.9"	80	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"90 years"	"90"	"Essential (primary) hypertension"	"I10"	20	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"90 years"	"90"	"Hypertensive renal disease with renal failure"	"I12.0"	12	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"90 years"	"90"	"Acute myocardial infarction, unspecified"	"I21.9"	46	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"90 years"	"90"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	36	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"90 years"	"90"	"Atherosclerotic heart disease"	"I25.1"	190	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"90 years"	"90"	"Aortic (valve) stenosis"	"I35.0"	20	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"90 years"	"90"	"Cardiac arrest, unspecified"	"I46.9"	42	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"90 years"	"90"	"Atrial fibrillation and flutter"	"I48"	49	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"90 years"	"90"	"Congestive heart failure"	"I50.0"	84	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"90 years"	"90"	"Heart failure, unspecified"	"I50.9"	32	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"90 years"	"90"	"Stroke, not specified as haemorrhage or infarction"	"I64"	40	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"90 years"	"90"	"Generalized and unspecified atherosclerosis"	"I70.9"	13	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"90 years"	"90"	"Pneumonia, unspecified"	"J18.9"	45	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"90 years"	"90"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	16	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"90 years"	"90"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	57	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"90 years"	"90"	"Pneumonitis due to food and vomit"	"J69.0"	45	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"90 years"	"90"	"Other interstitial pulmonary diseases with fibrosis"	"J84.1"	11	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"90 years"	"90"	"Chronic kidney disease, stage 5"	"N18.5"	26	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"90 years"	"90"	"Chronic renal failure, unspecified"	"N18.9"	21	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"90 years"	"90"	"Unspecified renal failure"	"N19"	13	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"90 years"	"90"	"Urinary tract infection, site not specified"	"N39.0"	15	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"90 years"	"90"	"COVID-19"	"U07.1"	82	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"90 years"	"90"	"Unspecified fall"	"W19"	32	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"90 years"	"90"	"Exposure to unspecified factor causing other and unspecified injury"	"X59.9"	10	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"91 years"	"91"	"Septicaemia, unspecified"	"A41.9"	52	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"91 years"	"91"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	40	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"91 years"	"91"	"Malignant neoplasm of prostate"	"C61"	65	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"91 years"	"91"	"Bladder, unspecified - Malignant neoplasms"	"C67.9"	27	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"91 years"	"91"	"Malignant neoplasm without specification of site"	"C80"	12	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"91 years"	"91"	"Non-Hodgkin lymphoma, unspecified type"	"C85.9"	11	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"91 years"	"91"	"Multiple myeloma - Malignant neoplasms"	"C90.0"	11	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"91 years"	"91"	"Unspecified diabetes mellitus, without complications"	"E14.9"	14	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"91 years"	"91"	"Hyperlipidaemia, unspecified"	"E78.5"	10	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"91 years"	"91"	"Vascular dementia, unspecified"	"F01.9"	15	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"91 years"	"91"	"Unspecified dementia"	"F03"	169	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"91 years"	"91"	"Parkinson disease"	"G20"	42	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"91 years"	"91"	"Alzheimer disease, unspecified"	"G30.9"	72	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"91 years"	"91"	"Essential (primary) hypertension"	"I10"	14	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"91 years"	"91"	"Hypertensive renal disease with renal failure"	"I12.0"	13	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"91 years"	"91"	"Acute myocardial infarction, unspecified"	"I21.9"	47	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"91 years"	"91"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	47	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"91 years"	"91"	"Atherosclerotic heart disease"	"I25.1"	177	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"91 years"	"91"	"Ischaemic cardiomyopathy"	"I25.5"	14	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"91 years"	"91"	"Aortic (valve) stenosis"	"I35.0"	19	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"91 years"	"91"	"Cardiomyopathy, unspecified"	"I42.9"	15	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"91 years"	"91"	"Cardiac arrest, unspecified"	"I46.9"	35	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"91 years"	"91"	"Atrial fibrillation and flutter"	"I48"	53	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"91 years"	"91"	"Congestive heart failure"	"I50.0"	80	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"91 years"	"91"	"Heart failure, unspecified"	"I50.9"	34	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"91 years"	"91"	"Stroke, not specified as haemorrhage or infarction"	"I64"	40	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"91 years"	"91"	"Cerebral atherosclerosis"	"I67.2"	12	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"91 years"	"91"	"Pneumonia, unspecified"	"J18.9"	34	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"91 years"	"91"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	13	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"91 years"	"91"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	52	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"91 years"	"91"	"Pneumonitis due to food and vomit"	"J69.0"	31	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"91 years"	"91"	"Other interstitial pulmonary diseases with fibrosis"	"J84.1"	10	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"91 years"	"91"	"Gastrointestinal haemorrhage, unspecified"	"K92.2"	16	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"91 years"	"91"	"Chronic kidney disease, stage 5"	"N18.5"	19	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"91 years"	"91"	"Chronic renal failure, unspecified"	"N18.9"	16	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"91 years"	"91"	"Unspecified renal failure"	"N19"	14	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"91 years"	"91"	"Urinary tract infection, site not specified"	"N39.0"	14	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"91 years"	"91"	"COVID-19"	"U07.1"	82	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"91 years"	"91"	"Unspecified fall"	"W19"	38	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"92 years"	"92"	"Septicaemia, unspecified"	"A41.9"	36	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"92 years"	"92"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	20	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"92 years"	"92"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	17	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"92 years"	"92"	"Malignant neoplasm of prostate"	"C61"	48	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"92 years"	"92"	"Bladder, unspecified - Malignant neoplasms"	"C67.9"	16	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"92 years"	"92"	"Malignant neoplasm without specification of site"	"C80"	10	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"92 years"	"92"	"Non-insulin-dependent diabetes mellitus, without complications"	"E11.9"	12	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"92 years"	"92"	"Unspecified diabetes mellitus, without complications"	"E14.9"	12	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"92 years"	"92"	"Hyperlipidaemia, unspecified"	"E78.5"	18	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"92 years"	"92"	"Vascular dementia, unspecified"	"F01.9"	18	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"92 years"	"92"	"Unspecified dementia"	"F03"	161	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"92 years"	"92"	"Parkinson disease"	"G20"	34	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"92 years"	"92"	"Alzheimer disease, unspecified"	"G30.9"	65	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"92 years"	"92"	"Essential (primary) hypertension"	"I10"	14	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"92 years"	"92"	"Hypertensive heart disease with (congestive) heart failure"	"I11.0"	11	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"92 years"	"92"	"Acute myocardial infarction, unspecified"	"I21.9"	26	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"92 years"	"92"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	33	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"92 years"	"92"	"Atherosclerotic heart disease"	"I25.1"	161	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"92 years"	"92"	"Aortic (valve) stenosis"	"I35.0"	19	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"92 years"	"92"	"Cardiomyopathy, unspecified"	"I42.9"	13	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"92 years"	"92"	"Cardiac arrest, unspecified"	"I46.9"	35	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"92 years"	"92"	"Atrial fibrillation and flutter"	"I48"	33	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"92 years"	"92"	"Congestive heart failure"	"I50.0"	64	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"92 years"	"92"	"Heart failure, unspecified"	"I50.9"	32	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"92 years"	"92"	"Stroke, not specified as haemorrhage or infarction"	"I64"	37	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"92 years"	"92"	"Cerebral atherosclerosis"	"I67.2"	11	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"92 years"	"92"	"Peripheral vascular disease, unspecified"	"I73.9"	12	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"92 years"	"92"	"Pneumonia, unspecified"	"J18.9"	54	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"92 years"	"92"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	11	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"92 years"	"92"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	63	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"92 years"	"92"	"Pneumonitis due to food and vomit"	"J69.0"	45	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"92 years"	"92"	"Chronic kidney disease, stage 5"	"N18.5"	13	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"92 years"	"92"	"Chronic renal failure, unspecified"	"N18.9"	10	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"92 years"	"92"	"Unspecified renal failure"	"N19"	10	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"92 years"	"92"	"Urinary tract infection, site not specified"	"N39.0"	16	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"92 years"	"92"	"COVID-19"	"U07.1"	71	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"92 years"	"92"	"Unspecified fall"	"W19"	31	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"93 years"	"93"	"Septicaemia, unspecified"	"A41.9"	22	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"93 years"	"93"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	17	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"93 years"	"93"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	12	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"93 years"	"93"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	30	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"93 years"	"93"	"Malignant neoplasm of prostate"	"C61"	48	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"93 years"	"93"	"Bladder, unspecified - Malignant neoplasms"	"C67.9"	12	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"93 years"	"93"	"Malignant neoplasm without specification of site"	"C80"	15	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"93 years"	"93"	"Unspecified diabetes mellitus, without complications"	"E14.9"	12	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"93 years"	"93"	"Vascular dementia, unspecified"	"F01.9"	15	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"93 years"	"93"	"Unspecified dementia"	"F03"	167	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"93 years"	"93"	"Parkinson disease"	"G20"	22	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"93 years"	"93"	"Alzheimer disease, unspecified"	"G30.9"	64	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"93 years"	"93"	"Senile degeneration of brain, not elsewhere classified"	"G31.1"	13	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"93 years"	"93"	"Essential (primary) hypertension"	"I10"	23	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"93 years"	"93"	"Hypertensive heart disease with (congestive) heart failure"	"I11.0"	12	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"93 years"	"93"	"Acute myocardial infarction, unspecified"	"I21.9"	37	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"93 years"	"93"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	25	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"93 years"	"93"	"Atherosclerotic heart disease"	"I25.1"	154	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"93 years"	"93"	"Aortic (valve) stenosis"	"I35.0"	12	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"93 years"	"93"	"Cardiomyopathy, unspecified"	"I42.9"	21	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"93 years"	"93"	"Cardiac arrest, unspecified"	"I46.9"	25	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"93 years"	"93"	"Atrial fibrillation and flutter"	"I48"	33	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"93 years"	"93"	"Congestive heart failure"	"I50.0"	79	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"93 years"	"93"	"Heart failure, unspecified"	"I50.9"	24	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"93 years"	"93"	"Stroke, not specified as haemorrhage or infarction"	"I64"	28	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"93 years"	"93"	"Cerebral atherosclerosis"	"I67.2"	14	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"93 years"	"93"	"Generalized and unspecified atherosclerosis"	"I70.9"	10	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"93 years"	"93"	"Pneumonia, unspecified"	"J18.9"	37	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"93 years"	"93"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	30	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"93 years"	"93"	"Pneumonitis due to food and vomit"	"J69.0"	47	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"93 years"	"93"	"Gastrointestinal haemorrhage, unspecified"	"K92.2"	13	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"93 years"	"93"	"Chronic kidney disease, stage 5"	"N18.5"	10	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"93 years"	"93"	"Chronic renal failure, unspecified"	"N18.9"	13	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"93 years"	"93"	"Unspecified renal failure"	"N19"	10	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"93 years"	"93"	"COVID-19"	"U07.1"	54	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"93 years"	"93"	"Unspecified fall"	"W19"	30	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"94 years"	"94"	"Septicaemia, unspecified"	"A41.9"	36	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"94 years"	"94"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	11	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"94 years"	"94"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	24	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"94 years"	"94"	"Malignant neoplasm of prostate"	"C61"	38	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"94 years"	"94"	"Bladder, unspecified - Malignant neoplasms"	"C67.9"	11	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"94 years"	"94"	"Malignant neoplasm without specification of site"	"C80"	17	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"94 years"	"94"	"Unspecified diabetes mellitus, without complications"	"E14.9"	11	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"94 years"	"94"	"Vascular dementia, unspecified"	"F01.9"	13	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"94 years"	"94"	"Unspecified dementia"	"F03"	122	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"94 years"	"94"	"Parkinson disease"	"G20"	19	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"94 years"	"94"	"Alzheimer disease, unspecified"	"G30.9"	55	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"94 years"	"94"	"Essential (primary) hypertension"	"I10"	17	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"94 years"	"94"	"Hypertensive heart disease with (congestive) heart failure"	"I11.0"	13	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"94 years"	"94"	"Acute myocardial infarction, unspecified"	"I21.9"	30	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"94 years"	"94"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	21	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"94 years"	"94"	"Atherosclerotic heart disease"	"I25.1"	128	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"94 years"	"94"	"Aortic (valve) stenosis"	"I35.0"	16	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"94 years"	"94"	"Cardiomyopathy, unspecified"	"I42.9"	15	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"94 years"	"94"	"Cardiac arrest, unspecified"	"I46.9"	31	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"94 years"	"94"	"Atrial fibrillation and flutter"	"I48"	19	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"94 years"	"94"	"Congestive heart failure"	"I50.0"	75	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"94 years"	"94"	"Heart failure, unspecified"	"I50.9"	19	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"94 years"	"94"	"Stroke, not specified as haemorrhage or infarction"	"I64"	28	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"94 years"	"94"	"Cerebral atherosclerosis"	"I67.2"	14	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"94 years"	"94"	"Pneumonia, unspecified"	"J18.9"	37	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"94 years"	"94"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	14	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"94 years"	"94"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	45	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"94 years"	"94"	"Pneumonitis due to food and vomit"	"J69.0"	28	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"94 years"	"94"	"Chronic kidney disease, stage 5"	"N18.5"	14	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"94 years"	"94"	"Chronic renal failure, unspecified"	"N18.9"	17	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"94 years"	"94"	"Urinary tract infection, site not specified"	"N39.0"	14	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"94 years"	"94"	"COVID-19"	"U07.1"	63	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"94 years"	"94"	"Unspecified fall"	"W19"	25	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"95 years"	"95"	"Septicaemia, unspecified"	"A41.9"	22	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"95 years"	"95"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	17	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"95 years"	"95"	"Malignant neoplasm of prostate"	"C61"	25	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"95 years"	"95"	"Bladder, unspecified - Malignant neoplasms"	"C67.9"	11	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"95 years"	"95"	"Unspecified dementia"	"F03"	100	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"95 years"	"95"	"Parkinson disease"	"G20"	15	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"95 years"	"95"	"Alzheimer disease, unspecified"	"G30.9"	42	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"95 years"	"95"	"Essential (primary) hypertension"	"I10"	11	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"95 years"	"95"	"Acute myocardial infarction, unspecified"	"I21.9"	28	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"95 years"	"95"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	20	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"95 years"	"95"	"Atherosclerotic heart disease"	"I25.1"	112	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"95 years"	"95"	"Aortic (valve) stenosis"	"I35.0"	26	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"95 years"	"95"	"Cardiac arrest, unspecified"	"I46.9"	17	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"95 years"	"95"	"Atrial fibrillation and flutter"	"I48"	14	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"95 years"	"95"	"Congestive heart failure"	"I50.0"	58	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"95 years"	"95"	"Heart failure, unspecified"	"I50.9"	22	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"95 years"	"95"	"Stroke, not specified as haemorrhage or infarction"	"I64"	21	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"95 years"	"95"	"Pneumonia, unspecified"	"J18.9"	30	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"95 years"	"95"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	34	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"95 years"	"95"	"Pneumonitis due to food and vomit"	"J69.0"	24	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"95 years"	"95"	"Gastrointestinal haemorrhage, unspecified"	"K92.2"	14	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"95 years"	"95"	"Chronic renal failure, unspecified"	"N18.9"	12	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"95 years"	"95"	"COVID-19"	"U07.1"	43	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"95 years"	"95"	"Unspecified fall"	"W19"	22	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"96 years"	"96"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	15	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"96 years"	"96"	"Malignant neoplasm of prostate"	"C61"	24	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"96 years"	"96"	"Vascular dementia, unspecified"	"F01.9"	13	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"96 years"	"96"	"Unspecified dementia"	"F03"	85	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"96 years"	"96"	"Parkinson disease"	"G20"	11	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"96 years"	"96"	"Alzheimer disease, unspecified"	"G30.9"	33	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"96 years"	"96"	"Acute myocardial infarction, unspecified"	"I21.9"	20	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"96 years"	"96"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	19	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"96 years"	"96"	"Atherosclerotic heart disease"	"I25.1"	94	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"96 years"	"96"	"Aortic (valve) stenosis"	"I35.0"	14	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"96 years"	"96"	"Cardiac arrest, unspecified"	"I46.9"	15	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"96 years"	"96"	"Atrial fibrillation and flutter"	"I48"	27	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"96 years"	"96"	"Congestive heart failure"	"I50.0"	53	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"96 years"	"96"	"Heart failure, unspecified"	"I50.9"	21	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"96 years"	"96"	"Stroke, not specified as haemorrhage or infarction"	"I64"	22	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"96 years"	"96"	"Cerebral atherosclerosis"	"I67.2"	10	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"96 years"	"96"	"Pneumonia, unspecified"	"J18.9"	21	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"96 years"	"96"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	25	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"96 years"	"96"	"Pneumonitis due to food and vomit"	"J69.0"	19	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"96 years"	"96"	"COVID-19"	"U07.1"	29	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"96 years"	"96"	"Unspecified fall"	"W19"	15	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"97 years"	"97"	"Septicaemia, unspecified"	"A41.9"	15	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"97 years"	"97"	"Malignant neoplasm of prostate"	"C61"	11	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"97 years"	"97"	"Unspecified dementia"	"F03"	73	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"97 years"	"97"	"Alzheimer disease, unspecified"	"G30.9"	30	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"97 years"	"97"	"Acute myocardial infarction, unspecified"	"I21.9"	12	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"97 years"	"97"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	13	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"97 years"	"97"	"Atherosclerotic heart disease"	"I25.1"	63	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"97 years"	"97"	"Cardiac arrest, unspecified"	"I46.9"	11	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"97 years"	"97"	"Atrial fibrillation and flutter"	"I48"	19	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"97 years"	"97"	"Congestive heart failure"	"I50.0"	43	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"97 years"	"97"	"Heart failure, unspecified"	"I50.9"	11	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"97 years"	"97"	"Stroke, not specified as haemorrhage or infarction"	"I64"	13	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"97 years"	"97"	"Pneumonia, unspecified"	"J18.9"	12	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"97 years"	"97"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	12	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"97 years"	"97"	"Pneumonitis due to food and vomit"	"J69.0"	11	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"97 years"	"97"	"COVID-19"	"U07.1"	32	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"98 years"	"98"	"Septicaemia, unspecified"	"A41.9"	11	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"98 years"	"98"	"Unspecified dementia"	"F03"	52	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"98 years"	"98"	"Alzheimer disease, unspecified"	"G30.9"	24	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"98 years"	"98"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	10	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"98 years"	"98"	"Atherosclerotic heart disease"	"I25.1"	48	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"98 years"	"98"	"Atrial fibrillation and flutter"	"I48"	13	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"98 years"	"98"	"Congestive heart failure"	"I50.0"	28	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"98 years"	"98"	"Heart failure, unspecified"	"I50.9"	11	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"98 years"	"98"	"Stroke, not specified as haemorrhage or infarction"	"I64"	10	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"98 years"	"98"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	13	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"98 years"	"98"	"Pneumonitis due to food and vomit"	"J69.0"	10	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"98 years"	"98"	"COVID-19"	"U07.1"	18	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"98 years"	"98"	"Unspecified fall"	"W19"	13	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"99 years"	"99"	"Unspecified dementia"	"F03"	37	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"99 years"	"99"	"Alzheimer disease, unspecified"	"G30.9"	10	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"99 years"	"99"	"Atherosclerotic heart disease"	"I25.1"	21	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"99 years"	"99"	"Congestive heart failure"	"I50.0"	22	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"99 years"	"99"	"Stroke, not specified as haemorrhage or infarction"	"I64"	10	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"99 years"	"99"	"Pneumonia, unspecified"	"J18.9"	14	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"99 years"	"99"	"COVID-19"	"U07.1"	12	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"100+ years"	"100"	"Septicaemia, unspecified"	"A41.9"	10	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"100+ years"	"100"	"Malignant neoplasm of prostate"	"C61"	15	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"100+ years"	"100"	"Unspecified dementia"	"F03"	59	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"100+ years"	"100"	"Alzheimer disease, unspecified"	"G30.9"	23	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"100+ years"	"100"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	12	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"100+ years"	"100"	"Atherosclerotic heart disease"	"I25.1"	59	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"100+ years"	"100"	"Congestive heart failure"	"I50.0"	23	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"100+ years"	"100"	"Stroke, not specified as haemorrhage or infarction"	"I64"	15	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"100+ years"	"100"	"Pneumonia, unspecified"	"J18.9"	27	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"100+ years"	"100"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	11	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"100+ years"	"100"	"Pneumonitis due to food and vomit"	"J69.0"	11	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"100+ years"	"100"	"COVID-19"	"U07.1"	20	Not Applicable	Not Applicable
+"---"
+"Dataset: Underlying Cause of Death, 1999-2020"
+"Query Parameters:"
+"Title: Conneticut CoD M"
+"Gender: Male"
+"States: Connecticut (09)"
+"Year/Month: 2016; 2017; 2018; 2019; 2020"
+"Group By: State; Single-Year Ages; Cause of death"
+"Show Totals: Disabled"
+"Show Zero Values: Disabled"
+"Show Suppressed: False"
+"Calculate Rates Per: 100,000"
+"Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/ucd.html for more information."
+"---"
+"Query Date: Apr 8, 2022 12:36:59 AM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. Underlying Cause of Death"
+"1999-2020 on CDC WONDER Online Database, released in 2021. Data are from the Multiple Cause of Death Files, 1999-2020, as"
+"compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative Program. Accessed"
+"at http://wonder.cdc.gov/ucd-icd10.html on Apr 8, 2022 12:36:59 AM"
+"---"
+Messages:
+"1. The full results are too long to be displayed. Due to suppression constraints rows that are zero, suppressed or a total will"
+"not be available."
+"---"
+Caveats:
+"1. Population and rates are labeled 'Not Applicable' when they include a subset of ages 85-100+ because populations are not"
+"available for those ages. More information: http://wonder.cdc.gov/wonder/help/ucd.html#Ages 85-100."
+"2. Death rates are flagged as Unreliable when the rate is calculated with a numerator of 20 or less. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Unreliable."
+"3. Deaths of persons with Age ""Not Stated"" are included in ""All"" counts and rates, but are not distributed among age groups,"
+"so are not included in age-specific counts, age-specific rates or in any age-adjusted rates. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Not Stated."
+"4. The population figures for year 2020 are bridged-race estimates of the July 1 resident population, from the Vintage 2020"
+"postcensal series released by NCHS on September 22, 2021. The population figures for year 2019 are bridged-race estimates of the"
+"July 1 resident population, from the Vintage 2019 postcensal series released by NCHS on July 9, 2020. The population figures for"
+"year 2018 are bridged-race estimates of the July 1 resident population, from the Vintage 2018 postcensal series released by NCHS"
+"on June 25, 2019. The population figures for year 2017 are bridged-race estimates of the July 1 resident population, from the"
+"Vintage 2017 postcensal series released by NCHS on June 27, 2018. The population figures for year 2016 are bridged-race"
+"estimates of the July 1 resident population, from the Vintage 2016 postcensal series released by NCHS on June 26, 2017. The"
+"population figures for year 2015 are bridged-race estimates of the July 1 resident population, from the Vintage 2015 postcensal"
+"series released by NCHS on June 28, 2016. The population figures for year 2014 are bridged-race estimates of the July 1 resident"
+"population, from the Vintage 2014 postcensal series released by NCHS on June 30, 2015. The population figures for year 2013 are"
+"bridged-race estimates of the July 1 resident population, from the Vintage 2013 postcensal series released by NCHS on June 26,"
+"2014. The population figures for year 2012 are bridged-race estimates of the July 1 resident population, from the Vintage 2012"
+"postcensal series released by NCHS on June 13, 2013. The population figures for year 2011 are bridged-race estimates of the July"
+"1 resident population, from the Vintage 2011 postcensal series released by NCHS on July 18, 2012. Population figures for 2010"
+"are April 1 Census counts. The population figures for years 2001 - 2009 are bridged-race estimates of the July 1 resident"
+"population, from the revised intercensal county-level 2000 - 2009 series released by NCHS on October 26, 2012. Population"
+"figures for 2000 are April 1 Census counts. Population figures for 1999 are from the 1990-1999 intercensal series of July 1"
+"estimates. Population figures for the infant age groups are the number of live births. <br/><b>Note:</b> Rates and population"
+"figures for years 2001 - 2009 differ slightly from previously published reports, due to use of the population estimates which"
+"were available at the time of release."
+"5. The population figures used in the calculation of death rates for the age group 'under 1 year' are the estimates of the"
+"resident population that is under one year of age. More information: http://wonder.cdc.gov/wonder/help/ucd.html#Age Group."
+"6. Beginning with the 2018 data, changes have been implemented that affect the counts for ICD-10 cause of death codes O00-O99"
+"compared to previous practice. In addition, data for the cause of death codes O00-O99 for 2003 through 2017 reflect differences"
+"in information available to individual states and probable errors. Caution should be used in interpreting these data. More"
+"information can be found at: https://www.cdc.gov/nchs/maternal-mortality/."
+"7. On March 11, 2021, the 2019 mortality data on CDC WONDER was updated with the 2019 mortality data updated by NCHS on March 4,"
+"2021 to include corrected information for residents of Texas affecting 5 records previously coded to cause code *U01.4,"
+"Terrorism involving firearms (homicide). The underlying and multiple cause of death codes for 5 records were corrected in the"
+"2019 data. Underlying and multiple cause of death codes for those 5 records were recoded to Assault (homicide) by other and"
+"unspecified firearm discharge, ICD-10 code X95. The corrected final death records replaces the data released on December 22,"
+"2020."
+"8. Changes to cause of death classification affect reporting trends. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#ICD-10 Changes."

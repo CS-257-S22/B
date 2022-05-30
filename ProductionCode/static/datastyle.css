@@ -1,0 +1,172 @@
+h1, h2, h3 {
+    font-family: Verdana, Geneva, sans-serif; 
+}
+
+h1 {
+    padding-top: 1em;
+    padding-bottom: 1em;
+    background-color: #004e6d;
+    color: #f5edaa;
+    text-align: center;
+}
+
+h2 { 
+    border-bottom: 4px double rgba(0, 0, 0, 0.483);
+}
+
+h3 {
+    margin-top: 3em;
+}
+
+p, label {
+    font-family: Arial, Helvetica, sans-serif;
+    /* This next line gives us some extra spacing within a paragraph*/
+    line-height: 1.4;
+}
+
+li {
+    font-family: Verdana, Geneva, sans-serif;
+    line-height: 1.4;
+}
+
+body {
+    margin-left: 5%;
+    margin-right: 5%;
+    background-color: aliceblue; 
+}
+
+/* The nav bar is an unordered list whose items are not bulleted. 
+     We only want to apply this styling to unordered lists inside of the nav
+     tag.
+*/
+nav ul {
+    border: 2px solid #f5edaa;
+    list-style-type: none;
+    overflow: hidden;
+}
+
+/* Navigation bar list items should render starting at the left margin. */
+nav li {
+    float: left;
+    font-size: 1.1em;
+    font-weight: bold;
+}
+
+/* Navigation bar items should link to elements on the page, or to other pages.
+     This is the "a" tag. So this says "apply this style to links within the nav bar".
+*/
+nav li a {
+    display: block;
+    color: #004e6d;
+    text-decoration: none;
+    text-align: center;
+    padding: 14px 16px;
+}
+
+/* When you mouse over something in the nav bar, turn it blue. */
+nav li a:hover {
+    color: #f5edaa;
+    background-color: #004e6d;
+}
+
+/* Making the form items be on new lines
+    https://stackoverflow.com/questions/10349276/how-to-put-web-form-elements-on-a-new-line#10349338
+*/
+label{
+    display:block;
+    text-align:right;
+    float:left;
+    padding:0 5px 0 0
+}
+
+/* Making the form items be on new lines
+    https://stackoverflow.com/questions/10349276/how-to-put-web-form-elements-on-a-new-line#10349338
+*/
+select{
+    display:block;
+    margin:10px 0 10px 0;
+}
+
+input { 
+    display: block;
+    padding: 16px;
+    border: none; 
+    margin: auto;
+    color: #f5edaa;
+    background-color: #004e6d; 
+}
+
+input:hover {
+    color: #004e6d;
+    background-color: #f5edaa; 
+}
+
+#new_fact{ 
+    display: block;
+    padding: 16px;
+    color: #f5edaa;
+    background-color: #004e6d;
+    border: none;
+    margin: auto;
+}
+
+#new_fact:hover{ 
+    background-color: #f5edaa
+}
+
+#new_fact a{ 
+    padding: 18px;
+    text-decoration: none;
+    color: #f5edaa;
+    font: Verdana, Geneva, sans-serif;
+}
+
+#new_fact a:hover{ 
+    color: #004e6d;
+}
+
+@keyframes fade_in {
+    0% {opacity: 0;}
+    100% {opacity: 1;}
+}
+
+#welcome h1 { 
+    animation-fill-mode: backwards;
+    animation-name: fade_in; 
+    animation-duration: 2s;
+    color: black;
+} 
+
+.animate-fadeIn h2{
+    animation-fill-mode: backwards;
+    animation-name: fade_in; 
+    animation-duration: 4s;
+    animation-delay: 1.5s;
+}
+
+.animate-fadeIn h3, .animate-fadeIn p, .animate-fadeIn button{ 
+    animation-fill-mode: backwards;
+    animation-name: fade_in;
+    animation-duration: 4s; 
+    animation-delay: 2s;
+}
+
+.animation-fadeIn { 
+    animation-fill-mode: backwards;
+    animation-name: fade_in; 
+    animation-delay: 4.5s;
+    animation-duration: 1s;
+}
+
+#welcome{ 
+    padding: 8px;
+    margin: 25px;
+}
+
+#ux { 
+    padding: 8px;
+    margin: 25px;
+    border-bottom: 4px double rgba(0, 0, 0, 0.483);
+}
+
+

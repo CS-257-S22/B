@@ -1,0 +1,217 @@
+"Notes"	"State"	"State Code"	"Single-Year Ages"	"Single-Year Ages Code"	"Cause of death"	"Cause of death Code"	Deaths	Population	Crude Rate
+	"Alaska"	"02"	"< 1 year"	"0"	"Sudden infant death syndrome - SIDS"	"R95"	26	26735	97.3
+	"Alaska"	"02"	"19 years"	"19"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	10	23637	Unreliable
+	"Alaska"	"02"	"21 years"	"21"	"Intentional self-harm by hanging, strangulation and suffocation"	"X70"	12	30152	Unreliable
+	"Alaska"	"02"	"22 years"	"22"	"Intentional self-harm by hanging, strangulation and suffocation"	"X70"	10	30719	Unreliable
+	"Alaska"	"02"	"23 years"	"23"	"Intentional self-harm by hanging, strangulation and suffocation"	"X70"	10	31300	Unreliable
+	"Alaska"	"02"	"26 years"	"26"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	13	33433	Unreliable
+	"Alaska"	"02"	"27 years"	"27"	"Intentional self-harm by hanging, strangulation and suffocation"	"X70"	11	33119	Unreliable
+	"Alaska"	"02"	"30 years"	"30"	"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X44"	10	31323	Unreliable
+	"Alaska"	"02"	"31 years"	"31"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	12	30505	Unreliable
+	"Alaska"	"02"	"51 years"	"51"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	16	23034	Unreliable
+	"Alaska"	"02"	"52 years"	"52"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	12	23347	Unreliable
+	"Alaska"	"02"	"53 years"	"53"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	17	23826	Unreliable
+	"Alaska"	"02"	"54 years"	"54"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	17	24693	Unreliable
+	"Alaska"	"02"	"55 years"	"55"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	25	25362	98.6
+	"Alaska"	"02"	"56 years"	"56"	"Mental and behavioural disorders due to use of alcohol, dependence syndrome"	"F10.2"	10	25557	Unreliable
+	"Alaska"	"02"	"56 years"	"56"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	25	25557	97.8
+	"Alaska"	"02"	"57 years"	"57"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	11	25732	Unreliable
+	"Alaska"	"02"	"57 years"	"57"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	25	25732	97.2
+	"Alaska"	"02"	"58 years"	"58"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	22	25506	86.3
+	"Alaska"	"02"	"58 years"	"58"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	21	25506	82.3
+	"Alaska"	"02"	"59 years"	"59"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	23	25168	91.4
+	"Alaska"	"02"	"60 years"	"60"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	10	24504	Unreliable
+	"Alaska"	"02"	"60 years"	"60"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	10	24504	Unreliable
+	"Alaska"	"02"	"60 years"	"60"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	27	24504	110.2
+	"Alaska"	"02"	"60 years"	"60"	"Atherosclerotic heart disease"	"I25.1"	12	24504	Unreliable
+	"Alaska"	"02"	"61 years"	"61"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	14	23748	Unreliable
+	"Alaska"	"02"	"61 years"	"61"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	27	23748	113.7
+	"Alaska"	"02"	"61 years"	"61"	"Atherosclerotic heart disease"	"I25.1"	14	23748	Unreliable
+	"Alaska"	"02"	"62 years"	"62"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	24	23159	103.6
+	"Alaska"	"02"	"62 years"	"62"	"Acute myocardial infarction, unspecified"	"I21.9"	13	23159	Unreliable
+	"Alaska"	"02"	"62 years"	"62"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	25	23159	107.9
+	"Alaska"	"02"	"63 years"	"63"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	19	22296	Unreliable
+	"Alaska"	"02"	"63 years"	"63"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	30	22296	134.6
+	"Alaska"	"02"	"64 years"	"64"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	13	21248	Unreliable
+	"Alaska"	"02"	"64 years"	"64"	"Acute myocardial infarction, unspecified"	"I21.9"	11	21248	Unreliable
+	"Alaska"	"02"	"64 years"	"64"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	22	21248	103.5
+	"Alaska"	"02"	"64 years"	"64"	"Atherosclerotic heart disease"	"I25.1"	18	21248	Unreliable
+	"Alaska"	"02"	"64 years"	"64"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	12	21248	Unreliable
+	"Alaska"	"02"	"65 years"	"65"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	15	20356	Unreliable
+	"Alaska"	"02"	"65 years"	"65"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	20	20356	98.3
+	"Alaska"	"02"	"65 years"	"65"	"Atherosclerotic heart disease"	"I25.1"	17	20356	Unreliable
+	"Alaska"	"02"	"66 years"	"66"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	25	19180	130.3
+	"Alaska"	"02"	"66 years"	"66"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	24	19180	125.1
+	"Alaska"	"02"	"66 years"	"66"	"Atherosclerotic heart disease"	"I25.1"	13	19180	Unreliable
+	"Alaska"	"02"	"67 years"	"67"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	33	18159	181.7
+	"Alaska"	"02"	"67 years"	"67"	"Acute myocardial infarction, unspecified"	"I21.9"	14	18159	Unreliable
+	"Alaska"	"02"	"67 years"	"67"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	11	18159	Unreliable
+	"Alaska"	"02"	"67 years"	"67"	"Atherosclerotic heart disease"	"I25.1"	11	18159	Unreliable
+	"Alaska"	"02"	"68 years"	"68"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	33	16827	196.1
+	"Alaska"	"02"	"68 years"	"68"	"Malignant neoplasm of prostate"	"C61"	11	16827	Unreliable
+	"Alaska"	"02"	"68 years"	"68"	"Acute myocardial infarction, unspecified"	"I21.9"	14	16827	Unreliable
+	"Alaska"	"02"	"68 years"	"68"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	14	16827	Unreliable
+	"Alaska"	"02"	"68 years"	"68"	"Atherosclerotic heart disease"	"I25.1"	13	16827	Unreliable
+	"Alaska"	"02"	"68 years"	"68"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	16	16827	Unreliable
+	"Alaska"	"02"	"69 years"	"69"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	20	16111	124.1
+	"Alaska"	"02"	"69 years"	"69"	"Malignant neoplasm without specification of site"	"C80"	10	16111	Unreliable
+	"Alaska"	"02"	"69 years"	"69"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	28	16111	173.8
+	"Alaska"	"02"	"69 years"	"69"	"Atherosclerotic heart disease"	"I25.1"	10	16111	Unreliable
+	"Alaska"	"02"	"69 years"	"69"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	14	16111	Unreliable
+	"Alaska"	"02"	"70 years"	"70"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	27	14696	183.7
+	"Alaska"	"02"	"70 years"	"70"	"Acute myocardial infarction, unspecified"	"I21.9"	10	14696	Unreliable
+	"Alaska"	"02"	"70 years"	"70"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	23	14696	156.5
+	"Alaska"	"02"	"70 years"	"70"	"Atherosclerotic heart disease"	"I25.1"	15	14696	Unreliable
+	"Alaska"	"02"	"70 years"	"70"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	12	14696	Unreliable
+	"Alaska"	"02"	"71 years"	"71"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	22	13248	166.1
+	"Alaska"	"02"	"71 years"	"71"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	17	13248	Unreliable
+	"Alaska"	"02"	"71 years"	"71"	"Stroke, not specified as haemorrhage or infarction"	"I64"	10	13248	Unreliable
+	"Alaska"	"02"	"71 years"	"71"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	16	13248	Unreliable
+	"Alaska"	"02"	"72 years"	"72"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	21	11857	177.1
+	"Alaska"	"02"	"72 years"	"72"	"Malignant neoplasm without specification of site"	"C80"	10	11857	Unreliable
+	"Alaska"	"02"	"72 years"	"72"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	16	11857	Unreliable
+	"Alaska"	"02"	"72 years"	"72"	"Atherosclerotic heart disease"	"I25.1"	25	11857	210.8
+	"Alaska"	"02"	"72 years"	"72"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	14	11857	Unreliable
+	"Alaska"	"02"	"73 years"	"73"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	12	10800	Unreliable
+	"Alaska"	"02"	"73 years"	"73"	"Acute myocardial infarction, unspecified"	"I21.9"	11	10800	Unreliable
+	"Alaska"	"02"	"73 years"	"73"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	21	10800	194.4
+	"Alaska"	"02"	"73 years"	"73"	"Atherosclerotic heart disease"	"I25.1"	15	10800	Unreliable
+	"Alaska"	"02"	"74 years"	"74"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	22	9450	232.8
+	"Alaska"	"02"	"74 years"	"74"	"Malignant neoplasm of prostate"	"C61"	10	9450	Unreliable
+	"Alaska"	"02"	"74 years"	"74"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	12	9450	Unreliable
+	"Alaska"	"02"	"74 years"	"74"	"Atherosclerotic heart disease"	"I25.1"	17	9450	Unreliable
+	"Alaska"	"02"	"74 years"	"74"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	17	9450	Unreliable
+	"Alaska"	"02"	"75 years"	"75"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	17	8649	Unreliable
+	"Alaska"	"02"	"75 years"	"75"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	14	8649	Unreliable
+	"Alaska"	"02"	"75 years"	"75"	"Atherosclerotic heart disease"	"I25.1"	14	8649	Unreliable
+	"Alaska"	"02"	"75 years"	"75"	"Stroke, not specified as haemorrhage or infarction"	"I64"	11	8649	Unreliable
+	"Alaska"	"02"	"75 years"	"75"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	16	8649	Unreliable
+	"Alaska"	"02"	"76 years"	"76"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	17	7766	Unreliable
+	"Alaska"	"02"	"76 years"	"76"	"Malignant neoplasm of prostate"	"C61"	10	7766	Unreliable
+	"Alaska"	"02"	"76 years"	"76"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	10	7766	Unreliable
+	"Alaska"	"02"	"77 years"	"77"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	20	6868	291.2
+	"Alaska"	"02"	"77 years"	"77"	"Unspecified dementia"	"F03"	11	6868	Unreliable
+	"Alaska"	"02"	"77 years"	"77"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	10	6868	Unreliable
+	"Alaska"	"02"	"77 years"	"77"	"Atherosclerotic heart disease"	"I25.1"	11	6868	Unreliable
+	"Alaska"	"02"	"78 years"	"78"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	12	5901	Unreliable
+	"Alaska"	"02"	"78 years"	"78"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	17	5901	Unreliable
+	"Alaska"	"02"	"78 years"	"78"	"Atherosclerotic heart disease"	"I25.1"	17	5901	Unreliable
+	"Alaska"	"02"	"78 years"	"78"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	15	5901	Unreliable
+	"Alaska"	"02"	"79 years"	"79"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	19	5263	Unreliable
+	"Alaska"	"02"	"79 years"	"79"	"Malignant neoplasm of prostate"	"C61"	10	5263	Unreliable
+	"Alaska"	"02"	"79 years"	"79"	"Unspecified dementia"	"F03"	11	5263	Unreliable
+	"Alaska"	"02"	"79 years"	"79"	"Atherosclerotic heart disease"	"I25.1"	17	5263	Unreliable
+	"Alaska"	"02"	"79 years"	"79"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	10	5263	Unreliable
+	"Alaska"	"02"	"80 years"	"80"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	22	4546	483.9
+	"Alaska"	"02"	"80 years"	"80"	"Parkinson disease"	"G20"	10	4546	Unreliable
+	"Alaska"	"02"	"80 years"	"80"	"Alzheimer disease, unspecified"	"G30.9"	11	4546	Unreliable
+	"Alaska"	"02"	"80 years"	"80"	"Atherosclerotic heart disease"	"I25.1"	20	4546	439.9
+	"Alaska"	"02"	"80 years"	"80"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	14	4546	Unreliable
+	"Alaska"	"02"	"81 years"	"81"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	15	3932	Unreliable
+	"Alaska"	"02"	"81 years"	"81"	"Malignant neoplasm of prostate"	"C61"	10	3932	Unreliable
+	"Alaska"	"02"	"81 years"	"81"	"Unspecified dementia"	"F03"	10	3932	Unreliable
+	"Alaska"	"02"	"81 years"	"81"	"Atherosclerotic heart disease"	"I25.1"	16	3932	Unreliable
+	"Alaska"	"02"	"81 years"	"81"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	11	3932	Unreliable
+	"Alaska"	"02"	"82 years"	"82"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	11	3395	Unreliable
+	"Alaska"	"02"	"82 years"	"82"	"Malignant neoplasm of prostate"	"C61"	10	3395	Unreliable
+	"Alaska"	"02"	"82 years"	"82"	"Unspecified dementia"	"F03"	12	3395	Unreliable
+	"Alaska"	"02"	"82 years"	"82"	"Alzheimer disease, unspecified"	"G30.9"	14	3395	Unreliable
+	"Alaska"	"02"	"82 years"	"82"	"Atherosclerotic heart disease"	"I25.1"	14	3395	Unreliable
+	"Alaska"	"02"	"82 years"	"82"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	17	3395	Unreliable
+	"Alaska"	"02"	"83 years"	"83"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	11	3041	Unreliable
+	"Alaska"	"02"	"83 years"	"83"	"Malignant neoplasm of prostate"	"C61"	12	3041	Unreliable
+	"Alaska"	"02"	"83 years"	"83"	"Unspecified dementia"	"F03"	12	3041	Unreliable
+	"Alaska"	"02"	"83 years"	"83"	"Atherosclerotic heart disease"	"I25.1"	14	3041	Unreliable
+	"Alaska"	"02"	"84 years"	"84"	"Unspecified dementia"	"F03"	17	2586	Unreliable
+	"Alaska"	"02"	"84 years"	"84"	"Alzheimer disease, unspecified"	"G30.9"	12	2586	Unreliable
+	"Alaska"	"02"	"84 years"	"84"	"Atherosclerotic heart disease"	"I25.1"	14	2586	Unreliable
+	"Alaska"	"02"	"85 years"	"85"	"Malignant neoplasm of prostate"	"C61"	13	Not Applicable	Not Applicable
+	"Alaska"	"02"	"85 years"	"85"	"Unspecified dementia"	"F03"	11	Not Applicable	Not Applicable
+	"Alaska"	"02"	"85 years"	"85"	"Alzheimer disease, unspecified"	"G30.9"	26	Not Applicable	Not Applicable
+	"Alaska"	"02"	"85 years"	"85"	"Atherosclerotic heart disease"	"I25.1"	12	Not Applicable	Not Applicable
+	"Alaska"	"02"	"86 years"	"86"	"Malignant neoplasm of prostate"	"C61"	12	Not Applicable	Not Applicable
+	"Alaska"	"02"	"86 years"	"86"	"Unspecified dementia"	"F03"	14	Not Applicable	Not Applicable
+	"Alaska"	"02"	"86 years"	"86"	"Alzheimer disease, unspecified"	"G30.9"	13	Not Applicable	Not Applicable
+	"Alaska"	"02"	"86 years"	"86"	"Atherosclerotic heart disease"	"I25.1"	12	Not Applicable	Not Applicable
+	"Alaska"	"02"	"87 years"	"87"	"Unspecified dementia"	"F03"	19	Not Applicable	Not Applicable
+	"Alaska"	"02"	"87 years"	"87"	"Alzheimer disease, unspecified"	"G30.9"	14	Not Applicable	Not Applicable
+	"Alaska"	"02"	"87 years"	"87"	"Atherosclerotic heart disease"	"I25.1"	14	Not Applicable	Not Applicable
+	"Alaska"	"02"	"88 years"	"88"	"Unspecified dementia"	"F03"	14	Not Applicable	Not Applicable
+	"Alaska"	"02"	"88 years"	"88"	"Alzheimer disease, unspecified"	"G30.9"	14	Not Applicable	Not Applicable
+	"Alaska"	"02"	"88 years"	"88"	"Atherosclerotic heart disease"	"I25.1"	11	Not Applicable	Not Applicable
+	"Alaska"	"02"	"89 years"	"89"	"Unspecified dementia"	"F03"	13	Not Applicable	Not Applicable
+	"Alaska"	"02"	"89 years"	"89"	"Atherosclerotic heart disease"	"I25.1"	14	Not Applicable	Not Applicable
+	"Alaska"	"02"	"90 years"	"90"	"Unspecified dementia"	"F03"	16	Not Applicable	Not Applicable
+	"Alaska"	"02"	"90 years"	"90"	"Atherosclerotic heart disease"	"I25.1"	10	Not Applicable	Not Applicable
+	"Alaska"	"02"	"91 years"	"91"	"Unspecified dementia"	"F03"	12	Not Applicable	Not Applicable
+	"Alaska"	"02"	"92 years"	"92"	"Atherosclerotic heart disease"	"I25.1"	11	Not Applicable	Not Applicable
+	"Alaska"	"02"	"93 years"	"93"	"Unspecified dementia"	"F03"	10	Not Applicable	Not Applicable
+"---"
+"Dataset: Underlying Cause of Death, 1999-2020"
+"Query Parameters:"
+"Title: Alaska CoD M"
+"Gender: Male"
+"States: Alaska (02)"
+"Year/Month: 2016; 2017; 2018; 2019; 2020"
+"Group By: State; Single-Year Ages; Cause of death"
+"Show Totals: Disabled"
+"Show Zero Values: Disabled"
+"Show Suppressed: False"
+"Calculate Rates Per: 100,000"
+"Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/ucd.html for more information."
+"---"
+"Query Date: Apr 8, 2022 12:06:29 AM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. Underlying Cause of Death"
+"1999-2020 on CDC WONDER Online Database, released in 2021. Data are from the Multiple Cause of Death Files, 1999-2020, as"
+"compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative Program. Accessed"
+"at http://wonder.cdc.gov/ucd-icd10.html on Apr 8, 2022 12:06:29 AM"
+"---"
+Messages:
+"1. The full results are too long to be displayed. Due to suppression constraints rows that are zero, suppressed or a total will"
+"not be available."
+"---"
+Caveats:
+"1. Population and rates are labeled 'Not Applicable' when they include a subset of ages 85-100+ because populations are not"
+"available for those ages. More information: http://wonder.cdc.gov/wonder/help/ucd.html#Ages 85-100."
+"2. Death rates are flagged as Unreliable when the rate is calculated with a numerator of 20 or less. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Unreliable."
+"3. Deaths of persons with Age ""Not Stated"" are included in ""All"" counts and rates, but are not distributed among age groups,"
+"so are not included in age-specific counts, age-specific rates or in any age-adjusted rates. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Not Stated."
+"4. The population figures for year 2020 are bridged-race estimates of the July 1 resident population, from the Vintage 2020"
+"postcensal series released by NCHS on September 22, 2021. The population figures for year 2019 are bridged-race estimates of the"
+"July 1 resident population, from the Vintage 2019 postcensal series released by NCHS on July 9, 2020. The population figures for"
+"year 2018 are bridged-race estimates of the July 1 resident population, from the Vintage 2018 postcensal series released by NCHS"
+"on June 25, 2019. The population figures for year 2017 are bridged-race estimates of the July 1 resident population, from the"
+"Vintage 2017 postcensal series released by NCHS on June 27, 2018. The population figures for year 2016 are bridged-race"
+"estimates of the July 1 resident population, from the Vintage 2016 postcensal series released by NCHS on June 26, 2017. The"
+"population figures for year 2015 are bridged-race estimates of the July 1 resident population, from the Vintage 2015 postcensal"
+"series released by NCHS on June 28, 2016. The population figures for year 2014 are bridged-race estimates of the July 1 resident"
+"population, from the Vintage 2014 postcensal series released by NCHS on June 30, 2015. The population figures for year 2013 are"
+"bridged-race estimates of the July 1 resident population, from the Vintage 2013 postcensal series released by NCHS on June 26,"
+"2014. The population figures for year 2012 are bridged-race estimates of the July 1 resident population, from the Vintage 2012"
+"postcensal series released by NCHS on June 13, 2013. The population figures for year 2011 are bridged-race estimates of the July"
+"1 resident population, from the Vintage 2011 postcensal series released by NCHS on July 18, 2012. Population figures for 2010"
+"are April 1 Census counts. The population figures for years 2001 - 2009 are bridged-race estimates of the July 1 resident"
+"population, from the revised intercensal county-level 2000 - 2009 series released by NCHS on October 26, 2012. Population"
+"figures for 2000 are April 1 Census counts. Population figures for 1999 are from the 1990-1999 intercensal series of July 1"
+"estimates. Population figures for the infant age groups are the number of live births. <br/><b>Note:</b> Rates and population"
+"figures for years 2001 - 2009 differ slightly from previously published reports, due to use of the population estimates which"
+"were available at the time of release."
+"5. The population figures used in the calculation of death rates for the age group 'under 1 year' are the estimates of the"
+"resident population that is under one year of age. More information: http://wonder.cdc.gov/wonder/help/ucd.html#Age Group."
+"6. Beginning with the 2018 data, changes have been implemented that affect the counts for ICD-10 cause of death codes O00-O99"
+"compared to previous practice. In addition, data for the cause of death codes O00-O99 for 2003 through 2017 reflect differences"
+"in information available to individual states and probable errors. Caution should be used in interpreting these data. More"
+"information can be found at: https://www.cdc.gov/nchs/maternal-mortality/."
+"7. On March 11, 2021, the 2019 mortality data on CDC WONDER was updated with the 2019 mortality data updated by NCHS on March 4,"
+"2021 to include corrected information for residents of Texas affecting 5 records previously coded to cause code *U01.4,"
+"Terrorism involving firearms (homicide). The underlying and multiple cause of death codes for 5 records were corrected in the"
+"2019 data. Underlying and multiple cause of death codes for those 5 records were recoded to Assault (homicide) by other and"
+"unspecified firearm discharge, ICD-10 code X95. The corrected final death records replaces the data released on December 22,"
+"2020."
+"8. Changes to cause of death classification affect reporting trends. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#ICD-10 Changes."

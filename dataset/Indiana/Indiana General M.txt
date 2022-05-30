@@ -1,0 +1,160 @@
+"Notes"	"State"	"State Code"	"Single-Year Ages"	"Single-Year Ages Code"	Deaths	Population	Crude Rate
+	"Indiana"	"18"	"< 1 year"	"0"	1585	208672	759.6
+	"Indiana"	"18"	"1 year"	"1"	99	212095	46.7
+	"Indiana"	"18"	"2 years"	"2"	74	216538	34.2
+	"Indiana"	"18"	"3 years"	"3"	45	217922	20.6
+	"Indiana"	"18"	"4 years"	"4"	42	220104	19.1
+	"Indiana"	"18"	"5 years"	"5"	32	219846	14.6
+	"Indiana"	"18"	"6 years"	"6"	30	219986	13.6
+	"Indiana"	"18"	"7 years"	"7"	29	220409	13.2
+	"Indiana"	"18"	"8 years"	"8"	32	221624	14.4
+	"Indiana"	"18"	"9 years"	"9"	35	223659	15.6
+	"Indiana"	"18"	"10 years"	"10"	30	225620	13.3
+	"Indiana"	"18"	"11 years"	"11"	41	227245	18.0
+	"Indiana"	"18"	"12 years"	"12"	40	229465	17.4
+	"Indiana"	"18"	"13 years"	"13"	52	229635	22.6
+	"Indiana"	"18"	"14 years"	"14"	75	229342	32.7
+	"Indiana"	"18"	"15 years"	"15"	112	230332	48.6
+	"Indiana"	"18"	"16 years"	"16"	127	232228	54.7
+	"Indiana"	"18"	"17 years"	"17"	199	233883	85.1
+	"Indiana"	"18"	"18 years"	"18"	299	226344	132.1
+	"Indiana"	"18"	"19 years"	"19"	310	246198	125.9
+	"Indiana"	"18"	"20 years"	"20"	337	250266	134.7
+	"Indiana"	"18"	"21 years"	"21"	377	245233	153.7
+	"Indiana"	"18"	"22 years"	"22"	351	245730	142.8
+	"Indiana"	"18"	"23 years"	"23"	423	236821	178.6
+	"Indiana"	"18"	"24 years"	"24"	436	235478	185.2
+	"Indiana"	"18"	"25 years"	"25"	471	235702	199.8
+	"Indiana"	"18"	"26 years"	"26"	479	235466	203.4
+	"Indiana"	"18"	"27 years"	"27"	492	231756	212.3
+	"Indiana"	"18"	"28 years"	"28"	499	228253	218.6
+	"Indiana"	"18"	"29 years"	"29"	533	222189	239.9
+	"Indiana"	"18"	"30 years"	"30"	499	216500	230.5
+	"Indiana"	"18"	"31 years"	"31"	539	212849	253.2
+	"Indiana"	"18"	"32 years"	"32"	515	210489	244.7
+	"Indiana"	"18"	"33 years"	"33"	561	209503	267.8
+	"Indiana"	"18"	"34 years"	"34"	552	211221	261.3
+	"Indiana"	"18"	"35 years"	"35"	570	211896	269.0
+	"Indiana"	"18"	"36 years"	"36"	596	212805	280.1
+	"Indiana"	"18"	"37 years"	"37"	600	212650	282.2
+	"Indiana"	"18"	"38 years"	"38"	651	211511	307.8
+	"Indiana"	"18"	"39 years"	"39"	631	208378	302.8
+	"Indiana"	"18"	"40 years"	"40"	654	204561	319.7
+	"Indiana"	"18"	"41 years"	"41"	652	200452	325.3
+	"Indiana"	"18"	"42 years"	"42"	655	198611	329.8
+	"Indiana"	"18"	"43 years"	"43"	689	196593	350.5
+	"Indiana"	"18"	"44 years"	"44"	737	197993	372.2
+	"Indiana"	"18"	"45 years"	"45"	844	203843	414.0
+	"Indiana"	"18"	"46 years"	"46"	934	206821	451.6
+	"Indiana"	"18"	"47 years"	"47"	991	209636	472.7
+	"Indiana"	"18"	"48 years"	"48"	1046	210062	497.9
+	"Indiana"	"18"	"49 years"	"49"	1137	208948	544.2
+	"Indiana"	"18"	"50 years"	"50"	1210	205011	590.2
+	"Indiana"	"18"	"51 years"	"51"	1310	205164	638.5
+	"Indiana"	"18"	"52 years"	"52"	1513	208836	724.5
+	"Indiana"	"18"	"53 years"	"53"	1666	212969	782.3
+	"Indiana"	"18"	"54 years"	"54"	1859	216694	857.9
+	"Indiana"	"18"	"55 years"	"55"	1964	220633	890.2
+	"Indiana"	"18"	"56 years"	"56"	2148	222228	966.6
+	"Indiana"	"18"	"57 years"	"57"	2376	220841	1075.9
+	"Indiana"	"18"	"58 years"	"58"	2551	220333	1157.8
+	"Indiana"	"18"	"59 years"	"59"	2684	219178	1224.6
+	"Indiana"	"18"	"60 years"	"60"	2956	214911	1375.5
+	"Indiana"	"18"	"61 years"	"61"	3044	209869	1450.4
+	"Indiana"	"18"	"62 years"	"62"	3200	204802	1562.5
+	"Indiana"	"18"	"63 years"	"63"	3386	197662	1713.0
+	"Indiana"	"18"	"64 years"	"64"	3369	189496	1777.9
+	"Indiana"	"18"	"65 years"	"65"	3466	182012	1904.3
+	"Indiana"	"18"	"66 years"	"66"	3561	173339	2054.4
+	"Indiana"	"18"	"67 years"	"67"	3539	165896	2133.3
+	"Indiana"	"18"	"68 years"	"68"	3664	159312	2299.9
+	"Indiana"	"18"	"69 years"	"69"	3816	155054	2461.1
+	"Indiana"	"18"	"70 years"	"70"	3874	143068	2707.8
+	"Indiana"	"18"	"71 years"	"71"	3982	132564	3003.8
+	"Indiana"	"18"	"72 years"	"72"	3955	122038	3240.8
+	"Indiana"	"18"	"73 years"	"73"	3945	113460	3477.0
+	"Indiana"	"18"	"74 years"	"74"	3913	101498	3855.2
+	"Indiana"	"18"	"75 years"	"75"	4142	95345	4344.2
+	"Indiana"	"18"	"76 years"	"76"	4209	88447	4758.8
+	"Indiana"	"18"	"77 years"	"77"	4170	81724	5102.5
+	"Indiana"	"18"	"78 years"	"78"	4013	73588	5453.3
+	"Indiana"	"18"	"79 years"	"79"	4137	67141	6161.7
+	"Indiana"	"18"	"80 years"	"80"	4138	61307	6749.6
+	"Indiana"	"18"	"81 years"	"81"	4154	55961	7423.0
+	"Indiana"	"18"	"82 years"	"82"	4200	50226	8362.2
+	"Indiana"	"18"	"83 years"	"83"	4087	44936	9095.2
+	"Indiana"	"18"	"84 years"	"84"	3945	40447	9753.5
+	"Indiana"	"18"	"85 years"	"85"	4016	Not Applicable	Not Applicable
+	"Indiana"	"18"	"86 years"	"86"	3897	Not Applicable	Not Applicable
+	"Indiana"	"18"	"87 years"	"87"	3930	Not Applicable	Not Applicable
+	"Indiana"	"18"	"88 years"	"88"	3767	Not Applicable	Not Applicable
+	"Indiana"	"18"	"89 years"	"89"	3507	Not Applicable	Not Applicable
+	"Indiana"	"18"	"90 years"	"90"	3277	Not Applicable	Not Applicable
+	"Indiana"	"18"	"91 years"	"91"	2989	Not Applicable	Not Applicable
+	"Indiana"	"18"	"92 years"	"92"	2652	Not Applicable	Not Applicable
+	"Indiana"	"18"	"93 years"	"93"	2281	Not Applicable	Not Applicable
+	"Indiana"	"18"	"94 years"	"94"	1810	Not Applicable	Not Applicable
+	"Indiana"	"18"	"95 years"	"95"	1488	Not Applicable	Not Applicable
+	"Indiana"	"18"	"96 years"	"96"	1156	Not Applicable	Not Applicable
+	"Indiana"	"18"	"97 years"	"97"	757	Not Applicable	Not Applicable
+	"Indiana"	"18"	"98 years"	"98"	587	Not Applicable	Not Applicable
+	"Indiana"	"18"	"99 years"	"99"	350	Not Applicable	Not Applicable
+	"Indiana"	"18"	"100+ years"	"100"	535	Not Applicable	Not Applicable
+"---"
+"Dataset: Underlying Cause of Death, 1999-2020"
+"Query Parameters:"
+"Title: Indiana General M"
+"Gender: Male"
+"States: Indiana (18)"
+"Year/Month: 2016; 2017; 2018; 2019; 2020"
+"Group By: State; Single-Year Ages"
+"Show Totals: Disabled"
+"Show Zero Values: False"
+"Show Suppressed: False"
+"Calculate Rates Per: 100,000"
+"Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/ucd.html for more information."
+"---"
+"Query Date: Apr 8, 2022 1:49:16 AM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. Underlying Cause of Death"
+"1999-2020 on CDC WONDER Online Database, released in 2021. Data are from the Multiple Cause of Death Files, 1999-2020, as"
+"compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative Program. Accessed"
+"at http://wonder.cdc.gov/ucd-icd10.html on Apr 8, 2022 1:49:16 AM"
+"---"
+Messages:
+"1. Totals are not available for these results due to suppression constraints. More Information:"
+"http://wonder.cdc.gov/wonder/help/faq.html#Privacy."
+"2. Rows with suppressed Deaths are hidden. Use Quick Options above to show suppressed rows."
+"---"
+Caveats:
+"1. Population and rates are labeled 'Not Applicable' when they include a subset of ages 85-100+ because populations are not"
+"available for those ages. More information: http://wonder.cdc.gov/wonder/help/ucd.html#Ages 85-100."
+"2. Data are Suppressed when the data meet the criteria for confidentiality constraints. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Assurance of Confidentiality."
+"3. Deaths of persons with Age ""Not Stated"" are included in ""All"" counts and rates, but are not distributed among age groups,"
+"so are not included in age-specific counts, age-specific rates or in any age-adjusted rates. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Not Stated."
+"4. The population figures for year 2020 are bridged-race estimates of the July 1 resident population, from the Vintage 2020"
+"postcensal series released by NCHS on September 22, 2021. The population figures for year 2019 are bridged-race estimates of the"
+"July 1 resident population, from the Vintage 2019 postcensal series released by NCHS on July 9, 2020. The population figures for"
+"year 2018 are bridged-race estimates of the July 1 resident population, from the Vintage 2018 postcensal series released by NCHS"
+"on June 25, 2019. The population figures for year 2017 are bridged-race estimates of the July 1 resident population, from the"
+"Vintage 2017 postcensal series released by NCHS on June 27, 2018. The population figures for year 2016 are bridged-race"
+"estimates of the July 1 resident population, from the Vintage 2016 postcensal series released by NCHS on June 26, 2017. The"
+"population figures for year 2015 are bridged-race estimates of the July 1 resident population, from the Vintage 2015 postcensal"
+"series released by NCHS on June 28, 2016. The population figures for year 2014 are bridged-race estimates of the July 1 resident"
+"population, from the Vintage 2014 postcensal series released by NCHS on June 30, 2015. The population figures for year 2013 are"
+"bridged-race estimates of the July 1 resident population, from the Vintage 2013 postcensal series released by NCHS on June 26,"
+"2014. The population figures for year 2012 are bridged-race estimates of the July 1 resident population, from the Vintage 2012"
+"postcensal series released by NCHS on June 13, 2013. The population figures for year 2011 are bridged-race estimates of the July"
+"1 resident population, from the Vintage 2011 postcensal series released by NCHS on July 18, 2012. Population figures for 2010"
+"are April 1 Census counts. The population figures for years 2001 - 2009 are bridged-race estimates of the July 1 resident"
+"population, from the revised intercensal county-level 2000 - 2009 series released by NCHS on October 26, 2012. Population"
+"figures for 2000 are April 1 Census counts. Population figures for 1999 are from the 1990-1999 intercensal series of July 1"
+"estimates. Population figures for the infant age groups are the number of live births. <br/><b>Note:</b> Rates and population"
+"figures for years 2001 - 2009 differ slightly from previously published reports, due to use of the population estimates which"
+"were available at the time of release."
+"5. The population figures used in the calculation of death rates for the age group 'under 1 year' are the estimates of the"
+"resident population that is under one year of age. More information: http://wonder.cdc.gov/wonder/help/ucd.html#Age Group."

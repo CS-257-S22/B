@@ -1,0 +1,81 @@
+<html>
+    <head>
+        <title>PoP - Deaths Per</title>
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.js"></script>
+        <script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.8.16/jquery-ui.js"></script>
+        <link href="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8.16/themes/ui-lightness/jquery-ui.css" rel="stylesheet" type="text/css" />
+        <link rel="stylesheet" href="../static/datastyle.css">
+    </head>
+    <body>
+        <div id="header"> 
+            <h1>Predictor of Passing</h1>
+            <nav>
+                <ul>
+                    <li><a href="/home">Home</a></li>
+                    <li><a href="/dp">Deaths Per</a></li>
+                    <li><a href="/lc">Leading Cause</a></li>
+                    <!-- Not yet implemented -->
+                    <!--<li><a href="/wwid">When Will I Die?</a></li>-->
+                  </ul> 
+            </nav>
+        </div>
+        <div>
+            <h2>Deaths Per</h2>
+            <div>
+                <p>Which category of people would you like to see the number of deaths of? Choose "None" for everyone in that category.</p>
+                <form action="choose_arguments">
+                    <label for="states">Choose a state:</label>
+                    <select name="state_name">
+                        
+                        <option value="None">None</option>
+                        {% for state in states: %}
+                        <option value="{{state}}">{{state}}</option>
+                        {% endfor %}
+                           
+                    </select>
+                    <label for="ages">Choose an age:</label>
+                    <select name="age">
+                        
+                        <option value="None">None</option>
+                        <option value="0">&lt;1</option>
+                        {% for number in range(99): %}
+                        <option value="{{number+1}}">{{number+1}}</option>
+                        {% endfor %}
+                        <option value="100">100+</option>
+                           
+                    </select>
+                    <label for="genders">Choose a gender:</label>
+                    <select name="gender">
+                        
+                        <option value="None">None</option>
+                        <option value="F">F</option>
+                        <option value="M">M</option>
+                           
+                    </select>
+                    <!-- Autocomplete code source: https://www.geeksforgeeks.org/autocomplete-input-suggestion-using-python-and-flask/ -->
+                    <label for="causes">Type a cause:</label>
+                    <textarea type="text" id="cause" name="cause" rows="1" cols="20">None</textarea>
+                        <script>
+                        $(function() {
+                            var availableTags = [
+                                {% for cause in causes %}
+                                    "{{cause}}",
+                                {% endfor %}
+                            ];
+                            $( "#cause" ).autocomplete({
+                            source: availableTags
+                            });
+                        });
+                        </script>
+                    <input type="submit" value="Submit">
+                </form>
+            </div>
+            <div>
+                {%if search_args != None: %}
+                <h3>Number of deaths due to {{search_args.get_cause()}} for {{search_args.get_gender()}}, {{search_args.get_age()}} in {{search_args.get_state()}}, is:</h3>
+                <p>{{data}}</p>
+                {%endif%}
+            </div>
+        </div>
+    </body>
+</html>

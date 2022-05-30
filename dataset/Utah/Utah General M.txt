@@ -1,0 +1,162 @@
+"Notes"	"State"	"State Code"	"Single-Year Ages"	"Single-Year Ages Code"	Deaths	Population	Crude Rate
+	"Utah"	"49"	"< 1 year"	"0"	763	127357	599.1
+	"Utah"	"49"	"1 year"	"1"	52	126736	41.0
+	"Utah"	"49"	"2 years"	"2"	33	127256	25.9
+	"Utah"	"49"	"3 years"	"3"	19	129688	Unreliable
+	"Utah"	"49"	"4 years"	"4"	16	130557	Unreliable
+	"Utah"	"49"	"5 years"	"5"	18	130997	Unreliable
+	"Utah"	"49"	"6 years"	"6"	11	132264	Unreliable
+	"Utah"	"49"	"7 years"	"7"	11	133127	Unreliable
+	"Utah"	"49"	"8 years"	"8"	19	134029	Unreliable
+	"Utah"	"49"	"10 years"	"10"	16	136900	Unreliable
+	"Utah"	"49"	"11 years"	"11"	20	137341	14.6
+	"Utah"	"49"	"12 years"	"12"	21	137090	15.3
+	"Utah"	"49"	"13 years"	"13"	33	135907	24.3
+	"Utah"	"49"	"14 years"	"14"	41	133917	30.6
+	"Utah"	"49"	"15 years"	"15"	56	132357	42.3
+	"Utah"	"49"	"16 years"	"16"	78	131812	59.2
+	"Utah"	"49"	"17 years"	"17"	95	129883	73.1
+	"Utah"	"49"	"18 years"	"18"	137	124389	110.1
+	"Utah"	"49"	"19 years"	"19"	116	112992	102.7
+	"Utah"	"49"	"20 years"	"20"	134	108121	123.9
+	"Utah"	"49"	"21 years"	"21"	129	123880	104.1
+	"Utah"	"49"	"22 years"	"22"	147	142267	103.3
+	"Utah"	"49"	"23 years"	"23"	161	150197	107.2
+	"Utah"	"49"	"24 years"	"24"	165	144538	114.2
+	"Utah"	"49"	"25 years"	"25"	141	136401	103.4
+	"Utah"	"49"	"26 years"	"26"	184	128932	142.7
+	"Utah"	"49"	"27 years"	"27"	158	124172	127.2
+	"Utah"	"49"	"28 years"	"28"	173	121148	142.8
+	"Utah"	"49"	"29 years"	"29"	180	115644	155.7
+	"Utah"	"49"	"30 years"	"30"	195	111926	174.2
+	"Utah"	"49"	"31 years"	"31"	196	111027	176.5
+	"Utah"	"49"	"32 years"	"32"	175	109733	159.5
+	"Utah"	"49"	"33 years"	"33"	227	110910	204.7
+	"Utah"	"49"	"34 years"	"34"	195	113227	172.2
+	"Utah"	"49"	"35 years"	"35"	209	115586	180.8
+	"Utah"	"49"	"36 years"	"36"	220	116796	188.4
+	"Utah"	"49"	"37 years"	"37"	237	117540	201.6
+	"Utah"	"49"	"38 years"	"38"	230	116910	196.7
+	"Utah"	"49"	"39 years"	"39"	263	115341	228.0
+	"Utah"	"49"	"40 years"	"40"	245	112499	217.8
+	"Utah"	"49"	"41 years"	"41"	260	108285	240.1
+	"Utah"	"49"	"42 years"	"42"	253	103513	244.4
+	"Utah"	"49"	"43 years"	"43"	238	99040	240.3
+	"Utah"	"49"	"44 years"	"44"	220	94586	232.6
+	"Utah"	"49"	"45 years"	"45"	239	92187	259.3
+	"Utah"	"49"	"46 years"	"46"	288	90097	319.7
+	"Utah"	"49"	"47 years"	"47"	270	87259	309.4
+	"Utah"	"49"	"48 years"	"48"	282	85307	330.6
+	"Utah"	"49"	"49 years"	"49"	286	82543	346.5
+	"Utah"	"49"	"50 years"	"50"	343	79081	433.7
+	"Utah"	"49"	"51 years"	"51"	328	76487	428.8
+	"Utah"	"49"	"52 years"	"52"	374	75393	496.1
+	"Utah"	"49"	"53 years"	"53"	402	75182	534.7
+	"Utah"	"49"	"54 years"	"54"	432	75561	571.7
+	"Utah"	"49"	"55 years"	"55"	443	76288	580.7
+	"Utah"	"49"	"56 years"	"56"	495	76781	644.7
+	"Utah"	"49"	"57 years"	"57"	602	76575	786.2
+	"Utah"	"49"	"58 years"	"58"	563	75829	742.5
+	"Utah"	"49"	"59 years"	"59"	650	75244	863.9
+	"Utah"	"49"	"60 years"	"60"	666	73895	901.3
+	"Utah"	"49"	"61 years"	"61"	743	72504	1024.8
+	"Utah"	"49"	"62 years"	"62"	740	71077	1041.1
+	"Utah"	"49"	"63 years"	"63"	785	69058	1136.7
+	"Utah"	"49"	"64 years"	"64"	806	66346	1214.8
+	"Utah"	"49"	"65 years"	"65"	841	63696	1320.3
+	"Utah"	"49"	"66 years"	"66"	845	60541	1395.7
+	"Utah"	"49"	"67 years"	"67"	850	57498	1478.3
+	"Utah"	"49"	"68 years"	"68"	873	55072	1585.2
+	"Utah"	"49"	"69 years"	"69"	958	53427	1793.1
+	"Utah"	"49"	"70 years"	"70"	971	49721	1952.9
+	"Utah"	"49"	"71 years"	"71"	961	46122	2083.6
+	"Utah"	"49"	"72 years"	"72"	1009	42850	2354.7
+	"Utah"	"49"	"73 years"	"73"	959	39709	2415.1
+	"Utah"	"49"	"74 years"	"74"	1021	35541	2872.7
+	"Utah"	"49"	"75 years"	"75"	1027	33504	3065.3
+	"Utah"	"49"	"76 years"	"76"	1113	31285	3557.6
+	"Utah"	"49"	"77 years"	"77"	1086	28527	3806.9
+	"Utah"	"49"	"78 years"	"78"	1089	25795	4221.7
+	"Utah"	"49"	"79 years"	"79"	1165	23668	4922.3
+	"Utah"	"49"	"80 years"	"80"	1181	21962	5377.5
+	"Utah"	"49"	"81 years"	"81"	1217	20218	6019.4
+	"Utah"	"49"	"82 years"	"82"	1268	18476	6863.0
+	"Utah"	"49"	"83 years"	"83"	1321	16479	8016.3
+	"Utah"	"49"	"84 years"	"84"	1316	14902	8831.0
+	"Utah"	"49"	"85 years"	"85"	1298	Not Applicable	Not Applicable
+	"Utah"	"49"	"86 years"	"86"	1313	Not Applicable	Not Applicable
+	"Utah"	"49"	"87 years"	"87"	1257	Not Applicable	Not Applicable
+	"Utah"	"49"	"88 years"	"88"	1239	Not Applicable	Not Applicable
+	"Utah"	"49"	"89 years"	"89"	1181	Not Applicable	Not Applicable
+	"Utah"	"49"	"90 years"	"90"	1142	Not Applicable	Not Applicable
+	"Utah"	"49"	"91 years"	"91"	1031	Not Applicable	Not Applicable
+	"Utah"	"49"	"92 years"	"92"	863	Not Applicable	Not Applicable
+	"Utah"	"49"	"93 years"	"93"	754	Not Applicable	Not Applicable
+	"Utah"	"49"	"94 years"	"94"	618	Not Applicable	Not Applicable
+	"Utah"	"49"	"95 years"	"95"	492	Not Applicable	Not Applicable
+	"Utah"	"49"	"96 years"	"96"	365	Not Applicable	Not Applicable
+	"Utah"	"49"	"97 years"	"97"	251	Not Applicable	Not Applicable
+	"Utah"	"49"	"98 years"	"98"	182	Not Applicable	Not Applicable
+	"Utah"	"49"	"99 years"	"99"	110	Not Applicable	Not Applicable
+	"Utah"	"49"	"100+ years"	"100"	168	Not Applicable	Not Applicable
+"Total"	"Utah"	"49"			49570	7942382	624.1
+"Total"					49570	7942382	624.1
+"---"
+"Dataset: Underlying Cause of Death, 1999-2020"
+"Query Parameters:"
+"Title: Utah General M"
+"Gender: Male"
+"States: Utah (49)"
+"Year/Month: 2016; 2017; 2018; 2019; 2020"
+"Group By: State; Single-Year Ages"
+"Show Totals: True"
+"Show Zero Values: False"
+"Show Suppressed: False"
+"Calculate Rates Per: 100,000"
+"Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/ucd.html for more information."
+"---"
+"Query Date: Apr 11, 2022 3:04:51 AM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. Underlying Cause of Death"
+"1999-2020 on CDC WONDER Online Database, released in 2021. Data are from the Multiple Cause of Death Files, 1999-2020, as"
+"compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative Program. Accessed"
+"at http://wonder.cdc.gov/ucd-icd10.html on Apr 11, 2022 3:04:51 AM"
+"---"
+Messages:
+"1. Rows with suppressed Deaths are hidden, but the Deaths and Population values in those rows are included in the totals. Use"
+"Quick Options above to show suppressed rows."
+"---"
+Caveats:
+"1. Population and rates are labeled 'Not Applicable' when they include a subset of ages 85-100+ because populations are not"
+"available for those ages. More information: http://wonder.cdc.gov/wonder/help/ucd.html#Ages 85-100."
+"2. Data are Suppressed when the data meet the criteria for confidentiality constraints. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Assurance of Confidentiality."
+"3. Death rates are flagged as Unreliable when the rate is calculated with a numerator of 20 or less. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Unreliable."
+"4. Deaths of persons with Age ""Not Stated"" are included in ""All"" counts and rates, but are not distributed among age groups,"
+"so are not included in age-specific counts, age-specific rates or in any age-adjusted rates. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Not Stated."
+"5. The population figures for year 2020 are bridged-race estimates of the July 1 resident population, from the Vintage 2020"
+"postcensal series released by NCHS on September 22, 2021. The population figures for year 2019 are bridged-race estimates of the"
+"July 1 resident population, from the Vintage 2019 postcensal series released by NCHS on July 9, 2020. The population figures for"
+"year 2018 are bridged-race estimates of the July 1 resident population, from the Vintage 2018 postcensal series released by NCHS"
+"on June 25, 2019. The population figures for year 2017 are bridged-race estimates of the July 1 resident population, from the"
+"Vintage 2017 postcensal series released by NCHS on June 27, 2018. The population figures for year 2016 are bridged-race"
+"estimates of the July 1 resident population, from the Vintage 2016 postcensal series released by NCHS on June 26, 2017. The"
+"population figures for year 2015 are bridged-race estimates of the July 1 resident population, from the Vintage 2015 postcensal"
+"series released by NCHS on June 28, 2016. The population figures for year 2014 are bridged-race estimates of the July 1 resident"
+"population, from the Vintage 2014 postcensal series released by NCHS on June 30, 2015. The population figures for year 2013 are"
+"bridged-race estimates of the July 1 resident population, from the Vintage 2013 postcensal series released by NCHS on June 26,"
+"2014. The population figures for year 2012 are bridged-race estimates of the July 1 resident population, from the Vintage 2012"
+"postcensal series released by NCHS on June 13, 2013. The population figures for year 2011 are bridged-race estimates of the July"
+"1 resident population, from the Vintage 2011 postcensal series released by NCHS on July 18, 2012. Population figures for 2010"
+"are April 1 Census counts. The population figures for years 2001 - 2009 are bridged-race estimates of the July 1 resident"
+"population, from the revised intercensal county-level 2000 - 2009 series released by NCHS on October 26, 2012. Population"
+"figures for 2000 are April 1 Census counts. Population figures for 1999 are from the 1990-1999 intercensal series of July 1"
+"estimates. Population figures for the infant age groups are the number of live births. <br/><b>Note:</b> Rates and population"
+"figures for years 2001 - 2009 differ slightly from previously published reports, due to use of the population estimates which"
+"were available at the time of release."
+"6. The population figures used in the calculation of death rates for the age group 'under 1 year' are the estimates of the"
+"resident population that is under one year of age. More information: http://wonder.cdc.gov/wonder/help/ucd.html#Age Group."

@@ -1,0 +1,156 @@
+"Notes"	"State"	"State Code"	"Single-Year Ages"	"Single-Year Ages Code"	Deaths	Population	Crude Rate
+	"Pennsylvania"	"42"	"< 1 year"	"0"	2272	349260	650.5
+	"Pennsylvania"	"42"	"1 year"	"1"	133	353882	37.6
+	"Pennsylvania"	"42"	"2 years"	"2"	104	361042	28.8
+	"Pennsylvania"	"42"	"3 years"	"3"	75	364365	20.6
+	"Pennsylvania"	"42"	"4 years"	"4"	57	367226	15.5
+	"Pennsylvania"	"42"	"5 years"	"5"	59	369388	16.0
+	"Pennsylvania"	"42"	"6 years"	"6"	50	369806	13.5
+	"Pennsylvania"	"42"	"7 years"	"7"	57	370190	15.4
+	"Pennsylvania"	"42"	"8 years"	"8"	50	373448	13.4
+	"Pennsylvania"	"42"	"9 years"	"9"	41	376942	10.9
+	"Pennsylvania"	"42"	"10 years"	"10"	49	380130	12.9
+	"Pennsylvania"	"42"	"11 years"	"11"	56	382491	14.6
+	"Pennsylvania"	"42"	"12 years"	"12"	52	385946	13.5
+	"Pennsylvania"	"42"	"13 years"	"13"	89	386535	23.0
+	"Pennsylvania"	"42"	"14 years"	"14"	96	388556	24.7
+	"Pennsylvania"	"42"	"15 years"	"15"	129	392499	32.9
+	"Pennsylvania"	"42"	"16 years"	"16"	172	400428	43.0
+	"Pennsylvania"	"42"	"17 years"	"17"	220	405612	54.2
+	"Pennsylvania"	"42"	"18 years"	"18"	361	422395	85.5
+	"Pennsylvania"	"42"	"19 years"	"19"	449	441470	101.7
+	"Pennsylvania"	"42"	"20 years"	"20"	516	422951	122.0
+	"Pennsylvania"	"42"	"21 years"	"21"	632	415948	151.9
+	"Pennsylvania"	"42"	"22 years"	"22"	672	406629	165.3
+	"Pennsylvania"	"42"	"23 years"	"23"	710	407230	174.3
+	"Pennsylvania"	"42"	"24 years"	"24"	818	419223	195.1
+	"Pennsylvania"	"42"	"25 years"	"25"	890	428167	207.9
+	"Pennsylvania"	"42"	"26 years"	"26"	918	438412	209.4
+	"Pennsylvania"	"42"	"27 years"	"27"	996	446774	222.9
+	"Pennsylvania"	"42"	"28 years"	"28"	1005	447832	224.4
+	"Pennsylvania"	"42"	"29 years"	"29"	1021	445757	229.0
+	"Pennsylvania"	"42"	"30 years"	"30"	1114	440032	253.2
+	"Pennsylvania"	"42"	"31 years"	"31"	1069	432047	247.4
+	"Pennsylvania"	"42"	"32 years"	"32"	1105	420284	262.9
+	"Pennsylvania"	"42"	"33 years"	"33"	1050	413749	253.8
+	"Pennsylvania"	"42"	"34 years"	"34"	1086	407825	266.3
+	"Pennsylvania"	"42"	"35 years"	"35"	1112	401408	277.0
+	"Pennsylvania"	"42"	"36 years"	"36"	1097	397676	275.9
+	"Pennsylvania"	"42"	"37 years"	"37"	1095	391983	279.3
+	"Pennsylvania"	"42"	"38 years"	"38"	1123	384310	292.2
+	"Pennsylvania"	"42"	"39 years"	"39"	1162	376601	308.5
+	"Pennsylvania"	"42"	"40 years"	"40"	1169	367491	318.1
+	"Pennsylvania"	"42"	"41 years"	"41"	1072	360126	297.7
+	"Pennsylvania"	"42"	"42 years"	"42"	1090	356068	306.1
+	"Pennsylvania"	"42"	"43 years"	"43"	1138	355181	320.4
+	"Pennsylvania"	"42"	"44 years"	"44"	1245	360273	345.6
+	"Pennsylvania"	"42"	"45 years"	"45"	1386	373159	371.4
+	"Pennsylvania"	"42"	"46 years"	"46"	1503	386217	389.2
+	"Pennsylvania"	"42"	"47 years"	"47"	1585	395899	400.4
+	"Pennsylvania"	"42"	"48 years"	"48"	1739	403709	430.8
+	"Pennsylvania"	"42"	"49 years"	"49"	1989	407943	487.6
+	"Pennsylvania"	"42"	"50 years"	"50"	2162	408827	528.8
+	"Pennsylvania"	"42"	"51 years"	"51"	2441	412926	591.1
+	"Pennsylvania"	"42"	"52 years"	"52"	2708	420307	644.3
+	"Pennsylvania"	"42"	"53 years"	"53"	2813	429097	655.6
+	"Pennsylvania"	"42"	"54 years"	"54"	3169	436478	726.0
+	"Pennsylvania"	"42"	"55 years"	"55"	3578	444604	804.8
+	"Pennsylvania"	"42"	"56 years"	"56"	3930	448026	877.2
+	"Pennsylvania"	"42"	"57 years"	"57"	4149	449632	922.8
+	"Pennsylvania"	"42"	"58 years"	"58"	4540	451626	1005.3
+	"Pennsylvania"	"42"	"59 years"	"59"	4895	452509	1081.7
+	"Pennsylvania"	"42"	"60 years"	"60"	5213	446353	1167.9
+	"Pennsylvania"	"42"	"61 years"	"61"	5451	438453	1243.2
+	"Pennsylvania"	"42"	"62 years"	"62"	5814	428379	1357.2
+	"Pennsylvania"	"42"	"63 years"	"63"	6075	415098	1463.5
+	"Pennsylvania"	"42"	"64 years"	"64"	6027	399433	1508.9
+	"Pennsylvania"	"42"	"65 years"	"65"	6409	383804	1669.9
+	"Pennsylvania"	"42"	"66 years"	"66"	6411	366058	1751.4
+	"Pennsylvania"	"42"	"67 years"	"67"	6716	350262	1917.4
+	"Pennsylvania"	"42"	"68 years"	"68"	6666	337519	1975.0
+	"Pennsylvania"	"42"	"69 years"	"69"	7219	331323	2178.8
+	"Pennsylvania"	"42"	"70 years"	"70"	7147	306964	2328.3
+	"Pennsylvania"	"42"	"71 years"	"71"	7534	284216	2650.8
+	"Pennsylvania"	"42"	"72 years"	"72"	7376	263345	2800.9
+	"Pennsylvania"	"42"	"73 years"	"73"	7619	246050	3096.5
+	"Pennsylvania"	"42"	"74 years"	"74"	7696	218521	3521.9
+	"Pennsylvania"	"42"	"75 years"	"75"	7792	205987	3782.8
+	"Pennsylvania"	"42"	"76 years"	"76"	7934	192176	4128.5
+	"Pennsylvania"	"42"	"77 years"	"77"	8116	178389	4549.6
+	"Pennsylvania"	"42"	"78 years"	"78"	8096	161216	5021.8
+	"Pennsylvania"	"42"	"79 years"	"79"	8036	147856	5435.0
+	"Pennsylvania"	"42"	"80 years"	"80"	8355	136812	6106.9
+	"Pennsylvania"	"42"	"81 years"	"81"	8677	126723	6847.2
+	"Pennsylvania"	"42"	"82 years"	"82"	8812	115407	7635.6
+	"Pennsylvania"	"42"	"83 years"	"83"	8729	105217	8296.2
+	"Pennsylvania"	"42"	"84 years"	"84"	8795	96409	9122.6
+	"Pennsylvania"	"42"	"85 years"	"85"	8994	Not Applicable	Not Applicable
+	"Pennsylvania"	"42"	"86 years"	"86"	9065	Not Applicable	Not Applicable
+	"Pennsylvania"	"42"	"87 years"	"87"	9380	Not Applicable	Not Applicable
+	"Pennsylvania"	"42"	"88 years"	"88"	9259	Not Applicable	Not Applicable
+	"Pennsylvania"	"42"	"89 years"	"89"	8708	Not Applicable	Not Applicable
+	"Pennsylvania"	"42"	"90 years"	"90"	8265	Not Applicable	Not Applicable
+	"Pennsylvania"	"42"	"91 years"	"91"	7854	Not Applicable	Not Applicable
+	"Pennsylvania"	"42"	"92 years"	"92"	6895	Not Applicable	Not Applicable
+	"Pennsylvania"	"42"	"93 years"	"93"	5736	Not Applicable	Not Applicable
+	"Pennsylvania"	"42"	"94 years"	"94"	4587	Not Applicable	Not Applicable
+	"Pennsylvania"	"42"	"95 years"	"95"	3743	Not Applicable	Not Applicable
+	"Pennsylvania"	"42"	"96 years"	"96"	2924	Not Applicable	Not Applicable
+	"Pennsylvania"	"42"	"97 years"	"97"	2083	Not Applicable	Not Applicable
+	"Pennsylvania"	"42"	"98 years"	"98"	1451	Not Applicable	Not Applicable
+	"Pennsylvania"	"42"	"99 years"	"99"	940	Not Applicable	Not Applicable
+	"Pennsylvania"	"42"	"100+ years"	"100"	1421	Not Applicable	Not Applicable
+	"Pennsylvania"	"42"	"Not Stated"	"NS"	86	Not Applicable	Not Applicable
+"Total"	"Pennsylvania"	"42"			346169	31348586	1104.3
+"Total"					346169	31348586	1104.3
+"---"
+"Dataset: Underlying Cause of Death, 1999-2020"
+"Query Parameters:"
+"Title: Pennsylvania General M"
+"Gender: Male"
+"States: Pennsylvania (42)"
+"Year/Month: 2016; 2017; 2018; 2019; 2020"
+"Group By: State; Single-Year Ages"
+"Show Totals: True"
+"Show Zero Values: False"
+"Show Suppressed: False"
+"Calculate Rates Per: 100,000"
+"Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/ucd.html for more information."
+"---"
+"Query Date: Apr 11, 2022 2:47:10 AM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. Underlying Cause of Death"
+"1999-2020 on CDC WONDER Online Database, released in 2021. Data are from the Multiple Cause of Death Files, 1999-2020, as"
+"compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative Program. Accessed"
+"at http://wonder.cdc.gov/ucd-icd10.html on Apr 11, 2022 2:47:10 AM"
+"---"
+Caveats:
+"1. Population and rates are labeled 'Not Applicable' when they include a subset of ages 85-100+ because populations are not"
+"available for those ages. More information: http://wonder.cdc.gov/wonder/help/ucd.html#Ages 85-100."
+"2. Deaths of persons with Age ""Not Stated"" are included in ""All"" counts and rates, but are not distributed among age groups,"
+"so are not included in age-specific counts, age-specific rates or in any age-adjusted rates. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Not Stated."
+"3. The population figures for year 2020 are bridged-race estimates of the July 1 resident population, from the Vintage 2020"
+"postcensal series released by NCHS on September 22, 2021. The population figures for year 2019 are bridged-race estimates of the"
+"July 1 resident population, from the Vintage 2019 postcensal series released by NCHS on July 9, 2020. The population figures for"
+"year 2018 are bridged-race estimates of the July 1 resident population, from the Vintage 2018 postcensal series released by NCHS"
+"on June 25, 2019. The population figures for year 2017 are bridged-race estimates of the July 1 resident population, from the"
+"Vintage 2017 postcensal series released by NCHS on June 27, 2018. The population figures for year 2016 are bridged-race"
+"estimates of the July 1 resident population, from the Vintage 2016 postcensal series released by NCHS on June 26, 2017. The"
+"population figures for year 2015 are bridged-race estimates of the July 1 resident population, from the Vintage 2015 postcensal"
+"series released by NCHS on June 28, 2016. The population figures for year 2014 are bridged-race estimates of the July 1 resident"
+"population, from the Vintage 2014 postcensal series released by NCHS on June 30, 2015. The population figures for year 2013 are"
+"bridged-race estimates of the July 1 resident population, from the Vintage 2013 postcensal series released by NCHS on June 26,"
+"2014. The population figures for year 2012 are bridged-race estimates of the July 1 resident population, from the Vintage 2012"
+"postcensal series released by NCHS on June 13, 2013. The population figures for year 2011 are bridged-race estimates of the July"
+"1 resident population, from the Vintage 2011 postcensal series released by NCHS on July 18, 2012. Population figures for 2010"
+"are April 1 Census counts. The population figures for years 2001 - 2009 are bridged-race estimates of the July 1 resident"
+"population, from the revised intercensal county-level 2000 - 2009 series released by NCHS on October 26, 2012. Population"
+"figures for 2000 are April 1 Census counts. Population figures for 1999 are from the 1990-1999 intercensal series of July 1"
+"estimates. Population figures for the infant age groups are the number of live births. <br/><b>Note:</b> Rates and population"
+"figures for years 2001 - 2009 differ slightly from previously published reports, due to use of the population estimates which"
+"were available at the time of release."
+"4. The population figures used in the calculation of death rates for the age group 'under 1 year' are the estimates of the"
+"resident population that is under one year of age. More information: http://wonder.cdc.gov/wonder/help/ucd.html#Age Group."

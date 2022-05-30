@@ -1,0 +1,457 @@
+"Notes"	"State"	"State Code"	"Single-Year Ages"	"Single-Year Ages Code"	"Cause of death"	"Cause of death Code"	Deaths	Population	Crude Rate
+	"South Dakota"	"46"	"< 1 year"	"0"	"Extreme immaturity"	"P07.2"	16	29541	Unreliable
+	"South Dakota"	"46"	"< 1 year"	"0"	"Edwards syndrome, unspecified"	"Q91.3"	10	29541	Unreliable
+	"South Dakota"	"46"	"< 1 year"	"0"	"Sudden infant death syndrome - SIDS"	"R95"	10	29541	Unreliable
+	"South Dakota"	"46"	"< 1 year"	"0"	"Other ill-defined and unspecified causes of mortality"	"R99"	10	29541	Unreliable
+	"South Dakota"	"46"	"< 1 year"	"0"	"Accidental suffocation and strangulation in bed"	"W75"	10	29541	Unreliable
+	"South Dakota"	"46"	"55 years"	"55"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	10	28332	Unreliable
+	"South Dakota"	"46"	"55 years"	"55"	"Alcoholic cirrhosis of liver"	"K70.3"	11	28332	Unreliable
+	"South Dakota"	"46"	"56 years"	"56"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	13	29481	Unreliable
+	"South Dakota"	"46"	"56 years"	"56"	"Acute myocardial infarction, unspecified"	"I21.9"	11	29481	Unreliable
+	"South Dakota"	"46"	"57 years"	"57"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	18	29992	Unreliable
+	"South Dakota"	"46"	"57 years"	"57"	"Acute myocardial infarction, unspecified"	"I21.9"	11	29992	Unreliable
+	"South Dakota"	"46"	"57 years"	"57"	"Alcoholic cirrhosis of liver"	"K70.3"	10	29992	Unreliable
+	"South Dakota"	"46"	"58 years"	"58"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	20	29922	66.8
+	"South Dakota"	"46"	"59 years"	"59"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	26	30251	85.9
+	"South Dakota"	"46"	"59 years"	"59"	"Acute myocardial infarction, unspecified"	"I21.9"	17	30251	Unreliable
+	"South Dakota"	"46"	"60 years"	"60"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	25	29804	83.9
+	"South Dakota"	"46"	"60 years"	"60"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	13	29804	Unreliable
+	"South Dakota"	"46"	"60 years"	"60"	"Acute myocardial infarction, unspecified"	"I21.9"	14	29804	Unreliable
+	"South Dakota"	"46"	"60 years"	"60"	"COVID-19"	"U07.1"	10	29804	Unreliable
+	"South Dakota"	"46"	"61 years"	"61"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	30	29377	102.1
+	"South Dakota"	"46"	"61 years"	"61"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	14	29377	Unreliable
+	"South Dakota"	"46"	"61 years"	"61"	"Acute myocardial infarction, unspecified"	"I21.9"	15	29377	Unreliable
+	"South Dakota"	"46"	"62 years"	"62"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	11	29065	Unreliable
+	"South Dakota"	"46"	"62 years"	"62"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	21	29065	72.3
+	"South Dakota"	"46"	"62 years"	"62"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	10	29065	Unreliable
+	"South Dakota"	"46"	"62 years"	"62"	"Acute myocardial infarction, unspecified"	"I21.9"	16	29065	Unreliable
+	"South Dakota"	"46"	"62 years"	"62"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	13	29065	Unreliable
+	"South Dakota"	"46"	"62 years"	"62"	"COVID-19"	"U07.1"	10	29065	Unreliable
+	"South Dakota"	"46"	"63 years"	"63"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	28	28633	97.8
+	"South Dakota"	"46"	"63 years"	"63"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	16	28633	Unreliable
+	"South Dakota"	"46"	"63 years"	"63"	"Acute myocardial infarction, unspecified"	"I21.9"	15	28633	Unreliable
+	"South Dakota"	"46"	"63 years"	"63"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	12	28633	Unreliable
+	"South Dakota"	"46"	"64 years"	"64"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	20	28097	71.2
+	"South Dakota"	"46"	"64 years"	"64"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	10	28097	Unreliable
+	"South Dakota"	"46"	"64 years"	"64"	"Acute myocardial infarction, unspecified"	"I21.9"	15	28097	Unreliable
+	"South Dakota"	"46"	"65 years"	"65"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	11	27398	Unreliable
+	"South Dakota"	"46"	"65 years"	"65"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	26	27398	94.9
+	"South Dakota"	"46"	"65 years"	"65"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	14	27398	Unreliable
+	"South Dakota"	"46"	"65 years"	"65"	"Acute myocardial infarction, unspecified"	"I21.9"	15	27398	Unreliable
+	"South Dakota"	"46"	"66 years"	"66"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	12	26265	Unreliable
+	"South Dakota"	"46"	"66 years"	"66"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	13	26265	Unreliable
+	"South Dakota"	"46"	"66 years"	"66"	"Acute myocardial infarction, unspecified"	"I21.9"	19	26265	Unreliable
+	"South Dakota"	"46"	"66 years"	"66"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	14	26265	Unreliable
+	"South Dakota"	"46"	"67 years"	"67"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	21	25053	83.8
+	"South Dakota"	"46"	"67 years"	"67"	"Acute myocardial infarction, unspecified"	"I21.9"	21	25053	83.8
+	"South Dakota"	"46"	"67 years"	"67"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	15	25053	Unreliable
+	"South Dakota"	"46"	"68 years"	"68"	"Septicaemia, unspecified"	"A41.9"	10	23924	Unreliable
+	"South Dakota"	"46"	"68 years"	"68"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	27	23924	112.9
+	"South Dakota"	"46"	"68 years"	"68"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	17	23924	Unreliable
+	"South Dakota"	"46"	"68 years"	"68"	"Acute myocardial infarction, unspecified"	"I21.9"	21	23924	87.8
+	"South Dakota"	"46"	"68 years"	"68"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	10	23924	Unreliable
+	"South Dakota"	"46"	"69 years"	"69"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	33	22740	145.1
+	"South Dakota"	"46"	"69 years"	"69"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	11	22740	Unreliable
+	"South Dakota"	"46"	"69 years"	"69"	"Malignant neoplasm of ovary"	"C56"	10	22740	Unreliable
+	"South Dakota"	"46"	"69 years"	"69"	"Acute myocardial infarction, unspecified"	"I21.9"	20	22740	88.0
+	"South Dakota"	"46"	"69 years"	"69"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	14	22740	Unreliable
+	"South Dakota"	"46"	"69 years"	"69"	"COVID-19"	"U07.1"	14	22740	Unreliable
+	"South Dakota"	"46"	"70 years"	"70"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	24	20732	115.8
+	"South Dakota"	"46"	"70 years"	"70"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	12	20732	Unreliable
+	"South Dakota"	"46"	"70 years"	"70"	"Malignant neoplasm of ovary"	"C56"	11	20732	Unreliable
+	"South Dakota"	"46"	"70 years"	"70"	"Acute myocardial infarction, unspecified"	"I21.9"	23	20732	110.9
+	"South Dakota"	"46"	"70 years"	"70"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	15	20732	Unreliable
+	"South Dakota"	"46"	"70 years"	"70"	"COVID-19"	"U07.1"	10	20732	Unreliable
+	"South Dakota"	"46"	"71 years"	"71"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	11	18974	Unreliable
+	"South Dakota"	"46"	"71 years"	"71"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	35	18974	184.5
+	"South Dakota"	"46"	"71 years"	"71"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	19	18974	Unreliable
+	"South Dakota"	"46"	"71 years"	"71"	"Alzheimer disease, unspecified"	"G30.9"	12	18974	Unreliable
+	"South Dakota"	"46"	"71 years"	"71"	"Acute myocardial infarction, unspecified"	"I21.9"	17	18974	Unreliable
+	"South Dakota"	"46"	"71 years"	"71"	"Atherosclerotic heart disease"	"I25.1"	10	18974	Unreliable
+	"South Dakota"	"46"	"71 years"	"71"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	19	18974	Unreliable
+	"South Dakota"	"46"	"71 years"	"71"	"COVID-19"	"U07.1"	19	18974	Unreliable
+	"South Dakota"	"46"	"72 years"	"72"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	32	17638	181.4
+	"South Dakota"	"46"	"72 years"	"72"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	11	17638	Unreliable
+	"South Dakota"	"46"	"72 years"	"72"	"Alzheimer disease, unspecified"	"G30.9"	11	17638	Unreliable
+	"South Dakota"	"46"	"72 years"	"72"	"Acute myocardial infarction, unspecified"	"I21.9"	24	17638	136.1
+	"South Dakota"	"46"	"72 years"	"72"	"Stroke, not specified as haemorrhage or infarction"	"I64"	10	17638	Unreliable
+	"South Dakota"	"46"	"72 years"	"72"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	26	17638	147.4
+	"South Dakota"	"46"	"72 years"	"72"	"COVID-19"	"U07.1"	19	17638	Unreliable
+	"South Dakota"	"46"	"73 years"	"73"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	12	16421	Unreliable
+	"South Dakota"	"46"	"73 years"	"73"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	10	16421	Unreliable
+	"South Dakota"	"46"	"73 years"	"73"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	34	16421	207.1
+	"South Dakota"	"46"	"73 years"	"73"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	14	16421	Unreliable
+	"South Dakota"	"46"	"73 years"	"73"	"Acute myocardial infarction, unspecified"	"I21.9"	21	16421	127.9
+	"South Dakota"	"46"	"73 years"	"73"	"Atherosclerotic heart disease"	"I25.1"	12	16421	Unreliable
+	"South Dakota"	"46"	"73 years"	"73"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	20	16421	121.8
+	"South Dakota"	"46"	"73 years"	"73"	"COVID-19"	"U07.1"	11	16421	Unreliable
+	"South Dakota"	"46"	"74 years"	"74"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	12	14862	Unreliable
+	"South Dakota"	"46"	"74 years"	"74"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	35	14862	235.5
+	"South Dakota"	"46"	"74 years"	"74"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	13	14862	Unreliable
+	"South Dakota"	"46"	"74 years"	"74"	"Acute myocardial infarction, unspecified"	"I21.9"	19	14862	Unreliable
+	"South Dakota"	"46"	"74 years"	"74"	"Atherosclerotic heart disease"	"I25.1"	10	14862	Unreliable
+	"South Dakota"	"46"	"74 years"	"74"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	15	14862	Unreliable
+	"South Dakota"	"46"	"74 years"	"74"	"COVID-19"	"U07.1"	16	14862	Unreliable
+	"South Dakota"	"46"	"75 years"	"75"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	37	14117	262.1
+	"South Dakota"	"46"	"75 years"	"75"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	17	14117	Unreliable
+	"South Dakota"	"46"	"75 years"	"75"	"Alzheimer disease, unspecified"	"G30.9"	10	14117	Unreliable
+	"South Dakota"	"46"	"75 years"	"75"	"Acute myocardial infarction, unspecified"	"I21.9"	15	14117	Unreliable
+	"South Dakota"	"46"	"75 years"	"75"	"Atherosclerotic heart disease"	"I25.1"	18	14117	Unreliable
+	"South Dakota"	"46"	"75 years"	"75"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	29	14117	205.4
+	"South Dakota"	"46"	"76 years"	"76"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	12	13355	Unreliable
+	"South Dakota"	"46"	"76 years"	"76"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	33	13355	247.1
+	"South Dakota"	"46"	"76 years"	"76"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	11	13355	Unreliable
+	"South Dakota"	"46"	"76 years"	"76"	"Alzheimer disease, unspecified"	"G30.9"	18	13355	Unreliable
+	"South Dakota"	"46"	"76 years"	"76"	"Acute myocardial infarction, unspecified"	"I21.9"	26	13355	194.7
+	"South Dakota"	"46"	"76 years"	"76"	"Atherosclerotic heart disease"	"I25.1"	11	13355	Unreliable
+	"South Dakota"	"46"	"76 years"	"76"	"Stroke, not specified as haemorrhage or infarction"	"I64"	11	13355	Unreliable
+	"South Dakota"	"46"	"76 years"	"76"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	26	13355	194.7
+	"South Dakota"	"46"	"76 years"	"76"	"COVID-19"	"U07.1"	13	13355	Unreliable
+	"South Dakota"	"46"	"77 years"	"77"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	26	12556	207.1
+	"South Dakota"	"46"	"77 years"	"77"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	13	12556	Unreliable
+	"South Dakota"	"46"	"77 years"	"77"	"Alzheimer disease, unspecified"	"G30.9"	19	12556	Unreliable
+	"South Dakota"	"46"	"77 years"	"77"	"Acute myocardial infarction, unspecified"	"I21.9"	18	12556	Unreliable
+	"South Dakota"	"46"	"77 years"	"77"	"Atherosclerotic heart disease"	"I25.1"	13	12556	Unreliable
+	"South Dakota"	"46"	"77 years"	"77"	"Stroke, not specified as haemorrhage or infarction"	"I64"	10	12556	Unreliable
+	"South Dakota"	"46"	"77 years"	"77"	"Pneumonia, unspecified"	"J18.9"	11	12556	Unreliable
+	"South Dakota"	"46"	"77 years"	"77"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	26	12556	207.1
+	"South Dakota"	"46"	"77 years"	"77"	"COVID-19"	"U07.1"	18	12556	Unreliable
+	"South Dakota"	"46"	"78 years"	"78"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	12	11707	Unreliable
+	"South Dakota"	"46"	"78 years"	"78"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	31	11707	264.8
+	"South Dakota"	"46"	"78 years"	"78"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	11	11707	Unreliable
+	"South Dakota"	"46"	"78 years"	"78"	"Alzheimer disease, unspecified"	"G30.9"	15	11707	Unreliable
+	"South Dakota"	"46"	"78 years"	"78"	"Acute myocardial infarction, unspecified"	"I21.9"	28	11707	239.2
+	"South Dakota"	"46"	"78 years"	"78"	"Atherosclerotic heart disease"	"I25.1"	25	11707	213.5
+	"South Dakota"	"46"	"78 years"	"78"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	27	11707	230.6
+	"South Dakota"	"46"	"78 years"	"78"	"COVID-19"	"U07.1"	15	11707	Unreliable
+	"South Dakota"	"46"	"79 years"	"79"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	29	11256	257.6
+	"South Dakota"	"46"	"79 years"	"79"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	10	11256	Unreliable
+	"South Dakota"	"46"	"79 years"	"79"	"Alzheimer disease, unspecified"	"G30.9"	21	11256	186.6
+	"South Dakota"	"46"	"79 years"	"79"	"Acute myocardial infarction, unspecified"	"I21.9"	24	11256	213.2
+	"South Dakota"	"46"	"79 years"	"79"	"Atherosclerotic heart disease"	"I25.1"	14	11256	Unreliable
+	"South Dakota"	"46"	"79 years"	"79"	"Stroke, not specified as haemorrhage or infarction"	"I64"	13	11256	Unreliable
+	"South Dakota"	"46"	"79 years"	"79"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	22	11256	195.5
+	"South Dakota"	"46"	"79 years"	"79"	"COVID-19"	"U07.1"	13	11256	Unreliable
+	"South Dakota"	"46"	"80 years"	"80"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	33	10805	305.4
+	"South Dakota"	"46"	"80 years"	"80"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	11	10805	Unreliable
+	"South Dakota"	"46"	"80 years"	"80"	"Unspecified dementia"	"F03"	10	10805	Unreliable
+	"South Dakota"	"46"	"80 years"	"80"	"Alzheimer disease, unspecified"	"G30.9"	34	10805	314.7
+	"South Dakota"	"46"	"80 years"	"80"	"Acute myocardial infarction, unspecified"	"I21.9"	24	10805	222.1
+	"South Dakota"	"46"	"80 years"	"80"	"Atherosclerotic heart disease"	"I25.1"	15	10805	Unreliable
+	"South Dakota"	"46"	"80 years"	"80"	"Stroke, not specified as haemorrhage or infarction"	"I64"	13	10805	Unreliable
+	"South Dakota"	"46"	"80 years"	"80"	"Pneumonia, unspecified"	"J18.9"	10	10805	Unreliable
+	"South Dakota"	"46"	"80 years"	"80"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	23	10805	212.9
+	"South Dakota"	"46"	"80 years"	"80"	"COVID-19"	"U07.1"	12	10805	Unreliable
+	"South Dakota"	"46"	"81 years"	"81"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	27	10215	264.3
+	"South Dakota"	"46"	"81 years"	"81"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	11	10215	Unreliable
+	"South Dakota"	"46"	"81 years"	"81"	"Alzheimer disease, unspecified"	"G30.9"	21	10215	205.6
+	"South Dakota"	"46"	"81 years"	"81"	"Acute myocardial infarction, unspecified"	"I21.9"	23	10215	225.2
+	"South Dakota"	"46"	"81 years"	"81"	"Atherosclerotic heart disease"	"I25.1"	14	10215	Unreliable
+	"South Dakota"	"46"	"81 years"	"81"	"Stroke, not specified as haemorrhage or infarction"	"I64"	16	10215	Unreliable
+	"South Dakota"	"46"	"81 years"	"81"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	23	10215	225.2
+	"South Dakota"	"46"	"81 years"	"81"	"COVID-19"	"U07.1"	19	10215	Unreliable
+	"South Dakota"	"46"	"82 years"	"82"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	30	9745	307.9
+	"South Dakota"	"46"	"82 years"	"82"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	10	9745	Unreliable
+	"South Dakota"	"46"	"82 years"	"82"	"Alzheimer disease, unspecified"	"G30.9"	49	9745	502.8
+	"South Dakota"	"46"	"82 years"	"82"	"Acute myocardial infarction, unspecified"	"I21.9"	31	9745	318.1
+	"South Dakota"	"46"	"82 years"	"82"	"Atherosclerotic heart disease"	"I25.1"	20	9745	205.2
+	"South Dakota"	"46"	"82 years"	"82"	"Stroke, not specified as haemorrhage or infarction"	"I64"	20	9745	205.2
+	"South Dakota"	"46"	"82 years"	"82"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	29	9745	297.6
+	"South Dakota"	"46"	"82 years"	"82"	"COVID-19"	"U07.1"	18	9745	Unreliable
+	"South Dakota"	"46"	"83 years"	"83"	"Septicaemia, unspecified"	"A41.9"	10	9318	Unreliable
+	"South Dakota"	"46"	"83 years"	"83"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	11	9318	Unreliable
+	"South Dakota"	"46"	"83 years"	"83"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	30	9318	322.0
+	"South Dakota"	"46"	"83 years"	"83"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	16	9318	Unreliable
+	"South Dakota"	"46"	"83 years"	"83"	"Unspecified dementia"	"F03"	11	9318	Unreliable
+	"South Dakota"	"46"	"83 years"	"83"	"Parkinson disease"	"G20"	11	9318	Unreliable
+	"South Dakota"	"46"	"83 years"	"83"	"Alzheimer disease, unspecified"	"G30.9"	49	9318	525.9
+	"South Dakota"	"46"	"83 years"	"83"	"Acute myocardial infarction, unspecified"	"I21.9"	36	9318	386.3
+	"South Dakota"	"46"	"83 years"	"83"	"Atherosclerotic heart disease"	"I25.1"	19	9318	Unreliable
+	"South Dakota"	"46"	"83 years"	"83"	"Stroke, not specified as haemorrhage or infarction"	"I64"	20	9318	214.6
+	"South Dakota"	"46"	"83 years"	"83"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	13	9318	Unreliable
+	"South Dakota"	"46"	"83 years"	"83"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	18	9318	Unreliable
+	"South Dakota"	"46"	"83 years"	"83"	"COVID-19"	"U07.1"	11	9318	Unreliable
+	"South Dakota"	"46"	"84 years"	"84"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	12	9012	Unreliable
+	"South Dakota"	"46"	"84 years"	"84"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	24	9012	266.3
+	"South Dakota"	"46"	"84 years"	"84"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	14	9012	Unreliable
+	"South Dakota"	"46"	"84 years"	"84"	"Alzheimer disease, unspecified"	"G30.9"	55	9012	610.3
+	"South Dakota"	"46"	"84 years"	"84"	"Acute myocardial infarction, unspecified"	"I21.9"	18	9012	Unreliable
+	"South Dakota"	"46"	"84 years"	"84"	"Atherosclerotic heart disease"	"I25.1"	32	9012	355.1
+	"South Dakota"	"46"	"84 years"	"84"	"Stroke, not specified as haemorrhage or infarction"	"I64"	21	9012	233.0
+	"South Dakota"	"46"	"84 years"	"84"	"Pneumonia, unspecified"	"J18.9"	16	9012	Unreliable
+	"South Dakota"	"46"	"84 years"	"84"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	22	9012	244.1
+	"South Dakota"	"46"	"84 years"	"84"	"COVID-19"	"U07.1"	21	9012	233.0
+	"South Dakota"	"46"	"85 years"	"85"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	25	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"85 years"	"85"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	12	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"85 years"	"85"	"Vascular dementia, unspecified"	"F01.9"	11	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"85 years"	"85"	"Unspecified dementia"	"F03"	12	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"85 years"	"85"	"Alzheimer disease, unspecified"	"G30.9"	58	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"85 years"	"85"	"Acute myocardial infarction, unspecified"	"I21.9"	30	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"85 years"	"85"	"Atherosclerotic heart disease"	"I25.1"	31	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"85 years"	"85"	"Stroke, not specified as haemorrhage or infarction"	"I64"	17	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"85 years"	"85"	"Pneumonia, unspecified"	"J18.9"	11	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"85 years"	"85"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	21	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"85 years"	"85"	"COVID-19"	"U07.1"	25	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"85 years"	"85"	"Unspecified fall"	"W19"	15	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"86 years"	"86"	"Septicaemia, unspecified"	"A41.9"	12	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"86 years"	"86"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	11	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"86 years"	"86"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	16	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"86 years"	"86"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	16	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"86 years"	"86"	"Unspecified dementia"	"F03"	16	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"86 years"	"86"	"Parkinson disease"	"G20"	11	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"86 years"	"86"	"Alzheimer disease, unspecified"	"G30.9"	75	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"86 years"	"86"	"Acute myocardial infarction, unspecified"	"I21.9"	25	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"86 years"	"86"	"Atherosclerotic heart disease"	"I25.1"	34	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"86 years"	"86"	"Stroke, not specified as haemorrhage or infarction"	"I64"	36	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"86 years"	"86"	"Pneumonia, unspecified"	"J18.9"	17	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"86 years"	"86"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	28	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"86 years"	"86"	"COVID-19"	"U07.1"	19	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"87 years"	"87"	"Septicaemia, unspecified"	"A41.9"	11	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"87 years"	"87"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	12	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"87 years"	"87"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	23	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"87 years"	"87"	"Unspecified dementia"	"F03"	20	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"87 years"	"87"	"Alzheimer disease, unspecified"	"G30.9"	81	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"87 years"	"87"	"Hypertensive heart disease with (congestive) heart failure"	"I11.0"	14	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"87 years"	"87"	"Acute myocardial infarction, unspecified"	"I21.9"	34	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"87 years"	"87"	"Atherosclerotic heart disease"	"I25.1"	26	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"87 years"	"87"	"Congestive heart failure"	"I50.0"	11	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"87 years"	"87"	"Stroke, not specified as haemorrhage or infarction"	"I64"	41	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"87 years"	"87"	"Pneumonia, unspecified"	"J18.9"	22	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"87 years"	"87"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	27	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"87 years"	"87"	"Urinary tract infection, site not specified"	"N39.0"	10	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"87 years"	"87"	"COVID-19"	"U07.1"	20	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"87 years"	"87"	"Unspecified fall"	"W19"	10	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"88 years"	"88"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	20	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"88 years"	"88"	"Vascular dementia, unspecified"	"F01.9"	14	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"88 years"	"88"	"Unspecified dementia"	"F03"	16	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"88 years"	"88"	"Alzheimer disease, unspecified"	"G30.9"	62	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"88 years"	"88"	"Hypertensive heart disease with (congestive) heart failure"	"I11.0"	16	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"88 years"	"88"	"Acute myocardial infarction, unspecified"	"I21.9"	27	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"88 years"	"88"	"Atherosclerotic heart disease"	"I25.1"	35	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"88 years"	"88"	"Aortic (valve) stenosis"	"I35.0"	11	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"88 years"	"88"	"Atrial fibrillation and flutter"	"I48"	11	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"88 years"	"88"	"Cerebral infarction, unspecified"	"I63.9"	10	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"88 years"	"88"	"Stroke, not specified as haemorrhage or infarction"	"I64"	33	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"88 years"	"88"	"Pneumonia, unspecified"	"J18.9"	23	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"88 years"	"88"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	33	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"88 years"	"88"	"COVID-19"	"U07.1"	36	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"89 years"	"89"	"Septicaemia, unspecified"	"A41.9"	11	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"89 years"	"89"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	11	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"89 years"	"89"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	13	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"89 years"	"89"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	11	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"89 years"	"89"	"Vascular dementia, unspecified"	"F01.9"	14	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"89 years"	"89"	"Unspecified dementia"	"F03"	27	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"89 years"	"89"	"Alzheimer disease, unspecified"	"G30.9"	80	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"89 years"	"89"	"Essential (primary) hypertension"	"I10"	11	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"89 years"	"89"	"Hypertensive heart disease with (congestive) heart failure"	"I11.0"	17	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"89 years"	"89"	"Acute myocardial infarction, unspecified"	"I21.9"	31	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"89 years"	"89"	"Atherosclerotic heart disease"	"I25.1"	37	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"89 years"	"89"	"Atrial fibrillation and flutter"	"I48"	17	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"89 years"	"89"	"Stroke, not specified as haemorrhage or infarction"	"I64"	32	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"89 years"	"89"	"Pneumonia, unspecified"	"J18.9"	16	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"89 years"	"89"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	11	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"89 years"	"89"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	27	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"89 years"	"89"	"Pneumonitis due to food and vomit"	"J69.0"	10	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"89 years"	"89"	"COVID-19"	"U07.1"	27	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"89 years"	"89"	"Unspecified fall"	"W19"	17	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"90 years"	"90"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	10	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"90 years"	"90"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	10	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"90 years"	"90"	"Vascular dementia, unspecified"	"F01.9"	10	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"90 years"	"90"	"Unspecified dementia"	"F03"	27	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"90 years"	"90"	"Parkinson disease"	"G20"	11	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"90 years"	"90"	"Alzheimer disease, unspecified"	"G30.9"	74	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"90 years"	"90"	"Hypertensive heart disease with (congestive) heart failure"	"I11.0"	16	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"90 years"	"90"	"Acute myocardial infarction, unspecified"	"I21.9"	36	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"90 years"	"90"	"Atherosclerotic heart disease"	"I25.1"	51	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"90 years"	"90"	"Atrial fibrillation and flutter"	"I48"	13	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"90 years"	"90"	"Stroke, not specified as haemorrhage or infarction"	"I64"	27	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"90 years"	"90"	"Pneumonia, unspecified"	"J18.9"	21	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"90 years"	"90"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	18	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"90 years"	"90"	"Urinary tract infection, site not specified"	"N39.0"	12	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"90 years"	"90"	"COVID-19"	"U07.1"	27	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"90 years"	"90"	"Unspecified fall"	"W19"	15	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"91 years"	"91"	"Vascular dementia, unspecified"	"F01.9"	15	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"91 years"	"91"	"Unspecified dementia"	"F03"	17	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"91 years"	"91"	"Alzheimer disease with late onset"	"G30.1"	11	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"91 years"	"91"	"Alzheimer disease, unspecified"	"G30.9"	95	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"91 years"	"91"	"Hypertensive heart disease with (congestive) heart failure"	"I11.0"	13	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"91 years"	"91"	"Acute myocardial infarction, unspecified"	"I21.9"	27	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"91 years"	"91"	"Atherosclerotic heart disease"	"I25.1"	38	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"91 years"	"91"	"Atrial fibrillation and flutter"	"I48"	12	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"91 years"	"91"	"Stroke, not specified as haemorrhage or infarction"	"I64"	36	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"91 years"	"91"	"Pneumonia, unspecified"	"J18.9"	12	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"91 years"	"91"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	25	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"91 years"	"91"	"Pneumonitis due to food and vomit"	"J69.0"	10	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"91 years"	"91"	"COVID-19"	"U07.1"	29	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"91 years"	"91"	"Unspecified fall"	"W19"	10	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"92 years"	"92"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	14	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"92 years"	"92"	"Vascular dementia, unspecified"	"F01.9"	17	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"92 years"	"92"	"Unspecified dementia"	"F03"	21	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"92 years"	"92"	"Alzheimer disease, unspecified"	"G30.9"	80	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"92 years"	"92"	"Essential (primary) hypertension"	"I10"	10	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"92 years"	"92"	"Hypertensive heart disease with (congestive) heart failure"	"I11.0"	15	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"92 years"	"92"	"Acute myocardial infarction, unspecified"	"I21.9"	43	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"92 years"	"92"	"Atherosclerotic heart disease"	"I25.1"	46	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"92 years"	"92"	"Atrial fibrillation and flutter"	"I48"	12	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"92 years"	"92"	"Stroke, not specified as haemorrhage or infarction"	"I64"	33	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"92 years"	"92"	"Pneumonia, unspecified"	"J18.9"	20	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"92 years"	"92"	"COVID-19"	"U07.1"	24	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"93 years"	"93"	"Vascular dementia, unspecified"	"F01.9"	16	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"93 years"	"93"	"Unspecified dementia"	"F03"	15	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"93 years"	"93"	"Alzheimer disease, unspecified"	"G30.9"	81	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"93 years"	"93"	"Hypertensive heart disease with (congestive) heart failure"	"I11.0"	21	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"93 years"	"93"	"Acute myocardial infarction, unspecified"	"I21.9"	25	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"93 years"	"93"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	10	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"93 years"	"93"	"Atherosclerotic heart disease"	"I25.1"	45	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"93 years"	"93"	"Aortic (valve) stenosis"	"I35.0"	12	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"93 years"	"93"	"Atrial fibrillation and flutter"	"I48"	13	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"93 years"	"93"	"Congestive heart failure"	"I50.0"	13	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"93 years"	"93"	"Stroke, not specified as haemorrhage or infarction"	"I64"	33	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"93 years"	"93"	"Pneumonia, unspecified"	"J18.9"	22	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"93 years"	"93"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	18	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"93 years"	"93"	"COVID-19"	"U07.1"	33	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"93 years"	"93"	"Other fall on same level"	"W18"	10	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"94 years"	"94"	"Vascular dementia, unspecified"	"F01.9"	10	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"94 years"	"94"	"Unspecified dementia"	"F03"	19	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"94 years"	"94"	"Alzheimer disease, unspecified"	"G30.9"	59	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"94 years"	"94"	"Essential (primary) hypertension"	"I10"	10	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"94 years"	"94"	"Hypertensive heart disease with (congestive) heart failure"	"I11.0"	18	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"94 years"	"94"	"Hypertensive renal disease with renal failure"	"I12.0"	11	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"94 years"	"94"	"Acute myocardial infarction, unspecified"	"I21.9"	25	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"94 years"	"94"	"Atherosclerotic heart disease"	"I25.1"	39	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"94 years"	"94"	"Atrial fibrillation and flutter"	"I48"	10	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"94 years"	"94"	"Stroke, not specified as haemorrhage or infarction"	"I64"	25	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"94 years"	"94"	"Pneumonia, unspecified"	"J18.9"	16	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"94 years"	"94"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	17	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"94 years"	"94"	"COVID-19"	"U07.1"	14	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"95 years"	"95"	"Vascular dementia, unspecified"	"F01.9"	14	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"95 years"	"95"	"Unspecified dementia"	"F03"	14	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"95 years"	"95"	"Alzheimer disease, unspecified"	"G30.9"	77	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"95 years"	"95"	"Hypertensive heart disease with (congestive) heart failure"	"I11.0"	14	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"95 years"	"95"	"Acute myocardial infarction, unspecified"	"I21.9"	23	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"95 years"	"95"	"Atherosclerotic heart disease"	"I25.1"	32	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"95 years"	"95"	"Atrial fibrillation and flutter"	"I48"	13	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"95 years"	"95"	"Stroke, not specified as haemorrhage or infarction"	"I64"	22	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"95 years"	"95"	"Pneumonia, unspecified"	"J18.9"	18	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"95 years"	"95"	"COVID-19"	"U07.1"	22	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"95 years"	"95"	"Unspecified fall"	"W19"	10	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"96 years"	"96"	"Vascular dementia, unspecified"	"F01.9"	11	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"96 years"	"96"	"Unspecified dementia"	"F03"	19	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"96 years"	"96"	"Alzheimer disease, unspecified"	"G30.9"	64	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"96 years"	"96"	"Hypertensive heart disease with (congestive) heart failure"	"I11.0"	17	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"96 years"	"96"	"Hypertensive renal disease with renal failure"	"I12.0"	10	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"96 years"	"96"	"Acute myocardial infarction, unspecified"	"I21.9"	24	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"96 years"	"96"	"Atherosclerotic heart disease"	"I25.1"	27	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"96 years"	"96"	"Congestive heart failure"	"I50.0"	10	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"96 years"	"96"	"Stroke, not specified as haemorrhage or infarction"	"I64"	27	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"96 years"	"96"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	13	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"96 years"	"96"	"COVID-19"	"U07.1"	19	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"97 years"	"97"	"Vascular dementia, unspecified"	"F01.9"	10	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"97 years"	"97"	"Unspecified dementia"	"F03"	25	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"97 years"	"97"	"Alzheimer disease, unspecified"	"G30.9"	62	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"97 years"	"97"	"Essential (primary) hypertension"	"I10"	14	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"97 years"	"97"	"Hypertensive heart disease with (congestive) heart failure"	"I11.0"	10	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"97 years"	"97"	"Acute myocardial infarction, unspecified"	"I21.9"	19	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"97 years"	"97"	"Atherosclerotic heart disease"	"I25.1"	33	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"97 years"	"97"	"Stroke, not specified as haemorrhage or infarction"	"I64"	14	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"97 years"	"97"	"Pneumonia, unspecified"	"J18.9"	11	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"97 years"	"97"	"COVID-19"	"U07.1"	11	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"97 years"	"97"	"Other fall on same level"	"W18"	10	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"98 years"	"98"	"Unspecified dementia"	"F03"	12	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"98 years"	"98"	"Alzheimer disease, unspecified"	"G30.9"	55	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"98 years"	"98"	"Hypertensive heart disease with (congestive) heart failure"	"I11.0"	10	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"98 years"	"98"	"Acute myocardial infarction, unspecified"	"I21.9"	13	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"98 years"	"98"	"Atherosclerotic heart disease"	"I25.1"	26	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"98 years"	"98"	"Stroke, not specified as haemorrhage or infarction"	"I64"	18	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"98 years"	"98"	"Pneumonia, unspecified"	"J18.9"	13	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"98 years"	"98"	"COVID-19"	"U07.1"	12	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"98 years"	"98"	"Unspecified fall"	"W19"	10	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"99 years"	"99"	"Unspecified dementia"	"F03"	18	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"99 years"	"99"	"Alzheimer disease, unspecified"	"G30.9"	32	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"99 years"	"99"	"Essential (primary) hypertension"	"I10"	10	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"99 years"	"99"	"Hypertensive heart disease with (congestive) heart failure"	"I11.0"	14	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"99 years"	"99"	"Acute myocardial infarction, unspecified"	"I21.9"	15	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"99 years"	"99"	"Atherosclerotic heart disease"	"I25.1"	14	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"100+ years"	"100"	"Vascular dementia, unspecified"	"F01.9"	13	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"100+ years"	"100"	"Unspecified dementia"	"F03"	27	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"100+ years"	"100"	"Alzheimer disease with late onset"	"G30.1"	17	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"100+ years"	"100"	"Alzheimer disease, unspecified"	"G30.9"	65	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"100+ years"	"100"	"Essential (primary) hypertension"	"I10"	20	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"100+ years"	"100"	"Hypertensive heart disease with (congestive) heart failure"	"I11.0"	17	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"100+ years"	"100"	"Acute myocardial infarction, unspecified"	"I21.9"	22	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"100+ years"	"100"	"Atherosclerotic heart disease"	"I25.1"	45	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"100+ years"	"100"	"Congestive heart failure"	"I50.0"	15	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"100+ years"	"100"	"Stroke, not specified as haemorrhage or infarction"	"I64"	23	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"100+ years"	"100"	"Pneumonia, unspecified"	"J18.9"	30	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"100+ years"	"100"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	10	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"100+ years"	"100"	"Senility"	"R54"	23	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"100+ years"	"100"	"COVID-19"	"U07.1"	21	Not Applicable	Not Applicable
+"---"
+"Dataset: Underlying Cause of Death, 1999-2020"
+"Query Parameters:"
+"Title: South Dakota CoD F"
+"Gender: Female"
+"States: South Dakota (46)"
+"Year/Month: 2016; 2017; 2018; 2019; 2020"
+"Group By: State; Single-Year Ages; Cause of death"
+"Show Totals: Disabled"
+"Show Zero Values: Disabled"
+"Show Suppressed: False"
+"Calculate Rates Per: 100,000"
+"Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/ucd.html for more information."
+"---"
+"Query Date: Apr 11, 2022 2:52:48 AM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. Underlying Cause of Death"
+"1999-2020 on CDC WONDER Online Database, released in 2021. Data are from the Multiple Cause of Death Files, 1999-2020, as"
+"compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative Program. Accessed"
+"at http://wonder.cdc.gov/ucd-icd10.html on Apr 11, 2022 2:52:48 AM"
+"---"
+Messages:
+"1. The full results are too long to be displayed. Due to suppression constraints rows that are zero, suppressed or a total will"
+"not be available."
+"---"
+Caveats:
+"1. Population and rates are labeled 'Not Applicable' when they include a subset of ages 85-100+ because populations are not"
+"available for those ages. More information: http://wonder.cdc.gov/wonder/help/ucd.html#Ages 85-100."
+"2. Death rates are flagged as Unreliable when the rate is calculated with a numerator of 20 or less. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Unreliable."
+"3. Deaths of persons with Age ""Not Stated"" are included in ""All"" counts and rates, but are not distributed among age groups,"
+"so are not included in age-specific counts, age-specific rates or in any age-adjusted rates. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Not Stated."
+"4. The population figures for year 2020 are bridged-race estimates of the July 1 resident population, from the Vintage 2020"
+"postcensal series released by NCHS on September 22, 2021. The population figures for year 2019 are bridged-race estimates of the"
+"July 1 resident population, from the Vintage 2019 postcensal series released by NCHS on July 9, 2020. The population figures for"
+"year 2018 are bridged-race estimates of the July 1 resident population, from the Vintage 2018 postcensal series released by NCHS"
+"on June 25, 2019. The population figures for year 2017 are bridged-race estimates of the July 1 resident population, from the"
+"Vintage 2017 postcensal series released by NCHS on June 27, 2018. The population figures for year 2016 are bridged-race"
+"estimates of the July 1 resident population, from the Vintage 2016 postcensal series released by NCHS on June 26, 2017. The"
+"population figures for year 2015 are bridged-race estimates of the July 1 resident population, from the Vintage 2015 postcensal"
+"series released by NCHS on June 28, 2016. The population figures for year 2014 are bridged-race estimates of the July 1 resident"
+"population, from the Vintage 2014 postcensal series released by NCHS on June 30, 2015. The population figures for year 2013 are"
+"bridged-race estimates of the July 1 resident population, from the Vintage 2013 postcensal series released by NCHS on June 26,"
+"2014. The population figures for year 2012 are bridged-race estimates of the July 1 resident population, from the Vintage 2012"
+"postcensal series released by NCHS on June 13, 2013. The population figures for year 2011 are bridged-race estimates of the July"
+"1 resident population, from the Vintage 2011 postcensal series released by NCHS on July 18, 2012. Population figures for 2010"
+"are April 1 Census counts. The population figures for years 2001 - 2009 are bridged-race estimates of the July 1 resident"
+"population, from the revised intercensal county-level 2000 - 2009 series released by NCHS on October 26, 2012. Population"
+"figures for 2000 are April 1 Census counts. Population figures for 1999 are from the 1990-1999 intercensal series of July 1"
+"estimates. Population figures for the infant age groups are the number of live births. <br/><b>Note:</b> Rates and population"
+"figures for years 2001 - 2009 differ slightly from previously published reports, due to use of the population estimates which"
+"were available at the time of release."
+"5. The population figures used in the calculation of death rates for the age group 'under 1 year' are the estimates of the"
+"resident population that is under one year of age. More information: http://wonder.cdc.gov/wonder/help/ucd.html#Age Group."
+"6. Beginning with the 2018 data, changes have been implemented that affect the counts for ICD-10 cause of death codes O00-O99"
+"compared to previous practice. In addition, data for the cause of death codes O00-O99 for 2003 through 2017 reflect differences"
+"in information available to individual states and probable errors. Caution should be used in interpreting these data. More"
+"information can be found at: https://www.cdc.gov/nchs/maternal-mortality/."
+"7. On March 11, 2021, the 2019 mortality data on CDC WONDER was updated with the 2019 mortality data updated by NCHS on March 4,"
+"2021 to include corrected information for residents of Texas affecting 5 records previously coded to cause code *U01.4,"
+"Terrorism involving firearms (homicide). The underlying and multiple cause of death codes for 5 records were corrected in the"
+"2019 data. Underlying and multiple cause of death codes for those 5 records were recoded to Assault (homicide) by other and"
+"unspecified firearm discharge, ICD-10 code X95. The corrected final death records replaces the data released on December 22,"
+"2020."
+"8. Changes to cause of death classification affect reporting trends. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#ICD-10 Changes."

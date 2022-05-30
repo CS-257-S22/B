@@ -1,0 +1,158 @@
+"Notes"	"State"	"State Code"	"Single-Year Ages"	"Single-Year Ages Code"	Deaths	Population	Crude Rate
+	"Arizona"	"04"	"< 1 year"	"0"	1249	214897	581.2
+	"Arizona"	"04"	"1 year"	"1"	125	217897	57.4
+	"Arizona"	"04"	"2 years"	"2"	74	221281	33.4
+	"Arizona"	"04"	"3 years"	"3"	55	225421	24.4
+	"Arizona"	"04"	"4 years"	"4"	41	228230	18.0
+	"Arizona"	"04"	"5 years"	"5"	36	228441	15.8
+	"Arizona"	"04"	"6 years"	"6"	33	229028	14.4
+	"Arizona"	"04"	"7 years"	"7"	30	229769	13.1
+	"Arizona"	"04"	"8 years"	"8"	21	232747	9.0
+	"Arizona"	"04"	"9 years"	"9"	29	236540	12.3
+	"Arizona"	"04"	"10 years"	"10"	34	239290	14.2
+	"Arizona"	"04"	"11 years"	"11"	36	241389	14.9
+	"Arizona"	"04"	"12 years"	"12"	53	241327	22.0
+	"Arizona"	"04"	"13 years"	"13"	52	241322	21.5
+	"Arizona"	"04"	"14 years"	"14"	72	237375	30.3
+	"Arizona"	"04"	"15 years"	"15"	106	236930	44.7
+	"Arizona"	"04"	"16 years"	"16"	152	238066	63.8
+	"Arizona"	"04"	"17 years"	"17"	208	238687	87.1
+	"Arizona"	"04"	"18 years"	"18"	295	245699	120.1
+	"Arizona"	"04"	"19 years"	"19"	312	251839	123.9
+	"Arizona"	"04"	"20 years"	"20"	388	247734	156.6
+	"Arizona"	"04"	"21 years"	"21"	414	252270	164.1
+	"Arizona"	"04"	"22 years"	"22"	430	255538	168.3
+	"Arizona"	"04"	"23 years"	"23"	422	260416	162.0
+	"Arizona"	"04"	"24 years"	"24"	463	261526	177.0
+	"Arizona"	"04"	"25 years"	"25"	495	266520	185.7
+	"Arizona"	"04"	"26 years"	"26"	495	270288	183.1
+	"Arizona"	"04"	"27 years"	"27"	571	268872	212.4
+	"Arizona"	"04"	"28 years"	"28"	525	264337	198.6
+	"Arizona"	"04"	"29 years"	"29"	579	258916	223.6
+	"Arizona"	"04"	"30 years"	"30"	534	252035	211.9
+	"Arizona"	"04"	"31 years"	"31"	601	245432	244.9
+	"Arizona"	"04"	"32 years"	"32"	548	241759	226.7
+	"Arizona"	"04"	"33 years"	"33"	581	239491	242.6
+	"Arizona"	"04"	"34 years"	"34"	607	238826	254.2
+	"Arizona"	"04"	"35 years"	"35"	590	236861	249.1
+	"Arizona"	"04"	"36 years"	"36"	632	235844	268.0
+	"Arizona"	"04"	"37 years"	"37"	581	233085	249.3
+	"Arizona"	"04"	"38 years"	"38"	618	229229	269.6
+	"Arizona"	"04"	"39 years"	"39"	620	223973	276.8
+	"Arizona"	"04"	"40 years"	"40"	649	218728	296.7
+	"Arizona"	"04"	"41 years"	"41"	632	214194	295.1
+	"Arizona"	"04"	"42 years"	"42"	618	211341	292.4
+	"Arizona"	"04"	"43 years"	"43"	631	209670	300.9
+	"Arizona"	"04"	"44 years"	"44"	728	209725	347.1
+	"Arizona"	"04"	"45 years"	"45"	850	212175	400.6
+	"Arizona"	"04"	"46 years"	"46"	833	214479	388.4
+	"Arizona"	"04"	"47 years"	"47"	919	215134	427.2
+	"Arizona"	"04"	"48 years"	"48"	1002	214986	466.1
+	"Arizona"	"04"	"49 years"	"49"	1120	212825	526.3
+	"Arizona"	"04"	"50 years"	"50"	1113	208615	533.5
+	"Arizona"	"04"	"51 years"	"51"	1247	205435	607.0
+	"Arizona"	"04"	"52 years"	"52"	1357	206656	656.6
+	"Arizona"	"04"	"53 years"	"53"	1488	208162	714.8
+	"Arizona"	"04"	"54 years"	"54"	1648	211168	780.4
+	"Arizona"	"04"	"55 years"	"55"	1827	213410	856.1
+	"Arizona"	"04"	"56 years"	"56"	1964	215509	911.3
+	"Arizona"	"04"	"57 years"	"57"	2038	214013	952.3
+	"Arizona"	"04"	"58 years"	"58"	2203	212523	1036.6
+	"Arizona"	"04"	"59 years"	"59"	2414	210053	1149.2
+	"Arizona"	"04"	"60 years"	"60"	2569	206505	1244.0
+	"Arizona"	"04"	"61 years"	"61"	2615	202131	1293.7
+	"Arizona"	"04"	"62 years"	"62"	2682	199438	1344.8
+	"Arizona"	"04"	"63 years"	"63"	2925	195406	1496.9
+	"Arizona"	"04"	"64 years"	"64"	2961	190722	1552.5
+	"Arizona"	"04"	"65 years"	"65"	3056	187848	1626.8
+	"Arizona"	"04"	"66 years"	"66"	3268	184583	1770.5
+	"Arizona"	"04"	"67 years"	"67"	3225	182129	1770.7
+	"Arizona"	"04"	"68 years"	"68"	3355	181657	1846.9
+	"Arizona"	"04"	"69 years"	"69"	3671	181968	2017.4
+	"Arizona"	"04"	"70 years"	"70"	3679	175741	2093.4
+	"Arizona"	"04"	"71 years"	"71"	3809	167548	2273.4
+	"Arizona"	"04"	"72 years"	"72"	3931	159111	2470.6
+	"Arizona"	"04"	"73 years"	"73"	4019	150625	2668.2
+	"Arizona"	"04"	"74 years"	"74"	3999	135485	2951.6
+	"Arizona"	"04"	"75 years"	"75"	4218	128604	3279.8
+	"Arizona"	"04"	"76 years"	"76"	4176	120752	3458.3
+	"Arizona"	"04"	"77 years"	"77"	4233	111933	3781.7
+	"Arizona"	"04"	"78 years"	"78"	4054	101754	3984.1
+	"Arizona"	"04"	"79 years"	"79"	4126	93367	4419.1
+	"Arizona"	"04"	"80 years"	"80"	4084	85581	4772.1
+	"Arizona"	"04"	"81 years"	"81"	4284	78133	5483.0
+	"Arizona"	"04"	"82 years"	"82"	4246	69913	6073.3
+	"Arizona"	"04"	"83 years"	"83"	4286	62397	6868.9
+	"Arizona"	"04"	"84 years"	"84"	4235	55876	7579.3
+	"Arizona"	"04"	"85 years"	"85"	4176	Not Applicable	Not Applicable
+	"Arizona"	"04"	"86 years"	"86"	4097	Not Applicable	Not Applicable
+	"Arizona"	"04"	"87 years"	"87"	4041	Not Applicable	Not Applicable
+	"Arizona"	"04"	"88 years"	"88"	3701	Not Applicable	Not Applicable
+	"Arizona"	"04"	"89 years"	"89"	3577	Not Applicable	Not Applicable
+	"Arizona"	"04"	"90 years"	"90"	3316	Not Applicable	Not Applicable
+	"Arizona"	"04"	"91 years"	"91"	2890	Not Applicable	Not Applicable
+	"Arizona"	"04"	"92 years"	"92"	2576	Not Applicable	Not Applicable
+	"Arizona"	"04"	"93 years"	"93"	2132	Not Applicable	Not Applicable
+	"Arizona"	"04"	"94 years"	"94"	1750	Not Applicable	Not Applicable
+	"Arizona"	"04"	"95 years"	"95"	1425	Not Applicable	Not Applicable
+	"Arizona"	"04"	"96 years"	"96"	1025	Not Applicable	Not Applicable
+	"Arizona"	"04"	"97 years"	"97"	798	Not Applicable	Not Applicable
+	"Arizona"	"04"	"98 years"	"98"	587	Not Applicable	Not Applicable
+	"Arizona"	"04"	"99 years"	"99"	379	Not Applicable	Not Applicable
+	"Arizona"	"04"	"100+ years"	"100"	567	Not Applicable	Not Applicable
+	"Arizona"	"04"	"Not Stated"	"NS"	14	Not Applicable	Not Applicable
+"Total"	"Arizona"	"04"			167745	17799758	942.4
+"Total"					167745	17799758	942.4
+"---"
+"Dataset: Underlying Cause of Death, 1999-2020"
+"Query Parameters:"
+"Title: Arizona General M"
+"Gender: Male"
+"States: Arizona (04)"
+"Year/Month: 2016; 2017; 2018; 2019; 2020"
+"Group By: State; Single-Year Ages"
+"Show Totals: True"
+"Show Zero Values: False"
+"Show Suppressed: False"
+"Calculate Rates Per: 100,000"
+"Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/ucd.html for more information."
+"---"
+"Query Date: Apr 8, 2022 12:10:44 AM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. Underlying Cause of Death"
+"1999-2020 on CDC WONDER Online Database, released in 2021. Data are from the Multiple Cause of Death Files, 1999-2020, as"
+"compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative Program. Accessed"
+"at http://wonder.cdc.gov/ucd-icd10.html on Apr 8, 2022 12:10:44 AM"
+"---"
+Caveats:
+"1. Population and rates are labeled 'Not Applicable' when they include a subset of ages 85-100+ because populations are not"
+"available for those ages. More information: http://wonder.cdc.gov/wonder/help/ucd.html#Ages 85-100."
+"2. Death rates are flagged as Unreliable when the rate is calculated with a numerator of 20 or less. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Unreliable."
+"3. Deaths of persons with Age ""Not Stated"" are included in ""All"" counts and rates, but are not distributed among age groups,"
+"so are not included in age-specific counts, age-specific rates or in any age-adjusted rates. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Not Stated."
+"4. The population figures for year 2020 are bridged-race estimates of the July 1 resident population, from the Vintage 2020"
+"postcensal series released by NCHS on September 22, 2021. The population figures for year 2019 are bridged-race estimates of the"
+"July 1 resident population, from the Vintage 2019 postcensal series released by NCHS on July 9, 2020. The population figures for"
+"year 2018 are bridged-race estimates of the July 1 resident population, from the Vintage 2018 postcensal series released by NCHS"
+"on June 25, 2019. The population figures for year 2017 are bridged-race estimates of the July 1 resident population, from the"
+"Vintage 2017 postcensal series released by NCHS on June 27, 2018. The population figures for year 2016 are bridged-race"
+"estimates of the July 1 resident population, from the Vintage 2016 postcensal series released by NCHS on June 26, 2017. The"
+"population figures for year 2015 are bridged-race estimates of the July 1 resident population, from the Vintage 2015 postcensal"
+"series released by NCHS on June 28, 2016. The population figures for year 2014 are bridged-race estimates of the July 1 resident"
+"population, from the Vintage 2014 postcensal series released by NCHS on June 30, 2015. The population figures for year 2013 are"
+"bridged-race estimates of the July 1 resident population, from the Vintage 2013 postcensal series released by NCHS on June 26,"
+"2014. The population figures for year 2012 are bridged-race estimates of the July 1 resident population, from the Vintage 2012"
+"postcensal series released by NCHS on June 13, 2013. The population figures for year 2011 are bridged-race estimates of the July"
+"1 resident population, from the Vintage 2011 postcensal series released by NCHS on July 18, 2012. Population figures for 2010"
+"are April 1 Census counts. The population figures for years 2001 - 2009 are bridged-race estimates of the July 1 resident"
+"population, from the revised intercensal county-level 2000 - 2009 series released by NCHS on October 26, 2012. Population"
+"figures for 2000 are April 1 Census counts. Population figures for 1999 are from the 1990-1999 intercensal series of July 1"
+"estimates. Population figures for the infant age groups are the number of live births. <br/><b>Note:</b> Rates and population"
+"figures for years 2001 - 2009 differ slightly from previously published reports, due to use of the population estimates which"
+"were available at the time of release."
+"5. The population figures used in the calculation of death rates for the age group 'under 1 year' are the estimates of the"
+"resident population that is under one year of age. More information: http://wonder.cdc.gov/wonder/help/ucd.html#Age Group."

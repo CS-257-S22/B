@@ -1,0 +1,162 @@
+"Notes"	"State"	"State Code"	"Single-Year Ages"	"Single-Year Ages Code"	Deaths	Population	Crude Rate
+	"Arkansas"	"05"	"< 1 year"	"0"	624	90294	691.1
+	"Arkansas"	"05"	"1 year"	"1"	56	91285	61.3
+	"Arkansas"	"05"	"2 years"	"2"	35	93000	37.6
+	"Arkansas"	"05"	"3 years"	"3"	19	93030	Unreliable
+	"Arkansas"	"05"	"4 years"	"4"	16	93616	Unreliable
+	"Arkansas"	"05"	"5 years"	"5"	11	93871	Unreliable
+	"Arkansas"	"05"	"6 years"	"6"	11	93450	Unreliable
+	"Arkansas"	"05"	"7 years"	"7"	12	94177	Unreliable
+	"Arkansas"	"05"	"9 years"	"9"	19	96633	Unreliable
+	"Arkansas"	"05"	"10 years"	"10"	17	97412	Unreliable
+	"Arkansas"	"05"	"11 years"	"11"	12	97816	Unreliable
+	"Arkansas"	"05"	"12 years"	"12"	18	98283	Unreliable
+	"Arkansas"	"05"	"13 years"	"13"	23	97834	23.5
+	"Arkansas"	"05"	"14 years"	"14"	23	96683	23.8
+	"Arkansas"	"05"	"15 years"	"15"	25	96719	25.8
+	"Arkansas"	"05"	"16 years"	"16"	30	97022	30.9
+	"Arkansas"	"05"	"17 years"	"17"	36	97454	36.9
+	"Arkansas"	"05"	"18 years"	"18"	60	95172	63.0
+	"Arkansas"	"05"	"19 years"	"19"	55	96483	57.0
+	"Arkansas"	"05"	"20 years"	"20"	60	98508	60.9
+	"Arkansas"	"05"	"21 years"	"21"	68	98576	69.0
+	"Arkansas"	"05"	"22 years"	"22"	68	100188	67.9
+	"Arkansas"	"05"	"23 years"	"23"	73	99704	73.2
+	"Arkansas"	"05"	"24 years"	"24"	80	98732	81.0
+	"Arkansas"	"05"	"25 years"	"25"	84	100624	83.5
+	"Arkansas"	"05"	"26 years"	"26"	80	102068	78.4
+	"Arkansas"	"05"	"27 years"	"27"	89	102811	86.6
+	"Arkansas"	"05"	"28 years"	"28"	78	101917	76.5
+	"Arkansas"	"05"	"29 years"	"29"	104	99946	104.1
+	"Arkansas"	"05"	"30 years"	"30"	116	97907	118.5
+	"Arkansas"	"05"	"31 years"	"31"	93	95626	97.3
+	"Arkansas"	"05"	"32 years"	"32"	109	95069	114.7
+	"Arkansas"	"05"	"33 years"	"33"	122	94952	128.5
+	"Arkansas"	"05"	"34 years"	"34"	141	95440	147.7
+	"Arkansas"	"05"	"35 years"	"35"	167	95913	174.1
+	"Arkansas"	"05"	"36 years"	"36"	157	96225	163.2
+	"Arkansas"	"05"	"37 years"	"37"	157	95961	163.6
+	"Arkansas"	"05"	"38 years"	"38"	179	95034	188.4
+	"Arkansas"	"05"	"39 years"	"39"	230	93709	245.4
+	"Arkansas"	"05"	"40 years"	"40"	201	91881	218.8
+	"Arkansas"	"05"	"41 years"	"41"	228	90177	252.8
+	"Arkansas"	"05"	"42 years"	"42"	227	89248	254.3
+	"Arkansas"	"05"	"43 years"	"43"	221	89149	247.9
+	"Arkansas"	"05"	"44 years"	"44"	275	89491	307.3
+	"Arkansas"	"05"	"45 years"	"45"	314	91764	342.2
+	"Arkansas"	"05"	"46 years"	"46"	307	93139	329.6
+	"Arkansas"	"05"	"47 years"	"47"	357	93390	382.3
+	"Arkansas"	"05"	"48 years"	"48"	342	93267	366.7
+	"Arkansas"	"05"	"49 years"	"49"	386	92026	419.4
+	"Arkansas"	"05"	"50 years"	"50"	420	90589	463.6
+	"Arkansas"	"05"	"51 years"	"51"	476	91024	522.9
+	"Arkansas"	"05"	"52 years"	"52"	520	93809	554.3
+	"Arkansas"	"05"	"53 years"	"53"	596	96746	616.0
+	"Arkansas"	"05"	"54 years"	"54"	670	99049	676.4
+	"Arkansas"	"05"	"55 years"	"55"	722	101628	710.4
+	"Arkansas"	"05"	"56 years"	"56"	809	102149	792.0
+	"Arkansas"	"05"	"57 years"	"57"	871	101726	856.2
+	"Arkansas"	"05"	"58 years"	"58"	877	100999	868.3
+	"Arkansas"	"05"	"59 years"	"59"	913	100926	904.6
+	"Arkansas"	"05"	"60 years"	"60"	992	99901	993.0
+	"Arkansas"	"05"	"61 years"	"61"	1081	98868	1093.4
+	"Arkansas"	"05"	"62 years"	"62"	1160	98053	1183.0
+	"Arkansas"	"05"	"63 years"	"63"	1160	96276	1204.9
+	"Arkansas"	"05"	"64 years"	"64"	1178	93821	1255.6
+	"Arkansas"	"05"	"65 years"	"65"	1241	91525	1355.9
+	"Arkansas"	"05"	"66 years"	"66"	1225	88871	1378.4
+	"Arkansas"	"05"	"67 years"	"67"	1333	86596	1539.3
+	"Arkansas"	"05"	"68 years"	"68"	1424	84454	1686.1
+	"Arkansas"	"05"	"69 years"	"69"	1524	84323	1807.3
+	"Arkansas"	"05"	"70 years"	"70"	1552	79681	1947.8
+	"Arkansas"	"05"	"71 years"	"71"	1694	75436	2245.6
+	"Arkansas"	"05"	"72 years"	"72"	1649	71408	2309.3
+	"Arkansas"	"05"	"73 years"	"73"	1758	67573	2601.6
+	"Arkansas"	"05"	"74 years"	"74"	1755	61636	2847.4
+	"Arkansas"	"05"	"75 years"	"75"	1894	59438	3186.5
+	"Arkansas"	"05"	"76 years"	"76"	1845	56136	3286.7
+	"Arkansas"	"05"	"77 years"	"77"	1902	52370	3631.9
+	"Arkansas"	"05"	"78 years"	"78"	1923	48026	4004.1
+	"Arkansas"	"05"	"79 years"	"79"	1939	44172	4389.7
+	"Arkansas"	"05"	"80 years"	"80"	2032	40779	4983.0
+	"Arkansas"	"05"	"81 years"	"81"	2138	38057	5617.9
+	"Arkansas"	"05"	"82 years"	"82"	2169	35386	6129.5
+	"Arkansas"	"05"	"83 years"	"83"	2221	32263	6884.0
+	"Arkansas"	"05"	"84 years"	"84"	2259	30287	7458.6
+	"Arkansas"	"05"	"85 years"	"85"	2300	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"86 years"	"86"	2282	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"87 years"	"87"	2314	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"88 years"	"88"	2349	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"89 years"	"89"	2224	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"90 years"	"90"	2174	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"91 years"	"91"	2104	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"92 years"	"92"	1897	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"93 years"	"93"	1730	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"94 years"	"94"	1606	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"95 years"	"95"	1345	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"96 years"	"96"	1042	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"97 years"	"97"	845	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"98 years"	"98"	712	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"99 years"	"99"	520	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"100+ years"	"100"	1083	Not Applicable	Not Applicable
+"Total"	"Arkansas"	"05"			80675	7662126	1052.9
+"Total"					80675	7662126	1052.9
+"---"
+"Dataset: Underlying Cause of Death, 1999-2020"
+"Query Parameters:"
+"Title: Arkansas General F"
+"Gender: Female"
+"States: Arkansas (05)"
+"Year/Month: 2016; 2017; 2018; 2019; 2020"
+"Group By: State; Single-Year Ages"
+"Show Totals: True"
+"Show Zero Values: False"
+"Show Suppressed: False"
+"Calculate Rates Per: 100,000"
+"Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/ucd.html for more information."
+"---"
+"Query Date: Apr 8, 2022 12:17:59 AM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. Underlying Cause of Death"
+"1999-2020 on CDC WONDER Online Database, released in 2021. Data are from the Multiple Cause of Death Files, 1999-2020, as"
+"compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative Program. Accessed"
+"at http://wonder.cdc.gov/ucd-icd10.html on Apr 8, 2022 12:17:59 AM"
+"---"
+Messages:
+"1. Rows with suppressed Deaths are hidden, but the Deaths and Population values in those rows are included in the totals. Use"
+"Quick Options above to show suppressed rows."
+"---"
+Caveats:
+"1. Population and rates are labeled 'Not Applicable' when they include a subset of ages 85-100+ because populations are not"
+"available for those ages. More information: http://wonder.cdc.gov/wonder/help/ucd.html#Ages 85-100."
+"2. Data are Suppressed when the data meet the criteria for confidentiality constraints. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Assurance of Confidentiality."
+"3. Death rates are flagged as Unreliable when the rate is calculated with a numerator of 20 or less. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Unreliable."
+"4. Deaths of persons with Age ""Not Stated"" are included in ""All"" counts and rates, but are not distributed among age groups,"
+"so are not included in age-specific counts, age-specific rates or in any age-adjusted rates. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Not Stated."
+"5. The population figures for year 2020 are bridged-race estimates of the July 1 resident population, from the Vintage 2020"
+"postcensal series released by NCHS on September 22, 2021. The population figures for year 2019 are bridged-race estimates of the"
+"July 1 resident population, from the Vintage 2019 postcensal series released by NCHS on July 9, 2020. The population figures for"
+"year 2018 are bridged-race estimates of the July 1 resident population, from the Vintage 2018 postcensal series released by NCHS"
+"on June 25, 2019. The population figures for year 2017 are bridged-race estimates of the July 1 resident population, from the"
+"Vintage 2017 postcensal series released by NCHS on June 27, 2018. The population figures for year 2016 are bridged-race"
+"estimates of the July 1 resident population, from the Vintage 2016 postcensal series released by NCHS on June 26, 2017. The"
+"population figures for year 2015 are bridged-race estimates of the July 1 resident population, from the Vintage 2015 postcensal"
+"series released by NCHS on June 28, 2016. The population figures for year 2014 are bridged-race estimates of the July 1 resident"
+"population, from the Vintage 2014 postcensal series released by NCHS on June 30, 2015. The population figures for year 2013 are"
+"bridged-race estimates of the July 1 resident population, from the Vintage 2013 postcensal series released by NCHS on June 26,"
+"2014. The population figures for year 2012 are bridged-race estimates of the July 1 resident population, from the Vintage 2012"
+"postcensal series released by NCHS on June 13, 2013. The population figures for year 2011 are bridged-race estimates of the July"
+"1 resident population, from the Vintage 2011 postcensal series released by NCHS on July 18, 2012. Population figures for 2010"
+"are April 1 Census counts. The population figures for years 2001 - 2009 are bridged-race estimates of the July 1 resident"
+"population, from the revised intercensal county-level 2000 - 2009 series released by NCHS on October 26, 2012. Population"
+"figures for 2000 are April 1 Census counts. Population figures for 1999 are from the 1990-1999 intercensal series of July 1"
+"estimates. Population figures for the infant age groups are the number of live births. <br/><b>Note:</b> Rates and population"
+"figures for years 2001 - 2009 differ slightly from previously published reports, due to use of the population estimates which"
+"were available at the time of release."
+"6. The population figures used in the calculation of death rates for the age group 'under 1 year' are the estimates of the"
+"resident population that is under one year of age. More information: http://wonder.cdc.gov/wonder/help/ucd.html#Age Group."

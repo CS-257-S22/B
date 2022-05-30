@@ -1,0 +1,160 @@
+"Notes"	"State"	"State Code"	"Single-Year Ages"	"Single-Year Ages Code"	Deaths	Population	Crude Rate
+	"South Carolina"	"45"	"< 1 year"	"0"	1089	145267	749.7
+	"South Carolina"	"45"	"1 year"	"1"	79	147614	53.5
+	"South Carolina"	"45"	"2 years"	"2"	64	150185	42.6
+	"South Carolina"	"45"	"3 years"	"3"	40	150953	26.5
+	"South Carolina"	"45"	"4 years"	"4"	33	152936	21.6
+	"South Carolina"	"45"	"5 years"	"5"	26	153739	16.9
+	"South Carolina"	"45"	"6 years"	"6"	23	153982	14.9
+	"South Carolina"	"45"	"7 years"	"7"	20	155404	12.9
+	"South Carolina"	"45"	"8 years"	"8"	25	158102	15.8
+	"South Carolina"	"45"	"9 years"	"9"	23	160395	14.3
+	"South Carolina"	"45"	"10 years"	"10"	24	162065	14.8
+	"South Carolina"	"45"	"11 years"	"11"	22	163007	13.5
+	"South Carolina"	"45"	"12 years"	"12"	32	162686	19.7
+	"South Carolina"	"45"	"13 years"	"13"	41	161127	25.4
+	"South Carolina"	"45"	"14 years"	"14"	50	159389	31.4
+	"South Carolina"	"45"	"15 years"	"15"	81	159235	50.9
+	"South Carolina"	"45"	"16 years"	"16"	105	159625	65.8
+	"South Carolina"	"45"	"17 years"	"17"	175	159654	109.6
+	"South Carolina"	"45"	"18 years"	"18"	231	168513	137.1
+	"South Carolina"	"45"	"19 years"	"19"	245	178731	137.1
+	"South Carolina"	"45"	"20 years"	"20"	276	174873	157.8
+	"South Carolina"	"45"	"21 years"	"21"	319	172953	184.4
+	"South Carolina"	"45"	"22 years"	"22"	305	170871	178.5
+	"South Carolina"	"45"	"23 years"	"23"	349	170522	204.7
+	"South Carolina"	"45"	"24 years"	"24"	351	171548	204.6
+	"South Carolina"	"45"	"25 years"	"25"	359	173408	207.0
+	"South Carolina"	"45"	"26 years"	"26"	376	175727	214.0
+	"South Carolina"	"45"	"27 years"	"27"	391	175490	222.8
+	"South Carolina"	"45"	"28 years"	"28"	442	173967	254.1
+	"South Carolina"	"45"	"29 years"	"29"	417	169643	245.8
+	"South Carolina"	"45"	"30 years"	"30"	392	164729	238.0
+	"South Carolina"	"45"	"31 years"	"31"	422	160719	262.6
+	"South Carolina"	"45"	"32 years"	"32"	447	156510	285.6
+	"South Carolina"	"45"	"33 years"	"33"	451	155559	289.9
+	"South Carolina"	"45"	"34 years"	"34"	432	155132	278.5
+	"South Carolina"	"45"	"35 years"	"35"	425	154700	274.7
+	"South Carolina"	"45"	"36 years"	"36"	464	154380	300.6
+	"South Carolina"	"45"	"37 years"	"37"	468	153863	304.2
+	"South Carolina"	"45"	"38 years"	"38"	534	152841	349.4
+	"South Carolina"	"45"	"39 years"	"39"	560	150555	372.0
+	"South Carolina"	"45"	"40 years"	"40"	512	147417	347.3
+	"South Carolina"	"45"	"41 years"	"41"	482	144555	333.4
+	"South Carolina"	"45"	"42 years"	"42"	569	143608	396.2
+	"South Carolina"	"45"	"43 years"	"43"	619	143804	430.4
+	"South Carolina"	"45"	"44 years"	"44"	639	145270	439.9
+	"South Carolina"	"45"	"45 years"	"45"	715	149920	476.9
+	"South Carolina"	"45"	"46 years"	"46"	733	153023	479.0
+	"South Carolina"	"45"	"47 years"	"47"	866	155277	557.7
+	"South Carolina"	"45"	"48 years"	"48"	889	156027	569.8
+	"South Carolina"	"45"	"49 years"	"49"	989	155337	636.7
+	"South Carolina"	"45"	"50 years"	"50"	1046	153993	679.3
+	"South Carolina"	"45"	"51 years"	"51"	1116	154288	723.3
+	"South Carolina"	"45"	"52 years"	"52"	1222	156870	779.0
+	"South Carolina"	"45"	"53 years"	"53"	1391	159538	871.9
+	"South Carolina"	"45"	"54 years"	"54"	1492	162301	919.3
+	"South Carolina"	"45"	"55 years"	"55"	1698	164399	1032.9
+	"South Carolina"	"45"	"56 years"	"56"	1947	165073	1179.5
+	"South Carolina"	"45"	"57 years"	"57"	2008	163546	1227.8
+	"South Carolina"	"45"	"58 years"	"58"	2056	162974	1261.6
+	"South Carolina"	"45"	"59 years"	"59"	2150	161457	1331.6
+	"South Carolina"	"45"	"60 years"	"60"	2433	159320	1527.1
+	"South Carolina"	"45"	"61 years"	"61"	2531	156779	1614.4
+	"South Carolina"	"45"	"62 years"	"62"	2659	154833	1717.3
+	"South Carolina"	"45"	"63 years"	"63"	2787	152060	1832.8
+	"South Carolina"	"45"	"64 years"	"64"	2898	148526	1951.2
+	"South Carolina"	"45"	"65 years"	"65"	2864	145599	1967.0
+	"South Carolina"	"45"	"66 years"	"66"	2887	142296	2028.9
+	"South Carolina"	"45"	"67 years"	"67"	3105	139478	2226.2
+	"South Carolina"	"45"	"68 years"	"68"	3195	138184	2312.1
+	"South Carolina"	"45"	"69 years"	"69"	3289	137149	2398.1
+	"South Carolina"	"45"	"70 years"	"70"	3341	130751	2555.2
+	"South Carolina"	"45"	"71 years"	"71"	3404	123466	2757.0
+	"South Carolina"	"45"	"72 years"	"72"	3427	115459	2968.2
+	"South Carolina"	"45"	"73 years"	"73"	3482	107105	3251.0
+	"South Carolina"	"45"	"74 years"	"74"	3398	94588	3592.4
+	"South Carolina"	"45"	"75 years"	"75"	3558	88665	4012.9
+	"South Carolina"	"45"	"76 years"	"76"	3526	81424	4330.4
+	"South Carolina"	"45"	"77 years"	"77"	3445	73779	4669.4
+	"South Carolina"	"45"	"78 years"	"78"	3358	65220	5148.7
+	"South Carolina"	"45"	"79 years"	"79"	3295	58170	5664.4
+	"South Carolina"	"45"	"80 years"	"80"	3239	52193	6205.8
+	"South Carolina"	"45"	"81 years"	"81"	3168	46564	6803.5
+	"South Carolina"	"45"	"82 years"	"82"	3157	41152	7671.6
+	"South Carolina"	"45"	"83 years"	"83"	3026	36318	8332.0
+	"South Carolina"	"45"	"84 years"	"84"	2975	32015	9292.5
+	"South Carolina"	"45"	"85 years"	"85"	2885	Not Applicable	Not Applicable
+	"South Carolina"	"45"	"86 years"	"86"	2750	Not Applicable	Not Applicable
+	"South Carolina"	"45"	"87 years"	"87"	2699	Not Applicable	Not Applicable
+	"South Carolina"	"45"	"88 years"	"88"	2454	Not Applicable	Not Applicable
+	"South Carolina"	"45"	"89 years"	"89"	2247	Not Applicable	Not Applicable
+	"South Carolina"	"45"	"90 years"	"90"	2046	Not Applicable	Not Applicable
+	"South Carolina"	"45"	"91 years"	"91"	1887	Not Applicable	Not Applicable
+	"South Carolina"	"45"	"92 years"	"92"	1574	Not Applicable	Not Applicable
+	"South Carolina"	"45"	"93 years"	"93"	1335	Not Applicable	Not Applicable
+	"South Carolina"	"45"	"94 years"	"94"	1123	Not Applicable	Not Applicable
+	"South Carolina"	"45"	"95 years"	"95"	818	Not Applicable	Not Applicable
+	"South Carolina"	"45"	"96 years"	"96"	637	Not Applicable	Not Applicable
+	"South Carolina"	"45"	"97 years"	"97"	495	Not Applicable	Not Applicable
+	"South Carolina"	"45"	"98 years"	"98"	345	Not Applicable	Not Applicable
+	"South Carolina"	"45"	"99 years"	"99"	217	Not Applicable	Not Applicable
+	"South Carolina"	"45"	"100+ years"	"100"	313	Not Applicable	Not Applicable
+"---"
+"Dataset: Underlying Cause of Death, 1999-2020"
+"Query Parameters:"
+"Title: South Carolina General M"
+"Gender: Male"
+"States: South Carolina (45)"
+"Year/Month: 2016; 2017; 2018; 2019; 2020"
+"Group By: State; Single-Year Ages"
+"Show Totals: Disabled"
+"Show Zero Values: False"
+"Show Suppressed: False"
+"Calculate Rates Per: 100,000"
+"Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/ucd.html for more information."
+"---"
+"Query Date: Apr 11, 2022 2:52:04 AM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. Underlying Cause of Death"
+"1999-2020 on CDC WONDER Online Database, released in 2021. Data are from the Multiple Cause of Death Files, 1999-2020, as"
+"compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative Program. Accessed"
+"at http://wonder.cdc.gov/ucd-icd10.html on Apr 11, 2022 2:52:04 AM"
+"---"
+Messages:
+"1. Totals are not available for these results due to suppression constraints. More Information:"
+"http://wonder.cdc.gov/wonder/help/faq.html#Privacy."
+"2. Rows with suppressed Deaths are hidden. Use Quick Options above to show suppressed rows."
+"---"
+Caveats:
+"1. Population and rates are labeled 'Not Applicable' when they include a subset of ages 85-100+ because populations are not"
+"available for those ages. More information: http://wonder.cdc.gov/wonder/help/ucd.html#Ages 85-100."
+"2. Data are Suppressed when the data meet the criteria for confidentiality constraints. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Assurance of Confidentiality."
+"3. Deaths of persons with Age ""Not Stated"" are included in ""All"" counts and rates, but are not distributed among age groups,"
+"so are not included in age-specific counts, age-specific rates or in any age-adjusted rates. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Not Stated."
+"4. The population figures for year 2020 are bridged-race estimates of the July 1 resident population, from the Vintage 2020"
+"postcensal series released by NCHS on September 22, 2021. The population figures for year 2019 are bridged-race estimates of the"
+"July 1 resident population, from the Vintage 2019 postcensal series released by NCHS on July 9, 2020. The population figures for"
+"year 2018 are bridged-race estimates of the July 1 resident population, from the Vintage 2018 postcensal series released by NCHS"
+"on June 25, 2019. The population figures for year 2017 are bridged-race estimates of the July 1 resident population, from the"
+"Vintage 2017 postcensal series released by NCHS on June 27, 2018. The population figures for year 2016 are bridged-race"
+"estimates of the July 1 resident population, from the Vintage 2016 postcensal series released by NCHS on June 26, 2017. The"
+"population figures for year 2015 are bridged-race estimates of the July 1 resident population, from the Vintage 2015 postcensal"
+"series released by NCHS on June 28, 2016. The population figures for year 2014 are bridged-race estimates of the July 1 resident"
+"population, from the Vintage 2014 postcensal series released by NCHS on June 30, 2015. The population figures for year 2013 are"
+"bridged-race estimates of the July 1 resident population, from the Vintage 2013 postcensal series released by NCHS on June 26,"
+"2014. The population figures for year 2012 are bridged-race estimates of the July 1 resident population, from the Vintage 2012"
+"postcensal series released by NCHS on June 13, 2013. The population figures for year 2011 are bridged-race estimates of the July"
+"1 resident population, from the Vintage 2011 postcensal series released by NCHS on July 18, 2012. Population figures for 2010"
+"are April 1 Census counts. The population figures for years 2001 - 2009 are bridged-race estimates of the July 1 resident"
+"population, from the revised intercensal county-level 2000 - 2009 series released by NCHS on October 26, 2012. Population"
+"figures for 2000 are April 1 Census counts. Population figures for 1999 are from the 1990-1999 intercensal series of July 1"
+"estimates. Population figures for the infant age groups are the number of live births. <br/><b>Note:</b> Rates and population"
+"figures for years 2001 - 2009 differ slightly from previously published reports, due to use of the population estimates which"
+"were available at the time of release."
+"5. The population figures used in the calculation of death rates for the age group 'under 1 year' are the estimates of the"
+"resident population that is under one year of age. More information: http://wonder.cdc.gov/wonder/help/ucd.html#Age Group."

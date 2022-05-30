@@ -1,0 +1,155 @@
+"Notes"	"State"	"State Code"	"Single-Year Ages"	"Single-Year Ages Code"	Deaths	Population	Crude Rate
+	"Idaho"	"16"	"< 1 year"	"0"	258	54564	472.8
+	"Idaho"	"16"	"1 year"	"1"	18	55182	Unreliable
+	"Idaho"	"16"	"2 years"	"2"	10	56615	Unreliable
+	"Idaho"	"16"	"3 years"	"3"	11	58071	Unreliable
+	"Idaho"	"16"	"11 years"	"11"	12	63621	Unreliable
+	"Idaho"	"16"	"13 years"	"13"	14	63275	Unreliable
+	"Idaho"	"16"	"14 years"	"14"	17	62969	Unreliable
+	"Idaho"	"16"	"15 years"	"15"	20	62753	31.9
+	"Idaho"	"16"	"16 years"	"16"	26	62461	41.6
+	"Idaho"	"16"	"17 years"	"17"	15	61917	Unreliable
+	"Idaho"	"16"	"18 years"	"18"	20	58024	34.5
+	"Idaho"	"16"	"19 years"	"19"	22	57067	38.6
+	"Idaho"	"16"	"20 years"	"20"	27	54113	49.9
+	"Idaho"	"16"	"21 years"	"21"	27	53101	50.8
+	"Idaho"	"16"	"22 years"	"22"	25	54633	45.8
+	"Idaho"	"16"	"23 years"	"23"	26	55858	46.5
+	"Idaho"	"16"	"24 years"	"24"	26	56435	46.1
+	"Idaho"	"16"	"25 years"	"25"	38	56255	67.5
+	"Idaho"	"16"	"26 years"	"26"	38	57191	66.4
+	"Idaho"	"16"	"27 years"	"27"	28	58115	48.2
+	"Idaho"	"16"	"28 years"	"28"	33	58091	56.8
+	"Idaho"	"16"	"29 years"	"29"	37	57498	64.4
+	"Idaho"	"16"	"30 years"	"30"	26	56708	45.8
+	"Idaho"	"16"	"31 years"	"31"	56	55572	100.8
+	"Idaho"	"16"	"32 years"	"32"	37	55443	66.7
+	"Idaho"	"16"	"33 years"	"33"	52	55743	93.3
+	"Idaho"	"16"	"34 years"	"34"	55	56591	97.2
+	"Idaho"	"16"	"35 years"	"35"	60	57102	105.1
+	"Idaho"	"16"	"36 years"	"36"	68	57415	118.4
+	"Idaho"	"16"	"37 years"	"37"	68	57209	118.9
+	"Idaho"	"16"	"38 years"	"38"	75	56650	132.4
+	"Idaho"	"16"	"39 years"	"39"	72	55848	128.9
+	"Idaho"	"16"	"40 years"	"40"	65	54420	119.4
+	"Idaho"	"16"	"41 years"	"41"	65	53020	122.6
+	"Idaho"	"16"	"42 years"	"42"	63	51471	122.4
+	"Idaho"	"16"	"43 years"	"43"	92	50509	182.1
+	"Idaho"	"16"	"44 years"	"44"	85	49650	171.2
+	"Idaho"	"16"	"45 years"	"45"	84	50151	167.5
+	"Idaho"	"16"	"46 years"	"46"	107	50105	213.6
+	"Idaho"	"16"	"47 years"	"47"	110	50221	219.0
+	"Idaho"	"16"	"48 years"	"48"	125	50281	248.6
+	"Idaho"	"16"	"49 years"	"49"	133	49782	267.2
+	"Idaho"	"16"	"50 years"	"50"	144	49090	293.3
+	"Idaho"	"16"	"51 years"	"51"	160	48719	328.4
+	"Idaho"	"16"	"52 years"	"52"	149	49184	302.9
+	"Idaho"	"16"	"53 years"	"53"	220	50565	435.1
+	"Idaho"	"16"	"54 years"	"54"	189	51983	363.6
+	"Idaho"	"16"	"55 years"	"55"	233	53900	432.3
+	"Idaho"	"16"	"56 years"	"56"	271	54991	492.8
+	"Idaho"	"16"	"57 years"	"57"	292	55623	525.0
+	"Idaho"	"16"	"58 years"	"58"	319	55921	570.4
+	"Idaho"	"16"	"59 years"	"59"	324	56137	577.2
+	"Idaho"	"16"	"60 years"	"60"	373	55768	668.8
+	"Idaho"	"16"	"61 years"	"61"	378	55266	684.0
+	"Idaho"	"16"	"62 years"	"62"	390	54899	710.4
+	"Idaho"	"16"	"63 years"	"63"	403	54170	744.0
+	"Idaho"	"16"	"64 years"	"64"	480	53004	905.6
+	"Idaho"	"16"	"65 years"	"65"	473	51818	912.8
+	"Idaho"	"16"	"66 years"	"66"	511	50483	1012.2
+	"Idaho"	"16"	"67 years"	"67"	509	48634	1046.6
+	"Idaho"	"16"	"68 years"	"68"	504	47107	1069.9
+	"Idaho"	"16"	"69 years"	"69"	534	45904	1163.3
+	"Idaho"	"16"	"70 years"	"70"	595	42846	1388.7
+	"Idaho"	"16"	"71 years"	"71"	632	40290	1568.6
+	"Idaho"	"16"	"72 years"	"72"	670	37606	1781.6
+	"Idaho"	"16"	"73 years"	"73"	701	35477	1975.9
+	"Idaho"	"16"	"74 years"	"74"	657	31756	2068.9
+	"Idaho"	"16"	"75 years"	"75"	733	30322	2417.4
+	"Idaho"	"16"	"76 years"	"76"	768	28432	2701.2
+	"Idaho"	"16"	"77 years"	"77"	824	26029	3165.7
+	"Idaho"	"16"	"78 years"	"78"	800	23723	3372.3
+	"Idaho"	"16"	"79 years"	"79"	832	21486	3872.3
+	"Idaho"	"16"	"80 years"	"80"	863	19722	4375.8
+	"Idaho"	"16"	"81 years"	"81"	898	18010	4986.1
+	"Idaho"	"16"	"82 years"	"82"	920	16481	5582.2
+	"Idaho"	"16"	"83 years"	"83"	1001	15034	6658.2
+	"Idaho"	"16"	"84 years"	"84"	953	13871	6870.4
+	"Idaho"	"16"	"85 years"	"85"	1023	Not Applicable	Not Applicable
+	"Idaho"	"16"	"86 years"	"86"	1026	Not Applicable	Not Applicable
+	"Idaho"	"16"	"87 years"	"87"	1146	Not Applicable	Not Applicable
+	"Idaho"	"16"	"88 years"	"88"	1102	Not Applicable	Not Applicable
+	"Idaho"	"16"	"89 years"	"89"	1121	Not Applicable	Not Applicable
+	"Idaho"	"16"	"90 years"	"90"	1136	Not Applicable	Not Applicable
+	"Idaho"	"16"	"91 years"	"91"	1015	Not Applicable	Not Applicable
+	"Idaho"	"16"	"92 years"	"92"	986	Not Applicable	Not Applicable
+	"Idaho"	"16"	"93 years"	"93"	887	Not Applicable	Not Applicable
+	"Idaho"	"16"	"94 years"	"94"	878	Not Applicable	Not Applicable
+	"Idaho"	"16"	"95 years"	"95"	734	Not Applicable	Not Applicable
+	"Idaho"	"16"	"96 years"	"96"	608	Not Applicable	Not Applicable
+	"Idaho"	"16"	"97 years"	"97"	453	Not Applicable	Not Applicable
+	"Idaho"	"16"	"98 years"	"98"	396	Not Applicable	Not Applicable
+	"Idaho"	"16"	"99 years"	"99"	275	Not Applicable	Not Applicable
+	"Idaho"	"16"	"100+ years"	"100"	539	Not Applicable	Not Applicable
+"Total"	"Idaho"	"16"			34330	4373150	785.0
+"Total"					34330	4373150	785.0
+"---"
+"Dataset: Underlying Cause of Death, 1999-2020"
+"Query Parameters:"
+"Title: Idaho General F"
+"Gender: Female"
+"States: Idaho (16)"
+"Year/Month: 2016; 2017; 2018; 2019; 2020"
+"Group By: State; Single-Year Ages"
+"Show Totals: True"
+"Show Zero Values: False"
+"Show Suppressed: False"
+"Calculate Rates Per: 100,000"
+"Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/ucd.html for more information."
+"---"
+"Query Date: Apr 8, 2022 1:46:25 AM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. Underlying Cause of Death"
+"1999-2020 on CDC WONDER Online Database, released in 2021. Data are from the Multiple Cause of Death Files, 1999-2020, as"
+"compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative Program. Accessed"
+"at http://wonder.cdc.gov/ucd-icd10.html on Apr 8, 2022 1:46:25 AM"
+"---"
+Messages:
+"1. Rows with suppressed Deaths are hidden, but the Deaths and Population values in those rows are included in the totals. Use"
+"Quick Options above to show suppressed rows."
+"---"
+Caveats:
+"1. Population and rates are labeled 'Not Applicable' when they include a subset of ages 85-100+ because populations are not"
+"available for those ages. More information: http://wonder.cdc.gov/wonder/help/ucd.html#Ages 85-100."
+"2. Data are Suppressed when the data meet the criteria for confidentiality constraints. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Assurance of Confidentiality."
+"3. Death rates are flagged as Unreliable when the rate is calculated with a numerator of 20 or less. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Unreliable."
+"4. Deaths of persons with Age ""Not Stated"" are included in ""All"" counts and rates, but are not distributed among age groups,"
+"so are not included in age-specific counts, age-specific rates or in any age-adjusted rates. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Not Stated."
+"5. The population figures for year 2020 are bridged-race estimates of the July 1 resident population, from the Vintage 2020"
+"postcensal series released by NCHS on September 22, 2021. The population figures for year 2019 are bridged-race estimates of the"
+"July 1 resident population, from the Vintage 2019 postcensal series released by NCHS on July 9, 2020. The population figures for"
+"year 2018 are bridged-race estimates of the July 1 resident population, from the Vintage 2018 postcensal series released by NCHS"
+"on June 25, 2019. The population figures for year 2017 are bridged-race estimates of the July 1 resident population, from the"
+"Vintage 2017 postcensal series released by NCHS on June 27, 2018. The population figures for year 2016 are bridged-race"
+"estimates of the July 1 resident population, from the Vintage 2016 postcensal series released by NCHS on June 26, 2017. The"
+"population figures for year 2015 are bridged-race estimates of the July 1 resident population, from the Vintage 2015 postcensal"
+"series released by NCHS on June 28, 2016. The population figures for year 2014 are bridged-race estimates of the July 1 resident"
+"population, from the Vintage 2014 postcensal series released by NCHS on June 30, 2015. The population figures for year 2013 are"
+"bridged-race estimates of the July 1 resident population, from the Vintage 2013 postcensal series released by NCHS on June 26,"
+"2014. The population figures for year 2012 are bridged-race estimates of the July 1 resident population, from the Vintage 2012"
+"postcensal series released by NCHS on June 13, 2013. The population figures for year 2011 are bridged-race estimates of the July"
+"1 resident population, from the Vintage 2011 postcensal series released by NCHS on July 18, 2012. Population figures for 2010"
+"are April 1 Census counts. The population figures for years 2001 - 2009 are bridged-race estimates of the July 1 resident"
+"population, from the revised intercensal county-level 2000 - 2009 series released by NCHS on October 26, 2012. Population"
+"figures for 2000 are April 1 Census counts. Population figures for 1999 are from the 1990-1999 intercensal series of July 1"
+"estimates. Population figures for the infant age groups are the number of live births. <br/><b>Note:</b> Rates and population"
+"figures for years 2001 - 2009 differ slightly from previously published reports, due to use of the population estimates which"
+"were available at the time of release."
+"6. The population figures used in the calculation of death rates for the age group 'under 1 year' are the estimates of the"
+"resident population that is under one year of age. More information: http://wonder.cdc.gov/wonder/help/ucd.html#Age Group."

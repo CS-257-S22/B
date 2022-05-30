@@ -1,0 +1,153 @@
+"Notes"	"State"	"State Code"	"Single-Year Ages"	"Single-Year Ages Code"	Deaths	Population	Crude Rate
+	"South Dakota"	"46"	"< 1 year"	"0"	218	30837	706.9
+	"South Dakota"	"46"	"1 year"	"1"	17	31178	Unreliable
+	"South Dakota"	"46"	"2 years"	"2"	16	31792	Unreliable
+	"South Dakota"	"46"	"4 years"	"4"	12	31511	Unreliable
+	"South Dakota"	"46"	"14 years"	"14"	16	29612	Unreliable
+	"South Dakota"	"46"	"15 years"	"15"	16	29607	Unreliable
+	"South Dakota"	"46"	"16 years"	"16"	33	29413	112.2
+	"South Dakota"	"46"	"17 years"	"17"	28	29145	96.1
+	"South Dakota"	"46"	"18 years"	"18"	50	28486	175.5
+	"South Dakota"	"46"	"19 years"	"19"	37	32573	113.6
+	"South Dakota"	"46"	"20 years"	"20"	28	31384	89.2
+	"South Dakota"	"46"	"21 years"	"21"	41	30950	132.5
+	"South Dakota"	"46"	"22 years"	"22"	45	30829	146.0
+	"South Dakota"	"46"	"23 years"	"23"	44	31380	140.2
+	"South Dakota"	"46"	"24 years"	"24"	57	31077	183.4
+	"South Dakota"	"46"	"25 years"	"25"	68	30548	222.6
+	"South Dakota"	"46"	"26 years"	"26"	45	30541	147.3
+	"South Dakota"	"46"	"27 years"	"27"	54	30236	178.6
+	"South Dakota"	"46"	"28 years"	"28"	57	30274	188.3
+	"South Dakota"	"46"	"29 years"	"29"	57	29548	192.9
+	"South Dakota"	"46"	"30 years"	"30"	64	29219	219.0
+	"South Dakota"	"46"	"31 years"	"31"	55	29704	185.2
+	"South Dakota"	"46"	"32 years"	"32"	49	29209	167.8
+	"South Dakota"	"46"	"33 years"	"33"	64	29815	214.7
+	"South Dakota"	"46"	"34 years"	"34"	68	29961	227.0
+	"South Dakota"	"46"	"35 years"	"35"	79	29662	266.3
+	"South Dakota"	"46"	"36 years"	"36"	53	29491	179.7
+	"South Dakota"	"46"	"37 years"	"37"	72	28927	248.9
+	"South Dakota"	"46"	"38 years"	"38"	72	28392	253.6
+	"South Dakota"	"46"	"39 years"	"39"	73	27444	266.0
+	"South Dakota"	"46"	"40 years"	"40"	72	26428	272.4
+	"South Dakota"	"46"	"41 years"	"41"	59	25306	233.1
+	"South Dakota"	"46"	"42 years"	"42"	75	24429	307.0
+	"South Dakota"	"46"	"43 years"	"43"	76	24038	316.2
+	"South Dakota"	"46"	"44 years"	"44"	90	23655	380.5
+	"South Dakota"	"46"	"45 years"	"45"	86	23646	363.7
+	"South Dakota"	"46"	"46 years"	"46"	107	23723	451.0
+	"South Dakota"	"46"	"47 years"	"47"	107	24303	440.3
+	"South Dakota"	"46"	"48 years"	"48"	104	24193	429.9
+	"South Dakota"	"46"	"49 years"	"49"	123	24199	508.3
+	"South Dakota"	"46"	"50 years"	"50"	110	24273	453.2
+	"South Dakota"	"46"	"51 years"	"51"	138	24549	562.1
+	"South Dakota"	"46"	"52 years"	"52"	141	25117	561.4
+	"South Dakota"	"46"	"53 years"	"53"	162	26293	616.1
+	"South Dakota"	"46"	"54 years"	"54"	176	27384	642.7
+	"South Dakota"	"46"	"55 years"	"55"	245	28492	859.9
+	"South Dakota"	"46"	"56 years"	"56"	250	29184	856.6
+	"South Dakota"	"46"	"57 years"	"57"	254	29456	862.3
+	"South Dakota"	"46"	"58 years"	"58"	262	29671	883.0
+	"South Dakota"	"46"	"59 years"	"59"	277	29723	931.9
+	"South Dakota"	"46"	"60 years"	"60"	304	29411	1033.6
+	"South Dakota"	"46"	"61 years"	"61"	366	29078	1258.7
+	"South Dakota"	"46"	"62 years"	"62"	338	29109	1161.2
+	"South Dakota"	"46"	"63 years"	"63"	354	28610	1237.3
+	"South Dakota"	"46"	"64 years"	"64"	381	27926	1364.3
+	"South Dakota"	"46"	"65 years"	"65"	369	27397	1346.9
+	"South Dakota"	"46"	"66 years"	"66"	391	26300	1486.7
+	"South Dakota"	"46"	"67 years"	"67"	440	25179	1747.5
+	"South Dakota"	"46"	"68 years"	"68"	425	24054	1766.9
+	"South Dakota"	"46"	"69 years"	"69"	463	23030	2010.4
+	"South Dakota"	"46"	"70 years"	"70"	438	20953	2090.4
+	"South Dakota"	"46"	"71 years"	"71"	420	19162	2191.8
+	"South Dakota"	"46"	"72 years"	"72"	495	17272	2865.9
+	"South Dakota"	"46"	"73 years"	"73"	486	15762	3083.4
+	"South Dakota"	"46"	"74 years"	"74"	478	13884	3442.8
+	"South Dakota"	"46"	"75 years"	"75"	476	12957	3673.7
+	"South Dakota"	"46"	"76 years"	"76"	462	11997	3851.0
+	"South Dakota"	"46"	"77 years"	"77"	506	11031	4587.1
+	"South Dakota"	"46"	"78 years"	"78"	488	9964	4897.6
+	"South Dakota"	"46"	"79 years"	"79"	488	9010	5416.2
+	"South Dakota"	"46"	"80 years"	"80"	534	8712	6129.5
+	"South Dakota"	"46"	"81 years"	"81"	542	8094	6696.3
+	"South Dakota"	"46"	"82 years"	"82"	574	7361	7797.9
+	"South Dakota"	"46"	"83 years"	"83"	561	6821	8224.6
+	"South Dakota"	"46"	"84 years"	"84"	598	6169	9693.6
+	"South Dakota"	"46"	"85 years"	"85"	547	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"86 years"	"86"	615	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"87 years"	"87"	582	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"88 years"	"88"	581	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"89 years"	"89"	595	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"90 years"	"90"	500	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"91 years"	"91"	510	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"92 years"	"92"	436	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"93 years"	"93"	360	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"94 years"	"94"	310	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"95 years"	"95"	254	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"96 years"	"96"	180	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"97 years"	"97"	147	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"98 years"	"98"	103	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"99 years"	"99"	60	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"100+ years"	"100"	111	Not Applicable	Not Applicable
+"Total"	"South Dakota"	"46"			21829	2218179	984.1
+"Total"					21829	2218179	984.1
+"---"
+"Dataset: Underlying Cause of Death, 1999-2020"
+"Query Parameters:"
+"Title: South Dakota General M"
+"Gender: Male"
+"States: South Dakota (46)"
+"Year/Month: 2016; 2017; 2018; 2019; 2020"
+"Group By: State; Single-Year Ages"
+"Show Totals: True"
+"Show Zero Values: False"
+"Show Suppressed: False"
+"Calculate Rates Per: 100,000"
+"Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/ucd.html for more information."
+"---"
+"Query Date: Apr 11, 2022 2:56:55 AM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. Underlying Cause of Death"
+"1999-2020 on CDC WONDER Online Database, released in 2021. Data are from the Multiple Cause of Death Files, 1999-2020, as"
+"compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative Program. Accessed"
+"at http://wonder.cdc.gov/ucd-icd10.html on Apr 11, 2022 2:56:55 AM"
+"---"
+Messages:
+"1. Rows with suppressed Deaths are hidden, but the Deaths and Population values in those rows are included in the totals. Use"
+"Quick Options above to show suppressed rows."
+"---"
+Caveats:
+"1. Population and rates are labeled 'Not Applicable' when they include a subset of ages 85-100+ because populations are not"
+"available for those ages. More information: http://wonder.cdc.gov/wonder/help/ucd.html#Ages 85-100."
+"2. Data are Suppressed when the data meet the criteria for confidentiality constraints. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Assurance of Confidentiality."
+"3. Death rates are flagged as Unreliable when the rate is calculated with a numerator of 20 or less. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Unreliable."
+"4. Deaths of persons with Age ""Not Stated"" are included in ""All"" counts and rates, but are not distributed among age groups,"
+"so are not included in age-specific counts, age-specific rates or in any age-adjusted rates. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Not Stated."
+"5. The population figures for year 2020 are bridged-race estimates of the July 1 resident population, from the Vintage 2020"
+"postcensal series released by NCHS on September 22, 2021. The population figures for year 2019 are bridged-race estimates of the"
+"July 1 resident population, from the Vintage 2019 postcensal series released by NCHS on July 9, 2020. The population figures for"
+"year 2018 are bridged-race estimates of the July 1 resident population, from the Vintage 2018 postcensal series released by NCHS"
+"on June 25, 2019. The population figures for year 2017 are bridged-race estimates of the July 1 resident population, from the"
+"Vintage 2017 postcensal series released by NCHS on June 27, 2018. The population figures for year 2016 are bridged-race"
+"estimates of the July 1 resident population, from the Vintage 2016 postcensal series released by NCHS on June 26, 2017. The"
+"population figures for year 2015 are bridged-race estimates of the July 1 resident population, from the Vintage 2015 postcensal"
+"series released by NCHS on June 28, 2016. The population figures for year 2014 are bridged-race estimates of the July 1 resident"
+"population, from the Vintage 2014 postcensal series released by NCHS on June 30, 2015. The population figures for year 2013 are"
+"bridged-race estimates of the July 1 resident population, from the Vintage 2013 postcensal series released by NCHS on June 26,"
+"2014. The population figures for year 2012 are bridged-race estimates of the July 1 resident population, from the Vintage 2012"
+"postcensal series released by NCHS on June 13, 2013. The population figures for year 2011 are bridged-race estimates of the July"
+"1 resident population, from the Vintage 2011 postcensal series released by NCHS on July 18, 2012. Population figures for 2010"
+"are April 1 Census counts. The population figures for years 2001 - 2009 are bridged-race estimates of the July 1 resident"
+"population, from the revised intercensal county-level 2000 - 2009 series released by NCHS on October 26, 2012. Population"
+"figures for 2000 are April 1 Census counts. Population figures for 1999 are from the 1990-1999 intercensal series of July 1"
+"estimates. Population figures for the infant age groups are the number of live births. <br/><b>Note:</b> Rates and population"
+"figures for years 2001 - 2009 differ slightly from previously published reports, due to use of the population estimates which"
+"were available at the time of release."
+"6. The population figures used in the calculation of death rates for the age group 'under 1 year' are the estimates of the"
+"resident population that is under one year of age. More information: http://wonder.cdc.gov/wonder/help/ucd.html#Age Group."

@@ -1,0 +1,160 @@
+"Notes"	"State"	"State Code"	"Single-Year Ages"	"Single-Year Ages Code"	Deaths	Population	Crude Rate
+	"Michigan"	"26"	"< 1 year"	"0"	1982	282686	701.1
+	"Michigan"	"26"	"1 year"	"1"	127	286845	44.3
+	"Michigan"	"26"	"2 years"	"2"	75	292670	25.6
+	"Michigan"	"26"	"3 years"	"3"	77	295225	26.1
+	"Michigan"	"26"	"4 years"	"4"	47	297789	15.8
+	"Michigan"	"26"	"5 years"	"5"	42	298432	14.1
+	"Michigan"	"26"	"6 years"	"6"	55	299072	18.4
+	"Michigan"	"26"	"7 years"	"7"	40	299673	13.3
+	"Michigan"	"26"	"8 years"	"8"	27	302163	8.9
+	"Michigan"	"26"	"9 years"	"9"	46	305304	15.1
+	"Michigan"	"26"	"10 years"	"10"	46	308172	14.9
+	"Michigan"	"26"	"11 years"	"11"	37	311822	11.9
+	"Michigan"	"26"	"12 years"	"12"	43	316194	13.6
+	"Michigan"	"26"	"13 years"	"13"	80	318939	25.1
+	"Michigan"	"26"	"14 years"	"14"	103	320423	32.1
+	"Michigan"	"26"	"15 years"	"15"	126	325291	38.7
+	"Michigan"	"26"	"16 years"	"16"	175	330229	53.0
+	"Michigan"	"26"	"17 years"	"17"	221	334159	66.1
+	"Michigan"	"26"	"18 years"	"18"	295	341060	86.5
+	"Michigan"	"26"	"19 years"	"19"	338	334327	101.1
+	"Michigan"	"26"	"20 years"	"20"	352	342238	102.9
+	"Michigan"	"26"	"21 years"	"21"	464	351768	131.9
+	"Michigan"	"26"	"22 years"	"22"	443	356465	124.3
+	"Michigan"	"26"	"23 years"	"23"	550	359342	153.1
+	"Michigan"	"26"	"24 years"	"24"	554	357877	154.8
+	"Michigan"	"26"	"25 years"	"25"	594	357996	165.9
+	"Michigan"	"26"	"26 years"	"26"	661	358610	184.3
+	"Michigan"	"26"	"27 years"	"27"	686	352302	194.7
+	"Michigan"	"26"	"28 years"	"28"	674	344900	195.4
+	"Michigan"	"26"	"29 years"	"29"	710	332579	213.5
+	"Michigan"	"26"	"30 years"	"30"	735	320056	229.6
+	"Michigan"	"26"	"31 years"	"31"	710	309587	229.3
+	"Michigan"	"26"	"32 years"	"32"	714	302713	235.9
+	"Michigan"	"26"	"33 years"	"33"	742	299983	247.3
+	"Michigan"	"26"	"34 years"	"34"	752	299438	251.1
+	"Michigan"	"26"	"35 years"	"35"	757	298560	253.6
+	"Michigan"	"26"	"36 years"	"36"	721	298642	241.4
+	"Michigan"	"26"	"37 years"	"37"	788	297779	264.6
+	"Michigan"	"26"	"38 years"	"38"	826	294840	280.2
+	"Michigan"	"26"	"39 years"	"39"	780	291149	267.9
+	"Michigan"	"26"	"40 years"	"40"	862	285712	301.7
+	"Michigan"	"26"	"41 years"	"41"	849	281114	302.0
+	"Michigan"	"26"	"42 years"	"42"	880	278687	315.8
+	"Michigan"	"26"	"43 years"	"43"	926	278335	332.7
+	"Michigan"	"26"	"44 years"	"44"	1049	282673	371.1
+	"Michigan"	"26"	"45 years"	"45"	1103	293457	375.9
+	"Michigan"	"26"	"46 years"	"46"	1230	303688	405.0
+	"Michigan"	"26"	"47 years"	"47"	1318	310888	423.9
+	"Michigan"	"26"	"48 years"	"48"	1507	316096	476.8
+	"Michigan"	"26"	"49 years"	"49"	1604	318546	503.5
+	"Michigan"	"26"	"50 years"	"50"	1687	317642	531.1
+	"Michigan"	"26"	"51 years"	"51"	1973	319170	618.2
+	"Michigan"	"26"	"52 years"	"52"	2096	326032	642.9
+	"Michigan"	"26"	"53 years"	"53"	2290	333179	687.3
+	"Michigan"	"26"	"54 years"	"54"	2658	340491	780.6
+	"Michigan"	"26"	"55 years"	"55"	2915	346603	841.0
+	"Michigan"	"26"	"56 years"	"56"	3132	350356	893.9
+	"Michigan"	"26"	"57 years"	"57"	3501	350547	998.7
+	"Michigan"	"26"	"58 years"	"58"	3592	350938	1023.5
+	"Michigan"	"26"	"59 years"	"59"	4049	350061	1156.7
+	"Michigan"	"26"	"60 years"	"60"	4216	345266	1221.1
+	"Michigan"	"26"	"61 years"	"61"	4464	339106	1316.4
+	"Michigan"	"26"	"62 years"	"62"	4780	330722	1445.3
+	"Michigan"	"26"	"63 years"	"63"	4844	319646	1515.4
+	"Michigan"	"26"	"64 years"	"64"	5045	308228	1636.8
+	"Michigan"	"26"	"65 years"	"65"	5224	296346	1762.8
+	"Michigan"	"26"	"66 years"	"66"	5289	284063	1861.9
+	"Michigan"	"26"	"67 years"	"67"	5460	271673	2009.8
+	"Michigan"	"26"	"68 years"	"68"	5527	261403	2114.4
+	"Michigan"	"26"	"69 years"	"69"	5822	254400	2288.5
+	"Michigan"	"26"	"70 years"	"70"	5761	234997	2451.5
+	"Michigan"	"26"	"71 years"	"71"	5762	217279	2651.9
+	"Michigan"	"26"	"72 years"	"72"	5782	201417	2870.7
+	"Michigan"	"26"	"73 years"	"73"	5978	188008	3179.7
+	"Michigan"	"26"	"74 years"	"74"	5846	168447	3470.5
+	"Michigan"	"26"	"75 years"	"75"	5995	158398	3784.8
+	"Michigan"	"26"	"76 years"	"76"	6132	147111	4168.3
+	"Michigan"	"26"	"77 years"	"77"	6137	135295	4536.0
+	"Michigan"	"26"	"78 years"	"78"	6167	121193	5088.6
+	"Michigan"	"26"	"79 years"	"79"	6113	108779	5619.7
+	"Michigan"	"26"	"80 years"	"80"	6096	99428	6131.1
+	"Michigan"	"26"	"81 years"	"81"	6254	91321	6848.4
+	"Michigan"	"26"	"82 years"	"82"	6215	81934	7585.4
+	"Michigan"	"26"	"83 years"	"83"	6165	73741	8360.3
+	"Michigan"	"26"	"84 years"	"84"	6239	66140	9433.0
+	"Michigan"	"26"	"85 years"	"85"	6245	Not Applicable	Not Applicable
+	"Michigan"	"26"	"86 years"	"86"	6160	Not Applicable	Not Applicable
+	"Michigan"	"26"	"87 years"	"87"	6250	Not Applicable	Not Applicable
+	"Michigan"	"26"	"88 years"	"88"	6173	Not Applicable	Not Applicable
+	"Michigan"	"26"	"89 years"	"89"	5942	Not Applicable	Not Applicable
+	"Michigan"	"26"	"90 years"	"90"	5580	Not Applicable	Not Applicable
+	"Michigan"	"26"	"91 years"	"91"	5141	Not Applicable	Not Applicable
+	"Michigan"	"26"	"92 years"	"92"	4575	Not Applicable	Not Applicable
+	"Michigan"	"26"	"93 years"	"93"	3795	Not Applicable	Not Applicable
+	"Michigan"	"26"	"94 years"	"94"	3080	Not Applicable	Not Applicable
+	"Michigan"	"26"	"95 years"	"95"	2513	Not Applicable	Not Applicable
+	"Michigan"	"26"	"96 years"	"96"	1916	Not Applicable	Not Applicable
+	"Michigan"	"26"	"97 years"	"97"	1353	Not Applicable	Not Applicable
+	"Michigan"	"26"	"98 years"	"98"	928	Not Applicable	Not Applicable
+	"Michigan"	"26"	"99 years"	"99"	642	Not Applicable	Not Applicable
+	"Michigan"	"26"	"100+ years"	"100"	1010	Not Applicable	Not Applicable
+"---"
+"Dataset: Underlying Cause of Death, 1999-2020"
+"Query Parameters:"
+"Title: Michigan General M"
+"Gender: Male"
+"States: Michigan (26)"
+"Year/Month: 2016; 2017; 2018; 2019; 2020"
+"Group By: State; Single-Year Ages"
+"Show Totals: Disabled"
+"Show Zero Values: False"
+"Show Suppressed: False"
+"Calculate Rates Per: 100,000"
+"Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/ucd.html for more information."
+"---"
+"Query Date: Apr 8, 2022 9:36:44 AM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. Underlying Cause of Death"
+"1999-2020 on CDC WONDER Online Database, released in 2021. Data are from the Multiple Cause of Death Files, 1999-2020, as"
+"compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative Program. Accessed"
+"at http://wonder.cdc.gov/ucd-icd10.html on Apr 8, 2022 9:36:44 AM"
+"---"
+Messages:
+"1. Totals are not available for these results due to suppression constraints. More Information:"
+"http://wonder.cdc.gov/wonder/help/faq.html#Privacy."
+"2. Rows with suppressed Deaths are hidden. Use Quick Options above to show suppressed rows."
+"---"
+Caveats:
+"1. Population and rates are labeled 'Not Applicable' when they include a subset of ages 85-100+ because populations are not"
+"available for those ages. More information: http://wonder.cdc.gov/wonder/help/ucd.html#Ages 85-100."
+"2. Data are Suppressed when the data meet the criteria for confidentiality constraints. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Assurance of Confidentiality."
+"3. Deaths of persons with Age ""Not Stated"" are included in ""All"" counts and rates, but are not distributed among age groups,"
+"so are not included in age-specific counts, age-specific rates or in any age-adjusted rates. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Not Stated."
+"4. The population figures for year 2020 are bridged-race estimates of the July 1 resident population, from the Vintage 2020"
+"postcensal series released by NCHS on September 22, 2021. The population figures for year 2019 are bridged-race estimates of the"
+"July 1 resident population, from the Vintage 2019 postcensal series released by NCHS on July 9, 2020. The population figures for"
+"year 2018 are bridged-race estimates of the July 1 resident population, from the Vintage 2018 postcensal series released by NCHS"
+"on June 25, 2019. The population figures for year 2017 are bridged-race estimates of the July 1 resident population, from the"
+"Vintage 2017 postcensal series released by NCHS on June 27, 2018. The population figures for year 2016 are bridged-race"
+"estimates of the July 1 resident population, from the Vintage 2016 postcensal series released by NCHS on June 26, 2017. The"
+"population figures for year 2015 are bridged-race estimates of the July 1 resident population, from the Vintage 2015 postcensal"
+"series released by NCHS on June 28, 2016. The population figures for year 2014 are bridged-race estimates of the July 1 resident"
+"population, from the Vintage 2014 postcensal series released by NCHS on June 30, 2015. The population figures for year 2013 are"
+"bridged-race estimates of the July 1 resident population, from the Vintage 2013 postcensal series released by NCHS on June 26,"
+"2014. The population figures for year 2012 are bridged-race estimates of the July 1 resident population, from the Vintage 2012"
+"postcensal series released by NCHS on June 13, 2013. The population figures for year 2011 are bridged-race estimates of the July"
+"1 resident population, from the Vintage 2011 postcensal series released by NCHS on July 18, 2012. Population figures for 2010"
+"are April 1 Census counts. The population figures for years 2001 - 2009 are bridged-race estimates of the July 1 resident"
+"population, from the revised intercensal county-level 2000 - 2009 series released by NCHS on October 26, 2012. Population"
+"figures for 2000 are April 1 Census counts. Population figures for 1999 are from the 1990-1999 intercensal series of July 1"
+"estimates. Population figures for the infant age groups are the number of live births. <br/><b>Note:</b> Rates and population"
+"figures for years 2001 - 2009 differ slightly from previously published reports, due to use of the population estimates which"
+"were available at the time of release."
+"5. The population figures used in the calculation of death rates for the age group 'under 1 year' are the estimates of the"
+"resident population that is under one year of age. More information: http://wonder.cdc.gov/wonder/help/ucd.html#Age Group."

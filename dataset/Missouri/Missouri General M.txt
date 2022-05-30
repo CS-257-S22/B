@@ -1,0 +1,162 @@
+"Notes"	"State"	"State Code"	"Single-Year Ages"	"Single-Year Ages Code"	Deaths	Population	Crude Rate
+	"Missouri"	"29"	"< 1 year"	"0"	1243	185529	670.0
+	"Missouri"	"29"	"1 year"	"1"	98	188427	52.0
+	"Missouri"	"29"	"2 years"	"2"	64	191487	33.4
+	"Missouri"	"29"	"3 years"	"3"	63	192366	32.8
+	"Missouri"	"29"	"4 years"	"4"	38	193200	19.7
+	"Missouri"	"29"	"5 years"	"5"	32	193181	16.6
+	"Missouri"	"29"	"6 years"	"6"	26	193771	13.4
+	"Missouri"	"29"	"7 years"	"7"	30	193593	15.5
+	"Missouri"	"29"	"8 years"	"8"	29	195664	14.8
+	"Missouri"	"29"	"9 years"	"9"	26	197220	13.2
+	"Missouri"	"29"	"10 years"	"10"	38	198476	19.1
+	"Missouri"	"29"	"11 years"	"11"	30	199324	15.1
+	"Missouri"	"29"	"12 years"	"12"	42	200688	20.9
+	"Missouri"	"29"	"13 years"	"13"	50	199884	25.0
+	"Missouri"	"29"	"14 years"	"14"	78	199356	39.1
+	"Missouri"	"29"	"15 years"	"15"	114	199413	57.2
+	"Missouri"	"29"	"16 years"	"16"	135	201303	67.1
+	"Missouri"	"29"	"17 years"	"17"	206	202096	101.9
+	"Missouri"	"29"	"18 years"	"18"	284	197678	143.7
+	"Missouri"	"29"	"19 years"	"19"	299	204309	146.3
+	"Missouri"	"29"	"20 years"	"20"	312	206427	151.1
+	"Missouri"	"29"	"21 years"	"21"	365	209394	174.3
+	"Missouri"	"29"	"22 years"	"22"	410	209899	195.3
+	"Missouri"	"29"	"23 years"	"23"	416	211136	197.0
+	"Missouri"	"29"	"24 years"	"24"	443	212717	208.3
+	"Missouri"	"29"	"25 years"	"25"	474	215830	219.6
+	"Missouri"	"29"	"26 years"	"26"	462	216465	213.4
+	"Missouri"	"29"	"27 years"	"27"	515	214746	239.8
+	"Missouri"	"29"	"28 years"	"28"	534	211000	253.1
+	"Missouri"	"29"	"29 years"	"29"	467	205444	227.3
+	"Missouri"	"29"	"30 years"	"30"	526	202551	259.7
+	"Missouri"	"29"	"31 years"	"31"	503	200291	251.1
+	"Missouri"	"29"	"32 years"	"32"	473	198121	238.7
+	"Missouri"	"29"	"33 years"	"33"	510	199833	255.2
+	"Missouri"	"29"	"34 years"	"34"	530	199735	265.4
+	"Missouri"	"29"	"35 years"	"35"	562	199263	282.0
+	"Missouri"	"29"	"36 years"	"36"	591	198428	297.8
+	"Missouri"	"29"	"37 years"	"37"	613	196887	311.3
+	"Missouri"	"29"	"38 years"	"38"	617	192518	320.5
+	"Missouri"	"29"	"39 years"	"39"	634	188808	335.8
+	"Missouri"	"29"	"40 years"	"40"	634	183162	346.1
+	"Missouri"	"29"	"41 years"	"41"	588	177666	331.0
+	"Missouri"	"29"	"42 years"	"42"	671	173846	386.0
+	"Missouri"	"29"	"43 years"	"43"	634	171803	369.0
+	"Missouri"	"29"	"44 years"	"44"	670	171909	389.7
+	"Missouri"	"29"	"45 years"	"45"	728	176446	412.6
+	"Missouri"	"29"	"46 years"	"46"	774	180272	429.4
+	"Missouri"	"29"	"47 years"	"47"	821	183162	448.2
+	"Missouri"	"29"	"48 years"	"48"	962	184383	521.7
+	"Missouri"	"29"	"49 years"	"49"	1046	183869	568.9
+	"Missouri"	"29"	"50 years"	"50"	1086	181393	598.7
+	"Missouri"	"29"	"51 years"	"51"	1239	183470	675.3
+	"Missouri"	"29"	"52 years"	"52"	1352	188127	718.7
+	"Missouri"	"29"	"53 years"	"53"	1504	194330	773.9
+	"Missouri"	"29"	"54 years"	"54"	1695	200742	844.4
+	"Missouri"	"29"	"55 years"	"55"	1894	206489	917.2
+	"Missouri"	"29"	"56 years"	"56"	2155	209700	1027.7
+	"Missouri"	"29"	"57 years"	"57"	2313	210145	1100.7
+	"Missouri"	"29"	"58 years"	"58"	2529	209137	1209.3
+	"Missouri"	"29"	"59 years"	"59"	2705	206580	1309.4
+	"Missouri"	"29"	"60 years"	"60"	2739	202223	1354.4
+	"Missouri"	"29"	"61 years"	"61"	2832	196921	1438.1
+	"Missouri"	"29"	"62 years"	"62"	3036	191515	1585.3
+	"Missouri"	"29"	"63 years"	"63"	3030	184679	1640.7
+	"Missouri"	"29"	"64 years"	"64"	3258	177689	1833.5
+	"Missouri"	"29"	"65 years"	"65"	3250	169826	1913.7
+	"Missouri"	"29"	"66 years"	"66"	3342	162787	2053.0
+	"Missouri"	"29"	"67 years"	"67"	3318	156173	2124.6
+	"Missouri"	"29"	"68 years"	"68"	3477	150736	2306.7
+	"Missouri"	"29"	"69 years"	"69"	3619	147847	2447.8
+	"Missouri"	"29"	"70 years"	"70"	3589	137271	2614.5
+	"Missouri"	"29"	"71 years"	"71"	3646	128308	2841.6
+	"Missouri"	"29"	"72 years"	"72"	3810	120049	3173.7
+	"Missouri"	"29"	"73 years"	"73"	3764	112498	3345.8
+	"Missouri"	"29"	"74 years"	"74"	3734	101151	3691.5
+	"Missouri"	"29"	"75 years"	"75"	3944	96413	4090.7
+	"Missouri"	"29"	"76 years"	"76"	3973	89628	4432.8
+	"Missouri"	"29"	"77 years"	"77"	4103	82442	4976.8
+	"Missouri"	"29"	"78 years"	"78"	3938	74639	5276.1
+	"Missouri"	"29"	"79 years"	"79"	3997	67881	5888.2
+	"Missouri"	"29"	"80 years"	"80"	4036	62130	6496.1
+	"Missouri"	"29"	"81 years"	"81"	4013	57193	7016.6
+	"Missouri"	"29"	"82 years"	"82"	4031	51755	7788.6
+	"Missouri"	"29"	"83 years"	"83"	3995	47116	8479.1
+	"Missouri"	"29"	"84 years"	"84"	4146	42463	9763.8
+	"Missouri"	"29"	"85 years"	"85"	4001	Not Applicable	Not Applicable
+	"Missouri"	"29"	"86 years"	"86"	3835	Not Applicable	Not Applicable
+	"Missouri"	"29"	"87 years"	"87"	3787	Not Applicable	Not Applicable
+	"Missouri"	"29"	"88 years"	"88"	3795	Not Applicable	Not Applicable
+	"Missouri"	"29"	"89 years"	"89"	3503	Not Applicable	Not Applicable
+	"Missouri"	"29"	"90 years"	"90"	3147	Not Applicable	Not Applicable
+	"Missouri"	"29"	"91 years"	"91"	2801	Not Applicable	Not Applicable
+	"Missouri"	"29"	"92 years"	"92"	2394	Not Applicable	Not Applicable
+	"Missouri"	"29"	"93 years"	"93"	2156	Not Applicable	Not Applicable
+	"Missouri"	"29"	"94 years"	"94"	1806	Not Applicable	Not Applicable
+	"Missouri"	"29"	"95 years"	"95"	1447	Not Applicable	Not Applicable
+	"Missouri"	"29"	"96 years"	"96"	1090	Not Applicable	Not Applicable
+	"Missouri"	"29"	"97 years"	"97"	769	Not Applicable	Not Applicable
+	"Missouri"	"29"	"98 years"	"98"	530	Not Applicable	Not Applicable
+	"Missouri"	"29"	"99 years"	"99"	337	Not Applicable	Not Applicable
+	"Missouri"	"29"	"100+ years"	"100"	485	Not Applicable	Not Applicable
+"---"
+"Dataset: Underlying Cause of Death, 1999-2020"
+"Query Parameters:"
+"Title: Missouri General M"
+"Gender: Male"
+"States: Missouri (29)"
+"Year/Month: 2016; 2017; 2018; 2019; 2020"
+"Group By: State; Single-Year Ages"
+"Show Totals: Disabled"
+"Show Zero Values: False"
+"Show Suppressed: False"
+"Calculate Rates Per: 100,000"
+"Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/ucd.html for more information."
+"---"
+"Query Date: Apr 8, 2022 3:32:53 PM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. Underlying Cause of Death"
+"1999-2020 on CDC WONDER Online Database, released in 2021. Data are from the Multiple Cause of Death Files, 1999-2020, as"
+"compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative Program. Accessed"
+"at http://wonder.cdc.gov/ucd-icd10.html on Apr 8, 2022 3:32:53 PM"
+"---"
+Messages:
+"1. Totals are not available for these results due to suppression constraints. More Information:"
+"http://wonder.cdc.gov/wonder/help/faq.html#Privacy."
+"2. Rows with suppressed Deaths are hidden. Use Quick Options above to show suppressed rows."
+"---"
+Caveats:
+"1. Population and rates are labeled 'Not Applicable' when they include a subset of ages 85-100+ because populations are not"
+"available for those ages. More information: http://wonder.cdc.gov/wonder/help/ucd.html#Ages 85-100."
+"2. Data are Suppressed when the data meet the criteria for confidentiality constraints. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Assurance of Confidentiality."
+"3. Death rates are flagged as Unreliable when the rate is calculated with a numerator of 20 or less. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Unreliable."
+"4. Deaths of persons with Age ""Not Stated"" are included in ""All"" counts and rates, but are not distributed among age groups,"
+"so are not included in age-specific counts, age-specific rates or in any age-adjusted rates. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Not Stated."
+"5. The population figures for year 2020 are bridged-race estimates of the July 1 resident population, from the Vintage 2020"
+"postcensal series released by NCHS on September 22, 2021. The population figures for year 2019 are bridged-race estimates of the"
+"July 1 resident population, from the Vintage 2019 postcensal series released by NCHS on July 9, 2020. The population figures for"
+"year 2018 are bridged-race estimates of the July 1 resident population, from the Vintage 2018 postcensal series released by NCHS"
+"on June 25, 2019. The population figures for year 2017 are bridged-race estimates of the July 1 resident population, from the"
+"Vintage 2017 postcensal series released by NCHS on June 27, 2018. The population figures for year 2016 are bridged-race"
+"estimates of the July 1 resident population, from the Vintage 2016 postcensal series released by NCHS on June 26, 2017. The"
+"population figures for year 2015 are bridged-race estimates of the July 1 resident population, from the Vintage 2015 postcensal"
+"series released by NCHS on June 28, 2016. The population figures for year 2014 are bridged-race estimates of the July 1 resident"
+"population, from the Vintage 2014 postcensal series released by NCHS on June 30, 2015. The population figures for year 2013 are"
+"bridged-race estimates of the July 1 resident population, from the Vintage 2013 postcensal series released by NCHS on June 26,"
+"2014. The population figures for year 2012 are bridged-race estimates of the July 1 resident population, from the Vintage 2012"
+"postcensal series released by NCHS on June 13, 2013. The population figures for year 2011 are bridged-race estimates of the July"
+"1 resident population, from the Vintage 2011 postcensal series released by NCHS on July 18, 2012. Population figures for 2010"
+"are April 1 Census counts. The population figures for years 2001 - 2009 are bridged-race estimates of the July 1 resident"
+"population, from the revised intercensal county-level 2000 - 2009 series released by NCHS on October 26, 2012. Population"
+"figures for 2000 are April 1 Census counts. Population figures for 1999 are from the 1990-1999 intercensal series of July 1"
+"estimates. Population figures for the infant age groups are the number of live births. <br/><b>Note:</b> Rates and population"
+"figures for years 2001 - 2009 differ slightly from previously published reports, due to use of the population estimates which"
+"were available at the time of release."
+"6. The population figures used in the calculation of death rates for the age group 'under 1 year' are the estimates of the"
+"resident population that is under one year of age. More information: http://wonder.cdc.gov/wonder/help/ucd.html#Age Group."

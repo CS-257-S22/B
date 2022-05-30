@@ -1,0 +1,69 @@
+<html>
+    <head>
+        <title>PoP - When Will I Die?</title>
+        <link rel="stylesheet" href="../static/datastyle.css">
+    </head>
+    <body>
+        <div id="header"> 
+            <h1>Predictor of Passing</h1>
+            <nav>
+                <ul>
+                    <li><a href="/home">Home</a></li>
+                    <li><a href="/dp">Deaths Per</a></li>
+                    <li><a href="/lc">Leading Cause</a></li>
+                    <li><a href="/wwid">When Will I Die?</a></li>
+                  </ul> 
+            </nav>
+        </div>
+        <div>
+            <h2>When Will I Die?</h2>
+            <div>
+                <p>Please enter your information.</p>
+                <form action="choose_arguments">
+                    <label for="name">Input your name:</label>
+                    <select name="name_input">
+                        
+                        <textarea type="text" id="name_input" name="name_input" rows="1" cols="20">None</textarea>
+                           
+                    </select>
+                    <label for="states">Choose your state:</label>
+                    <select name="state_choice">
+                        
+                        <option value="None">None</option>
+                        {% for state in states: %}
+                        <option value="{{state}}">{{state}}</option>
+                        {% endfor %}
+                           
+                    </select>
+                    <label for="ages">Choose your age:</label>
+                    <select name="age_choice">
+                        
+                        <option value="None">None</option>
+                        <option value="0">&lt;1</option>
+                        {% for number in range(99): %}
+                        <option value="{{number+1}}">{{number+1}}</option>
+                        {% endfor %}
+                        <option value="100">100+</option>
+                           
+                    </select>
+                    <label for="genders">Choose your gender:</label>
+                    <select name="gender_choice">
+                        
+                        <option value="None">Other</option>
+                        <option value="F">Female</option>
+                        <option value="M">Male</option>
+                           
+                    </select>
+                    <input type="data" name="data" id="dateinput">
+                    <input type="submit" value="Submit">
+                </form>
+            </div>
+            <div>
+                {%if search_args != None: %}
+                <h3>Leading cause of death for: {{search_args.state}}, {{search_args.age}}, {{search_args.gender}}:</h3>
+                <p><b>{{data[0]}}</b> with <b>{{data[1]}}</b> deaths</p>
+                {%endif%}
+            </div>
+        </div>
+    </body>
+</html>

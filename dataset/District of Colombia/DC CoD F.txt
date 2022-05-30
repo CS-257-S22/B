@@ -1,0 +1,280 @@
+"Notes"	"State"	"State Code"	"Single-Year Ages"	"Single-Year Ages Code"	"Cause of death"	"Cause of death Code"	Deaths	Population	Crude Rate
+	"District of Columbia"	"11"	"< 1 year"	"0"	"Newborn affected by premature rupture of membranes"	"P01.1"	14	23532	Unreliable
+	"District of Columbia"	"11"	"< 1 year"	"0"	"Extreme immaturity"	"P07.2"	11	23532	Unreliable
+	"District of Columbia"	"11"	"< 1 year"	"0"	"Other ill-defined and unspecified causes of mortality"	"R99"	10	23532	Unreliable
+	"District of Columbia"	"11"	"< 1 year"	"0"	"Accidental suffocation and strangulation in bed"	"W75"	12	23532	Unreliable
+	"District of Columbia"	"11"	"49 years"	"49"	"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X42"	12	18649	Unreliable
+	"District of Columbia"	"11"	"51 years"	"51"	"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X42"	10	18221	Unreliable
+	"District of Columbia"	"11"	"52 years"	"52"	"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X42"	13	18482	Unreliable
+	"District of Columbia"	"11"	"53 years"	"53"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	10	18400	Unreliable
+	"District of Columbia"	"11"	"53 years"	"53"	"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X42"	13	18400	Unreliable
+	"District of Columbia"	"11"	"55 years"	"55"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	11	18940	Unreliable
+	"District of Columbia"	"11"	"55 years"	"55"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	13	18940	Unreliable
+	"District of Columbia"	"11"	"55 years"	"55"	"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X42"	13	18940	Unreliable
+	"District of Columbia"	"11"	"56 years"	"56"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	13	18784	Unreliable
+	"District of Columbia"	"11"	"56 years"	"56"	"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X42"	16	18784	Unreliable
+	"District of Columbia"	"11"	"57 years"	"57"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	11	18751	Unreliable
+	"District of Columbia"	"11"	"57 years"	"57"	"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X42"	10	18751	Unreliable
+	"District of Columbia"	"11"	"58 years"	"58"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	16	18495	Unreliable
+	"District of Columbia"	"11"	"58 years"	"58"	"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X42"	13	18495	Unreliable
+	"District of Columbia"	"11"	"59 years"	"59"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	12	18462	Unreliable
+	"District of Columbia"	"11"	"59 years"	"59"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	13	18462	Unreliable
+	"District of Columbia"	"11"	"59 years"	"59"	"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X42"	13	18462	Unreliable
+	"District of Columbia"	"11"	"60 years"	"60"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	12	18267	Unreliable
+	"District of Columbia"	"11"	"60 years"	"60"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	16	18267	Unreliable
+	"District of Columbia"	"11"	"60 years"	"60"	"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X42"	13	18267	Unreliable
+	"District of Columbia"	"11"	"61 years"	"61"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	14	18251	Unreliable
+	"District of Columbia"	"11"	"61 years"	"61"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	14	18251	Unreliable
+	"District of Columbia"	"11"	"61 years"	"61"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	11	18251	Unreliable
+	"District of Columbia"	"11"	"61 years"	"61"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	11	18251	Unreliable
+	"District of Columbia"	"11"	"61 years"	"61"	"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X42"	10	18251	Unreliable
+	"District of Columbia"	"11"	"62 years"	"62"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	10	18046	Unreliable
+	"District of Columbia"	"11"	"62 years"	"62"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	13	18046	Unreliable
+	"District of Columbia"	"11"	"62 years"	"62"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	10	18046	Unreliable
+	"District of Columbia"	"11"	"62 years"	"62"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	14	18046	Unreliable
+	"District of Columbia"	"11"	"62 years"	"62"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	12	18046	Unreliable
+	"District of Columbia"	"11"	"62 years"	"62"	"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X42"	10	18046	Unreliable
+	"District of Columbia"	"11"	"63 years"	"63"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	12	17878	Unreliable
+	"District of Columbia"	"11"	"63 years"	"63"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	11	17878	Unreliable
+	"District of Columbia"	"11"	"63 years"	"63"	"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X42"	11	17878	Unreliable
+	"District of Columbia"	"11"	"64 years"	"64"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	15	17471	Unreliable
+	"District of Columbia"	"11"	"64 years"	"64"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	17	17471	Unreliable
+	"District of Columbia"	"11"	"64 years"	"64"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	16	17471	Unreliable
+	"District of Columbia"	"11"	"64 years"	"64"	"COVID-19"	"U07.1"	10	17471	Unreliable
+	"District of Columbia"	"11"	"65 years"	"65"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	10	16874	Unreliable
+	"District of Columbia"	"11"	"65 years"	"65"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	12	16874	Unreliable
+	"District of Columbia"	"11"	"66 years"	"66"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	14	16373	Unreliable
+	"District of Columbia"	"11"	"66 years"	"66"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	12	16373	Unreliable
+	"District of Columbia"	"11"	"66 years"	"66"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	16	16373	Unreliable
+	"District of Columbia"	"11"	"66 years"	"66"	"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X42"	10	16373	Unreliable
+	"District of Columbia"	"11"	"67 years"	"67"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	14	15785	Unreliable
+	"District of Columbia"	"11"	"67 years"	"67"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	11	15785	Unreliable
+	"District of Columbia"	"11"	"67 years"	"67"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	20	15785	126.7
+	"District of Columbia"	"11"	"67 years"	"67"	"COVID-19"	"U07.1"	12	15785	Unreliable
+	"District of Columbia"	"11"	"68 years"	"68"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	21	15188	138.3
+	"District of Columbia"	"11"	"69 years"	"69"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	13	14879	Unreliable
+	"District of Columbia"	"11"	"69 years"	"69"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	14	14879	Unreliable
+	"District of Columbia"	"11"	"69 years"	"69"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	15	14879	Unreliable
+	"District of Columbia"	"11"	"69 years"	"69"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	14	14879	Unreliable
+	"District of Columbia"	"11"	"69 years"	"69"	"COVID-19"	"U07.1"	14	14879	Unreliable
+	"District of Columbia"	"11"	"70 years"	"70"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	16	13763	Unreliable
+	"District of Columbia"	"11"	"70 years"	"70"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	14	13763	Unreliable
+	"District of Columbia"	"11"	"70 years"	"70"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	21	13763	152.6
+	"District of Columbia"	"11"	"70 years"	"70"	"Acute myocardial infarction, unspecified"	"I21.9"	11	13763	Unreliable
+	"District of Columbia"	"11"	"70 years"	"70"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	16	13763	Unreliable
+	"District of Columbia"	"11"	"71 years"	"71"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	14	12840	Unreliable
+	"District of Columbia"	"11"	"71 years"	"71"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	10	12840	Unreliable
+	"District of Columbia"	"11"	"71 years"	"71"	"Atherosclerotic heart disease"	"I25.1"	10	12840	Unreliable
+	"District of Columbia"	"11"	"71 years"	"71"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	11	12840	Unreliable
+	"District of Columbia"	"11"	"72 years"	"72"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	13	11990	Unreliable
+	"District of Columbia"	"11"	"72 years"	"72"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	11	11990	Unreliable
+	"District of Columbia"	"11"	"72 years"	"72"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	22	11990	183.5
+	"District of Columbia"	"11"	"73 years"	"73"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	20	11120	179.9
+	"District of Columbia"	"11"	"74 years"	"74"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	12	10199	Unreliable
+	"District of Columbia"	"11"	"74 years"	"74"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	13	10199	Unreliable
+	"District of Columbia"	"11"	"74 years"	"74"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	24	10199	235.3
+	"District of Columbia"	"11"	"75 years"	"75"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	15	9681	Unreliable
+	"District of Columbia"	"11"	"75 years"	"75"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	10	9681	Unreliable
+	"District of Columbia"	"11"	"75 years"	"75"	"Acute myocardial infarction, unspecified"	"I21.9"	11	9681	Unreliable
+	"District of Columbia"	"11"	"75 years"	"75"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	21	9681	216.9
+	"District of Columbia"	"11"	"76 years"	"76"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	13	9124	Unreliable
+	"District of Columbia"	"11"	"76 years"	"76"	"Acute myocardial infarction, unspecified"	"I21.9"	11	9124	Unreliable
+	"District of Columbia"	"11"	"76 years"	"76"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	18	9124	Unreliable
+	"District of Columbia"	"11"	"77 years"	"77"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	14	8409	Unreliable
+	"District of Columbia"	"11"	"77 years"	"77"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	11	8409	Unreliable
+	"District of Columbia"	"11"	"77 years"	"77"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	12	8409	Unreliable
+	"District of Columbia"	"11"	"77 years"	"77"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	12	8409	Unreliable
+	"District of Columbia"	"11"	"77 years"	"77"	"Atherosclerotic heart disease"	"I25.1"	12	8409	Unreliable
+	"District of Columbia"	"11"	"78 years"	"78"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	11	7754	Unreliable
+	"District of Columbia"	"11"	"78 years"	"78"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	27	7754	348.2
+	"District of Columbia"	"11"	"78 years"	"78"	"Atherosclerotic heart disease"	"I25.1"	10	7754	Unreliable
+	"District of Columbia"	"11"	"79 years"	"79"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	13	7204	Unreliable
+	"District of Columbia"	"11"	"79 years"	"79"	"Unspecified dementia"	"F03"	11	7204	Unreliable
+	"District of Columbia"	"11"	"79 years"	"79"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	18	7204	Unreliable
+	"District of Columbia"	"11"	"79 years"	"79"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	11	7204	Unreliable
+	"District of Columbia"	"11"	"80 years"	"80"	"Septicaemia, unspecified"	"A41.9"	11	6842	Unreliable
+	"District of Columbia"	"11"	"80 years"	"80"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	13	6842	Unreliable
+	"District of Columbia"	"11"	"80 years"	"80"	"Unspecified dementia"	"F03"	10	6842	Unreliable
+	"District of Columbia"	"11"	"80 years"	"80"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	11	6842	Unreliable
+	"District of Columbia"	"11"	"80 years"	"80"	"Atherosclerotic heart disease"	"I25.1"	13	6842	Unreliable
+	"District of Columbia"	"11"	"81 years"	"81"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	10	6220	Unreliable
+	"District of Columbia"	"11"	"81 years"	"81"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	12	6220	Unreliable
+	"District of Columbia"	"11"	"81 years"	"81"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	21	6220	337.6
+	"District of Columbia"	"11"	"82 years"	"82"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	10	5887	Unreliable
+	"District of Columbia"	"11"	"82 years"	"82"	"Unspecified dementia"	"F03"	18	5887	Unreliable
+	"District of Columbia"	"11"	"82 years"	"82"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	27	5887	458.6
+	"District of Columbia"	"11"	"82 years"	"82"	"Atherosclerotic heart disease"	"I25.1"	11	5887	Unreliable
+	"District of Columbia"	"11"	"83 years"	"83"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	11	5666	Unreliable
+	"District of Columbia"	"11"	"83 years"	"83"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	11	5666	Unreliable
+	"District of Columbia"	"11"	"83 years"	"83"	"Unspecified dementia"	"F03"	11	5666	Unreliable
+	"District of Columbia"	"11"	"83 years"	"83"	"Alzheimer disease, unspecified"	"G30.9"	11	5666	Unreliable
+	"District of Columbia"	"11"	"83 years"	"83"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	20	5666	353.0
+	"District of Columbia"	"11"	"84 years"	"84"	"Unspecified dementia"	"F03"	20	5133	389.6
+	"District of Columbia"	"11"	"84 years"	"84"	"Alzheimer disease, unspecified"	"G30.9"	12	5133	Unreliable
+	"District of Columbia"	"11"	"84 years"	"84"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	30	5133	584.5
+	"District of Columbia"	"11"	"85 years"	"85"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	14	Not Applicable	Not Applicable
+	"District of Columbia"	"11"	"85 years"	"85"	"Unspecified dementia"	"F03"	13	Not Applicable	Not Applicable
+	"District of Columbia"	"11"	"85 years"	"85"	"Alzheimer disease, unspecified"	"G30.9"	13	Not Applicable	Not Applicable
+	"District of Columbia"	"11"	"85 years"	"85"	"Acute myocardial infarction, unspecified"	"I21.9"	15	Not Applicable	Not Applicable
+	"District of Columbia"	"11"	"85 years"	"85"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	25	Not Applicable	Not Applicable
+	"District of Columbia"	"11"	"85 years"	"85"	"Atherosclerotic heart disease"	"I25.1"	12	Not Applicable	Not Applicable
+	"District of Columbia"	"11"	"86 years"	"86"	"Unspecified dementia"	"F03"	24	Not Applicable	Not Applicable
+	"District of Columbia"	"11"	"86 years"	"86"	"Alzheimer disease, unspecified"	"G30.9"	15	Not Applicable	Not Applicable
+	"District of Columbia"	"11"	"86 years"	"86"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	24	Not Applicable	Not Applicable
+	"District of Columbia"	"11"	"86 years"	"86"	"Atherosclerotic heart disease"	"I25.1"	11	Not Applicable	Not Applicable
+	"District of Columbia"	"11"	"86 years"	"86"	"COVID-19"	"U07.1"	15	Not Applicable	Not Applicable
+	"District of Columbia"	"11"	"87 years"	"87"	"Unspecified dementia"	"F03"	17	Not Applicable	Not Applicable
+	"District of Columbia"	"11"	"87 years"	"87"	"Alzheimer disease, unspecified"	"G30.9"	16	Not Applicable	Not Applicable
+	"District of Columbia"	"11"	"87 years"	"87"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	14	Not Applicable	Not Applicable
+	"District of Columbia"	"11"	"87 years"	"87"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	28	Not Applicable	Not Applicable
+	"District of Columbia"	"11"	"87 years"	"87"	"Stroke, not specified as haemorrhage or infarction"	"I64"	11	Not Applicable	Not Applicable
+	"District of Columbia"	"11"	"87 years"	"87"	"Cerebral atherosclerosis"	"I67.2"	13	Not Applicable	Not Applicable
+	"District of Columbia"	"11"	"87 years"	"87"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	10	Not Applicable	Not Applicable
+	"District of Columbia"	"11"	"87 years"	"87"	"COVID-19"	"U07.1"	12	Not Applicable	Not Applicable
+	"District of Columbia"	"11"	"88 years"	"88"	"Unspecified dementia"	"F03"	12	Not Applicable	Not Applicable
+	"District of Columbia"	"11"	"88 years"	"88"	"Alzheimer disease, unspecified"	"G30.9"	20	Not Applicable	Not Applicable
+	"District of Columbia"	"11"	"88 years"	"88"	"Senile degeneration of brain, not elsewhere classified"	"G31.1"	11	Not Applicable	Not Applicable
+	"District of Columbia"	"11"	"88 years"	"88"	"Acute myocardial infarction, unspecified"	"I21.9"	11	Not Applicable	Not Applicable
+	"District of Columbia"	"11"	"88 years"	"88"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	14	Not Applicable	Not Applicable
+	"District of Columbia"	"11"	"88 years"	"88"	"Atherosclerotic heart disease"	"I25.1"	10	Not Applicable	Not Applicable
+	"District of Columbia"	"11"	"88 years"	"88"	"Stroke, not specified as haemorrhage or infarction"	"I64"	11	Not Applicable	Not Applicable
+	"District of Columbia"	"11"	"88 years"	"88"	"Cerebral atherosclerosis"	"I67.2"	10	Not Applicable	Not Applicable
+	"District of Columbia"	"11"	"88 years"	"88"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	12	Not Applicable	Not Applicable
+	"District of Columbia"	"11"	"89 years"	"89"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	10	Not Applicable	Not Applicable
+	"District of Columbia"	"11"	"89 years"	"89"	"Unspecified dementia"	"F03"	30	Not Applicable	Not Applicable
+	"District of Columbia"	"11"	"89 years"	"89"	"Alzheimer disease, unspecified"	"G30.9"	17	Not Applicable	Not Applicable
+	"District of Columbia"	"11"	"89 years"	"89"	"Senile degeneration of brain, not elsewhere classified"	"G31.1"	14	Not Applicable	Not Applicable
+	"District of Columbia"	"11"	"89 years"	"89"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	12	Not Applicable	Not Applicable
+	"District of Columbia"	"11"	"89 years"	"89"	"Acute myocardial infarction, unspecified"	"I21.9"	13	Not Applicable	Not Applicable
+	"District of Columbia"	"11"	"89 years"	"89"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	29	Not Applicable	Not Applicable
+	"District of Columbia"	"11"	"89 years"	"89"	"Atherosclerotic heart disease"	"I25.1"	14	Not Applicable	Not Applicable
+	"District of Columbia"	"11"	"89 years"	"89"	"COVID-19"	"U07.1"	10	Not Applicable	Not Applicable
+	"District of Columbia"	"11"	"90 years"	"90"	"Unspecified dementia"	"F03"	25	Not Applicable	Not Applicable
+	"District of Columbia"	"11"	"90 years"	"90"	"Alzheimer disease, unspecified"	"G30.9"	18	Not Applicable	Not Applicable
+	"District of Columbia"	"11"	"90 years"	"90"	"Senile degeneration of brain, not elsewhere classified"	"G31.1"	12	Not Applicable	Not Applicable
+	"District of Columbia"	"11"	"90 years"	"90"	"Acute myocardial infarction, unspecified"	"I21.9"	11	Not Applicable	Not Applicable
+	"District of Columbia"	"11"	"90 years"	"90"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	20	Not Applicable	Not Applicable
+	"District of Columbia"	"11"	"90 years"	"90"	"Atherosclerotic heart disease"	"I25.1"	12	Not Applicable	Not Applicable
+	"District of Columbia"	"11"	"90 years"	"90"	"Stroke, not specified as haemorrhage or infarction"	"I64"	10	Not Applicable	Not Applicable
+	"District of Columbia"	"11"	"90 years"	"90"	"Cerebral atherosclerosis"	"I67.2"	10	Not Applicable	Not Applicable
+	"District of Columbia"	"11"	"91 years"	"91"	"Unspecified dementia"	"F03"	23	Not Applicable	Not Applicable
+	"District of Columbia"	"11"	"91 years"	"91"	"Alzheimer disease, unspecified"	"G30.9"	21	Not Applicable	Not Applicable
+	"District of Columbia"	"11"	"91 years"	"91"	"Senile degeneration of brain, not elsewhere classified"	"G31.1"	14	Not Applicable	Not Applicable
+	"District of Columbia"	"11"	"91 years"	"91"	"Acute myocardial infarction, unspecified"	"I21.9"	10	Not Applicable	Not Applicable
+	"District of Columbia"	"11"	"91 years"	"91"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	20	Not Applicable	Not Applicable
+	"District of Columbia"	"11"	"91 years"	"91"	"Congestive heart failure"	"I50.0"	11	Not Applicable	Not Applicable
+	"District of Columbia"	"11"	"91 years"	"91"	"Stroke, not specified as haemorrhage or infarction"	"I64"	10	Not Applicable	Not Applicable
+	"District of Columbia"	"11"	"91 years"	"91"	"COVID-19"	"U07.1"	15	Not Applicable	Not Applicable
+	"District of Columbia"	"11"	"92 years"	"92"	"Unspecified dementia"	"F03"	19	Not Applicable	Not Applicable
+	"District of Columbia"	"11"	"92 years"	"92"	"Alzheimer disease, unspecified"	"G30.9"	22	Not Applicable	Not Applicable
+	"District of Columbia"	"11"	"92 years"	"92"	"Senile degeneration of brain, not elsewhere classified"	"G31.1"	20	Not Applicable	Not Applicable
+	"District of Columbia"	"11"	"92 years"	"92"	"Acute myocardial infarction, unspecified"	"I21.9"	12	Not Applicable	Not Applicable
+	"District of Columbia"	"11"	"92 years"	"92"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	14	Not Applicable	Not Applicable
+	"District of Columbia"	"11"	"92 years"	"92"	"Atherosclerotic heart disease"	"I25.1"	14	Not Applicable	Not Applicable
+	"District of Columbia"	"11"	"92 years"	"92"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	13	Not Applicable	Not Applicable
+	"District of Columbia"	"11"	"93 years"	"93"	"Unspecified dementia"	"F03"	38	Not Applicable	Not Applicable
+	"District of Columbia"	"11"	"93 years"	"93"	"Alzheimer disease, unspecified"	"G30.9"	21	Not Applicable	Not Applicable
+	"District of Columbia"	"11"	"93 years"	"93"	"Senile degeneration of brain, not elsewhere classified"	"G31.1"	19	Not Applicable	Not Applicable
+	"District of Columbia"	"11"	"93 years"	"93"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	10	Not Applicable	Not Applicable
+	"District of Columbia"	"11"	"93 years"	"93"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	23	Not Applicable	Not Applicable
+	"District of Columbia"	"11"	"93 years"	"93"	"Atherosclerotic heart disease"	"I25.1"	10	Not Applicable	Not Applicable
+	"District of Columbia"	"11"	"93 years"	"93"	"Cerebral atherosclerosis"	"I67.2"	10	Not Applicable	Not Applicable
+	"District of Columbia"	"11"	"94 years"	"94"	"Unspecified dementia"	"F03"	26	Not Applicable	Not Applicable
+	"District of Columbia"	"11"	"94 years"	"94"	"Alzheimer disease, unspecified"	"G30.9"	23	Not Applicable	Not Applicable
+	"District of Columbia"	"11"	"94 years"	"94"	"Acute myocardial infarction, unspecified"	"I21.9"	11	Not Applicable	Not Applicable
+	"District of Columbia"	"11"	"94 years"	"94"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	23	Not Applicable	Not Applicable
+	"District of Columbia"	"11"	"94 years"	"94"	"Atherosclerotic heart disease"	"I25.1"	12	Not Applicable	Not Applicable
+	"District of Columbia"	"11"	"94 years"	"94"	"Cerebral atherosclerosis"	"I67.2"	10	Not Applicable	Not Applicable
+	"District of Columbia"	"11"	"94 years"	"94"	"COVID-19"	"U07.1"	12	Not Applicable	Not Applicable
+	"District of Columbia"	"11"	"95 years"	"95"	"Unspecified dementia"	"F03"	23	Not Applicable	Not Applicable
+	"District of Columbia"	"11"	"95 years"	"95"	"Alzheimer disease, unspecified"	"G30.9"	16	Not Applicable	Not Applicable
+	"District of Columbia"	"11"	"95 years"	"95"	"Senile degeneration of brain, not elsewhere classified"	"G31.1"	17	Not Applicable	Not Applicable
+	"District of Columbia"	"11"	"95 years"	"95"	"Atherosclerotic heart disease"	"I25.1"	14	Not Applicable	Not Applicable
+	"District of Columbia"	"11"	"96 years"	"96"	"Unspecified dementia"	"F03"	25	Not Applicable	Not Applicable
+	"District of Columbia"	"11"	"96 years"	"96"	"Alzheimer disease, unspecified"	"G30.9"	23	Not Applicable	Not Applicable
+	"District of Columbia"	"11"	"96 years"	"96"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	13	Not Applicable	Not Applicable
+	"District of Columbia"	"11"	"96 years"	"96"	"Atherosclerotic heart disease"	"I25.1"	10	Not Applicable	Not Applicable
+	"District of Columbia"	"11"	"96 years"	"96"	"Cerebral atherosclerosis"	"I67.2"	11	Not Applicable	Not Applicable
+	"District of Columbia"	"11"	"97 years"	"97"	"Unspecified dementia"	"F03"	22	Not Applicable	Not Applicable
+	"District of Columbia"	"11"	"97 years"	"97"	"Alzheimer disease, unspecified"	"G30.9"	12	Not Applicable	Not Applicable
+	"District of Columbia"	"11"	"97 years"	"97"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	11	Not Applicable	Not Applicable
+	"District of Columbia"	"11"	"97 years"	"97"	"Cerebral atherosclerosis"	"I67.2"	10	Not Applicable	Not Applicable
+	"District of Columbia"	"11"	"98 years"	"98"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	14	Not Applicable	Not Applicable
+	"District of Columbia"	"11"	"99 years"	"99"	"Unspecified dementia"	"F03"	12	Not Applicable	Not Applicable
+	"District of Columbia"	"11"	"99 years"	"99"	"Alzheimer disease, unspecified"	"G30.9"	10	Not Applicable	Not Applicable
+	"District of Columbia"	"11"	"99 years"	"99"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	10	Not Applicable	Not Applicable
+	"District of Columbia"	"11"	"100+ years"	"100"	"Unspecified dementia"	"F03"	42	Not Applicable	Not Applicable
+	"District of Columbia"	"11"	"100+ years"	"100"	"Alzheimer disease, unspecified"	"G30.9"	42	Not Applicable	Not Applicable
+	"District of Columbia"	"11"	"100+ years"	"100"	"Senile degeneration of brain, not elsewhere classified"	"G31.1"	19	Not Applicable	Not Applicable
+	"District of Columbia"	"11"	"100+ years"	"100"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	30	Not Applicable	Not Applicable
+	"District of Columbia"	"11"	"100+ years"	"100"	"Atherosclerotic heart disease"	"I25.1"	13	Not Applicable	Not Applicable
+	"District of Columbia"	"11"	"100+ years"	"100"	"Cerebral atherosclerosis"	"I67.2"	20	Not Applicable	Not Applicable
+"---"
+"Dataset: Underlying Cause of Death, 1999-2020"
+"Query Parameters:"
+"Title: DC CoD F"
+"Gender: Female"
+"States: District of Columbia (11)"
+"Year/Month: 2016; 2017; 2018; 2019; 2020"
+"Group By: State; Single-Year Ages; Cause of death"
+"Show Totals: Disabled"
+"Show Zero Values: Disabled"
+"Show Suppressed: False"
+"Calculate Rates Per: 100,000"
+"Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/ucd.html for more information."
+"---"
+"Query Date: Apr 8, 2022 1:04:36 AM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. Underlying Cause of Death"
+"1999-2020 on CDC WONDER Online Database, released in 2021. Data are from the Multiple Cause of Death Files, 1999-2020, as"
+"compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative Program. Accessed"
+"at http://wonder.cdc.gov/ucd-icd10.html on Apr 8, 2022 1:04:36 AM"
+"---"
+Messages:
+"1. The full results are too long to be displayed. Due to suppression constraints rows that are zero, suppressed or a total will"
+"not be available."
+"---"
+Caveats:
+"1. Population and rates are labeled 'Not Applicable' when they include a subset of ages 85-100+ because populations are not"
+"available for those ages. More information: http://wonder.cdc.gov/wonder/help/ucd.html#Ages 85-100."
+"2. Death rates are flagged as Unreliable when the rate is calculated with a numerator of 20 or less. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Unreliable."
+"3. Deaths of persons with Age ""Not Stated"" are included in ""All"" counts and rates, but are not distributed among age groups,"
+"so are not included in age-specific counts, age-specific rates or in any age-adjusted rates. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Not Stated."
+"4. The population figures for year 2020 are bridged-race estimates of the July 1 resident population, from the Vintage 2020"
+"postcensal series released by NCHS on September 22, 2021. The population figures for year 2019 are bridged-race estimates of the"
+"July 1 resident population, from the Vintage 2019 postcensal series released by NCHS on July 9, 2020. The population figures for"
+"year 2018 are bridged-race estimates of the July 1 resident population, from the Vintage 2018 postcensal series released by NCHS"
+"on June 25, 2019. The population figures for year 2017 are bridged-race estimates of the July 1 resident population, from the"
+"Vintage 2017 postcensal series released by NCHS on June 27, 2018. The population figures for year 2016 are bridged-race"
+"estimates of the July 1 resident population, from the Vintage 2016 postcensal series released by NCHS on June 26, 2017. The"
+"population figures for year 2015 are bridged-race estimates of the July 1 resident population, from the Vintage 2015 postcensal"
+"series released by NCHS on June 28, 2016. The population figures for year 2014 are bridged-race estimates of the July 1 resident"
+"population, from the Vintage 2014 postcensal series released by NCHS on June 30, 2015. The population figures for year 2013 are"
+"bridged-race estimates of the July 1 resident population, from the Vintage 2013 postcensal series released by NCHS on June 26,"
+"2014. The population figures for year 2012 are bridged-race estimates of the July 1 resident population, from the Vintage 2012"
+"postcensal series released by NCHS on June 13, 2013. The population figures for year 2011 are bridged-race estimates of the July"
+"1 resident population, from the Vintage 2011 postcensal series released by NCHS on July 18, 2012. Population figures for 2010"
+"are April 1 Census counts. The population figures for years 2001 - 2009 are bridged-race estimates of the July 1 resident"
+"population, from the revised intercensal county-level 2000 - 2009 series released by NCHS on October 26, 2012. Population"
+"figures for 2000 are April 1 Census counts. Population figures for 1999 are from the 1990-1999 intercensal series of July 1"
+"estimates. Population figures for the infant age groups are the number of live births. <br/><b>Note:</b> Rates and population"
+"figures for years 2001 - 2009 differ slightly from previously published reports, due to use of the population estimates which"
+"were available at the time of release."
+"5. The population figures used in the calculation of death rates for the age group 'under 1 year' are the estimates of the"
+"resident population that is under one year of age. More information: http://wonder.cdc.gov/wonder/help/ucd.html#Age Group."
+"6. Beginning with the 2018 data, changes have been implemented that affect the counts for ICD-10 cause of death codes O00-O99"
+"compared to previous practice. In addition, data for the cause of death codes O00-O99 for 2003 through 2017 reflect differences"
+"in information available to individual states and probable errors. Caution should be used in interpreting these data. More"
+"information can be found at: https://www.cdc.gov/nchs/maternal-mortality/."
+"7. On March 11, 2021, the 2019 mortality data on CDC WONDER was updated with the 2019 mortality data updated by NCHS on March 4,"
+"2021 to include corrected information for residents of Texas affecting 5 records previously coded to cause code *U01.4,"
+"Terrorism involving firearms (homicide). The underlying and multiple cause of death codes for 5 records were corrected in the"
+"2019 data. Underlying and multiple cause of death codes for those 5 records were recoded to Assault (homicide) by other and"
+"unspecified firearm discharge, ICD-10 code X95. The corrected final death records replaces the data released on December 22,"
+"2020."
+"8. Changes to cause of death classification affect reporting trends. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#ICD-10 Changes."

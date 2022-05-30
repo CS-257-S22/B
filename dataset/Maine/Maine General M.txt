@@ -1,0 +1,150 @@
+"Notes"	"State"	"State Code"	"Single-Year Ages"	"Single-Year Ages Code"	Deaths	Population	Crude Rate
+	"Maine"	"23"	"< 1 year"	"0"	182	31840	571.6
+	"Maine"	"23"	"1 year"	"1"	15	32483	Unreliable
+	"Maine"	"23"	"14 years"	"14"	10	38032	Unreliable
+	"Maine"	"23"	"16 years"	"16"	17	39570	Unreliable
+	"Maine"	"23"	"17 years"	"17"	23	40300	57.1
+	"Maine"	"23"	"18 years"	"18"	34	41585	81.8
+	"Maine"	"23"	"19 years"	"19"	50	41997	119.1
+	"Maine"	"23"	"20 years"	"20"	35	40315	86.8
+	"Maine"	"23"	"21 years"	"21"	51	38615	132.1
+	"Maine"	"23"	"22 years"	"22"	59	37999	155.3
+	"Maine"	"23"	"23 years"	"23"	59	37486	157.4
+	"Maine"	"23"	"24 years"	"24"	54	38807	139.2
+	"Maine"	"23"	"25 years"	"25"	70	39651	176.5
+	"Maine"	"23"	"26 years"	"26"	79	40649	194.3
+	"Maine"	"23"	"27 years"	"27"	78	41116	189.7
+	"Maine"	"23"	"28 years"	"28"	87	41421	210.0
+	"Maine"	"23"	"29 years"	"29"	85	41210	206.3
+	"Maine"	"23"	"30 years"	"30"	82	40658	201.7
+	"Maine"	"23"	"31 years"	"31"	101	40612	248.7
+	"Maine"	"23"	"32 years"	"32"	92	39961	230.2
+	"Maine"	"23"	"33 years"	"33"	90	39675	226.8
+	"Maine"	"23"	"34 years"	"34"	94	39091	240.5
+	"Maine"	"23"	"35 years"	"35"	116	38844	298.6
+	"Maine"	"23"	"36 years"	"36"	105	38723	271.2
+	"Maine"	"23"	"37 years"	"37"	126	38693	325.6
+	"Maine"	"23"	"38 years"	"38"	107	38276	279.5
+	"Maine"	"23"	"39 years"	"39"	108	37838	285.4
+	"Maine"	"23"	"40 years"	"40"	101	37384	270.2
+	"Maine"	"23"	"41 years"	"41"	138	36701	376.0
+	"Maine"	"23"	"42 years"	"42"	106	36494	290.5
+	"Maine"	"23"	"43 years"	"43"	120	36801	326.1
+	"Maine"	"23"	"44 years"	"44"	144	37676	382.2
+	"Maine"	"23"	"45 years"	"45"	145	39373	368.3
+	"Maine"	"23"	"46 years"	"46"	162	40935	395.7
+	"Maine"	"23"	"47 years"	"47"	168	42089	399.2
+	"Maine"	"23"	"48 years"	"48"	206	43098	478.0
+	"Maine"	"23"	"49 years"	"49"	225	43892	512.6
+	"Maine"	"23"	"50 years"	"50"	215	44199	486.4
+	"Maine"	"23"	"51 years"	"51"	273	44652	611.4
+	"Maine"	"23"	"52 years"	"52"	291	46069	631.7
+	"Maine"	"23"	"53 years"	"53"	304	47941	634.1
+	"Maine"	"23"	"54 years"	"54"	352	49288	714.2
+	"Maine"	"23"	"55 years"	"55"	424	50902	833.0
+	"Maine"	"23"	"56 years"	"56"	429	51787	828.4
+	"Maine"	"23"	"57 years"	"57"	520	52067	998.7
+	"Maine"	"23"	"58 years"	"58"	504	52174	966.0
+	"Maine"	"23"	"59 years"	"59"	516	52244	987.7
+	"Maine"	"23"	"60 years"	"60"	579	51526	1123.7
+	"Maine"	"23"	"61 years"	"61"	583	50958	1144.1
+	"Maine"	"23"	"62 years"	"62"	656	50504	1298.9
+	"Maine"	"23"	"63 years"	"63"	693	49536	1399.0
+	"Maine"	"23"	"64 years"	"64"	669	48205	1387.8
+	"Maine"	"23"	"65 years"	"65"	693	46809	1480.5
+	"Maine"	"23"	"66 years"	"66"	716	45504	1573.5
+	"Maine"	"23"	"67 years"	"67"	762	44011	1731.4
+	"Maine"	"23"	"68 years"	"68"	801	42921	1866.2
+	"Maine"	"23"	"69 years"	"69"	878	42690	2056.7
+	"Maine"	"23"	"70 years"	"70"	866	39943	2168.1
+	"Maine"	"23"	"71 years"	"71"	893	36968	2415.6
+	"Maine"	"23"	"72 years"	"72"	921	34512	2668.6
+	"Maine"	"23"	"73 years"	"73"	945	31676	2983.3
+	"Maine"	"23"	"74 years"	"74"	903	27858	3241.4
+	"Maine"	"23"	"75 years"	"75"	908	26047	3486.0
+	"Maine"	"23"	"76 years"	"76"	883	23970	3683.8
+	"Maine"	"23"	"77 years"	"77"	957	21787	4392.5
+	"Maine"	"23"	"78 years"	"78"	927	19332	4795.2
+	"Maine"	"23"	"79 years"	"79"	893	17501	5102.6
+	"Maine"	"23"	"80 years"	"80"	974	16115	6044.1
+	"Maine"	"23"	"81 years"	"81"	1033	14888	6938.5
+	"Maine"	"23"	"82 years"	"82"	949	13524	7017.2
+	"Maine"	"23"	"83 years"	"83"	1050	12191	8612.9
+	"Maine"	"23"	"84 years"	"84"	987	11200	8812.5
+	"Maine"	"23"	"85 years"	"85"	1035	Not Applicable	Not Applicable
+	"Maine"	"23"	"86 years"	"86"	1035	Not Applicable	Not Applicable
+	"Maine"	"23"	"87 years"	"87"	989	Not Applicable	Not Applicable
+	"Maine"	"23"	"88 years"	"88"	977	Not Applicable	Not Applicable
+	"Maine"	"23"	"89 years"	"89"	945	Not Applicable	Not Applicable
+	"Maine"	"23"	"90 years"	"90"	860	Not Applicable	Not Applicable
+	"Maine"	"23"	"91 years"	"91"	729	Not Applicable	Not Applicable
+	"Maine"	"23"	"92 years"	"92"	743	Not Applicable	Not Applicable
+	"Maine"	"23"	"93 years"	"93"	535	Not Applicable	Not Applicable
+	"Maine"	"23"	"94 years"	"94"	448	Not Applicable	Not Applicable
+	"Maine"	"23"	"95 years"	"95"	385	Not Applicable	Not Applicable
+	"Maine"	"23"	"96 years"	"96"	299	Not Applicable	Not Applicable
+	"Maine"	"23"	"97 years"	"97"	216	Not Applicable	Not Applicable
+	"Maine"	"23"	"98 years"	"98"	135	Not Applicable	Not Applicable
+	"Maine"	"23"	"99 years"	"99"	94	Not Applicable	Not Applicable
+	"Maine"	"23"	"100+ years"	"100"	136	Not Applicable	Not Applicable
+"Total"	"Maine"	"23"			38103	3281891	1161.0
+"Total"					38103	3281891	1161.0
+"---"
+"Dataset: Underlying Cause of Death, 1999-2020"
+"Query Parameters:"
+"Title: Maine General M"
+"Gender: Male"
+"States: Maine (23)"
+"Year/Month: 2016; 2017; 2018; 2019; 2020"
+"Group By: State; Single-Year Ages"
+"Show Totals: True"
+"Show Zero Values: False"
+"Show Suppressed: False"
+"Calculate Rates Per: 100,000"
+"Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/ucd.html for more information."
+"---"
+"Query Date: Apr 8, 2022 2:35:58 AM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. Underlying Cause of Death"
+"1999-2020 on CDC WONDER Online Database, released in 2021. Data are from the Multiple Cause of Death Files, 1999-2020, as"
+"compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative Program. Accessed"
+"at http://wonder.cdc.gov/ucd-icd10.html on Apr 8, 2022 2:35:58 AM"
+"---"
+Messages:
+"1. Rows with suppressed Deaths are hidden, but the Deaths and Population values in those rows are included in the totals. Use"
+"Quick Options above to show suppressed rows."
+"---"
+Caveats:
+"1. Population and rates are labeled 'Not Applicable' when they include a subset of ages 85-100+ because populations are not"
+"available for those ages. More information: http://wonder.cdc.gov/wonder/help/ucd.html#Ages 85-100."
+"2. Data are Suppressed when the data meet the criteria for confidentiality constraints. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Assurance of Confidentiality."
+"3. Death rates are flagged as Unreliable when the rate is calculated with a numerator of 20 or less. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Unreliable."
+"4. Deaths of persons with Age ""Not Stated"" are included in ""All"" counts and rates, but are not distributed among age groups,"
+"so are not included in age-specific counts, age-specific rates or in any age-adjusted rates. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Not Stated."
+"5. The population figures for year 2020 are bridged-race estimates of the July 1 resident population, from the Vintage 2020"
+"postcensal series released by NCHS on September 22, 2021. The population figures for year 2019 are bridged-race estimates of the"
+"July 1 resident population, from the Vintage 2019 postcensal series released by NCHS on July 9, 2020. The population figures for"
+"year 2018 are bridged-race estimates of the July 1 resident population, from the Vintage 2018 postcensal series released by NCHS"
+"on June 25, 2019. The population figures for year 2017 are bridged-race estimates of the July 1 resident population, from the"
+"Vintage 2017 postcensal series released by NCHS on June 27, 2018. The population figures for year 2016 are bridged-race"
+"estimates of the July 1 resident population, from the Vintage 2016 postcensal series released by NCHS on June 26, 2017. The"
+"population figures for year 2015 are bridged-race estimates of the July 1 resident population, from the Vintage 2015 postcensal"
+"series released by NCHS on June 28, 2016. The population figures for year 2014 are bridged-race estimates of the July 1 resident"
+"population, from the Vintage 2014 postcensal series released by NCHS on June 30, 2015. The population figures for year 2013 are"
+"bridged-race estimates of the July 1 resident population, from the Vintage 2013 postcensal series released by NCHS on June 26,"
+"2014. The population figures for year 2012 are bridged-race estimates of the July 1 resident population, from the Vintage 2012"
+"postcensal series released by NCHS on June 13, 2013. The population figures for year 2011 are bridged-race estimates of the July"
+"1 resident population, from the Vintage 2011 postcensal series released by NCHS on July 18, 2012. Population figures for 2010"
+"are April 1 Census counts. The population figures for years 2001 - 2009 are bridged-race estimates of the July 1 resident"
+"population, from the revised intercensal county-level 2000 - 2009 series released by NCHS on October 26, 2012. Population"
+"figures for 2000 are April 1 Census counts. Population figures for 1999 are from the 1990-1999 intercensal series of July 1"
+"estimates. Population figures for the infant age groups are the number of live births. <br/><b>Note:</b> Rates and population"
+"figures for years 2001 - 2009 differ slightly from previously published reports, due to use of the population estimates which"
+"were available at the time of release."
+"6. The population figures used in the calculation of death rates for the age group 'under 1 year' are the estimates of the"
+"resident population that is under one year of age. More information: http://wonder.cdc.gov/wonder/help/ucd.html#Age Group."

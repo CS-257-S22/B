@@ -1,0 +1,158 @@
+"Notes"	"State"	"State Code"	"Single-Year Ages"	"Single-Year Ages Code"	Deaths	Population	Crude Rate
+	"Nebraska"	"31"	"< 1 year"	"0"	394	66116	595.9
+	"Nebraska"	"31"	"1 year"	"1"	21	66707	31.5
+	"Nebraska"	"31"	"2 years"	"2"	22	67976	32.4
+	"Nebraska"	"31"	"3 years"	"3"	19	68609	Unreliable
+	"Nebraska"	"31"	"4 years"	"4"	10	68500	Unreliable
+	"Nebraska"	"31"	"8 years"	"8"	12	68016	Unreliable
+	"Nebraska"	"31"	"11 years"	"11"	18	68298	Unreliable
+	"Nebraska"	"31"	"12 years"	"12"	12	68447	Unreliable
+	"Nebraska"	"31"	"13 years"	"13"	11	67881	Unreliable
+	"Nebraska"	"31"	"14 years"	"14"	20	67049	29.8
+	"Nebraska"	"31"	"15 years"	"15"	24	67014	35.8
+	"Nebraska"	"31"	"16 years"	"16"	34	66626	51.0
+	"Nebraska"	"31"	"17 years"	"17"	38	66105	57.5
+	"Nebraska"	"31"	"18 years"	"18"	57	64635	88.2
+	"Nebraska"	"31"	"19 years"	"19"	61	71173	85.7
+	"Nebraska"	"31"	"20 years"	"20"	69	71405	96.6
+	"Nebraska"	"31"	"21 years"	"21"	81	71972	112.5
+	"Nebraska"	"31"	"22 years"	"22"	80	68640	116.6
+	"Nebraska"	"31"	"23 years"	"23"	75	69810	107.4
+	"Nebraska"	"31"	"24 years"	"24"	80	69134	115.7
+	"Nebraska"	"31"	"25 years"	"25"	76	68274	111.3
+	"Nebraska"	"31"	"26 years"	"26"	92	67036	137.2
+	"Nebraska"	"31"	"27 years"	"27"	88	65670	134.0
+	"Nebraska"	"31"	"28 years"	"28"	83	64909	127.9
+	"Nebraska"	"31"	"29 years"	"29"	81	64034	126.5
+	"Nebraska"	"31"	"30 years"	"30"	85	64458	131.9
+	"Nebraska"	"31"	"31 years"	"31"	87	64736	134.4
+	"Nebraska"	"31"	"32 years"	"32"	125	65376	191.2
+	"Nebraska"	"31"	"33 years"	"33"	89	65793	135.3
+	"Nebraska"	"31"	"34 years"	"34"	97	66267	146.4
+	"Nebraska"	"31"	"35 years"	"35"	100	66578	150.2
+	"Nebraska"	"31"	"36 years"	"36"	104	66470	156.5
+	"Nebraska"	"31"	"37 years"	"37"	122	65549	186.1
+	"Nebraska"	"31"	"38 years"	"38"	128	63942	200.2
+	"Nebraska"	"31"	"39 years"	"39"	134	62000	216.1
+	"Nebraska"	"31"	"40 years"	"40"	112	59597	187.9
+	"Nebraska"	"31"	"41 years"	"41"	117	57813	202.4
+	"Nebraska"	"31"	"42 years"	"42"	138	56147	245.8
+	"Nebraska"	"31"	"43 years"	"43"	139	55310	251.3
+	"Nebraska"	"31"	"44 years"	"44"	153	54591	280.3
+	"Nebraska"	"31"	"45 years"	"45"	170	55283	307.5
+	"Nebraska"	"31"	"46 years"	"46"	166	55308	300.1
+	"Nebraska"	"31"	"47 years"	"47"	177	55502	318.9
+	"Nebraska"	"31"	"48 years"	"48"	222	55635	399.0
+	"Nebraska"	"31"	"49 years"	"49"	227	55265	410.7
+	"Nebraska"	"31"	"50 years"	"50"	221	54316	406.9
+	"Nebraska"	"31"	"51 years"	"51"	254	54478	466.2
+	"Nebraska"	"31"	"52 years"	"52"	281	55569	505.7
+	"Nebraska"	"31"	"53 years"	"53"	315	57288	549.9
+	"Nebraska"	"31"	"54 years"	"54"	427	59204	721.2
+	"Nebraska"	"31"	"55 years"	"55"	461	60821	758.0
+	"Nebraska"	"31"	"56 years"	"56"	452	61968	729.4
+	"Nebraska"	"31"	"57 years"	"57"	544	62231	874.2
+	"Nebraska"	"31"	"58 years"	"58"	564	62210	906.6
+	"Nebraska"	"31"	"59 years"	"59"	597	61732	967.1
+	"Nebraska"	"31"	"60 years"	"60"	606	60898	995.1
+	"Nebraska"	"31"	"61 years"	"61"	663	59384	1116.5
+	"Nebraska"	"31"	"62 years"	"62"	682	57816	1179.6
+	"Nebraska"	"31"	"63 years"	"63"	726	55983	1296.8
+	"Nebraska"	"31"	"64 years"	"64"	819	54206	1510.9
+	"Nebraska"	"31"	"65 years"	"65"	819	51952	1576.5
+	"Nebraska"	"31"	"66 years"	"66"	826	49786	1659.1
+	"Nebraska"	"31"	"67 years"	"67"	828	47745	1734.2
+	"Nebraska"	"31"	"68 years"	"68"	846	45856	1844.9
+	"Nebraska"	"31"	"69 years"	"69"	877	44196	1984.3
+	"Nebraska"	"31"	"70 years"	"70"	903	40516	2228.7
+	"Nebraska"	"31"	"71 years"	"71"	980	37530	2611.2
+	"Nebraska"	"31"	"72 years"	"72"	963	34675	2777.2
+	"Nebraska"	"31"	"73 years"	"73"	929	32013	2901.9
+	"Nebraska"	"31"	"74 years"	"74"	976	28614	3410.9
+	"Nebraska"	"31"	"75 years"	"75"	996	26815	3714.3
+	"Nebraska"	"31"	"76 years"	"76"	1032	25085	4114.0
+	"Nebraska"	"31"	"77 years"	"77"	1025	22872	4481.5
+	"Nebraska"	"31"	"78 years"	"78"	1013	20927	4840.6
+	"Nebraska"	"31"	"79 years"	"79"	1060	19432	5454.9
+	"Nebraska"	"31"	"80 years"	"80"	1041	18149	5735.9
+	"Nebraska"	"31"	"81 years"	"81"	1101	17072	6449.2
+	"Nebraska"	"31"	"82 years"	"82"	1190	15485	7684.9
+	"Nebraska"	"31"	"83 years"	"83"	1171	14240	8223.3
+	"Nebraska"	"31"	"84 years"	"84"	1179	12923	9123.3
+	"Nebraska"	"31"	"85 years"	"85"	1184	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"86 years"	"86"	1211	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"87 years"	"87"	1159	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"88 years"	"88"	1201	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"89 years"	"89"	1141	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"90 years"	"90"	1082	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"91 years"	"91"	957	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"92 years"	"92"	965	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"93 years"	"93"	806	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"94 years"	"94"	625	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"95 years"	"95"	495	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"96 years"	"96"	375	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"97 years"	"97"	275	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"98 years"	"98"	179	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"99 years"	"99"	137	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"100+ years"	"100"	185	Not Applicable	Not Applicable
+"Total"	"Nebraska"	"31"			43632	4806446	907.8
+"Total"					43632	4806446	907.8
+"---"
+"Dataset: Underlying Cause of Death, 1999-2020"
+"Query Parameters:"
+"Title: Nebraska General M"
+"Gender: Male"
+"States: Nebraska (31)"
+"Year/Month: 2016; 2017; 2018; 2019; 2020"
+"Group By: State; Single-Year Ages"
+"Show Totals: True"
+"Show Zero Values: False"
+"Show Suppressed: False"
+"Calculate Rates Per: 100,000"
+"Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/ucd.html for more information."
+"---"
+"Query Date: Apr 11, 2022 1:29:08 AM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. Underlying Cause of Death"
+"1999-2020 on CDC WONDER Online Database, released in 2021. Data are from the Multiple Cause of Death Files, 1999-2020, as"
+"compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative Program. Accessed"
+"at http://wonder.cdc.gov/ucd-icd10.html on Apr 11, 2022 1:29:08 AM"
+"---"
+Messages:
+"1. Rows with suppressed Deaths are hidden, but the Deaths and Population values in those rows are included in the totals. Use"
+"Quick Options above to show suppressed rows."
+"---"
+Caveats:
+"1. Population and rates are labeled 'Not Applicable' when they include a subset of ages 85-100+ because populations are not"
+"available for those ages. More information: http://wonder.cdc.gov/wonder/help/ucd.html#Ages 85-100."
+"2. Data are Suppressed when the data meet the criteria for confidentiality constraints. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Assurance of Confidentiality."
+"3. Death rates are flagged as Unreliable when the rate is calculated with a numerator of 20 or less. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Unreliable."
+"4. Deaths of persons with Age ""Not Stated"" are included in ""All"" counts and rates, but are not distributed among age groups,"
+"so are not included in age-specific counts, age-specific rates or in any age-adjusted rates. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Not Stated."
+"5. The population figures for year 2020 are bridged-race estimates of the July 1 resident population, from the Vintage 2020"
+"postcensal series released by NCHS on September 22, 2021. The population figures for year 2019 are bridged-race estimates of the"
+"July 1 resident population, from the Vintage 2019 postcensal series released by NCHS on July 9, 2020. The population figures for"
+"year 2018 are bridged-race estimates of the July 1 resident population, from the Vintage 2018 postcensal series released by NCHS"
+"on June 25, 2019. The population figures for year 2017 are bridged-race estimates of the July 1 resident population, from the"
+"Vintage 2017 postcensal series released by NCHS on June 27, 2018. The population figures for year 2016 are bridged-race"
+"estimates of the July 1 resident population, from the Vintage 2016 postcensal series released by NCHS on June 26, 2017. The"
+"population figures for year 2015 are bridged-race estimates of the July 1 resident population, from the Vintage 2015 postcensal"
+"series released by NCHS on June 28, 2016. The population figures for year 2014 are bridged-race estimates of the July 1 resident"
+"population, from the Vintage 2014 postcensal series released by NCHS on June 30, 2015. The population figures for year 2013 are"
+"bridged-race estimates of the July 1 resident population, from the Vintage 2013 postcensal series released by NCHS on June 26,"
+"2014. The population figures for year 2012 are bridged-race estimates of the July 1 resident population, from the Vintage 2012"
+"postcensal series released by NCHS on June 13, 2013. The population figures for year 2011 are bridged-race estimates of the July"
+"1 resident population, from the Vintage 2011 postcensal series released by NCHS on July 18, 2012. Population figures for 2010"
+"are April 1 Census counts. The population figures for years 2001 - 2009 are bridged-race estimates of the July 1 resident"
+"population, from the revised intercensal county-level 2000 - 2009 series released by NCHS on October 26, 2012. Population"
+"figures for 2000 are April 1 Census counts. Population figures for 1999 are from the 1990-1999 intercensal series of July 1"
+"estimates. Population figures for the infant age groups are the number of live births. <br/><b>Note:</b> Rates and population"
+"figures for years 2001 - 2009 differ slightly from previously published reports, due to use of the population estimates which"
+"were available at the time of release."
+"6. The population figures used in the calculation of death rates for the age group 'under 1 year' are the estimates of the"
+"resident population that is under one year of age. More information: http://wonder.cdc.gov/wonder/help/ucd.html#Age Group."

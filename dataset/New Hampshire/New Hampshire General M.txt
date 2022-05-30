@@ -1,0 +1,150 @@
+"Notes"	"State"	"State Code"	"Single-Year Ages"	"Single-Year Ages Code"	Deaths	Population	Crude Rate
+	"New Hampshire"	"33"	"< 1 year"	"0"	125	31401	398.1
+	"New Hampshire"	"33"	"1 year"	"1"	17	31981	Unreliable
+	"New Hampshire"	"33"	"15 years"	"15"	13	40713	Unreliable
+	"New Hampshire"	"33"	"16 years"	"16"	14	41536	Unreliable
+	"New Hampshire"	"33"	"17 years"	"17"	19	42008	Unreliable
+	"New Hampshire"	"33"	"18 years"	"18"	34	44247	76.8
+	"New Hampshire"	"33"	"19 years"	"19"	36	46789	76.9
+	"New Hampshire"	"33"	"20 years"	"20"	45	47487	94.8
+	"New Hampshire"	"33"	"21 years"	"21"	42	47090	89.2
+	"New Hampshire"	"33"	"22 years"	"22"	61	45587	133.8
+	"New Hampshire"	"33"	"23 years"	"23"	80	43652	183.3
+	"New Hampshire"	"33"	"24 years"	"24"	81	44045	183.9
+	"New Hampshire"	"33"	"25 years"	"25"	77	44371	173.5
+	"New Hampshire"	"33"	"26 years"	"26"	80	44740	178.8
+	"New Hampshire"	"33"	"27 years"	"27"	91	44776	203.2
+	"New Hampshire"	"33"	"28 years"	"28"	100	44210	226.2
+	"New Hampshire"	"33"	"29 years"	"29"	103	44312	232.4
+	"New Hampshire"	"33"	"30 years"	"30"	87	43943	198.0
+	"New Hampshire"	"33"	"31 years"	"31"	111	42855	259.0
+	"New Hampshire"	"33"	"32 years"	"32"	100	42624	234.6
+	"New Hampshire"	"33"	"33 years"	"33"	85	41919	202.8
+	"New Hampshire"	"33"	"34 years"	"34"	110	41346	266.0
+	"New Hampshire"	"33"	"35 years"	"35"	112	40878	274.0
+	"New Hampshire"	"33"	"36 years"	"36"	117	40600	288.2
+	"New Hampshire"	"33"	"37 years"	"37"	108	40285	268.1
+	"New Hampshire"	"33"	"38 years"	"38"	117	39508	296.1
+	"New Hampshire"	"33"	"39 years"	"39"	98	38631	253.7
+	"New Hampshire"	"33"	"40 years"	"40"	94	37690	249.4
+	"New Hampshire"	"33"	"41 years"	"41"	98	37024	264.7
+	"New Hampshire"	"33"	"42 years"	"42"	113	36895	306.3
+	"New Hampshire"	"33"	"43 years"	"43"	111	37365	297.1
+	"New Hampshire"	"33"	"44 years"	"44"	114	38660	294.9
+	"New Hampshire"	"33"	"45 years"	"45"	121	40496	298.8
+	"New Hampshire"	"33"	"46 years"	"46"	147	42771	343.7
+	"New Hampshire"	"33"	"47 years"	"47"	165	44556	370.3
+	"New Hampshire"	"33"	"48 years"	"48"	180	45903	392.1
+	"New Hampshire"	"33"	"49 years"	"49"	210	46929	447.5
+	"New Hampshire"	"33"	"50 years"	"50"	215	47132	456.2
+	"New Hampshire"	"33"	"51 years"	"51"	226	48211	468.8
+	"New Hampshire"	"33"	"52 years"	"52"	291	49458	588.4
+	"New Hampshire"	"33"	"53 years"	"53"	305	51145	596.3
+	"New Hampshire"	"33"	"54 years"	"54"	303	52420	578.0
+	"New Hampshire"	"33"	"55 years"	"55"	358	53749	666.1
+	"New Hampshire"	"33"	"56 years"	"56"	391	54248	720.8
+	"New Hampshire"	"33"	"57 years"	"57"	432	54403	794.1
+	"New Hampshire"	"33"	"58 years"	"58"	437	54303	804.7
+	"New Hampshire"	"33"	"59 years"	"59"	477	53922	884.6
+	"New Hampshire"	"33"	"60 years"	"60"	469	52916	886.3
+	"New Hampshire"	"33"	"61 years"	"61"	511	51636	989.6
+	"New Hampshire"	"33"	"62 years"	"62"	570	49778	1145.1
+	"New Hampshire"	"33"	"63 years"	"63"	566	48143	1175.7
+	"New Hampshire"	"33"	"64 years"	"64"	579	45962	1259.7
+	"New Hampshire"	"33"	"65 years"	"65"	553	44159	1252.3
+	"New Hampshire"	"33"	"66 years"	"66"	589	42023	1401.6
+	"New Hampshire"	"33"	"67 years"	"67"	685	40312	1699.2
+	"New Hampshire"	"33"	"68 years"	"68"	672	39062	1720.3
+	"New Hampshire"	"33"	"69 years"	"69"	699	38300	1825.1
+	"New Hampshire"	"33"	"70 years"	"70"	714	35666	2001.9
+	"New Hampshire"	"33"	"71 years"	"71"	694	32938	2107.0
+	"New Hampshire"	"33"	"72 years"	"72"	726	30547	2376.7
+	"New Hampshire"	"33"	"73 years"	"73"	726	28077	2585.7
+	"New Hampshire"	"33"	"74 years"	"74"	725	24652	2940.9
+	"New Hampshire"	"33"	"75 years"	"75"	774	23065	3355.7
+	"New Hampshire"	"33"	"76 years"	"76"	780	21024	3710.0
+	"New Hampshire"	"33"	"77 years"	"77"	787	19089	4122.8
+	"New Hampshire"	"33"	"78 years"	"78"	762	16862	4519.0
+	"New Hampshire"	"33"	"79 years"	"79"	797	15118	5271.9
+	"New Hampshire"	"33"	"80 years"	"80"	813	13729	5921.8
+	"New Hampshire"	"33"	"81 years"	"81"	800	12728	6285.4
+	"New Hampshire"	"33"	"82 years"	"82"	829	11577	7160.7
+	"New Hampshire"	"33"	"83 years"	"83"	864	10312	8378.6
+	"New Hampshire"	"33"	"84 years"	"84"	889	9599	9261.4
+	"New Hampshire"	"33"	"85 years"	"85"	881	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"86 years"	"86"	911	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"87 years"	"87"	894	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"88 years"	"88"	898	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"89 years"	"89"	825	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"90 years"	"90"	741	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"91 years"	"91"	653	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"92 years"	"92"	564	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"93 years"	"93"	515	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"94 years"	"94"	466	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"95 years"	"95"	337	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"96 years"	"96"	268	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"97 years"	"97"	227	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"98 years"	"98"	171	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"99 years"	"99"	107	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"100+ years"	"100"	133	Not Applicable	Not Applicable
+"Total"	"New Hampshire"	"33"			33076	3348922	987.7
+"Total"					33076	3348922	987.7
+"---"
+"Dataset: Underlying Cause of Death, 1999-2020"
+"Query Parameters:"
+"Title: New Hampshire General M"
+"Gender: Male"
+"States: New Hampshire (33)"
+"Year/Month: 2016; 2017; 2018; 2019; 2020"
+"Group By: State; Single-Year Ages"
+"Show Totals: True"
+"Show Zero Values: False"
+"Show Suppressed: False"
+"Calculate Rates Per: 100,000"
+"Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/ucd.html for more information."
+"---"
+"Query Date: Apr 11, 2022 2:17:26 AM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. Underlying Cause of Death"
+"1999-2020 on CDC WONDER Online Database, released in 2021. Data are from the Multiple Cause of Death Files, 1999-2020, as"
+"compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative Program. Accessed"
+"at http://wonder.cdc.gov/ucd-icd10.html on Apr 11, 2022 2:17:26 AM"
+"---"
+Messages:
+"1. Rows with suppressed Deaths are hidden, but the Deaths and Population values in those rows are included in the totals. Use"
+"Quick Options above to show suppressed rows."
+"---"
+Caveats:
+"1. Population and rates are labeled 'Not Applicable' when they include a subset of ages 85-100+ because populations are not"
+"available for those ages. More information: http://wonder.cdc.gov/wonder/help/ucd.html#Ages 85-100."
+"2. Data are Suppressed when the data meet the criteria for confidentiality constraints. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Assurance of Confidentiality."
+"3. Death rates are flagged as Unreliable when the rate is calculated with a numerator of 20 or less. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Unreliable."
+"4. Deaths of persons with Age ""Not Stated"" are included in ""All"" counts and rates, but are not distributed among age groups,"
+"so are not included in age-specific counts, age-specific rates or in any age-adjusted rates. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Not Stated."
+"5. The population figures for year 2020 are bridged-race estimates of the July 1 resident population, from the Vintage 2020"
+"postcensal series released by NCHS on September 22, 2021. The population figures for year 2019 are bridged-race estimates of the"
+"July 1 resident population, from the Vintage 2019 postcensal series released by NCHS on July 9, 2020. The population figures for"
+"year 2018 are bridged-race estimates of the July 1 resident population, from the Vintage 2018 postcensal series released by NCHS"
+"on June 25, 2019. The population figures for year 2017 are bridged-race estimates of the July 1 resident population, from the"
+"Vintage 2017 postcensal series released by NCHS on June 27, 2018. The population figures for year 2016 are bridged-race"
+"estimates of the July 1 resident population, from the Vintage 2016 postcensal series released by NCHS on June 26, 2017. The"
+"population figures for year 2015 are bridged-race estimates of the July 1 resident population, from the Vintage 2015 postcensal"
+"series released by NCHS on June 28, 2016. The population figures for year 2014 are bridged-race estimates of the July 1 resident"
+"population, from the Vintage 2014 postcensal series released by NCHS on June 30, 2015. The population figures for year 2013 are"
+"bridged-race estimates of the July 1 resident population, from the Vintage 2013 postcensal series released by NCHS on June 26,"
+"2014. The population figures for year 2012 are bridged-race estimates of the July 1 resident population, from the Vintage 2012"
+"postcensal series released by NCHS on June 13, 2013. The population figures for year 2011 are bridged-race estimates of the July"
+"1 resident population, from the Vintage 2011 postcensal series released by NCHS on July 18, 2012. Population figures for 2010"
+"are April 1 Census counts. The population figures for years 2001 - 2009 are bridged-race estimates of the July 1 resident"
+"population, from the revised intercensal county-level 2000 - 2009 series released by NCHS on October 26, 2012. Population"
+"figures for 2000 are April 1 Census counts. Population figures for 1999 are from the 1990-1999 intercensal series of July 1"
+"estimates. Population figures for the infant age groups are the number of live births. <br/><b>Note:</b> Rates and population"
+"figures for years 2001 - 2009 differ slightly from previously published reports, due to use of the population estimates which"
+"were available at the time of release."
+"6. The population figures used in the calculation of death rates for the age group 'under 1 year' are the estimates of the"
+"resident population that is under one year of age. More information: http://wonder.cdc.gov/wonder/help/ucd.html#Age Group."

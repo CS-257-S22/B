@@ -1,0 +1,162 @@
+"Notes"	"State"	"State Code"	"Single-Year Ages"	"Single-Year Ages Code"	Deaths	Population	Crude Rate
+	"Kentucky"	"21"	"< 1 year"	"0"	909	137538	660.9
+	"Kentucky"	"21"	"1 year"	"1"	69	139846	49.3
+	"Kentucky"	"21"	"2 years"	"2"	46	141004	32.6
+	"Kentucky"	"21"	"3 years"	"3"	34	142130	23.9
+	"Kentucky"	"21"	"4 years"	"4"	20	142297	14.1
+	"Kentucky"	"21"	"5 years"	"5"	26	142618	18.2
+	"Kentucky"	"21"	"6 years"	"6"	17	142397	Unreliable
+	"Kentucky"	"21"	"7 years"	"7"	22	141686	15.5
+	"Kentucky"	"21"	"8 years"	"8"	22	142381	15.5
+	"Kentucky"	"21"	"9 years"	"9"	20	143213	14.0
+	"Kentucky"	"21"	"10 years"	"10"	23	143942	16.0
+	"Kentucky"	"21"	"11 years"	"11"	30	144569	20.8
+	"Kentucky"	"21"	"12 years"	"12"	24	145450	16.5
+	"Kentucky"	"21"	"13 years"	"13"	31	145510	21.3
+	"Kentucky"	"21"	"14 years"	"14"	55	144741	38.0
+	"Kentucky"	"21"	"15 years"	"15"	78	145298	53.7
+	"Kentucky"	"21"	"16 years"	"16"	77	146333	52.6
+	"Kentucky"	"21"	"17 years"	"17"	135	147993	91.2
+	"Kentucky"	"21"	"18 years"	"18"	167	146354	114.1
+	"Kentucky"	"21"	"19 years"	"19"	195	149049	130.8
+	"Kentucky"	"21"	"20 years"	"20"	171	153451	111.4
+	"Kentucky"	"21"	"21 years"	"21"	258	153924	167.6
+	"Kentucky"	"21"	"22 years"	"22"	241	156253	154.2
+	"Kentucky"	"21"	"23 years"	"23"	294	158302	185.7
+	"Kentucky"	"21"	"24 years"	"24"	280	158619	176.5
+	"Kentucky"	"21"	"25 years"	"25"	292	160953	181.4
+	"Kentucky"	"21"	"26 years"	"26"	323	159094	203.0
+	"Kentucky"	"21"	"27 years"	"27"	342	157192	217.6
+	"Kentucky"	"21"	"28 years"	"28"	348	154279	225.6
+	"Kentucky"	"21"	"29 years"	"29"	360	148893	241.8
+	"Kentucky"	"21"	"30 years"	"30"	372	145637	255.4
+	"Kentucky"	"21"	"31 years"	"31"	356	140833	252.8
+	"Kentucky"	"21"	"32 years"	"32"	427	138720	307.8
+	"Kentucky"	"21"	"33 years"	"33"	420	138464	303.3
+	"Kentucky"	"21"	"34 years"	"34"	452	138416	326.6
+	"Kentucky"	"21"	"35 years"	"35"	485	138657	349.8
+	"Kentucky"	"21"	"36 years"	"36"	484	140244	345.1
+	"Kentucky"	"21"	"37 years"	"37"	527	140968	373.8
+	"Kentucky"	"21"	"38 years"	"38"	523	140355	372.6
+	"Kentucky"	"21"	"39 years"	"39"	577	139665	413.1
+	"Kentucky"	"21"	"40 years"	"40"	615	137720	446.6
+	"Kentucky"	"21"	"41 years"	"41"	563	135572	415.3
+	"Kentucky"	"21"	"42 years"	"42"	647	133870	483.3
+	"Kentucky"	"21"	"43 years"	"43"	615	132952	462.6
+	"Kentucky"	"21"	"44 years"	"44"	643	134780	477.1
+	"Kentucky"	"21"	"45 years"	"45"	717	138327	518.3
+	"Kentucky"	"21"	"46 years"	"46"	766	140585	544.9
+	"Kentucky"	"21"	"47 years"	"47"	851	142485	597.3
+	"Kentucky"	"21"	"48 years"	"48"	883	142539	619.5
+	"Kentucky"	"21"	"49 years"	"49"	977	141977	688.1
+	"Kentucky"	"21"	"50 years"	"50"	1085	139660	776.9
+	"Kentucky"	"21"	"51 years"	"51"	1176	140953	834.3
+	"Kentucky"	"21"	"52 years"	"52"	1316	143012	920.2
+	"Kentucky"	"21"	"53 years"	"53"	1392	146441	950.6
+	"Kentucky"	"21"	"54 years"	"54"	1538	148630	1034.8
+	"Kentucky"	"21"	"55 years"	"55"	1751	150164	1166.1
+	"Kentucky"	"21"	"56 years"	"56"	1857	150551	1233.5
+	"Kentucky"	"21"	"57 years"	"57"	1968	149644	1315.1
+	"Kentucky"	"21"	"58 years"	"58"	2177	148278	1468.2
+	"Kentucky"	"21"	"59 years"	"59"	2173	146859	1479.7
+	"Kentucky"	"21"	"60 years"	"60"	2292	144498	1586.2
+	"Kentucky"	"21"	"61 years"	"61"	2445	141607	1726.6
+	"Kentucky"	"21"	"62 years"	"62"	2651	138245	1917.6
+	"Kentucky"	"21"	"63 years"	"63"	2657	133890	1984.5
+	"Kentucky"	"21"	"64 years"	"64"	2640	129373	2040.6
+	"Kentucky"	"21"	"65 years"	"65"	2653	124877	2124.5
+	"Kentucky"	"21"	"66 years"	"66"	2797	120063	2329.6
+	"Kentucky"	"21"	"67 years"	"67"	2843	115816	2454.8
+	"Kentucky"	"21"	"68 years"	"68"	2914	112398	2592.6
+	"Kentucky"	"21"	"69 years"	"69"	3045	110657	2751.7
+	"Kentucky"	"21"	"70 years"	"70"	3185	102773	3099.1
+	"Kentucky"	"21"	"71 years"	"71"	3139	95236	3296.0
+	"Kentucky"	"21"	"72 years"	"72"	3161	87510	3612.2
+	"Kentucky"	"21"	"73 years"	"73"	3213	81005	3966.4
+	"Kentucky"	"21"	"74 years"	"74"	3068	71932	4265.1
+	"Kentucky"	"21"	"75 years"	"75"	3138	67383	4657.0
+	"Kentucky"	"21"	"76 years"	"76"	3162	62625	5049.1
+	"Kentucky"	"21"	"77 years"	"77"	3232	57496	5621.3
+	"Kentucky"	"21"	"78 years"	"78"	3146	52314	6013.7
+	"Kentucky"	"21"	"79 years"	"79"	3052	47173	6469.8
+	"Kentucky"	"21"	"80 years"	"80"	3007	43041	6986.4
+	"Kentucky"	"21"	"81 years"	"81"	3070	38648	7943.5
+	"Kentucky"	"21"	"82 years"	"82"	2910	34608	8408.5
+	"Kentucky"	"21"	"83 years"	"83"	2820	30388	9280.0
+	"Kentucky"	"21"	"84 years"	"84"	2898	27190	10658.3
+	"Kentucky"	"21"	"85 years"	"85"	2723	Not Applicable	Not Applicable
+	"Kentucky"	"21"	"86 years"	"86"	2663	Not Applicable	Not Applicable
+	"Kentucky"	"21"	"87 years"	"87"	2460	Not Applicable	Not Applicable
+	"Kentucky"	"21"	"88 years"	"88"	2448	Not Applicable	Not Applicable
+	"Kentucky"	"21"	"89 years"	"89"	2173	Not Applicable	Not Applicable
+	"Kentucky"	"21"	"90 years"	"90"	1982	Not Applicable	Not Applicable
+	"Kentucky"	"21"	"91 years"	"91"	1678	Not Applicable	Not Applicable
+	"Kentucky"	"21"	"92 years"	"92"	1530	Not Applicable	Not Applicable
+	"Kentucky"	"21"	"93 years"	"93"	1271	Not Applicable	Not Applicable
+	"Kentucky"	"21"	"94 years"	"94"	961	Not Applicable	Not Applicable
+	"Kentucky"	"21"	"95 years"	"95"	785	Not Applicable	Not Applicable
+	"Kentucky"	"21"	"96 years"	"96"	598	Not Applicable	Not Applicable
+	"Kentucky"	"21"	"97 years"	"97"	401	Not Applicable	Not Applicable
+	"Kentucky"	"21"	"98 years"	"98"	272	Not Applicable	Not Applicable
+	"Kentucky"	"21"	"99 years"	"99"	164	Not Applicable	Not Applicable
+	"Kentucky"	"21"	"100+ years"	"100"	271	Not Applicable	Not Applicable
+"---"
+"Dataset: Underlying Cause of Death, 1999-2020"
+"Query Parameters:"
+"Title: Kentucky General M"
+"Gender: Male"
+"States: Kentucky (21)"
+"Year/Month: 2016; 2017; 2018; 2019; 2020"
+"Group By: State; Single-Year Ages"
+"Show Totals: Disabled"
+"Show Zero Values: False"
+"Show Suppressed: False"
+"Calculate Rates Per: 100,000"
+"Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/ucd.html for more information."
+"---"
+"Query Date: Apr 8, 2022 2:26:57 AM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. Underlying Cause of Death"
+"1999-2020 on CDC WONDER Online Database, released in 2021. Data are from the Multiple Cause of Death Files, 1999-2020, as"
+"compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative Program. Accessed"
+"at http://wonder.cdc.gov/ucd-icd10.html on Apr 8, 2022 2:26:57 AM"
+"---"
+Messages:
+"1. Totals are not available for these results due to suppression constraints. More Information:"
+"http://wonder.cdc.gov/wonder/help/faq.html#Privacy."
+"2. Rows with suppressed Deaths are hidden. Use Quick Options above to show suppressed rows."
+"---"
+Caveats:
+"1. Population and rates are labeled 'Not Applicable' when they include a subset of ages 85-100+ because populations are not"
+"available for those ages. More information: http://wonder.cdc.gov/wonder/help/ucd.html#Ages 85-100."
+"2. Data are Suppressed when the data meet the criteria for confidentiality constraints. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Assurance of Confidentiality."
+"3. Death rates are flagged as Unreliable when the rate is calculated with a numerator of 20 or less. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Unreliable."
+"4. Deaths of persons with Age ""Not Stated"" are included in ""All"" counts and rates, but are not distributed among age groups,"
+"so are not included in age-specific counts, age-specific rates or in any age-adjusted rates. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Not Stated."
+"5. The population figures for year 2020 are bridged-race estimates of the July 1 resident population, from the Vintage 2020"
+"postcensal series released by NCHS on September 22, 2021. The population figures for year 2019 are bridged-race estimates of the"
+"July 1 resident population, from the Vintage 2019 postcensal series released by NCHS on July 9, 2020. The population figures for"
+"year 2018 are bridged-race estimates of the July 1 resident population, from the Vintage 2018 postcensal series released by NCHS"
+"on June 25, 2019. The population figures for year 2017 are bridged-race estimates of the July 1 resident population, from the"
+"Vintage 2017 postcensal series released by NCHS on June 27, 2018. The population figures for year 2016 are bridged-race"
+"estimates of the July 1 resident population, from the Vintage 2016 postcensal series released by NCHS on June 26, 2017. The"
+"population figures for year 2015 are bridged-race estimates of the July 1 resident population, from the Vintage 2015 postcensal"
+"series released by NCHS on June 28, 2016. The population figures for year 2014 are bridged-race estimates of the July 1 resident"
+"population, from the Vintage 2014 postcensal series released by NCHS on June 30, 2015. The population figures for year 2013 are"
+"bridged-race estimates of the July 1 resident population, from the Vintage 2013 postcensal series released by NCHS on June 26,"
+"2014. The population figures for year 2012 are bridged-race estimates of the July 1 resident population, from the Vintage 2012"
+"postcensal series released by NCHS on June 13, 2013. The population figures for year 2011 are bridged-race estimates of the July"
+"1 resident population, from the Vintage 2011 postcensal series released by NCHS on July 18, 2012. Population figures for 2010"
+"are April 1 Census counts. The population figures for years 2001 - 2009 are bridged-race estimates of the July 1 resident"
+"population, from the revised intercensal county-level 2000 - 2009 series released by NCHS on October 26, 2012. Population"
+"figures for 2000 are April 1 Census counts. Population figures for 1999 are from the 1990-1999 intercensal series of July 1"
+"estimates. Population figures for the infant age groups are the number of live births. <br/><b>Note:</b> Rates and population"
+"figures for years 2001 - 2009 differ slightly from previously published reports, due to use of the population estimates which"
+"were available at the time of release."
+"6. The population figures used in the calculation of death rates for the age group 'under 1 year' are the estimates of the"
+"resident population that is under one year of age. More information: http://wonder.cdc.gov/wonder/help/ucd.html#Age Group."

@@ -1,0 +1,1618 @@
+"Notes"	"State"	"State Code"	"Single-Year Ages"	"Single-Year Ages Code"	"Cause of death"	"Cause of death Code"	Deaths	Population	Crude Rate
+	"Mississippi"	"28"	"< 1 year"	"0"	"Newborn affected by other forms of placental separation and haemorrhage"	"P02.1"	16	88664	Unreliable
+	"Mississippi"	"28"	"< 1 year"	"0"	"Extreme immaturity"	"P07.2"	105	88664	118.4
+	"Mississippi"	"28"	"< 1 year"	"0"	"Other preterm infants"	"P07.3"	31	88664	35.0
+	"Mississippi"	"28"	"< 1 year"	"0"	"Neonatal cardiac dysrhythmia"	"P29.1"	12	88664	Unreliable
+	"Mississippi"	"28"	"< 1 year"	"0"	"Condition originating in the perinatal period, unspecified"	"P96.9"	11	88664	Unreliable
+	"Mississippi"	"28"	"< 1 year"	"0"	"Anencephaly"	"Q00.0"	10	88664	Unreliable
+	"Mississippi"	"28"	"< 1 year"	"0"	"Hypoplastic left heart syndrome"	"Q23.4"	15	88664	Unreliable
+	"Mississippi"	"28"	"< 1 year"	"0"	"Hypoplasia and dysplasia of lung"	"Q33.6"	10	88664	Unreliable
+	"Mississippi"	"28"	"< 1 year"	"0"	"Congenital diaphragmatic hernia"	"Q79.0"	11	88664	Unreliable
+	"Mississippi"	"28"	"< 1 year"	"0"	"Edwards syndrome, unspecified"	"Q91.3"	12	88664	Unreliable
+	"Mississippi"	"28"	"< 1 year"	"0"	"Sudden infant death syndrome - SIDS"	"R95"	40	88664	45.1
+	"Mississippi"	"28"	"< 1 year"	"0"	"Other ill-defined and unspecified causes of mortality"	"R99"	93	88664	104.9
+	"Mississippi"	"28"	"< 1 year"	"0"	"Accidental suffocation and strangulation in bed"	"W75"	17	88664	Unreliable
+	"Mississippi"	"28"	"18 years"	"18"	"Person injured in unspecified motor-vehicle accident, traffic"	"V89.2"	10	99516	Unreliable
+	"Mississippi"	"28"	"25 years"	"25"	"Person injured in unspecified motor-vehicle accident, traffic"	"V89.2"	10	103017	Unreliable
+	"Mississippi"	"28"	"27 years"	"27"	"Person injured in unspecified motor-vehicle accident, traffic"	"V89.2"	10	103833	Unreliable
+	"Mississippi"	"28"	"27 years"	"27"	"Assault by other and unspecified firearm discharge"	"X95"	10	103833	Unreliable
+	"Mississippi"	"28"	"29 years"	"29"	"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X44"	11	100221	Unreliable
+	"Mississippi"	"28"	"31 years"	"31"	"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X44"	10	95716	Unreliable
+	"Mississippi"	"28"	"32 years"	"32"	"Person injured in unspecified motor-vehicle accident, traffic"	"V89.2"	11	94255	Unreliable
+	"Mississippi"	"28"	"32 years"	"32"	"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X44"	10	94255	Unreliable
+	"Mississippi"	"28"	"32 years"	"32"	"Assault by other and unspecified firearm discharge"	"X95"	13	94255	Unreliable
+	"Mississippi"	"28"	"35 years"	"35"	"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X44"	10	96572	Unreliable
+	"Mississippi"	"28"	"37 years"	"37"	"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X44"	11	97377	Unreliable
+	"Mississippi"	"28"	"37 years"	"37"	"Assault by other and unspecified firearm discharge"	"X95"	10	97377	Unreliable
+	"Mississippi"	"28"	"38 years"	"38"	"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X44"	12	96483	Unreliable
+	"Mississippi"	"28"	"39 years"	"39"	"Acute myocardial infarction, unspecified"	"I21.9"	11	95429	Unreliable
+	"Mississippi"	"28"	"39 years"	"39"	"Person injured in unspecified motor-vehicle accident, traffic"	"V89.2"	10	95429	Unreliable
+	"Mississippi"	"28"	"39 years"	"39"	"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X44"	11	95429	Unreliable
+	"Mississippi"	"28"	"40 years"	"40"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	16	93453	Unreliable
+	"Mississippi"	"28"	"41 years"	"41"	"Acute myocardial infarction, unspecified"	"I21.9"	13	91808	Unreliable
+	"Mississippi"	"28"	"41 years"	"41"	"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X44"	11	91808	Unreliable
+	"Mississippi"	"28"	"42 years"	"42"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	19	90715	Unreliable
+	"Mississippi"	"28"	"42 years"	"42"	"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X44"	14	90715	Unreliable
+	"Mississippi"	"28"	"43 years"	"43"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	14	90472	Unreliable
+	"Mississippi"	"28"	"43 years"	"43"	"Acute myocardial infarction, unspecified"	"I21.9"	19	90472	Unreliable
+	"Mississippi"	"28"	"44 years"	"44"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	19	91051	Unreliable
+	"Mississippi"	"28"	"44 years"	"44"	"Acute myocardial infarction, unspecified"	"I21.9"	20	91051	22.0
+	"Mississippi"	"28"	"44 years"	"44"	"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X44"	10	91051	Unreliable
+	"Mississippi"	"28"	"45 years"	"45"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	19	93402	Unreliable
+	"Mississippi"	"28"	"45 years"	"45"	"Acute myocardial infarction, unspecified"	"I21.9"	20	93402	21.4
+	"Mississippi"	"28"	"45 years"	"45"	"COVID-19"	"U07.1"	13	93402	Unreliable
+	"Mississippi"	"28"	"45 years"	"45"	"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X44"	14	93402	Unreliable
+	"Mississippi"	"28"	"46 years"	"46"	"Septicaemia, unspecified"	"A41.9"	11	94808	Unreliable
+	"Mississippi"	"28"	"46 years"	"46"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	23	94808	24.3
+	"Mississippi"	"28"	"46 years"	"46"	"Acute myocardial infarction, unspecified"	"I21.9"	23	94808	24.3
+	"Mississippi"	"28"	"46 years"	"46"	"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X44"	12	94808	Unreliable
+	"Mississippi"	"28"	"47 years"	"47"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	13	95671	Unreliable
+	"Mississippi"	"28"	"47 years"	"47"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	30	95671	31.4
+	"Mississippi"	"28"	"47 years"	"47"	"Cervix uteri, unspecified - Malignant neoplasms"	"C53.9"	10	95671	Unreliable
+	"Mississippi"	"28"	"47 years"	"47"	"Acute myocardial infarction, unspecified"	"I21.9"	21	95671	22.0
+	"Mississippi"	"28"	"47 years"	"47"	"COVID-19"	"U07.1"	10	95671	Unreliable
+	"Mississippi"	"28"	"47 years"	"47"	"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X44"	11	95671	Unreliable
+	"Mississippi"	"28"	"48 years"	"48"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	16	95336	Unreliable
+	"Mississippi"	"28"	"48 years"	"48"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	26	95336	27.3
+	"Mississippi"	"28"	"48 years"	"48"	"Unspecified diabetes mellitus, without complications"	"E14.9"	12	95336	Unreliable
+	"Mississippi"	"28"	"48 years"	"48"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	14	95336	Unreliable
+	"Mississippi"	"28"	"48 years"	"48"	"Acute myocardial infarction, unspecified"	"I21.9"	28	95336	29.4
+	"Mississippi"	"28"	"48 years"	"48"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	13	95336	Unreliable
+	"Mississippi"	"28"	"48 years"	"48"	"Other and unspecified cirrhosis of liver"	"K74.6"	16	95336	Unreliable
+	"Mississippi"	"28"	"48 years"	"48"	"COVID-19"	"U07.1"	14	95336	Unreliable
+	"Mississippi"	"28"	"49 years"	"49"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	20	94635	21.1
+	"Mississippi"	"28"	"49 years"	"49"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	18	94635	Unreliable
+	"Mississippi"	"28"	"49 years"	"49"	"Unspecified diabetes mellitus, with renal complications"	"E14.2"	10	94635	Unreliable
+	"Mississippi"	"28"	"49 years"	"49"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	10	94635	Unreliable
+	"Mississippi"	"28"	"49 years"	"49"	"Acute myocardial infarction, unspecified"	"I21.9"	31	94635	32.8
+	"Mississippi"	"28"	"49 years"	"49"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	10	94635	Unreliable
+	"Mississippi"	"28"	"49 years"	"49"	"Alcoholic cirrhosis of liver"	"K70.3"	11	94635	Unreliable
+	"Mississippi"	"28"	"49 years"	"49"	"COVID-19"	"U07.1"	14	94635	Unreliable
+	"Mississippi"	"28"	"49 years"	"49"	"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X44"	12	94635	Unreliable
+	"Mississippi"	"28"	"50 years"	"50"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	10	93285	Unreliable
+	"Mississippi"	"28"	"50 years"	"50"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	25	93285	26.8
+	"Mississippi"	"28"	"50 years"	"50"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	21	93285	22.5
+	"Mississippi"	"28"	"50 years"	"50"	"Acute myocardial infarction, unspecified"	"I21.9"	29	93285	31.1
+	"Mississippi"	"28"	"50 years"	"50"	"Stroke, not specified as haemorrhage or infarction"	"I64"	10	93285	Unreliable
+	"Mississippi"	"28"	"50 years"	"50"	"COVID-19"	"U07.1"	15	93285	Unreliable
+	"Mississippi"	"28"	"50 years"	"50"	"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X44"	11	93285	Unreliable
+	"Mississippi"	"28"	"51 years"	"51"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	15	93788	Unreliable
+	"Mississippi"	"28"	"51 years"	"51"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	28	93788	29.9
+	"Mississippi"	"28"	"51 years"	"51"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	30	93788	32.0
+	"Mississippi"	"28"	"51 years"	"51"	"Malignant neoplasm without specification of site"	"C80"	11	93788	Unreliable
+	"Mississippi"	"28"	"51 years"	"51"	"Unspecified diabetes mellitus, without complications"	"E14.9"	15	93788	Unreliable
+	"Mississippi"	"28"	"51 years"	"51"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	12	93788	Unreliable
+	"Mississippi"	"28"	"51 years"	"51"	"Acute myocardial infarction, unspecified"	"I21.9"	40	93788	42.6
+	"Mississippi"	"28"	"51 years"	"51"	"Stroke, not specified as haemorrhage or infarction"	"I64"	14	93788	Unreliable
+	"Mississippi"	"28"	"51 years"	"51"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	14	93788	Unreliable
+	"Mississippi"	"28"	"51 years"	"51"	"COVID-19"	"U07.1"	13	93788	Unreliable
+	"Mississippi"	"28"	"52 years"	"52"	"Septicaemia, unspecified"	"A41.9"	10	95744	Unreliable
+	"Mississippi"	"28"	"52 years"	"52"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	14	95744	Unreliable
+	"Mississippi"	"28"	"52 years"	"52"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	37	95744	38.6
+	"Mississippi"	"28"	"52 years"	"52"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	44	95744	46.0
+	"Mississippi"	"28"	"52 years"	"52"	"Malignant neoplasm of ovary"	"C56"	10	95744	Unreliable
+	"Mississippi"	"28"	"52 years"	"52"	"Unspecified diabetes mellitus, without complications"	"E14.9"	15	95744	Unreliable
+	"Mississippi"	"28"	"52 years"	"52"	"Essential (primary) hypertension"	"I10"	10	95744	Unreliable
+	"Mississippi"	"28"	"52 years"	"52"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	16	95744	Unreliable
+	"Mississippi"	"28"	"52 years"	"52"	"Acute myocardial infarction, unspecified"	"I21.9"	36	95744	37.6
+	"Mississippi"	"28"	"52 years"	"52"	"Congestive heart failure"	"I50.0"	12	95744	Unreliable
+	"Mississippi"	"28"	"52 years"	"52"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	22	95744	23.0
+	"Mississippi"	"28"	"52 years"	"52"	"Other and unspecified cirrhosis of liver"	"K74.6"	12	95744	Unreliable
+	"Mississippi"	"28"	"52 years"	"52"	"COVID-19"	"U07.1"	11	95744	Unreliable
+	"Mississippi"	"28"	"53 years"	"53"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	12	97770	Unreliable
+	"Mississippi"	"28"	"53 years"	"53"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	10	97770	Unreliable
+	"Mississippi"	"28"	"53 years"	"53"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	30	97770	30.7
+	"Mississippi"	"28"	"53 years"	"53"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	35	97770	35.8
+	"Mississippi"	"28"	"53 years"	"53"	"Malignant neoplasm of ovary"	"C56"	10	97770	Unreliable
+	"Mississippi"	"28"	"53 years"	"53"	"Unspecified diabetes mellitus, without complications"	"E14.9"	22	97770	22.5
+	"Mississippi"	"28"	"53 years"	"53"	"Essential (primary) hypertension"	"I10"	10	97770	Unreliable
+	"Mississippi"	"28"	"53 years"	"53"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	19	97770	Unreliable
+	"Mississippi"	"28"	"53 years"	"53"	"Acute myocardial infarction, unspecified"	"I21.9"	53	97770	54.2
+	"Mississippi"	"28"	"53 years"	"53"	"Congestive heart failure"	"I50.0"	13	97770	Unreliable
+	"Mississippi"	"28"	"53 years"	"53"	"Stroke, not specified as haemorrhage or infarction"	"I64"	11	97770	Unreliable
+	"Mississippi"	"28"	"53 years"	"53"	"Pneumonia, unspecified"	"J18.9"	16	97770	Unreliable
+	"Mississippi"	"28"	"53 years"	"53"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	26	97770	26.6
+	"Mississippi"	"28"	"53 years"	"53"	"COVID-19"	"U07.1"	16	97770	Unreliable
+	"Mississippi"	"28"	"53 years"	"53"	"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X44"	14	97770	Unreliable
+	"Mississippi"	"28"	"54 years"	"54"	"Septicaemia, unspecified"	"A41.9"	13	100010	Unreliable
+	"Mississippi"	"28"	"54 years"	"54"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	11	100010	Unreliable
+	"Mississippi"	"28"	"54 years"	"54"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	11	100010	Unreliable
+	"Mississippi"	"28"	"54 years"	"54"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	40	100010	40.0
+	"Mississippi"	"28"	"54 years"	"54"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	28	100010	28.0
+	"Mississippi"	"28"	"54 years"	"54"	"Unspecified diabetes mellitus, with renal complications"	"E14.2"	10	100010	Unreliable
+	"Mississippi"	"28"	"54 years"	"54"	"Unspecified diabetes mellitus, without complications"	"E14.9"	19	100010	Unreliable
+	"Mississippi"	"28"	"54 years"	"54"	"Essential (primary) hypertension"	"I10"	11	100010	Unreliable
+	"Mississippi"	"28"	"54 years"	"54"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	12	100010	Unreliable
+	"Mississippi"	"28"	"54 years"	"54"	"Acute myocardial infarction, unspecified"	"I21.9"	49	100010	49.0
+	"Mississippi"	"28"	"54 years"	"54"	"Atherosclerotic heart disease"	"I25.1"	13	100010	Unreliable
+	"Mississippi"	"28"	"54 years"	"54"	"Congestive heart failure"	"I50.0"	16	100010	Unreliable
+	"Mississippi"	"28"	"54 years"	"54"	"Stroke, not specified as haemorrhage or infarction"	"I64"	12	100010	Unreliable
+	"Mississippi"	"28"	"54 years"	"54"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	34	100010	34.0
+	"Mississippi"	"28"	"54 years"	"54"	"Other and unspecified cirrhosis of liver"	"K74.6"	20	100010	20.0
+	"Mississippi"	"28"	"54 years"	"54"	"Chronic kidney disease, stage 5"	"N18.5"	11	100010	Unreliable
+	"Mississippi"	"28"	"54 years"	"54"	"COVID-19"	"U07.1"	14	100010	Unreliable
+	"Mississippi"	"28"	"55 years"	"55"	"Septicaemia, unspecified"	"A41.9"	14	102306	Unreliable
+	"Mississippi"	"28"	"55 years"	"55"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	16	102306	Unreliable
+	"Mississippi"	"28"	"55 years"	"55"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	13	102306	Unreliable
+	"Mississippi"	"28"	"55 years"	"55"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	56	102306	54.7
+	"Mississippi"	"28"	"55 years"	"55"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	40	102306	39.1
+	"Mississippi"	"28"	"55 years"	"55"	"Cervix uteri, unspecified - Malignant neoplasms"	"C53.9"	15	102306	Unreliable
+	"Mississippi"	"28"	"55 years"	"55"	"Malignant neoplasm without specification of site"	"C80"	10	102306	Unreliable
+	"Mississippi"	"28"	"55 years"	"55"	"Unspecified diabetes mellitus, with renal complications"	"E14.2"	10	102306	Unreliable
+	"Mississippi"	"28"	"55 years"	"55"	"Unspecified diabetes mellitus, without complications"	"E14.9"	25	102306	24.4
+	"Mississippi"	"28"	"55 years"	"55"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	20	102306	19.5
+	"Mississippi"	"28"	"55 years"	"55"	"Acute myocardial infarction, unspecified"	"I21.9"	57	102306	55.7
+	"Mississippi"	"28"	"55 years"	"55"	"Atherosclerotic heart disease"	"I25.1"	13	102306	Unreliable
+	"Mississippi"	"28"	"55 years"	"55"	"Congestive heart failure"	"I50.0"	11	102306	Unreliable
+	"Mississippi"	"28"	"55 years"	"55"	"Stroke, not specified as haemorrhage or infarction"	"I64"	15	102306	Unreliable
+	"Mississippi"	"28"	"55 years"	"55"	"Pneumonia, unspecified"	"J18.9"	16	102306	Unreliable
+	"Mississippi"	"28"	"55 years"	"55"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	30	102306	29.3
+	"Mississippi"	"28"	"55 years"	"55"	"Other and unspecified cirrhosis of liver"	"K74.6"	16	102306	Unreliable
+	"Mississippi"	"28"	"55 years"	"55"	"COVID-19"	"U07.1"	22	102306	21.5
+	"Mississippi"	"28"	"55 years"	"55"	"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X44"	10	102306	Unreliable
+	"Mississippi"	"28"	"56 years"	"56"	"Septicaemia, unspecified"	"A41.9"	11	104016	Unreliable
+	"Mississippi"	"28"	"56 years"	"56"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	13	104016	Unreliable
+	"Mississippi"	"28"	"56 years"	"56"	"Liver, unspecified - Malignant neoplasms"	"C22.9"	10	104016	Unreliable
+	"Mississippi"	"28"	"56 years"	"56"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	16	104016	Unreliable
+	"Mississippi"	"28"	"56 years"	"56"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	69	104016	66.3
+	"Mississippi"	"28"	"56 years"	"56"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	46	104016	44.2
+	"Mississippi"	"28"	"56 years"	"56"	"Malignant neoplasm of ovary"	"C56"	11	104016	Unreliable
+	"Mississippi"	"28"	"56 years"	"56"	"Malignant neoplasm without specification of site"	"C80"	11	104016	Unreliable
+	"Mississippi"	"28"	"56 years"	"56"	"Unspecified diabetes mellitus, without complications"	"E14.9"	15	104016	Unreliable
+	"Mississippi"	"28"	"56 years"	"56"	"Anoxic brain damage, not elsewhere classified"	"G93.1"	10	104016	Unreliable
+	"Mississippi"	"28"	"56 years"	"56"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	19	104016	Unreliable
+	"Mississippi"	"28"	"56 years"	"56"	"Acute myocardial infarction, unspecified"	"I21.9"	59	104016	56.7
+	"Mississippi"	"28"	"56 years"	"56"	"Atherosclerotic heart disease"	"I25.1"	15	104016	Unreliable
+	"Mississippi"	"28"	"56 years"	"56"	"Congestive heart failure"	"I50.0"	19	104016	Unreliable
+	"Mississippi"	"28"	"56 years"	"56"	"Pneumonia, unspecified"	"J18.9"	15	104016	Unreliable
+	"Mississippi"	"28"	"56 years"	"56"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	37	104016	35.6
+	"Mississippi"	"28"	"56 years"	"56"	"Other and unspecified cirrhosis of liver"	"K74.6"	14	104016	Unreliable
+	"Mississippi"	"28"	"56 years"	"56"	"COVID-19"	"U07.1"	25	104016	24.0
+	"Mississippi"	"28"	"57 years"	"57"	"Septicaemia, unspecified"	"A41.9"	16	103870	Unreliable
+	"Mississippi"	"28"	"57 years"	"57"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	23	103870	22.1
+	"Mississippi"	"28"	"57 years"	"57"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	15	103870	Unreliable
+	"Mississippi"	"28"	"57 years"	"57"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	67	103870	64.5
+	"Mississippi"	"28"	"57 years"	"57"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	49	103870	47.2
+	"Mississippi"	"28"	"57 years"	"57"	"Malignant neoplasm of ovary"	"C56"	13	103870	Unreliable
+	"Mississippi"	"28"	"57 years"	"57"	"Unspecified diabetes mellitus, with renal complications"	"E14.2"	13	103870	Unreliable
+	"Mississippi"	"28"	"57 years"	"57"	"Unspecified diabetes mellitus, without complications"	"E14.9"	17	103870	Unreliable
+	"Mississippi"	"28"	"57 years"	"57"	"Hypertensive heart disease with (congestive) heart failure"	"I11.0"	11	103870	Unreliable
+	"Mississippi"	"28"	"57 years"	"57"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	17	103870	Unreliable
+	"Mississippi"	"28"	"57 years"	"57"	"Acute myocardial infarction, unspecified"	"I21.9"	83	103870	79.9
+	"Mississippi"	"28"	"57 years"	"57"	"Atherosclerotic heart disease"	"I25.1"	23	103870	22.1
+	"Mississippi"	"28"	"57 years"	"57"	"Congestive heart failure"	"I50.0"	16	103870	Unreliable
+	"Mississippi"	"28"	"57 years"	"57"	"Stroke, not specified as haemorrhage or infarction"	"I64"	16	103870	Unreliable
+	"Mississippi"	"28"	"57 years"	"57"	"Pneumonia, unspecified"	"J18.9"	20	103870	19.3
+	"Mississippi"	"28"	"57 years"	"57"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	41	103870	39.5
+	"Mississippi"	"28"	"57 years"	"57"	"COVID-19"	"U07.1"	25	103870	24.1
+	"Mississippi"	"28"	"58 years"	"58"	"Septicaemia, unspecified"	"A41.9"	24	103872	23.1
+	"Mississippi"	"28"	"58 years"	"58"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	17	103872	Unreliable
+	"Mississippi"	"28"	"58 years"	"58"	"Liver, unspecified - Malignant neoplasms"	"C22.9"	11	103872	Unreliable
+	"Mississippi"	"28"	"58 years"	"58"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	22	103872	21.2
+	"Mississippi"	"28"	"58 years"	"58"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	64	103872	61.6
+	"Mississippi"	"28"	"58 years"	"58"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	46	103872	44.3
+	"Mississippi"	"28"	"58 years"	"58"	"Endometrium - Malignant neoplasms"	"C54.1"	11	103872	Unreliable
+	"Mississippi"	"28"	"58 years"	"58"	"Malignant neoplasm of ovary"	"C56"	20	103872	19.3
+	"Mississippi"	"28"	"58 years"	"58"	"Brain, unspecified - Malignant neoplasms"	"C71.9"	11	103872	Unreliable
+	"Mississippi"	"28"	"58 years"	"58"	"Malignant neoplasm without specification of site"	"C80"	14	103872	Unreliable
+	"Mississippi"	"28"	"58 years"	"58"	"Unspecified diabetes mellitus, with renal complications"	"E14.2"	13	103872	Unreliable
+	"Mississippi"	"28"	"58 years"	"58"	"Unspecified diabetes mellitus, without complications"	"E14.9"	18	103872	Unreliable
+	"Mississippi"	"28"	"58 years"	"58"	"Essential (primary) hypertension"	"I10"	20	103872	19.3
+	"Mississippi"	"28"	"58 years"	"58"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	17	103872	Unreliable
+	"Mississippi"	"28"	"58 years"	"58"	"Acute myocardial infarction, unspecified"	"I21.9"	80	103872	77.0
+	"Mississippi"	"28"	"58 years"	"58"	"Atherosclerotic heart disease"	"I25.1"	28	103872	27.0
+	"Mississippi"	"28"	"58 years"	"58"	"Congestive heart failure"	"I50.0"	25	103872	24.1
+	"Mississippi"	"28"	"58 years"	"58"	"Stroke, not specified as haemorrhage or infarction"	"I64"	21	103872	20.2
+	"Mississippi"	"28"	"58 years"	"58"	"Pneumonia, unspecified"	"J18.9"	15	103872	Unreliable
+	"Mississippi"	"28"	"58 years"	"58"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	43	103872	41.4
+	"Mississippi"	"28"	"58 years"	"58"	"Alcoholic cirrhosis of liver"	"K70.3"	11	103872	Unreliable
+	"Mississippi"	"28"	"58 years"	"58"	"Other and unspecified cirrhosis of liver"	"K74.6"	17	103872	Unreliable
+	"Mississippi"	"28"	"58 years"	"58"	"Chronic kidney disease, stage 5"	"N18.5"	11	103872	Unreliable
+	"Mississippi"	"28"	"58 years"	"58"	"COVID-19"	"U07.1"	33	103872	31.8
+	"Mississippi"	"28"	"59 years"	"59"	"Septicaemia, unspecified"	"A41.9"	11	103450	Unreliable
+	"Mississippi"	"28"	"59 years"	"59"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	20	103450	19.3
+	"Mississippi"	"28"	"59 years"	"59"	"Liver, unspecified - Malignant neoplasms"	"C22.9"	13	103450	Unreliable
+	"Mississippi"	"28"	"59 years"	"59"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	15	103450	Unreliable
+	"Mississippi"	"28"	"59 years"	"59"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	82	103450	79.3
+	"Mississippi"	"28"	"59 years"	"59"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	53	103450	51.2
+	"Mississippi"	"28"	"59 years"	"59"	"Brain, unspecified - Malignant neoplasms"	"C71.9"	11	103450	Unreliable
+	"Mississippi"	"28"	"59 years"	"59"	"Malignant neoplasm without specification of site"	"C80"	16	103450	Unreliable
+	"Mississippi"	"28"	"59 years"	"59"	"Unspecified diabetes mellitus, with renal complications"	"E14.2"	16	103450	Unreliable
+	"Mississippi"	"28"	"59 years"	"59"	"Unspecified diabetes mellitus, without complications"	"E14.9"	30	103450	29.0
+	"Mississippi"	"28"	"59 years"	"59"	"Essential (primary) hypertension"	"I10"	14	103450	Unreliable
+	"Mississippi"	"28"	"59 years"	"59"	"Hypertensive heart disease with (congestive) heart failure"	"I11.0"	16	103450	Unreliable
+	"Mississippi"	"28"	"59 years"	"59"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	21	103450	20.3
+	"Mississippi"	"28"	"59 years"	"59"	"Acute myocardial infarction, unspecified"	"I21.9"	78	103450	75.4
+	"Mississippi"	"28"	"59 years"	"59"	"Atherosclerotic heart disease"	"I25.1"	27	103450	26.1
+	"Mississippi"	"28"	"59 years"	"59"	"Pulmonary embolism without mention of acute cor pulmonale"	"I26.9"	11	103450	Unreliable
+	"Mississippi"	"28"	"59 years"	"59"	"Cardiac arrest, unspecified"	"I46.9"	13	103450	Unreliable
+	"Mississippi"	"28"	"59 years"	"59"	"Congestive heart failure"	"I50.0"	16	103450	Unreliable
+	"Mississippi"	"28"	"59 years"	"59"	"Stroke, not specified as haemorrhage or infarction"	"I64"	25	103450	24.2
+	"Mississippi"	"28"	"59 years"	"59"	"Pneumonia, unspecified"	"J18.9"	18	103450	Unreliable
+	"Mississippi"	"28"	"59 years"	"59"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	10	103450	Unreliable
+	"Mississippi"	"28"	"59 years"	"59"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	61	103450	59.0
+	"Mississippi"	"28"	"59 years"	"59"	"Other and unspecified cirrhosis of liver"	"K74.6"	17	103450	Unreliable
+	"Mississippi"	"28"	"59 years"	"59"	"Chronic kidney disease, stage 5"	"N18.5"	15	103450	Unreliable
+	"Mississippi"	"28"	"59 years"	"59"	"Urinary tract infection, site not specified"	"N39.0"	11	103450	Unreliable
+	"Mississippi"	"28"	"59 years"	"59"	"COVID-19"	"U07.1"	25	103450	24.2
+	"Mississippi"	"28"	"60 years"	"60"	"Septicaemia, unspecified"	"A41.9"	15	102294	Unreliable
+	"Mississippi"	"28"	"60 years"	"60"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	29	102294	28.3
+	"Mississippi"	"28"	"60 years"	"60"	"Liver, unspecified - Malignant neoplasms"	"C22.9"	10	102294	Unreliable
+	"Mississippi"	"28"	"60 years"	"60"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	24	102294	23.5
+	"Mississippi"	"28"	"60 years"	"60"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	101	102294	98.7
+	"Mississippi"	"28"	"60 years"	"60"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	61	102294	59.6
+	"Mississippi"	"28"	"60 years"	"60"	"Malignant neoplasm of ovary"	"C56"	13	102294	Unreliable
+	"Mississippi"	"28"	"60 years"	"60"	"Brain, unspecified - Malignant neoplasms"	"C71.9"	10	102294	Unreliable
+	"Mississippi"	"28"	"60 years"	"60"	"Malignant neoplasm without specification of site"	"C80"	18	102294	Unreliable
+	"Mississippi"	"28"	"60 years"	"60"	"Unspecified diabetes mellitus, with renal complications"	"E14.2"	18	102294	Unreliable
+	"Mississippi"	"28"	"60 years"	"60"	"Unspecified diabetes mellitus, without complications"	"E14.9"	21	102294	20.5
+	"Mississippi"	"28"	"60 years"	"60"	"Essential (primary) hypertension"	"I10"	13	102294	Unreliable
+	"Mississippi"	"28"	"60 years"	"60"	"Hypertensive heart disease with (congestive) heart failure"	"I11.0"	13	102294	Unreliable
+	"Mississippi"	"28"	"60 years"	"60"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	15	102294	Unreliable
+	"Mississippi"	"28"	"60 years"	"60"	"Acute myocardial infarction, unspecified"	"I21.9"	64	102294	62.6
+	"Mississippi"	"28"	"60 years"	"60"	"Atherosclerotic heart disease"	"I25.1"	37	102294	36.2
+	"Mississippi"	"28"	"60 years"	"60"	"Congestive heart failure"	"I50.0"	29	102294	28.3
+	"Mississippi"	"28"	"60 years"	"60"	"Stroke, not specified as haemorrhage or infarction"	"I64"	22	102294	21.5
+	"Mississippi"	"28"	"60 years"	"60"	"Pneumonia, unspecified"	"J18.9"	17	102294	Unreliable
+	"Mississippi"	"28"	"60 years"	"60"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	12	102294	Unreliable
+	"Mississippi"	"28"	"60 years"	"60"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	69	102294	67.5
+	"Mississippi"	"28"	"60 years"	"60"	"Other and unspecified cirrhosis of liver"	"K74.6"	18	102294	Unreliable
+	"Mississippi"	"28"	"60 years"	"60"	"Chronic kidney disease, stage 5"	"N18.5"	15	102294	Unreliable
+	"Mississippi"	"28"	"60 years"	"60"	"Urinary tract infection, site not specified"	"N39.0"	10	102294	Unreliable
+	"Mississippi"	"28"	"60 years"	"60"	"COVID-19"	"U07.1"	36	102294	35.2
+	"Mississippi"	"28"	"61 years"	"61"	"Septicaemia, unspecified"	"A41.9"	22	100523	21.9
+	"Mississippi"	"28"	"61 years"	"61"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	27	100523	26.9
+	"Mississippi"	"28"	"61 years"	"61"	"Liver, unspecified - Malignant neoplasms"	"C22.9"	10	100523	Unreliable
+	"Mississippi"	"28"	"61 years"	"61"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	32	100523	31.8
+	"Mississippi"	"28"	"61 years"	"61"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	88	100523	87.5
+	"Mississippi"	"28"	"61 years"	"61"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	45	100523	44.8
+	"Mississippi"	"28"	"61 years"	"61"	"Cervix uteri, unspecified - Malignant neoplasms"	"C53.9"	12	100523	Unreliable
+	"Mississippi"	"28"	"61 years"	"61"	"Endometrium - Malignant neoplasms"	"C54.1"	12	100523	Unreliable
+	"Mississippi"	"28"	"61 years"	"61"	"Malignant neoplasm without specification of site"	"C80"	12	100523	Unreliable
+	"Mississippi"	"28"	"61 years"	"61"	"Unspecified diabetes mellitus, with renal complications"	"E14.2"	16	100523	Unreliable
+	"Mississippi"	"28"	"61 years"	"61"	"Unspecified diabetes mellitus, without complications"	"E14.9"	25	100523	24.9
+	"Mississippi"	"28"	"61 years"	"61"	"Essential (primary) hypertension"	"I10"	19	100523	Unreliable
+	"Mississippi"	"28"	"61 years"	"61"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	24	100523	23.9
+	"Mississippi"	"28"	"61 years"	"61"	"Acute myocardial infarction, unspecified"	"I21.9"	65	100523	64.7
+	"Mississippi"	"28"	"61 years"	"61"	"Atherosclerotic heart disease"	"I25.1"	35	100523	34.8
+	"Mississippi"	"28"	"61 years"	"61"	"Cardiac arrest, unspecified"	"I46.9"	13	100523	Unreliable
+	"Mississippi"	"28"	"61 years"	"61"	"Congestive heart failure"	"I50.0"	29	100523	28.8
+	"Mississippi"	"28"	"61 years"	"61"	"Stroke, not specified as haemorrhage or infarction"	"I64"	21	100523	20.9
+	"Mississippi"	"28"	"61 years"	"61"	"Pneumonia, unspecified"	"J18.9"	24	100523	23.9
+	"Mississippi"	"28"	"61 years"	"61"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	12	100523	Unreliable
+	"Mississippi"	"28"	"61 years"	"61"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	57	100523	56.7
+	"Mississippi"	"28"	"61 years"	"61"	"Alcoholic cirrhosis of liver"	"K70.3"	10	100523	Unreliable
+	"Mississippi"	"28"	"61 years"	"61"	"Other and unspecified cirrhosis of liver"	"K74.6"	18	100523	Unreliable
+	"Mississippi"	"28"	"61 years"	"61"	"Chronic kidney disease, stage 5"	"N18.5"	16	100523	Unreliable
+	"Mississippi"	"28"	"61 years"	"61"	"COVID-19"	"U07.1"	34	100523	33.8
+	"Mississippi"	"28"	"62 years"	"62"	"Septicaemia, unspecified"	"A41.9"	27	98741	27.3
+	"Mississippi"	"28"	"62 years"	"62"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	23	98741	23.3
+	"Mississippi"	"28"	"62 years"	"62"	"Liver, unspecified - Malignant neoplasms"	"C22.9"	18	98741	Unreliable
+	"Mississippi"	"28"	"62 years"	"62"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	33	98741	33.4
+	"Mississippi"	"28"	"62 years"	"62"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	101	98741	102.3
+	"Mississippi"	"28"	"62 years"	"62"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	50	98741	50.6
+	"Mississippi"	"28"	"62 years"	"62"	"Malignant neoplasm of uterus, part unspecified"	"C55"	10	98741	Unreliable
+	"Mississippi"	"28"	"62 years"	"62"	"Malignant neoplasm of ovary"	"C56"	15	98741	Unreliable
+	"Mississippi"	"28"	"62 years"	"62"	"Brain, unspecified - Malignant neoplasms"	"C71.9"	13	98741	Unreliable
+	"Mississippi"	"28"	"62 years"	"62"	"Malignant neoplasm without specification of site"	"C80"	12	98741	Unreliable
+	"Mississippi"	"28"	"62 years"	"62"	"Unspecified diabetes mellitus, with renal complications"	"E14.2"	17	98741	Unreliable
+	"Mississippi"	"28"	"62 years"	"62"	"Unspecified diabetes mellitus, without complications"	"E14.9"	29	98741	29.4
+	"Mississippi"	"28"	"62 years"	"62"	"Alzheimer disease, unspecified"	"G30.9"	11	98741	Unreliable
+	"Mississippi"	"28"	"62 years"	"62"	"Essential (primary) hypertension"	"I10"	19	98741	Unreliable
+	"Mississippi"	"28"	"62 years"	"62"	"Hypertensive heart disease with (congestive) heart failure"	"I11.0"	16	98741	Unreliable
+	"Mississippi"	"28"	"62 years"	"62"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	21	98741	21.3
+	"Mississippi"	"28"	"62 years"	"62"	"Acute myocardial infarction, unspecified"	"I21.9"	81	98741	82.0
+	"Mississippi"	"28"	"62 years"	"62"	"Atherosclerotic heart disease"	"I25.1"	28	98741	28.4
+	"Mississippi"	"28"	"62 years"	"62"	"Congestive heart failure"	"I50.0"	29	98741	29.4
+	"Mississippi"	"28"	"62 years"	"62"	"Stroke, not specified as haemorrhage or infarction"	"I64"	24	98741	24.3
+	"Mississippi"	"28"	"62 years"	"62"	"Pneumonia, unspecified"	"J18.9"	19	98741	Unreliable
+	"Mississippi"	"28"	"62 years"	"62"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	68	98741	68.9
+	"Mississippi"	"28"	"62 years"	"62"	"Other and unspecified cirrhosis of liver"	"K74.6"	14	98741	Unreliable
+	"Mississippi"	"28"	"62 years"	"62"	"Chronic kidney disease, stage 5"	"N18.5"	13	98741	Unreliable
+	"Mississippi"	"28"	"62 years"	"62"	"COVID-19"	"U07.1"	42	98741	42.5
+	"Mississippi"	"28"	"63 years"	"63"	"Septicaemia, unspecified"	"A41.9"	26	96550	26.9
+	"Mississippi"	"28"	"63 years"	"63"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	29	96550	30.0
+	"Mississippi"	"28"	"63 years"	"63"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	29	96550	30.0
+	"Mississippi"	"28"	"63 years"	"63"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	110	96550	113.9
+	"Mississippi"	"28"	"63 years"	"63"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	64	96550	66.3
+	"Mississippi"	"28"	"63 years"	"63"	"Cervix uteri, unspecified - Malignant neoplasms"	"C53.9"	10	96550	Unreliable
+	"Mississippi"	"28"	"63 years"	"63"	"Malignant neoplasm of uterus, part unspecified"	"C55"	10	96550	Unreliable
+	"Mississippi"	"28"	"63 years"	"63"	"Malignant neoplasm of ovary"	"C56"	12	96550	Unreliable
+	"Mississippi"	"28"	"63 years"	"63"	"Brain, unspecified - Malignant neoplasms"	"C71.9"	13	96550	Unreliable
+	"Mississippi"	"28"	"63 years"	"63"	"Malignant neoplasm without specification of site"	"C80"	17	96550	Unreliable
+	"Mississippi"	"28"	"63 years"	"63"	"Unspecified diabetes mellitus, with renal complications"	"E14.2"	18	96550	Unreliable
+	"Mississippi"	"28"	"63 years"	"63"	"Unspecified diabetes mellitus, without complications"	"E14.9"	36	96550	37.3
+	"Mississippi"	"28"	"63 years"	"63"	"Essential (primary) hypertension"	"I10"	11	96550	Unreliable
+	"Mississippi"	"28"	"63 years"	"63"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	23	96550	23.8
+	"Mississippi"	"28"	"63 years"	"63"	"Acute myocardial infarction, unspecified"	"I21.9"	83	96550	86.0
+	"Mississippi"	"28"	"63 years"	"63"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	10	96550	Unreliable
+	"Mississippi"	"28"	"63 years"	"63"	"Atherosclerotic heart disease"	"I25.1"	33	96550	34.2
+	"Mississippi"	"28"	"63 years"	"63"	"Pulmonary embolism without mention of acute cor pulmonale"	"I26.9"	11	96550	Unreliable
+	"Mississippi"	"28"	"63 years"	"63"	"Cardiac arrest, unspecified"	"I46.9"	10	96550	Unreliable
+	"Mississippi"	"28"	"63 years"	"63"	"Congestive heart failure"	"I50.0"	34	96550	35.2
+	"Mississippi"	"28"	"63 years"	"63"	"Stroke, not specified as haemorrhage or infarction"	"I64"	29	96550	30.0
+	"Mississippi"	"28"	"63 years"	"63"	"Pneumonia, unspecified"	"J18.9"	18	96550	Unreliable
+	"Mississippi"	"28"	"63 years"	"63"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	86	96550	89.1
+	"Mississippi"	"28"	"63 years"	"63"	"Other and unspecified cirrhosis of liver"	"K74.6"	16	96550	Unreliable
+	"Mississippi"	"28"	"63 years"	"63"	"Chronic kidney disease, stage 5"	"N18.5"	15	96550	Unreliable
+	"Mississippi"	"28"	"63 years"	"63"	"Urinary tract infection, site not specified"	"N39.0"	10	96550	Unreliable
+	"Mississippi"	"28"	"63 years"	"63"	"COVID-19"	"U07.1"	39	96550	40.4
+	"Mississippi"	"28"	"64 years"	"64"	"Septicaemia, unspecified"	"A41.9"	27	93365	28.9
+	"Mississippi"	"28"	"64 years"	"64"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	27	93365	28.9
+	"Mississippi"	"28"	"64 years"	"64"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	30	93365	32.1
+	"Mississippi"	"28"	"64 years"	"64"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	101	93365	108.2
+	"Mississippi"	"28"	"64 years"	"64"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	63	93365	67.5
+	"Mississippi"	"28"	"64 years"	"64"	"Endometrium - Malignant neoplasms"	"C54.1"	11	93365	Unreliable
+	"Mississippi"	"28"	"64 years"	"64"	"Malignant neoplasm of ovary"	"C56"	24	93365	25.7
+	"Mississippi"	"28"	"64 years"	"64"	"Brain, unspecified - Malignant neoplasms"	"C71.9"	13	93365	Unreliable
+	"Mississippi"	"28"	"64 years"	"64"	"Malignant neoplasm without specification of site"	"C80"	16	93365	Unreliable
+	"Mississippi"	"28"	"64 years"	"64"	"Unspecified diabetes mellitus, with renal complications"	"E14.2"	19	93365	Unreliable
+	"Mississippi"	"28"	"64 years"	"64"	"Unspecified diabetes mellitus, without complications"	"E14.9"	28	93365	30.0
+	"Mississippi"	"28"	"64 years"	"64"	"Alzheimer disease, unspecified"	"G30.9"	14	93365	Unreliable
+	"Mississippi"	"28"	"64 years"	"64"	"Essential (primary) hypertension"	"I10"	14	93365	Unreliable
+	"Mississippi"	"28"	"64 years"	"64"	"Hypertensive heart disease with (congestive) heart failure"	"I11.0"	17	93365	Unreliable
+	"Mississippi"	"28"	"64 years"	"64"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	21	93365	22.5
+	"Mississippi"	"28"	"64 years"	"64"	"Acute myocardial infarction, unspecified"	"I21.9"	84	93365	90.0
+	"Mississippi"	"28"	"64 years"	"64"	"Atherosclerotic heart disease"	"I25.1"	41	93365	43.9
+	"Mississippi"	"28"	"64 years"	"64"	"Cardiac arrest, unspecified"	"I46.9"	12	93365	Unreliable
+	"Mississippi"	"28"	"64 years"	"64"	"Congestive heart failure"	"I50.0"	37	93365	39.6
+	"Mississippi"	"28"	"64 years"	"64"	"Stroke, not specified as haemorrhage or infarction"	"I64"	40	93365	42.8
+	"Mississippi"	"28"	"64 years"	"64"	"Pneumonia, unspecified"	"J18.9"	20	93365	21.4
+	"Mississippi"	"28"	"64 years"	"64"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	10	93365	Unreliable
+	"Mississippi"	"28"	"64 years"	"64"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	90	93365	96.4
+	"Mississippi"	"28"	"64 years"	"64"	"Pneumonitis due to food and vomit"	"J69.0"	10	93365	Unreliable
+	"Mississippi"	"28"	"64 years"	"64"	"Other and unspecified cirrhosis of liver"	"K74.6"	13	93365	Unreliable
+	"Mississippi"	"28"	"64 years"	"64"	"Chronic kidney disease, stage 5"	"N18.5"	13	93365	Unreliable
+	"Mississippi"	"28"	"64 years"	"64"	"Unspecified renal failure"	"N19"	11	93365	Unreliable
+	"Mississippi"	"28"	"64 years"	"64"	"COVID-19"	"U07.1"	37	93365	39.6
+	"Mississippi"	"28"	"65 years"	"65"	"Septicaemia, unspecified"	"A41.9"	30	90541	33.1
+	"Mississippi"	"28"	"65 years"	"65"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	34	90541	37.6
+	"Mississippi"	"28"	"65 years"	"65"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	31	90541	34.2
+	"Mississippi"	"28"	"65 years"	"65"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	79	90541	87.3
+	"Mississippi"	"28"	"65 years"	"65"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	64	90541	70.7
+	"Mississippi"	"28"	"65 years"	"65"	"Endometrium - Malignant neoplasms"	"C54.1"	11	90541	Unreliable
+	"Mississippi"	"28"	"65 years"	"65"	"Malignant neoplasm of uterus, part unspecified"	"C55"	10	90541	Unreliable
+	"Mississippi"	"28"	"65 years"	"65"	"Malignant neoplasm of ovary"	"C56"	19	90541	Unreliable
+	"Mississippi"	"28"	"65 years"	"65"	"Malignant neoplasm without specification of site"	"C80"	16	90541	Unreliable
+	"Mississippi"	"28"	"65 years"	"65"	"Unspecified diabetes mellitus, with renal complications"	"E14.2"	19	90541	Unreliable
+	"Mississippi"	"28"	"65 years"	"65"	"Unspecified diabetes mellitus, without complications"	"E14.9"	31	90541	34.2
+	"Mississippi"	"28"	"65 years"	"65"	"Alzheimer disease, unspecified"	"G30.9"	13	90541	Unreliable
+	"Mississippi"	"28"	"65 years"	"65"	"Essential (primary) hypertension"	"I10"	22	90541	24.3
+	"Mississippi"	"28"	"65 years"	"65"	"Hypertensive heart disease with (congestive) heart failure"	"I11.0"	16	90541	Unreliable
+	"Mississippi"	"28"	"65 years"	"65"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	37	90541	40.9
+	"Mississippi"	"28"	"65 years"	"65"	"Acute myocardial infarction, unspecified"	"I21.9"	92	90541	101.6
+	"Mississippi"	"28"	"65 years"	"65"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	10	90541	Unreliable
+	"Mississippi"	"28"	"65 years"	"65"	"Atherosclerotic heart disease"	"I25.1"	35	90541	38.7
+	"Mississippi"	"28"	"65 years"	"65"	"Congestive heart failure"	"I50.0"	28	90541	30.9
+	"Mississippi"	"28"	"65 years"	"65"	"Stroke, not specified as haemorrhage or infarction"	"I64"	29	90541	32.0
+	"Mississippi"	"28"	"65 years"	"65"	"Pneumonia, unspecified"	"J18.9"	20	90541	22.1
+	"Mississippi"	"28"	"65 years"	"65"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	16	90541	Unreliable
+	"Mississippi"	"28"	"65 years"	"65"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	75	90541	82.8
+	"Mississippi"	"28"	"65 years"	"65"	"Other and unspecified cirrhosis of liver"	"K74.6"	16	90541	Unreliable
+	"Mississippi"	"28"	"65 years"	"65"	"Chronic kidney disease, stage 5"	"N18.5"	17	90541	Unreliable
+	"Mississippi"	"28"	"65 years"	"65"	"Urinary tract infection, site not specified"	"N39.0"	12	90541	Unreliable
+	"Mississippi"	"28"	"65 years"	"65"	"COVID-19"	"U07.1"	46	90541	50.8
+	"Mississippi"	"28"	"66 years"	"66"	"Septicaemia, unspecified"	"A41.9"	30	87680	34.2
+	"Mississippi"	"28"	"66 years"	"66"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	22	87680	25.1
+	"Mississippi"	"28"	"66 years"	"66"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	22	87680	25.1
+	"Mississippi"	"28"	"66 years"	"66"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	91	87680	103.8
+	"Mississippi"	"28"	"66 years"	"66"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	55	87680	62.7
+	"Mississippi"	"28"	"66 years"	"66"	"Malignant neoplasm of ovary"	"C56"	19	87680	Unreliable
+	"Mississippi"	"28"	"66 years"	"66"	"Malignant neoplasm without specification of site"	"C80"	16	87680	Unreliable
+	"Mississippi"	"28"	"66 years"	"66"	"Multiple myeloma - Malignant neoplasms"	"C90.0"	10	87680	Unreliable
+	"Mississippi"	"28"	"66 years"	"66"	"Unspecified diabetes mellitus, with renal complications"	"E14.2"	17	87680	Unreliable
+	"Mississippi"	"28"	"66 years"	"66"	"Unspecified diabetes mellitus, without complications"	"E14.9"	30	87680	34.2
+	"Mississippi"	"28"	"66 years"	"66"	"Alzheimer disease, unspecified"	"G30.9"	12	87680	Unreliable
+	"Mississippi"	"28"	"66 years"	"66"	"Essential (primary) hypertension"	"I10"	21	87680	24.0
+	"Mississippi"	"28"	"66 years"	"66"	"Hypertensive heart disease with (congestive) heart failure"	"I11.0"	15	87680	Unreliable
+	"Mississippi"	"28"	"66 years"	"66"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	20	87680	22.8
+	"Mississippi"	"28"	"66 years"	"66"	"Acute myocardial infarction, unspecified"	"I21.9"	75	87680	85.5
+	"Mississippi"	"28"	"66 years"	"66"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	10	87680	Unreliable
+	"Mississippi"	"28"	"66 years"	"66"	"Atherosclerotic heart disease"	"I25.1"	43	87680	49.0
+	"Mississippi"	"28"	"66 years"	"66"	"Cardiomyopathy, unspecified"	"I42.9"	11	87680	Unreliable
+	"Mississippi"	"28"	"66 years"	"66"	"Congestive heart failure"	"I50.0"	33	87680	37.6
+	"Mississippi"	"28"	"66 years"	"66"	"Stroke, not specified as haemorrhage or infarction"	"I64"	33	87680	37.6
+	"Mississippi"	"28"	"66 years"	"66"	"Pneumonia, unspecified"	"J18.9"	26	87680	29.7
+	"Mississippi"	"28"	"66 years"	"66"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	89	87680	101.5
+	"Mississippi"	"28"	"66 years"	"66"	"Other and unspecified cirrhosis of liver"	"K74.6"	13	87680	Unreliable
+	"Mississippi"	"28"	"66 years"	"66"	"Chronic kidney disease, stage 5"	"N18.5"	19	87680	Unreliable
+	"Mississippi"	"28"	"66 years"	"66"	"COVID-19"	"U07.1"	40	87680	45.6
+	"Mississippi"	"28"	"67 years"	"67"	"Septicaemia, unspecified"	"A41.9"	33	84230	39.2
+	"Mississippi"	"28"	"67 years"	"67"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	30	84230	35.6
+	"Mississippi"	"28"	"67 years"	"67"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	29	84230	34.4
+	"Mississippi"	"28"	"67 years"	"67"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	104	84230	123.5
+	"Mississippi"	"28"	"67 years"	"67"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	61	84230	72.4
+	"Mississippi"	"28"	"67 years"	"67"	"Malignant neoplasm of ovary"	"C56"	19	84230	Unreliable
+	"Mississippi"	"28"	"67 years"	"67"	"Brain, unspecified - Malignant neoplasms"	"C71.9"	16	84230	Unreliable
+	"Mississippi"	"28"	"67 years"	"67"	"Malignant neoplasm without specification of site"	"C80"	17	84230	Unreliable
+	"Mississippi"	"28"	"67 years"	"67"	"Unspecified diabetes mellitus, with renal complications"	"E14.2"	24	84230	28.5
+	"Mississippi"	"28"	"67 years"	"67"	"Unspecified diabetes mellitus, without complications"	"E14.9"	36	84230	42.7
+	"Mississippi"	"28"	"67 years"	"67"	"Alzheimer disease, unspecified"	"G30.9"	15	84230	Unreliable
+	"Mississippi"	"28"	"67 years"	"67"	"Essential (primary) hypertension"	"I10"	15	84230	Unreliable
+	"Mississippi"	"28"	"67 years"	"67"	"Hypertensive heart disease with (congestive) heart failure"	"I11.0"	15	84230	Unreliable
+	"Mississippi"	"28"	"67 years"	"67"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	22	84230	26.1
+	"Mississippi"	"28"	"67 years"	"67"	"Acute myocardial infarction, unspecified"	"I21.9"	84	84230	99.7
+	"Mississippi"	"28"	"67 years"	"67"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	11	84230	Unreliable
+	"Mississippi"	"28"	"67 years"	"67"	"Atherosclerotic heart disease"	"I25.1"	35	84230	41.6
+	"Mississippi"	"28"	"67 years"	"67"	"Congestive heart failure"	"I50.0"	37	84230	43.9
+	"Mississippi"	"28"	"67 years"	"67"	"Stroke, not specified as haemorrhage or infarction"	"I64"	42	84230	49.9
+	"Mississippi"	"28"	"67 years"	"67"	"Pneumonia, unspecified"	"J18.9"	30	84230	35.6
+	"Mississippi"	"28"	"67 years"	"67"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	89	84230	105.7
+	"Mississippi"	"28"	"67 years"	"67"	"Chronic kidney disease, stage 5"	"N18.5"	24	84230	28.5
+	"Mississippi"	"28"	"67 years"	"67"	"Urinary tract infection, site not specified"	"N39.0"	11	84230	Unreliable
+	"Mississippi"	"28"	"67 years"	"67"	"COVID-19"	"U07.1"	42	84230	49.9
+	"Mississippi"	"28"	"68 years"	"68"	"Septicaemia, unspecified"	"A41.9"	27	81921	33.0
+	"Mississippi"	"28"	"68 years"	"68"	"Stomach, unspecified - Malignant neoplasms"	"C16.9"	11	81921	Unreliable
+	"Mississippi"	"28"	"68 years"	"68"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	28	81921	34.2
+	"Mississippi"	"28"	"68 years"	"68"	"Liver, unspecified - Malignant neoplasms"	"C22.9"	13	81921	Unreliable
+	"Mississippi"	"28"	"68 years"	"68"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	32	81921	39.1
+	"Mississippi"	"28"	"68 years"	"68"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	130	81921	158.7
+	"Mississippi"	"28"	"68 years"	"68"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	59	81921	72.0
+	"Mississippi"	"28"	"68 years"	"68"	"Malignant neoplasm of uterus, part unspecified"	"C55"	15	81921	Unreliable
+	"Mississippi"	"28"	"68 years"	"68"	"Malignant neoplasm of ovary"	"C56"	20	81921	24.4
+	"Mississippi"	"28"	"68 years"	"68"	"Malignant neoplasm of kidney, except renal pelvis"	"C64"	10	81921	Unreliable
+	"Mississippi"	"28"	"68 years"	"68"	"Malignant neoplasm without specification of site"	"C80"	13	81921	Unreliable
+	"Mississippi"	"28"	"68 years"	"68"	"Unspecified diabetes mellitus, with renal complications"	"E14.2"	25	81921	30.5
+	"Mississippi"	"28"	"68 years"	"68"	"Unspecified diabetes mellitus, without complications"	"E14.9"	36	81921	43.9
+	"Mississippi"	"28"	"68 years"	"68"	"Unspecified dementia"	"F03"	12	81921	Unreliable
+	"Mississippi"	"28"	"68 years"	"68"	"Alzheimer disease, unspecified"	"G30.9"	29	81921	35.4
+	"Mississippi"	"28"	"68 years"	"68"	"Essential (primary) hypertension"	"I10"	13	81921	Unreliable
+	"Mississippi"	"28"	"68 years"	"68"	"Hypertensive heart disease with (congestive) heart failure"	"I11.0"	14	81921	Unreliable
+	"Mississippi"	"28"	"68 years"	"68"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	18	81921	Unreliable
+	"Mississippi"	"28"	"68 years"	"68"	"Acute myocardial infarction, unspecified"	"I21.9"	82	81921	100.1
+	"Mississippi"	"28"	"68 years"	"68"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	10	81921	Unreliable
+	"Mississippi"	"28"	"68 years"	"68"	"Atherosclerotic heart disease"	"I25.1"	39	81921	47.6
+	"Mississippi"	"28"	"68 years"	"68"	"Cardiac arrest, unspecified"	"I46.9"	12	81921	Unreliable
+	"Mississippi"	"28"	"68 years"	"68"	"Congestive heart failure"	"I50.0"	31	81921	37.8
+	"Mississippi"	"28"	"68 years"	"68"	"Stroke, not specified as haemorrhage or infarction"	"I64"	35	81921	42.7
+	"Mississippi"	"28"	"68 years"	"68"	"Pneumonia, unspecified"	"J18.9"	36	81921	43.9
+	"Mississippi"	"28"	"68 years"	"68"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	14	81921	Unreliable
+	"Mississippi"	"28"	"68 years"	"68"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	99	81921	120.8
+	"Mississippi"	"28"	"68 years"	"68"	"Pneumonitis due to food and vomit"	"J69.0"	11	81921	Unreliable
+	"Mississippi"	"28"	"68 years"	"68"	"Other and unspecified cirrhosis of liver"	"K74.6"	19	81921	Unreliable
+	"Mississippi"	"28"	"68 years"	"68"	"Gastrointestinal haemorrhage, unspecified"	"K92.2"	10	81921	Unreliable
+	"Mississippi"	"28"	"68 years"	"68"	"Acute renal failure, unspecified"	"N17.9"	13	81921	Unreliable
+	"Mississippi"	"28"	"68 years"	"68"	"Chronic kidney disease, stage 5"	"N18.5"	17	81921	Unreliable
+	"Mississippi"	"28"	"68 years"	"68"	"Urinary tract infection, site not specified"	"N39.0"	15	81921	Unreliable
+	"Mississippi"	"28"	"68 years"	"68"	"COVID-19"	"U07.1"	46	81921	56.2
+	"Mississippi"	"28"	"69 years"	"69"	"Septicaemia, unspecified"	"A41.9"	23	80884	28.4
+	"Mississippi"	"28"	"69 years"	"69"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	31	80884	38.3
+	"Mississippi"	"28"	"69 years"	"69"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	35	80884	43.3
+	"Mississippi"	"28"	"69 years"	"69"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	132	80884	163.2
+	"Mississippi"	"28"	"69 years"	"69"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	61	80884	75.4
+	"Mississippi"	"28"	"69 years"	"69"	"Endometrium - Malignant neoplasms"	"C54.1"	12	80884	Unreliable
+	"Mississippi"	"28"	"69 years"	"69"	"Malignant neoplasm of ovary"	"C56"	20	80884	24.7
+	"Mississippi"	"28"	"69 years"	"69"	"Brain, unspecified - Malignant neoplasms"	"C71.9"	13	80884	Unreliable
+	"Mississippi"	"28"	"69 years"	"69"	"Malignant neoplasm without specification of site"	"C80"	24	80884	29.7
+	"Mississippi"	"28"	"69 years"	"69"	"Acute myeloid leukaemia - Malignant neoplasms"	"C92.0"	10	80884	Unreliable
+	"Mississippi"	"28"	"69 years"	"69"	"Unspecified diabetes mellitus, with renal complications"	"E14.2"	23	80884	28.4
+	"Mississippi"	"28"	"69 years"	"69"	"Unspecified diabetes mellitus, without complications"	"E14.9"	19	80884	Unreliable
+	"Mississippi"	"28"	"69 years"	"69"	"Unspecified dementia"	"F03"	11	80884	Unreliable
+	"Mississippi"	"28"	"69 years"	"69"	"Alzheimer disease, unspecified"	"G30.9"	37	80884	45.7
+	"Mississippi"	"28"	"69 years"	"69"	"Essential (primary) hypertension"	"I10"	17	80884	Unreliable
+	"Mississippi"	"28"	"69 years"	"69"	"Hypertensive heart disease with (congestive) heart failure"	"I11.0"	12	80884	Unreliable
+	"Mississippi"	"28"	"69 years"	"69"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	22	80884	27.2
+	"Mississippi"	"28"	"69 years"	"69"	"Hypertensive renal disease with renal failure"	"I12.0"	12	80884	Unreliable
+	"Mississippi"	"28"	"69 years"	"69"	"Acute myocardial infarction, unspecified"	"I21.9"	91	80884	112.5
+	"Mississippi"	"28"	"69 years"	"69"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	13	80884	Unreliable
+	"Mississippi"	"28"	"69 years"	"69"	"Atherosclerotic heart disease"	"I25.1"	59	80884	72.9
+	"Mississippi"	"28"	"69 years"	"69"	"Cardiomyopathy, unspecified"	"I42.9"	10	80884	Unreliable
+	"Mississippi"	"28"	"69 years"	"69"	"Cardiac arrest, unspecified"	"I46.9"	10	80884	Unreliable
+	"Mississippi"	"28"	"69 years"	"69"	"Congestive heart failure"	"I50.0"	32	80884	39.6
+	"Mississippi"	"28"	"69 years"	"69"	"Stroke, not specified as haemorrhage or infarction"	"I64"	33	80884	40.8
+	"Mississippi"	"28"	"69 years"	"69"	"Pneumonia, unspecified"	"J18.9"	41	80884	50.7
+	"Mississippi"	"28"	"69 years"	"69"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	100	80884	123.6
+	"Mississippi"	"28"	"69 years"	"69"	"Respiratory failure, unspecified"	"J96.9"	12	80884	Unreliable
+	"Mississippi"	"28"	"69 years"	"69"	"Other and unspecified cirrhosis of liver"	"K74.6"	12	80884	Unreliable
+	"Mississippi"	"28"	"69 years"	"69"	"Chronic kidney disease, stage 5"	"N18.5"	27	80884	33.4
+	"Mississippi"	"28"	"69 years"	"69"	"Unspecified renal failure"	"N19"	11	80884	Unreliable
+	"Mississippi"	"28"	"69 years"	"69"	"Urinary tract infection, site not specified"	"N39.0"	15	80884	Unreliable
+	"Mississippi"	"28"	"69 years"	"69"	"COVID-19"	"U07.1"	37	80884	45.7
+	"Mississippi"	"28"	"70 years"	"70"	"Septicaemia, unspecified"	"A41.9"	26	75583	34.4
+	"Mississippi"	"28"	"70 years"	"70"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	30	75583	39.7
+	"Mississippi"	"28"	"70 years"	"70"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	35	75583	46.3
+	"Mississippi"	"28"	"70 years"	"70"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	146	75583	193.2
+	"Mississippi"	"28"	"70 years"	"70"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	79	75583	104.5
+	"Mississippi"	"28"	"70 years"	"70"	"Malignant neoplasm of uterus, part unspecified"	"C55"	16	75583	Unreliable
+	"Mississippi"	"28"	"70 years"	"70"	"Malignant neoplasm of ovary"	"C56"	18	75583	Unreliable
+	"Mississippi"	"28"	"70 years"	"70"	"Malignant neoplasm without specification of site"	"C80"	18	75583	Unreliable
+	"Mississippi"	"28"	"70 years"	"70"	"Unspecified diabetes mellitus, with renal complications"	"E14.2"	16	75583	Unreliable
+	"Mississippi"	"28"	"70 years"	"70"	"Unspecified diabetes mellitus, without complications"	"E14.9"	28	75583	37.0
+	"Mississippi"	"28"	"70 years"	"70"	"Parkinson disease"	"G20"	11	75583	Unreliable
+	"Mississippi"	"28"	"70 years"	"70"	"Alzheimer disease, unspecified"	"G30.9"	40	75583	52.9
+	"Mississippi"	"28"	"70 years"	"70"	"Essential (primary) hypertension"	"I10"	17	75583	Unreliable
+	"Mississippi"	"28"	"70 years"	"70"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	29	75583	38.4
+	"Mississippi"	"28"	"70 years"	"70"	"Acute myocardial infarction, unspecified"	"I21.9"	89	75583	117.8
+	"Mississippi"	"28"	"70 years"	"70"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	13	75583	Unreliable
+	"Mississippi"	"28"	"70 years"	"70"	"Atherosclerotic heart disease"	"I25.1"	50	75583	66.2
+	"Mississippi"	"28"	"70 years"	"70"	"Pulmonary embolism without mention of acute cor pulmonale"	"I26.9"	12	75583	Unreliable
+	"Mississippi"	"28"	"70 years"	"70"	"Cardiac arrest, unspecified"	"I46.9"	11	75583	Unreliable
+	"Mississippi"	"28"	"70 years"	"70"	"Congestive heart failure"	"I50.0"	49	75583	64.8
+	"Mississippi"	"28"	"70 years"	"70"	"Heart failure, unspecified"	"I50.9"	12	75583	Unreliable
+	"Mississippi"	"28"	"70 years"	"70"	"Intracerebral haemorrhage, unspecified"	"I61.9"	16	75583	Unreliable
+	"Mississippi"	"28"	"70 years"	"70"	"Intracranial haemorrhage (nontraumatic), unspecified"	"I62.9"	12	75583	Unreliable
+	"Mississippi"	"28"	"70 years"	"70"	"Stroke, not specified as haemorrhage or infarction"	"I64"	52	75583	68.8
+	"Mississippi"	"28"	"70 years"	"70"	"Pneumonia, unspecified"	"J18.9"	33	75583	43.7
+	"Mississippi"	"28"	"70 years"	"70"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	18	75583	Unreliable
+	"Mississippi"	"28"	"70 years"	"70"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	115	75583	152.2
+	"Mississippi"	"28"	"70 years"	"70"	"Other and unspecified cirrhosis of liver"	"K74.6"	20	75583	26.5
+	"Mississippi"	"28"	"70 years"	"70"	"Chronic kidney disease, stage 5"	"N18.5"	23	75583	30.4
+	"Mississippi"	"28"	"70 years"	"70"	"Unspecified renal failure"	"N19"	10	75583	Unreliable
+	"Mississippi"	"28"	"70 years"	"70"	"COVID-19"	"U07.1"	48	75583	63.5
+	"Mississippi"	"28"	"71 years"	"71"	"Septicaemia, unspecified"	"A41.9"	30	70912	42.3
+	"Mississippi"	"28"	"71 years"	"71"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	30	70912	42.3
+	"Mississippi"	"28"	"71 years"	"71"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	43	70912	60.6
+	"Mississippi"	"28"	"71 years"	"71"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	121	70912	170.6
+	"Mississippi"	"28"	"71 years"	"71"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	58	70912	81.8
+	"Mississippi"	"28"	"71 years"	"71"	"Cervix uteri, unspecified - Malignant neoplasms"	"C53.9"	11	70912	Unreliable
+	"Mississippi"	"28"	"71 years"	"71"	"Malignant neoplasm of ovary"	"C56"	17	70912	Unreliable
+	"Mississippi"	"28"	"71 years"	"71"	"Malignant neoplasm of kidney, except renal pelvis"	"C64"	10	70912	Unreliable
+	"Mississippi"	"28"	"71 years"	"71"	"Brain, unspecified - Malignant neoplasms"	"C71.9"	12	70912	Unreliable
+	"Mississippi"	"28"	"71 years"	"71"	"Malignant neoplasm without specification of site"	"C80"	16	70912	Unreliable
+	"Mississippi"	"28"	"71 years"	"71"	"Multiple myeloma - Malignant neoplasms"	"C90.0"	11	70912	Unreliable
+	"Mississippi"	"28"	"71 years"	"71"	"Unspecified diabetes mellitus, with renal complications"	"E14.2"	23	70912	32.4
+	"Mississippi"	"28"	"71 years"	"71"	"Unspecified diabetes mellitus, without complications"	"E14.9"	40	70912	56.4
+	"Mississippi"	"28"	"71 years"	"71"	"Unspecified dementia"	"F03"	16	70912	Unreliable
+	"Mississippi"	"28"	"71 years"	"71"	"Alzheimer disease, unspecified"	"G30.9"	32	70912	45.1
+	"Mississippi"	"28"	"71 years"	"71"	"Essential (primary) hypertension"	"I10"	16	70912	Unreliable
+	"Mississippi"	"28"	"71 years"	"71"	"Hypertensive heart disease with (congestive) heart failure"	"I11.0"	12	70912	Unreliable
+	"Mississippi"	"28"	"71 years"	"71"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	31	70912	43.7
+	"Mississippi"	"28"	"71 years"	"71"	"Acute myocardial infarction, unspecified"	"I21.9"	87	70912	122.7
+	"Mississippi"	"28"	"71 years"	"71"	"Atherosclerotic heart disease"	"I25.1"	59	70912	83.2
+	"Mississippi"	"28"	"71 years"	"71"	"Cardiac arrest, unspecified"	"I46.9"	15	70912	Unreliable
+	"Mississippi"	"28"	"71 years"	"71"	"Congestive heart failure"	"I50.0"	49	70912	69.1
+	"Mississippi"	"28"	"71 years"	"71"	"Heart disease, unspecified"	"I51.9"	10	70912	Unreliable
+	"Mississippi"	"28"	"71 years"	"71"	"Intracerebral haemorrhage, unspecified"	"I61.9"	12	70912	Unreliable
+	"Mississippi"	"28"	"71 years"	"71"	"Stroke, not specified as haemorrhage or infarction"	"I64"	46	70912	64.9
+	"Mississippi"	"28"	"71 years"	"71"	"Pneumonia, unspecified"	"J18.9"	40	70912	56.4
+	"Mississippi"	"28"	"71 years"	"71"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	129	70912	181.9
+	"Mississippi"	"28"	"71 years"	"71"	"Respiratory failure, unspecified"	"J96.9"	10	70912	Unreliable
+	"Mississippi"	"28"	"71 years"	"71"	"Other and unspecified cirrhosis of liver"	"K74.6"	14	70912	Unreliable
+	"Mississippi"	"28"	"71 years"	"71"	"Gastrointestinal haemorrhage, unspecified"	"K92.2"	10	70912	Unreliable
+	"Mississippi"	"28"	"71 years"	"71"	"Chronic kidney disease, stage 5"	"N18.5"	25	70912	35.3
+	"Mississippi"	"28"	"71 years"	"71"	"Unspecified renal failure"	"N19"	11	70912	Unreliable
+	"Mississippi"	"28"	"71 years"	"71"	"COVID-19"	"U07.1"	45	70912	63.5
+	"Mississippi"	"28"	"72 years"	"72"	"Septicaemia, unspecified"	"A41.9"	30	66616	45.0
+	"Mississippi"	"28"	"72 years"	"72"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	29	66616	43.5
+	"Mississippi"	"28"	"72 years"	"72"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	29	66616	43.5
+	"Mississippi"	"28"	"72 years"	"72"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	127	66616	190.6
+	"Mississippi"	"28"	"72 years"	"72"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	52	66616	78.1
+	"Mississippi"	"28"	"72 years"	"72"	"Malignant neoplasm of uterus, part unspecified"	"C55"	11	66616	Unreliable
+	"Mississippi"	"28"	"72 years"	"72"	"Malignant neoplasm of ovary"	"C56"	14	66616	Unreliable
+	"Mississippi"	"28"	"72 years"	"72"	"Malignant neoplasm without specification of site"	"C80"	14	66616	Unreliable
+	"Mississippi"	"28"	"72 years"	"72"	"Multiple myeloma - Malignant neoplasms"	"C90.0"	11	66616	Unreliable
+	"Mississippi"	"28"	"72 years"	"72"	"Unspecified diabetes mellitus, with renal complications"	"E14.2"	16	66616	Unreliable
+	"Mississippi"	"28"	"72 years"	"72"	"Unspecified diabetes mellitus, without complications"	"E14.9"	25	66616	37.5
+	"Mississippi"	"28"	"72 years"	"72"	"Unspecified dementia"	"F03"	23	66616	34.5
+	"Mississippi"	"28"	"72 years"	"72"	"Parkinson disease"	"G20"	10	66616	Unreliable
+	"Mississippi"	"28"	"72 years"	"72"	"Alzheimer disease, unspecified"	"G30.9"	55	66616	82.6
+	"Mississippi"	"28"	"72 years"	"72"	"Essential (primary) hypertension"	"I10"	25	66616	37.5
+	"Mississippi"	"28"	"72 years"	"72"	"Hypertensive heart disease with (congestive) heart failure"	"I11.0"	13	66616	Unreliable
+	"Mississippi"	"28"	"72 years"	"72"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	34	66616	51.0
+	"Mississippi"	"28"	"72 years"	"72"	"Acute myocardial infarction, unspecified"	"I21.9"	101	66616	151.6
+	"Mississippi"	"28"	"72 years"	"72"	"Atherosclerotic heart disease"	"I25.1"	47	66616	70.6
+	"Mississippi"	"28"	"72 years"	"72"	"Cardiac arrest, unspecified"	"I46.9"	14	66616	Unreliable
+	"Mississippi"	"28"	"72 years"	"72"	"Congestive heart failure"	"I50.0"	60	66616	90.1
+	"Mississippi"	"28"	"72 years"	"72"	"Heart disease, unspecified"	"I51.9"	10	66616	Unreliable
+	"Mississippi"	"28"	"72 years"	"72"	"Stroke, not specified as haemorrhage or infarction"	"I64"	57	66616	85.6
+	"Mississippi"	"28"	"72 years"	"72"	"Pneumonia, unspecified"	"J18.9"	35	66616	52.5
+	"Mississippi"	"28"	"72 years"	"72"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	22	66616	33.0
+	"Mississippi"	"28"	"72 years"	"72"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	123	66616	184.6
+	"Mississippi"	"28"	"72 years"	"72"	"Pneumonitis due to food and vomit"	"J69.0"	11	66616	Unreliable
+	"Mississippi"	"28"	"72 years"	"72"	"Other and unspecified cirrhosis of liver"	"K74.6"	11	66616	Unreliable
+	"Mississippi"	"28"	"72 years"	"72"	"Gastrointestinal haemorrhage, unspecified"	"K92.2"	10	66616	Unreliable
+	"Mississippi"	"28"	"72 years"	"72"	"Chronic kidney disease, stage 5"	"N18.5"	18	66616	Unreliable
+	"Mississippi"	"28"	"72 years"	"72"	"Chronic renal failure, unspecified"	"N18.9"	14	66616	Unreliable
+	"Mississippi"	"28"	"72 years"	"72"	"COVID-19"	"U07.1"	66	66616	99.1
+	"Mississippi"	"28"	"73 years"	"73"	"Septicaemia, unspecified"	"A41.9"	38	62586	60.7
+	"Mississippi"	"28"	"73 years"	"73"	"Stomach, unspecified - Malignant neoplasms"	"C16.9"	10	62586	Unreliable
+	"Mississippi"	"28"	"73 years"	"73"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	19	62586	Unreliable
+	"Mississippi"	"28"	"73 years"	"73"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	24	62586	38.3
+	"Mississippi"	"28"	"73 years"	"73"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	123	62586	196.5
+	"Mississippi"	"28"	"73 years"	"73"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	50	62586	79.9
+	"Mississippi"	"28"	"73 years"	"73"	"Malignant neoplasm of uterus, part unspecified"	"C55"	12	62586	Unreliable
+	"Mississippi"	"28"	"73 years"	"73"	"Malignant neoplasm of ovary"	"C56"	15	62586	Unreliable
+	"Mississippi"	"28"	"73 years"	"73"	"Brain, unspecified - Malignant neoplasms"	"C71.9"	12	62586	Unreliable
+	"Mississippi"	"28"	"73 years"	"73"	"Malignant neoplasm without specification of site"	"C80"	10	62586	Unreliable
+	"Mississippi"	"28"	"73 years"	"73"	"Multiple myeloma - Malignant neoplasms"	"C90.0"	13	62586	Unreliable
+	"Mississippi"	"28"	"73 years"	"73"	"Unspecified diabetes mellitus, with renal complications"	"E14.2"	18	62586	Unreliable
+	"Mississippi"	"28"	"73 years"	"73"	"Unspecified diabetes mellitus, without complications"	"E14.9"	31	62586	49.5
+	"Mississippi"	"28"	"73 years"	"73"	"Unspecified dementia"	"F03"	30	62586	47.9
+	"Mississippi"	"28"	"73 years"	"73"	"Parkinson disease"	"G20"	17	62586	Unreliable
+	"Mississippi"	"28"	"73 years"	"73"	"Alzheimer disease, unspecified"	"G30.9"	80	62586	127.8
+	"Mississippi"	"28"	"73 years"	"73"	"Essential (primary) hypertension"	"I10"	17	62586	Unreliable
+	"Mississippi"	"28"	"73 years"	"73"	"Hypertensive heart disease with (congestive) heart failure"	"I11.0"	17	62586	Unreliable
+	"Mississippi"	"28"	"73 years"	"73"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	25	62586	39.9
+	"Mississippi"	"28"	"73 years"	"73"	"Acute myocardial infarction, unspecified"	"I21.9"	92	62586	147.0
+	"Mississippi"	"28"	"73 years"	"73"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	12	62586	Unreliable
+	"Mississippi"	"28"	"73 years"	"73"	"Atherosclerotic heart disease"	"I25.1"	68	62586	108.7
+	"Mississippi"	"28"	"73 years"	"73"	"Cardiac arrest, unspecified"	"I46.9"	12	62586	Unreliable
+	"Mississippi"	"28"	"73 years"	"73"	"Congestive heart failure"	"I50.0"	52	62586	83.1
+	"Mississippi"	"28"	"73 years"	"73"	"Heart failure, unspecified"	"I50.9"	14	62586	Unreliable
+	"Mississippi"	"28"	"73 years"	"73"	"Stroke, not specified as haemorrhage or infarction"	"I64"	47	62586	75.1
+	"Mississippi"	"28"	"73 years"	"73"	"Pneumonia, unspecified"	"J18.9"	43	62586	68.7
+	"Mississippi"	"28"	"73 years"	"73"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	17	62586	Unreliable
+	"Mississippi"	"28"	"73 years"	"73"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	116	62586	185.3
+	"Mississippi"	"28"	"73 years"	"73"	"Pneumonitis due to food and vomit"	"J69.0"	15	62586	Unreliable
+	"Mississippi"	"28"	"73 years"	"73"	"Other and unspecified cirrhosis of liver"	"K74.6"	11	62586	Unreliable
+	"Mississippi"	"28"	"73 years"	"73"	"Gastrointestinal haemorrhage, unspecified"	"K92.2"	10	62586	Unreliable
+	"Mississippi"	"28"	"73 years"	"73"	"Chronic kidney disease, stage 5"	"N18.5"	28	62586	44.7
+	"Mississippi"	"28"	"73 years"	"73"	"Unspecified renal failure"	"N19"	12	62586	Unreliable
+	"Mississippi"	"28"	"73 years"	"73"	"Urinary tract infection, site not specified"	"N39.0"	14	62586	Unreliable
+	"Mississippi"	"28"	"73 years"	"73"	"COVID-19"	"U07.1"	51	62586	81.5
+	"Mississippi"	"28"	"74 years"	"74"	"Septicaemia, unspecified"	"A41.9"	33	56703	58.2
+	"Mississippi"	"28"	"74 years"	"74"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	37	56703	65.3
+	"Mississippi"	"28"	"74 years"	"74"	"Liver, unspecified - Malignant neoplasms"	"C22.9"	17	56703	Unreliable
+	"Mississippi"	"28"	"74 years"	"74"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	27	56703	47.6
+	"Mississippi"	"28"	"74 years"	"74"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	121	56703	213.4
+	"Mississippi"	"28"	"74 years"	"74"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	38	56703	67.0
+	"Mississippi"	"28"	"74 years"	"74"	"Malignant neoplasm of ovary"	"C56"	23	56703	40.6
+	"Mississippi"	"28"	"74 years"	"74"	"Bladder, unspecified - Malignant neoplasms"	"C67.9"	11	56703	Unreliable
+	"Mississippi"	"28"	"74 years"	"74"	"Brain, unspecified - Malignant neoplasms"	"C71.9"	13	56703	Unreliable
+	"Mississippi"	"28"	"74 years"	"74"	"Malignant neoplasm without specification of site"	"C80"	12	56703	Unreliable
+	"Mississippi"	"28"	"74 years"	"74"	"Multiple myeloma - Malignant neoplasms"	"C90.0"	11	56703	Unreliable
+	"Mississippi"	"28"	"74 years"	"74"	"Unspecified diabetes mellitus, with renal complications"	"E14.2"	15	56703	Unreliable
+	"Mississippi"	"28"	"74 years"	"74"	"Unspecified diabetes mellitus, without complications"	"E14.9"	35	56703	61.7
+	"Mississippi"	"28"	"74 years"	"74"	"Unspecified dementia"	"F03"	22	56703	38.8
+	"Mississippi"	"28"	"74 years"	"74"	"Parkinson disease"	"G20"	21	56703	37.0
+	"Mississippi"	"28"	"74 years"	"74"	"Alzheimer disease, unspecified"	"G30.9"	99	56703	174.6
+	"Mississippi"	"28"	"74 years"	"74"	"Essential (primary) hypertension"	"I10"	15	56703	Unreliable
+	"Mississippi"	"28"	"74 years"	"74"	"Hypertensive heart disease with (congestive) heart failure"	"I11.0"	19	56703	Unreliable
+	"Mississippi"	"28"	"74 years"	"74"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	23	56703	40.6
+	"Mississippi"	"28"	"74 years"	"74"	"Acute myocardial infarction, unspecified"	"I21.9"	96	56703	169.3
+	"Mississippi"	"28"	"74 years"	"74"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	14	56703	Unreliable
+	"Mississippi"	"28"	"74 years"	"74"	"Atherosclerotic heart disease"	"I25.1"	49	56703	86.4
+	"Mississippi"	"28"	"74 years"	"74"	"Cardiac arrest, unspecified"	"I46.9"	15	56703	Unreliable
+	"Mississippi"	"28"	"74 years"	"74"	"Atrial fibrillation and flutter"	"I48"	10	56703	Unreliable
+	"Mississippi"	"28"	"74 years"	"74"	"Congestive heart failure"	"I50.0"	59	56703	104.1
+	"Mississippi"	"28"	"74 years"	"74"	"Subarachnoid haemorrhage, unspecified"	"I60.9"	10	56703	Unreliable
+	"Mississippi"	"28"	"74 years"	"74"	"Cerebral infarction, unspecified"	"I63.9"	12	56703	Unreliable
+	"Mississippi"	"28"	"74 years"	"74"	"Stroke, not specified as haemorrhage or infarction"	"I64"	67	56703	118.2
+	"Mississippi"	"28"	"74 years"	"74"	"Pneumonia, unspecified"	"J18.9"	40	56703	70.5
+	"Mississippi"	"28"	"74 years"	"74"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	25	56703	44.1
+	"Mississippi"	"28"	"74 years"	"74"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	157	56703	276.9
+	"Mississippi"	"28"	"74 years"	"74"	"Other and unspecified cirrhosis of liver"	"K74.6"	10	56703	Unreliable
+	"Mississippi"	"28"	"74 years"	"74"	"Chronic kidney disease, stage 5"	"N18.5"	28	56703	49.4
+	"Mississippi"	"28"	"74 years"	"74"	"Unspecified renal failure"	"N19"	10	56703	Unreliable
+	"Mississippi"	"28"	"74 years"	"74"	"Urinary tract infection, site not specified"	"N39.0"	11	56703	Unreliable
+	"Mississippi"	"28"	"74 years"	"74"	"COVID-19"	"U07.1"	43	56703	75.8
+	"Mississippi"	"28"	"75 years"	"75"	"Septicaemia, unspecified"	"A41.9"	37	54149	68.3
+	"Mississippi"	"28"	"75 years"	"75"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	24	54149	44.3
+	"Mississippi"	"28"	"75 years"	"75"	"Liver, unspecified - Malignant neoplasms"	"C22.9"	12	54149	Unreliable
+	"Mississippi"	"28"	"75 years"	"75"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	39	54149	72.0
+	"Mississippi"	"28"	"75 years"	"75"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	120	54149	221.6
+	"Mississippi"	"28"	"75 years"	"75"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	53	54149	97.9
+	"Mississippi"	"28"	"75 years"	"75"	"Malignant neoplasm of ovary"	"C56"	17	54149	Unreliable
+	"Mississippi"	"28"	"75 years"	"75"	"Malignant neoplasm of kidney, except renal pelvis"	"C64"	11	54149	Unreliable
+	"Mississippi"	"28"	"75 years"	"75"	"Malignant neoplasm without specification of site"	"C80"	17	54149	Unreliable
+	"Mississippi"	"28"	"75 years"	"75"	"Multiple myeloma - Malignant neoplasms"	"C90.0"	19	54149	Unreliable
+	"Mississippi"	"28"	"75 years"	"75"	"Unspecified diabetes mellitus, with renal complications"	"E14.2"	19	54149	Unreliable
+	"Mississippi"	"28"	"75 years"	"75"	"Unspecified diabetes mellitus, without complications"	"E14.9"	26	54149	48.0
+	"Mississippi"	"28"	"75 years"	"75"	"Unspecified dementia"	"F03"	26	54149	48.0
+	"Mississippi"	"28"	"75 years"	"75"	"Parkinson disease"	"G20"	18	54149	Unreliable
+	"Mississippi"	"28"	"75 years"	"75"	"Alzheimer disease, unspecified"	"G30.9"	65	54149	120.0
+	"Mississippi"	"28"	"75 years"	"75"	"Essential (primary) hypertension"	"I10"	15	54149	Unreliable
+	"Mississippi"	"28"	"75 years"	"75"	"Hypertensive heart disease with (congestive) heart failure"	"I11.0"	17	54149	Unreliable
+	"Mississippi"	"28"	"75 years"	"75"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	30	54149	55.4
+	"Mississippi"	"28"	"75 years"	"75"	"Hypertensive renal disease with renal failure"	"I12.0"	11	54149	Unreliable
+	"Mississippi"	"28"	"75 years"	"75"	"Acute myocardial infarction, unspecified"	"I21.9"	107	54149	197.6
+	"Mississippi"	"28"	"75 years"	"75"	"Atherosclerotic heart disease"	"I25.1"	69	54149	127.4
+	"Mississippi"	"28"	"75 years"	"75"	"Cardiac arrest, unspecified"	"I46.9"	18	54149	Unreliable
+	"Mississippi"	"28"	"75 years"	"75"	"Congestive heart failure"	"I50.0"	70	54149	129.3
+	"Mississippi"	"28"	"75 years"	"75"	"Heart disease, unspecified"	"I51.9"	11	54149	Unreliable
+	"Mississippi"	"28"	"75 years"	"75"	"Intracranial haemorrhage (nontraumatic), unspecified"	"I62.9"	10	54149	Unreliable
+	"Mississippi"	"28"	"75 years"	"75"	"Cerebral infarction, unspecified"	"I63.9"	10	54149	Unreliable
+	"Mississippi"	"28"	"75 years"	"75"	"Stroke, not specified as haemorrhage or infarction"	"I64"	73	54149	134.8
+	"Mississippi"	"28"	"75 years"	"75"	"Pneumonia, unspecified"	"J18.9"	45	54149	83.1
+	"Mississippi"	"28"	"75 years"	"75"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	17	54149	Unreliable
+	"Mississippi"	"28"	"75 years"	"75"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	149	54149	275.2
+	"Mississippi"	"28"	"75 years"	"75"	"Respiratory failure, unspecified"	"J96.9"	10	54149	Unreliable
+	"Mississippi"	"28"	"75 years"	"75"	"Other and unspecified cirrhosis of liver"	"K74.6"	19	54149	Unreliable
+	"Mississippi"	"28"	"75 years"	"75"	"Chronic kidney disease, stage 5"	"N18.5"	22	54149	40.6
+	"Mississippi"	"28"	"75 years"	"75"	"Urinary tract infection, site not specified"	"N39.0"	14	54149	Unreliable
+	"Mississippi"	"28"	"75 years"	"75"	"COVID-19"	"U07.1"	38	54149	70.2
+	"Mississippi"	"28"	"76 years"	"76"	"Septicaemia, unspecified"	"A41.9"	23	51299	44.8
+	"Mississippi"	"28"	"76 years"	"76"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	27	51299	52.6
+	"Mississippi"	"28"	"76 years"	"76"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	40	51299	78.0
+	"Mississippi"	"28"	"76 years"	"76"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	109	51299	212.5
+	"Mississippi"	"28"	"76 years"	"76"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	52	51299	101.4
+	"Mississippi"	"28"	"76 years"	"76"	"Malignant neoplasm of ovary"	"C56"	19	51299	Unreliable
+	"Mississippi"	"28"	"76 years"	"76"	"Malignant neoplasm without specification of site"	"C80"	13	51299	Unreliable
+	"Mississippi"	"28"	"76 years"	"76"	"Multiple myeloma - Malignant neoplasms"	"C90.0"	11	51299	Unreliable
+	"Mississippi"	"28"	"76 years"	"76"	"Unspecified diabetes mellitus, with renal complications"	"E14.2"	22	51299	42.9
+	"Mississippi"	"28"	"76 years"	"76"	"Unspecified diabetes mellitus, without complications"	"E14.9"	29	51299	56.5
+	"Mississippi"	"28"	"76 years"	"76"	"Unspecified dementia"	"F03"	37	51299	72.1
+	"Mississippi"	"28"	"76 years"	"76"	"Parkinson disease"	"G20"	17	51299	Unreliable
+	"Mississippi"	"28"	"76 years"	"76"	"Alzheimer disease, unspecified"	"G30.9"	96	51299	187.1
+	"Mississippi"	"28"	"76 years"	"76"	"Essential (primary) hypertension"	"I10"	26	51299	50.7
+	"Mississippi"	"28"	"76 years"	"76"	"Hypertensive heart disease with (congestive) heart failure"	"I11.0"	14	51299	Unreliable
+	"Mississippi"	"28"	"76 years"	"76"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	29	51299	56.5
+	"Mississippi"	"28"	"76 years"	"76"	"Hypertensive renal disease with renal failure"	"I12.0"	11	51299	Unreliable
+	"Mississippi"	"28"	"76 years"	"76"	"Acute myocardial infarction, unspecified"	"I21.9"	79	51299	154.0
+	"Mississippi"	"28"	"76 years"	"76"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	12	51299	Unreliable
+	"Mississippi"	"28"	"76 years"	"76"	"Atherosclerotic heart disease"	"I25.1"	67	51299	130.6
+	"Mississippi"	"28"	"76 years"	"76"	"Cardiac arrest, unspecified"	"I46.9"	13	51299	Unreliable
+	"Mississippi"	"28"	"76 years"	"76"	"Atrial fibrillation and flutter"	"I48"	15	51299	Unreliable
+	"Mississippi"	"28"	"76 years"	"76"	"Congestive heart failure"	"I50.0"	75	51299	146.2
+	"Mississippi"	"28"	"76 years"	"76"	"Heart failure, unspecified"	"I50.9"	14	51299	Unreliable
+	"Mississippi"	"28"	"76 years"	"76"	"Cerebral infarction, unspecified"	"I63.9"	12	51299	Unreliable
+	"Mississippi"	"28"	"76 years"	"76"	"Stroke, not specified as haemorrhage or infarction"	"I64"	60	51299	117.0
+	"Mississippi"	"28"	"76 years"	"76"	"Sequelae of stroke, not specified as haemorrhage or infarction"	"I69.4"	12	51299	Unreliable
+	"Mississippi"	"28"	"76 years"	"76"	"Pneumonia, unspecified"	"J18.9"	37	51299	72.1
+	"Mississippi"	"28"	"76 years"	"76"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	16	51299	Unreliable
+	"Mississippi"	"28"	"76 years"	"76"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	133	51299	259.3
+	"Mississippi"	"28"	"76 years"	"76"	"Other interstitial pulmonary diseases with fibrosis"	"J84.1"	10	51299	Unreliable
+	"Mississippi"	"28"	"76 years"	"76"	"Other and unspecified cirrhosis of liver"	"K74.6"	18	51299	Unreliable
+	"Mississippi"	"28"	"76 years"	"76"	"Acute renal failure, unspecified"	"N17.9"	11	51299	Unreliable
+	"Mississippi"	"28"	"76 years"	"76"	"Chronic kidney disease, stage 5"	"N18.5"	19	51299	Unreliable
+	"Mississippi"	"28"	"76 years"	"76"	"Chronic renal failure, unspecified"	"N18.9"	10	51299	Unreliable
+	"Mississippi"	"28"	"76 years"	"76"	"Unspecified renal failure"	"N19"	16	51299	Unreliable
+	"Mississippi"	"28"	"76 years"	"76"	"Urinary tract infection, site not specified"	"N39.0"	17	51299	Unreliable
+	"Mississippi"	"28"	"76 years"	"76"	"COVID-19"	"U07.1"	58	51299	113.1
+	"Mississippi"	"28"	"77 years"	"77"	"Septicaemia, unspecified"	"A41.9"	29	48411	59.9
+	"Mississippi"	"28"	"77 years"	"77"	"Stomach, unspecified - Malignant neoplasms"	"C16.9"	10	48411	Unreliable
+	"Mississippi"	"28"	"77 years"	"77"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	24	48411	49.6
+	"Mississippi"	"28"	"77 years"	"77"	"Liver, unspecified - Malignant neoplasms"	"C22.9"	17	48411	Unreliable
+	"Mississippi"	"28"	"77 years"	"77"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	36	48411	74.4
+	"Mississippi"	"28"	"77 years"	"77"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	107	48411	221.0
+	"Mississippi"	"28"	"77 years"	"77"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	41	48411	84.7
+	"Mississippi"	"28"	"77 years"	"77"	"Malignant neoplasm of ovary"	"C56"	16	48411	Unreliable
+	"Mississippi"	"28"	"77 years"	"77"	"Malignant neoplasm without specification of site"	"C80"	12	48411	Unreliable
+	"Mississippi"	"28"	"77 years"	"77"	"Multiple myeloma - Malignant neoplasms"	"C90.0"	10	48411	Unreliable
+	"Mississippi"	"28"	"77 years"	"77"	"Unspecified diabetes mellitus, with renal complications"	"E14.2"	13	48411	Unreliable
+	"Mississippi"	"28"	"77 years"	"77"	"Unspecified diabetes mellitus, without complications"	"E14.9"	34	48411	70.2
+	"Mississippi"	"28"	"77 years"	"77"	"Unspecified dementia"	"F03"	34	48411	70.2
+	"Mississippi"	"28"	"77 years"	"77"	"Parkinson disease"	"G20"	20	48411	41.3
+	"Mississippi"	"28"	"77 years"	"77"	"Alzheimer disease, unspecified"	"G30.9"	116	48411	239.6
+	"Mississippi"	"28"	"77 years"	"77"	"Essential (primary) hypertension"	"I10"	25	48411	51.6
+	"Mississippi"	"28"	"77 years"	"77"	"Hypertensive heart disease with (congestive) heart failure"	"I11.0"	22	48411	45.4
+	"Mississippi"	"28"	"77 years"	"77"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	28	48411	57.8
+	"Mississippi"	"28"	"77 years"	"77"	"Hypertensive renal disease with renal failure"	"I12.0"	10	48411	Unreliable
+	"Mississippi"	"28"	"77 years"	"77"	"Acute myocardial infarction, unspecified"	"I21.9"	110	48411	227.2
+	"Mississippi"	"28"	"77 years"	"77"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	15	48411	Unreliable
+	"Mississippi"	"28"	"77 years"	"77"	"Atherosclerotic heart disease"	"I25.1"	75	48411	154.9
+	"Mississippi"	"28"	"77 years"	"77"	"Pulmonary embolism without mention of acute cor pulmonale"	"I26.9"	10	48411	Unreliable
+	"Mississippi"	"28"	"77 years"	"77"	"Cardiac arrest, unspecified"	"I46.9"	13	48411	Unreliable
+	"Mississippi"	"28"	"77 years"	"77"	"Atrial fibrillation and flutter"	"I48"	20	48411	41.3
+	"Mississippi"	"28"	"77 years"	"77"	"Congestive heart failure"	"I50.0"	67	48411	138.4
+	"Mississippi"	"28"	"77 years"	"77"	"Heart disease, unspecified"	"I51.9"	13	48411	Unreliable
+	"Mississippi"	"28"	"77 years"	"77"	"Intracerebral haemorrhage, unspecified"	"I61.9"	11	48411	Unreliable
+	"Mississippi"	"28"	"77 years"	"77"	"Cerebral infarction, unspecified"	"I63.9"	10	48411	Unreliable
+	"Mississippi"	"28"	"77 years"	"77"	"Stroke, not specified as haemorrhage or infarction"	"I64"	74	48411	152.9
+	"Mississippi"	"28"	"77 years"	"77"	"Pneumonia, unspecified"	"J18.9"	48	48411	99.2
+	"Mississippi"	"28"	"77 years"	"77"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	18	48411	Unreliable
+	"Mississippi"	"28"	"77 years"	"77"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	144	48411	297.5
+	"Mississippi"	"28"	"77 years"	"77"	"Pneumonitis due to food and vomit"	"J69.0"	12	48411	Unreliable
+	"Mississippi"	"28"	"77 years"	"77"	"Other and unspecified cirrhosis of liver"	"K74.6"	14	48411	Unreliable
+	"Mississippi"	"28"	"77 years"	"77"	"Chronic kidney disease, stage 5"	"N18.5"	22	48411	45.4
+	"Mississippi"	"28"	"77 years"	"77"	"Urinary tract infection, site not specified"	"N39.0"	15	48411	Unreliable
+	"Mississippi"	"28"	"77 years"	"77"	"COVID-19"	"U07.1"	53	48411	109.5
+	"Mississippi"	"28"	"77 years"	"77"	"Unspecified fall"	"W19"	10	48411	Unreliable
+	"Mississippi"	"28"	"78 years"	"78"	"Septicaemia, unspecified"	"A41.9"	32	44842	71.4
+	"Mississippi"	"28"	"78 years"	"78"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	24	44842	53.5
+	"Mississippi"	"28"	"78 years"	"78"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	28	44842	62.4
+	"Mississippi"	"28"	"78 years"	"78"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	118	44842	263.1
+	"Mississippi"	"28"	"78 years"	"78"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	48	44842	107.0
+	"Mississippi"	"28"	"78 years"	"78"	"Malignant neoplasm of ovary"	"C56"	10	44842	Unreliable
+	"Mississippi"	"28"	"78 years"	"78"	"Malignant neoplasm without specification of site"	"C80"	16	44842	Unreliable
+	"Mississippi"	"28"	"78 years"	"78"	"Multiple myeloma - Malignant neoplasms"	"C90.0"	10	44842	Unreliable
+	"Mississippi"	"28"	"78 years"	"78"	"Unspecified diabetes mellitus, with renal complications"	"E14.2"	17	44842	Unreliable
+	"Mississippi"	"28"	"78 years"	"78"	"Unspecified diabetes mellitus, without complications"	"E14.9"	39	44842	87.0
+	"Mississippi"	"28"	"78 years"	"78"	"Unspecified dementia"	"F03"	44	44842	98.1
+	"Mississippi"	"28"	"78 years"	"78"	"Parkinson disease"	"G20"	24	44842	53.5
+	"Mississippi"	"28"	"78 years"	"78"	"Alzheimer disease, unspecified"	"G30.9"	130	44842	289.9
+	"Mississippi"	"28"	"78 years"	"78"	"Essential (primary) hypertension"	"I10"	22	44842	49.1
+	"Mississippi"	"28"	"78 years"	"78"	"Hypertensive heart disease with (congestive) heart failure"	"I11.0"	23	44842	51.3
+	"Mississippi"	"28"	"78 years"	"78"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	28	44842	62.4
+	"Mississippi"	"28"	"78 years"	"78"	"Hypertensive renal disease with renal failure"	"I12.0"	12	44842	Unreliable
+	"Mississippi"	"28"	"78 years"	"78"	"Acute myocardial infarction, unspecified"	"I21.9"	94	44842	209.6
+	"Mississippi"	"28"	"78 years"	"78"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	10	44842	Unreliable
+	"Mississippi"	"28"	"78 years"	"78"	"Atherosclerotic heart disease"	"I25.1"	67	44842	149.4
+	"Mississippi"	"28"	"78 years"	"78"	"Cardiac arrest, unspecified"	"I46.9"	12	44842	Unreliable
+	"Mississippi"	"28"	"78 years"	"78"	"Congestive heart failure"	"I50.0"	68	44842	151.6
+	"Mississippi"	"28"	"78 years"	"78"	"Heart failure, unspecified"	"I50.9"	10	44842	Unreliable
+	"Mississippi"	"28"	"78 years"	"78"	"Stroke, not specified as haemorrhage or infarction"	"I64"	67	44842	149.4
+	"Mississippi"	"28"	"78 years"	"78"	"Cerebrovascular disease, unspecified"	"I67.9"	10	44842	Unreliable
+	"Mississippi"	"28"	"78 years"	"78"	"Pneumonia, unspecified"	"J18.9"	48	44842	107.0
+	"Mississippi"	"28"	"78 years"	"78"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	26	44842	58.0
+	"Mississippi"	"28"	"78 years"	"78"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	151	44842	336.7
+	"Mississippi"	"28"	"78 years"	"78"	"Pneumonitis due to food and vomit"	"J69.0"	16	44842	Unreliable
+	"Mississippi"	"28"	"78 years"	"78"	"Other interstitial pulmonary diseases with fibrosis"	"J84.1"	14	44842	Unreliable
+	"Mississippi"	"28"	"78 years"	"78"	"Other and unspecified cirrhosis of liver"	"K74.6"	15	44842	Unreliable
+	"Mississippi"	"28"	"78 years"	"78"	"Chronic kidney disease, stage 5"	"N18.5"	20	44842	44.6
+	"Mississippi"	"28"	"78 years"	"78"	"Unspecified renal failure"	"N19"	11	44842	Unreliable
+	"Mississippi"	"28"	"78 years"	"78"	"Urinary tract infection, site not specified"	"N39.0"	18	44842	Unreliable
+	"Mississippi"	"28"	"78 years"	"78"	"COVID-19"	"U07.1"	61	44842	136.0
+	"Mississippi"	"28"	"79 years"	"79"	"Septicaemia, unspecified"	"A41.9"	36	41778	86.2
+	"Mississippi"	"28"	"79 years"	"79"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	30	41778	71.8
+	"Mississippi"	"28"	"79 years"	"79"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	35	41778	83.8
+	"Mississippi"	"28"	"79 years"	"79"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	95	41778	227.4
+	"Mississippi"	"28"	"79 years"	"79"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	51	41778	122.1
+	"Mississippi"	"28"	"79 years"	"79"	"Malignant neoplasm of ovary"	"C56"	19	41778	Unreliable
+	"Mississippi"	"28"	"79 years"	"79"	"Brain, unspecified - Malignant neoplasms"	"C71.9"	13	41778	Unreliable
+	"Mississippi"	"28"	"79 years"	"79"	"Malignant neoplasm without specification of site"	"C80"	13	41778	Unreliable
+	"Mississippi"	"28"	"79 years"	"79"	"Acute myeloid leukaemia - Malignant neoplasms"	"C92.0"	10	41778	Unreliable
+	"Mississippi"	"28"	"79 years"	"79"	"Unspecified diabetes mellitus, with renal complications"	"E14.2"	20	41778	47.9
+	"Mississippi"	"28"	"79 years"	"79"	"Unspecified diabetes mellitus, without complications"	"E14.9"	36	41778	86.2
+	"Mississippi"	"28"	"79 years"	"79"	"Unspecified dementia"	"F03"	50	41778	119.7
+	"Mississippi"	"28"	"79 years"	"79"	"Parkinson disease"	"G20"	31	41778	74.2
+	"Mississippi"	"28"	"79 years"	"79"	"Alzheimer disease, unspecified"	"G30.9"	156	41778	373.4
+	"Mississippi"	"28"	"79 years"	"79"	"Essential (primary) hypertension"	"I10"	17	41778	Unreliable
+	"Mississippi"	"28"	"79 years"	"79"	"Hypertensive heart disease with (congestive) heart failure"	"I11.0"	20	41778	47.9
+	"Mississippi"	"28"	"79 years"	"79"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	34	41778	81.4
+	"Mississippi"	"28"	"79 years"	"79"	"Acute myocardial infarction, unspecified"	"I21.9"	89	41778	213.0
+	"Mississippi"	"28"	"79 years"	"79"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	12	41778	Unreliable
+	"Mississippi"	"28"	"79 years"	"79"	"Atherosclerotic heart disease"	"I25.1"	72	41778	172.3
+	"Mississippi"	"28"	"79 years"	"79"	"Cardiac arrest, unspecified"	"I46.9"	16	41778	Unreliable
+	"Mississippi"	"28"	"79 years"	"79"	"Atrial fibrillation and flutter"	"I48"	15	41778	Unreliable
+	"Mississippi"	"28"	"79 years"	"79"	"Congestive heart failure"	"I50.0"	74	41778	177.1
+	"Mississippi"	"28"	"79 years"	"79"	"Heart failure, unspecified"	"I50.9"	14	41778	Unreliable
+	"Mississippi"	"28"	"79 years"	"79"	"Intracerebral haemorrhage, unspecified"	"I61.9"	13	41778	Unreliable
+	"Mississippi"	"28"	"79 years"	"79"	"Intracranial haemorrhage (nontraumatic), unspecified"	"I62.9"	12	41778	Unreliable
+	"Mississippi"	"28"	"79 years"	"79"	"Stroke, not specified as haemorrhage or infarction"	"I64"	72	41778	172.3
+	"Mississippi"	"28"	"79 years"	"79"	"Pneumonia, unspecified"	"J18.9"	42	41778	100.5
+	"Mississippi"	"28"	"79 years"	"79"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	16	41778	Unreliable
+	"Mississippi"	"28"	"79 years"	"79"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	137	41778	327.9
+	"Mississippi"	"28"	"79 years"	"79"	"Pneumonitis due to food and vomit"	"J69.0"	13	41778	Unreliable
+	"Mississippi"	"28"	"79 years"	"79"	"Acute renal failure, unspecified"	"N17.9"	10	41778	Unreliable
+	"Mississippi"	"28"	"79 years"	"79"	"Chronic kidney disease, stage 5"	"N18.5"	22	41778	52.7
+	"Mississippi"	"28"	"79 years"	"79"	"Unspecified renal failure"	"N19"	14	41778	Unreliable
+	"Mississippi"	"28"	"79 years"	"79"	"Urinary tract infection, site not specified"	"N39.0"	21	41778	50.3
+	"Mississippi"	"28"	"79 years"	"79"	"COVID-19"	"U07.1"	46	41778	110.1
+	"Mississippi"	"28"	"79 years"	"79"	"Unspecified fall"	"W19"	16	41778	Unreliable
+	"Mississippi"	"28"	"80 years"	"80"	"Septicaemia, unspecified"	"A41.9"	34	38941	87.3
+	"Mississippi"	"28"	"80 years"	"80"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	35	38941	89.9
+	"Mississippi"	"28"	"80 years"	"80"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	31	38941	79.6
+	"Mississippi"	"28"	"80 years"	"80"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	116	38941	297.9
+	"Mississippi"	"28"	"80 years"	"80"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	34	38941	87.3
+	"Mississippi"	"28"	"80 years"	"80"	"Malignant neoplasm of ovary"	"C56"	15	38941	Unreliable
+	"Mississippi"	"28"	"80 years"	"80"	"Malignant neoplasm of kidney, except renal pelvis"	"C64"	14	38941	Unreliable
+	"Mississippi"	"28"	"80 years"	"80"	"Brain, unspecified - Malignant neoplasms"	"C71.9"	14	38941	Unreliable
+	"Mississippi"	"28"	"80 years"	"80"	"Malignant neoplasm without specification of site"	"C80"	14	38941	Unreliable
+	"Mississippi"	"28"	"80 years"	"80"	"Multiple myeloma - Malignant neoplasms"	"C90.0"	18	38941	Unreliable
+	"Mississippi"	"28"	"80 years"	"80"	"Unspecified diabetes mellitus, with renal complications"	"E14.2"	11	38941	Unreliable
+	"Mississippi"	"28"	"80 years"	"80"	"Unspecified diabetes mellitus, without complications"	"E14.9"	34	38941	87.3
+	"Mississippi"	"28"	"80 years"	"80"	"Unspecified dementia"	"F03"	59	38941	151.5
+	"Mississippi"	"28"	"80 years"	"80"	"Parkinson disease"	"G20"	19	38941	Unreliable
+	"Mississippi"	"28"	"80 years"	"80"	"Alzheimer disease, unspecified"	"G30.9"	171	38941	439.1
+	"Mississippi"	"28"	"80 years"	"80"	"Senile degeneration of brain, not elsewhere classified"	"G31.1"	12	38941	Unreliable
+	"Mississippi"	"28"	"80 years"	"80"	"Essential (primary) hypertension"	"I10"	17	38941	Unreliable
+	"Mississippi"	"28"	"80 years"	"80"	"Hypertensive heart disease with (congestive) heart failure"	"I11.0"	41	38941	105.3
+	"Mississippi"	"28"	"80 years"	"80"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	48	38941	123.3
+	"Mississippi"	"28"	"80 years"	"80"	"Acute myocardial infarction, unspecified"	"I21.9"	103	38941	264.5
+	"Mississippi"	"28"	"80 years"	"80"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	15	38941	Unreliable
+	"Mississippi"	"28"	"80 years"	"80"	"Atherosclerotic heart disease"	"I25.1"	69	38941	177.2
+	"Mississippi"	"28"	"80 years"	"80"	"Cardiomyopathy, unspecified"	"I42.9"	10	38941	Unreliable
+	"Mississippi"	"28"	"80 years"	"80"	"Cardiac arrest, unspecified"	"I46.9"	11	38941	Unreliable
+	"Mississippi"	"28"	"80 years"	"80"	"Atrial fibrillation and flutter"	"I48"	16	38941	Unreliable
+	"Mississippi"	"28"	"80 years"	"80"	"Congestive heart failure"	"I50.0"	80	38941	205.4
+	"Mississippi"	"28"	"80 years"	"80"	"Intracerebral haemorrhage, unspecified"	"I61.9"	10	38941	Unreliable
+	"Mississippi"	"28"	"80 years"	"80"	"Cerebral infarction, unspecified"	"I63.9"	12	38941	Unreliable
+	"Mississippi"	"28"	"80 years"	"80"	"Stroke, not specified as haemorrhage or infarction"	"I64"	73	38941	187.5
+	"Mississippi"	"28"	"80 years"	"80"	"Pneumonia, unspecified"	"J18.9"	46	38941	118.1
+	"Mississippi"	"28"	"80 years"	"80"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	15	38941	Unreliable
+	"Mississippi"	"28"	"80 years"	"80"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	123	38941	315.9
+	"Mississippi"	"28"	"80 years"	"80"	"Pneumonitis due to food and vomit"	"J69.0"	10	38941	Unreliable
+	"Mississippi"	"28"	"80 years"	"80"	"Other interstitial pulmonary diseases with fibrosis"	"J84.1"	10	38941	Unreliable
+	"Mississippi"	"28"	"80 years"	"80"	"Other and unspecified intestinal obstruction"	"K56.6"	10	38941	Unreliable
+	"Mississippi"	"28"	"80 years"	"80"	"Other and unspecified cirrhosis of liver"	"K74.6"	11	38941	Unreliable
+	"Mississippi"	"28"	"80 years"	"80"	"Gastrointestinal haemorrhage, unspecified"	"K92.2"	11	38941	Unreliable
+	"Mississippi"	"28"	"80 years"	"80"	"Acute renal failure, unspecified"	"N17.9"	11	38941	Unreliable
+	"Mississippi"	"28"	"80 years"	"80"	"Chronic kidney disease, stage 5"	"N18.5"	19	38941	Unreliable
+	"Mississippi"	"28"	"80 years"	"80"	"Unspecified renal failure"	"N19"	10	38941	Unreliable
+	"Mississippi"	"28"	"80 years"	"80"	"Urinary tract infection, site not specified"	"N39.0"	28	38941	71.9
+	"Mississippi"	"28"	"80 years"	"80"	"COVID-19"	"U07.1"	70	38941	179.8
+	"Mississippi"	"28"	"80 years"	"80"	"Unspecified fall"	"W19"	15	38941	Unreliable
+	"Mississippi"	"28"	"81 years"	"81"	"Septicaemia, unspecified"	"A41.9"	35	36689	95.4
+	"Mississippi"	"28"	"81 years"	"81"	"Stomach, unspecified - Malignant neoplasms"	"C16.9"	12	36689	Unreliable
+	"Mississippi"	"28"	"81 years"	"81"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	25	36689	68.1
+	"Mississippi"	"28"	"81 years"	"81"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	31	36689	84.5
+	"Mississippi"	"28"	"81 years"	"81"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	92	36689	250.8
+	"Mississippi"	"28"	"81 years"	"81"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	58	36689	158.1
+	"Mississippi"	"28"	"81 years"	"81"	"Malignant neoplasm of ovary"	"C56"	16	36689	Unreliable
+	"Mississippi"	"28"	"81 years"	"81"	"Malignant neoplasm without specification of site"	"C80"	12	36689	Unreliable
+	"Mississippi"	"28"	"81 years"	"81"	"Unspecified diabetes mellitus, with renal complications"	"E14.2"	21	36689	57.2
+	"Mississippi"	"28"	"81 years"	"81"	"Unspecified diabetes mellitus, without complications"	"E14.9"	35	36689	95.4
+	"Mississippi"	"28"	"81 years"	"81"	"Unspecified dementia"	"F03"	59	36689	160.8
+	"Mississippi"	"28"	"81 years"	"81"	"Parkinson disease"	"G20"	19	36689	Unreliable
+	"Mississippi"	"28"	"81 years"	"81"	"Alzheimer disease, unspecified"	"G30.9"	212	36689	577.8
+	"Mississippi"	"28"	"81 years"	"81"	"Senile degeneration of brain, not elsewhere classified"	"G31.1"	11	36689	Unreliable
+	"Mississippi"	"28"	"81 years"	"81"	"Essential (primary) hypertension"	"I10"	23	36689	62.7
+	"Mississippi"	"28"	"81 years"	"81"	"Hypertensive heart disease with (congestive) heart failure"	"I11.0"	28	36689	76.3
+	"Mississippi"	"28"	"81 years"	"81"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	26	36689	70.9
+	"Mississippi"	"28"	"81 years"	"81"	"Hypertensive renal disease with renal failure"	"I12.0"	11	36689	Unreliable
+	"Mississippi"	"28"	"81 years"	"81"	"Acute myocardial infarction, unspecified"	"I21.9"	91	36689	248.0
+	"Mississippi"	"28"	"81 years"	"81"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	13	36689	Unreliable
+	"Mississippi"	"28"	"81 years"	"81"	"Atherosclerotic heart disease"	"I25.1"	76	36689	207.1
+	"Mississippi"	"28"	"81 years"	"81"	"Aortic (valve) stenosis"	"I35.0"	10	36689	Unreliable
+	"Mississippi"	"28"	"81 years"	"81"	"Cardiomyopathy, unspecified"	"I42.9"	11	36689	Unreliable
+	"Mississippi"	"28"	"81 years"	"81"	"Cardiac arrest, unspecified"	"I46.9"	15	36689	Unreliable
+	"Mississippi"	"28"	"81 years"	"81"	"Atrial fibrillation and flutter"	"I48"	17	36689	Unreliable
+	"Mississippi"	"28"	"81 years"	"81"	"Congestive heart failure"	"I50.0"	111	36689	302.5
+	"Mississippi"	"28"	"81 years"	"81"	"Heart failure, unspecified"	"I50.9"	16	36689	Unreliable
+	"Mississippi"	"28"	"81 years"	"81"	"Heart disease, unspecified"	"I51.9"	10	36689	Unreliable
+	"Mississippi"	"28"	"81 years"	"81"	"Intracerebral haemorrhage, unspecified"	"I61.9"	11	36689	Unreliable
+	"Mississippi"	"28"	"81 years"	"81"	"Intracranial haemorrhage (nontraumatic), unspecified"	"I62.9"	10	36689	Unreliable
+	"Mississippi"	"28"	"81 years"	"81"	"Cerebral infarction, unspecified"	"I63.9"	10	36689	Unreliable
+	"Mississippi"	"28"	"81 years"	"81"	"Stroke, not specified as haemorrhage or infarction"	"I64"	88	36689	239.9
+	"Mississippi"	"28"	"81 years"	"81"	"Sequelae of stroke, not specified as haemorrhage or infarction"	"I69.4"	10	36689	Unreliable
+	"Mississippi"	"28"	"81 years"	"81"	"Pneumonia, unspecified"	"J18.9"	58	36689	158.1
+	"Mississippi"	"28"	"81 years"	"81"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	21	36689	57.2
+	"Mississippi"	"28"	"81 years"	"81"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	144	36689	392.5
+	"Mississippi"	"28"	"81 years"	"81"	"Pneumonitis due to food and vomit"	"J69.0"	13	36689	Unreliable
+	"Mississippi"	"28"	"81 years"	"81"	"Chronic kidney disease, stage 5"	"N18.5"	18	36689	Unreliable
+	"Mississippi"	"28"	"81 years"	"81"	"Unspecified renal failure"	"N19"	14	36689	Unreliable
+	"Mississippi"	"28"	"81 years"	"81"	"Urinary tract infection, site not specified"	"N39.0"	16	36689	Unreliable
+	"Mississippi"	"28"	"81 years"	"81"	"COVID-19"	"U07.1"	58	36689	158.1
+	"Mississippi"	"28"	"81 years"	"81"	"Unspecified fall"	"W19"	10	36689	Unreliable
+	"Mississippi"	"28"	"82 years"	"82"	"Septicaemia, unspecified"	"A41.9"	37	33457	110.6
+	"Mississippi"	"28"	"82 years"	"82"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	24	33457	71.7
+	"Mississippi"	"28"	"82 years"	"82"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	33	33457	98.6
+	"Mississippi"	"28"	"82 years"	"82"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	85	33457	254.1
+	"Mississippi"	"28"	"82 years"	"82"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	48	33457	143.5
+	"Mississippi"	"28"	"82 years"	"82"	"Malignant neoplasm of ovary"	"C56"	18	33457	Unreliable
+	"Mississippi"	"28"	"82 years"	"82"	"Bladder, unspecified - Malignant neoplasms"	"C67.9"	11	33457	Unreliable
+	"Mississippi"	"28"	"82 years"	"82"	"Malignant neoplasm without specification of site"	"C80"	17	33457	Unreliable
+	"Mississippi"	"28"	"82 years"	"82"	"Multiple myeloma - Malignant neoplasms"	"C90.0"	12	33457	Unreliable
+	"Mississippi"	"28"	"82 years"	"82"	"Unspecified diabetes mellitus, with renal complications"	"E14.2"	19	33457	Unreliable
+	"Mississippi"	"28"	"82 years"	"82"	"Unspecified diabetes mellitus, without complications"	"E14.9"	36	33457	107.6
+	"Mississippi"	"28"	"82 years"	"82"	"Unspecified dementia"	"F03"	94	33457	281.0
+	"Mississippi"	"28"	"82 years"	"82"	"Parkinson disease"	"G20"	32	33457	95.6
+	"Mississippi"	"28"	"82 years"	"82"	"Alzheimer disease, unspecified"	"G30.9"	222	33457	663.5
+	"Mississippi"	"28"	"82 years"	"82"	"Senile degeneration of brain, not elsewhere classified"	"G31.1"	13	33457	Unreliable
+	"Mississippi"	"28"	"82 years"	"82"	"Essential (primary) hypertension"	"I10"	18	33457	Unreliable
+	"Mississippi"	"28"	"82 years"	"82"	"Hypertensive heart disease with (congestive) heart failure"	"I11.0"	38	33457	113.6
+	"Mississippi"	"28"	"82 years"	"82"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	30	33457	89.7
+	"Mississippi"	"28"	"82 years"	"82"	"Hypertensive renal disease with renal failure"	"I12.0"	11	33457	Unreliable
+	"Mississippi"	"28"	"82 years"	"82"	"Acute myocardial infarction, unspecified"	"I21.9"	89	33457	266.0
+	"Mississippi"	"28"	"82 years"	"82"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	18	33457	Unreliable
+	"Mississippi"	"28"	"82 years"	"82"	"Atherosclerotic heart disease"	"I25.1"	102	33457	304.9
+	"Mississippi"	"28"	"82 years"	"82"	"Cardiomyopathy, unspecified"	"I42.9"	10	33457	Unreliable
+	"Mississippi"	"28"	"82 years"	"82"	"Atrial fibrillation and flutter"	"I48"	36	33457	107.6
+	"Mississippi"	"28"	"82 years"	"82"	"Congestive heart failure"	"I50.0"	92	33457	275.0
+	"Mississippi"	"28"	"82 years"	"82"	"Heart failure, unspecified"	"I50.9"	11	33457	Unreliable
+	"Mississippi"	"28"	"82 years"	"82"	"Heart disease, unspecified"	"I51.9"	12	33457	Unreliable
+	"Mississippi"	"28"	"82 years"	"82"	"Intracerebral haemorrhage, unspecified"	"I61.9"	11	33457	Unreliable
+	"Mississippi"	"28"	"82 years"	"82"	"Cerebral infarction, unspecified"	"I63.9"	12	33457	Unreliable
+	"Mississippi"	"28"	"82 years"	"82"	"Stroke, not specified as haemorrhage or infarction"	"I64"	79	33457	236.1
+	"Mississippi"	"28"	"82 years"	"82"	"Pneumonia, unspecified"	"J18.9"	53	33457	158.4
+	"Mississippi"	"28"	"82 years"	"82"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	22	33457	65.8
+	"Mississippi"	"28"	"82 years"	"82"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	157	33457	469.3
+	"Mississippi"	"28"	"82 years"	"82"	"Pneumonitis due to food and vomit"	"J69.0"	15	33457	Unreliable
+	"Mississippi"	"28"	"82 years"	"82"	"Respiratory failure, unspecified"	"J96.9"	11	33457	Unreliable
+	"Mississippi"	"28"	"82 years"	"82"	"Other and unspecified cirrhosis of liver"	"K74.6"	14	33457	Unreliable
+	"Mississippi"	"28"	"82 years"	"82"	"Acute renal failure, unspecified"	"N17.9"	12	33457	Unreliable
+	"Mississippi"	"28"	"82 years"	"82"	"Chronic kidney disease, stage 5"	"N18.5"	29	33457	86.7
+	"Mississippi"	"28"	"82 years"	"82"	"Unspecified renal failure"	"N19"	10	33457	Unreliable
+	"Mississippi"	"28"	"82 years"	"82"	"Urinary tract infection, site not specified"	"N39.0"	21	33457	62.8
+	"Mississippi"	"28"	"82 years"	"82"	"COVID-19"	"U07.1"	60	33457	179.3
+	"Mississippi"	"28"	"82 years"	"82"	"Unspecified fall"	"W19"	15	33457	Unreliable
+	"Mississippi"	"28"	"83 years"	"83"	"Septicaemia, unspecified"	"A41.9"	31	30674	101.1
+	"Mississippi"	"28"	"83 years"	"83"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	24	30674	78.2
+	"Mississippi"	"28"	"83 years"	"83"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	22	30674	71.7
+	"Mississippi"	"28"	"83 years"	"83"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	77	30674	251.0
+	"Mississippi"	"28"	"83 years"	"83"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	48	30674	156.5
+	"Mississippi"	"28"	"83 years"	"83"	"Malignant neoplasm of kidney, except renal pelvis"	"C64"	14	30674	Unreliable
+	"Mississippi"	"28"	"83 years"	"83"	"Malignant neoplasm without specification of site"	"C80"	12	30674	Unreliable
+	"Mississippi"	"28"	"83 years"	"83"	"Multiple myeloma - Malignant neoplasms"	"C90.0"	10	30674	Unreliable
+	"Mississippi"	"28"	"83 years"	"83"	"Leukaemia, unspecified - Malignant neoplasms"	"C95.9"	10	30674	Unreliable
+	"Mississippi"	"28"	"83 years"	"83"	"Unspecified diabetes mellitus, with renal complications"	"E14.2"	15	30674	Unreliable
+	"Mississippi"	"28"	"83 years"	"83"	"Unspecified diabetes mellitus, without complications"	"E14.9"	39	30674	127.1
+	"Mississippi"	"28"	"83 years"	"83"	"Unspecified dementia"	"F03"	94	30674	306.4
+	"Mississippi"	"28"	"83 years"	"83"	"Parkinson disease"	"G20"	37	30674	120.6
+	"Mississippi"	"28"	"83 years"	"83"	"Alzheimer disease, unspecified"	"G30.9"	226	30674	736.8
+	"Mississippi"	"28"	"83 years"	"83"	"Senile degeneration of brain, not elsewhere classified"	"G31.1"	15	30674	Unreliable
+	"Mississippi"	"28"	"83 years"	"83"	"Essential (primary) hypertension"	"I10"	21	30674	68.5
+	"Mississippi"	"28"	"83 years"	"83"	"Hypertensive heart disease with (congestive) heart failure"	"I11.0"	29	30674	94.5
+	"Mississippi"	"28"	"83 years"	"83"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	36	30674	117.4
+	"Mississippi"	"28"	"83 years"	"83"	"Hypertensive renal disease with renal failure"	"I12.0"	12	30674	Unreliable
+	"Mississippi"	"28"	"83 years"	"83"	"Acute myocardial infarction, unspecified"	"I21.9"	79	30674	257.5
+	"Mississippi"	"28"	"83 years"	"83"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	14	30674	Unreliable
+	"Mississippi"	"28"	"83 years"	"83"	"Atherosclerotic heart disease"	"I25.1"	88	30674	286.9
+	"Mississippi"	"28"	"83 years"	"83"	"Aortic (valve) stenosis"	"I35.0"	10	30674	Unreliable
+	"Mississippi"	"28"	"83 years"	"83"	"Cardiac arrest, unspecified"	"I46.9"	14	30674	Unreliable
+	"Mississippi"	"28"	"83 years"	"83"	"Atrial fibrillation and flutter"	"I48"	22	30674	71.7
+	"Mississippi"	"28"	"83 years"	"83"	"Congestive heart failure"	"I50.0"	105	30674	342.3
+	"Mississippi"	"28"	"83 years"	"83"	"Heart failure, unspecified"	"I50.9"	14	30674	Unreliable
+	"Mississippi"	"28"	"83 years"	"83"	"Heart disease, unspecified"	"I51.9"	23	30674	75.0
+	"Mississippi"	"28"	"83 years"	"83"	"Intracerebral haemorrhage, unspecified"	"I61.9"	10	30674	Unreliable
+	"Mississippi"	"28"	"83 years"	"83"	"Cerebral infarction, unspecified"	"I63.9"	21	30674	68.5
+	"Mississippi"	"28"	"83 years"	"83"	"Stroke, not specified as haemorrhage or infarction"	"I64"	96	30674	313.0
+	"Mississippi"	"28"	"83 years"	"83"	"Sequelae of stroke, not specified as haemorrhage or infarction"	"I69.4"	14	30674	Unreliable
+	"Mississippi"	"28"	"83 years"	"83"	"Pneumonia, unspecified"	"J18.9"	43	30674	140.2
+	"Mississippi"	"28"	"83 years"	"83"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	131	30674	427.1
+	"Mississippi"	"28"	"83 years"	"83"	"Pneumonitis due to food and vomit"	"J69.0"	14	30674	Unreliable
+	"Mississippi"	"28"	"83 years"	"83"	"Chronic kidney disease, stage 5"	"N18.5"	19	30674	Unreliable
+	"Mississippi"	"28"	"83 years"	"83"	"Chronic renal failure, unspecified"	"N18.9"	12	30674	Unreliable
+	"Mississippi"	"28"	"83 years"	"83"	"Unspecified renal failure"	"N19"	12	30674	Unreliable
+	"Mississippi"	"28"	"83 years"	"83"	"Urinary tract infection, site not specified"	"N39.0"	18	30674	Unreliable
+	"Mississippi"	"28"	"83 years"	"83"	"COVID-19"	"U07.1"	47	30674	153.2
+	"Mississippi"	"28"	"83 years"	"83"	"Other fall on same level"	"W18"	10	30674	Unreliable
+	"Mississippi"	"28"	"83 years"	"83"	"Unspecified fall"	"W19"	20	30674	65.2
+	"Mississippi"	"28"	"84 years"	"84"	"Septicaemia, unspecified"	"A41.9"	34	28024	121.3
+	"Mississippi"	"28"	"84 years"	"84"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	28	28024	99.9
+	"Mississippi"	"28"	"84 years"	"84"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	27	28024	96.3
+	"Mississippi"	"28"	"84 years"	"84"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	58	28024	207.0
+	"Mississippi"	"28"	"84 years"	"84"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	43	28024	153.4
+	"Mississippi"	"28"	"84 years"	"84"	"Malignant neoplasm of ovary"	"C56"	12	28024	Unreliable
+	"Mississippi"	"28"	"84 years"	"84"	"Malignant neoplasm without specification of site"	"C80"	13	28024	Unreliable
+	"Mississippi"	"28"	"84 years"	"84"	"Non-Hodgkin lymphoma, unspecified type"	"C85.9"	10	28024	Unreliable
+	"Mississippi"	"28"	"84 years"	"84"	"Multiple myeloma - Malignant neoplasms"	"C90.0"	14	28024	Unreliable
+	"Mississippi"	"28"	"84 years"	"84"	"Unspecified diabetes mellitus, with renal complications"	"E14.2"	13	28024	Unreliable
+	"Mississippi"	"28"	"84 years"	"84"	"Unspecified diabetes mellitus, without complications"	"E14.9"	30	28024	107.1
+	"Mississippi"	"28"	"84 years"	"84"	"Unspecified dementia"	"F03"	93	28024	331.9
+	"Mississippi"	"28"	"84 years"	"84"	"Parkinson disease"	"G20"	34	28024	121.3
+	"Mississippi"	"28"	"84 years"	"84"	"Alzheimer disease, unspecified"	"G30.9"	277	28024	988.4
+	"Mississippi"	"28"	"84 years"	"84"	"Senile degeneration of brain, not elsewhere classified"	"G31.1"	18	28024	Unreliable
+	"Mississippi"	"28"	"84 years"	"84"	"Essential (primary) hypertension"	"I10"	27	28024	96.3
+	"Mississippi"	"28"	"84 years"	"84"	"Hypertensive heart disease with (congestive) heart failure"	"I11.0"	36	28024	128.5
+	"Mississippi"	"28"	"84 years"	"84"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	31	28024	110.6
+	"Mississippi"	"28"	"84 years"	"84"	"Hypertensive renal disease with renal failure"	"I12.0"	11	28024	Unreliable
+	"Mississippi"	"28"	"84 years"	"84"	"Acute myocardial infarction, unspecified"	"I21.9"	85	28024	303.3
+	"Mississippi"	"28"	"84 years"	"84"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	23	28024	82.1
+	"Mississippi"	"28"	"84 years"	"84"	"Atherosclerotic heart disease"	"I25.1"	100	28024	356.8
+	"Mississippi"	"28"	"84 years"	"84"	"Cardiac arrest, unspecified"	"I46.9"	16	28024	Unreliable
+	"Mississippi"	"28"	"84 years"	"84"	"Atrial fibrillation and flutter"	"I48"	25	28024	89.2
+	"Mississippi"	"28"	"84 years"	"84"	"Congestive heart failure"	"I50.0"	146	28024	521.0
+	"Mississippi"	"28"	"84 years"	"84"	"Heart failure, unspecified"	"I50.9"	13	28024	Unreliable
+	"Mississippi"	"28"	"84 years"	"84"	"Heart disease, unspecified"	"I51.9"	15	28024	Unreliable
+	"Mississippi"	"28"	"84 years"	"84"	"Cerebral infarction, unspecified"	"I63.9"	12	28024	Unreliable
+	"Mississippi"	"28"	"84 years"	"84"	"Stroke, not specified as haemorrhage or infarction"	"I64"	97	28024	346.1
+	"Mississippi"	"28"	"84 years"	"84"	"Pneumonia, unspecified"	"J18.9"	55	28024	196.3
+	"Mississippi"	"28"	"84 years"	"84"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	10	28024	Unreliable
+	"Mississippi"	"28"	"84 years"	"84"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	122	28024	435.3
+	"Mississippi"	"28"	"84 years"	"84"	"Other and unspecified intestinal obstruction"	"K56.6"	10	28024	Unreliable
+	"Mississippi"	"28"	"84 years"	"84"	"Other and unspecified cirrhosis of liver"	"K74.6"	14	28024	Unreliable
+	"Mississippi"	"28"	"84 years"	"84"	"Chronic kidney disease, stage 5"	"N18.5"	25	28024	89.2
+	"Mississippi"	"28"	"84 years"	"84"	"Chronic renal failure, unspecified"	"N18.9"	14	28024	Unreliable
+	"Mississippi"	"28"	"84 years"	"84"	"Unspecified renal failure"	"N19"	14	28024	Unreliable
+	"Mississippi"	"28"	"84 years"	"84"	"Urinary tract infection, site not specified"	"N39.0"	20	28024	71.4
+	"Mississippi"	"28"	"84 years"	"84"	"COVID-19"	"U07.1"	55	28024	196.3
+	"Mississippi"	"28"	"84 years"	"84"	"Unspecified fall"	"W19"	16	28024	Unreliable
+	"Mississippi"	"28"	"85 years"	"85"	"Septicaemia, unspecified"	"A41.9"	28	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"85 years"	"85"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	28	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"85 years"	"85"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	30	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"85 years"	"85"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	71	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"85 years"	"85"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	42	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"85 years"	"85"	"Malignant neoplasm without specification of site"	"C80"	11	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"85 years"	"85"	"Unspecified diabetes mellitus, with renal complications"	"E14.2"	17	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"85 years"	"85"	"Unspecified diabetes mellitus, without complications"	"E14.9"	37	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"85 years"	"85"	"Unspecified dementia"	"F03"	109	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"85 years"	"85"	"Parkinson disease"	"G20"	32	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"85 years"	"85"	"Alzheimer disease, unspecified"	"G30.9"	284	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"85 years"	"85"	"Senile degeneration of brain, not elsewhere classified"	"G31.1"	15	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"85 years"	"85"	"Essential (primary) hypertension"	"I10"	34	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"85 years"	"85"	"Hypertensive heart disease with (congestive) heart failure"	"I11.0"	39	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"85 years"	"85"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	35	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"85 years"	"85"	"Hypertensive renal disease with renal failure"	"I12.0"	10	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"85 years"	"85"	"Acute myocardial infarction, unspecified"	"I21.9"	85	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"85 years"	"85"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	16	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"85 years"	"85"	"Atherosclerotic heart disease"	"I25.1"	90	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"85 years"	"85"	"Aortic (valve) stenosis"	"I35.0"	17	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"85 years"	"85"	"Cardiac arrest, unspecified"	"I46.9"	13	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"85 years"	"85"	"Atrial fibrillation and flutter"	"I48"	37	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"85 years"	"85"	"Congestive heart failure"	"I50.0"	115	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"85 years"	"85"	"Heart failure, unspecified"	"I50.9"	22	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"85 years"	"85"	"Heart disease, unspecified"	"I51.9"	17	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"85 years"	"85"	"Intracerebral haemorrhage, unspecified"	"I61.9"	10	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"85 years"	"85"	"Cerebral infarction, unspecified"	"I63.9"	10	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"85 years"	"85"	"Stroke, not specified as haemorrhage or infarction"	"I64"	87	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"85 years"	"85"	"Sequelae of stroke, not specified as haemorrhage or infarction"	"I69.4"	12	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"85 years"	"85"	"Pneumonia, unspecified"	"J18.9"	52	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"85 years"	"85"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	22	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"85 years"	"85"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	126	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"85 years"	"85"	"Pneumonitis due to food and vomit"	"J69.0"	14	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"85 years"	"85"	"Other and unspecified cirrhosis of liver"	"K74.6"	10	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"85 years"	"85"	"Gastrointestinal haemorrhage, unspecified"	"K92.2"	11	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"85 years"	"85"	"Chronic kidney disease, stage 5"	"N18.5"	16	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"85 years"	"85"	"Chronic renal failure, unspecified"	"N18.9"	17	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"85 years"	"85"	"Unspecified renal failure"	"N19"	13	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"85 years"	"85"	"Urinary tract infection, site not specified"	"N39.0"	29	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"85 years"	"85"	"COVID-19"	"U07.1"	60	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"85 years"	"85"	"Other fall on same level"	"W18"	12	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"85 years"	"85"	"Unspecified fall"	"W19"	16	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"86 years"	"86"	"Septicaemia, unspecified"	"A41.9"	20	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"86 years"	"86"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	22	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"86 years"	"86"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	22	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"86 years"	"86"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	55	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"86 years"	"86"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	32	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"86 years"	"86"	"Bladder, unspecified - Malignant neoplasms"	"C67.9"	11	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"86 years"	"86"	"Malignant neoplasm without specification of site"	"C80"	10	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"86 years"	"86"	"Unspecified diabetes mellitus, with renal complications"	"E14.2"	12	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"86 years"	"86"	"Unspecified diabetes mellitus, without complications"	"E14.9"	27	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"86 years"	"86"	"Unspecified dementia"	"F03"	106	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"86 years"	"86"	"Parkinson disease"	"G20"	40	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"86 years"	"86"	"Alzheimer disease, unspecified"	"G30.9"	294	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"86 years"	"86"	"Senile degeneration of brain, not elsewhere classified"	"G31.1"	12	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"86 years"	"86"	"Essential (primary) hypertension"	"I10"	26	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"86 years"	"86"	"Hypertensive heart disease with (congestive) heart failure"	"I11.0"	38	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"86 years"	"86"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	43	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"86 years"	"86"	"Hypertensive renal disease with renal failure"	"I12.0"	10	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"86 years"	"86"	"Acute myocardial infarction, unspecified"	"I21.9"	88	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"86 years"	"86"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	19	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"86 years"	"86"	"Atherosclerotic heart disease"	"I25.1"	95	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"86 years"	"86"	"Other secondary pulmonary hypertension"	"I27.2"	13	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"86 years"	"86"	"Aortic (valve) stenosis"	"I35.0"	10	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"86 years"	"86"	"Cardiac arrest, unspecified"	"I46.9"	25	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"86 years"	"86"	"Atrial fibrillation and flutter"	"I48"	32	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"86 years"	"86"	"Congestive heart failure"	"I50.0"	135	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"86 years"	"86"	"Heart failure, unspecified"	"I50.9"	34	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"86 years"	"86"	"Heart disease, unspecified"	"I51.9"	16	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"86 years"	"86"	"Intracerebral haemorrhage, unspecified"	"I61.9"	15	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"86 years"	"86"	"Intracranial haemorrhage (nontraumatic), unspecified"	"I62.9"	10	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"86 years"	"86"	"Cerebral infarction, unspecified"	"I63.9"	17	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"86 years"	"86"	"Stroke, not specified as haemorrhage or infarction"	"I64"	106	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"86 years"	"86"	"Pneumonia, unspecified"	"J18.9"	65	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"86 years"	"86"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	18	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"86 years"	"86"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	137	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"86 years"	"86"	"Pneumonitis due to food and vomit"	"J69.0"	17	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"86 years"	"86"	"Other interstitial pulmonary diseases with fibrosis"	"J84.1"	15	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"86 years"	"86"	"Chronic kidney disease, stage 5"	"N18.5"	15	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"86 years"	"86"	"Chronic renal failure, unspecified"	"N18.9"	13	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"86 years"	"86"	"Urinary tract infection, site not specified"	"N39.0"	24	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"86 years"	"86"	"COVID-19"	"U07.1"	47	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"86 years"	"86"	"Other fall on same level"	"W18"	12	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"86 years"	"86"	"Unspecified fall"	"W19"	18	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"87 years"	"87"	"Septicaemia, unspecified"	"A41.9"	25	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"87 years"	"87"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	21	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"87 years"	"87"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	28	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"87 years"	"87"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	62	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"87 years"	"87"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	36	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"87 years"	"87"	"Malignant neoplasm without specification of site"	"C80"	13	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"87 years"	"87"	"Unspecified diabetes mellitus, with renal complications"	"E14.2"	11	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"87 years"	"87"	"Unspecified diabetes mellitus, without complications"	"E14.9"	27	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"87 years"	"87"	"Unspecified dementia"	"F03"	107	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"87 years"	"87"	"Parkinson disease"	"G20"	30	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"87 years"	"87"	"Alzheimer disease, unspecified"	"G30.9"	304	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"87 years"	"87"	"Senile degeneration of brain, not elsewhere classified"	"G31.1"	25	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"87 years"	"87"	"Essential (primary) hypertension"	"I10"	32	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"87 years"	"87"	"Hypertensive heart disease with (congestive) heart failure"	"I11.0"	55	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"87 years"	"87"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	35	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"87 years"	"87"	"Acute myocardial infarction, unspecified"	"I21.9"	77	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"87 years"	"87"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	24	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"87 years"	"87"	"Atherosclerotic heart disease"	"I25.1"	103	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"87 years"	"87"	"Aortic (valve) stenosis"	"I35.0"	12	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"87 years"	"87"	"Cardiac arrest, unspecified"	"I46.9"	15	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"87 years"	"87"	"Atrial fibrillation and flutter"	"I48"	27	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"87 years"	"87"	"Congestive heart failure"	"I50.0"	126	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"87 years"	"87"	"Heart failure, unspecified"	"I50.9"	24	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"87 years"	"87"	"Heart disease, unspecified"	"I51.9"	24	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"87 years"	"87"	"Intracranial haemorrhage (nontraumatic), unspecified"	"I62.9"	11	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"87 years"	"87"	"Cerebral infarction, unspecified"	"I63.9"	13	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"87 years"	"87"	"Stroke, not specified as haemorrhage or infarction"	"I64"	91	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"87 years"	"87"	"Pneumonia, unspecified"	"J18.9"	58	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"87 years"	"87"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	114	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"87 years"	"87"	"Pneumonitis due to food and vomit"	"J69.0"	17	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"87 years"	"87"	"Acute renal failure, unspecified"	"N17.9"	15	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"87 years"	"87"	"Chronic kidney disease, stage 5"	"N18.5"	21	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"87 years"	"87"	"Chronic renal failure, unspecified"	"N18.9"	21	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"87 years"	"87"	"Urinary tract infection, site not specified"	"N39.0"	25	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"87 years"	"87"	"COVID-19"	"U07.1"	46	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"87 years"	"87"	"Other fall on same level"	"W18"	11	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"87 years"	"87"	"Unspecified fall"	"W19"	11	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"88 years"	"88"	"Septicaemia, unspecified"	"A41.9"	36	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"88 years"	"88"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	28	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"88 years"	"88"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	14	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"88 years"	"88"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	52	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"88 years"	"88"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	29	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"88 years"	"88"	"Malignant neoplasm of ovary"	"C56"	11	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"88 years"	"88"	"Unspecified diabetes mellitus, with renal complications"	"E14.2"	10	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"88 years"	"88"	"Unspecified diabetes mellitus, without complications"	"E14.9"	33	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"88 years"	"88"	"Unspecified dementia"	"F03"	129	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"88 years"	"88"	"Parkinson disease"	"G20"	22	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"88 years"	"88"	"Alzheimer disease with late onset"	"G30.1"	10	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"88 years"	"88"	"Alzheimer disease, unspecified"	"G30.9"	312	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"88 years"	"88"	"Senile degeneration of brain, not elsewhere classified"	"G31.1"	21	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"88 years"	"88"	"Essential (primary) hypertension"	"I10"	36	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"88 years"	"88"	"Hypertensive heart disease with (congestive) heart failure"	"I11.0"	48	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"88 years"	"88"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	40	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"88 years"	"88"	"Hypertensive renal disease with renal failure"	"I12.0"	15	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"88 years"	"88"	"Acute myocardial infarction, unspecified"	"I21.9"	72	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"88 years"	"88"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	19	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"88 years"	"88"	"Atherosclerotic heart disease"	"I25.1"	98	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"88 years"	"88"	"Aortic (valve) stenosis"	"I35.0"	10	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"88 years"	"88"	"Cardiomyopathy, unspecified"	"I42.9"	11	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"88 years"	"88"	"Cardiac arrest, unspecified"	"I46.9"	12	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"88 years"	"88"	"Atrial fibrillation and flutter"	"I48"	28	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"88 years"	"88"	"Congestive heart failure"	"I50.0"	142	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"88 years"	"88"	"Heart failure, unspecified"	"I50.9"	23	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"88 years"	"88"	"Heart disease, unspecified"	"I51.9"	12	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"88 years"	"88"	"Intracerebral haemorrhage, unspecified"	"I61.9"	13	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"88 years"	"88"	"Cerebral infarction, unspecified"	"I63.9"	12	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"88 years"	"88"	"Stroke, not specified as haemorrhage or infarction"	"I64"	95	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"88 years"	"88"	"Cerebrovascular disease, unspecified"	"I67.9"	15	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"88 years"	"88"	"Sequelae of stroke, not specified as haemorrhage or infarction"	"I69.4"	11	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"88 years"	"88"	"Pneumonia, unspecified"	"J18.9"	72	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"88 years"	"88"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	116	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"88 years"	"88"	"Pneumonitis due to food and vomit"	"J69.0"	22	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"88 years"	"88"	"Respiratory failure, unspecified"	"J96.9"	17	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"88 years"	"88"	"Gastrointestinal haemorrhage, unspecified"	"K92.2"	11	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"88 years"	"88"	"Chronic kidney disease, stage 5"	"N18.5"	15	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"88 years"	"88"	"Chronic renal failure, unspecified"	"N18.9"	17	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"88 years"	"88"	"Unspecified renal failure"	"N19"	12	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"88 years"	"88"	"Urinary tract infection, site not specified"	"N39.0"	24	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"88 years"	"88"	"COVID-19"	"U07.1"	56	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"88 years"	"88"	"Other fall on same level"	"W18"	15	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"88 years"	"88"	"Unspecified fall"	"W19"	23	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"89 years"	"89"	"Septicaemia, unspecified"	"A41.9"	27	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"89 years"	"89"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	29	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"89 years"	"89"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	20	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"89 years"	"89"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	42	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"89 years"	"89"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	24	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"89 years"	"89"	"Malignant neoplasm without specification of site"	"C80"	10	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"89 years"	"89"	"Unspecified diabetes mellitus, with renal complications"	"E14.2"	11	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"89 years"	"89"	"Unspecified diabetes mellitus, without complications"	"E14.9"	38	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"89 years"	"89"	"Unspecified dementia"	"F03"	129	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"89 years"	"89"	"Parkinson disease"	"G20"	34	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"89 years"	"89"	"Alzheimer disease, unspecified"	"G30.9"	301	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"89 years"	"89"	"Senile degeneration of brain, not elsewhere classified"	"G31.1"	25	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"89 years"	"89"	"Essential (primary) hypertension"	"I10"	24	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"89 years"	"89"	"Hypertensive heart disease with (congestive) heart failure"	"I11.0"	44	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"89 years"	"89"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	37	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"89 years"	"89"	"Hypertensive renal disease with renal failure"	"I12.0"	11	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"89 years"	"89"	"Acute myocardial infarction, unspecified"	"I21.9"	65	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"89 years"	"89"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	16	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"89 years"	"89"	"Atherosclerotic heart disease"	"I25.1"	121	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"89 years"	"89"	"Pulmonary embolism without mention of acute cor pulmonale"	"I26.9"	12	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"89 years"	"89"	"Cardiac arrest, unspecified"	"I46.9"	20	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"89 years"	"89"	"Atrial fibrillation and flutter"	"I48"	39	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"89 years"	"89"	"Congestive heart failure"	"I50.0"	165	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"89 years"	"89"	"Heart failure, unspecified"	"I50.9"	24	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"89 years"	"89"	"Heart disease, unspecified"	"I51.9"	16	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"89 years"	"89"	"Intracerebral haemorrhage, unspecified"	"I61.9"	13	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"89 years"	"89"	"Cerebral infarction, unspecified"	"I63.9"	16	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"89 years"	"89"	"Stroke, not specified as haemorrhage or infarction"	"I64"	105	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"89 years"	"89"	"Sequelae of stroke, not specified as haemorrhage or infarction"	"I69.4"	19	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"89 years"	"89"	"Pneumonia, unspecified"	"J18.9"	50	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"89 years"	"89"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	14	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"89 years"	"89"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	101	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"89 years"	"89"	"Pneumonitis due to food and vomit"	"J69.0"	18	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"89 years"	"89"	"Gastrointestinal haemorrhage, unspecified"	"K92.2"	15	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"89 years"	"89"	"Acute renal failure, unspecified"	"N17.9"	12	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"89 years"	"89"	"Chronic kidney disease, stage 5"	"N18.5"	14	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"89 years"	"89"	"Chronic renal failure, unspecified"	"N18.9"	14	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"89 years"	"89"	"Urinary tract infection, site not specified"	"N39.0"	24	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"89 years"	"89"	"COVID-19"	"U07.1"	47	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"89 years"	"89"	"Other fall on same level"	"W18"	18	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"89 years"	"89"	"Unspecified fall"	"W19"	17	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"90 years"	"90"	"Septicaemia, unspecified"	"A41.9"	21	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"90 years"	"90"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	14	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"90 years"	"90"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	20	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"90 years"	"90"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	36	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"90 years"	"90"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	25	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"90 years"	"90"	"Malignant neoplasm without specification of site"	"C80"	10	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"90 years"	"90"	"Leukaemia, unspecified - Malignant neoplasms"	"C95.9"	10	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"90 years"	"90"	"Unspecified diabetes mellitus, without complications"	"E14.9"	30	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"90 years"	"90"	"Unspecified dementia"	"F03"	125	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"90 years"	"90"	"Parkinson disease"	"G20"	24	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"90 years"	"90"	"Alzheimer disease, unspecified"	"G30.9"	285	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"90 years"	"90"	"Senile degeneration of brain, not elsewhere classified"	"G31.1"	28	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"90 years"	"90"	"Essential (primary) hypertension"	"I10"	28	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"90 years"	"90"	"Hypertensive heart disease with (congestive) heart failure"	"I11.0"	40	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"90 years"	"90"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	40	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"90 years"	"90"	"Hypertensive renal disease with renal failure"	"I12.0"	12	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"90 years"	"90"	"Acute myocardial infarction, unspecified"	"I21.9"	72	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"90 years"	"90"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	28	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"90 years"	"90"	"Atherosclerotic heart disease"	"I25.1"	98	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"90 years"	"90"	"Cardiac arrest, unspecified"	"I46.9"	20	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"90 years"	"90"	"Atrial fibrillation and flutter"	"I48"	36	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"90 years"	"90"	"Congestive heart failure"	"I50.0"	138	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"90 years"	"90"	"Heart failure, unspecified"	"I50.9"	32	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"90 years"	"90"	"Heart disease, unspecified"	"I51.9"	20	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"90 years"	"90"	"Intracerebral haemorrhage, unspecified"	"I61.9"	10	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"90 years"	"90"	"Cerebral infarction, unspecified"	"I63.9"	18	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"90 years"	"90"	"Stroke, not specified as haemorrhage or infarction"	"I64"	107	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"90 years"	"90"	"Sequelae of stroke, not specified as haemorrhage or infarction"	"I69.4"	11	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"90 years"	"90"	"Pneumonia, unspecified"	"J18.9"	56	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"90 years"	"90"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	14	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"90 years"	"90"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	104	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"90 years"	"90"	"Pneumonitis due to food and vomit"	"J69.0"	15	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"90 years"	"90"	"Other and unspecified intestinal obstruction"	"K56.6"	10	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"90 years"	"90"	"Acute renal failure, unspecified"	"N17.9"	15	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"90 years"	"90"	"Chronic kidney disease, stage 5"	"N18.5"	16	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"90 years"	"90"	"Chronic renal failure, unspecified"	"N18.9"	18	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"90 years"	"90"	"Unspecified renal failure"	"N19"	11	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"90 years"	"90"	"Urinary tract infection, site not specified"	"N39.0"	21	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"90 years"	"90"	"COVID-19"	"U07.1"	46	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"90 years"	"90"	"Other fall on same level"	"W18"	10	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"90 years"	"90"	"Unspecified fall"	"W19"	18	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"91 years"	"91"	"Septicaemia, unspecified"	"A41.9"	24	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"91 years"	"91"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	15	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"91 years"	"91"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	16	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"91 years"	"91"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	30	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"91 years"	"91"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	19	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"91 years"	"91"	"Malignant neoplasm without specification of site"	"C80"	10	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"91 years"	"91"	"Unspecified diabetes mellitus, without complications"	"E14.9"	23	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"91 years"	"91"	"Vascular dementia, unspecified"	"F01.9"	10	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"91 years"	"91"	"Unspecified dementia"	"F03"	112	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"91 years"	"91"	"Parkinson disease"	"G20"	21	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"91 years"	"91"	"Alzheimer disease, unspecified"	"G30.9"	286	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"91 years"	"91"	"Senile degeneration of brain, not elsewhere classified"	"G31.1"	15	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"91 years"	"91"	"Essential (primary) hypertension"	"I10"	29	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"91 years"	"91"	"Hypertensive heart disease with (congestive) heart failure"	"I11.0"	57	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"91 years"	"91"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	41	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"91 years"	"91"	"Hypertensive renal disease with renal failure"	"I12.0"	12	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"91 years"	"91"	"Acute myocardial infarction, unspecified"	"I21.9"	80	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"91 years"	"91"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	21	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"91 years"	"91"	"Atherosclerotic heart disease"	"I25.1"	95	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"91 years"	"91"	"Aortic (valve) stenosis"	"I35.0"	18	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"91 years"	"91"	"Cardiac arrest, unspecified"	"I46.9"	14	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"91 years"	"91"	"Atrial fibrillation and flutter"	"I48"	24	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"91 years"	"91"	"Congestive heart failure"	"I50.0"	130	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"91 years"	"91"	"Heart failure, unspecified"	"I50.9"	19	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"91 years"	"91"	"Heart disease, unspecified"	"I51.9"	19	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"91 years"	"91"	"Intracerebral haemorrhage, unspecified"	"I61.9"	12	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"91 years"	"91"	"Cerebral infarction, unspecified"	"I63.9"	14	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"91 years"	"91"	"Stroke, not specified as haemorrhage or infarction"	"I64"	87	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"91 years"	"91"	"Sequelae of stroke, not specified as haemorrhage or infarction"	"I69.4"	10	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"91 years"	"91"	"Pneumonia, unspecified"	"J18.9"	58	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"91 years"	"91"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	87	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"91 years"	"91"	"Pneumonitis due to food and vomit"	"J69.0"	18	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"91 years"	"91"	"Chronic kidney disease, stage 5"	"N18.5"	20	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"91 years"	"91"	"Chronic renal failure, unspecified"	"N18.9"	14	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"91 years"	"91"	"Unspecified renal failure"	"N19"	17	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"91 years"	"91"	"Urinary tract infection, site not specified"	"N39.0"	25	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"91 years"	"91"	"COVID-19"	"U07.1"	48	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"91 years"	"91"	"Unspecified fall"	"W19"	24	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"92 years"	"92"	"Septicaemia, unspecified"	"A41.9"	16	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"92 years"	"92"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	10	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"92 years"	"92"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	23	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"92 years"	"92"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	18	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"92 years"	"92"	"Unspecified diabetes mellitus, without complications"	"E14.9"	17	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"92 years"	"92"	"Unspecified dementia"	"F03"	114	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"92 years"	"92"	"Parkinson disease"	"G20"	18	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"92 years"	"92"	"Alzheimer disease, unspecified"	"G30.9"	280	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"92 years"	"92"	"Senile degeneration of brain, not elsewhere classified"	"G31.1"	22	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"92 years"	"92"	"Essential (primary) hypertension"	"I10"	32	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"92 years"	"92"	"Hypertensive heart disease with (congestive) heart failure"	"I11.0"	42	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"92 years"	"92"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	32	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"92 years"	"92"	"Hypertensive renal disease with renal failure"	"I12.0"	11	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"92 years"	"92"	"Acute myocardial infarction, unspecified"	"I21.9"	53	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"92 years"	"92"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	10	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"92 years"	"92"	"Atherosclerotic heart disease"	"I25.1"	89	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"92 years"	"92"	"Cardiac arrest, unspecified"	"I46.9"	15	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"92 years"	"92"	"Atrial fibrillation and flutter"	"I48"	21	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"92 years"	"92"	"Congestive heart failure"	"I50.0"	142	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"92 years"	"92"	"Heart failure, unspecified"	"I50.9"	25	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"92 years"	"92"	"Heart disease, unspecified"	"I51.9"	30	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"92 years"	"92"	"Cerebral infarction, unspecified"	"I63.9"	16	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"92 years"	"92"	"Stroke, not specified as haemorrhage or infarction"	"I64"	77	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"92 years"	"92"	"Pneumonia, unspecified"	"J18.9"	54	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"92 years"	"92"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	15	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"92 years"	"92"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	76	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"92 years"	"92"	"Pneumonitis due to food and vomit"	"J69.0"	15	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"92 years"	"92"	"Chronic kidney disease, stage 5"	"N18.5"	14	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"92 years"	"92"	"Chronic renal failure, unspecified"	"N18.9"	13	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"92 years"	"92"	"Urinary tract infection, site not specified"	"N39.0"	20	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"92 years"	"92"	"COVID-19"	"U07.1"	46	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"92 years"	"92"	"Other fall on same level"	"W18"	10	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"92 years"	"92"	"Unspecified fall"	"W19"	18	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"93 years"	"93"	"Septicaemia, unspecified"	"A41.9"	18	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"93 years"	"93"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	11	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"93 years"	"93"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	11	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"93 years"	"93"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	22	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"93 years"	"93"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	17	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"93 years"	"93"	"Unspecified diabetes mellitus, without complications"	"E14.9"	23	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"93 years"	"93"	"Unspecified dementia"	"F03"	93	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"93 years"	"93"	"Alzheimer disease, unspecified"	"G30.9"	258	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"93 years"	"93"	"Senile degeneration of brain, not elsewhere classified"	"G31.1"	22	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"93 years"	"93"	"Essential (primary) hypertension"	"I10"	27	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"93 years"	"93"	"Hypertensive heart disease with (congestive) heart failure"	"I11.0"	40	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"93 years"	"93"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	36	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"93 years"	"93"	"Acute myocardial infarction, unspecified"	"I21.9"	43	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"93 years"	"93"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	13	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"93 years"	"93"	"Atherosclerotic heart disease"	"I25.1"	92	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"93 years"	"93"	"Cardiac arrest, unspecified"	"I46.9"	16	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"93 years"	"93"	"Atrial fibrillation and flutter"	"I48"	21	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"93 years"	"93"	"Congestive heart failure"	"I50.0"	120	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"93 years"	"93"	"Heart failure, unspecified"	"I50.9"	17	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"93 years"	"93"	"Heart disease, unspecified"	"I51.9"	15	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"93 years"	"93"	"Cerebral infarction, unspecified"	"I63.9"	13	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"93 years"	"93"	"Stroke, not specified as haemorrhage or infarction"	"I64"	61	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"93 years"	"93"	"Pneumonia, unspecified"	"J18.9"	48	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"93 years"	"93"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	68	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"93 years"	"93"	"Gastrointestinal haemorrhage, unspecified"	"K92.2"	12	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"93 years"	"93"	"Unspecified renal failure"	"N19"	11	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"93 years"	"93"	"Urinary tract infection, site not specified"	"N39.0"	18	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"93 years"	"93"	"COVID-19"	"U07.1"	39	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"93 years"	"93"	"Unspecified fall"	"W19"	17	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"94 years"	"94"	"Septicaemia, unspecified"	"A41.9"	16	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"94 years"	"94"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	17	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"94 years"	"94"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	13	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"94 years"	"94"	"Unspecified diabetes mellitus, without complications"	"E14.9"	15	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"94 years"	"94"	"Unspecified dementia"	"F03"	96	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"94 years"	"94"	"Parkinson disease"	"G20"	11	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"94 years"	"94"	"Alzheimer disease, unspecified"	"G30.9"	213	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"94 years"	"94"	"Senile degeneration of brain, not elsewhere classified"	"G31.1"	23	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"94 years"	"94"	"Essential (primary) hypertension"	"I10"	20	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"94 years"	"94"	"Hypertensive heart disease with (congestive) heart failure"	"I11.0"	44	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"94 years"	"94"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	27	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"94 years"	"94"	"Acute myocardial infarction, unspecified"	"I21.9"	45	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"94 years"	"94"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	14	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"94 years"	"94"	"Atherosclerotic heart disease"	"I25.1"	73	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"94 years"	"94"	"Cardiac arrest, unspecified"	"I46.9"	13	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"94 years"	"94"	"Atrial fibrillation and flutter"	"I48"	28	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"94 years"	"94"	"Congestive heart failure"	"I50.0"	122	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"94 years"	"94"	"Heart failure, unspecified"	"I50.9"	20	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"94 years"	"94"	"Heart disease, unspecified"	"I51.9"	15	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"94 years"	"94"	"Stroke, not specified as haemorrhage or infarction"	"I64"	63	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"94 years"	"94"	"Pneumonia, unspecified"	"J18.9"	36	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"94 years"	"94"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	62	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"94 years"	"94"	"Chronic kidney disease, stage 5"	"N18.5"	10	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"94 years"	"94"	"Urinary tract infection, site not specified"	"N39.0"	14	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"94 years"	"94"	"COVID-19"	"U07.1"	35	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"95 years"	"95"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	10	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"95 years"	"95"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	12	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"95 years"	"95"	"Unspecified diabetes mellitus, without complications"	"E14.9"	11	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"95 years"	"95"	"Unspecified dementia"	"F03"	72	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"95 years"	"95"	"Alzheimer disease, unspecified"	"G30.9"	198	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"95 years"	"95"	"Senile degeneration of brain, not elsewhere classified"	"G31.1"	18	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"95 years"	"95"	"Essential (primary) hypertension"	"I10"	18	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"95 years"	"95"	"Hypertensive heart disease with (congestive) heart failure"	"I11.0"	38	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"95 years"	"95"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	28	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"95 years"	"95"	"Acute myocardial infarction, unspecified"	"I21.9"	34	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"95 years"	"95"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	16	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"95 years"	"95"	"Atherosclerotic heart disease"	"I25.1"	77	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"95 years"	"95"	"Atrial fibrillation and flutter"	"I48"	26	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"95 years"	"95"	"Congestive heart failure"	"I50.0"	88	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"95 years"	"95"	"Heart failure, unspecified"	"I50.9"	14	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"95 years"	"95"	"Heart disease, unspecified"	"I51.9"	22	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"95 years"	"95"	"Stroke, not specified as haemorrhage or infarction"	"I64"	52	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"95 years"	"95"	"Cerebrovascular disease, unspecified"	"I67.9"	11	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"95 years"	"95"	"Pneumonia, unspecified"	"J18.9"	32	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"95 years"	"95"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	52	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"95 years"	"95"	"Chronic kidney disease, stage 5"	"N18.5"	12	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"95 years"	"95"	"Urinary tract infection, site not specified"	"N39.0"	18	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"95 years"	"95"	"COVID-19"	"U07.1"	25	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"96 years"	"96"	"Unspecified dementia"	"F03"	67	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"96 years"	"96"	"Alzheimer disease, unspecified"	"G30.9"	177	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"96 years"	"96"	"Senile degeneration of brain, not elsewhere classified"	"G31.1"	16	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"96 years"	"96"	"Essential (primary) hypertension"	"I10"	11	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"96 years"	"96"	"Hypertensive heart disease with (congestive) heart failure"	"I11.0"	29	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"96 years"	"96"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	22	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"96 years"	"96"	"Acute myocardial infarction, unspecified"	"I21.9"	25	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"96 years"	"96"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	17	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"96 years"	"96"	"Atherosclerotic heart disease"	"I25.1"	53	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"96 years"	"96"	"Atrial fibrillation and flutter"	"I48"	12	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"96 years"	"96"	"Congestive heart failure"	"I50.0"	89	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"96 years"	"96"	"Heart failure, unspecified"	"I50.9"	17	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"96 years"	"96"	"Heart disease, unspecified"	"I51.9"	10	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"96 years"	"96"	"Stroke, not specified as haemorrhage or infarction"	"I64"	45	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"96 years"	"96"	"Pneumonia, unspecified"	"J18.9"	29	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"96 years"	"96"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	31	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"96 years"	"96"	"Urinary tract infection, site not specified"	"N39.0"	13	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"96 years"	"96"	"COVID-19"	"U07.1"	23	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"97 years"	"97"	"Septicaemia, unspecified"	"A41.9"	11	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"97 years"	"97"	"Unspecified dementia"	"F03"	64	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"97 years"	"97"	"Alzheimer disease, unspecified"	"G30.9"	128	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"97 years"	"97"	"Senile degeneration of brain, not elsewhere classified"	"G31.1"	15	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"97 years"	"97"	"Essential (primary) hypertension"	"I10"	12	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"97 years"	"97"	"Hypertensive heart disease with (congestive) heart failure"	"I11.0"	27	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"97 years"	"97"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	22	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"97 years"	"97"	"Acute myocardial infarction, unspecified"	"I21.9"	26	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"97 years"	"97"	"Atherosclerotic heart disease"	"I25.1"	36	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"97 years"	"97"	"Congestive heart failure"	"I50.0"	78	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"97 years"	"97"	"Heart failure, unspecified"	"I50.9"	15	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"97 years"	"97"	"Stroke, not specified as haemorrhage or infarction"	"I64"	33	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"97 years"	"97"	"Pneumonia, unspecified"	"J18.9"	31	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"97 years"	"97"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	25	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"97 years"	"97"	"COVID-19"	"U07.1"	19	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"97 years"	"97"	"Unspecified fall"	"W19"	12	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"98 years"	"98"	"Unspecified dementia"	"F03"	42	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"98 years"	"98"	"Alzheimer disease, unspecified"	"G30.9"	101	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"98 years"	"98"	"Senile degeneration of brain, not elsewhere classified"	"G31.1"	10	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"98 years"	"98"	"Essential (primary) hypertension"	"I10"	10	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"98 years"	"98"	"Hypertensive heart disease with (congestive) heart failure"	"I11.0"	16	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"98 years"	"98"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	11	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"98 years"	"98"	"Acute myocardial infarction, unspecified"	"I21.9"	11	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"98 years"	"98"	"Atherosclerotic heart disease"	"I25.1"	24	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"98 years"	"98"	"Atrial fibrillation and flutter"	"I48"	14	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"98 years"	"98"	"Congestive heart failure"	"I50.0"	36	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"98 years"	"98"	"Heart failure, unspecified"	"I50.9"	15	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"98 years"	"98"	"Stroke, not specified as haemorrhage or infarction"	"I64"	33	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"98 years"	"98"	"Pneumonia, unspecified"	"J18.9"	16	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"98 years"	"98"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	13	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"98 years"	"98"	"COVID-19"	"U07.1"	14	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"99 years"	"99"	"Unspecified dementia"	"F03"	34	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"99 years"	"99"	"Alzheimer disease, unspecified"	"G30.9"	73	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"99 years"	"99"	"Senile degeneration of brain, not elsewhere classified"	"G31.1"	10	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"99 years"	"99"	"Hypertensive heart disease with (congestive) heart failure"	"I11.0"	21	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"99 years"	"99"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	13	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"99 years"	"99"	"Atherosclerotic heart disease"	"I25.1"	19	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"99 years"	"99"	"Congestive heart failure"	"I50.0"	30	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"99 years"	"99"	"Heart disease, unspecified"	"I51.9"	12	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"99 years"	"99"	"Stroke, not specified as haemorrhage or infarction"	"I64"	20	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"99 years"	"99"	"Pneumonia, unspecified"	"J18.9"	13	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"99 years"	"99"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	11	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"99 years"	"99"	"COVID-19"	"U07.1"	13	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"100+ years"	"100"	"Septicaemia, unspecified"	"A41.9"	10	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"100+ years"	"100"	"Unspecified diabetes mellitus, without complications"	"E14.9"	14	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"100+ years"	"100"	"Unspecified dementia"	"F03"	72	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"100+ years"	"100"	"Alzheimer disease, unspecified"	"G30.9"	177	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"100+ years"	"100"	"Senile degeneration of brain, not elsewhere classified"	"G31.1"	17	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"100+ years"	"100"	"Essential (primary) hypertension"	"I10"	36	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"100+ years"	"100"	"Hypertensive heart disease with (congestive) heart failure"	"I11.0"	33	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"100+ years"	"100"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	41	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"100+ years"	"100"	"Acute myocardial infarction, unspecified"	"I21.9"	35	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"100+ years"	"100"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	15	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"100+ years"	"100"	"Atherosclerotic heart disease"	"I25.1"	54	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"100+ years"	"100"	"Cardiac arrest, unspecified"	"I46.9"	11	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"100+ years"	"100"	"Congestive heart failure"	"I50.0"	81	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"100+ years"	"100"	"Heart failure, unspecified"	"I50.9"	19	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"100+ years"	"100"	"Heart disease, unspecified"	"I51.9"	19	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"100+ years"	"100"	"Cerebral infarction, unspecified"	"I63.9"	10	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"100+ years"	"100"	"Stroke, not specified as haemorrhage or infarction"	"I64"	36	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"100+ years"	"100"	"Pneumonia, unspecified"	"J18.9"	37	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"100+ years"	"100"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	28	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"100+ years"	"100"	"Urinary tract infection, site not specified"	"N39.0"	10	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"100+ years"	"100"	"Senility"	"R54"	12	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"100+ years"	"100"	"COVID-19"	"U07.1"	27	Not Applicable	Not Applicable
+"---"
+"Dataset: Underlying Cause of Death, 1999-2020"
+"Query Parameters:"
+"Title: Mississippi CoD F"
+"Gender: Female"
+"States: Mississippi (28)"
+"Year/Month: 2016; 2017; 2018; 2019; 2020"
+"Group By: State; Single-Year Ages; Cause of death"
+"Show Totals: Disabled"
+"Show Zero Values: Disabled"
+"Show Suppressed: False"
+"Calculate Rates Per: 100,000"
+"Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/ucd.html for more information."
+"---"
+"Query Date: Apr 8, 2022 9:50:23 AM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. Underlying Cause of Death"
+"1999-2020 on CDC WONDER Online Database, released in 2021. Data are from the Multiple Cause of Death Files, 1999-2020, as"
+"compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative Program. Accessed"
+"at http://wonder.cdc.gov/ucd-icd10.html on Apr 8, 2022 9:50:23 AM"
+"---"
+Messages:
+"1. The full results are too long to be displayed. Due to suppression constraints rows that are zero, suppressed or a total will"
+"not be available."
+"---"
+Caveats:
+"1. Population and rates are labeled 'Not Applicable' when they include a subset of ages 85-100+ because populations are not"
+"available for those ages. More information: http://wonder.cdc.gov/wonder/help/ucd.html#Ages 85-100."
+"2. Death rates are flagged as Unreliable when the rate is calculated with a numerator of 20 or less. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Unreliable."
+"3. Deaths of persons with Age ""Not Stated"" are included in ""All"" counts and rates, but are not distributed among age groups,"
+"so are not included in age-specific counts, age-specific rates or in any age-adjusted rates. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Not Stated."
+"4. The population figures for year 2020 are bridged-race estimates of the July 1 resident population, from the Vintage 2020"
+"postcensal series released by NCHS on September 22, 2021. The population figures for year 2019 are bridged-race estimates of the"
+"July 1 resident population, from the Vintage 2019 postcensal series released by NCHS on July 9, 2020. The population figures for"
+"year 2018 are bridged-race estimates of the July 1 resident population, from the Vintage 2018 postcensal series released by NCHS"
+"on June 25, 2019. The population figures for year 2017 are bridged-race estimates of the July 1 resident population, from the"
+"Vintage 2017 postcensal series released by NCHS on June 27, 2018. The population figures for year 2016 are bridged-race"
+"estimates of the July 1 resident population, from the Vintage 2016 postcensal series released by NCHS on June 26, 2017. The"
+"population figures for year 2015 are bridged-race estimates of the July 1 resident population, from the Vintage 2015 postcensal"
+"series released by NCHS on June 28, 2016. The population figures for year 2014 are bridged-race estimates of the July 1 resident"
+"population, from the Vintage 2014 postcensal series released by NCHS on June 30, 2015. The population figures for year 2013 are"
+"bridged-race estimates of the July 1 resident population, from the Vintage 2013 postcensal series released by NCHS on June 26,"
+"2014. The population figures for year 2012 are bridged-race estimates of the July 1 resident population, from the Vintage 2012"
+"postcensal series released by NCHS on June 13, 2013. The population figures for year 2011 are bridged-race estimates of the July"
+"1 resident population, from the Vintage 2011 postcensal series released by NCHS on July 18, 2012. Population figures for 2010"
+"are April 1 Census counts. The population figures for years 2001 - 2009 are bridged-race estimates of the July 1 resident"
+"population, from the revised intercensal county-level 2000 - 2009 series released by NCHS on October 26, 2012. Population"
+"figures for 2000 are April 1 Census counts. Population figures for 1999 are from the 1990-1999 intercensal series of July 1"
+"estimates. Population figures for the infant age groups are the number of live births. <br/><b>Note:</b> Rates and population"
+"figures for years 2001 - 2009 differ slightly from previously published reports, due to use of the population estimates which"
+"were available at the time of release."
+"5. The population figures used in the calculation of death rates for the age group 'under 1 year' are the estimates of the"
+"resident population that is under one year of age. More information: http://wonder.cdc.gov/wonder/help/ucd.html#Age Group."
+"6. Beginning with the 2018 data, changes have been implemented that affect the counts for ICD-10 cause of death codes O00-O99"
+"compared to previous practice. In addition, data for the cause of death codes O00-O99 for 2003 through 2017 reflect differences"
+"in information available to individual states and probable errors. Caution should be used in interpreting these data. More"
+"information can be found at: https://www.cdc.gov/nchs/maternal-mortality/."
+"7. On March 11, 2021, the 2019 mortality data on CDC WONDER was updated with the 2019 mortality data updated by NCHS on March 4,"
+"2021 to include corrected information for residents of Texas affecting 5 records previously coded to cause code *U01.4,"
+"Terrorism involving firearms (homicide). The underlying and multiple cause of death codes for 5 records were corrected in the"
+"2019 data. Underlying and multiple cause of death codes for those 5 records were recoded to Assault (homicide) by other and"
+"unspecified firearm discharge, ICD-10 code X95. The corrected final death records replaces the data released on December 22,"
+"2020."
+"8. Changes to cause of death classification affect reporting trends. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#ICD-10 Changes."

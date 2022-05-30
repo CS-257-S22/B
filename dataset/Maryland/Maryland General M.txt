@@ -1,0 +1,158 @@
+"Notes"	"State"	"State Code"	"Single-Year Ages"	"Single-Year Ages Code"	Deaths	Population	Crude Rate
+	"Maryland"	"24"	"< 1 year"	"0"	1221	181430	673.0
+	"Maryland"	"24"	"1 year"	"1"	60	184383	32.5
+	"Maryland"	"24"	"2 years"	"2"	53	186540	28.4
+	"Maryland"	"24"	"3 years"	"3"	35	187189	18.7
+	"Maryland"	"24"	"4 years"	"4"	30	187985	16.0
+	"Maryland"	"24"	"5 years"	"5"	18	189057	Unreliable
+	"Maryland"	"24"	"6 years"	"6"	27	189162	14.3
+	"Maryland"	"24"	"7 years"	"7"	18	189464	Unreliable
+	"Maryland"	"24"	"8 years"	"8"	11	190505	Unreliable
+	"Maryland"	"24"	"9 years"	"9"	16	192379	Unreliable
+	"Maryland"	"24"	"10 years"	"10"	19	192446	Unreliable
+	"Maryland"	"24"	"11 years"	"11"	14	192054	Unreliable
+	"Maryland"	"24"	"12 years"	"12"	26	193314	13.4
+	"Maryland"	"24"	"13 years"	"13"	33	191980	17.2
+	"Maryland"	"24"	"14 years"	"14"	43	190501	22.6
+	"Maryland"	"24"	"15 years"	"15"	55	191210	28.8
+	"Maryland"	"24"	"16 years"	"16"	91	193705	47.0
+	"Maryland"	"24"	"17 years"	"17"	134	195085	68.7
+	"Maryland"	"24"	"18 years"	"18"	204	199848	102.1
+	"Maryland"	"24"	"19 years"	"19"	249	192802	129.1
+	"Maryland"	"24"	"20 years"	"20"	282	192510	146.5
+	"Maryland"	"24"	"21 years"	"21"	282	190334	148.2
+	"Maryland"	"24"	"22 years"	"22"	344	189067	181.9
+	"Maryland"	"24"	"23 years"	"23"	346	193048	179.2
+	"Maryland"	"24"	"24 years"	"24"	432	198354	217.8
+	"Maryland"	"24"	"25 years"	"25"	423	203060	208.3
+	"Maryland"	"24"	"26 years"	"26"	456	208220	219.0
+	"Maryland"	"24"	"27 years"	"27"	503	210770	238.6
+	"Maryland"	"24"	"28 years"	"28"	524	210587	248.8
+	"Maryland"	"24"	"29 years"	"29"	502	210357	238.6
+	"Maryland"	"24"	"30 years"	"30"	510	209325	243.6
+	"Maryland"	"24"	"31 years"	"31"	536	206955	259.0
+	"Maryland"	"24"	"32 years"	"32"	551	204751	269.1
+	"Maryland"	"24"	"33 years"	"33"	495	204491	242.1
+	"Maryland"	"24"	"34 years"	"34"	540	203536	265.3
+	"Maryland"	"24"	"35 years"	"35"	537	202072	265.7
+	"Maryland"	"24"	"36 years"	"36"	552	201702	273.7
+	"Maryland"	"24"	"37 years"	"37"	546	199199	274.1
+	"Maryland"	"24"	"38 years"	"38"	518	195799	264.6
+	"Maryland"	"24"	"39 years"	"39"	564	191283	294.9
+	"Maryland"	"24"	"40 years"	"40"	539	186411	289.1
+	"Maryland"	"24"	"41 years"	"41"	538	181318	296.7
+	"Maryland"	"24"	"42 years"	"42"	493	178822	275.7
+	"Maryland"	"24"	"43 years"	"43"	585	177280	330.0
+	"Maryland"	"24"	"44 years"	"44"	589	177773	331.3
+	"Maryland"	"24"	"45 years"	"45"	699	182669	382.7
+	"Maryland"	"24"	"46 years"	"46"	731	187453	390.0
+	"Maryland"	"24"	"47 years"	"47"	749	191629	390.9
+	"Maryland"	"24"	"48 years"	"48"	902	194759	463.1
+	"Maryland"	"24"	"49 years"	"49"	934	196234	476.0
+	"Maryland"	"24"	"50 years"	"50"	1052	196295	535.9
+	"Maryland"	"24"	"51 years"	"51"	1128	198417	568.5
+	"Maryland"	"24"	"52 years"	"52"	1247	202848	614.7
+	"Maryland"	"24"	"53 years"	"53"	1398	205956	678.8
+	"Maryland"	"24"	"54 years"	"54"	1428	208772	684.0
+	"Maryland"	"24"	"55 years"	"55"	1688	210307	802.6
+	"Maryland"	"24"	"56 years"	"56"	1727	210010	822.3
+	"Maryland"	"24"	"57 years"	"57"	1900	206406	920.5
+	"Maryland"	"24"	"58 years"	"58"	2071	203484	1017.8
+	"Maryland"	"24"	"59 years"	"59"	2121	199290	1064.3
+	"Maryland"	"24"	"60 years"	"60"	2177	193435	1125.4
+	"Maryland"	"24"	"61 years"	"61"	2277	187036	1217.4
+	"Maryland"	"24"	"62 years"	"62"	2325	179298	1296.7
+	"Maryland"	"24"	"63 years"	"63"	2381	170742	1394.5
+	"Maryland"	"24"	"64 years"	"64"	2422	162421	1491.2
+	"Maryland"	"24"	"65 years"	"65"	2496	154868	1611.7
+	"Maryland"	"24"	"66 years"	"66"	2501	146845	1703.2
+	"Maryland"	"24"	"67 years"	"67"	2548	140426	1814.5
+	"Maryland"	"24"	"68 years"	"68"	2706	135134	2002.5
+	"Maryland"	"24"	"69 years"	"69"	2833	132970	2130.6
+	"Maryland"	"24"	"70 years"	"70"	2711	123719	2191.3
+	"Maryland"	"24"	"71 years"	"71"	2857	115360	2476.6
+	"Maryland"	"24"	"72 years"	"72"	2905	107017	2714.5
+	"Maryland"	"24"	"73 years"	"73"	2914	99362	2932.7
+	"Maryland"	"24"	"74 years"	"74"	2901	88784	3267.5
+	"Maryland"	"24"	"75 years"	"75"	2896	82839	3495.9
+	"Maryland"	"24"	"76 years"	"76"	3007	76898	3910.4
+	"Maryland"	"24"	"77 years"	"77"	2915	70467	4136.7
+	"Maryland"	"24"	"78 years"	"78"	2943	63221	4655.1
+	"Maryland"	"24"	"79 years"	"79"	2910	57168	5090.3
+	"Maryland"	"24"	"80 years"	"80"	2984	52425	5691.9
+	"Maryland"	"24"	"81 years"	"81"	3064	47509	6449.3
+	"Maryland"	"24"	"82 years"	"82"	3037	42877	7083.1
+	"Maryland"	"24"	"83 years"	"83"	3053	38562	7917.1
+	"Maryland"	"24"	"84 years"	"84"	2965	34987	8474.6
+	"Maryland"	"24"	"85 years"	"85"	3098	Not Applicable	Not Applicable
+	"Maryland"	"24"	"86 years"	"86"	2975	Not Applicable	Not Applicable
+	"Maryland"	"24"	"87 years"	"87"	2888	Not Applicable	Not Applicable
+	"Maryland"	"24"	"88 years"	"88"	2989	Not Applicable	Not Applicable
+	"Maryland"	"24"	"89 years"	"89"	2791	Not Applicable	Not Applicable
+	"Maryland"	"24"	"90 years"	"90"	2618	Not Applicable	Not Applicable
+	"Maryland"	"24"	"91 years"	"91"	2323	Not Applicable	Not Applicable
+	"Maryland"	"24"	"92 years"	"92"	2179	Not Applicable	Not Applicable
+	"Maryland"	"24"	"93 years"	"93"	1865	Not Applicable	Not Applicable
+	"Maryland"	"24"	"94 years"	"94"	1549	Not Applicable	Not Applicable
+	"Maryland"	"24"	"95 years"	"95"	1180	Not Applicable	Not Applicable
+	"Maryland"	"24"	"96 years"	"96"	978	Not Applicable	Not Applicable
+	"Maryland"	"24"	"97 years"	"97"	678	Not Applicable	Not Applicable
+	"Maryland"	"24"	"98 years"	"98"	497	Not Applicable	Not Applicable
+	"Maryland"	"24"	"99 years"	"99"	344	Not Applicable	Not Applicable
+	"Maryland"	"24"	"100+ years"	"100"	538	Not Applicable	Not Applicable
+	"Maryland"	"24"	"Not Stated"	"NS"	15	Not Applicable	Not Applicable
+"Total"	"Maryland"	"24"			132552	14638980	905.5
+"Total"					132552	14638980	905.5
+"---"
+"Dataset: Underlying Cause of Death, 1999-2020"
+"Query Parameters:"
+"Title: Maryland General M"
+"Gender: Male"
+"States: Maryland (24)"
+"Year/Month: 2016; 2017; 2018; 2019; 2020"
+"Group By: State; Single-Year Ages"
+"Show Totals: True"
+"Show Zero Values: False"
+"Show Suppressed: False"
+"Calculate Rates Per: 100,000"
+"Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/ucd.html for more information."
+"---"
+"Query Date: Apr 8, 2022 2:40:39 AM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. Underlying Cause of Death"
+"1999-2020 on CDC WONDER Online Database, released in 2021. Data are from the Multiple Cause of Death Files, 1999-2020, as"
+"compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative Program. Accessed"
+"at http://wonder.cdc.gov/ucd-icd10.html on Apr 8, 2022 2:40:39 AM"
+"---"
+Caveats:
+"1. Population and rates are labeled 'Not Applicable' when they include a subset of ages 85-100+ because populations are not"
+"available for those ages. More information: http://wonder.cdc.gov/wonder/help/ucd.html#Ages 85-100."
+"2. Death rates are flagged as Unreliable when the rate is calculated with a numerator of 20 or less. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Unreliable."
+"3. Deaths of persons with Age ""Not Stated"" are included in ""All"" counts and rates, but are not distributed among age groups,"
+"so are not included in age-specific counts, age-specific rates or in any age-adjusted rates. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Not Stated."
+"4. The population figures for year 2020 are bridged-race estimates of the July 1 resident population, from the Vintage 2020"
+"postcensal series released by NCHS on September 22, 2021. The population figures for year 2019 are bridged-race estimates of the"
+"July 1 resident population, from the Vintage 2019 postcensal series released by NCHS on July 9, 2020. The population figures for"
+"year 2018 are bridged-race estimates of the July 1 resident population, from the Vintage 2018 postcensal series released by NCHS"
+"on June 25, 2019. The population figures for year 2017 are bridged-race estimates of the July 1 resident population, from the"
+"Vintage 2017 postcensal series released by NCHS on June 27, 2018. The population figures for year 2016 are bridged-race"
+"estimates of the July 1 resident population, from the Vintage 2016 postcensal series released by NCHS on June 26, 2017. The"
+"population figures for year 2015 are bridged-race estimates of the July 1 resident population, from the Vintage 2015 postcensal"
+"series released by NCHS on June 28, 2016. The population figures for year 2014 are bridged-race estimates of the July 1 resident"
+"population, from the Vintage 2014 postcensal series released by NCHS on June 30, 2015. The population figures for year 2013 are"
+"bridged-race estimates of the July 1 resident population, from the Vintage 2013 postcensal series released by NCHS on June 26,"
+"2014. The population figures for year 2012 are bridged-race estimates of the July 1 resident population, from the Vintage 2012"
+"postcensal series released by NCHS on June 13, 2013. The population figures for year 2011 are bridged-race estimates of the July"
+"1 resident population, from the Vintage 2011 postcensal series released by NCHS on July 18, 2012. Population figures for 2010"
+"are April 1 Census counts. The population figures for years 2001 - 2009 are bridged-race estimates of the July 1 resident"
+"population, from the revised intercensal county-level 2000 - 2009 series released by NCHS on October 26, 2012. Population"
+"figures for 2000 are April 1 Census counts. Population figures for 1999 are from the 1990-1999 intercensal series of July 1"
+"estimates. Population figures for the infant age groups are the number of live births. <br/><b>Note:</b> Rates and population"
+"figures for years 2001 - 2009 differ slightly from previously published reports, due to use of the population estimates which"
+"were available at the time of release."
+"5. The population figures used in the calculation of death rates for the age group 'under 1 year' are the estimates of the"
+"resident population that is under one year of age. More information: http://wonder.cdc.gov/wonder/help/ucd.html#Age Group."

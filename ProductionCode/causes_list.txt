@@ -1,0 +1,511 @@
+Abdomen - Malignant neoplasms
+Abdominal aortic aneurysm, ruptured
+Abdominal aortic aneurysm, without mention of rupture
+Accidental poisoning by and exposure to alcohol
+Accidental poisoning by and exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic drugs, not elsewhere classified
+Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified
+Accidental poisoning by and exposure to other and unspecified chemicals and noxious substances
+Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances
+Accidental poisoning by and exposure to other gases and vapours
+Accidental suffocation and strangulation in bed
+Acidosis
+Acute and subacute hepatic failure
+Acute and subacute infective endocarditis
+Acute cholecystitis
+Acute hepatitis B without delta-agent and without hepatic coma
+Acute ischaemic heart disease, unspecified
+Acute leukaemia of unspecified cell type - Malignant neoplasms
+Acute lymphoblastic leukaemia - Malignant neoplasms
+Acute myeloid leukaemia - Malignant neoplasms
+Acute myocardial infarction, unspecified
+Acute nephritic syndrome, unspecified
+Acute pancreatitis, unspecified
+Acute peritonitis
+Acute renal failure, unspecified
+Acute respiratory failure
+Acute subendocardial myocardial infarction
+Acute vascular disorders of intestine
+Adult respiratory distress syndrome
+Alcoholic cardiomyopathy
+Alcoholic cirrhosis of liver
+Alcoholic fatty liver
+Alcoholic hepatic failure
+Alcoholic hepatitis
+Alcoholic liver disease, unspecified
+Alzheimer disease with late onset
+Alzheimer disease, unspecified
+Amyloidosis, unspecified
+Anaemia, unspecified
+Anencephaly
+Anoxic brain damage, not elsewhere classified
+Anus, unspecified - Malignant neoplasms
+Aortic (valve) insufficiency
+Aortic (valve) stenosis
+Aortic aneurysm of unspecified site, ruptured
+Aortic valve disorder, unspecified
+Aplastic anaemia, unspecified
+Appendix - Malignant neoplasms
+Arthrosis, unspecified
+Asphyxia
+Assault by drugs, medicaments and biological substances
+Assault by handgun discharge
+Assault by hanging, strangulation and suffocation
+Assault by other and unspecified firearm discharge
+Assault by rifle, shotgun and larger firearm discharge
+Assault by sharp object
+Assault by unspecified means
+Asthma, unspecified
+Atherosclerosis of aorta
+Atherosclerotic cardiovascular disease, so described
+Atherosclerotic heart disease
+Atrial fibrillation and flutter
+Atrioventricular block, complete
+Atrioventricular septal defect
+Autoimmune hepatitis
+B-cell lymphoma, unspecified - Malignant neoplasms
+Bacterial infection, unspecified
+Bacterial pneumonia, unspecified
+Bacterial sepsis of newborn, unspecified
+Biliary tract, unspecified - Malignant neoplasms
+Birth asphyxia, unspecified
+Bladder, unspecified - Malignant neoplasms
+Bone and articular cartilage, unspecified - Malignant neoplasms
+Brain, unspecified - Malignant neoplasms
+Brain, unspecified - Uncertain neoplasms
+Breast, unspecified - Malignant neoplasms
+Bronchiectasis
+Bronchopneumonia, unspecified
+Bronchopulmonary dysplasia originating in the perinatal period
+Bronchus or lung, unspecified - Malignant neoplasms
+By unspecified person
+COVID-19
+Cachexia
+Caecum - Malignant neoplasms
+Car occupant [any] injured in unspecified traffic accident
+Car occupant injured in collision with car, pick-up truck or van, driver injured in traffic accident
+Car occupant injured in collision with car, pick-up truck or van, passenger injured in traffic accident
+Car occupant injured in collision with fixed or stationary object, driver injured in traffic accident
+Car occupant injured in collision with fixed or stationary object, passenger injured in traffic accident
+Car occupant injured in noncollision transport accident, driver injured in traffic accident
+Cardia - Malignant neoplasms
+Cardiac arrest, unspecified
+Cardiac arrhythmia, unspecified
+Cardiogenic shock
+Cardiomegaly
+Cardiomyopathy, unspecified
+Cardiovascular disease, unspecified
+Cellulitis of other parts of limb
+Cellulitis, unspecified
+Cerebral atherosclerosis
+Cerebral infarction due to embolism of cerebral arteries
+Cerebral infarction due to thrombosis of cerebral arteries
+Cerebral infarction due to unspecified occlusion or stenosis of cerebral arteries
+Cerebral infarction due to unspecified occlusion or stenosis of precerebral arteries
+Cerebral infarction, unspecified
+Cerebrovascular disease, unspecified
+Cervix uteri, unspecified - Malignant neoplasms
+Cholangitis
+Cholecystitis, unspecified
+Chronic ischaemic heart disease, unspecified
+Chronic kidney disease, stage 3
+Chronic kidney disease, stage 4
+Chronic kidney disease, stage 5
+Chronic lymphocytic leukaemia - Malignant neoplasms
+Chronic myeloid leukaemia - Malignant neoplasms
+Chronic myeloproliferative disease - Uncertain neoplasms
+Chronic obstructive pulmonary disease with acute exacerbation, unspecified
+Chronic obstructive pulmonary disease with acute lower respiratory infection
+Chronic obstructive pulmonary disease, unspecified
+Chronic renal failure, unspecified
+Chronic respiratory failure
+Chronic ulcer of skin, not elsewhere classified
+Chronic viral hepatitis C
+Circumscribed brain atrophy
+Coagulation defect, unspecified
+Colon, unspecified - Malignant neoplasms
+Condition originating in the perinatal period, unspecified
+Congenital diaphragmatic hernia
+Congenital herpesviral [herpes simplex] infection
+Congenital hydrocephalus, unspecified
+Congenital malformation of brain, unspecified
+Congenital malformation of heart, unspecified
+Congenital malformation, unspecified
+Congenital pneumonia, unspecified
+Congenital stenosis of aortic valve
+Congestive heart failure
+Connective and soft tissue of abdomen - Malignant neoplasms
+Connective and soft tissue, unspecified - Malignant neoplasms
+Coronavirus infection, unspecified
+Creutzfeldt-Jakob disease - CJD
+Death from direct obstetric cause occurring more than 42 days but less than one year after delivery
+Decubitus ulcer and pressure area, unspecified
+Degenerative disease of nervous system, unspecified
+Delirium, unspecified
+Diaphragmatic hernia without obstruction or gangrene
+Dilated cardiomyopathy
+Disease of pancreas, unspecified
+Disorder of kidney and ureter, unspecified
+Disorder of lipoprotein metabolism, unspecified
+Disorders of both mitral and aortic valves
+Dissection of aorta [any part]
+Disseminated intravascular coagulation [defibrination syndrome]
+Disseminated intravascular coagulation of newborn
+Diverticular disease of intestine, part unspecified, with perforation and abscess
+Diverticular disease of intestine, part unspecified, without perforation or abscess
+Diverticular disease of large intestine with perforation and abscess
+Double outlet right ventricle
+Down syndrome, unspecified
+Driver injured in collision with other and unspecified motor vehicles in traffic accident
+Drowning and submersion while in bath-tub
+Drowning and submersion while in natural water
+Drowning and submersion while in swimming-pool
+Duodenal ulcer, chronic or unspecified with haemorrhage
+Duodenal ulcer, chronic or unspecified with perforation
+Duodenum - Malignant neoplasms
+Dysphagia
+Dyspnoea
+Edwards syndrome, unspecified
+Emphysema, unspecified
+Encephalocele, unspecified
+Encephalopathy, unspecified
+Endocarditis, valve unspecified
+Endometrium - Malignant neoplasms
+Enterocolitis due to Clostridium difficile
+Epilepsy, unspecified
+Essential (primary) hypertension
+Exomphalos
+Exposure to excessive natural heat
+Exposure to uncontrolled fire in building or structure
+Exposure to unspecified factor causing fracture
+Exposure to unspecified factor causing other and unspecified injury
+Extrahepatic bile duct - Malignant neoplasms
+Extreme immaturity
+Extreme obesity with alveolar hypoventilation
+Extremely low birth weight
+Fall involving bed
+Fall involving chair
+Fall involving wheelchair
+Fall on and from ladder
+Fall on and from stairs and steps
+Fall on same level from slipping, tripping and stumbling
+Fallopian tube - Malignant neoplasms
+Fatty (change of) liver, not elsewhere classified
+Fluid overload
+Follicular non-Hodgkin lymphoma, unspecified
+Gastric ulcer, chronic or unspecified with haemorrhage
+Gastroenteritis and colitis of unspecified origin
+Gastrointestinal haemorrhage, unspecified
+Gastroschisis
+Generalized and unspecified atherosclerosis
+HIV disease resulting in multiple diseases classified elsewhere
+HIV disease resulting in multiple infections
+HIV disease resulting in other bacterial infections
+HIV disease resulting in other infectious and parasitic diseases
+HIV disease resulting in other specified conditions
+HIV disease resulting in other viral infections
+Haemorrhage, not elsewhere classified
+Hanging, strangulation and suffocation, undetermined intent
+Head, face and neck - Malignant neoplasms
+Heart disease, unspecified
+Heart failure, unspecified
+Hepatic failure, unspecified
+Hepatorenal syndrome
+Hodgkin disease, unspecified
+Holoprosencephaly
+Huntington disease
+Hydrops fetalis not due to haemolytic disease
+Hyperlipidaemia, unspecified
+Hyperosmolality and hypernatraemia
+Hyperplasia of prostate
+Hypertensive heart and renal disease with (congestive) heart failure
+Hypertensive heart and renal disease with both (congestive) heart failure and renal failure
+Hypertensive heart and renal disease with renal failure
+Hypertensive heart and renal disease, unspecified
+Hypertensive heart disease with (congestive) heart failure
+Hypertensive heart disease without (congestive) heart failure
+Hypertensive renal disease with renal failure
+Hypertensive renal disease without renal failure
+Hypoplasia and dysplasia of lung
+Hypoplastic left heart syndrome
+Hypothyroidism, unspecified
+Hypoxic ischemic encephalopathy of newborn
+Ill-defined sites within the digestive system - Malignant neoplasms
+Infantile cerebral palsy, unspecified
+Infection specific to the perinatal period, unspecified
+Influenza with other respiratory manifestations, influenza virus identified
+Influenza with other respiratory manifestations, virus not identified
+Influenza with pneumonia, influenza virus identified
+Influenza with pneumonia, virus not identified
+Inhalation and ingestion of food causing obstruction of respiratory tract
+Inhalation and ingestion of other objects causing obstruction of respiratory tract
+Instantaneous death
+Insulin-dependent diabetes mellitus, with renal complications
+Insulin-dependent diabetes mellitus, without complications
+Intentional self-harm by handgun discharge
+Intentional self-harm by hanging, strangulation and suffocation
+Intentional self-harm by jumping from a high place
+Intentional self-harm by jumping or lying before moving object
+Intentional self-harm by other and unspecified firearm discharge
+Intentional self-harm by rifle, shotgun and larger firearm discharge
+Intentional self-harm by sharp object
+Intentional self-poisoning by and exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic drugs, not elsewhere classified
+Intentional self-poisoning by and exposure to other and unspecified drugs, medicaments and biological substances
+Intentional self-poisoning by and exposure to other gases and vapours
+Interstitial pulmonary disease, unspecified
+Intracerebral haemorrhage in brain stem
+Intracerebral haemorrhage in cerebellum
+Intracerebral haemorrhage in hemisphere, subcortical
+Intracerebral haemorrhage, intraventricular
+Intracerebral haemorrhage, unspecified
+Intracranial (nontraumatic) haemorrhage of newborn, unspecified
+Intracranial haemorrhage (nontraumatic), unspecified
+Intrahepatic bile duct carcinoma - Malignant neoplasms
+Intrauterine hypoxia, unspecified
+Intraventricular (nontraumatic) haemorrhage, grade 3, of newborn
+Ischaemic cardiomyopathy
+Larynx, unspecified - Malignant neoplasms
+Legal intervention involving firearm discharge
+Leukaemia, unspecified - Malignant neoplasms
+Liver cell carcinoma - Malignant neoplasms
+Liver disease, unspecified
+Liver, unspecified - Malignant neoplasms
+Lobar pneumonia, unspecified
+Lower lobe, bronchus or lung - Malignant neoplasms
+Malaise and fatigue
+Malignant melanoma of scalp and neck - Malignant neoplasms
+Malignant melanoma of skin, unspecified - Malignant neoplasms
+Malignant melanoma of trunk - Malignant neoplasms
+Malignant neoplasm of gallbladder
+Malignant neoplasm of kidney, except renal pelvis
+Malignant neoplasm of ovary
+Malignant neoplasm of parotid gland
+Malignant neoplasm of prostate
+Malignant neoplasm of rectosigmoid junction
+Malignant neoplasm of rectum
+Malignant neoplasm of skin, unspecified - Malignant neoplasms
+Malignant neoplasm of thyroid gland
+Malignant neoplasm of ureter
+Malignant neoplasm of uterus, part unspecified
+Malignant neoplasm of vagina
+Malignant neoplasm without specification of site
+Malignant neoplasms of independent (primary) multiple sites
+Meninges, unspecified - Benign neoplasms
+Mental and behavioural disorders due to multiple drug use and use of other psychoactive substances, harmful use
+Mental and behavioural disorders due to use of alcohol, dependence syndrome
+Mental and behavioural disorders due to use of alcohol, harmful use
+Mental and behavioural disorders due to use of alcohol, unspecified mental and behavioural disorder
+Mental and behavioural disorders due to use of other stimulants, including caffeine, harmful use
+Mental and behavioural disorders due to use of other stimulants, including caffeine, unspecified mental and behavioural disorder
+Mental and behavioural disorders due to use of tobacco, unspecified mental and behavioural disorder
+Mesothelioma, unspecified - Malignant neoplasms
+Metabolic disorder, unspecified
+Miscellaneous
+Mitral (valve) insufficiency
+Mitral stenosis
+Mitral valve disease, unspecified
+Motor neuron disease
+Motorcycle rider [any] injured in unspecified traffic accident
+Motorcycle rider injured in collision with car, pick-up truck or van, driver injured in traffic accident
+Motorcycle rider injured in collision with fixed or stationary object, driver injured in traffic accident
+Mouth, unspecified - Malignant neoplasms
+Multi-infarct dementia
+Multiple congenital malformations, not elsewhere classified
+Multiple myeloma - Malignant neoplasms
+Multiple sclerosis
+Muscle wasting and atrophy, not elsewhere classified
+Muscular dystrophy
+Myasthenia gravis
+Myelodysplastic syndrome, unspecified - Uncertain neoplasms
+Nasopharynx, unspecified - Malignant neoplasms
+Necrotizing enterocolitis of newborn
+Necrotizing fasciitis
+Neonatal aspiration of meconium
+Neonatal cardiac dysrhythmia
+Neonatal cardiac failure
+Neonatal haemorrhage, unspecified
+Newborn affected by chorioamnionitis
+Newborn affected by complication of labour and delivery, unspecified
+Newborn affected by incompetent cervix
+Newborn affected by maternal hypertensive disorders
+Newborn affected by maternal use of drugs of addiction
+Newborn affected by multiple pregnancy
+Newborn affected by oligohydramnios
+Newborn affected by other compression of umbilical cord
+Newborn affected by other forms of placental separation and haemorrhage
+Newborn affected by other maternal complications of pregnancy
+Newborn affected by other specified complications of labour and delivery
+Newborn affected by placental transfusion syndromes
+Newborn affected by premature rupture of membranes
+Non-Hodgkin lymphoma large cell (diffuse)
+Non-Hodgkin lymphoma small cleaved cell (diffuse)
+Non-Hodgkin lymphoma, unspecified type
+Non-insulin-dependent diabetes mellitus, with ketoacidosis
+Non-insulin-dependent diabetes mellitus, with multiple complications
+Non-insulin-dependent diabetes mellitus, with other specified complications
+Non-insulin-dependent diabetes mellitus, with peripheral circulatory complications
+Non-insulin-dependent diabetes mellitus, with renal complications
+Non-insulin-dependent diabetes mellitus, without complications
+Normal-pressure hydrocephalus
+Nutritional deficiency, unspecified
+Obesity, unspecified
+Oesophagus, unspecified - Malignant neoplasms
+Organ-limited amyloidosis
+Oropharynx, unspecified - Malignant neoplasms
+Osteochondrodysplasia, unspecified
+Osteogenesis imperfecta
+Osteomyelitis, unspecified
+Osteoporosis, unspecified
+Other and unspecified T-cell lymphomas - Malignant neoplasms
+Other and unspecified cirrhosis of liver
+Other and unspecified convulsions
+Other and unspecified disorders of circulatory system
+Other and unspecified gastroenteritis and colitis of infectious origin
+Other and unspecified intestinal obstruction
+Other and unspecified symptoms and signs involving the nervous and musculoskeletal systems
+Other bacterial sepsis of newborn
+Other disorders of electrolyte and fluid balance, not elsewhere classified
+Other disorders of lung
+Other fall on same level
+Other forms of acute ischaemic heart disease
+Other forms of chronic ischaemic heart disease
+Other forms of systemic sclerosis
+Other hypertrophic cardiomyopathy
+Other ill-defined and unspecified causes of mortality
+Other ill-defined heart diseases
+Other interstitial pulmonary diseases with fibrosis
+Other lack of expected normal physiological development
+Other myeloid leukaemia - Malignant neoplasms
+Other obesity
+Other preterm infants
+Other reduction deformities of brain
+Other secondary pulmonary hypertension
+Other specified cerebrovascular diseases
+Other specified chronic obstructive pulmonary disease
+Other specified conditions originating in the perinatal period
+Other specified conduction disorders
+Other specified congenital malformation syndromes, not elsewhere classified
+Other specified congenital malformations
+Other specified congenital malformations of heart
+Other specified degenerative diseases of nervous system
+Other specified disorders of kidney and ureter
+Other specified general symptoms and signs
+Other specified pregnancy-related conditions
+Other viral infections of unspecified site
+Pancreas, unspecified - Malignant neoplasms
+Parkinson disease
+Patau syndrome, unspecified
+Patent ductus arteriosus
+Pedal cyclist injured in collision with car, pick-up truck or van, unspecified pedal cyclist injured in traffic accident
+Pedestrian injured in collision with car, pick-up truck or van, traffic accident
+Pedestrian injured in nontraffic accident involving other and unspecified motor vehicles
+Pedestrian injured in traffic accident involving other and unspecified motor vehicles
+Peptic ulcer, site unspecified, chronic or unspecified with haemorrhage
+Perforation of intestine (nontraumatic)
+Perinatal intestinal perforation
+Peripheral vascular disease, unspecified
+Peritoneum, unspecified - Malignant neoplasms
+Peritonitis, unspecified
+Persistent fetal circulation
+Person injured in collision between other specified motor vehicles (traffic)
+Person injured in unspecified motor-vehicle accident, traffic
+Pharynx, unspecified - Malignant neoplasms
+Phlebitis and thrombophlebitis of other deep vessels of lower extremities
+Pleural effusion, not elsewhere classified
+Pneumoconiosis due to asbestos and other mineral fibres
+Pneumonia due to staphylococcus
+Pneumonia, unspecified
+Pneumonitis due to food and vomit
+Pneumothorax originating in the perinatal period
+Poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified, undetermined intent
+Poisoning by and exposure to other and unspecified drugs, medicaments and biological substances, undetermined intent
+Polycystic kidney, unspecified
+Potter syndrome
+Primary atelectasis of newborn
+Primary biliary cirrhosis
+Progressive supranuclear ophthalmoplegia [Steele-Richardson-Olszewski]
+Pulmonary embolism without mention of acute cor pulmonale
+Pulmonary heart disease, unspecified
+Pure hypercholesterolaemia
+Renal agenesis, bilateral
+Renal agenesis, unspecified
+Renal dysplasia
+Respiratory arrest
+Respiratory distress of newborn, unspecified
+Respiratory distress syndrome of newborn
+Respiratory failure of newborn
+Respiratory failure, unspecified
+Rheumatoid arthritis, unspecified
+Secondary malignant neoplasm of brain and cerebral meninges - Malignant neoplasms
+Secondary malignant neoplasm of liver - Malignant neoplasms
+Secondary malignant neoplasm of other specified sites - Malignant neoplasms
+Secondary malignant neoplasm of retroperitoneum and peritoneum - Malignant neoplasms
+Senile degeneration of brain, not elsewhere classified
+Senility
+Sepsis of newborn due to Escherichia coli
+Septicaemia due to other Gram-negative organisms
+Septicaemia, unspecified
+Sequelae of cerebral infarction
+Sequelae of intracerebral haemorrhage
+Sequelae of motor-vehicle accident
+Sequelae of other accidents
+Sequelae of other and unspecified cerebrovascular diseases
+Sequelae of other specified infectious and parasitic diseases
+Sequelae of stroke, not specified as haemorrhage or infarction
+Sick sinus syndrome
+Sigmoid colon - Malignant neoplasms
+Skin of other and unspecified parts of face - Malignant neoplasms
+Skin of scalp and neck - Malignant neoplasms
+Sleep apnoea
+Slow fetal growth, unspecified
+Spinal muscular atrophy, unspecified
+Status epilepticus, unspecified
+Stomach, unspecified - Malignant neoplasms
+Stroke, not specified as haemorrhage or infarction
+Subarachnoid haemorrhage, unspecified
+Subdural haemorrhage (acute)(nontraumatic)
+Sudden cardiac death, so described
+Sudden infant death syndrome - SIDS
+Surgical procedure, unspecified
+Systemic lupus erythematosus with organ or system involvement
+Testis, unspecified - Malignant neoplasms
+Tetralogy of Fallot
+Thanatophoric short stature
+Thoracic aortic aneurysm, without mention of rupture
+Tongue, unspecified - Malignant neoplasms
+Tonsil, unspecified - Malignant neoplasms
+Trachea, bronchus and lung - Uncertain neoplasms
+Tricuspid insufficiency
+Tuberculosis of lung, without mention of bacteriological or histological confirmation
+Tubulo-interstitial nephritis, not specified as acute or chronic
+Unspecified chronic respiratory disease originating in the perinatal period
+Unspecified dementia
+Unspecified diabetes mellitus, with ketoacidosis
+Unspecified diabetes mellitus, with multiple complications
+Unspecified diabetes mellitus, with peripheral circulatory complications
+Unspecified diabetes mellitus, with renal complications
+Unspecified diabetes mellitus, without complications
+Unspecified drowning and submersion
+Unspecified event, undetermined intent
+Unspecified fall
+Unspecified human immunodeficiency virus [HIV] disease
+Unspecified intraventricular (nontraumatic) haemorrhage of newborn
+Unspecified mental disorder due to brain damage and dysfunction and to physical disease
+Unspecified osteoporosis with pathological fracture
+Unspecified protein-energy malnutrition
+Unspecified pulmonary haemorrhage originating in the perinatal period
+Unspecified renal failure
+Unspecified severe protein-energy malnutrition
+Unspecified threat to breathing
+Unspecified whether traffic or nontraffic accident
+Upper lobe, bronchus or lung - Malignant neoplasms
+Urinary tract infection, site not specified
+Vascular dementia, unspecified
+Vascular disorder of intestine, unspecified
+Ventricular fibrillation and flutter
+Ventricular septal defect
+Ventricular tachycardia
+Viral pneumonia, unspecified
+Volume depletion
+Volvulus
+Vulva, unspecified - Malignant neoplasms
+Waldenström macroglobulinemia

@@ -1,0 +1,715 @@
+"Notes"	"State"	"State Code"	"Single-Year Ages"	"Single-Year Ages Code"	"Cause of death"	"Cause of death Code"	Deaths	Population	Crude Rate
+	"Maine"	"23"	"< 1 year"	"0"	"Newborn affected by other forms of placental separation and haemorrhage"	"P02.1"	13	30104	Unreliable
+	"Maine"	"23"	"< 1 year"	"0"	"Extreme immaturity"	"P07.2"	16	30104	Unreliable
+	"Maine"	"23"	"< 1 year"	"0"	"Other preterm infants"	"P07.3"	15	30104	Unreliable
+	"Maine"	"23"	"< 1 year"	"0"	"Accidental suffocation and strangulation in bed"	"W75"	16	30104	Unreliable
+	"Maine"	"23"	"33 years"	"33"	"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X42"	10	39792	Unreliable
+	"Maine"	"23"	"38 years"	"38"	"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X44"	13	39368	Unreliable
+	"Maine"	"23"	"39 years"	"39"	"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X44"	12	38813	Unreliable
+	"Maine"	"23"	"41 years"	"41"	"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X44"	12	37873	Unreliable
+	"Maine"	"23"	"49 years"	"49"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	14	45560	Unreliable
+	"Maine"	"23"	"49 years"	"49"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	10	45560	Unreliable
+	"Maine"	"23"	"49 years"	"49"	"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X44"	14	45560	Unreliable
+	"Maine"	"23"	"50 years"	"50"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	12	45900	Unreliable
+	"Maine"	"23"	"50 years"	"50"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	10	45900	Unreliable
+	"Maine"	"23"	"51 years"	"51"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	12	46860	Unreliable
+	"Maine"	"23"	"51 years"	"51"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	11	46860	Unreliable
+	"Maine"	"23"	"52 years"	"52"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	24	48552	49.4
+	"Maine"	"23"	"53 years"	"53"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	28	50357	55.6
+	"Maine"	"23"	"53 years"	"53"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	20	50357	39.7
+	"Maine"	"23"	"54 years"	"54"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	20	51916	38.5
+	"Maine"	"23"	"54 years"	"54"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	10	51916	Unreliable
+	"Maine"	"23"	"54 years"	"54"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	11	51916	Unreliable
+	"Maine"	"23"	"55 years"	"55"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	16	53505	Unreliable
+	"Maine"	"23"	"55 years"	"55"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	16	53505	Unreliable
+	"Maine"	"23"	"55 years"	"55"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	10	53505	Unreliable
+	"Maine"	"23"	"55 years"	"55"	"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X44"	12	53505	Unreliable
+	"Maine"	"23"	"56 years"	"56"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	29	54554	53.2
+	"Maine"	"23"	"56 years"	"56"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	18	54554	Unreliable
+	"Maine"	"23"	"56 years"	"56"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	11	54554	Unreliable
+	"Maine"	"23"	"57 years"	"57"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	37	55271	66.9
+	"Maine"	"23"	"57 years"	"57"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	17	55271	Unreliable
+	"Maine"	"23"	"57 years"	"57"	"Cardiovascular disease, unspecified"	"I51.6"	11	55271	Unreliable
+	"Maine"	"23"	"57 years"	"57"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	14	55271	Unreliable
+	"Maine"	"23"	"58 years"	"58"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	10	55695	Unreliable
+	"Maine"	"23"	"58 years"	"58"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	46	55695	82.6
+	"Maine"	"23"	"58 years"	"58"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	17	55695	Unreliable
+	"Maine"	"23"	"58 years"	"58"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	11	55695	Unreliable
+	"Maine"	"23"	"59 years"	"59"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	11	55980	Unreliable
+	"Maine"	"23"	"59 years"	"59"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	38	55980	67.9
+	"Maine"	"23"	"59 years"	"59"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	15	55980	Unreliable
+	"Maine"	"23"	"59 years"	"59"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	18	55980	Unreliable
+	"Maine"	"23"	"59 years"	"59"	"Alcoholic cirrhosis of liver"	"K70.3"	11	55980	Unreliable
+	"Maine"	"23"	"60 years"	"60"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	48	55672	86.2
+	"Maine"	"23"	"60 years"	"60"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	21	55672	37.7
+	"Maine"	"23"	"60 years"	"60"	"Acute myocardial infarction, unspecified"	"I21.9"	11	55672	Unreliable
+	"Maine"	"23"	"60 years"	"60"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	26	55672	46.7
+	"Maine"	"23"	"61 years"	"61"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	15	55060	Unreliable
+	"Maine"	"23"	"61 years"	"61"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	42	55060	76.3
+	"Maine"	"23"	"61 years"	"61"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	19	55060	Unreliable
+	"Maine"	"23"	"61 years"	"61"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	31	55060	56.3
+	"Maine"	"23"	"62 years"	"62"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	11	54488	Unreliable
+	"Maine"	"23"	"62 years"	"62"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	40	54488	73.4
+	"Maine"	"23"	"62 years"	"62"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	17	54488	Unreliable
+	"Maine"	"23"	"62 years"	"62"	"Malignant neoplasm of ovary"	"C56"	11	54488	Unreliable
+	"Maine"	"23"	"62 years"	"62"	"Malignant neoplasm without specification of site"	"C80"	12	54488	Unreliable
+	"Maine"	"23"	"62 years"	"62"	"Stroke, not specified as haemorrhage or infarction"	"I64"	10	54488	Unreliable
+	"Maine"	"23"	"62 years"	"62"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	28	54488	51.4
+	"Maine"	"23"	"63 years"	"63"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	18	53406	Unreliable
+	"Maine"	"23"	"63 years"	"63"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	54	53406	101.1
+	"Maine"	"23"	"63 years"	"63"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	25	53406	46.8
+	"Maine"	"23"	"63 years"	"63"	"Atherosclerotic heart disease"	"I25.1"	12	53406	Unreliable
+	"Maine"	"23"	"63 years"	"63"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	24	53406	44.9
+	"Maine"	"23"	"64 years"	"64"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	11	52203	Unreliable
+	"Maine"	"23"	"64 years"	"64"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	14	52203	Unreliable
+	"Maine"	"23"	"64 years"	"64"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	54	52203	103.4
+	"Maine"	"23"	"64 years"	"64"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	25	52203	47.9
+	"Maine"	"23"	"64 years"	"64"	"Acute myocardial infarction, unspecified"	"I21.9"	10	52203	Unreliable
+	"Maine"	"23"	"64 years"	"64"	"Atherosclerotic heart disease"	"I25.1"	15	52203	Unreliable
+	"Maine"	"23"	"64 years"	"64"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	32	52203	61.3
+	"Maine"	"23"	"65 years"	"65"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	15	50840	Unreliable
+	"Maine"	"23"	"65 years"	"65"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	54	50840	106.2
+	"Maine"	"23"	"65 years"	"65"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	20	50840	39.3
+	"Maine"	"23"	"65 years"	"65"	"Malignant neoplasm without specification of site"	"C80"	10	50840	Unreliable
+	"Maine"	"23"	"65 years"	"65"	"Acute myocardial infarction, unspecified"	"I21.9"	12	50840	Unreliable
+	"Maine"	"23"	"65 years"	"65"	"Atherosclerotic heart disease"	"I25.1"	16	50840	Unreliable
+	"Maine"	"23"	"65 years"	"65"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	42	50840	82.6
+	"Maine"	"23"	"66 years"	"66"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	10	49493	Unreliable
+	"Maine"	"23"	"66 years"	"66"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	54	49493	109.1
+	"Maine"	"23"	"66 years"	"66"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	21	49493	42.4
+	"Maine"	"23"	"66 years"	"66"	"Malignant neoplasm without specification of site"	"C80"	10	49493	Unreliable
+	"Maine"	"23"	"66 years"	"66"	"Acute myocardial infarction, unspecified"	"I21.9"	19	49493	Unreliable
+	"Maine"	"23"	"66 years"	"66"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	42	49493	84.9
+	"Maine"	"23"	"67 years"	"67"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	12	47916	Unreliable
+	"Maine"	"23"	"67 years"	"67"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	56	47916	116.9
+	"Maine"	"23"	"67 years"	"67"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	24	47916	50.1
+	"Maine"	"23"	"67 years"	"67"	"Malignant neoplasm without specification of site"	"C80"	12	47916	Unreliable
+	"Maine"	"23"	"67 years"	"67"	"Acute myocardial infarction, unspecified"	"I21.9"	17	47916	Unreliable
+	"Maine"	"23"	"67 years"	"67"	"Pneumonia, unspecified"	"J18.9"	13	47916	Unreliable
+	"Maine"	"23"	"67 years"	"67"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	21	47916	43.8
+	"Maine"	"23"	"68 years"	"68"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	22	46637	47.2
+	"Maine"	"23"	"68 years"	"68"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	59	46637	126.5
+	"Maine"	"23"	"68 years"	"68"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	21	46637	45.0
+	"Maine"	"23"	"68 years"	"68"	"Endometrium - Malignant neoplasms"	"C54.1"	11	46637	Unreliable
+	"Maine"	"23"	"68 years"	"68"	"Unspecified dementia"	"F03"	11	46637	Unreliable
+	"Maine"	"23"	"68 years"	"68"	"Acute myocardial infarction, unspecified"	"I21.9"	13	46637	Unreliable
+	"Maine"	"23"	"68 years"	"68"	"Atherosclerotic heart disease"	"I25.1"	14	46637	Unreliable
+	"Maine"	"23"	"68 years"	"68"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	34	46637	72.9
+	"Maine"	"23"	"68 years"	"68"	"Chronic kidney disease, stage 5"	"N18.5"	10	46637	Unreliable
+	"Maine"	"23"	"69 years"	"69"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	22	45840	48.0
+	"Maine"	"23"	"69 years"	"69"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	63	45840	137.4
+	"Maine"	"23"	"69 years"	"69"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	24	45840	52.4
+	"Maine"	"23"	"69 years"	"69"	"Malignant neoplasm of ovary"	"C56"	10	45840	Unreliable
+	"Maine"	"23"	"69 years"	"69"	"Malignant neoplasm without specification of site"	"C80"	10	45840	Unreliable
+	"Maine"	"23"	"69 years"	"69"	"Unspecified dementia"	"F03"	13	45840	Unreliable
+	"Maine"	"23"	"69 years"	"69"	"Alzheimer disease, unspecified"	"G30.9"	10	45840	Unreliable
+	"Maine"	"23"	"69 years"	"69"	"Acute myocardial infarction, unspecified"	"I21.9"	17	45840	Unreliable
+	"Maine"	"23"	"69 years"	"69"	"Atherosclerotic heart disease"	"I25.1"	14	45840	Unreliable
+	"Maine"	"23"	"69 years"	"69"	"Cardiovascular disease, unspecified"	"I51.6"	11	45840	Unreliable
+	"Maine"	"23"	"69 years"	"69"	"Stroke, not specified as haemorrhage or infarction"	"I64"	10	45840	Unreliable
+	"Maine"	"23"	"69 years"	"69"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	45	45840	98.2
+	"Maine"	"23"	"70 years"	"70"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	16	42750	Unreliable
+	"Maine"	"23"	"70 years"	"70"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	20	42750	46.8
+	"Maine"	"23"	"70 years"	"70"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	80	42750	187.1
+	"Maine"	"23"	"70 years"	"70"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	26	42750	60.8
+	"Maine"	"23"	"70 years"	"70"	"Endometrium - Malignant neoplasms"	"C54.1"	10	42750	Unreliable
+	"Maine"	"23"	"70 years"	"70"	"Unspecified dementia"	"F03"	15	42750	Unreliable
+	"Maine"	"23"	"70 years"	"70"	"Alzheimer disease, unspecified"	"G30.9"	13	42750	Unreliable
+	"Maine"	"23"	"70 years"	"70"	"Acute myocardial infarction, unspecified"	"I21.9"	19	42750	Unreliable
+	"Maine"	"23"	"70 years"	"70"	"Atherosclerotic heart disease"	"I25.1"	18	42750	Unreliable
+	"Maine"	"23"	"70 years"	"70"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	37	42750	86.5
+	"Maine"	"23"	"71 years"	"71"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	15	39794	Unreliable
+	"Maine"	"23"	"71 years"	"71"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	61	39794	153.3
+	"Maine"	"23"	"71 years"	"71"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	20	39794	50.3
+	"Maine"	"23"	"71 years"	"71"	"Malignant neoplasm of ovary"	"C56"	13	39794	Unreliable
+	"Maine"	"23"	"71 years"	"71"	"Unspecified dementia"	"F03"	16	39794	Unreliable
+	"Maine"	"23"	"71 years"	"71"	"Acute myocardial infarction, unspecified"	"I21.9"	21	39794	52.8
+	"Maine"	"23"	"71 years"	"71"	"Atherosclerotic heart disease"	"I25.1"	27	39794	67.8
+	"Maine"	"23"	"71 years"	"71"	"Stroke, not specified as haemorrhage or infarction"	"I64"	17	39794	Unreliable
+	"Maine"	"23"	"71 years"	"71"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	41	39794	103.0
+	"Maine"	"23"	"72 years"	"72"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	14	37035	Unreliable
+	"Maine"	"23"	"72 years"	"72"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	73	37035	197.1
+	"Maine"	"23"	"72 years"	"72"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	18	37035	Unreliable
+	"Maine"	"23"	"72 years"	"72"	"Malignant neoplasm of ovary"	"C56"	13	37035	Unreliable
+	"Maine"	"23"	"72 years"	"72"	"Malignant neoplasm without specification of site"	"C80"	11	37035	Unreliable
+	"Maine"	"23"	"72 years"	"72"	"Unspecified dementia"	"F03"	20	37035	54.0
+	"Maine"	"23"	"72 years"	"72"	"Alzheimer disease, unspecified"	"G30.9"	12	37035	Unreliable
+	"Maine"	"23"	"72 years"	"72"	"Acute myocardial infarction, unspecified"	"I21.9"	16	37035	Unreliable
+	"Maine"	"23"	"72 years"	"72"	"Atherosclerotic heart disease"	"I25.1"	16	37035	Unreliable
+	"Maine"	"23"	"72 years"	"72"	"Stroke, not specified as haemorrhage or infarction"	"I64"	13	37035	Unreliable
+	"Maine"	"23"	"72 years"	"72"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	42	37035	113.4
+	"Maine"	"23"	"73 years"	"73"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	10	34547	Unreliable
+	"Maine"	"23"	"73 years"	"73"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	17	34547	Unreliable
+	"Maine"	"23"	"73 years"	"73"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	68	34547	196.8
+	"Maine"	"23"	"73 years"	"73"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	27	34547	78.2
+	"Maine"	"23"	"73 years"	"73"	"Endometrium - Malignant neoplasms"	"C54.1"	10	34547	Unreliable
+	"Maine"	"23"	"73 years"	"73"	"Unspecified dementia"	"F03"	33	34547	95.5
+	"Maine"	"23"	"73 years"	"73"	"Parkinson disease"	"G20"	10	34547	Unreliable
+	"Maine"	"23"	"73 years"	"73"	"Alzheimer disease, unspecified"	"G30.9"	10	34547	Unreliable
+	"Maine"	"23"	"73 years"	"73"	"Acute myocardial infarction, unspecified"	"I21.9"	13	34547	Unreliable
+	"Maine"	"23"	"73 years"	"73"	"Atherosclerotic heart disease"	"I25.1"	37	34547	107.1
+	"Maine"	"23"	"73 years"	"73"	"Stroke, not specified as haemorrhage or infarction"	"I64"	14	34547	Unreliable
+	"Maine"	"23"	"73 years"	"73"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	57	34547	165.0
+	"Maine"	"23"	"74 years"	"74"	"Septicaemia, unspecified"	"A41.9"	10	30921	Unreliable
+	"Maine"	"23"	"74 years"	"74"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	12	30921	Unreliable
+	"Maine"	"23"	"74 years"	"74"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	17	30921	Unreliable
+	"Maine"	"23"	"74 years"	"74"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	97	30921	313.7
+	"Maine"	"23"	"74 years"	"74"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	20	30921	64.7
+	"Maine"	"23"	"74 years"	"74"	"Malignant neoplasm of ovary"	"C56"	13	30921	Unreliable
+	"Maine"	"23"	"74 years"	"74"	"Malignant neoplasm without specification of site"	"C80"	17	30921	Unreliable
+	"Maine"	"23"	"74 years"	"74"	"Unspecified dementia"	"F03"	24	30921	77.6
+	"Maine"	"23"	"74 years"	"74"	"Parkinson disease"	"G20"	13	30921	Unreliable
+	"Maine"	"23"	"74 years"	"74"	"Alzheimer disease, unspecified"	"G30.9"	16	30921	Unreliable
+	"Maine"	"23"	"74 years"	"74"	"Acute myocardial infarction, unspecified"	"I21.9"	11	30921	Unreliable
+	"Maine"	"23"	"74 years"	"74"	"Atherosclerotic heart disease"	"I25.1"	25	30921	80.9
+	"Maine"	"23"	"74 years"	"74"	"Congestive heart failure"	"I50.0"	10	30921	Unreliable
+	"Maine"	"23"	"74 years"	"74"	"Stroke, not specified as haemorrhage or infarction"	"I64"	17	30921	Unreliable
+	"Maine"	"23"	"74 years"	"74"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	11	30921	Unreliable
+	"Maine"	"23"	"74 years"	"74"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	48	30921	155.2
+	"Maine"	"23"	"75 years"	"75"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	15	29360	Unreliable
+	"Maine"	"23"	"75 years"	"75"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	16	29360	Unreliable
+	"Maine"	"23"	"75 years"	"75"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	64	29360	218.0
+	"Maine"	"23"	"75 years"	"75"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	21	29360	71.5
+	"Maine"	"23"	"75 years"	"75"	"Malignant neoplasm without specification of site"	"C80"	21	29360	71.5
+	"Maine"	"23"	"75 years"	"75"	"Unspecified diabetes mellitus, without complications"	"E14.9"	12	29360	Unreliable
+	"Maine"	"23"	"75 years"	"75"	"Hyperlipidaemia, unspecified"	"E78.5"	10	29360	Unreliable
+	"Maine"	"23"	"75 years"	"75"	"Unspecified dementia"	"F03"	39	29360	132.8
+	"Maine"	"23"	"75 years"	"75"	"Parkinson disease"	"G20"	13	29360	Unreliable
+	"Maine"	"23"	"75 years"	"75"	"Alzheimer disease, unspecified"	"G30.9"	32	29360	109.0
+	"Maine"	"23"	"75 years"	"75"	"Acute myocardial infarction, unspecified"	"I21.9"	18	29360	Unreliable
+	"Maine"	"23"	"75 years"	"75"	"Atherosclerotic heart disease"	"I25.1"	24	29360	81.7
+	"Maine"	"23"	"75 years"	"75"	"Congestive heart failure"	"I50.0"	10	29360	Unreliable
+	"Maine"	"23"	"75 years"	"75"	"Stroke, not specified as haemorrhage or infarction"	"I64"	24	29360	81.7
+	"Maine"	"23"	"75 years"	"75"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	63	29360	214.6
+	"Maine"	"23"	"76 years"	"76"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	13	27727	Unreliable
+	"Maine"	"23"	"76 years"	"76"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	14	27727	Unreliable
+	"Maine"	"23"	"76 years"	"76"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	59	27727	212.8
+	"Maine"	"23"	"76 years"	"76"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	22	27727	79.3
+	"Maine"	"23"	"76 years"	"76"	"Malignant neoplasm without specification of site"	"C80"	11	27727	Unreliable
+	"Maine"	"23"	"76 years"	"76"	"Unspecified dementia"	"F03"	36	27727	129.8
+	"Maine"	"23"	"76 years"	"76"	"Parkinson disease"	"G20"	12	27727	Unreliable
+	"Maine"	"23"	"76 years"	"76"	"Alzheimer disease, unspecified"	"G30.9"	26	27727	93.8
+	"Maine"	"23"	"76 years"	"76"	"Acute myocardial infarction, unspecified"	"I21.9"	17	27727	Unreliable
+	"Maine"	"23"	"76 years"	"76"	"Atherosclerotic heart disease"	"I25.1"	20	27727	72.1
+	"Maine"	"23"	"76 years"	"76"	"Congestive heart failure"	"I50.0"	11	27727	Unreliable
+	"Maine"	"23"	"76 years"	"76"	"Stroke, not specified as haemorrhage or infarction"	"I64"	19	27727	Unreliable
+	"Maine"	"23"	"76 years"	"76"	"Pneumonia, unspecified"	"J18.9"	13	27727	Unreliable
+	"Maine"	"23"	"76 years"	"76"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	11	27727	Unreliable
+	"Maine"	"23"	"76 years"	"76"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	65	27727	234.4
+	"Maine"	"23"	"76 years"	"76"	"Unspecified fall"	"W19"	12	27727	Unreliable
+	"Maine"	"23"	"77 years"	"77"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	11	25479	Unreliable
+	"Maine"	"23"	"77 years"	"77"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	15	25479	Unreliable
+	"Maine"	"23"	"77 years"	"77"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	83	25479	325.8
+	"Maine"	"23"	"77 years"	"77"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	26	25479	102.0
+	"Maine"	"23"	"77 years"	"77"	"Malignant neoplasm of ovary"	"C56"	12	25479	Unreliable
+	"Maine"	"23"	"77 years"	"77"	"Malignant neoplasm without specification of site"	"C80"	17	25479	Unreliable
+	"Maine"	"23"	"77 years"	"77"	"Vascular dementia, unspecified"	"F01.9"	11	25479	Unreliable
+	"Maine"	"23"	"77 years"	"77"	"Unspecified dementia"	"F03"	58	25479	227.6
+	"Maine"	"23"	"77 years"	"77"	"Parkinson disease"	"G20"	14	25479	Unreliable
+	"Maine"	"23"	"77 years"	"77"	"Alzheimer disease, unspecified"	"G30.9"	45	25479	176.6
+	"Maine"	"23"	"77 years"	"77"	"Acute myocardial infarction, unspecified"	"I21.9"	18	25479	Unreliable
+	"Maine"	"23"	"77 years"	"77"	"Atherosclerotic heart disease"	"I25.1"	26	25479	102.0
+	"Maine"	"23"	"77 years"	"77"	"Atrial fibrillation and flutter"	"I48"	11	25479	Unreliable
+	"Maine"	"23"	"77 years"	"77"	"Stroke, not specified as haemorrhage or infarction"	"I64"	22	25479	86.3
+	"Maine"	"23"	"77 years"	"77"	"Pneumonia, unspecified"	"J18.9"	11	25479	Unreliable
+	"Maine"	"23"	"77 years"	"77"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	58	25479	227.6
+	"Maine"	"23"	"77 years"	"77"	"Unspecified fall"	"W19"	11	25479	Unreliable
+	"Maine"	"23"	"78 years"	"78"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	15	23349	Unreliable
+	"Maine"	"23"	"78 years"	"78"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	14	23349	Unreliable
+	"Maine"	"23"	"78 years"	"78"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	47	23349	201.3
+	"Maine"	"23"	"78 years"	"78"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	19	23349	Unreliable
+	"Maine"	"23"	"78 years"	"78"	"Malignant neoplasm of ovary"	"C56"	12	23349	Unreliable
+	"Maine"	"23"	"78 years"	"78"	"Malignant neoplasm without specification of site"	"C80"	11	23349	Unreliable
+	"Maine"	"23"	"78 years"	"78"	"Vascular dementia, unspecified"	"F01.9"	12	23349	Unreliable
+	"Maine"	"23"	"78 years"	"78"	"Unspecified dementia"	"F03"	48	23349	205.6
+	"Maine"	"23"	"78 years"	"78"	"Parkinson disease"	"G20"	16	23349	Unreliable
+	"Maine"	"23"	"78 years"	"78"	"Alzheimer disease, unspecified"	"G30.9"	34	23349	145.6
+	"Maine"	"23"	"78 years"	"78"	"Acute myocardial infarction, unspecified"	"I21.9"	20	23349	85.7
+	"Maine"	"23"	"78 years"	"78"	"Atherosclerotic heart disease"	"I25.1"	29	23349	124.2
+	"Maine"	"23"	"78 years"	"78"	"Stroke, not specified as haemorrhage or infarction"	"I64"	22	23349	94.2
+	"Maine"	"23"	"78 years"	"78"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	13	23349	Unreliable
+	"Maine"	"23"	"78 years"	"78"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	53	23349	227.0
+	"Maine"	"23"	"78 years"	"78"	"Unspecified fall"	"W19"	10	23349	Unreliable
+	"Maine"	"23"	"79 years"	"79"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	13	21834	Unreliable
+	"Maine"	"23"	"79 years"	"79"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	65	21834	297.7
+	"Maine"	"23"	"79 years"	"79"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	19	21834	Unreliable
+	"Maine"	"23"	"79 years"	"79"	"Malignant neoplasm without specification of site"	"C80"	19	21834	Unreliable
+	"Maine"	"23"	"79 years"	"79"	"Unspecified dementia"	"F03"	57	21834	261.1
+	"Maine"	"23"	"79 years"	"79"	"Alzheimer disease, unspecified"	"G30.9"	43	21834	196.9
+	"Maine"	"23"	"79 years"	"79"	"Acute myocardial infarction, unspecified"	"I21.9"	27	21834	123.7
+	"Maine"	"23"	"79 years"	"79"	"Atherosclerotic heart disease"	"I25.1"	32	21834	146.6
+	"Maine"	"23"	"79 years"	"79"	"Congestive heart failure"	"I50.0"	12	21834	Unreliable
+	"Maine"	"23"	"79 years"	"79"	"Stroke, not specified as haemorrhage or infarction"	"I64"	18	21834	Unreliable
+	"Maine"	"23"	"79 years"	"79"	"Pneumonia, unspecified"	"J18.9"	11	21834	Unreliable
+	"Maine"	"23"	"79 years"	"79"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	14	21834	Unreliable
+	"Maine"	"23"	"79 years"	"79"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	45	21834	206.1
+	"Maine"	"23"	"79 years"	"79"	"Unspecified fall"	"W19"	19	21834	Unreliable
+	"Maine"	"23"	"80 years"	"80"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	10	20258	Unreliable
+	"Maine"	"23"	"80 years"	"80"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	14	20258	Unreliable
+	"Maine"	"23"	"80 years"	"80"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	57	20258	281.4
+	"Maine"	"23"	"80 years"	"80"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	23	20258	113.5
+	"Maine"	"23"	"80 years"	"80"	"Malignant neoplasm without specification of site"	"C80"	15	20258	Unreliable
+	"Maine"	"23"	"80 years"	"80"	"Unspecified diabetes mellitus, without complications"	"E14.9"	11	20258	Unreliable
+	"Maine"	"23"	"80 years"	"80"	"Vascular dementia, unspecified"	"F01.9"	12	20258	Unreliable
+	"Maine"	"23"	"80 years"	"80"	"Unspecified dementia"	"F03"	74	20258	365.3
+	"Maine"	"23"	"80 years"	"80"	"Parkinson disease"	"G20"	18	20258	Unreliable
+	"Maine"	"23"	"80 years"	"80"	"Alzheimer disease, unspecified"	"G30.9"	43	20258	212.3
+	"Maine"	"23"	"80 years"	"80"	"Acute myocardial infarction, unspecified"	"I21.9"	21	20258	103.7
+	"Maine"	"23"	"80 years"	"80"	"Atherosclerotic heart disease"	"I25.1"	32	20258	158.0
+	"Maine"	"23"	"80 years"	"80"	"Atrial fibrillation and flutter"	"I48"	11	20258	Unreliable
+	"Maine"	"23"	"80 years"	"80"	"Congestive heart failure"	"I50.0"	15	20258	Unreliable
+	"Maine"	"23"	"80 years"	"80"	"Stroke, not specified as haemorrhage or infarction"	"I64"	38	20258	187.6
+	"Maine"	"23"	"80 years"	"80"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	13	20258	Unreliable
+	"Maine"	"23"	"80 years"	"80"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	68	20258	335.7
+	"Maine"	"23"	"80 years"	"80"	"Unspecified fall"	"W19"	18	20258	Unreliable
+	"Maine"	"23"	"81 years"	"81"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	18	19232	Unreliable
+	"Maine"	"23"	"81 years"	"81"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	14	19232	Unreliable
+	"Maine"	"23"	"81 years"	"81"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	48	19232	249.6
+	"Maine"	"23"	"81 years"	"81"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	21	19232	109.2
+	"Maine"	"23"	"81 years"	"81"	"Malignant neoplasm without specification of site"	"C80"	16	19232	Unreliable
+	"Maine"	"23"	"81 years"	"81"	"Unspecified diabetes mellitus, without complications"	"E14.9"	13	19232	Unreliable
+	"Maine"	"23"	"81 years"	"81"	"Vascular dementia, unspecified"	"F01.9"	17	19232	Unreliable
+	"Maine"	"23"	"81 years"	"81"	"Unspecified dementia"	"F03"	74	19232	384.8
+	"Maine"	"23"	"81 years"	"81"	"Parkinson disease"	"G20"	20	19232	104.0
+	"Maine"	"23"	"81 years"	"81"	"Alzheimer disease, unspecified"	"G30.9"	64	19232	332.8
+	"Maine"	"23"	"81 years"	"81"	"Acute myocardial infarction, unspecified"	"I21.9"	20	19232	104.0
+	"Maine"	"23"	"81 years"	"81"	"Atherosclerotic heart disease"	"I25.1"	42	19232	218.4
+	"Maine"	"23"	"81 years"	"81"	"Congestive heart failure"	"I50.0"	12	19232	Unreliable
+	"Maine"	"23"	"81 years"	"81"	"Stroke, not specified as haemorrhage or infarction"	"I64"	30	19232	156.0
+	"Maine"	"23"	"81 years"	"81"	"Pneumonia, unspecified"	"J18.9"	12	19232	Unreliable
+	"Maine"	"23"	"81 years"	"81"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	10	19232	Unreliable
+	"Maine"	"23"	"81 years"	"81"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	63	19232	327.6
+	"Maine"	"23"	"81 years"	"81"	"Other interstitial pulmonary diseases with fibrosis"	"J84.1"	11	19232	Unreliable
+	"Maine"	"23"	"81 years"	"81"	"Chronic kidney disease, stage 5"	"N18.5"	13	19232	Unreliable
+	"Maine"	"23"	"81 years"	"81"	"Unspecified fall"	"W19"	19	19232	Unreliable
+	"Maine"	"23"	"82 years"	"82"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	19	18012	Unreliable
+	"Maine"	"23"	"82 years"	"82"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	10	18012	Unreliable
+	"Maine"	"23"	"82 years"	"82"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	59	18012	327.6
+	"Maine"	"23"	"82 years"	"82"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	20	18012	111.0
+	"Maine"	"23"	"82 years"	"82"	"Malignant neoplasm of ovary"	"C56"	11	18012	Unreliable
+	"Maine"	"23"	"82 years"	"82"	"Vascular dementia, unspecified"	"F01.9"	18	18012	Unreliable
+	"Maine"	"23"	"82 years"	"82"	"Unspecified dementia"	"F03"	88	18012	488.6
+	"Maine"	"23"	"82 years"	"82"	"Parkinson disease"	"G20"	12	18012	Unreliable
+	"Maine"	"23"	"82 years"	"82"	"Alzheimer disease, unspecified"	"G30.9"	70	18012	388.6
+	"Maine"	"23"	"82 years"	"82"	"Acute myocardial infarction, unspecified"	"I21.9"	31	18012	172.1
+	"Maine"	"23"	"82 years"	"82"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	11	18012	Unreliable
+	"Maine"	"23"	"82 years"	"82"	"Atherosclerotic heart disease"	"I25.1"	44	18012	244.3
+	"Maine"	"23"	"82 years"	"82"	"Aortic (valve) stenosis"	"I35.0"	14	18012	Unreliable
+	"Maine"	"23"	"82 years"	"82"	"Atrial fibrillation and flutter"	"I48"	12	18012	Unreliable
+	"Maine"	"23"	"82 years"	"82"	"Congestive heart failure"	"I50.0"	14	18012	Unreliable
+	"Maine"	"23"	"82 years"	"82"	"Stroke, not specified as haemorrhage or infarction"	"I64"	29	18012	161.0
+	"Maine"	"23"	"82 years"	"82"	"Pneumonia, unspecified"	"J18.9"	10	18012	Unreliable
+	"Maine"	"23"	"82 years"	"82"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	11	18012	Unreliable
+	"Maine"	"23"	"82 years"	"82"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	51	18012	283.1
+	"Maine"	"23"	"82 years"	"82"	"COVID-19"	"U07.1"	10	18012	Unreliable
+	"Maine"	"23"	"82 years"	"82"	"Unspecified fall"	"W19"	18	18012	Unreliable
+	"Maine"	"23"	"83 years"	"83"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	15	16904	Unreliable
+	"Maine"	"23"	"83 years"	"83"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	15	16904	Unreliable
+	"Maine"	"23"	"83 years"	"83"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	41	16904	242.5
+	"Maine"	"23"	"83 years"	"83"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	19	16904	Unreliable
+	"Maine"	"23"	"83 years"	"83"	"Endometrium - Malignant neoplasms"	"C54.1"	11	16904	Unreliable
+	"Maine"	"23"	"83 years"	"83"	"Malignant neoplasm without specification of site"	"C80"	18	16904	Unreliable
+	"Maine"	"23"	"83 years"	"83"	"Vascular dementia, unspecified"	"F01.9"	16	16904	Unreliable
+	"Maine"	"23"	"83 years"	"83"	"Unspecified dementia"	"F03"	94	16904	556.1
+	"Maine"	"23"	"83 years"	"83"	"Parkinson disease"	"G20"	14	16904	Unreliable
+	"Maine"	"23"	"83 years"	"83"	"Alzheimer disease, unspecified"	"G30.9"	63	16904	372.7
+	"Maine"	"23"	"83 years"	"83"	"Acute myocardial infarction, unspecified"	"I21.9"	25	16904	147.9
+	"Maine"	"23"	"83 years"	"83"	"Atherosclerotic heart disease"	"I25.1"	49	16904	289.9
+	"Maine"	"23"	"83 years"	"83"	"Aortic (valve) stenosis"	"I35.0"	16	16904	Unreliable
+	"Maine"	"23"	"83 years"	"83"	"Atrial fibrillation and flutter"	"I48"	11	16904	Unreliable
+	"Maine"	"23"	"83 years"	"83"	"Congestive heart failure"	"I50.0"	21	16904	124.2
+	"Maine"	"23"	"83 years"	"83"	"Stroke, not specified as haemorrhage or infarction"	"I64"	37	16904	218.9
+	"Maine"	"23"	"83 years"	"83"	"Pneumonia, unspecified"	"J18.9"	13	16904	Unreliable
+	"Maine"	"23"	"83 years"	"83"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	12	16904	Unreliable
+	"Maine"	"23"	"83 years"	"83"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	55	16904	325.4
+	"Maine"	"23"	"83 years"	"83"	"Other interstitial pulmonary diseases with fibrosis"	"J84.1"	10	16904	Unreliable
+	"Maine"	"23"	"83 years"	"83"	"Chronic renal failure, unspecified"	"N18.9"	12	16904	Unreliable
+	"Maine"	"23"	"83 years"	"83"	"Unspecified fall"	"W19"	28	16904	165.6
+	"Maine"	"23"	"84 years"	"84"	"Septicaemia, unspecified"	"A41.9"	10	15700	Unreliable
+	"Maine"	"23"	"84 years"	"84"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	12	15700	Unreliable
+	"Maine"	"23"	"84 years"	"84"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	20	15700	127.4
+	"Maine"	"23"	"84 years"	"84"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	61	15700	388.5
+	"Maine"	"23"	"84 years"	"84"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	21	15700	133.8
+	"Maine"	"23"	"84 years"	"84"	"Malignant neoplasm without specification of site"	"C80"	10	15700	Unreliable
+	"Maine"	"23"	"84 years"	"84"	"Vascular dementia, unspecified"	"F01.9"	16	15700	Unreliable
+	"Maine"	"23"	"84 years"	"84"	"Unspecified dementia"	"F03"	131	15700	834.4
+	"Maine"	"23"	"84 years"	"84"	"Parkinson disease"	"G20"	15	15700	Unreliable
+	"Maine"	"23"	"84 years"	"84"	"Alzheimer disease, unspecified"	"G30.9"	85	15700	541.4
+	"Maine"	"23"	"84 years"	"84"	"Other specified degenerative diseases of nervous system"	"G31.8"	10	15700	Unreliable
+	"Maine"	"23"	"84 years"	"84"	"Hypertensive heart disease with (congestive) heart failure"	"I11.0"	17	15700	Unreliable
+	"Maine"	"23"	"84 years"	"84"	"Acute myocardial infarction, unspecified"	"I21.9"	44	15700	280.3
+	"Maine"	"23"	"84 years"	"84"	"Atherosclerotic heart disease"	"I25.1"	66	15700	420.4
+	"Maine"	"23"	"84 years"	"84"	"Aortic (valve) stenosis"	"I35.0"	13	15700	Unreliable
+	"Maine"	"23"	"84 years"	"84"	"Atrial fibrillation and flutter"	"I48"	13	15700	Unreliable
+	"Maine"	"23"	"84 years"	"84"	"Congestive heart failure"	"I50.0"	27	15700	172.0
+	"Maine"	"23"	"84 years"	"84"	"Heart failure, unspecified"	"I50.9"	10	15700	Unreliable
+	"Maine"	"23"	"84 years"	"84"	"Cardiovascular disease, unspecified"	"I51.6"	10	15700	Unreliable
+	"Maine"	"23"	"84 years"	"84"	"Stroke, not specified as haemorrhage or infarction"	"I64"	42	15700	267.5
+	"Maine"	"23"	"84 years"	"84"	"Pneumonia, unspecified"	"J18.9"	14	15700	Unreliable
+	"Maine"	"23"	"84 years"	"84"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	50	15700	318.5
+	"Maine"	"23"	"84 years"	"84"	"Chronic renal failure, unspecified"	"N18.9"	12	15700	Unreliable
+	"Maine"	"23"	"84 years"	"84"	"COVID-19"	"U07.1"	10	15700	Unreliable
+	"Maine"	"23"	"84 years"	"84"	"Unspecified fall"	"W19"	26	15700	165.6
+	"Maine"	"23"	"85 years"	"85"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	14	Not Applicable	Not Applicable
+	"Maine"	"23"	"85 years"	"85"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	11	Not Applicable	Not Applicable
+	"Maine"	"23"	"85 years"	"85"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	28	Not Applicable	Not Applicable
+	"Maine"	"23"	"85 years"	"85"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	18	Not Applicable	Not Applicable
+	"Maine"	"23"	"85 years"	"85"	"Malignant neoplasm of ovary"	"C56"	10	Not Applicable	Not Applicable
+	"Maine"	"23"	"85 years"	"85"	"Malignant neoplasm without specification of site"	"C80"	13	Not Applicable	Not Applicable
+	"Maine"	"23"	"85 years"	"85"	"Vascular dementia, unspecified"	"F01.9"	19	Not Applicable	Not Applicable
+	"Maine"	"23"	"85 years"	"85"	"Unspecified dementia"	"F03"	140	Not Applicable	Not Applicable
+	"Maine"	"23"	"85 years"	"85"	"Parkinson disease"	"G20"	17	Not Applicable	Not Applicable
+	"Maine"	"23"	"85 years"	"85"	"Alzheimer disease, unspecified"	"G30.9"	81	Not Applicable	Not Applicable
+	"Maine"	"23"	"85 years"	"85"	"Acute myocardial infarction, unspecified"	"I21.9"	38	Not Applicable	Not Applicable
+	"Maine"	"23"	"85 years"	"85"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	13	Not Applicable	Not Applicable
+	"Maine"	"23"	"85 years"	"85"	"Atherosclerotic heart disease"	"I25.1"	62	Not Applicable	Not Applicable
+	"Maine"	"23"	"85 years"	"85"	"Aortic (valve) stenosis"	"I35.0"	23	Not Applicable	Not Applicable
+	"Maine"	"23"	"85 years"	"85"	"Atrial fibrillation and flutter"	"I48"	13	Not Applicable	Not Applicable
+	"Maine"	"23"	"85 years"	"85"	"Congestive heart failure"	"I50.0"	27	Not Applicable	Not Applicable
+	"Maine"	"23"	"85 years"	"85"	"Heart failure, unspecified"	"I50.9"	11	Not Applicable	Not Applicable
+	"Maine"	"23"	"85 years"	"85"	"Cardiovascular disease, unspecified"	"I51.6"	10	Not Applicable	Not Applicable
+	"Maine"	"23"	"85 years"	"85"	"Stroke, not specified as haemorrhage or infarction"	"I64"	50	Not Applicable	Not Applicable
+	"Maine"	"23"	"85 years"	"85"	"Pneumonia, unspecified"	"J18.9"	23	Not Applicable	Not Applicable
+	"Maine"	"23"	"85 years"	"85"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	17	Not Applicable	Not Applicable
+	"Maine"	"23"	"85 years"	"85"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	51	Not Applicable	Not Applicable
+	"Maine"	"23"	"85 years"	"85"	"Chronic kidney disease, stage 5"	"N18.5"	12	Not Applicable	Not Applicable
+	"Maine"	"23"	"85 years"	"85"	"Chronic renal failure, unspecified"	"N18.9"	11	Not Applicable	Not Applicable
+	"Maine"	"23"	"85 years"	"85"	"Unspecified fall"	"W19"	30	Not Applicable	Not Applicable
+	"Maine"	"23"	"86 years"	"86"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	15	Not Applicable	Not Applicable
+	"Maine"	"23"	"86 years"	"86"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	12	Not Applicable	Not Applicable
+	"Maine"	"23"	"86 years"	"86"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	30	Not Applicable	Not Applicable
+	"Maine"	"23"	"86 years"	"86"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	24	Not Applicable	Not Applicable
+	"Maine"	"23"	"86 years"	"86"	"Malignant neoplasm without specification of site"	"C80"	14	Not Applicable	Not Applicable
+	"Maine"	"23"	"86 years"	"86"	"Hyperlipidaemia, unspecified"	"E78.5"	11	Not Applicable	Not Applicable
+	"Maine"	"23"	"86 years"	"86"	"Vascular dementia, unspecified"	"F01.9"	19	Not Applicable	Not Applicable
+	"Maine"	"23"	"86 years"	"86"	"Unspecified dementia"	"F03"	136	Not Applicable	Not Applicable
+	"Maine"	"23"	"86 years"	"86"	"Parkinson disease"	"G20"	27	Not Applicable	Not Applicable
+	"Maine"	"23"	"86 years"	"86"	"Alzheimer disease, unspecified"	"G30.9"	100	Not Applicable	Not Applicable
+	"Maine"	"23"	"86 years"	"86"	"Acute myocardial infarction, unspecified"	"I21.9"	38	Not Applicable	Not Applicable
+	"Maine"	"23"	"86 years"	"86"	"Atherosclerotic heart disease"	"I25.1"	61	Not Applicable	Not Applicable
+	"Maine"	"23"	"86 years"	"86"	"Aortic (valve) stenosis"	"I35.0"	18	Not Applicable	Not Applicable
+	"Maine"	"23"	"86 years"	"86"	"Atrial fibrillation and flutter"	"I48"	15	Not Applicable	Not Applicable
+	"Maine"	"23"	"86 years"	"86"	"Congestive heart failure"	"I50.0"	16	Not Applicable	Not Applicable
+	"Maine"	"23"	"86 years"	"86"	"Cerebral infarction, unspecified"	"I63.9"	10	Not Applicable	Not Applicable
+	"Maine"	"23"	"86 years"	"86"	"Stroke, not specified as haemorrhage or infarction"	"I64"	57	Not Applicable	Not Applicable
+	"Maine"	"23"	"86 years"	"86"	"Pneumonia, unspecified"	"J18.9"	16	Not Applicable	Not Applicable
+	"Maine"	"23"	"86 years"	"86"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	13	Not Applicable	Not Applicable
+	"Maine"	"23"	"86 years"	"86"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	47	Not Applicable	Not Applicable
+	"Maine"	"23"	"86 years"	"86"	"Other interstitial pulmonary diseases with fibrosis"	"J84.1"	11	Not Applicable	Not Applicable
+	"Maine"	"23"	"86 years"	"86"	"Unspecified fall"	"W19"	27	Not Applicable	Not Applicable
+	"Maine"	"23"	"87 years"	"87"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	20	Not Applicable	Not Applicable
+	"Maine"	"23"	"87 years"	"87"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	14	Not Applicable	Not Applicable
+	"Maine"	"23"	"87 years"	"87"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	41	Not Applicable	Not Applicable
+	"Maine"	"23"	"87 years"	"87"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	20	Not Applicable	Not Applicable
+	"Maine"	"23"	"87 years"	"87"	"Malignant neoplasm without specification of site"	"C80"	12	Not Applicable	Not Applicable
+	"Maine"	"23"	"87 years"	"87"	"Vascular dementia, unspecified"	"F01.9"	21	Not Applicable	Not Applicable
+	"Maine"	"23"	"87 years"	"87"	"Unspecified dementia"	"F03"	161	Not Applicable	Not Applicable
+	"Maine"	"23"	"87 years"	"87"	"Parkinson disease"	"G20"	19	Not Applicable	Not Applicable
+	"Maine"	"23"	"87 years"	"87"	"Alzheimer disease, unspecified"	"G30.9"	104	Not Applicable	Not Applicable
+	"Maine"	"23"	"87 years"	"87"	"Essential (primary) hypertension"	"I10"	10	Not Applicable	Not Applicable
+	"Maine"	"23"	"87 years"	"87"	"Hypertensive heart disease with (congestive) heart failure"	"I11.0"	11	Not Applicable	Not Applicable
+	"Maine"	"23"	"87 years"	"87"	"Acute myocardial infarction, unspecified"	"I21.9"	31	Not Applicable	Not Applicable
+	"Maine"	"23"	"87 years"	"87"	"Atherosclerotic heart disease"	"I25.1"	57	Not Applicable	Not Applicable
+	"Maine"	"23"	"87 years"	"87"	"Aortic (valve) stenosis"	"I35.0"	20	Not Applicable	Not Applicable
+	"Maine"	"23"	"87 years"	"87"	"Atrial fibrillation and flutter"	"I48"	25	Not Applicable	Not Applicable
+	"Maine"	"23"	"87 years"	"87"	"Congestive heart failure"	"I50.0"	30	Not Applicable	Not Applicable
+	"Maine"	"23"	"87 years"	"87"	"Stroke, not specified as haemorrhage or infarction"	"I64"	46	Not Applicable	Not Applicable
+	"Maine"	"23"	"87 years"	"87"	"Pneumonia, unspecified"	"J18.9"	15	Not Applicable	Not Applicable
+	"Maine"	"23"	"87 years"	"87"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	18	Not Applicable	Not Applicable
+	"Maine"	"23"	"87 years"	"87"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	58	Not Applicable	Not Applicable
+	"Maine"	"23"	"87 years"	"87"	"Urinary tract infection, site not specified"	"N39.0"	11	Not Applicable	Not Applicable
+	"Maine"	"23"	"87 years"	"87"	"COVID-19"	"U07.1"	10	Not Applicable	Not Applicable
+	"Maine"	"23"	"87 years"	"87"	"Unspecified fall"	"W19"	37	Not Applicable	Not Applicable
+	"Maine"	"23"	"88 years"	"88"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	20	Not Applicable	Not Applicable
+	"Maine"	"23"	"88 years"	"88"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	15	Not Applicable	Not Applicable
+	"Maine"	"23"	"88 years"	"88"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	29	Not Applicable	Not Applicable
+	"Maine"	"23"	"88 years"	"88"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	16	Not Applicable	Not Applicable
+	"Maine"	"23"	"88 years"	"88"	"Bladder, unspecified - Malignant neoplasms"	"C67.9"	11	Not Applicable	Not Applicable
+	"Maine"	"23"	"88 years"	"88"	"Unspecified diabetes mellitus, without complications"	"E14.9"	13	Not Applicable	Not Applicable
+	"Maine"	"23"	"88 years"	"88"	"Vascular dementia, unspecified"	"F01.9"	23	Not Applicable	Not Applicable
+	"Maine"	"23"	"88 years"	"88"	"Unspecified dementia"	"F03"	192	Not Applicable	Not Applicable
+	"Maine"	"23"	"88 years"	"88"	"Parkinson disease"	"G20"	24	Not Applicable	Not Applicable
+	"Maine"	"23"	"88 years"	"88"	"Alzheimer disease, unspecified"	"G30.9"	113	Not Applicable	Not Applicable
+	"Maine"	"23"	"88 years"	"88"	"Essential (primary) hypertension"	"I10"	11	Not Applicable	Not Applicable
+	"Maine"	"23"	"88 years"	"88"	"Hypertensive heart disease with (congestive) heart failure"	"I11.0"	14	Not Applicable	Not Applicable
+	"Maine"	"23"	"88 years"	"88"	"Acute myocardial infarction, unspecified"	"I21.9"	36	Not Applicable	Not Applicable
+	"Maine"	"23"	"88 years"	"88"	"Atherosclerotic heart disease"	"I25.1"	80	Not Applicable	Not Applicable
+	"Maine"	"23"	"88 years"	"88"	"Aortic (valve) stenosis"	"I35.0"	16	Not Applicable	Not Applicable
+	"Maine"	"23"	"88 years"	"88"	"Atrial fibrillation and flutter"	"I48"	23	Not Applicable	Not Applicable
+	"Maine"	"23"	"88 years"	"88"	"Congestive heart failure"	"I50.0"	48	Not Applicable	Not Applicable
+	"Maine"	"23"	"88 years"	"88"	"Heart failure, unspecified"	"I50.9"	12	Not Applicable	Not Applicable
+	"Maine"	"23"	"88 years"	"88"	"Intracerebral haemorrhage, unspecified"	"I61.9"	10	Not Applicable	Not Applicable
+	"Maine"	"23"	"88 years"	"88"	"Stroke, not specified as haemorrhage or infarction"	"I64"	53	Not Applicable	Not Applicable
+	"Maine"	"23"	"88 years"	"88"	"Pneumonia, unspecified"	"J18.9"	18	Not Applicable	Not Applicable
+	"Maine"	"23"	"88 years"	"88"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	14	Not Applicable	Not Applicable
+	"Maine"	"23"	"88 years"	"88"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	45	Not Applicable	Not Applicable
+	"Maine"	"23"	"88 years"	"88"	"Other interstitial pulmonary diseases with fibrosis"	"J84.1"	11	Not Applicable	Not Applicable
+	"Maine"	"23"	"88 years"	"88"	"COVID-19"	"U07.1"	10	Not Applicable	Not Applicable
+	"Maine"	"23"	"88 years"	"88"	"Unspecified fall"	"W19"	36	Not Applicable	Not Applicable
+	"Maine"	"23"	"89 years"	"89"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	15	Not Applicable	Not Applicable
+	"Maine"	"23"	"89 years"	"89"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	26	Not Applicable	Not Applicable
+	"Maine"	"23"	"89 years"	"89"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	12	Not Applicable	Not Applicable
+	"Maine"	"23"	"89 years"	"89"	"Malignant neoplasm without specification of site"	"C80"	11	Not Applicable	Not Applicable
+	"Maine"	"23"	"89 years"	"89"	"Unspecified diabetes mellitus, without complications"	"E14.9"	10	Not Applicable	Not Applicable
+	"Maine"	"23"	"89 years"	"89"	"Hyperlipidaemia, unspecified"	"E78.5"	17	Not Applicable	Not Applicable
+	"Maine"	"23"	"89 years"	"89"	"Vascular dementia, unspecified"	"F01.9"	31	Not Applicable	Not Applicable
+	"Maine"	"23"	"89 years"	"89"	"Unspecified dementia"	"F03"	186	Not Applicable	Not Applicable
+	"Maine"	"23"	"89 years"	"89"	"Parkinson disease"	"G20"	21	Not Applicable	Not Applicable
+	"Maine"	"23"	"89 years"	"89"	"Alzheimer disease, unspecified"	"G30.9"	132	Not Applicable	Not Applicable
+	"Maine"	"23"	"89 years"	"89"	"Hypertensive heart disease with (congestive) heart failure"	"I11.0"	10	Not Applicable	Not Applicable
+	"Maine"	"23"	"89 years"	"89"	"Acute myocardial infarction, unspecified"	"I21.9"	32	Not Applicable	Not Applicable
+	"Maine"	"23"	"89 years"	"89"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	10	Not Applicable	Not Applicable
+	"Maine"	"23"	"89 years"	"89"	"Atherosclerotic heart disease"	"I25.1"	68	Not Applicable	Not Applicable
+	"Maine"	"23"	"89 years"	"89"	"Aortic (valve) stenosis"	"I35.0"	23	Not Applicable	Not Applicable
+	"Maine"	"23"	"89 years"	"89"	"Atrial fibrillation and flutter"	"I48"	20	Not Applicable	Not Applicable
+	"Maine"	"23"	"89 years"	"89"	"Congestive heart failure"	"I50.0"	27	Not Applicable	Not Applicable
+	"Maine"	"23"	"89 years"	"89"	"Cerebral infarction, unspecified"	"I63.9"	14	Not Applicable	Not Applicable
+	"Maine"	"23"	"89 years"	"89"	"Stroke, not specified as haemorrhage or infarction"	"I64"	61	Not Applicable	Not Applicable
+	"Maine"	"23"	"89 years"	"89"	"Pneumonia, unspecified"	"J18.9"	14	Not Applicable	Not Applicable
+	"Maine"	"23"	"89 years"	"89"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	15	Not Applicable	Not Applicable
+	"Maine"	"23"	"89 years"	"89"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	53	Not Applicable	Not Applicable
+	"Maine"	"23"	"89 years"	"89"	"Other and unspecified intestinal obstruction"	"K56.6"	11	Not Applicable	Not Applicable
+	"Maine"	"23"	"89 years"	"89"	"COVID-19"	"U07.1"	14	Not Applicable	Not Applicable
+	"Maine"	"23"	"89 years"	"89"	"Unspecified fall"	"W19"	37	Not Applicable	Not Applicable
+	"Maine"	"23"	"90 years"	"90"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	25	Not Applicable	Not Applicable
+	"Maine"	"23"	"90 years"	"90"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	13	Not Applicable	Not Applicable
+	"Maine"	"23"	"90 years"	"90"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	14	Not Applicable	Not Applicable
+	"Maine"	"23"	"90 years"	"90"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	21	Not Applicable	Not Applicable
+	"Maine"	"23"	"90 years"	"90"	"Vascular dementia, unspecified"	"F01.9"	25	Not Applicable	Not Applicable
+	"Maine"	"23"	"90 years"	"90"	"Unspecified dementia"	"F03"	194	Not Applicable	Not Applicable
+	"Maine"	"23"	"90 years"	"90"	"Parkinson disease"	"G20"	17	Not Applicable	Not Applicable
+	"Maine"	"23"	"90 years"	"90"	"Alzheimer disease, unspecified"	"G30.9"	105	Not Applicable	Not Applicable
+	"Maine"	"23"	"90 years"	"90"	"Hypertensive heart disease with (congestive) heart failure"	"I11.0"	15	Not Applicable	Not Applicable
+	"Maine"	"23"	"90 years"	"90"	"Acute myocardial infarction, unspecified"	"I21.9"	36	Not Applicable	Not Applicable
+	"Maine"	"23"	"90 years"	"90"	"Atherosclerotic heart disease"	"I25.1"	82	Not Applicable	Not Applicable
+	"Maine"	"23"	"90 years"	"90"	"Aortic (valve) stenosis"	"I35.0"	41	Not Applicable	Not Applicable
+	"Maine"	"23"	"90 years"	"90"	"Atrial fibrillation and flutter"	"I48"	13	Not Applicable	Not Applicable
+	"Maine"	"23"	"90 years"	"90"	"Congestive heart failure"	"I50.0"	22	Not Applicable	Not Applicable
+	"Maine"	"23"	"90 years"	"90"	"Heart failure, unspecified"	"I50.9"	20	Not Applicable	Not Applicable
+	"Maine"	"23"	"90 years"	"90"	"Stroke, not specified as haemorrhage or infarction"	"I64"	76	Not Applicable	Not Applicable
+	"Maine"	"23"	"90 years"	"90"	"Pneumonia, unspecified"	"J18.9"	20	Not Applicable	Not Applicable
+	"Maine"	"23"	"90 years"	"90"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	12	Not Applicable	Not Applicable
+	"Maine"	"23"	"90 years"	"90"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	33	Not Applicable	Not Applicable
+	"Maine"	"23"	"90 years"	"90"	"Chronic renal failure, unspecified"	"N18.9"	16	Not Applicable	Not Applicable
+	"Maine"	"23"	"90 years"	"90"	"Urinary tract infection, site not specified"	"N39.0"	12	Not Applicable	Not Applicable
+	"Maine"	"23"	"90 years"	"90"	"Unspecified fall"	"W19"	32	Not Applicable	Not Applicable
+	"Maine"	"23"	"91 years"	"91"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	11	Not Applicable	Not Applicable
+	"Maine"	"23"	"91 years"	"91"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	21	Not Applicable	Not Applicable
+	"Maine"	"23"	"91 years"	"91"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	13	Not Applicable	Not Applicable
+	"Maine"	"23"	"91 years"	"91"	"Vascular dementia, unspecified"	"F01.9"	25	Not Applicable	Not Applicable
+	"Maine"	"23"	"91 years"	"91"	"Unspecified dementia"	"F03"	201	Not Applicable	Not Applicable
+	"Maine"	"23"	"91 years"	"91"	"Parkinson disease"	"G20"	14	Not Applicable	Not Applicable
+	"Maine"	"23"	"91 years"	"91"	"Alzheimer disease, unspecified"	"G30.9"	120	Not Applicable	Not Applicable
+	"Maine"	"23"	"91 years"	"91"	"Essential (primary) hypertension"	"I10"	12	Not Applicable	Not Applicable
+	"Maine"	"23"	"91 years"	"91"	"Hypertensive heart disease with (congestive) heart failure"	"I11.0"	21	Not Applicable	Not Applicable
+	"Maine"	"23"	"91 years"	"91"	"Acute myocardial infarction, unspecified"	"I21.9"	29	Not Applicable	Not Applicable
+	"Maine"	"23"	"91 years"	"91"	"Atherosclerotic heart disease"	"I25.1"	72	Not Applicable	Not Applicable
+	"Maine"	"23"	"91 years"	"91"	"Aortic (valve) stenosis"	"I35.0"	24	Not Applicable	Not Applicable
+	"Maine"	"23"	"91 years"	"91"	"Atrial fibrillation and flutter"	"I48"	15	Not Applicable	Not Applicable
+	"Maine"	"23"	"91 years"	"91"	"Congestive heart failure"	"I50.0"	38	Not Applicable	Not Applicable
+	"Maine"	"23"	"91 years"	"91"	"Heart failure, unspecified"	"I50.9"	13	Not Applicable	Not Applicable
+	"Maine"	"23"	"91 years"	"91"	"Cerebral infarction, unspecified"	"I63.9"	14	Not Applicable	Not Applicable
+	"Maine"	"23"	"91 years"	"91"	"Stroke, not specified as haemorrhage or infarction"	"I64"	52	Not Applicable	Not Applicable
+	"Maine"	"23"	"91 years"	"91"	"Pneumonia, unspecified"	"J18.9"	20	Not Applicable	Not Applicable
+	"Maine"	"23"	"91 years"	"91"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	49	Not Applicable	Not Applicable
+	"Maine"	"23"	"91 years"	"91"	"COVID-19"	"U07.1"	12	Not Applicable	Not Applicable
+	"Maine"	"23"	"91 years"	"91"	"Unspecified fall"	"W19"	47	Not Applicable	Not Applicable
+	"Maine"	"23"	"92 years"	"92"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	10	Not Applicable	Not Applicable
+	"Maine"	"23"	"92 years"	"92"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	18	Not Applicable	Not Applicable
+	"Maine"	"23"	"92 years"	"92"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	16	Not Applicable	Not Applicable
+	"Maine"	"23"	"92 years"	"92"	"Vascular dementia, unspecified"	"F01.9"	39	Not Applicable	Not Applicable
+	"Maine"	"23"	"92 years"	"92"	"Unspecified dementia"	"F03"	175	Not Applicable	Not Applicable
+	"Maine"	"23"	"92 years"	"92"	"Parkinson disease"	"G20"	11	Not Applicable	Not Applicable
+	"Maine"	"23"	"92 years"	"92"	"Alzheimer disease, unspecified"	"G30.9"	115	Not Applicable	Not Applicable
+	"Maine"	"23"	"92 years"	"92"	"Essential (primary) hypertension"	"I10"	15	Not Applicable	Not Applicable
+	"Maine"	"23"	"92 years"	"92"	"Hypertensive heart disease with (congestive) heart failure"	"I11.0"	19	Not Applicable	Not Applicable
+	"Maine"	"23"	"92 years"	"92"	"Acute myocardial infarction, unspecified"	"I21.9"	22	Not Applicable	Not Applicable
+	"Maine"	"23"	"92 years"	"92"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	11	Not Applicable	Not Applicable
+	"Maine"	"23"	"92 years"	"92"	"Atherosclerotic heart disease"	"I25.1"	65	Not Applicable	Not Applicable
+	"Maine"	"23"	"92 years"	"92"	"Aortic (valve) stenosis"	"I35.0"	27	Not Applicable	Not Applicable
+	"Maine"	"23"	"92 years"	"92"	"Atrial fibrillation and flutter"	"I48"	18	Not Applicable	Not Applicable
+	"Maine"	"23"	"92 years"	"92"	"Congestive heart failure"	"I50.0"	36	Not Applicable	Not Applicable
+	"Maine"	"23"	"92 years"	"92"	"Stroke, not specified as haemorrhage or infarction"	"I64"	51	Not Applicable	Not Applicable
+	"Maine"	"23"	"92 years"	"92"	"Pneumonia, unspecified"	"J18.9"	24	Not Applicable	Not Applicable
+	"Maine"	"23"	"92 years"	"92"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	16	Not Applicable	Not Applicable
+	"Maine"	"23"	"92 years"	"92"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	42	Not Applicable	Not Applicable
+	"Maine"	"23"	"92 years"	"92"	"Unspecified fall"	"W19"	35	Not Applicable	Not Applicable
+	"Maine"	"23"	"93 years"	"93"	"Vascular dementia, unspecified"	"F01.9"	33	Not Applicable	Not Applicable
+	"Maine"	"23"	"93 years"	"93"	"Unspecified dementia"	"F03"	188	Not Applicable	Not Applicable
+	"Maine"	"23"	"93 years"	"93"	"Parkinson disease"	"G20"	12	Not Applicable	Not Applicable
+	"Maine"	"23"	"93 years"	"93"	"Alzheimer disease, unspecified"	"G30.9"	95	Not Applicable	Not Applicable
+	"Maine"	"23"	"93 years"	"93"	"Hypertensive heart disease with (congestive) heart failure"	"I11.0"	22	Not Applicable	Not Applicable
+	"Maine"	"23"	"93 years"	"93"	"Acute myocardial infarction, unspecified"	"I21.9"	24	Not Applicable	Not Applicable
+	"Maine"	"23"	"93 years"	"93"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	12	Not Applicable	Not Applicable
+	"Maine"	"23"	"93 years"	"93"	"Atherosclerotic heart disease"	"I25.1"	67	Not Applicable	Not Applicable
+	"Maine"	"23"	"93 years"	"93"	"Aortic (valve) stenosis"	"I35.0"	21	Not Applicable	Not Applicable
+	"Maine"	"23"	"93 years"	"93"	"Atrial fibrillation and flutter"	"I48"	25	Not Applicable	Not Applicable
+	"Maine"	"23"	"93 years"	"93"	"Congestive heart failure"	"I50.0"	35	Not Applicable	Not Applicable
+	"Maine"	"23"	"93 years"	"93"	"Cerebral infarction, unspecified"	"I63.9"	10	Not Applicable	Not Applicable
+	"Maine"	"23"	"93 years"	"93"	"Stroke, not specified as haemorrhage or infarction"	"I64"	54	Not Applicable	Not Applicable
+	"Maine"	"23"	"93 years"	"93"	"Pneumonia, unspecified"	"J18.9"	18	Not Applicable	Not Applicable
+	"Maine"	"23"	"93 years"	"93"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	11	Not Applicable	Not Applicable
+	"Maine"	"23"	"93 years"	"93"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	28	Not Applicable	Not Applicable
+	"Maine"	"23"	"93 years"	"93"	"Unspecified fall"	"W19"	50	Not Applicable	Not Applicable
+	"Maine"	"23"	"94 years"	"94"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	12	Not Applicable	Not Applicable
+	"Maine"	"23"	"94 years"	"94"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	18	Not Applicable	Not Applicable
+	"Maine"	"23"	"94 years"	"94"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	12	Not Applicable	Not Applicable
+	"Maine"	"23"	"94 years"	"94"	"Vascular dementia, unspecified"	"F01.9"	20	Not Applicable	Not Applicable
+	"Maine"	"23"	"94 years"	"94"	"Unspecified dementia"	"F03"	177	Not Applicable	Not Applicable
+	"Maine"	"23"	"94 years"	"94"	"Parkinson disease"	"G20"	10	Not Applicable	Not Applicable
+	"Maine"	"23"	"94 years"	"94"	"Alzheimer disease, unspecified"	"G30.9"	101	Not Applicable	Not Applicable
+	"Maine"	"23"	"94 years"	"94"	"Hypertensive heart disease with (congestive) heart failure"	"I11.0"	17	Not Applicable	Not Applicable
+	"Maine"	"23"	"94 years"	"94"	"Acute myocardial infarction, unspecified"	"I21.9"	16	Not Applicable	Not Applicable
+	"Maine"	"23"	"94 years"	"94"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	11	Not Applicable	Not Applicable
+	"Maine"	"23"	"94 years"	"94"	"Atherosclerotic heart disease"	"I25.1"	67	Not Applicable	Not Applicable
+	"Maine"	"23"	"94 years"	"94"	"Aortic (valve) stenosis"	"I35.0"	18	Not Applicable	Not Applicable
+	"Maine"	"23"	"94 years"	"94"	"Atrial fibrillation and flutter"	"I48"	15	Not Applicable	Not Applicable
+	"Maine"	"23"	"94 years"	"94"	"Congestive heart failure"	"I50.0"	32	Not Applicable	Not Applicable
+	"Maine"	"23"	"94 years"	"94"	"Cardiovascular disease, unspecified"	"I51.6"	11	Not Applicable	Not Applicable
+	"Maine"	"23"	"94 years"	"94"	"Stroke, not specified as haemorrhage or infarction"	"I64"	43	Not Applicable	Not Applicable
+	"Maine"	"23"	"94 years"	"94"	"Pneumonia, unspecified"	"J18.9"	14	Not Applicable	Not Applicable
+	"Maine"	"23"	"94 years"	"94"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	24	Not Applicable	Not Applicable
+	"Maine"	"23"	"94 years"	"94"	"COVID-19"	"U07.1"	12	Not Applicable	Not Applicable
+	"Maine"	"23"	"94 years"	"94"	"Unspecified fall"	"W19"	27	Not Applicable	Not Applicable
+	"Maine"	"23"	"95 years"	"95"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	12	Not Applicable	Not Applicable
+	"Maine"	"23"	"95 years"	"95"	"Vascular dementia, unspecified"	"F01.9"	17	Not Applicable	Not Applicable
+	"Maine"	"23"	"95 years"	"95"	"Unspecified dementia"	"F03"	129	Not Applicable	Not Applicable
+	"Maine"	"23"	"95 years"	"95"	"Alzheimer disease, unspecified"	"G30.9"	71	Not Applicable	Not Applicable
+	"Maine"	"23"	"95 years"	"95"	"Hypertensive heart disease with (congestive) heart failure"	"I11.0"	17	Not Applicable	Not Applicable
+	"Maine"	"23"	"95 years"	"95"	"Acute myocardial infarction, unspecified"	"I21.9"	16	Not Applicable	Not Applicable
+	"Maine"	"23"	"95 years"	"95"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	13	Not Applicable	Not Applicable
+	"Maine"	"23"	"95 years"	"95"	"Atherosclerotic heart disease"	"I25.1"	56	Not Applicable	Not Applicable
+	"Maine"	"23"	"95 years"	"95"	"Aortic (valve) stenosis"	"I35.0"	18	Not Applicable	Not Applicable
+	"Maine"	"23"	"95 years"	"95"	"Atrial fibrillation and flutter"	"I48"	11	Not Applicable	Not Applicable
+	"Maine"	"23"	"95 years"	"95"	"Congestive heart failure"	"I50.0"	23	Not Applicable	Not Applicable
+	"Maine"	"23"	"95 years"	"95"	"Stroke, not specified as haemorrhage or infarction"	"I64"	38	Not Applicable	Not Applicable
+	"Maine"	"23"	"95 years"	"95"	"Pneumonia, unspecified"	"J18.9"	16	Not Applicable	Not Applicable
+	"Maine"	"23"	"95 years"	"95"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	21	Not Applicable	Not Applicable
+	"Maine"	"23"	"95 years"	"95"	"Unspecified fall"	"W19"	34	Not Applicable	Not Applicable
+	"Maine"	"23"	"96 years"	"96"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	12	Not Applicable	Not Applicable
+	"Maine"	"23"	"96 years"	"96"	"Vascular dementia, unspecified"	"F01.9"	23	Not Applicable	Not Applicable
+	"Maine"	"23"	"96 years"	"96"	"Unspecified dementia"	"F03"	123	Not Applicable	Not Applicable
+	"Maine"	"23"	"96 years"	"96"	"Alzheimer disease, unspecified"	"G30.9"	73	Not Applicable	Not Applicable
+	"Maine"	"23"	"96 years"	"96"	"Hypertensive heart disease with (congestive) heart failure"	"I11.0"	14	Not Applicable	Not Applicable
+	"Maine"	"23"	"96 years"	"96"	"Acute myocardial infarction, unspecified"	"I21.9"	26	Not Applicable	Not Applicable
+	"Maine"	"23"	"96 years"	"96"	"Atherosclerotic heart disease"	"I25.1"	56	Not Applicable	Not Applicable
+	"Maine"	"23"	"96 years"	"96"	"Aortic (valve) stenosis"	"I35.0"	14	Not Applicable	Not Applicable
+	"Maine"	"23"	"96 years"	"96"	"Atrial fibrillation and flutter"	"I48"	11	Not Applicable	Not Applicable
+	"Maine"	"23"	"96 years"	"96"	"Congestive heart failure"	"I50.0"	25	Not Applicable	Not Applicable
+	"Maine"	"23"	"96 years"	"96"	"Stroke, not specified as haemorrhage or infarction"	"I64"	26	Not Applicable	Not Applicable
+	"Maine"	"23"	"96 years"	"96"	"Pneumonia, unspecified"	"J18.9"	14	Not Applicable	Not Applicable
+	"Maine"	"23"	"96 years"	"96"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	16	Not Applicable	Not Applicable
+	"Maine"	"23"	"96 years"	"96"	"Unspecified fall"	"W19"	29	Not Applicable	Not Applicable
+	"Maine"	"23"	"97 years"	"97"	"Vascular dementia, unspecified"	"F01.9"	22	Not Applicable	Not Applicable
+	"Maine"	"23"	"97 years"	"97"	"Unspecified dementia"	"F03"	101	Not Applicable	Not Applicable
+	"Maine"	"23"	"97 years"	"97"	"Alzheimer disease, unspecified"	"G30.9"	48	Not Applicable	Not Applicable
+	"Maine"	"23"	"97 years"	"97"	"Hypertensive heart disease with (congestive) heart failure"	"I11.0"	10	Not Applicable	Not Applicable
+	"Maine"	"23"	"97 years"	"97"	"Acute myocardial infarction, unspecified"	"I21.9"	13	Not Applicable	Not Applicable
+	"Maine"	"23"	"97 years"	"97"	"Atherosclerotic heart disease"	"I25.1"	26	Not Applicable	Not Applicable
+	"Maine"	"23"	"97 years"	"97"	"Aortic (valve) stenosis"	"I35.0"	14	Not Applicable	Not Applicable
+	"Maine"	"23"	"97 years"	"97"	"Congestive heart failure"	"I50.0"	25	Not Applicable	Not Applicable
+	"Maine"	"23"	"97 years"	"97"	"Stroke, not specified as haemorrhage or infarction"	"I64"	22	Not Applicable	Not Applicable
+	"Maine"	"23"	"97 years"	"97"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	14	Not Applicable	Not Applicable
+	"Maine"	"23"	"97 years"	"97"	"Unspecified fall"	"W19"	20	Not Applicable	Not Applicable
+	"Maine"	"23"	"98 years"	"98"	"Unspecified dementia"	"F03"	60	Not Applicable	Not Applicable
+	"Maine"	"23"	"98 years"	"98"	"Alzheimer disease, unspecified"	"G30.9"	43	Not Applicable	Not Applicable
+	"Maine"	"23"	"98 years"	"98"	"Acute myocardial infarction, unspecified"	"I21.9"	13	Not Applicable	Not Applicable
+	"Maine"	"23"	"98 years"	"98"	"Atherosclerotic heart disease"	"I25.1"	34	Not Applicable	Not Applicable
+	"Maine"	"23"	"98 years"	"98"	"Aortic (valve) stenosis"	"I35.0"	18	Not Applicable	Not Applicable
+	"Maine"	"23"	"98 years"	"98"	"Atrial fibrillation and flutter"	"I48"	12	Not Applicable	Not Applicable
+	"Maine"	"23"	"98 years"	"98"	"Congestive heart failure"	"I50.0"	18	Not Applicable	Not Applicable
+	"Maine"	"23"	"98 years"	"98"	"Stroke, not specified as haemorrhage or infarction"	"I64"	17	Not Applicable	Not Applicable
+	"Maine"	"23"	"98 years"	"98"	"Pneumonia, unspecified"	"J18.9"	15	Not Applicable	Not Applicable
+	"Maine"	"23"	"98 years"	"98"	"Unspecified fall"	"W19"	25	Not Applicable	Not Applicable
+	"Maine"	"23"	"99 years"	"99"	"Unspecified dementia"	"F03"	65	Not Applicable	Not Applicable
+	"Maine"	"23"	"99 years"	"99"	"Alzheimer disease, unspecified"	"G30.9"	24	Not Applicable	Not Applicable
+	"Maine"	"23"	"99 years"	"99"	"Atherosclerotic heart disease"	"I25.1"	18	Not Applicable	Not Applicable
+	"Maine"	"23"	"99 years"	"99"	"Aortic (valve) stenosis"	"I35.0"	16	Not Applicable	Not Applicable
+	"Maine"	"23"	"99 years"	"99"	"Congestive heart failure"	"I50.0"	16	Not Applicable	Not Applicable
+	"Maine"	"23"	"99 years"	"99"	"Stroke, not specified as haemorrhage or infarction"	"I64"	12	Not Applicable	Not Applicable
+	"Maine"	"23"	"99 years"	"99"	"Unspecified fall"	"W19"	17	Not Applicable	Not Applicable
+	"Maine"	"23"	"100+ years"	"100"	"Vascular dementia, unspecified"	"F01.9"	14	Not Applicable	Not Applicable
+	"Maine"	"23"	"100+ years"	"100"	"Unspecified dementia"	"F03"	96	Not Applicable	Not Applicable
+	"Maine"	"23"	"100+ years"	"100"	"Alzheimer disease, unspecified"	"G30.9"	51	Not Applicable	Not Applicable
+	"Maine"	"23"	"100+ years"	"100"	"Essential (primary) hypertension"	"I10"	13	Not Applicable	Not Applicable
+	"Maine"	"23"	"100+ years"	"100"	"Hypertensive heart disease with (congestive) heart failure"	"I11.0"	17	Not Applicable	Not Applicable
+	"Maine"	"23"	"100+ years"	"100"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	11	Not Applicable	Not Applicable
+	"Maine"	"23"	"100+ years"	"100"	"Acute myocardial infarction, unspecified"	"I21.9"	20	Not Applicable	Not Applicable
+	"Maine"	"23"	"100+ years"	"100"	"Atherosclerotic heart disease"	"I25.1"	52	Not Applicable	Not Applicable
+	"Maine"	"23"	"100+ years"	"100"	"Atrial fibrillation and flutter"	"I48"	13	Not Applicable	Not Applicable
+	"Maine"	"23"	"100+ years"	"100"	"Congestive heart failure"	"I50.0"	26	Not Applicable	Not Applicable
+	"Maine"	"23"	"100+ years"	"100"	"Heart failure, unspecified"	"I50.9"	10	Not Applicable	Not Applicable
+	"Maine"	"23"	"100+ years"	"100"	"Stroke, not specified as haemorrhage or infarction"	"I64"	44	Not Applicable	Not Applicable
+	"Maine"	"23"	"100+ years"	"100"	"Pneumonia, unspecified"	"J18.9"	12	Not Applicable	Not Applicable
+	"Maine"	"23"	"100+ years"	"100"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	10	Not Applicable	Not Applicable
+	"Maine"	"23"	"100+ years"	"100"	"Chronic renal failure, unspecified"	"N18.9"	10	Not Applicable	Not Applicable
+	"Maine"	"23"	"100+ years"	"100"	"Unspecified fall"	"W19"	23	Not Applicable	Not Applicable
+"---"
+"Dataset: Underlying Cause of Death, 1999-2020"
+"Query Parameters:"
+"Title: Maine CoD F"
+"Gender: Female"
+"States: Maine (23)"
+"Year/Month: 2016; 2017; 2018; 2019; 2020"
+"Group By: State; Single-Year Ages; Cause of death"
+"Show Totals: Disabled"
+"Show Zero Values: Disabled"
+"Show Suppressed: False"
+"Calculate Rates Per: 100,000"
+"Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/ucd.html for more information."
+"---"
+"Query Date: Apr 8, 2022 2:36:32 AM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. Underlying Cause of Death"
+"1999-2020 on CDC WONDER Online Database, released in 2021. Data are from the Multiple Cause of Death Files, 1999-2020, as"
+"compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative Program. Accessed"
+"at http://wonder.cdc.gov/ucd-icd10.html on Apr 8, 2022 2:36:32 AM"
+"---"
+Messages:
+"1. The full results are too long to be displayed. Due to suppression constraints rows that are zero, suppressed or a total will"
+"not be available."
+"---"
+Caveats:
+"1. Population and rates are labeled 'Not Applicable' when they include a subset of ages 85-100+ because populations are not"
+"available for those ages. More information: http://wonder.cdc.gov/wonder/help/ucd.html#Ages 85-100."
+"2. Death rates are flagged as Unreliable when the rate is calculated with a numerator of 20 or less. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Unreliable."
+"3. Deaths of persons with Age ""Not Stated"" are included in ""All"" counts and rates, but are not distributed among age groups,"
+"so are not included in age-specific counts, age-specific rates or in any age-adjusted rates. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Not Stated."
+"4. The population figures for year 2020 are bridged-race estimates of the July 1 resident population, from the Vintage 2020"
+"postcensal series released by NCHS on September 22, 2021. The population figures for year 2019 are bridged-race estimates of the"
+"July 1 resident population, from the Vintage 2019 postcensal series released by NCHS on July 9, 2020. The population figures for"
+"year 2018 are bridged-race estimates of the July 1 resident population, from the Vintage 2018 postcensal series released by NCHS"
+"on June 25, 2019. The population figures for year 2017 are bridged-race estimates of the July 1 resident population, from the"
+"Vintage 2017 postcensal series released by NCHS on June 27, 2018. The population figures for year 2016 are bridged-race"
+"estimates of the July 1 resident population, from the Vintage 2016 postcensal series released by NCHS on June 26, 2017. The"
+"population figures for year 2015 are bridged-race estimates of the July 1 resident population, from the Vintage 2015 postcensal"
+"series released by NCHS on June 28, 2016. The population figures for year 2014 are bridged-race estimates of the July 1 resident"
+"population, from the Vintage 2014 postcensal series released by NCHS on June 30, 2015. The population figures for year 2013 are"
+"bridged-race estimates of the July 1 resident population, from the Vintage 2013 postcensal series released by NCHS on June 26,"
+"2014. The population figures for year 2012 are bridged-race estimates of the July 1 resident population, from the Vintage 2012"
+"postcensal series released by NCHS on June 13, 2013. The population figures for year 2011 are bridged-race estimates of the July"
+"1 resident population, from the Vintage 2011 postcensal series released by NCHS on July 18, 2012. Population figures for 2010"
+"are April 1 Census counts. The population figures for years 2001 - 2009 are bridged-race estimates of the July 1 resident"
+"population, from the revised intercensal county-level 2000 - 2009 series released by NCHS on October 26, 2012. Population"
+"figures for 2000 are April 1 Census counts. Population figures for 1999 are from the 1990-1999 intercensal series of July 1"
+"estimates. Population figures for the infant age groups are the number of live births. <br/><b>Note:</b> Rates and population"
+"figures for years 2001 - 2009 differ slightly from previously published reports, due to use of the population estimates which"
+"were available at the time of release."
+"5. The population figures used in the calculation of death rates for the age group 'under 1 year' are the estimates of the"
+"resident population that is under one year of age. More information: http://wonder.cdc.gov/wonder/help/ucd.html#Age Group."
+"6. Beginning with the 2018 data, changes have been implemented that affect the counts for ICD-10 cause of death codes O00-O99"
+"compared to previous practice. In addition, data for the cause of death codes O00-O99 for 2003 through 2017 reflect differences"
+"in information available to individual states and probable errors. Caution should be used in interpreting these data. More"
+"information can be found at: https://www.cdc.gov/nchs/maternal-mortality/."
+"7. On March 11, 2021, the 2019 mortality data on CDC WONDER was updated with the 2019 mortality data updated by NCHS on March 4,"
+"2021 to include corrected information for residents of Texas affecting 5 records previously coded to cause code *U01.4,"
+"Terrorism involving firearms (homicide). The underlying and multiple cause of death codes for 5 records were corrected in the"
+"2019 data. Underlying and multiple cause of death codes for those 5 records were recoded to Assault (homicide) by other and"
+"unspecified firearm discharge, ICD-10 code X95. The corrected final death records replaces the data released on December 22,"
+"2020."
+"8. Changes to cause of death classification affect reporting trends. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#ICD-10 Changes."

@@ -1,0 +1,161 @@
+"Notes"	"State"	"State Code"	"Single-Year Ages"	"Single-Year Ages Code"	Deaths	Population	Crude Rate
+	"Oregon"	"41"	"< 1 year"	"0"	432	109323	395.2
+	"Oregon"	"41"	"1 year"	"1"	26	110818	23.5
+	"Oregon"	"41"	"2 years"	"2"	21	112481	18.7
+	"Oregon"	"41"	"3 years"	"3"	17	114517	Unreliable
+	"Oregon"	"41"	"4 years"	"4"	11	115817	Unreliable
+	"Oregon"	"41"	"5 years"	"5"	12	116158	Unreliable
+	"Oregon"	"41"	"7 years"	"7"	11	118145	Unreliable
+	"Oregon"	"41"	"8 years"	"8"	10	119511	Unreliable
+	"Oregon"	"41"	"10 years"	"10"	11	121187	Unreliable
+	"Oregon"	"41"	"11 years"	"11"	11	121258	Unreliable
+	"Oregon"	"41"	"12 years"	"12"	14	121152	Unreliable
+	"Oregon"	"41"	"13 years"	"13"	12	120473	Unreliable
+	"Oregon"	"41"	"14 years"	"14"	25	119357	20.9
+	"Oregon"	"41"	"15 years"	"15"	21	119297	17.6
+	"Oregon"	"41"	"16 years"	"16"	28	120344	23.3
+	"Oregon"	"41"	"17 years"	"17"	31	120908	25.6
+	"Oregon"	"41"	"18 years"	"18"	49	119972	40.8
+	"Oregon"	"41"	"19 years"	"19"	52	119779	43.4
+	"Oregon"	"41"	"20 years"	"20"	50	122400	40.8
+	"Oregon"	"41"	"21 years"	"21"	53	126684	41.8
+	"Oregon"	"41"	"22 years"	"22"	65	130943	49.6
+	"Oregon"	"41"	"23 years"	"23"	59	133461	44.2
+	"Oregon"	"41"	"24 years"	"24"	57	136762	41.7
+	"Oregon"	"41"	"25 years"	"25"	75	141330	53.1
+	"Oregon"	"41"	"26 years"	"26"	79	145775	54.2
+	"Oregon"	"41"	"27 years"	"27"	73	148587	49.1
+	"Oregon"	"41"	"28 years"	"28"	82	149142	55.0
+	"Oregon"	"41"	"29 years"	"29"	72	148593	48.5
+	"Oregon"	"41"	"30 years"	"30"	88	146395	60.1
+	"Oregon"	"41"	"31 years"	"31"	100	145088	68.9
+	"Oregon"	"41"	"32 years"	"32"	96	144889	66.3
+	"Oregon"	"41"	"33 years"	"33"	116	145180	79.9
+	"Oregon"	"41"	"34 years"	"34"	101	145985	69.2
+	"Oregon"	"41"	"35 years"	"35"	125	146650	85.2
+	"Oregon"	"41"	"36 years"	"36"	145	146675	98.9
+	"Oregon"	"41"	"37 years"	"37"	138	145563	94.8
+	"Oregon"	"41"	"38 years"	"38"	138	143577	96.1
+	"Oregon"	"41"	"39 years"	"39"	167	140695	118.7
+	"Oregon"	"41"	"40 years"	"40"	179	137369	130.3
+	"Oregon"	"41"	"41 years"	"41"	178	133497	133.3
+	"Oregon"	"41"	"42 years"	"42"	185	130456	141.8
+	"Oregon"	"41"	"43 years"	"43"	184	128261	143.5
+	"Oregon"	"41"	"44 years"	"44"	187	126871	147.4
+	"Oregon"	"41"	"45 years"	"45"	229	127713	179.3
+	"Oregon"	"41"	"46 years"	"46"	260	129412	200.9
+	"Oregon"	"41"	"47 years"	"47"	262	130811	200.3
+	"Oregon"	"41"	"48 years"	"48"	334	130261	256.4
+	"Oregon"	"41"	"49 years"	"49"	307	128708	238.5
+	"Oregon"	"41"	"50 years"	"50"	342	126221	271.0
+	"Oregon"	"41"	"51 years"	"51"	407	124001	328.2
+	"Oregon"	"41"	"52 years"	"52"	438	124271	352.5
+	"Oregon"	"41"	"53 years"	"53"	476	126846	375.3
+	"Oregon"	"41"	"54 years"	"54"	544	129584	419.8
+	"Oregon"	"41"	"55 years"	"55"	615	133646	460.2
+	"Oregon"	"41"	"56 years"	"56"	663	136688	485.0
+	"Oregon"	"41"	"57 years"	"57"	749	139302	537.7
+	"Oregon"	"41"	"58 years"	"58"	757	140669	538.1
+	"Oregon"	"41"	"59 years"	"59"	852	141856	600.6
+	"Oregon"	"41"	"60 years"	"60"	973	142347	683.5
+	"Oregon"	"41"	"61 years"	"61"	945	142537	663.0
+	"Oregon"	"41"	"62 years"	"62"	1025	143441	714.6
+	"Oregon"	"41"	"63 years"	"63"	1253	143952	870.4
+	"Oregon"	"41"	"64 years"	"64"	1211	142271	851.2
+	"Oregon"	"41"	"65 years"	"65"	1309	140098	934.3
+	"Oregon"	"41"	"66 years"	"66"	1307	137237	952.4
+	"Oregon"	"41"	"67 years"	"67"	1387	132922	1043.5
+	"Oregon"	"41"	"68 years"	"68"	1479	128456	1151.4
+	"Oregon"	"41"	"69 years"	"69"	1606	126117	1273.4
+	"Oregon"	"41"	"70 years"	"70"	1579	117843	1339.9
+	"Oregon"	"41"	"71 years"	"71"	1584	109949	1440.7
+	"Oregon"	"41"	"72 years"	"72"	1736	102419	1695.0
+	"Oregon"	"41"	"73 years"	"73"	1885	95440	1975.1
+	"Oregon"	"41"	"74 years"	"74"	1814	85014	2133.8
+	"Oregon"	"41"	"75 years"	"75"	1880	80002	2349.9
+	"Oregon"	"41"	"76 years"	"76"	1926	74100	2599.2
+	"Oregon"	"41"	"77 years"	"77"	1977	67977	2908.3
+	"Oregon"	"41"	"78 years"	"78"	2017	61606	3274.0
+	"Oregon"	"41"	"79 years"	"79"	2154	56583	3806.8
+	"Oregon"	"41"	"80 years"	"80"	2154	51759	4161.6
+	"Oregon"	"41"	"81 years"	"81"	2185	47456	4604.3
+	"Oregon"	"41"	"82 years"	"82"	2303	43714	5268.3
+	"Oregon"	"41"	"83 years"	"83"	2376	40033	5935.1
+	"Oregon"	"41"	"84 years"	"84"	2355	37194	6331.7
+	"Oregon"	"41"	"85 years"	"85"	2473	Not Applicable	Not Applicable
+	"Oregon"	"41"	"86 years"	"86"	2690	Not Applicable	Not Applicable
+	"Oregon"	"41"	"87 years"	"87"	2804	Not Applicable	Not Applicable
+	"Oregon"	"41"	"88 years"	"88"	2901	Not Applicable	Not Applicable
+	"Oregon"	"41"	"89 years"	"89"	2923	Not Applicable	Not Applicable
+	"Oregon"	"41"	"90 years"	"90"	2914	Not Applicable	Not Applicable
+	"Oregon"	"41"	"91 years"	"91"	2933	Not Applicable	Not Applicable
+	"Oregon"	"41"	"92 years"	"92"	2936	Not Applicable	Not Applicable
+	"Oregon"	"41"	"93 years"	"93"	2569	Not Applicable	Not Applicable
+	"Oregon"	"41"	"94 years"	"94"	2371	Not Applicable	Not Applicable
+	"Oregon"	"41"	"95 years"	"95"	2130	Not Applicable	Not Applicable
+	"Oregon"	"41"	"96 years"	"96"	1798	Not Applicable	Not Applicable
+	"Oregon"	"41"	"97 years"	"97"	1511	Not Applicable	Not Applicable
+	"Oregon"	"41"	"98 years"	"98"	1198	Not Applicable	Not Applicable
+	"Oregon"	"41"	"99 years"	"99"	785	Not Applicable	Not Applicable
+	"Oregon"	"41"	"100+ years"	"100"	1802	Not Applicable	Not Applicable
+"Total"	"Oregon"	"41"			89991	10535517	854.2
+"Total"					89991	10535517	854.2
+"---"
+"Dataset: Underlying Cause of Death, 1999-2020"
+"Query Parameters:"
+"Title: Oregon General F"
+"Gender: Female"
+"States: Oregon (41)"
+"Year/Month: 2016; 2017; 2018; 2019; 2020"
+"Group By: State; Single-Year Ages"
+"Show Totals: True"
+"Show Zero Values: False"
+"Show Suppressed: False"
+"Calculate Rates Per: 100,000"
+"Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/ucd.html for more information."
+"---"
+"Query Date: Apr 11, 2022 2:45:57 AM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. Underlying Cause of Death"
+"1999-2020 on CDC WONDER Online Database, released in 2021. Data are from the Multiple Cause of Death Files, 1999-2020, as"
+"compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative Program. Accessed"
+"at http://wonder.cdc.gov/ucd-icd10.html on Apr 11, 2022 2:45:57 AM"
+"---"
+Messages:
+"1. Rows with suppressed Deaths are hidden, but the Deaths and Population values in those rows are included in the totals. Use"
+"Quick Options above to show suppressed rows."
+"---"
+Caveats:
+"1. Population and rates are labeled 'Not Applicable' when they include a subset of ages 85-100+ because populations are not"
+"available for those ages. More information: http://wonder.cdc.gov/wonder/help/ucd.html#Ages 85-100."
+"2. Data are Suppressed when the data meet the criteria for confidentiality constraints. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Assurance of Confidentiality."
+"3. Death rates are flagged as Unreliable when the rate is calculated with a numerator of 20 or less. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Unreliable."
+"4. Deaths of persons with Age ""Not Stated"" are included in ""All"" counts and rates, but are not distributed among age groups,"
+"so are not included in age-specific counts, age-specific rates or in any age-adjusted rates. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Not Stated."
+"5. The population figures for year 2020 are bridged-race estimates of the July 1 resident population, from the Vintage 2020"
+"postcensal series released by NCHS on September 22, 2021. The population figures for year 2019 are bridged-race estimates of the"
+"July 1 resident population, from the Vintage 2019 postcensal series released by NCHS on July 9, 2020. The population figures for"
+"year 2018 are bridged-race estimates of the July 1 resident population, from the Vintage 2018 postcensal series released by NCHS"
+"on June 25, 2019. The population figures for year 2017 are bridged-race estimates of the July 1 resident population, from the"
+"Vintage 2017 postcensal series released by NCHS on June 27, 2018. The population figures for year 2016 are bridged-race"
+"estimates of the July 1 resident population, from the Vintage 2016 postcensal series released by NCHS on June 26, 2017. The"
+"population figures for year 2015 are bridged-race estimates of the July 1 resident population, from the Vintage 2015 postcensal"
+"series released by NCHS on June 28, 2016. The population figures for year 2014 are bridged-race estimates of the July 1 resident"
+"population, from the Vintage 2014 postcensal series released by NCHS on June 30, 2015. The population figures for year 2013 are"
+"bridged-race estimates of the July 1 resident population, from the Vintage 2013 postcensal series released by NCHS on June 26,"
+"2014. The population figures for year 2012 are bridged-race estimates of the July 1 resident population, from the Vintage 2012"
+"postcensal series released by NCHS on June 13, 2013. The population figures for year 2011 are bridged-race estimates of the July"
+"1 resident population, from the Vintage 2011 postcensal series released by NCHS on July 18, 2012. Population figures for 2010"
+"are April 1 Census counts. The population figures for years 2001 - 2009 are bridged-race estimates of the July 1 resident"
+"population, from the revised intercensal county-level 2000 - 2009 series released by NCHS on October 26, 2012. Population"
+"figures for 2000 are April 1 Census counts. Population figures for 1999 are from the 1990-1999 intercensal series of July 1"
+"estimates. Population figures for the infant age groups are the number of live births. <br/><b>Note:</b> Rates and population"
+"figures for years 2001 - 2009 differ slightly from previously published reports, due to use of the population estimates which"
+"were available at the time of release."
+"6. The population figures used in the calculation of death rates for the age group 'under 1 year' are the estimates of the"
+"resident population that is under one year of age. More information: http://wonder.cdc.gov/wonder/help/ucd.html#Age Group."

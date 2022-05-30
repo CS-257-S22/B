@@ -1,0 +1,146 @@
+"Notes"	"State"	"State Code"	"Single-Year Ages"	"Single-Year Ages Code"	Deaths	Population	Crude Rate
+	"Delaware"	"10"	"< 1 year"	"0"	167	26167	638.2
+	"Delaware"	"10"	"1 year"	"1"	12	26641	Unreliable
+	"Delaware"	"10"	"19 years"	"19"	14	31527	Unreliable
+	"Delaware"	"10"	"20 years"	"20"	18	29806	Unreliable
+	"Delaware"	"10"	"21 years"	"21"	10	27601	Unreliable
+	"Delaware"	"10"	"22 years"	"22"	25	28006	89.3
+	"Delaware"	"10"	"23 years"	"23"	17	28758	Unreliable
+	"Delaware"	"10"	"24 years"	"24"	26	30276	85.9
+	"Delaware"	"10"	"25 years"	"25"	26	31063	83.7
+	"Delaware"	"10"	"26 years"	"26"	22	32351	68.0
+	"Delaware"	"10"	"27 years"	"27"	37	33649	110.0
+	"Delaware"	"10"	"28 years"	"28"	26	34212	76.0
+	"Delaware"	"10"	"29 years"	"29"	22	33478	65.7
+	"Delaware"	"10"	"30 years"	"30"	44	32984	133.4
+	"Delaware"	"10"	"31 years"	"31"	30	32155	93.3
+	"Delaware"	"10"	"32 years"	"32"	46	31069	148.1
+	"Delaware"	"10"	"33 years"	"33"	30	30485	98.4
+	"Delaware"	"10"	"34 years"	"34"	47	30308	155.1
+	"Delaware"	"10"	"35 years"	"35"	52	30051	173.0
+	"Delaware"	"10"	"36 years"	"36"	41	30170	135.9
+	"Delaware"	"10"	"37 years"	"37"	47	29760	157.9
+	"Delaware"	"10"	"38 years"	"38"	41	29700	138.0
+	"Delaware"	"10"	"39 years"	"39"	46	29118	158.0
+	"Delaware"	"10"	"40 years"	"40"	50	28341	176.4
+	"Delaware"	"10"	"41 years"	"41"	44	27800	158.3
+	"Delaware"	"10"	"42 years"	"42"	56	27270	205.4
+	"Delaware"	"10"	"43 years"	"43"	49	26962	181.7
+	"Delaware"	"10"	"44 years"	"44"	60	27379	219.1
+	"Delaware"	"10"	"45 years"	"45"	61	28358	215.1
+	"Delaware"	"10"	"46 years"	"46"	55	29275	187.9
+	"Delaware"	"10"	"47 years"	"47"	82	30321	270.4
+	"Delaware"	"10"	"48 years"	"48"	100	31062	321.9
+	"Delaware"	"10"	"49 years"	"49"	90	31720	283.7
+	"Delaware"	"10"	"50 years"	"50"	114	31978	356.5
+	"Delaware"	"10"	"51 years"	"51"	103	32479	317.1
+	"Delaware"	"10"	"52 years"	"52"	141	33364	422.6
+	"Delaware"	"10"	"53 years"	"53"	142	34426	412.5
+	"Delaware"	"10"	"54 years"	"54"	144	35127	409.9
+	"Delaware"	"10"	"55 years"	"55"	198	35807	553.0
+	"Delaware"	"10"	"56 years"	"56"	188	36266	518.4
+	"Delaware"	"10"	"57 years"	"57"	195	36423	535.4
+	"Delaware"	"10"	"58 years"	"58"	253	36443	694.2
+	"Delaware"	"10"	"59 years"	"59"	256	36638	698.7
+	"Delaware"	"10"	"60 years"	"60"	294	36405	807.6
+	"Delaware"	"10"	"61 years"	"61"	258	35985	717.0
+	"Delaware"	"10"	"62 years"	"62"	257	35798	717.9
+	"Delaware"	"10"	"63 years"	"63"	278	35349	786.4
+	"Delaware"	"10"	"64 years"	"64"	313	34764	900.4
+	"Delaware"	"10"	"65 years"	"65"	320	34167	936.6
+	"Delaware"	"10"	"66 years"	"66"	326	33134	983.9
+	"Delaware"	"10"	"67 years"	"67"	392	32394	1210.1
+	"Delaware"	"10"	"68 years"	"68"	365	31863	1145.5
+	"Delaware"	"10"	"69 years"	"69"	410	31092	1318.7
+	"Delaware"	"10"	"70 years"	"70"	413	29575	1396.4
+	"Delaware"	"10"	"71 years"	"71"	441	27934	1578.7
+	"Delaware"	"10"	"72 years"	"72"	431	26207	1644.6
+	"Delaware"	"10"	"73 years"	"73"	464	24617	1884.9
+	"Delaware"	"10"	"74 years"	"74"	445	22164	2007.8
+	"Delaware"	"10"	"75 years"	"75"	557	21009	2651.2
+	"Delaware"	"10"	"76 years"	"76"	489	19513	2506.0
+	"Delaware"	"10"	"77 years"	"77"	518	17945	2886.6
+	"Delaware"	"10"	"78 years"	"78"	509	16099	3161.7
+	"Delaware"	"10"	"79 years"	"79"	513	14732	3482.2
+	"Delaware"	"10"	"80 years"	"80"	568	13515	4202.7
+	"Delaware"	"10"	"81 years"	"81"	604	12500	4832.0
+	"Delaware"	"10"	"82 years"	"82"	614	11432	5370.9
+	"Delaware"	"10"	"83 years"	"83"	603	10483	5752.2
+	"Delaware"	"10"	"84 years"	"84"	634	9688	6544.2
+	"Delaware"	"10"	"85 years"	"85"	672	Not Applicable	Not Applicable
+	"Delaware"	"10"	"86 years"	"86"	713	Not Applicable	Not Applicable
+	"Delaware"	"10"	"87 years"	"87"	719	Not Applicable	Not Applicable
+	"Delaware"	"10"	"88 years"	"88"	711	Not Applicable	Not Applicable
+	"Delaware"	"10"	"89 years"	"89"	749	Not Applicable	Not Applicable
+	"Delaware"	"10"	"90 years"	"90"	706	Not Applicable	Not Applicable
+	"Delaware"	"10"	"91 years"	"91"	615	Not Applicable	Not Applicable
+	"Delaware"	"10"	"92 years"	"92"	632	Not Applicable	Not Applicable
+	"Delaware"	"10"	"93 years"	"93"	582	Not Applicable	Not Applicable
+	"Delaware"	"10"	"94 years"	"94"	587	Not Applicable	Not Applicable
+	"Delaware"	"10"	"95 years"	"95"	499	Not Applicable	Not Applicable
+	"Delaware"	"10"	"96 years"	"96"	401	Not Applicable	Not Applicable
+	"Delaware"	"10"	"97 years"	"97"	315	Not Applicable	Not Applicable
+	"Delaware"	"10"	"98 years"	"98"	229	Not Applicable	Not Applicable
+	"Delaware"	"10"	"99 years"	"99"	180	Not Applicable	Not Applicable
+	"Delaware"	"10"	"100+ years"	"100"	350	Not Applicable	Not Applicable
+"Total"	"Delaware"	"10"			22971	2500104	918.8
+"Total"					22971	2500104	918.8
+"---"
+"Dataset: Underlying Cause of Death, 1999-2020"
+"Query Parameters:"
+"Title: Delaware General F"
+"Gender: Female"
+"States: Delaware (10)"
+"Year/Month: 2016; 2017; 2018; 2019; 2020"
+"Group By: State; Single-Year Ages"
+"Show Totals: True"
+"Show Zero Values: False"
+"Show Suppressed: False"
+"Calculate Rates Per: 100,000"
+"Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/ucd.html for more information."
+"---"
+"Query Date: Apr 8, 2022 12:52:25 AM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. Underlying Cause of Death"
+"1999-2020 on CDC WONDER Online Database, released in 2021. Data are from the Multiple Cause of Death Files, 1999-2020, as"
+"compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative Program. Accessed"
+"at http://wonder.cdc.gov/ucd-icd10.html on Apr 8, 2022 12:52:25 AM"
+"---"
+Messages:
+"1. Rows with suppressed Deaths are hidden, but the Deaths and Population values in those rows are included in the totals. Use"
+"Quick Options above to show suppressed rows."
+"---"
+Caveats:
+"1. Population and rates are labeled 'Not Applicable' when they include a subset of ages 85-100+ because populations are not"
+"available for those ages. More information: http://wonder.cdc.gov/wonder/help/ucd.html#Ages 85-100."
+"2. Data are Suppressed when the data meet the criteria for confidentiality constraints. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Assurance of Confidentiality."
+"3. Death rates are flagged as Unreliable when the rate is calculated with a numerator of 20 or less. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Unreliable."
+"4. Deaths of persons with Age ""Not Stated"" are included in ""All"" counts and rates, but are not distributed among age groups,"
+"so are not included in age-specific counts, age-specific rates or in any age-adjusted rates. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Not Stated."
+"5. The population figures for year 2020 are bridged-race estimates of the July 1 resident population, from the Vintage 2020"
+"postcensal series released by NCHS on September 22, 2021. The population figures for year 2019 are bridged-race estimates of the"
+"July 1 resident population, from the Vintage 2019 postcensal series released by NCHS on July 9, 2020. The population figures for"
+"year 2018 are bridged-race estimates of the July 1 resident population, from the Vintage 2018 postcensal series released by NCHS"
+"on June 25, 2019. The population figures for year 2017 are bridged-race estimates of the July 1 resident population, from the"
+"Vintage 2017 postcensal series released by NCHS on June 27, 2018. The population figures for year 2016 are bridged-race"
+"estimates of the July 1 resident population, from the Vintage 2016 postcensal series released by NCHS on June 26, 2017. The"
+"population figures for year 2015 are bridged-race estimates of the July 1 resident population, from the Vintage 2015 postcensal"
+"series released by NCHS on June 28, 2016. The population figures for year 2014 are bridged-race estimates of the July 1 resident"
+"population, from the Vintage 2014 postcensal series released by NCHS on June 30, 2015. The population figures for year 2013 are"
+"bridged-race estimates of the July 1 resident population, from the Vintage 2013 postcensal series released by NCHS on June 26,"
+"2014. The population figures for year 2012 are bridged-race estimates of the July 1 resident population, from the Vintage 2012"
+"postcensal series released by NCHS on June 13, 2013. The population figures for year 2011 are bridged-race estimates of the July"
+"1 resident population, from the Vintage 2011 postcensal series released by NCHS on July 18, 2012. Population figures for 2010"
+"are April 1 Census counts. The population figures for years 2001 - 2009 are bridged-race estimates of the July 1 resident"
+"population, from the revised intercensal county-level 2000 - 2009 series released by NCHS on October 26, 2012. Population"
+"figures for 2000 are April 1 Census counts. Population figures for 1999 are from the 1990-1999 intercensal series of July 1"
+"estimates. Population figures for the infant age groups are the number of live births. <br/><b>Note:</b> Rates and population"
+"figures for years 2001 - 2009 differ slightly from previously published reports, due to use of the population estimates which"
+"were available at the time of release."
+"6. The population figures used in the calculation of death rates for the age group 'under 1 year' are the estimates of the"
+"resident population that is under one year of age. More information: http://wonder.cdc.gov/wonder/help/ucd.html#Age Group."

@@ -1,0 +1,158 @@
+"Notes"	"State"	"State Code"	"Single-Year Ages"	"Single-Year Ages Code"	Deaths	Population	Crude Rate
+	"West Virginia"	"54"	"< 1 year"	"0"	367	46965	781.4
+	"West Virginia"	"54"	"1 year"	"1"	30	48049	62.4
+	"West Virginia"	"54"	"2 years"	"2"	15	49074	Unreliable
+	"West Virginia"	"54"	"3 years"	"3"	15	50075	Unreliable
+	"West Virginia"	"54"	"5 years"	"5"	14	51520	Unreliable
+	"West Virginia"	"54"	"8 years"	"8"	11	52207	Unreliable
+	"West Virginia"	"54"	"10 years"	"10"	12	52735	Unreliable
+	"West Virginia"	"54"	"12 years"	"12"	10	53621	Unreliable
+	"West Virginia"	"54"	"13 years"	"13"	18	53732	Unreliable
+	"West Virginia"	"54"	"14 years"	"14"	14	53697	Unreliable
+	"West Virginia"	"54"	"15 years"	"15"	23	54149	42.5
+	"West Virginia"	"54"	"16 years"	"16"	27	54538	49.5
+	"West Virginia"	"54"	"17 years"	"17"	35	55168	63.4
+	"West Virginia"	"54"	"18 years"	"18"	50	56124	89.1
+	"West Virginia"	"54"	"19 years"	"19"	67	56895	117.8
+	"West Virginia"	"54"	"20 years"	"20"	86	57967	148.4
+	"West Virginia"	"54"	"21 years"	"21"	85	57890	146.8
+	"West Virginia"	"54"	"22 years"	"22"	108	59942	180.2
+	"West Virginia"	"54"	"23 years"	"23"	106	58414	181.5
+	"West Virginia"	"54"	"24 years"	"24"	138	58136	237.4
+	"West Virginia"	"54"	"25 years"	"25"	128	58609	218.4
+	"West Virginia"	"54"	"26 years"	"26"	142	58383	243.2
+	"West Virginia"	"54"	"27 years"	"27"	167	58794	284.0
+	"West Virginia"	"54"	"28 years"	"28"	149	57393	259.6
+	"West Virginia"	"54"	"29 years"	"29"	169	56321	300.1
+	"West Virginia"	"54"	"30 years"	"30"	200	54317	368.2
+	"West Virginia"	"54"	"31 years"	"31"	200	52938	377.8
+	"West Virginia"	"54"	"32 years"	"32"	194	52465	369.8
+	"West Virginia"	"54"	"33 years"	"33"	216	52081	414.7
+	"West Virginia"	"54"	"34 years"	"34"	207	52991	390.6
+	"West Virginia"	"54"	"35 years"	"35"	245	52846	463.6
+	"West Virginia"	"54"	"36 years"	"36"	212	54297	390.4
+	"West Virginia"	"54"	"37 years"	"37"	264	54957	480.4
+	"West Virginia"	"54"	"38 years"	"38"	259	55282	468.5
+	"West Virginia"	"54"	"39 years"	"39"	260	55045	472.3
+	"West Virginia"	"54"	"40 years"	"40"	309	54765	564.2
+	"West Virginia"	"54"	"41 years"	"41"	313	54575	573.5
+	"West Virginia"	"54"	"42 years"	"42"	327	54128	604.1
+	"West Virginia"	"54"	"43 years"	"43"	276	54003	511.1
+	"West Virginia"	"54"	"44 years"	"44"	299	55297	540.7
+	"West Virginia"	"54"	"45 years"	"45"	366	56767	644.7
+	"West Virginia"	"54"	"46 years"	"46"	349	57938	602.4
+	"West Virginia"	"54"	"47 years"	"47"	367	58542	626.9
+	"West Virginia"	"54"	"48 years"	"48"	427	58911	724.8
+	"West Virginia"	"54"	"49 years"	"49"	436	58414	746.4
+	"West Virginia"	"54"	"50 years"	"50"	476	57748	824.3
+	"West Virginia"	"54"	"51 years"	"51"	513	58277	880.3
+	"West Virginia"	"54"	"52 years"	"52"	550	59466	924.9
+	"West Virginia"	"54"	"53 years"	"53"	565	59565	948.5
+	"West Virginia"	"54"	"54 years"	"54"	695	60545	1147.9
+	"West Virginia"	"54"	"55 years"	"55"	731	61390	1190.7
+	"West Virginia"	"54"	"56 years"	"56"	772	61715	1250.9
+	"West Virginia"	"54"	"57 years"	"57"	863	62166	1388.2
+	"West Virginia"	"54"	"58 years"	"58"	966	63301	1526.0
+	"West Virginia"	"54"	"59 years"	"59"	1038	64274	1615.0
+	"West Virginia"	"54"	"60 years"	"60"	1063	64258	1654.3
+	"West Virginia"	"54"	"61 years"	"61"	1119	64231	1742.1
+	"West Virginia"	"54"	"62 years"	"62"	1206	63492	1899.5
+	"West Virginia"	"54"	"63 years"	"63"	1226	62260	1969.2
+	"West Virginia"	"54"	"64 years"	"64"	1260	60815	2071.9
+	"West Virginia"	"54"	"65 years"	"65"	1314	59820	2196.6
+	"West Virginia"	"54"	"66 years"	"66"	1311	58671	2234.5
+	"West Virginia"	"54"	"67 years"	"67"	1379	57362	2404.0
+	"West Virginia"	"54"	"68 years"	"68"	1475	56435	2613.6
+	"West Virginia"	"54"	"69 years"	"69"	1491	55913	2666.6
+	"West Virginia"	"54"	"70 years"	"70"	1518	51934	2922.9
+	"West Virginia"	"54"	"71 years"	"71"	1483	48368	3066.1
+	"West Virginia"	"54"	"72 years"	"72"	1508	44215	3410.6
+	"West Virginia"	"54"	"73 years"	"73"	1546	41138	3758.1
+	"West Virginia"	"54"	"74 years"	"74"	1523	36201	4207.1
+	"West Virginia"	"54"	"75 years"	"75"	1501	34242	4383.5
+	"West Virginia"	"54"	"76 years"	"76"	1606	31646	5074.9
+	"West Virginia"	"54"	"77 years"	"77"	1574	29269	5377.7
+	"West Virginia"	"54"	"78 years"	"78"	1508	26456	5700.0
+	"West Virginia"	"54"	"79 years"	"79"	1586	24270	6534.8
+	"West Virginia"	"54"	"80 years"	"80"	1584	22057	7181.4
+	"West Virginia"	"54"	"81 years"	"81"	1523	20366	7478.1
+	"West Virginia"	"54"	"82 years"	"82"	1482	18147	8166.6
+	"West Virginia"	"54"	"83 years"	"83"	1421	15753	9020.5
+	"West Virginia"	"54"	"84 years"	"84"	1366	13864	9852.9
+	"West Virginia"	"54"	"85 years"	"85"	1304	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"86 years"	"86"	1295	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"87 years"	"87"	1238	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"88 years"	"88"	1250	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"89 years"	"89"	1123	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"90 years"	"90"	1034	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"91 years"	"91"	939	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"92 years"	"92"	841	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"93 years"	"93"	619	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"94 years"	"94"	528	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"95 years"	"95"	409	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"96 years"	"96"	280	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"97 years"	"97"	203	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"98 years"	"98"	144	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"99 years"	"99"	90	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"100+ years"	"100"	106	Not Applicable	Not Applicable
+"Total"	"West Virginia"	"54"			61887	4470949	1384.2
+"Total"					61887	4470949	1384.2
+"---"
+"Dataset: Underlying Cause of Death, 1999-2020"
+"Query Parameters:"
+"Title: West Virginia General M"
+"Gender: Male"
+"States: West Virginia (54)"
+"Year/Month: 2016; 2017; 2018; 2019; 2020"
+"Group By: State; Single-Year Ages"
+"Show Totals: True"
+"Show Zero Values: False"
+"Show Suppressed: False"
+"Calculate Rates Per: 100,000"
+"Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/ucd.html for more information."
+"---"
+"Query Date: Apr 11, 2022 3:18:17 AM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. Underlying Cause of Death"
+"1999-2020 on CDC WONDER Online Database, released in 2021. Data are from the Multiple Cause of Death Files, 1999-2020, as"
+"compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative Program. Accessed"
+"at http://wonder.cdc.gov/ucd-icd10.html on Apr 11, 2022 3:18:17 AM"
+"---"
+Messages:
+"1. Rows with suppressed Deaths are hidden, but the Deaths and Population values in those rows are included in the totals. Use"
+"Quick Options above to show suppressed rows."
+"---"
+Caveats:
+"1. Population and rates are labeled 'Not Applicable' when they include a subset of ages 85-100+ because populations are not"
+"available for those ages. More information: http://wonder.cdc.gov/wonder/help/ucd.html#Ages 85-100."
+"2. Data are Suppressed when the data meet the criteria for confidentiality constraints. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Assurance of Confidentiality."
+"3. Death rates are flagged as Unreliable when the rate is calculated with a numerator of 20 or less. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Unreliable."
+"4. Deaths of persons with Age ""Not Stated"" are included in ""All"" counts and rates, but are not distributed among age groups,"
+"so are not included in age-specific counts, age-specific rates or in any age-adjusted rates. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Not Stated."
+"5. The population figures for year 2020 are bridged-race estimates of the July 1 resident population, from the Vintage 2020"
+"postcensal series released by NCHS on September 22, 2021. The population figures for year 2019 are bridged-race estimates of the"
+"July 1 resident population, from the Vintage 2019 postcensal series released by NCHS on July 9, 2020. The population figures for"
+"year 2018 are bridged-race estimates of the July 1 resident population, from the Vintage 2018 postcensal series released by NCHS"
+"on June 25, 2019. The population figures for year 2017 are bridged-race estimates of the July 1 resident population, from the"
+"Vintage 2017 postcensal series released by NCHS on June 27, 2018. The population figures for year 2016 are bridged-race"
+"estimates of the July 1 resident population, from the Vintage 2016 postcensal series released by NCHS on June 26, 2017. The"
+"population figures for year 2015 are bridged-race estimates of the July 1 resident population, from the Vintage 2015 postcensal"
+"series released by NCHS on June 28, 2016. The population figures for year 2014 are bridged-race estimates of the July 1 resident"
+"population, from the Vintage 2014 postcensal series released by NCHS on June 30, 2015. The population figures for year 2013 are"
+"bridged-race estimates of the July 1 resident population, from the Vintage 2013 postcensal series released by NCHS on June 26,"
+"2014. The population figures for year 2012 are bridged-race estimates of the July 1 resident population, from the Vintage 2012"
+"postcensal series released by NCHS on June 13, 2013. The population figures for year 2011 are bridged-race estimates of the July"
+"1 resident population, from the Vintage 2011 postcensal series released by NCHS on July 18, 2012. Population figures for 2010"
+"are April 1 Census counts. The population figures for years 2001 - 2009 are bridged-race estimates of the July 1 resident"
+"population, from the revised intercensal county-level 2000 - 2009 series released by NCHS on October 26, 2012. Population"
+"figures for 2000 are April 1 Census counts. Population figures for 1999 are from the 1990-1999 intercensal series of July 1"
+"estimates. Population figures for the infant age groups are the number of live births. <br/><b>Note:</b> Rates and population"
+"figures for years 2001 - 2009 differ slightly from previously published reports, due to use of the population estimates which"
+"were available at the time of release."
+"6. The population figures used in the calculation of death rates for the age group 'under 1 year' are the estimates of the"
+"resident population that is under one year of age. More information: http://wonder.cdc.gov/wonder/help/ucd.html#Age Group."

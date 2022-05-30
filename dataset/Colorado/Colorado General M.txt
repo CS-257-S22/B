@@ -1,0 +1,162 @@
+"Notes"	"State"	"State Code"	"Single-Year Ages"	"Single-Year Ages Code"	Deaths	Population	Crude Rate
+	"Colorado"	"08"	"< 1 year"	"0"	813	168028	483.8
+	"Colorado"	"08"	"1 year"	"1"	71	167940	42.3
+	"Colorado"	"08"	"2 years"	"2"	23	169272	13.6
+	"Colorado"	"08"	"3 years"	"3"	33	171673	19.2
+	"Colorado"	"08"	"4 years"	"4"	21	173370	12.1
+	"Colorado"	"08"	"5 years"	"5"	23	174666	13.2
+	"Colorado"	"08"	"6 years"	"6"	21	176086	11.9
+	"Colorado"	"08"	"7 years"	"7"	20	177658	11.3
+	"Colorado"	"08"	"8 years"	"8"	19	180905	Unreliable
+	"Colorado"	"08"	"9 years"	"9"	21	183189	11.5
+	"Colorado"	"08"	"10 years"	"10"	21	184764	11.4
+	"Colorado"	"08"	"11 years"	"11"	28	185509	15.1
+	"Colorado"	"08"	"12 years"	"12"	27	186638	14.5
+	"Colorado"	"08"	"13 years"	"13"	52	186009	28.0
+	"Colorado"	"08"	"14 years"	"14"	42	184827	22.7
+	"Colorado"	"08"	"15 years"	"15"	87	184040	47.3
+	"Colorado"	"08"	"16 years"	"16"	141	183078	77.0
+	"Colorado"	"08"	"17 years"	"17"	156	182266	85.6
+	"Colorado"	"08"	"18 years"	"18"	169	187104	90.3
+	"Colorado"	"08"	"19 years"	"19"	239	193275	123.7
+	"Colorado"	"08"	"20 years"	"20"	222	189139	117.4
+	"Colorado"	"08"	"21 years"	"21"	259	190952	135.6
+	"Colorado"	"08"	"22 years"	"22"	269	198191	135.7
+	"Colorado"	"08"	"23 years"	"23"	300	205269	146.1
+	"Colorado"	"08"	"24 years"	"24"	341	215629	158.1
+	"Colorado"	"08"	"25 years"	"25"	323	226975	142.3
+	"Colorado"	"08"	"26 years"	"26"	369	233947	157.7
+	"Colorado"	"08"	"27 years"	"27"	405	236822	171.0
+	"Colorado"	"08"	"28 years"	"28"	426	238907	178.3
+	"Colorado"	"08"	"29 years"	"29"	393	236583	166.1
+	"Colorado"	"08"	"30 years"	"30"	392	234519	167.2
+	"Colorado"	"08"	"31 years"	"31"	402	231654	173.5
+	"Colorado"	"08"	"32 years"	"32"	401	229419	174.8
+	"Colorado"	"08"	"33 years"	"33"	412	228091	180.6
+	"Colorado"	"08"	"34 years"	"34"	436	224942	193.8
+	"Colorado"	"08"	"35 years"	"35"	469	221275	212.0
+	"Colorado"	"08"	"36 years"	"36"	452	217963	207.4
+	"Colorado"	"08"	"37 years"	"37"	395	213196	185.3
+	"Colorado"	"08"	"38 years"	"38"	394	207823	189.6
+	"Colorado"	"08"	"39 years"	"39"	477	202142	236.0
+	"Colorado"	"08"	"40 years"	"40"	480	195775	245.2
+	"Colorado"	"08"	"41 years"	"41"	462	190809	242.1
+	"Colorado"	"08"	"42 years"	"42"	469	187278	250.4
+	"Colorado"	"08"	"43 years"	"43"	513	184263	278.4
+	"Colorado"	"08"	"44 years"	"44"	490	183624	266.8
+	"Colorado"	"08"	"45 years"	"45"	556	187147	297.1
+	"Colorado"	"08"	"46 years"	"46"	580	187488	309.4
+	"Colorado"	"08"	"47 years"	"47"	644	187923	342.7
+	"Colorado"	"08"	"48 years"	"48"	685	185921	368.4
+	"Colorado"	"08"	"49 years"	"49"	713	182018	391.7
+	"Colorado"	"08"	"50 years"	"50"	721	176538	408.4
+	"Colorado"	"08"	"51 years"	"51"	801	172385	464.7
+	"Colorado"	"08"	"52 years"	"52"	888	171237	518.6
+	"Colorado"	"08"	"53 years"	"53"	934	172433	541.7
+	"Colorado"	"08"	"54 years"	"54"	1082	175437	616.7
+	"Colorado"	"08"	"55 years"	"55"	1169	178584	654.6
+	"Colorado"	"08"	"56 years"	"56"	1281	180108	711.2
+	"Colorado"	"08"	"57 years"	"57"	1470	179820	817.5
+	"Colorado"	"08"	"58 years"	"58"	1551	179498	864.1
+	"Colorado"	"08"	"59 years"	"59"	1606	178151	901.5
+	"Colorado"	"08"	"60 years"	"60"	1600	175053	914.0
+	"Colorado"	"08"	"61 years"	"61"	1792	170649	1050.1
+	"Colorado"	"08"	"62 years"	"62"	1837	166852	1101.0
+	"Colorado"	"08"	"63 years"	"63"	1938	161500	1200.0
+	"Colorado"	"08"	"64 years"	"64"	1968	156420	1258.2
+	"Colorado"	"08"	"65 years"	"65"	2073	150545	1377.0
+	"Colorado"	"08"	"66 years"	"66"	2059	144168	1428.2
+	"Colorado"	"08"	"67 years"	"67"	2151	137533	1564.0
+	"Colorado"	"08"	"68 years"	"68"	2097	132752	1579.6
+	"Colorado"	"08"	"69 years"	"69"	2218	129200	1716.7
+	"Colorado"	"08"	"70 years"	"70"	2143	119847	1788.1
+	"Colorado"	"08"	"71 years"	"71"	2204	110169	2000.6
+	"Colorado"	"08"	"72 years"	"72"	2204	100835	2185.7
+	"Colorado"	"08"	"73 years"	"73"	2275	92347	2463.5
+	"Colorado"	"08"	"74 years"	"74"	2115	80338	2632.6
+	"Colorado"	"08"	"75 years"	"75"	2286	74130	3083.8
+	"Colorado"	"08"	"76 years"	"76"	2225	67561	3293.3
+	"Colorado"	"08"	"77 years"	"77"	2268	61339	3697.5
+	"Colorado"	"08"	"78 years"	"78"	2306	54697	4216.0
+	"Colorado"	"08"	"79 years"	"79"	2310	49364	4679.5
+	"Colorado"	"08"	"80 years"	"80"	2318	45309	5116.0
+	"Colorado"	"08"	"81 years"	"81"	2403	40994	5861.8
+	"Colorado"	"08"	"82 years"	"82"	2410	36787	6551.2
+	"Colorado"	"08"	"83 years"	"83"	2415	33178	7278.9
+	"Colorado"	"08"	"84 years"	"84"	2614	29943	8729.9
+	"Colorado"	"08"	"85 years"	"85"	2516	Not Applicable	Not Applicable
+	"Colorado"	"08"	"86 years"	"86"	2544	Not Applicable	Not Applicable
+	"Colorado"	"08"	"87 years"	"87"	2480	Not Applicable	Not Applicable
+	"Colorado"	"08"	"88 years"	"88"	2499	Not Applicable	Not Applicable
+	"Colorado"	"08"	"89 years"	"89"	2324	Not Applicable	Not Applicable
+	"Colorado"	"08"	"90 years"	"90"	2112	Not Applicable	Not Applicable
+	"Colorado"	"08"	"91 years"	"91"	1919	Not Applicable	Not Applicable
+	"Colorado"	"08"	"92 years"	"92"	1762	Not Applicable	Not Applicable
+	"Colorado"	"08"	"93 years"	"93"	1489	Not Applicable	Not Applicable
+	"Colorado"	"08"	"94 years"	"94"	1214	Not Applicable	Not Applicable
+	"Colorado"	"08"	"95 years"	"95"	980	Not Applicable	Not Applicable
+	"Colorado"	"08"	"96 years"	"96"	799	Not Applicable	Not Applicable
+	"Colorado"	"08"	"97 years"	"97"	540	Not Applicable	Not Applicable
+	"Colorado"	"08"	"98 years"	"98"	379	Not Applicable	Not Applicable
+	"Colorado"	"08"	"99 years"	"99"	292	Not Applicable	Not Applicable
+	"Colorado"	"08"	"100+ years"	"100"	394	Not Applicable	Not Applicable
+"---"
+"Dataset: Underlying Cause of Death, 1999-2020"
+"Query Parameters:"
+"Title: Colorado General M"
+"Gender: Male"
+"States: Colorado (08)"
+"Year/Month: 2016; 2017; 2018; 2019; 2020"
+"Group By: State; Single-Year Ages"
+"Show Totals: Disabled"
+"Show Zero Values: False"
+"Show Suppressed: False"
+"Calculate Rates Per: 100,000"
+"Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/ucd.html for more information."
+"---"
+"Query Date: Apr 8, 2022 12:28:51 AM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. Underlying Cause of Death"
+"1999-2020 on CDC WONDER Online Database, released in 2021. Data are from the Multiple Cause of Death Files, 1999-2020, as"
+"compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative Program. Accessed"
+"at http://wonder.cdc.gov/ucd-icd10.html on Apr 8, 2022 12:28:51 AM"
+"---"
+Messages:
+"1. Totals are not available for these results due to suppression constraints. More Information:"
+"http://wonder.cdc.gov/wonder/help/faq.html#Privacy."
+"2. Rows with suppressed Deaths are hidden. Use Quick Options above to show suppressed rows."
+"---"
+Caveats:
+"1. Population and rates are labeled 'Not Applicable' when they include a subset of ages 85-100+ because populations are not"
+"available for those ages. More information: http://wonder.cdc.gov/wonder/help/ucd.html#Ages 85-100."
+"2. Data are Suppressed when the data meet the criteria for confidentiality constraints. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Assurance of Confidentiality."
+"3. Death rates are flagged as Unreliable when the rate is calculated with a numerator of 20 or less. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Unreliable."
+"4. Deaths of persons with Age ""Not Stated"" are included in ""All"" counts and rates, but are not distributed among age groups,"
+"so are not included in age-specific counts, age-specific rates or in any age-adjusted rates. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Not Stated."
+"5. The population figures for year 2020 are bridged-race estimates of the July 1 resident population, from the Vintage 2020"
+"postcensal series released by NCHS on September 22, 2021. The population figures for year 2019 are bridged-race estimates of the"
+"July 1 resident population, from the Vintage 2019 postcensal series released by NCHS on July 9, 2020. The population figures for"
+"year 2018 are bridged-race estimates of the July 1 resident population, from the Vintage 2018 postcensal series released by NCHS"
+"on June 25, 2019. The population figures for year 2017 are bridged-race estimates of the July 1 resident population, from the"
+"Vintage 2017 postcensal series released by NCHS on June 27, 2018. The population figures for year 2016 are bridged-race"
+"estimates of the July 1 resident population, from the Vintage 2016 postcensal series released by NCHS on June 26, 2017. The"
+"population figures for year 2015 are bridged-race estimates of the July 1 resident population, from the Vintage 2015 postcensal"
+"series released by NCHS on June 28, 2016. The population figures for year 2014 are bridged-race estimates of the July 1 resident"
+"population, from the Vintage 2014 postcensal series released by NCHS on June 30, 2015. The population figures for year 2013 are"
+"bridged-race estimates of the July 1 resident population, from the Vintage 2013 postcensal series released by NCHS on June 26,"
+"2014. The population figures for year 2012 are bridged-race estimates of the July 1 resident population, from the Vintage 2012"
+"postcensal series released by NCHS on June 13, 2013. The population figures for year 2011 are bridged-race estimates of the July"
+"1 resident population, from the Vintage 2011 postcensal series released by NCHS on July 18, 2012. Population figures for 2010"
+"are April 1 Census counts. The population figures for years 2001 - 2009 are bridged-race estimates of the July 1 resident"
+"population, from the revised intercensal county-level 2000 - 2009 series released by NCHS on October 26, 2012. Population"
+"figures for 2000 are April 1 Census counts. Population figures for 1999 are from the 1990-1999 intercensal series of July 1"
+"estimates. Population figures for the infant age groups are the number of live births. <br/><b>Note:</b> Rates and population"
+"figures for years 2001 - 2009 differ slightly from previously published reports, due to use of the population estimates which"
+"were available at the time of release."
+"6. The population figures used in the calculation of death rates for the age group 'under 1 year' are the estimates of the"
+"resident population that is under one year of age. More information: http://wonder.cdc.gov/wonder/help/ucd.html#Age Group."

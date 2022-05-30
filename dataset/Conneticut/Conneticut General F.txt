@@ -1,0 +1,155 @@
+"Notes"	"State"	"State Code"	"Single-Year Ages"	"Single-Year Ages Code"	Deaths	Population	Crude Rate
+	"Connecticut"	"09"	"< 1 year"	"0"	350	85575	409.0
+	"Connecticut"	"09"	"1 year"	"1"	20	87441	22.9
+	"Connecticut"	"09"	"2 years"	"2"	15	89610	Unreliable
+	"Connecticut"	"09"	"6 years"	"6"	12	94754	Unreliable
+	"Connecticut"	"09"	"9 years"	"9"	12	100192	Unreliable
+	"Connecticut"	"09"	"13 years"	"13"	10	108504	Unreliable
+	"Connecticut"	"09"	"14 years"	"14"	17	109708	Unreliable
+	"Connecticut"	"09"	"15 years"	"15"	14	111102	Unreliable
+	"Connecticut"	"09"	"16 years"	"16"	21	112847	18.6
+	"Connecticut"	"09"	"17 years"	"17"	23	114740	20.0
+	"Connecticut"	"09"	"18 years"	"18"	25	125489	19.9
+	"Connecticut"	"09"	"19 years"	"19"	36	127597	28.2
+	"Connecticut"	"09"	"20 years"	"20"	32	128753	24.9
+	"Connecticut"	"09"	"21 years"	"21"	50	124600	40.1
+	"Connecticut"	"09"	"22 years"	"22"	56	116160	48.2
+	"Connecticut"	"09"	"23 years"	"23"	51	110964	46.0
+	"Connecticut"	"09"	"24 years"	"24"	59	109591	53.8
+	"Connecticut"	"09"	"25 years"	"25"	71	108514	65.4
+	"Connecticut"	"09"	"26 years"	"26"	61	107303	56.8
+	"Connecticut"	"09"	"27 years"	"27"	70	107312	65.2
+	"Connecticut"	"09"	"28 years"	"28"	77	107054	71.9
+	"Connecticut"	"09"	"29 years"	"29"	76	108491	70.1
+	"Connecticut"	"09"	"30 years"	"30"	70	109402	64.0
+	"Connecticut"	"09"	"31 years"	"31"	105	109975	95.5
+	"Connecticut"	"09"	"32 years"	"32"	94	110662	84.9
+	"Connecticut"	"09"	"33 years"	"33"	129	111110	116.1
+	"Connecticut"	"09"	"34 years"	"34"	84	111863	75.1
+	"Connecticut"	"09"	"35 years"	"35"	90	110849	81.2
+	"Connecticut"	"09"	"36 years"	"36"	120	111332	107.8
+	"Connecticut"	"09"	"37 years"	"37"	118	110913	106.4
+	"Connecticut"	"09"	"38 years"	"38"	106	110095	96.3
+	"Connecticut"	"09"	"39 years"	"39"	113	108637	104.0
+	"Connecticut"	"09"	"40 years"	"40"	141	107345	131.4
+	"Connecticut"	"09"	"41 years"	"41"	138	105786	130.5
+	"Connecticut"	"09"	"42 years"	"42"	121	105463	114.7
+	"Connecticut"	"09"	"43 years"	"43"	138	105929	130.3
+	"Connecticut"	"09"	"44 years"	"44"	170	107687	157.9
+	"Connecticut"	"09"	"45 years"	"45"	165	112204	147.1
+	"Connecticut"	"09"	"46 years"	"46"	209	116976	178.7
+	"Connecticut"	"09"	"47 years"	"47"	223	121337	183.8
+	"Connecticut"	"09"	"48 years"	"48"	279	124988	223.2
+	"Connecticut"	"09"	"49 years"	"49"	275	127444	215.8
+	"Connecticut"	"09"	"50 years"	"50"	280	129320	216.5
+	"Connecticut"	"09"	"51 years"	"51"	349	131016	266.4
+	"Connecticut"	"09"	"52 years"	"52"	393	134162	292.9
+	"Connecticut"	"09"	"53 years"	"53"	423	136937	308.9
+	"Connecticut"	"09"	"54 years"	"54"	449	139223	322.5
+	"Connecticut"	"09"	"55 years"	"55"	534	140758	379.4
+	"Connecticut"	"09"	"56 years"	"56"	533	140679	378.9
+	"Connecticut"	"09"	"57 years"	"57"	612	139279	439.4
+	"Connecticut"	"09"	"58 years"	"58"	640	138297	462.8
+	"Connecticut"	"09"	"59 years"	"59"	694	136400	508.8
+	"Connecticut"	"09"	"60 years"	"60"	746	133681	558.0
+	"Connecticut"	"09"	"61 years"	"61"	726	129370	561.2
+	"Connecticut"	"09"	"62 years"	"62"	791	125643	629.6
+	"Connecticut"	"09"	"63 years"	"63"	825	120634	683.9
+	"Connecticut"	"09"	"64 years"	"64"	831	115024	722.5
+	"Connecticut"	"09"	"65 years"	"65"	835	110103	758.4
+	"Connecticut"	"09"	"66 years"	"66"	926	104615	885.2
+	"Connecticut"	"09"	"67 years"	"67"	930	100470	925.6
+	"Connecticut"	"09"	"68 years"	"68"	1006	97294	1034.0
+	"Connecticut"	"09"	"69 years"	"69"	1105	97260	1136.1
+	"Connecticut"	"09"	"70 years"	"70"	1166	91790	1270.3
+	"Connecticut"	"09"	"71 years"	"71"	1185	87038	1361.5
+	"Connecticut"	"09"	"72 years"	"72"	1310	82427	1589.3
+	"Connecticut"	"09"	"73 years"	"73"	1293	78858	1639.7
+	"Connecticut"	"09"	"74 years"	"74"	1404	71815	1955.0
+	"Connecticut"	"09"	"75 years"	"75"	1447	67998	2128.0
+	"Connecticut"	"09"	"76 years"	"76"	1519	63875	2378.1
+	"Connecticut"	"09"	"77 years"	"77"	1563	59554	2624.5
+	"Connecticut"	"09"	"78 years"	"78"	1610	54110	2975.4
+	"Connecticut"	"09"	"79 years"	"79"	1735	50240	3453.4
+	"Connecticut"	"09"	"80 years"	"80"	1844	47432	3887.7
+	"Connecticut"	"09"	"81 years"	"81"	1872	45125	4148.5
+	"Connecticut"	"09"	"82 years"	"82"	2055	42547	4830.0
+	"Connecticut"	"09"	"83 years"	"83"	2195	40198	5460.5
+	"Connecticut"	"09"	"84 years"	"84"	2341	38312	6110.4
+	"Connecticut"	"09"	"85 years"	"85"	2493	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"86 years"	"86"	2596	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"87 years"	"87"	2863	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"88 years"	"88"	2982	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"89 years"	"89"	3159	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"90 years"	"90"	3221	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"91 years"	"91"	3150	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"92 years"	"92"	3055	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"93 years"	"93"	2936	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"94 years"	"94"	2688	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"95 years"	"95"	2409	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"96 years"	"96"	2093	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"97 years"	"97"	1738	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"98 years"	"98"	1356	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"99 years"	"99"	1050	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"100+ years"	"100"	2356	Not Applicable	Not Applicable
+"Total"	"Connecticut"	"09"			82412	9144447	901.2
+"Total"					82412	9144447	901.2
+"---"
+"Dataset: Underlying Cause of Death, 1999-2020"
+"Query Parameters:"
+"Title: Conneticut General F"
+"Gender: Female"
+"States: Connecticut (09)"
+"Year/Month: 2016; 2017; 2018; 2019; 2020"
+"Group By: State; Single-Year Ages"
+"Show Totals: True"
+"Show Zero Values: False"
+"Show Suppressed: False"
+"Calculate Rates Per: 100,000"
+"Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/ucd.html for more information."
+"---"
+"Query Date: Apr 8, 2022 12:37:55 AM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. Underlying Cause of Death"
+"1999-2020 on CDC WONDER Online Database, released in 2021. Data are from the Multiple Cause of Death Files, 1999-2020, as"
+"compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative Program. Accessed"
+"at http://wonder.cdc.gov/ucd-icd10.html on Apr 8, 2022 12:37:55 AM"
+"---"
+Messages:
+"1. Rows with suppressed Deaths are hidden, but the Deaths and Population values in those rows are included in the totals. Use"
+"Quick Options above to show suppressed rows."
+"---"
+Caveats:
+"1. Population and rates are labeled 'Not Applicable' when they include a subset of ages 85-100+ because populations are not"
+"available for those ages. More information: http://wonder.cdc.gov/wonder/help/ucd.html#Ages 85-100."
+"2. Data are Suppressed when the data meet the criteria for confidentiality constraints. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Assurance of Confidentiality."
+"3. Death rates are flagged as Unreliable when the rate is calculated with a numerator of 20 or less. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Unreliable."
+"4. Deaths of persons with Age ""Not Stated"" are included in ""All"" counts and rates, but are not distributed among age groups,"
+"so are not included in age-specific counts, age-specific rates or in any age-adjusted rates. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Not Stated."
+"5. The population figures for year 2020 are bridged-race estimates of the July 1 resident population, from the Vintage 2020"
+"postcensal series released by NCHS on September 22, 2021. The population figures for year 2019 are bridged-race estimates of the"
+"July 1 resident population, from the Vintage 2019 postcensal series released by NCHS on July 9, 2020. The population figures for"
+"year 2018 are bridged-race estimates of the July 1 resident population, from the Vintage 2018 postcensal series released by NCHS"
+"on June 25, 2019. The population figures for year 2017 are bridged-race estimates of the July 1 resident population, from the"
+"Vintage 2017 postcensal series released by NCHS on June 27, 2018. The population figures for year 2016 are bridged-race"
+"estimates of the July 1 resident population, from the Vintage 2016 postcensal series released by NCHS on June 26, 2017. The"
+"population figures for year 2015 are bridged-race estimates of the July 1 resident population, from the Vintage 2015 postcensal"
+"series released by NCHS on June 28, 2016. The population figures for year 2014 are bridged-race estimates of the July 1 resident"
+"population, from the Vintage 2014 postcensal series released by NCHS on June 30, 2015. The population figures for year 2013 are"
+"bridged-race estimates of the July 1 resident population, from the Vintage 2013 postcensal series released by NCHS on June 26,"
+"2014. The population figures for year 2012 are bridged-race estimates of the July 1 resident population, from the Vintage 2012"
+"postcensal series released by NCHS on June 13, 2013. The population figures for year 2011 are bridged-race estimates of the July"
+"1 resident population, from the Vintage 2011 postcensal series released by NCHS on July 18, 2012. Population figures for 2010"
+"are April 1 Census counts. The population figures for years 2001 - 2009 are bridged-race estimates of the July 1 resident"
+"population, from the revised intercensal county-level 2000 - 2009 series released by NCHS on October 26, 2012. Population"
+"figures for 2000 are April 1 Census counts. Population figures for 1999 are from the 1990-1999 intercensal series of July 1"
+"estimates. Population figures for the infant age groups are the number of live births. <br/><b>Note:</b> Rates and population"
+"figures for years 2001 - 2009 differ slightly from previously published reports, due to use of the population estimates which"
+"were available at the time of release."
+"6. The population figures used in the calculation of death rates for the age group 'under 1 year' are the estimates of the"
+"resident population that is under one year of age. More information: http://wonder.cdc.gov/wonder/help/ucd.html#Age Group."

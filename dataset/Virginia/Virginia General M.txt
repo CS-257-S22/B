@@ -1,0 +1,160 @@
+"Notes"	"State"	"State Code"	"Single-Year Ages"	"Single-Year Ages Code"	Deaths	Population	Crude Rate
+	"Virginia"	"51"	"< 1 year"	"0"	1601	254627	628.8
+	"Virginia"	"51"	"1 year"	"1"	90	258239	34.9
+	"Virginia"	"51"	"2 years"	"2"	75	261624	28.7
+	"Virginia"	"51"	"3 years"	"3"	49	262227	18.7
+	"Virginia"	"51"	"4 years"	"4"	26	263915	9.9
+	"Virginia"	"51"	"5 years"	"5"	45	263796	17.1
+	"Virginia"	"51"	"6 years"	"6"	32	263655	12.1
+	"Virginia"	"51"	"7 years"	"7"	23	262836	8.8
+	"Virginia"	"51"	"8 years"	"8"	30	264430	11.3
+	"Virginia"	"51"	"9 years"	"9"	29	265522	10.9
+	"Virginia"	"51"	"10 years"	"10"	28	266795	10.5
+	"Virginia"	"51"	"11 years"	"11"	28	267695	10.5
+	"Virginia"	"51"	"12 years"	"12"	57	269461	21.2
+	"Virginia"	"51"	"13 years"	"13"	44	269414	16.3
+	"Virginia"	"51"	"14 years"	"14"	51	267578	19.1
+	"Virginia"	"51"	"15 years"	"15"	82	267986	30.6
+	"Virginia"	"51"	"16 years"	"16"	121	269251	44.9
+	"Virginia"	"51"	"17 years"	"17"	170	270059	62.9
+	"Virginia"	"51"	"18 years"	"18"	260	279991	92.9
+	"Virginia"	"51"	"19 years"	"19"	300	289050	103.8
+	"Virginia"	"51"	"20 years"	"20"	292	294768	99.1
+	"Virginia"	"51"	"21 years"	"21"	381	303229	125.6
+	"Virginia"	"51"	"22 years"	"22"	367	302597	121.3
+	"Virginia"	"51"	"23 years"	"23"	416	300314	138.5
+	"Virginia"	"51"	"24 years"	"24"	467	303705	153.8
+	"Virginia"	"51"	"25 years"	"25"	474	307136	154.3
+	"Virginia"	"51"	"26 years"	"26"	480	308351	155.7
+	"Virginia"	"51"	"27 years"	"27"	449	307632	146.0
+	"Virginia"	"51"	"28 years"	"28"	473	303434	155.9
+	"Virginia"	"51"	"29 years"	"29"	455	301187	151.1
+	"Virginia"	"51"	"30 years"	"30"	502	299041	167.9
+	"Virginia"	"51"	"31 years"	"31"	509	296603	171.6
+	"Virginia"	"51"	"32 years"	"32"	496	295275	168.0
+	"Virginia"	"51"	"33 years"	"33"	485	292965	165.5
+	"Virginia"	"51"	"34 years"	"34"	553	293742	188.3
+	"Virginia"	"51"	"35 years"	"35"	556	291723	190.6
+	"Virginia"	"51"	"36 years"	"36"	591	290729	203.3
+	"Virginia"	"51"	"37 years"	"37"	594	289487	205.2
+	"Virginia"	"51"	"38 years"	"38"	620	283368	218.8
+	"Virginia"	"51"	"39 years"	"39"	626	276967	226.0
+	"Virginia"	"51"	"40 years"	"40"	635	269411	235.7
+	"Virginia"	"51"	"41 years"	"41"	642	264032	243.2
+	"Virginia"	"51"	"42 years"	"42"	665	260300	255.5
+	"Virginia"	"51"	"43 years"	"43"	657	258862	253.8
+	"Virginia"	"51"	"44 years"	"44"	707	261327	270.5
+	"Virginia"	"51"	"45 years"	"45"	778	267388	291.0
+	"Virginia"	"51"	"46 years"	"46"	898	272879	329.1
+	"Virginia"	"51"	"47 years"	"47"	947	275305	344.0
+	"Virginia"	"51"	"48 years"	"48"	1068	276388	386.4
+	"Virginia"	"51"	"49 years"	"49"	1061	274923	385.9
+	"Virginia"	"51"	"50 years"	"50"	1267	273103	463.9
+	"Virginia"	"51"	"51 years"	"51"	1398	273298	511.5
+	"Virginia"	"51"	"52 years"	"52"	1537	277423	554.0
+	"Virginia"	"51"	"53 years"	"53"	1744	282320	617.7
+	"Virginia"	"51"	"54 years"	"54"	1879	286583	655.7
+	"Virginia"	"51"	"55 years"	"55"	2121	288549	735.1
+	"Virginia"	"51"	"56 years"	"56"	2329	287607	809.8
+	"Virginia"	"51"	"57 years"	"57"	2498	283593	880.8
+	"Virginia"	"51"	"58 years"	"58"	2702	279040	968.3
+	"Virginia"	"51"	"59 years"	"59"	2889	273731	1055.4
+	"Virginia"	"51"	"60 years"	"60"	2979	265761	1120.9
+	"Virginia"	"51"	"61 years"	"61"	3083	257473	1197.4
+	"Virginia"	"51"	"62 years"	"62"	3281	249228	1316.5
+	"Virginia"	"51"	"63 years"	"63"	3292	240025	1371.5
+	"Virginia"	"51"	"64 years"	"64"	3492	229217	1523.4
+	"Virginia"	"51"	"65 years"	"65"	3558	219687	1619.6
+	"Virginia"	"51"	"66 years"	"66"	3563	209967	1696.9
+	"Virginia"	"51"	"67 years"	"67"	3724	202396	1840.0
+	"Virginia"	"51"	"68 years"	"68"	3829	196188	1951.7
+	"Virginia"	"51"	"69 years"	"69"	4029	194423	2072.3
+	"Virginia"	"51"	"70 years"	"70"	4073	182110	2236.6
+	"Virginia"	"51"	"71 years"	"71"	4207	170250	2471.1
+	"Virginia"	"51"	"72 years"	"72"	4170	158707	2627.5
+	"Virginia"	"51"	"73 years"	"73"	4296	147875	2905.2
+	"Virginia"	"51"	"74 years"	"74"	4155	132112	3145.1
+	"Virginia"	"51"	"75 years"	"75"	4264	123112	3463.5
+	"Virginia"	"51"	"76 years"	"76"	4495	114109	3939.2
+	"Virginia"	"51"	"77 years"	"77"	4476	104616	4278.5
+	"Virginia"	"51"	"78 years"	"78"	4465	93599	4770.4
+	"Virginia"	"51"	"79 years"	"79"	4483	84981	5275.3
+	"Virginia"	"51"	"80 years"	"80"	4527	77266	5859.0
+	"Virginia"	"51"	"81 years"	"81"	4468	70037	6379.5
+	"Virginia"	"51"	"82 years"	"82"	4447	62370	7130.0
+	"Virginia"	"51"	"83 years"	"83"	4345	55489	7830.4
+	"Virginia"	"51"	"84 years"	"84"	4496	49576	9068.9
+	"Virginia"	"51"	"85 years"	"85"	4415	Not Applicable	Not Applicable
+	"Virginia"	"51"	"86 years"	"86"	4241	Not Applicable	Not Applicable
+	"Virginia"	"51"	"87 years"	"87"	4231	Not Applicable	Not Applicable
+	"Virginia"	"51"	"88 years"	"88"	3963	Not Applicable	Not Applicable
+	"Virginia"	"51"	"89 years"	"89"	3837	Not Applicable	Not Applicable
+	"Virginia"	"51"	"90 years"	"90"	3586	Not Applicable	Not Applicable
+	"Virginia"	"51"	"91 years"	"91"	3121	Not Applicable	Not Applicable
+	"Virginia"	"51"	"92 years"	"92"	2694	Not Applicable	Not Applicable
+	"Virginia"	"51"	"93 years"	"93"	2351	Not Applicable	Not Applicable
+	"Virginia"	"51"	"94 years"	"94"	1901	Not Applicable	Not Applicable
+	"Virginia"	"51"	"95 years"	"95"	1638	Not Applicable	Not Applicable
+	"Virginia"	"51"	"96 years"	"96"	1232	Not Applicable	Not Applicable
+	"Virginia"	"51"	"97 years"	"97"	895	Not Applicable	Not Applicable
+	"Virginia"	"51"	"98 years"	"98"	614	Not Applicable	Not Applicable
+	"Virginia"	"51"	"99 years"	"99"	431	Not Applicable	Not Applicable
+	"Virginia"	"51"	"100+ years"	"100"	602	Not Applicable	Not Applicable
+"---"
+"Dataset: Underlying Cause of Death, 1999-2020"
+"Query Parameters:"
+"Title: Virginia General M"
+"Gender: Male"
+"States: Virginia (51)"
+"Year/Month: 2016; 2017; 2018; 2019; 2020"
+"Group By: State; Single-Year Ages"
+"Show Totals: Disabled"
+"Show Zero Values: False"
+"Show Suppressed: False"
+"Calculate Rates Per: 100,000"
+"Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/ucd.html for more information."
+"---"
+"Query Date: Apr 11, 2022 3:10:17 AM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. Underlying Cause of Death"
+"1999-2020 on CDC WONDER Online Database, released in 2021. Data are from the Multiple Cause of Death Files, 1999-2020, as"
+"compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative Program. Accessed"
+"at http://wonder.cdc.gov/ucd-icd10.html on Apr 11, 2022 3:10:17 AM"
+"---"
+Messages:
+"1. Totals are not available for these results due to suppression constraints. More Information:"
+"http://wonder.cdc.gov/wonder/help/faq.html#Privacy."
+"2. Rows with suppressed Deaths are hidden. Use Quick Options above to show suppressed rows."
+"---"
+Caveats:
+"1. Population and rates are labeled 'Not Applicable' when they include a subset of ages 85-100+ because populations are not"
+"available for those ages. More information: http://wonder.cdc.gov/wonder/help/ucd.html#Ages 85-100."
+"2. Data are Suppressed when the data meet the criteria for confidentiality constraints. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Assurance of Confidentiality."
+"3. Deaths of persons with Age ""Not Stated"" are included in ""All"" counts and rates, but are not distributed among age groups,"
+"so are not included in age-specific counts, age-specific rates or in any age-adjusted rates. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Not Stated."
+"4. The population figures for year 2020 are bridged-race estimates of the July 1 resident population, from the Vintage 2020"
+"postcensal series released by NCHS on September 22, 2021. The population figures for year 2019 are bridged-race estimates of the"
+"July 1 resident population, from the Vintage 2019 postcensal series released by NCHS on July 9, 2020. The population figures for"
+"year 2018 are bridged-race estimates of the July 1 resident population, from the Vintage 2018 postcensal series released by NCHS"
+"on June 25, 2019. The population figures for year 2017 are bridged-race estimates of the July 1 resident population, from the"
+"Vintage 2017 postcensal series released by NCHS on June 27, 2018. The population figures for year 2016 are bridged-race"
+"estimates of the July 1 resident population, from the Vintage 2016 postcensal series released by NCHS on June 26, 2017. The"
+"population figures for year 2015 are bridged-race estimates of the July 1 resident population, from the Vintage 2015 postcensal"
+"series released by NCHS on June 28, 2016. The population figures for year 2014 are bridged-race estimates of the July 1 resident"
+"population, from the Vintage 2014 postcensal series released by NCHS on June 30, 2015. The population figures for year 2013 are"
+"bridged-race estimates of the July 1 resident population, from the Vintage 2013 postcensal series released by NCHS on June 26,"
+"2014. The population figures for year 2012 are bridged-race estimates of the July 1 resident population, from the Vintage 2012"
+"postcensal series released by NCHS on June 13, 2013. The population figures for year 2011 are bridged-race estimates of the July"
+"1 resident population, from the Vintage 2011 postcensal series released by NCHS on July 18, 2012. Population figures for 2010"
+"are April 1 Census counts. The population figures for years 2001 - 2009 are bridged-race estimates of the July 1 resident"
+"population, from the revised intercensal county-level 2000 - 2009 series released by NCHS on October 26, 2012. Population"
+"figures for 2000 are April 1 Census counts. Population figures for 1999 are from the 1990-1999 intercensal series of July 1"
+"estimates. Population figures for the infant age groups are the number of live births. <br/><b>Note:</b> Rates and population"
+"figures for years 2001 - 2009 differ slightly from previously published reports, due to use of the population estimates which"
+"were available at the time of release."
+"5. The population figures used in the calculation of death rates for the age group 'under 1 year' are the estimates of the"
+"resident population that is under one year of age. More information: http://wonder.cdc.gov/wonder/help/ucd.html#Age Group."

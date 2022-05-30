@@ -1,0 +1,160 @@
+"Notes"	"State"	"State Code"	"Single-Year Ages"	"Single-Year Ages Code"	Deaths	Population	Crude Rate
+	"Georgia"	"13"	"< 1 year"	"0"	2088	313046	667.0
+	"Georgia"	"13"	"1 year"	"1"	131	317983	41.2
+	"Georgia"	"13"	"2 years"	"2"	85	322527	26.4
+	"Georgia"	"13"	"3 years"	"3"	57	326074	17.5
+	"Georgia"	"13"	"4 years"	"4"	70	329860	21.2
+	"Georgia"	"13"	"5 years"	"5"	41	332633	12.3
+	"Georgia"	"13"	"6 years"	"6"	49	333880	14.7
+	"Georgia"	"13"	"7 years"	"7"	45	337586	13.3
+	"Georgia"	"13"	"8 years"	"8"	33	342926	9.6
+	"Georgia"	"13"	"9 years"	"9"	36	347848	10.3
+	"Georgia"	"13"	"10 years"	"10"	39	351684	11.1
+	"Georgia"	"13"	"11 years"	"11"	45	354776	12.7
+	"Georgia"	"13"	"12 years"	"12"	47	357684	13.1
+	"Georgia"	"13"	"13 years"	"13"	53	357056	14.8
+	"Georgia"	"13"	"14 years"	"14"	66	356240	18.5
+	"Georgia"	"13"	"15 years"	"15"	67	356683	18.8
+	"Georgia"	"13"	"16 years"	"16"	102	358495	28.5
+	"Georgia"	"13"	"17 years"	"17"	128	358895	35.7
+	"Georgia"	"13"	"18 years"	"18"	157	354053	44.3
+	"Georgia"	"13"	"19 years"	"19"	146	355398	41.1
+	"Georgia"	"13"	"20 years"	"20"	171	346701	49.3
+	"Georgia"	"13"	"21 years"	"21"	193	347627	55.5
+	"Georgia"	"13"	"22 years"	"22"	185	351426	52.6
+	"Georgia"	"13"	"23 years"	"23"	198	357582	55.4
+	"Georgia"	"13"	"24 years"	"24"	196	365472	53.6
+	"Georgia"	"13"	"25 years"	"25"	233	373588	62.4
+	"Georgia"	"13"	"26 years"	"26"	264	382087	69.1
+	"Georgia"	"13"	"27 years"	"27"	273	382722	71.3
+	"Georgia"	"13"	"28 years"	"28"	301	381807	78.8
+	"Georgia"	"13"	"29 years"	"29"	286	375619	76.1
+	"Georgia"	"13"	"30 years"	"30"	319	369336	86.4
+	"Georgia"	"13"	"31 years"	"31"	342	363005	94.2
+	"Georgia"	"13"	"32 years"	"32"	351	358811	97.8
+	"Georgia"	"13"	"33 years"	"33"	390	358083	108.9
+	"Georgia"	"13"	"34 years"	"34"	397	360391	110.2
+	"Georgia"	"13"	"35 years"	"35"	439	361849	121.3
+	"Georgia"	"13"	"36 years"	"36"	445	363957	122.3
+	"Georgia"	"13"	"37 years"	"37"	523	365050	143.3
+	"Georgia"	"13"	"38 years"	"38"	561	362209	154.9
+	"Georgia"	"13"	"39 years"	"39"	567	358758	158.0
+	"Georgia"	"13"	"40 years"	"40"	613	352831	173.7
+	"Georgia"	"13"	"41 years"	"41"	579	347951	166.4
+	"Georgia"	"13"	"42 years"	"42"	665	346619	191.9
+	"Georgia"	"13"	"43 years"	"43"	700	347802	201.3
+	"Georgia"	"13"	"44 years"	"44"	734	352149	208.4
+	"Georgia"	"13"	"45 years"	"45"	814	362563	224.5
+	"Georgia"	"13"	"46 years"	"46"	946	367665	257.3
+	"Georgia"	"13"	"47 years"	"47"	985	370086	266.2
+	"Georgia"	"13"	"48 years"	"48"	1071	368679	290.5
+	"Georgia"	"13"	"49 years"	"49"	1198	363383	329.7
+	"Georgia"	"13"	"50 years"	"50"	1258	355859	353.5
+	"Georgia"	"13"	"51 years"	"51"	1339	353771	378.5
+	"Georgia"	"13"	"52 years"	"52"	1502	356487	421.3
+	"Georgia"	"13"	"53 years"	"53"	1713	359623	476.3
+	"Georgia"	"13"	"54 years"	"54"	1849	362793	509.7
+	"Georgia"	"13"	"55 years"	"55"	1959	363503	538.9
+	"Georgia"	"13"	"56 years"	"56"	2235	360672	619.7
+	"Georgia"	"13"	"57 years"	"57"	2359	355048	664.4
+	"Georgia"	"13"	"58 years"	"58"	2622	349094	751.1
+	"Georgia"	"13"	"59 years"	"59"	2780	343245	809.9
+	"Georgia"	"13"	"60 years"	"60"	2857	335283	852.1
+	"Georgia"	"13"	"61 years"	"61"	2974	327709	907.5
+	"Georgia"	"13"	"62 years"	"62"	3092	319815	966.8
+	"Georgia"	"13"	"63 years"	"63"	3288	311686	1054.9
+	"Georgia"	"13"	"64 years"	"64"	3269	300685	1087.2
+	"Georgia"	"13"	"65 years"	"65"	3355	291136	1152.4
+	"Georgia"	"13"	"66 years"	"66"	3462	281205	1231.1
+	"Georgia"	"13"	"67 years"	"67"	3637	272663	1333.9
+	"Georgia"	"13"	"68 years"	"68"	3918	265705	1474.6
+	"Georgia"	"13"	"69 years"	"69"	4040	262257	1540.5
+	"Georgia"	"13"	"70 years"	"70"	4216	246217	1712.3
+	"Georgia"	"13"	"71 years"	"71"	4376	230299	1900.1
+	"Georgia"	"13"	"72 years"	"72"	4497	214802	2093.6
+	"Georgia"	"13"	"73 years"	"73"	4585	200659	2285.0
+	"Georgia"	"13"	"74 years"	"74"	4546	180068	2524.6
+	"Georgia"	"13"	"75 years"	"75"	4633	169338	2735.9
+	"Georgia"	"13"	"76 years"	"76"	4830	157179	3072.9
+	"Georgia"	"13"	"77 years"	"77"	4888	145211	3366.1
+	"Georgia"	"13"	"78 years"	"78"	4950	131642	3760.2
+	"Georgia"	"13"	"79 years"	"79"	5010	120384	4161.7
+	"Georgia"	"13"	"80 years"	"80"	5232	111324	4699.8
+	"Georgia"	"13"	"81 years"	"81"	5306	102637	5169.7
+	"Georgia"	"13"	"82 years"	"82"	5421	93462	5800.2
+	"Georgia"	"13"	"83 years"	"83"	5508	85338	6454.3
+	"Georgia"	"13"	"84 years"	"84"	5679	78778	7208.9
+	"Georgia"	"13"	"85 years"	"85"	5880	Not Applicable	Not Applicable
+	"Georgia"	"13"	"86 years"	"86"	5835	Not Applicable	Not Applicable
+	"Georgia"	"13"	"87 years"	"87"	5848	Not Applicable	Not Applicable
+	"Georgia"	"13"	"88 years"	"88"	5886	Not Applicable	Not Applicable
+	"Georgia"	"13"	"89 years"	"89"	5786	Not Applicable	Not Applicable
+	"Georgia"	"13"	"90 years"	"90"	5689	Not Applicable	Not Applicable
+	"Georgia"	"13"	"91 years"	"91"	5350	Not Applicable	Not Applicable
+	"Georgia"	"13"	"92 years"	"92"	4898	Not Applicable	Not Applicable
+	"Georgia"	"13"	"93 years"	"93"	4455	Not Applicable	Not Applicable
+	"Georgia"	"13"	"94 years"	"94"	3933	Not Applicable	Not Applicable
+	"Georgia"	"13"	"95 years"	"95"	3394	Not Applicable	Not Applicable
+	"Georgia"	"13"	"96 years"	"96"	2762	Not Applicable	Not Applicable
+	"Georgia"	"13"	"97 years"	"97"	2186	Not Applicable	Not Applicable
+	"Georgia"	"13"	"98 years"	"98"	1684	Not Applicable	Not Applicable
+	"Georgia"	"13"	"99 years"	"99"	1268	Not Applicable	Not Applicable
+	"Georgia"	"13"	"100+ years"	"100"	2642	Not Applicable	Not Applicable
+"---"
+"Dataset: Underlying Cause of Death, 1999-2020"
+"Query Parameters:"
+"Title: Georgia General F"
+"Gender: Female"
+"States: Georgia (13)"
+"Year/Month: 2016; 2017; 2018; 2019; 2020"
+"Group By: State; Single-Year Ages"
+"Show Totals: Disabled"
+"Show Zero Values: False"
+"Show Suppressed: False"
+"Calculate Rates Per: 100,000"
+"Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/ucd.html for more information."
+"---"
+"Query Date: Apr 8, 2022 1:12:24 AM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. Underlying Cause of Death"
+"1999-2020 on CDC WONDER Online Database, released in 2021. Data are from the Multiple Cause of Death Files, 1999-2020, as"
+"compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative Program. Accessed"
+"at http://wonder.cdc.gov/ucd-icd10.html on Apr 8, 2022 1:12:24 AM"
+"---"
+Messages:
+"1. Totals are not available for these results due to suppression constraints. More Information:"
+"http://wonder.cdc.gov/wonder/help/faq.html#Privacy."
+"2. Rows with suppressed Deaths are hidden. Use Quick Options above to show suppressed rows."
+"---"
+Caveats:
+"1. Population and rates are labeled 'Not Applicable' when they include a subset of ages 85-100+ because populations are not"
+"available for those ages. More information: http://wonder.cdc.gov/wonder/help/ucd.html#Ages 85-100."
+"2. Data are Suppressed when the data meet the criteria for confidentiality constraints. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Assurance of Confidentiality."
+"3. Deaths of persons with Age ""Not Stated"" are included in ""All"" counts and rates, but are not distributed among age groups,"
+"so are not included in age-specific counts, age-specific rates or in any age-adjusted rates. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Not Stated."
+"4. The population figures for year 2020 are bridged-race estimates of the July 1 resident population, from the Vintage 2020"
+"postcensal series released by NCHS on September 22, 2021. The population figures for year 2019 are bridged-race estimates of the"
+"July 1 resident population, from the Vintage 2019 postcensal series released by NCHS on July 9, 2020. The population figures for"
+"year 2018 are bridged-race estimates of the July 1 resident population, from the Vintage 2018 postcensal series released by NCHS"
+"on June 25, 2019. The population figures for year 2017 are bridged-race estimates of the July 1 resident population, from the"
+"Vintage 2017 postcensal series released by NCHS on June 27, 2018. The population figures for year 2016 are bridged-race"
+"estimates of the July 1 resident population, from the Vintage 2016 postcensal series released by NCHS on June 26, 2017. The"
+"population figures for year 2015 are bridged-race estimates of the July 1 resident population, from the Vintage 2015 postcensal"
+"series released by NCHS on June 28, 2016. The population figures for year 2014 are bridged-race estimates of the July 1 resident"
+"population, from the Vintage 2014 postcensal series released by NCHS on June 30, 2015. The population figures for year 2013 are"
+"bridged-race estimates of the July 1 resident population, from the Vintage 2013 postcensal series released by NCHS on June 26,"
+"2014. The population figures for year 2012 are bridged-race estimates of the July 1 resident population, from the Vintage 2012"
+"postcensal series released by NCHS on June 13, 2013. The population figures for year 2011 are bridged-race estimates of the July"
+"1 resident population, from the Vintage 2011 postcensal series released by NCHS on July 18, 2012. Population figures for 2010"
+"are April 1 Census counts. The population figures for years 2001 - 2009 are bridged-race estimates of the July 1 resident"
+"population, from the revised intercensal county-level 2000 - 2009 series released by NCHS on October 26, 2012. Population"
+"figures for 2000 are April 1 Census counts. Population figures for 1999 are from the 1990-1999 intercensal series of July 1"
+"estimates. Population figures for the infant age groups are the number of live births. <br/><b>Note:</b> Rates and population"
+"figures for years 2001 - 2009 differ slightly from previously published reports, due to use of the population estimates which"
+"were available at the time of release."
+"5. The population figures used in the calculation of death rates for the age group 'under 1 year' are the estimates of the"
+"resident population that is under one year of age. More information: http://wonder.cdc.gov/wonder/help/ucd.html#Age Group."

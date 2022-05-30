@@ -1,0 +1,1739 @@
+"Notes"	"State"	"State Code"	"Single-Year Ages"	"Single-Year Ages Code"	"Cause of death"	"Cause of death Code"	Deaths	Population	Crude Rate
+	"Oregon"	"41"	"< 1 year"	"0"	"Newborn affected by incompetent cervix"	"P01.0"	11	109323	Unreliable
+	"Oregon"	"41"	"< 1 year"	"0"	"Newborn affected by premature rupture of membranes"	"P01.1"	18	109323	Unreliable
+	"Oregon"	"41"	"< 1 year"	"0"	"Extreme immaturity"	"P07.2"	43	109323	39.3
+	"Oregon"	"41"	"< 1 year"	"0"	"Other preterm infants"	"P07.3"	12	109323	Unreliable
+	"Oregon"	"41"	"< 1 year"	"0"	"Neonatal cardiac dysrhythmia"	"P29.1"	10	109323	Unreliable
+	"Oregon"	"41"	"< 1 year"	"0"	"Hypoxic ischemic encephalopathy of newborn"	"P91.6"	11	109323	Unreliable
+	"Oregon"	"41"	"< 1 year"	"0"	"Congenital malformation of heart, unspecified"	"Q24.9"	11	109323	Unreliable
+	"Oregon"	"41"	"< 1 year"	"0"	"Edwards syndrome, unspecified"	"Q91.3"	13	109323	Unreliable
+	"Oregon"	"41"	"< 1 year"	"0"	"Sudden infant death syndrome - SIDS"	"R95"	42	109323	38.4
+	"Oregon"	"41"	"< 1 year"	"0"	"Accidental suffocation and strangulation in bed"	"W75"	22	109323	20.1
+	"Oregon"	"41"	"35 years"	"35"	"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X44"	10	146650	Unreliable
+	"Oregon"	"41"	"36 years"	"36"	"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X44"	11	146675	Unreliable
+	"Oregon"	"41"	"37 years"	"37"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	12	145563	Unreliable
+	"Oregon"	"41"	"39 years"	"39"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	13	140695	Unreliable
+	"Oregon"	"41"	"40 years"	"40"	"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X42"	13	137369	Unreliable
+	"Oregon"	"41"	"40 years"	"40"	"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X44"	11	137369	Unreliable
+	"Oregon"	"41"	"41 years"	"41"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	10	133497	Unreliable
+	"Oregon"	"41"	"42 years"	"42"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	15	130456	Unreliable
+	"Oregon"	"41"	"43 years"	"43"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	14	128261	Unreliable
+	"Oregon"	"41"	"44 years"	"44"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	23	126871	18.1
+	"Oregon"	"41"	"44 years"	"44"	"Alcoholic cirrhosis of liver"	"K70.3"	10	126871	Unreliable
+	"Oregon"	"41"	"45 years"	"45"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	20	127713	15.7
+	"Oregon"	"41"	"45 years"	"45"	"Alcoholic cirrhosis of liver"	"K70.3"	11	127713	Unreliable
+	"Oregon"	"41"	"46 years"	"46"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	15	129412	Unreliable
+	"Oregon"	"41"	"46 years"	"46"	"Alcoholic cirrhosis of liver"	"K70.3"	10	129412	Unreliable
+	"Oregon"	"41"	"47 years"	"47"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	11	130811	Unreliable
+	"Oregon"	"41"	"47 years"	"47"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	14	130811	Unreliable
+	"Oregon"	"41"	"47 years"	"47"	"Alcoholic cirrhosis of liver"	"K70.3"	14	130811	Unreliable
+	"Oregon"	"41"	"47 years"	"47"	"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X44"	14	130811	Unreliable
+	"Oregon"	"41"	"48 years"	"48"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	29	130261	22.3
+	"Oregon"	"41"	"48 years"	"48"	"Malignant neoplasm of ovary"	"C56"	11	130261	Unreliable
+	"Oregon"	"41"	"48 years"	"48"	"Alcoholic cirrhosis of liver"	"K70.3"	13	130261	Unreliable
+	"Oregon"	"41"	"48 years"	"48"	"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X44"	11	130261	Unreliable
+	"Oregon"	"41"	"49 years"	"49"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	29	128708	22.5
+	"Oregon"	"41"	"49 years"	"49"	"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X44"	10	128708	Unreliable
+	"Oregon"	"41"	"50 years"	"50"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	20	126221	15.8
+	"Oregon"	"41"	"50 years"	"50"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	30	126221	23.8
+	"Oregon"	"41"	"50 years"	"50"	"Alcoholic cirrhosis of liver"	"K70.3"	21	126221	16.6
+	"Oregon"	"41"	"51 years"	"51"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	24	124001	19.4
+	"Oregon"	"41"	"51 years"	"51"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	28	124001	22.6
+	"Oregon"	"41"	"51 years"	"51"	"Alcoholic cirrhosis of liver"	"K70.3"	12	124001	Unreliable
+	"Oregon"	"41"	"52 years"	"52"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	17	124271	Unreliable
+	"Oregon"	"41"	"52 years"	"52"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	29	124271	23.3
+	"Oregon"	"41"	"52 years"	"52"	"Acute myocardial infarction, unspecified"	"I21.9"	10	124271	Unreliable
+	"Oregon"	"41"	"52 years"	"52"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	16	124271	Unreliable
+	"Oregon"	"41"	"52 years"	"52"	"Alcoholic cirrhosis of liver"	"K70.3"	15	124271	Unreliable
+	"Oregon"	"41"	"53 years"	"53"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	12	126846	Unreliable
+	"Oregon"	"41"	"53 years"	"53"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	31	126846	24.4
+	"Oregon"	"41"	"53 years"	"53"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	31	126846	24.4
+	"Oregon"	"41"	"53 years"	"53"	"Malignant neoplasm of ovary"	"C56"	12	126846	Unreliable
+	"Oregon"	"41"	"53 years"	"53"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	11	126846	Unreliable
+	"Oregon"	"41"	"53 years"	"53"	"Alcoholic cirrhosis of liver"	"K70.3"	27	126846	21.3
+	"Oregon"	"41"	"53 years"	"53"	"Accidental poisoning by and exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic drugs, not elsewhere classified"	"X41"	10	126846	Unreliable
+	"Oregon"	"41"	"54 years"	"54"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	11	129584	Unreliable
+	"Oregon"	"41"	"54 years"	"54"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	28	129584	21.6
+	"Oregon"	"41"	"54 years"	"54"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	35	129584	27.0
+	"Oregon"	"41"	"54 years"	"54"	"Malignant neoplasm of ovary"	"C56"	15	129584	Unreliable
+	"Oregon"	"41"	"54 years"	"54"	"Mental and behavioural disorders due to use of alcohol, dependence syndrome"	"F10.2"	11	129584	Unreliable
+	"Oregon"	"41"	"54 years"	"54"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	25	129584	19.3
+	"Oregon"	"41"	"54 years"	"54"	"Alcoholic cirrhosis of liver"	"K70.3"	27	129584	20.8
+	"Oregon"	"41"	"54 years"	"54"	"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X44"	11	129584	Unreliable
+	"Oregon"	"41"	"55 years"	"55"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	29	133646	21.7
+	"Oregon"	"41"	"55 years"	"55"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	38	133646	28.4
+	"Oregon"	"41"	"55 years"	"55"	"Malignant neoplasm of ovary"	"C56"	16	133646	Unreliable
+	"Oregon"	"41"	"55 years"	"55"	"Acute myocardial infarction, unspecified"	"I21.9"	12	133646	Unreliable
+	"Oregon"	"41"	"55 years"	"55"	"Atherosclerotic heart disease"	"I25.1"	14	133646	Unreliable
+	"Oregon"	"41"	"55 years"	"55"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	21	133646	15.7
+	"Oregon"	"41"	"55 years"	"55"	"Alcoholic cirrhosis of liver"	"K70.3"	24	133646	18.0
+	"Oregon"	"41"	"55 years"	"55"	"Other ill-defined and unspecified causes of mortality"	"R99"	10	133646	Unreliable
+	"Oregon"	"41"	"56 years"	"56"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	10	136688	Unreliable
+	"Oregon"	"41"	"56 years"	"56"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	17	136688	Unreliable
+	"Oregon"	"41"	"56 years"	"56"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	40	136688	29.3
+	"Oregon"	"41"	"56 years"	"56"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	44	136688	32.2
+	"Oregon"	"41"	"56 years"	"56"	"Malignant neoplasm of ovary"	"C56"	12	136688	Unreliable
+	"Oregon"	"41"	"56 years"	"56"	"Malignant neoplasm without specification of site"	"C80"	11	136688	Unreliable
+	"Oregon"	"41"	"56 years"	"56"	"Unspecified diabetes mellitus, without complications"	"E14.9"	10	136688	Unreliable
+	"Oregon"	"41"	"56 years"	"56"	"Essential (primary) hypertension"	"I10"	10	136688	Unreliable
+	"Oregon"	"41"	"56 years"	"56"	"Atherosclerotic heart disease"	"I25.1"	25	136688	18.3
+	"Oregon"	"41"	"56 years"	"56"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	33	136688	24.1
+	"Oregon"	"41"	"56 years"	"56"	"Alcoholic cirrhosis of liver"	"K70.3"	32	136688	23.4
+	"Oregon"	"41"	"57 years"	"57"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	14	139302	Unreliable
+	"Oregon"	"41"	"57 years"	"57"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	24	139302	17.2
+	"Oregon"	"41"	"57 years"	"57"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	63	139302	45.2
+	"Oregon"	"41"	"57 years"	"57"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	37	139302	26.6
+	"Oregon"	"41"	"57 years"	"57"	"Malignant neoplasm of ovary"	"C56"	18	139302	Unreliable
+	"Oregon"	"41"	"57 years"	"57"	"Malignant neoplasm without specification of site"	"C80"	14	139302	Unreliable
+	"Oregon"	"41"	"57 years"	"57"	"Acute myocardial infarction, unspecified"	"I21.9"	18	139302	Unreliable
+	"Oregon"	"41"	"57 years"	"57"	"Atherosclerotic heart disease"	"I25.1"	15	139302	Unreliable
+	"Oregon"	"41"	"57 years"	"57"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	23	139302	16.5
+	"Oregon"	"41"	"57 years"	"57"	"Alcoholic cirrhosis of liver"	"K70.3"	33	139302	23.7
+	"Oregon"	"41"	"57 years"	"57"	"Other ill-defined and unspecified causes of mortality"	"R99"	13	139302	Unreliable
+	"Oregon"	"41"	"57 years"	"57"	"Intentional self-harm by handgun discharge"	"X72"	11	139302	Unreliable
+	"Oregon"	"41"	"58 years"	"58"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	14	140669	Unreliable
+	"Oregon"	"41"	"58 years"	"58"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	21	140669	14.9
+	"Oregon"	"41"	"58 years"	"58"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	54	140669	38.4
+	"Oregon"	"41"	"58 years"	"58"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	35	140669	24.9
+	"Oregon"	"41"	"58 years"	"58"	"Malignant neoplasm of ovary"	"C56"	18	140669	Unreliable
+	"Oregon"	"41"	"58 years"	"58"	"Brain, unspecified - Malignant neoplasms"	"C71.9"	12	140669	Unreliable
+	"Oregon"	"41"	"58 years"	"58"	"Unspecified diabetes mellitus, without complications"	"E14.9"	12	140669	Unreliable
+	"Oregon"	"41"	"58 years"	"58"	"Multiple sclerosis"	"G35"	12	140669	Unreliable
+	"Oregon"	"41"	"58 years"	"58"	"Acute myocardial infarction, unspecified"	"I21.9"	15	140669	Unreliable
+	"Oregon"	"41"	"58 years"	"58"	"Atherosclerotic heart disease"	"I25.1"	15	140669	Unreliable
+	"Oregon"	"41"	"58 years"	"58"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	34	140669	24.2
+	"Oregon"	"41"	"58 years"	"58"	"Alcoholic cirrhosis of liver"	"K70.3"	26	140669	18.5
+	"Oregon"	"41"	"59 years"	"59"	"Septicaemia, unspecified"	"A41.9"	10	141856	Unreliable
+	"Oregon"	"41"	"59 years"	"59"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	14	141856	Unreliable
+	"Oregon"	"41"	"59 years"	"59"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	21	141856	14.8
+	"Oregon"	"41"	"59 years"	"59"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	74	141856	52.2
+	"Oregon"	"41"	"59 years"	"59"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	62	141856	43.7
+	"Oregon"	"41"	"59 years"	"59"	"Malignant neoplasm of ovary"	"C56"	17	141856	Unreliable
+	"Oregon"	"41"	"59 years"	"59"	"Malignant neoplasm without specification of site"	"C80"	17	141856	Unreliable
+	"Oregon"	"41"	"59 years"	"59"	"Mental and behavioural disorders due to use of alcohol, dependence syndrome"	"F10.2"	10	141856	Unreliable
+	"Oregon"	"41"	"59 years"	"59"	"Essential (primary) hypertension"	"I10"	10	141856	Unreliable
+	"Oregon"	"41"	"59 years"	"59"	"Acute myocardial infarction, unspecified"	"I21.9"	21	141856	14.8
+	"Oregon"	"41"	"59 years"	"59"	"Atherosclerotic heart disease"	"I25.1"	28	141856	19.7
+	"Oregon"	"41"	"59 years"	"59"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	33	141856	23.3
+	"Oregon"	"41"	"59 years"	"59"	"Alcoholic cirrhosis of liver"	"K70.3"	27	141856	19.0
+	"Oregon"	"41"	"59 years"	"59"	"Other ill-defined and unspecified causes of mortality"	"R99"	10	141856	Unreliable
+	"Oregon"	"41"	"60 years"	"60"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	17	142347	Unreliable
+	"Oregon"	"41"	"60 years"	"60"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	22	142347	15.5
+	"Oregon"	"41"	"60 years"	"60"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	98	142347	68.8
+	"Oregon"	"41"	"60 years"	"60"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	61	142347	42.9
+	"Oregon"	"41"	"60 years"	"60"	"Endometrium - Malignant neoplasms"	"C54.1"	13	142347	Unreliable
+	"Oregon"	"41"	"60 years"	"60"	"Malignant neoplasm of uterus, part unspecified"	"C55"	11	142347	Unreliable
+	"Oregon"	"41"	"60 years"	"60"	"Malignant neoplasm of ovary"	"C56"	27	142347	19.0
+	"Oregon"	"41"	"60 years"	"60"	"Malignant neoplasm without specification of site"	"C80"	17	142347	Unreliable
+	"Oregon"	"41"	"60 years"	"60"	"Non-insulin-dependent diabetes mellitus, without complications"	"E11.9"	10	142347	Unreliable
+	"Oregon"	"41"	"60 years"	"60"	"Unspecified diabetes mellitus, without complications"	"E14.9"	17	142347	Unreliable
+	"Oregon"	"41"	"60 years"	"60"	"Essential (primary) hypertension"	"I10"	10	142347	Unreliable
+	"Oregon"	"41"	"60 years"	"60"	"Acute myocardial infarction, unspecified"	"I21.9"	16	142347	Unreliable
+	"Oregon"	"41"	"60 years"	"60"	"Atherosclerotic heart disease"	"I25.1"	22	142347	15.5
+	"Oregon"	"41"	"60 years"	"60"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	36	142347	25.3
+	"Oregon"	"41"	"60 years"	"60"	"Alcoholic cirrhosis of liver"	"K70.3"	29	142347	20.4
+	"Oregon"	"41"	"61 years"	"61"	"Chronic viral hepatitis C"	"B18.2"	14	142537	Unreliable
+	"Oregon"	"41"	"61 years"	"61"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	14	142537	Unreliable
+	"Oregon"	"41"	"61 years"	"61"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	25	142537	17.5
+	"Oregon"	"41"	"61 years"	"61"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	83	142537	58.2
+	"Oregon"	"41"	"61 years"	"61"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	59	142537	41.4
+	"Oregon"	"41"	"61 years"	"61"	"Malignant neoplasm of ovary"	"C56"	26	142537	18.2
+	"Oregon"	"41"	"61 years"	"61"	"Malignant neoplasm without specification of site"	"C80"	12	142537	Unreliable
+	"Oregon"	"41"	"61 years"	"61"	"Unspecified diabetes mellitus, without complications"	"E14.9"	15	142537	Unreliable
+	"Oregon"	"41"	"61 years"	"61"	"Other obesity"	"E66.8"	11	142537	Unreliable
+	"Oregon"	"41"	"61 years"	"61"	"Essential (primary) hypertension"	"I10"	10	142537	Unreliable
+	"Oregon"	"41"	"61 years"	"61"	"Acute myocardial infarction, unspecified"	"I21.9"	15	142537	Unreliable
+	"Oregon"	"41"	"61 years"	"61"	"Atherosclerotic heart disease"	"I25.1"	21	142537	14.7
+	"Oregon"	"41"	"61 years"	"61"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	45	142537	31.6
+	"Oregon"	"41"	"61 years"	"61"	"Alcoholic cirrhosis of liver"	"K70.3"	26	142537	18.2
+	"Oregon"	"41"	"61 years"	"61"	"Other ill-defined and unspecified causes of mortality"	"R99"	10	142537	Unreliable
+	"Oregon"	"41"	"62 years"	"62"	"Chronic viral hepatitis C"	"B18.2"	14	143441	Unreliable
+	"Oregon"	"41"	"62 years"	"62"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	23	143441	16.0
+	"Oregon"	"41"	"62 years"	"62"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	26	143441	18.1
+	"Oregon"	"41"	"62 years"	"62"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	80	143441	55.8
+	"Oregon"	"41"	"62 years"	"62"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	60	143441	41.8
+	"Oregon"	"41"	"62 years"	"62"	"Endometrium - Malignant neoplasms"	"C54.1"	19	143441	Unreliable
+	"Oregon"	"41"	"62 years"	"62"	"Malignant neoplasm of ovary"	"C56"	25	143441	17.4
+	"Oregon"	"41"	"62 years"	"62"	"Brain, unspecified - Malignant neoplasms"	"C71.9"	14	143441	Unreliable
+	"Oregon"	"41"	"62 years"	"62"	"Malignant neoplasm without specification of site"	"C80"	24	143441	16.7
+	"Oregon"	"41"	"62 years"	"62"	"Non-insulin-dependent diabetes mellitus, without complications"	"E11.9"	10	143441	Unreliable
+	"Oregon"	"41"	"62 years"	"62"	"Unspecified diabetes mellitus, without complications"	"E14.9"	12	143441	Unreliable
+	"Oregon"	"41"	"62 years"	"62"	"Essential (primary) hypertension"	"I10"	13	143441	Unreliable
+	"Oregon"	"41"	"62 years"	"62"	"Acute myocardial infarction, unspecified"	"I21.9"	15	143441	Unreliable
+	"Oregon"	"41"	"62 years"	"62"	"Atherosclerotic heart disease"	"I25.1"	26	143441	18.1
+	"Oregon"	"41"	"62 years"	"62"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	45	143441	31.4
+	"Oregon"	"41"	"62 years"	"62"	"Alcoholic cirrhosis of liver"	"K70.3"	20	143441	13.9
+	"Oregon"	"41"	"62 years"	"62"	"Other ill-defined and unspecified causes of mortality"	"R99"	18	143441	Unreliable
+	"Oregon"	"41"	"63 years"	"63"	"Septicaemia, unspecified"	"A41.9"	11	143952	Unreliable
+	"Oregon"	"41"	"63 years"	"63"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	15	143952	Unreliable
+	"Oregon"	"41"	"63 years"	"63"	"Liver cell carcinoma - Malignant neoplasms"	"C22.0"	11	143952	Unreliable
+	"Oregon"	"41"	"63 years"	"63"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	43	143952	29.9
+	"Oregon"	"41"	"63 years"	"63"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	114	143952	79.2
+	"Oregon"	"41"	"63 years"	"63"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	90	143952	62.5
+	"Oregon"	"41"	"63 years"	"63"	"Endometrium - Malignant neoplasms"	"C54.1"	15	143952	Unreliable
+	"Oregon"	"41"	"63 years"	"63"	"Malignant neoplasm of ovary"	"C56"	16	143952	Unreliable
+	"Oregon"	"41"	"63 years"	"63"	"Brain, unspecified - Malignant neoplasms"	"C71.9"	17	143952	Unreliable
+	"Oregon"	"41"	"63 years"	"63"	"Malignant neoplasm without specification of site"	"C80"	22	143952	15.3
+	"Oregon"	"41"	"63 years"	"63"	"Non-insulin-dependent diabetes mellitus, without complications"	"E11.9"	14	143952	Unreliable
+	"Oregon"	"41"	"63 years"	"63"	"Other obesity"	"E66.8"	10	143952	Unreliable
+	"Oregon"	"41"	"63 years"	"63"	"Mental and behavioural disorders due to use of alcohol, dependence syndrome"	"F10.2"	10	143952	Unreliable
+	"Oregon"	"41"	"63 years"	"63"	"Multiple sclerosis"	"G35"	12	143952	Unreliable
+	"Oregon"	"41"	"63 years"	"63"	"Essential (primary) hypertension"	"I10"	13	143952	Unreliable
+	"Oregon"	"41"	"63 years"	"63"	"Acute myocardial infarction, unspecified"	"I21.9"	10	143952	Unreliable
+	"Oregon"	"41"	"63 years"	"63"	"Atherosclerotic heart disease"	"I25.1"	32	143952	22.2
+	"Oregon"	"41"	"63 years"	"63"	"Congestive heart failure"	"I50.0"	15	143952	Unreliable
+	"Oregon"	"41"	"63 years"	"63"	"Stroke, not specified as haemorrhage or infarction"	"I64"	10	143952	Unreliable
+	"Oregon"	"41"	"63 years"	"63"	"Chronic obstructive pulmonary disease with acute exacerbation, unspecified"	"J44.1"	12	143952	Unreliable
+	"Oregon"	"41"	"63 years"	"63"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	62	143952	43.1
+	"Oregon"	"41"	"63 years"	"63"	"Alcoholic cirrhosis of liver"	"K70.3"	22	143952	15.3
+	"Oregon"	"41"	"63 years"	"63"	"Chronic kidney disease, stage 5"	"N18.5"	11	143952	Unreliable
+	"Oregon"	"41"	"63 years"	"63"	"COVID-19"	"U07.1"	10	143952	Unreliable
+	"Oregon"	"41"	"64 years"	"64"	"Chronic viral hepatitis C"	"B18.2"	11	142271	Unreliable
+	"Oregon"	"41"	"64 years"	"64"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	20	142271	14.1
+	"Oregon"	"41"	"64 years"	"64"	"Malignant neoplasm of rectum"	"C20"	14	142271	Unreliable
+	"Oregon"	"41"	"64 years"	"64"	"Liver cell carcinoma - Malignant neoplasms"	"C22.0"	10	142271	Unreliable
+	"Oregon"	"41"	"64 years"	"64"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	27	142271	19.0
+	"Oregon"	"41"	"64 years"	"64"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	108	142271	75.9
+	"Oregon"	"41"	"64 years"	"64"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	64	142271	45.0
+	"Oregon"	"41"	"64 years"	"64"	"Endometrium - Malignant neoplasms"	"C54.1"	10	142271	Unreliable
+	"Oregon"	"41"	"64 years"	"64"	"Malignant neoplasm of ovary"	"C56"	33	142271	23.2
+	"Oregon"	"41"	"64 years"	"64"	"Malignant neoplasm without specification of site"	"C80"	24	142271	16.9
+	"Oregon"	"41"	"64 years"	"64"	"Multiple myeloma - Malignant neoplasms"	"C90.0"	10	142271	Unreliable
+	"Oregon"	"41"	"64 years"	"64"	"Non-insulin-dependent diabetes mellitus, with renal complications"	"E11.2"	13	142271	Unreliable
+	"Oregon"	"41"	"64 years"	"64"	"Non-insulin-dependent diabetes mellitus, without complications"	"E11.9"	16	142271	Unreliable
+	"Oregon"	"41"	"64 years"	"64"	"Obesity, unspecified"	"E66.9"	10	142271	Unreliable
+	"Oregon"	"41"	"64 years"	"64"	"Alzheimer disease, unspecified"	"G30.9"	10	142271	Unreliable
+	"Oregon"	"41"	"64 years"	"64"	"Essential (primary) hypertension"	"I10"	18	142271	Unreliable
+	"Oregon"	"41"	"64 years"	"64"	"Acute myocardial infarction, unspecified"	"I21.9"	18	142271	Unreliable
+	"Oregon"	"41"	"64 years"	"64"	"Atherosclerotic heart disease"	"I25.1"	37	142271	26.0
+	"Oregon"	"41"	"64 years"	"64"	"Stroke, not specified as haemorrhage or infarction"	"I64"	18	142271	Unreliable
+	"Oregon"	"41"	"64 years"	"64"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	12	142271	Unreliable
+	"Oregon"	"41"	"64 years"	"64"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	65	142271	45.7
+	"Oregon"	"41"	"64 years"	"64"	"Alcoholic cirrhosis of liver"	"K70.3"	32	142271	22.5
+	"Oregon"	"41"	"65 years"	"65"	"Septicaemia, unspecified"	"A41.9"	12	140098	Unreliable
+	"Oregon"	"41"	"65 years"	"65"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	16	140098	Unreliable
+	"Oregon"	"41"	"65 years"	"65"	"Liver cell carcinoma - Malignant neoplasms"	"C22.0"	15	140098	Unreliable
+	"Oregon"	"41"	"65 years"	"65"	"Intrahepatic bile duct carcinoma - Malignant neoplasms"	"C22.1"	12	140098	Unreliable
+	"Oregon"	"41"	"65 years"	"65"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	40	140098	28.6
+	"Oregon"	"41"	"65 years"	"65"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	109	140098	77.8
+	"Oregon"	"41"	"65 years"	"65"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	72	140098	51.4
+	"Oregon"	"41"	"65 years"	"65"	"Endometrium - Malignant neoplasms"	"C54.1"	15	140098	Unreliable
+	"Oregon"	"41"	"65 years"	"65"	"Malignant neoplasm of uterus, part unspecified"	"C55"	10	140098	Unreliable
+	"Oregon"	"41"	"65 years"	"65"	"Malignant neoplasm of ovary"	"C56"	29	140098	20.7
+	"Oregon"	"41"	"65 years"	"65"	"Malignant neoplasm of kidney, except renal pelvis"	"C64"	12	140098	Unreliable
+	"Oregon"	"41"	"65 years"	"65"	"Brain, unspecified - Malignant neoplasms"	"C71.9"	20	140098	14.3
+	"Oregon"	"41"	"65 years"	"65"	"Malignant neoplasm without specification of site"	"C80"	18	140098	Unreliable
+	"Oregon"	"41"	"65 years"	"65"	"Acute myeloid leukaemia - Malignant neoplasms"	"C92.0"	10	140098	Unreliable
+	"Oregon"	"41"	"65 years"	"65"	"Non-insulin-dependent diabetes mellitus, with renal complications"	"E11.2"	13	140098	Unreliable
+	"Oregon"	"41"	"65 years"	"65"	"Unspecified diabetes mellitus, without complications"	"E14.9"	17	140098	Unreliable
+	"Oregon"	"41"	"65 years"	"65"	"Unspecified dementia"	"F03"	13	140098	Unreliable
+	"Oregon"	"41"	"65 years"	"65"	"Alzheimer disease, unspecified"	"G30.9"	22	140098	15.7
+	"Oregon"	"41"	"65 years"	"65"	"Essential (primary) hypertension"	"I10"	15	140098	Unreliable
+	"Oregon"	"41"	"65 years"	"65"	"Acute myocardial infarction, unspecified"	"I21.9"	23	140098	16.4
+	"Oregon"	"41"	"65 years"	"65"	"Atherosclerotic heart disease"	"I25.1"	36	140098	25.7
+	"Oregon"	"41"	"65 years"	"65"	"Atrial fibrillation and flutter"	"I48"	10	140098	Unreliable
+	"Oregon"	"41"	"65 years"	"65"	"Congestive heart failure"	"I50.0"	10	140098	Unreliable
+	"Oregon"	"41"	"65 years"	"65"	"Stroke, not specified as haemorrhage or infarction"	"I64"	16	140098	Unreliable
+	"Oregon"	"41"	"65 years"	"65"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	70	140098	50.0
+	"Oregon"	"41"	"65 years"	"65"	"Alcoholic cirrhosis of liver"	"K70.3"	22	140098	15.7
+	"Oregon"	"41"	"65 years"	"65"	"Other and unspecified cirrhosis of liver"	"K74.6"	10	140098	Unreliable
+	"Oregon"	"41"	"65 years"	"65"	"COVID-19"	"U07.1"	11	140098	Unreliable
+	"Oregon"	"41"	"65 years"	"65"	"Other fall on same level"	"W18"	10	140098	Unreliable
+	"Oregon"	"41"	"66 years"	"66"	"Septicaemia, unspecified"	"A41.9"	12	137237	Unreliable
+	"Oregon"	"41"	"66 years"	"66"	"Chronic viral hepatitis C"	"B18.2"	17	137237	Unreliable
+	"Oregon"	"41"	"66 years"	"66"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	12	137237	Unreliable
+	"Oregon"	"41"	"66 years"	"66"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	36	137237	26.2
+	"Oregon"	"41"	"66 years"	"66"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	142	137237	103.5
+	"Oregon"	"41"	"66 years"	"66"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	68	137237	49.5
+	"Oregon"	"41"	"66 years"	"66"	"Cervix uteri, unspecified - Malignant neoplasms"	"C53.9"	10	137237	Unreliable
+	"Oregon"	"41"	"66 years"	"66"	"Endometrium - Malignant neoplasms"	"C54.1"	15	137237	Unreliable
+	"Oregon"	"41"	"66 years"	"66"	"Malignant neoplasm of uterus, part unspecified"	"C55"	11	137237	Unreliable
+	"Oregon"	"41"	"66 years"	"66"	"Malignant neoplasm of ovary"	"C56"	39	137237	28.4
+	"Oregon"	"41"	"66 years"	"66"	"Brain, unspecified - Malignant neoplasms"	"C71.9"	14	137237	Unreliable
+	"Oregon"	"41"	"66 years"	"66"	"Malignant neoplasm without specification of site"	"C80"	21	137237	15.3
+	"Oregon"	"41"	"66 years"	"66"	"Multiple myeloma - Malignant neoplasms"	"C90.0"	12	137237	Unreliable
+	"Oregon"	"41"	"66 years"	"66"	"Non-insulin-dependent diabetes mellitus, with renal complications"	"E11.2"	13	137237	Unreliable
+	"Oregon"	"41"	"66 years"	"66"	"Non-insulin-dependent diabetes mellitus, without complications"	"E11.9"	11	137237	Unreliable
+	"Oregon"	"41"	"66 years"	"66"	"Unspecified diabetes mellitus, without complications"	"E14.9"	13	137237	Unreliable
+	"Oregon"	"41"	"66 years"	"66"	"Motor neuron disease"	"G12.2"	12	137237	Unreliable
+	"Oregon"	"41"	"66 years"	"66"	"Alzheimer disease, unspecified"	"G30.9"	16	137237	Unreliable
+	"Oregon"	"41"	"66 years"	"66"	"Essential (primary) hypertension"	"I10"	17	137237	Unreliable
+	"Oregon"	"41"	"66 years"	"66"	"Acute myocardial infarction, unspecified"	"I21.9"	34	137237	24.8
+	"Oregon"	"41"	"66 years"	"66"	"Atherosclerotic heart disease"	"I25.1"	29	137237	21.1
+	"Oregon"	"41"	"66 years"	"66"	"Congestive heart failure"	"I50.0"	10	137237	Unreliable
+	"Oregon"	"41"	"66 years"	"66"	"Stroke, not specified as haemorrhage or infarction"	"I64"	12	137237	Unreliable
+	"Oregon"	"41"	"66 years"	"66"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	82	137237	59.8
+	"Oregon"	"41"	"66 years"	"66"	"Alcoholic cirrhosis of liver"	"K70.3"	18	137237	Unreliable
+	"Oregon"	"41"	"66 years"	"66"	"COVID-19"	"U07.1"	11	137237	Unreliable
+	"Oregon"	"41"	"67 years"	"67"	"Septicaemia, unspecified"	"A41.9"	11	132922	Unreliable
+	"Oregon"	"41"	"67 years"	"67"	"Chronic viral hepatitis C"	"B18.2"	14	132922	Unreliable
+	"Oregon"	"41"	"67 years"	"67"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	22	132922	16.6
+	"Oregon"	"41"	"67 years"	"67"	"Liver cell carcinoma - Malignant neoplasms"	"C22.0"	17	132922	Unreliable
+	"Oregon"	"41"	"67 years"	"67"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	31	132922	23.3
+	"Oregon"	"41"	"67 years"	"67"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	128	132922	96.3
+	"Oregon"	"41"	"67 years"	"67"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	79	132922	59.4
+	"Oregon"	"41"	"67 years"	"67"	"Cervix uteri, unspecified - Malignant neoplasms"	"C53.9"	10	132922	Unreliable
+	"Oregon"	"41"	"67 years"	"67"	"Endometrium - Malignant neoplasms"	"C54.1"	13	132922	Unreliable
+	"Oregon"	"41"	"67 years"	"67"	"Malignant neoplasm of ovary"	"C56"	38	132922	28.6
+	"Oregon"	"41"	"67 years"	"67"	"Brain, unspecified - Malignant neoplasms"	"C71.9"	12	132922	Unreliable
+	"Oregon"	"41"	"67 years"	"67"	"Malignant neoplasm without specification of site"	"C80"	24	132922	18.1
+	"Oregon"	"41"	"67 years"	"67"	"Multiple myeloma - Malignant neoplasms"	"C90.0"	10	132922	Unreliable
+	"Oregon"	"41"	"67 years"	"67"	"Unspecified diabetes mellitus, with renal complications"	"E14.2"	12	132922	Unreliable
+	"Oregon"	"41"	"67 years"	"67"	"Unspecified diabetes mellitus, without complications"	"E14.9"	12	132922	Unreliable
+	"Oregon"	"41"	"67 years"	"67"	"Unspecified dementia"	"F03"	10	132922	Unreliable
+	"Oregon"	"41"	"67 years"	"67"	"Motor neuron disease"	"G12.2"	17	132922	Unreliable
+	"Oregon"	"41"	"67 years"	"67"	"Alzheimer disease, unspecified"	"G30.9"	18	132922	Unreliable
+	"Oregon"	"41"	"67 years"	"67"	"Essential (primary) hypertension"	"I10"	12	132922	Unreliable
+	"Oregon"	"41"	"67 years"	"67"	"Acute myocardial infarction, unspecified"	"I21.9"	31	132922	23.3
+	"Oregon"	"41"	"67 years"	"67"	"Atherosclerotic heart disease"	"I25.1"	38	132922	28.6
+	"Oregon"	"41"	"67 years"	"67"	"Congestive heart failure"	"I50.0"	17	132922	Unreliable
+	"Oregon"	"41"	"67 years"	"67"	"Stroke, not specified as haemorrhage or infarction"	"I64"	16	132922	Unreliable
+	"Oregon"	"41"	"67 years"	"67"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	12	132922	Unreliable
+	"Oregon"	"41"	"67 years"	"67"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	70	132922	52.7
+	"Oregon"	"41"	"67 years"	"67"	"Alcoholic cirrhosis of liver"	"K70.3"	18	132922	Unreliable
+	"Oregon"	"41"	"67 years"	"67"	"Other and unspecified cirrhosis of liver"	"K74.6"	11	132922	Unreliable
+	"Oregon"	"41"	"67 years"	"67"	"Other ill-defined and unspecified causes of mortality"	"R99"	15	132922	Unreliable
+	"Oregon"	"41"	"67 years"	"67"	"Other fall on same level"	"W18"	14	132922	Unreliable
+	"Oregon"	"41"	"68 years"	"68"	"Septicaemia, unspecified"	"A41.9"	14	128456	Unreliable
+	"Oregon"	"41"	"68 years"	"68"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	17	128456	Unreliable
+	"Oregon"	"41"	"68 years"	"68"	"Liver cell carcinoma - Malignant neoplasms"	"C22.0"	13	128456	Unreliable
+	"Oregon"	"41"	"68 years"	"68"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	35	128456	27.2
+	"Oregon"	"41"	"68 years"	"68"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	129	128456	100.4
+	"Oregon"	"41"	"68 years"	"68"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	80	128456	62.3
+	"Oregon"	"41"	"68 years"	"68"	"Endometrium - Malignant neoplasms"	"C54.1"	21	128456	16.3
+	"Oregon"	"41"	"68 years"	"68"	"Malignant neoplasm of ovary"	"C56"	47	128456	36.6
+	"Oregon"	"41"	"68 years"	"68"	"Malignant neoplasm of kidney, except renal pelvis"	"C64"	12	128456	Unreliable
+	"Oregon"	"41"	"68 years"	"68"	"Brain, unspecified - Malignant neoplasms"	"C71.9"	23	128456	17.9
+	"Oregon"	"41"	"68 years"	"68"	"Malignant neoplasm without specification of site"	"C80"	19	128456	Unreliable
+	"Oregon"	"41"	"68 years"	"68"	"Multiple myeloma - Malignant neoplasms"	"C90.0"	10	128456	Unreliable
+	"Oregon"	"41"	"68 years"	"68"	"Non-insulin-dependent diabetes mellitus, with renal complications"	"E11.2"	15	128456	Unreliable
+	"Oregon"	"41"	"68 years"	"68"	"Non-insulin-dependent diabetes mellitus, without complications"	"E11.9"	14	128456	Unreliable
+	"Oregon"	"41"	"68 years"	"68"	"Unspecified diabetes mellitus, with renal complications"	"E14.2"	13	128456	Unreliable
+	"Oregon"	"41"	"68 years"	"68"	"Unspecified diabetes mellitus, without complications"	"E14.9"	15	128456	Unreliable
+	"Oregon"	"41"	"68 years"	"68"	"Unspecified dementia"	"F03"	12	128456	Unreliable
+	"Oregon"	"41"	"68 years"	"68"	"Alzheimer disease, unspecified"	"G30.9"	19	128456	Unreliable
+	"Oregon"	"41"	"68 years"	"68"	"Essential (primary) hypertension"	"I10"	17	128456	Unreliable
+	"Oregon"	"41"	"68 years"	"68"	"Hypertensive renal disease with renal failure"	"I12.0"	10	128456	Unreliable
+	"Oregon"	"41"	"68 years"	"68"	"Acute myocardial infarction, unspecified"	"I21.9"	29	128456	22.6
+	"Oregon"	"41"	"68 years"	"68"	"Atherosclerotic heart disease"	"I25.1"	35	128456	27.2
+	"Oregon"	"41"	"68 years"	"68"	"Atrial fibrillation and flutter"	"I48"	11	128456	Unreliable
+	"Oregon"	"41"	"68 years"	"68"	"Congestive heart failure"	"I50.0"	16	128456	Unreliable
+	"Oregon"	"41"	"68 years"	"68"	"Stroke, not specified as haemorrhage or infarction"	"I64"	19	128456	Unreliable
+	"Oregon"	"41"	"68 years"	"68"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	10	128456	Unreliable
+	"Oregon"	"41"	"68 years"	"68"	"Chronic obstructive pulmonary disease with acute exacerbation, unspecified"	"J44.1"	10	128456	Unreliable
+	"Oregon"	"41"	"68 years"	"68"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	106	128456	82.5
+	"Oregon"	"41"	"68 years"	"68"	"Other ill-defined and unspecified causes of mortality"	"R99"	18	128456	Unreliable
+	"Oregon"	"41"	"68 years"	"68"	"Other fall on same level"	"W18"	10	128456	Unreliable
+	"Oregon"	"41"	"69 years"	"69"	"Septicaemia, unspecified"	"A41.9"	11	126117	Unreliable
+	"Oregon"	"41"	"69 years"	"69"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	18	126117	Unreliable
+	"Oregon"	"41"	"69 years"	"69"	"Intrahepatic bile duct carcinoma - Malignant neoplasms"	"C22.1"	14	126117	Unreliable
+	"Oregon"	"41"	"69 years"	"69"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	56	126117	44.4
+	"Oregon"	"41"	"69 years"	"69"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	138	126117	109.4
+	"Oregon"	"41"	"69 years"	"69"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	81	126117	64.2
+	"Oregon"	"41"	"69 years"	"69"	"Endometrium - Malignant neoplasms"	"C54.1"	19	126117	Unreliable
+	"Oregon"	"41"	"69 years"	"69"	"Malignant neoplasm of ovary"	"C56"	38	126117	30.1
+	"Oregon"	"41"	"69 years"	"69"	"Brain, unspecified - Malignant neoplasms"	"C71.9"	10	126117	Unreliable
+	"Oregon"	"41"	"69 years"	"69"	"Malignant neoplasm without specification of site"	"C80"	23	126117	18.2
+	"Oregon"	"41"	"69 years"	"69"	"Multiple myeloma - Malignant neoplasms"	"C90.0"	14	126117	Unreliable
+	"Oregon"	"41"	"69 years"	"69"	"Non-insulin-dependent diabetes mellitus, with renal complications"	"E11.2"	16	126117	Unreliable
+	"Oregon"	"41"	"69 years"	"69"	"Non-insulin-dependent diabetes mellitus, without complications"	"E11.9"	20	126117	15.9
+	"Oregon"	"41"	"69 years"	"69"	"Unspecified diabetes mellitus, with renal complications"	"E14.2"	19	126117	Unreliable
+	"Oregon"	"41"	"69 years"	"69"	"Unspecified diabetes mellitus, without complications"	"E14.9"	13	126117	Unreliable
+	"Oregon"	"41"	"69 years"	"69"	"Unspecified dementia"	"F03"	18	126117	Unreliable
+	"Oregon"	"41"	"69 years"	"69"	"Motor neuron disease"	"G12.2"	13	126117	Unreliable
+	"Oregon"	"41"	"69 years"	"69"	"Parkinson disease"	"G20"	13	126117	Unreliable
+	"Oregon"	"41"	"69 years"	"69"	"Alzheimer disease, unspecified"	"G30.9"	25	126117	19.8
+	"Oregon"	"41"	"69 years"	"69"	"Multiple sclerosis"	"G35"	12	126117	Unreliable
+	"Oregon"	"41"	"69 years"	"69"	"Essential (primary) hypertension"	"I10"	20	126117	15.9
+	"Oregon"	"41"	"69 years"	"69"	"Acute myocardial infarction, unspecified"	"I21.9"	28	126117	22.2
+	"Oregon"	"41"	"69 years"	"69"	"Atherosclerotic heart disease"	"I25.1"	36	126117	28.5
+	"Oregon"	"41"	"69 years"	"69"	"Atrial fibrillation and flutter"	"I48"	12	126117	Unreliable
+	"Oregon"	"41"	"69 years"	"69"	"Congestive heart failure"	"I50.0"	21	126117	16.7
+	"Oregon"	"41"	"69 years"	"69"	"Stroke, not specified as haemorrhage or infarction"	"I64"	24	126117	19.0
+	"Oregon"	"41"	"69 years"	"69"	"Emphysema, unspecified"	"J43.9"	10	126117	Unreliable
+	"Oregon"	"41"	"69 years"	"69"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	86	126117	68.2
+	"Oregon"	"41"	"69 years"	"69"	"Other interstitial pulmonary diseases with fibrosis"	"J84.1"	11	126117	Unreliable
+	"Oregon"	"41"	"69 years"	"69"	"Alcoholic cirrhosis of liver"	"K70.3"	18	126117	Unreliable
+	"Oregon"	"41"	"69 years"	"69"	"Gastrointestinal haemorrhage, unspecified"	"K92.2"	11	126117	Unreliable
+	"Oregon"	"41"	"69 years"	"69"	"Chronic kidney disease, stage 5"	"N18.5"	11	126117	Unreliable
+	"Oregon"	"41"	"69 years"	"69"	"Urinary tract infection, site not specified"	"N39.0"	10	126117	Unreliable
+	"Oregon"	"41"	"69 years"	"69"	"Other ill-defined and unspecified causes of mortality"	"R99"	10	126117	Unreliable
+	"Oregon"	"41"	"69 years"	"69"	"COVID-19"	"U07.1"	13	126117	Unreliable
+	"Oregon"	"41"	"69 years"	"69"	"Other fall on same level"	"W18"	13	126117	Unreliable
+	"Oregon"	"41"	"70 years"	"70"	"Septicaemia, unspecified"	"A41.9"	10	117843	Unreliable
+	"Oregon"	"41"	"70 years"	"70"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	22	117843	18.7
+	"Oregon"	"41"	"70 years"	"70"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	40	117843	33.9
+	"Oregon"	"41"	"70 years"	"70"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	158	117843	134.1
+	"Oregon"	"41"	"70 years"	"70"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	77	117843	65.3
+	"Oregon"	"41"	"70 years"	"70"	"Endometrium - Malignant neoplasms"	"C54.1"	18	117843	Unreliable
+	"Oregon"	"41"	"70 years"	"70"	"Malignant neoplasm of ovary"	"C56"	34	117843	28.9
+	"Oregon"	"41"	"70 years"	"70"	"Malignant neoplasm of kidney, except renal pelvis"	"C64"	12	117843	Unreliable
+	"Oregon"	"41"	"70 years"	"70"	"Brain, unspecified - Malignant neoplasms"	"C71.9"	13	117843	Unreliable
+	"Oregon"	"41"	"70 years"	"70"	"Malignant neoplasm without specification of site"	"C80"	18	117843	Unreliable
+	"Oregon"	"41"	"70 years"	"70"	"Non-insulin-dependent diabetes mellitus, with renal complications"	"E11.2"	12	117843	Unreliable
+	"Oregon"	"41"	"70 years"	"70"	"Non-insulin-dependent diabetes mellitus, without complications"	"E11.9"	16	117843	Unreliable
+	"Oregon"	"41"	"70 years"	"70"	"Unspecified diabetes mellitus, with renal complications"	"E14.2"	10	117843	Unreliable
+	"Oregon"	"41"	"70 years"	"70"	"Unspecified diabetes mellitus, without complications"	"E14.9"	12	117843	Unreliable
+	"Oregon"	"41"	"70 years"	"70"	"Hyperlipidaemia, unspecified"	"E78.5"	14	117843	Unreliable
+	"Oregon"	"41"	"70 years"	"70"	"Unspecified dementia"	"F03"	22	117843	18.7
+	"Oregon"	"41"	"70 years"	"70"	"Parkinson disease"	"G20"	11	117843	Unreliable
+	"Oregon"	"41"	"70 years"	"70"	"Alzheimer disease, unspecified"	"G30.9"	32	117843	27.2
+	"Oregon"	"41"	"70 years"	"70"	"Multiple sclerosis"	"G35"	11	117843	Unreliable
+	"Oregon"	"41"	"70 years"	"70"	"Essential (primary) hypertension"	"I10"	22	117843	18.7
+	"Oregon"	"41"	"70 years"	"70"	"Acute myocardial infarction, unspecified"	"I21.9"	40	117843	33.9
+	"Oregon"	"41"	"70 years"	"70"	"Atherosclerotic heart disease"	"I25.1"	41	117843	34.8
+	"Oregon"	"41"	"70 years"	"70"	"Cardiomyopathy, unspecified"	"I42.9"	10	117843	Unreliable
+	"Oregon"	"41"	"70 years"	"70"	"Congestive heart failure"	"I50.0"	14	117843	Unreliable
+	"Oregon"	"41"	"70 years"	"70"	"Heart failure, unspecified"	"I50.9"	12	117843	Unreliable
+	"Oregon"	"41"	"70 years"	"70"	"Stroke, not specified as haemorrhage or infarction"	"I64"	22	117843	18.7
+	"Oregon"	"41"	"70 years"	"70"	"Chronic obstructive pulmonary disease with acute exacerbation, unspecified"	"J44.1"	15	117843	Unreliable
+	"Oregon"	"41"	"70 years"	"70"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	104	117843	88.3
+	"Oregon"	"41"	"70 years"	"70"	"Other interstitial pulmonary diseases with fibrosis"	"J84.1"	11	117843	Unreliable
+	"Oregon"	"41"	"70 years"	"70"	"Alcoholic cirrhosis of liver"	"K70.3"	18	117843	Unreliable
+	"Oregon"	"41"	"70 years"	"70"	"Other and unspecified cirrhosis of liver"	"K74.6"	10	117843	Unreliable
+	"Oregon"	"41"	"70 years"	"70"	"Chronic kidney disease, stage 5"	"N18.5"	14	117843	Unreliable
+	"Oregon"	"41"	"70 years"	"70"	"Other ill-defined and unspecified causes of mortality"	"R99"	13	117843	Unreliable
+	"Oregon"	"41"	"70 years"	"70"	"COVID-19"	"U07.1"	15	117843	Unreliable
+	"Oregon"	"41"	"70 years"	"70"	"Other fall on same level"	"W18"	20	117843	17.0
+	"Oregon"	"41"	"71 years"	"71"	"Septicaemia, unspecified"	"A41.9"	14	109949	Unreliable
+	"Oregon"	"41"	"71 years"	"71"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	16	109949	Unreliable
+	"Oregon"	"41"	"71 years"	"71"	"Intrahepatic bile duct carcinoma - Malignant neoplasms"	"C22.1"	14	109949	Unreliable
+	"Oregon"	"41"	"71 years"	"71"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	39	109949	35.5
+	"Oregon"	"41"	"71 years"	"71"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	136	109949	123.7
+	"Oregon"	"41"	"71 years"	"71"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	76	109949	69.1
+	"Oregon"	"41"	"71 years"	"71"	"Endometrium - Malignant neoplasms"	"C54.1"	15	109949	Unreliable
+	"Oregon"	"41"	"71 years"	"71"	"Malignant neoplasm of uterus, part unspecified"	"C55"	17	109949	Unreliable
+	"Oregon"	"41"	"71 years"	"71"	"Malignant neoplasm of ovary"	"C56"	30	109949	27.3
+	"Oregon"	"41"	"71 years"	"71"	"Brain, unspecified - Malignant neoplasms"	"C71.9"	15	109949	Unreliable
+	"Oregon"	"41"	"71 years"	"71"	"Malignant neoplasm without specification of site"	"C80"	29	109949	26.4
+	"Oregon"	"41"	"71 years"	"71"	"Non-insulin-dependent diabetes mellitus, with renal complications"	"E11.2"	14	109949	Unreliable
+	"Oregon"	"41"	"71 years"	"71"	"Non-insulin-dependent diabetes mellitus, without complications"	"E11.9"	12	109949	Unreliable
+	"Oregon"	"41"	"71 years"	"71"	"Unspecified diabetes mellitus, with renal complications"	"E14.2"	12	109949	Unreliable
+	"Oregon"	"41"	"71 years"	"71"	"Unspecified diabetes mellitus, without complications"	"E14.9"	16	109949	Unreliable
+	"Oregon"	"41"	"71 years"	"71"	"Unspecified dementia"	"F03"	26	109949	23.6
+	"Oregon"	"41"	"71 years"	"71"	"Parkinson disease"	"G20"	10	109949	Unreliable
+	"Oregon"	"41"	"71 years"	"71"	"Alzheimer disease, unspecified"	"G30.9"	29	109949	26.4
+	"Oregon"	"41"	"71 years"	"71"	"Multiple sclerosis"	"G35"	11	109949	Unreliable
+	"Oregon"	"41"	"71 years"	"71"	"Essential (primary) hypertension"	"I10"	16	109949	Unreliable
+	"Oregon"	"41"	"71 years"	"71"	"Acute myocardial infarction, unspecified"	"I21.9"	33	109949	30.0
+	"Oregon"	"41"	"71 years"	"71"	"Atherosclerotic heart disease"	"I25.1"	42	109949	38.2
+	"Oregon"	"41"	"71 years"	"71"	"Cardiomyopathy, unspecified"	"I42.9"	11	109949	Unreliable
+	"Oregon"	"41"	"71 years"	"71"	"Atrial fibrillation and flutter"	"I48"	20	109949	18.2
+	"Oregon"	"41"	"71 years"	"71"	"Congestive heart failure"	"I50.0"	12	109949	Unreliable
+	"Oregon"	"41"	"71 years"	"71"	"Intracranial haemorrhage (nontraumatic), unspecified"	"I62.9"	12	109949	Unreliable
+	"Oregon"	"41"	"71 years"	"71"	"Cerebral infarction, unspecified"	"I63.9"	11	109949	Unreliable
+	"Oregon"	"41"	"71 years"	"71"	"Stroke, not specified as haemorrhage or infarction"	"I64"	38	109949	34.6
+	"Oregon"	"41"	"71 years"	"71"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	13	109949	Unreliable
+	"Oregon"	"41"	"71 years"	"71"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	125	109949	113.7
+	"Oregon"	"41"	"71 years"	"71"	"Alcoholic cirrhosis of liver"	"K70.3"	16	109949	Unreliable
+	"Oregon"	"41"	"71 years"	"71"	"Other and unspecified cirrhosis of liver"	"K74.6"	16	109949	Unreliable
+	"Oregon"	"41"	"71 years"	"71"	"Urinary tract infection, site not specified"	"N39.0"	10	109949	Unreliable
+	"Oregon"	"41"	"71 years"	"71"	"Other ill-defined and unspecified causes of mortality"	"R99"	20	109949	18.2
+	"Oregon"	"41"	"71 years"	"71"	"COVID-19"	"U07.1"	11	109949	Unreliable
+	"Oregon"	"41"	"71 years"	"71"	"Other fall on same level"	"W18"	12	109949	Unreliable
+	"Oregon"	"41"	"72 years"	"72"	"Septicaemia, unspecified"	"A41.9"	13	102419	Unreliable
+	"Oregon"	"41"	"72 years"	"72"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	24	102419	23.4
+	"Oregon"	"41"	"72 years"	"72"	"Liver cell carcinoma - Malignant neoplasms"	"C22.0"	11	102419	Unreliable
+	"Oregon"	"41"	"72 years"	"72"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	55	102419	53.7
+	"Oregon"	"41"	"72 years"	"72"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	112	102419	109.4
+	"Oregon"	"41"	"72 years"	"72"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	58	102419	56.6
+	"Oregon"	"41"	"72 years"	"72"	"Endometrium - Malignant neoplasms"	"C54.1"	20	102419	19.5
+	"Oregon"	"41"	"72 years"	"72"	"Malignant neoplasm of ovary"	"C56"	40	102419	39.1
+	"Oregon"	"41"	"72 years"	"72"	"Malignant neoplasm of kidney, except renal pelvis"	"C64"	15	102419	Unreliable
+	"Oregon"	"41"	"72 years"	"72"	"Brain, unspecified - Malignant neoplasms"	"C71.9"	15	102419	Unreliable
+	"Oregon"	"41"	"72 years"	"72"	"Malignant neoplasm without specification of site"	"C80"	24	102419	23.4
+	"Oregon"	"41"	"72 years"	"72"	"Multiple myeloma - Malignant neoplasms"	"C90.0"	13	102419	Unreliable
+	"Oregon"	"41"	"72 years"	"72"	"Acute myeloid leukaemia - Malignant neoplasms"	"C92.0"	16	102419	Unreliable
+	"Oregon"	"41"	"72 years"	"72"	"Non-insulin-dependent diabetes mellitus, with renal complications"	"E11.2"	17	102419	Unreliable
+	"Oregon"	"41"	"72 years"	"72"	"Non-insulin-dependent diabetes mellitus, without complications"	"E11.9"	13	102419	Unreliable
+	"Oregon"	"41"	"72 years"	"72"	"Unspecified diabetes mellitus, with renal complications"	"E14.2"	15	102419	Unreliable
+	"Oregon"	"41"	"72 years"	"72"	"Unspecified diabetes mellitus, without complications"	"E14.9"	16	102419	Unreliable
+	"Oregon"	"41"	"72 years"	"72"	"Vascular dementia, unspecified"	"F01.9"	16	102419	Unreliable
+	"Oregon"	"41"	"72 years"	"72"	"Unspecified dementia"	"F03"	33	102419	32.2
+	"Oregon"	"41"	"72 years"	"72"	"Motor neuron disease"	"G12.2"	10	102419	Unreliable
+	"Oregon"	"41"	"72 years"	"72"	"Parkinson disease"	"G20"	16	102419	Unreliable
+	"Oregon"	"41"	"72 years"	"72"	"Alzheimer disease, unspecified"	"G30.9"	52	102419	50.8
+	"Oregon"	"41"	"72 years"	"72"	"Multiple sclerosis"	"G35"	13	102419	Unreliable
+	"Oregon"	"41"	"72 years"	"72"	"Hypertensive heart disease with (congestive) heart failure"	"I11.0"	10	102419	Unreliable
+	"Oregon"	"41"	"72 years"	"72"	"Acute myocardial infarction, unspecified"	"I21.9"	39	102419	38.1
+	"Oregon"	"41"	"72 years"	"72"	"Atherosclerotic heart disease"	"I25.1"	68	102419	66.4
+	"Oregon"	"41"	"72 years"	"72"	"Atrial fibrillation and flutter"	"I48"	22	102419	21.5
+	"Oregon"	"41"	"72 years"	"72"	"Congestive heart failure"	"I50.0"	26	102419	25.4
+	"Oregon"	"41"	"72 years"	"72"	"Stroke, not specified as haemorrhage or infarction"	"I64"	31	102419	30.3
+	"Oregon"	"41"	"72 years"	"72"	"Sequelae of stroke, not specified as haemorrhage or infarction"	"I69.4"	15	102419	Unreliable
+	"Oregon"	"41"	"72 years"	"72"	"Emphysema, unspecified"	"J43.9"	12	102419	Unreliable
+	"Oregon"	"41"	"72 years"	"72"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	16	102419	Unreliable
+	"Oregon"	"41"	"72 years"	"72"	"Chronic obstructive pulmonary disease with acute exacerbation, unspecified"	"J44.1"	13	102419	Unreliable
+	"Oregon"	"41"	"72 years"	"72"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	105	102419	102.5
+	"Oregon"	"41"	"72 years"	"72"	"Other interstitial pulmonary diseases with fibrosis"	"J84.1"	13	102419	Unreliable
+	"Oregon"	"41"	"72 years"	"72"	"Alcoholic cirrhosis of liver"	"K70.3"	10	102419	Unreliable
+	"Oregon"	"41"	"72 years"	"72"	"Other and unspecified cirrhosis of liver"	"K74.6"	11	102419	Unreliable
+	"Oregon"	"41"	"72 years"	"72"	"Chronic kidney disease, stage 5"	"N18.5"	16	102419	Unreliable
+	"Oregon"	"41"	"72 years"	"72"	"Urinary tract infection, site not specified"	"N39.0"	10	102419	Unreliable
+	"Oregon"	"41"	"72 years"	"72"	"Other ill-defined and unspecified causes of mortality"	"R99"	12	102419	Unreliable
+	"Oregon"	"41"	"72 years"	"72"	"Other fall on same level"	"W18"	13	102419	Unreliable
+	"Oregon"	"41"	"73 years"	"73"	"Septicaemia, unspecified"	"A41.9"	15	95440	Unreliable
+	"Oregon"	"41"	"73 years"	"73"	"Oesophagus, unspecified - Malignant neoplasms"	"C15.9"	11	95440	Unreliable
+	"Oregon"	"41"	"73 years"	"73"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	20	95440	21.0
+	"Oregon"	"41"	"73 years"	"73"	"Malignant neoplasm of rectum"	"C20"	10	95440	Unreliable
+	"Oregon"	"41"	"73 years"	"73"	"Liver cell carcinoma - Malignant neoplasms"	"C22.0"	14	95440	Unreliable
+	"Oregon"	"41"	"73 years"	"73"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	50	95440	52.4
+	"Oregon"	"41"	"73 years"	"73"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	177	95440	185.5
+	"Oregon"	"41"	"73 years"	"73"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	66	95440	69.2
+	"Oregon"	"41"	"73 years"	"73"	"Endometrium - Malignant neoplasms"	"C54.1"	15	95440	Unreliable
+	"Oregon"	"41"	"73 years"	"73"	"Malignant neoplasm of uterus, part unspecified"	"C55"	12	95440	Unreliable
+	"Oregon"	"41"	"73 years"	"73"	"Malignant neoplasm of ovary"	"C56"	37	95440	38.8
+	"Oregon"	"41"	"73 years"	"73"	"Malignant neoplasm of kidney, except renal pelvis"	"C64"	13	95440	Unreliable
+	"Oregon"	"41"	"73 years"	"73"	"Bladder, unspecified - Malignant neoplasms"	"C67.9"	10	95440	Unreliable
+	"Oregon"	"41"	"73 years"	"73"	"Brain, unspecified - Malignant neoplasms"	"C71.9"	10	95440	Unreliable
+	"Oregon"	"41"	"73 years"	"73"	"Malignant neoplasm without specification of site"	"C80"	23	95440	24.1
+	"Oregon"	"41"	"73 years"	"73"	"Multiple myeloma - Malignant neoplasms"	"C90.0"	11	95440	Unreliable
+	"Oregon"	"41"	"73 years"	"73"	"Non-insulin-dependent diabetes mellitus, with renal complications"	"E11.2"	16	95440	Unreliable
+	"Oregon"	"41"	"73 years"	"73"	"Non-insulin-dependent diabetes mellitus, without complications"	"E11.9"	13	95440	Unreliable
+	"Oregon"	"41"	"73 years"	"73"	"Unspecified diabetes mellitus, with renal complications"	"E14.2"	12	95440	Unreliable
+	"Oregon"	"41"	"73 years"	"73"	"Unspecified diabetes mellitus, without complications"	"E14.9"	15	95440	Unreliable
+	"Oregon"	"41"	"73 years"	"73"	"Vascular dementia, unspecified"	"F01.9"	11	95440	Unreliable
+	"Oregon"	"41"	"73 years"	"73"	"Unspecified dementia"	"F03"	39	95440	40.9
+	"Oregon"	"41"	"73 years"	"73"	"Motor neuron disease"	"G12.2"	10	95440	Unreliable
+	"Oregon"	"41"	"73 years"	"73"	"Parkinson disease"	"G20"	16	95440	Unreliable
+	"Oregon"	"41"	"73 years"	"73"	"Alzheimer disease, unspecified"	"G30.9"	42	95440	44.0
+	"Oregon"	"41"	"73 years"	"73"	"Multiple sclerosis"	"G35"	14	95440	Unreliable
+	"Oregon"	"41"	"73 years"	"73"	"Essential (primary) hypertension"	"I10"	20	95440	21.0
+	"Oregon"	"41"	"73 years"	"73"	"Acute subendocardial myocardial infarction"	"I21.4"	10	95440	Unreliable
+	"Oregon"	"41"	"73 years"	"73"	"Acute myocardial infarction, unspecified"	"I21.9"	43	95440	45.1
+	"Oregon"	"41"	"73 years"	"73"	"Atherosclerotic heart disease"	"I25.1"	62	95440	65.0
+	"Oregon"	"41"	"73 years"	"73"	"Aortic (valve) stenosis"	"I35.0"	14	95440	Unreliable
+	"Oregon"	"41"	"73 years"	"73"	"Atrial fibrillation and flutter"	"I48"	16	95440	Unreliable
+	"Oregon"	"41"	"73 years"	"73"	"Congestive heart failure"	"I50.0"	31	95440	32.5
+	"Oregon"	"41"	"73 years"	"73"	"Heart failure, unspecified"	"I50.9"	17	95440	Unreliable
+	"Oregon"	"41"	"73 years"	"73"	"Intracerebral haemorrhage, unspecified"	"I61.9"	10	95440	Unreliable
+	"Oregon"	"41"	"73 years"	"73"	"Cerebral infarction, unspecified"	"I63.9"	11	95440	Unreliable
+	"Oregon"	"41"	"73 years"	"73"	"Stroke, not specified as haemorrhage or infarction"	"I64"	39	95440	40.9
+	"Oregon"	"41"	"73 years"	"73"	"Sequelae of stroke, not specified as haemorrhage or infarction"	"I69.4"	13	95440	Unreliable
+	"Oregon"	"41"	"73 years"	"73"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	22	95440	23.1
+	"Oregon"	"41"	"73 years"	"73"	"Chronic obstructive pulmonary disease with acute exacerbation, unspecified"	"J44.1"	11	95440	Unreliable
+	"Oregon"	"41"	"73 years"	"73"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	117	95440	122.6
+	"Oregon"	"41"	"73 years"	"73"	"Other interstitial pulmonary diseases with fibrosis"	"J84.1"	14	95440	Unreliable
+	"Oregon"	"41"	"73 years"	"73"	"Interstitial pulmonary disease, unspecified"	"J84.9"	10	95440	Unreliable
+	"Oregon"	"41"	"73 years"	"73"	"Alcoholic cirrhosis of liver"	"K70.3"	11	95440	Unreliable
+	"Oregon"	"41"	"73 years"	"73"	"Other and unspecified cirrhosis of liver"	"K74.6"	10	95440	Unreliable
+	"Oregon"	"41"	"73 years"	"73"	"Chronic kidney disease, stage 5"	"N18.5"	16	95440	Unreliable
+	"Oregon"	"41"	"73 years"	"73"	"Urinary tract infection, site not specified"	"N39.0"	13	95440	Unreliable
+	"Oregon"	"41"	"73 years"	"73"	"Other ill-defined and unspecified causes of mortality"	"R99"	15	95440	Unreliable
+	"Oregon"	"41"	"73 years"	"73"	"COVID-19"	"U07.1"	16	95440	Unreliable
+	"Oregon"	"41"	"73 years"	"73"	"Other fall on same level"	"W18"	23	95440	24.1
+	"Oregon"	"41"	"74 years"	"74"	"Septicaemia, unspecified"	"A41.9"	11	85014	Unreliable
+	"Oregon"	"41"	"74 years"	"74"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	24	85014	28.2
+	"Oregon"	"41"	"74 years"	"74"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	53	85014	62.3
+	"Oregon"	"41"	"74 years"	"74"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	170	85014	200.0
+	"Oregon"	"41"	"74 years"	"74"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	62	85014	72.9
+	"Oregon"	"41"	"74 years"	"74"	"Endometrium - Malignant neoplasms"	"C54.1"	10	85014	Unreliable
+	"Oregon"	"41"	"74 years"	"74"	"Malignant neoplasm of uterus, part unspecified"	"C55"	10	85014	Unreliable
+	"Oregon"	"41"	"74 years"	"74"	"Malignant neoplasm of ovary"	"C56"	25	85014	29.4
+	"Oregon"	"41"	"74 years"	"74"	"Bladder, unspecified - Malignant neoplasms"	"C67.9"	10	85014	Unreliable
+	"Oregon"	"41"	"74 years"	"74"	"Brain, unspecified - Malignant neoplasms"	"C71.9"	12	85014	Unreliable
+	"Oregon"	"41"	"74 years"	"74"	"Malignant neoplasm without specification of site"	"C80"	19	85014	Unreliable
+	"Oregon"	"41"	"74 years"	"74"	"Multiple myeloma - Malignant neoplasms"	"C90.0"	13	85014	Unreliable
+	"Oregon"	"41"	"74 years"	"74"	"Acute myeloid leukaemia - Malignant neoplasms"	"C92.0"	11	85014	Unreliable
+	"Oregon"	"41"	"74 years"	"74"	"Non-insulin-dependent diabetes mellitus, with renal complications"	"E11.2"	22	85014	25.9
+	"Oregon"	"41"	"74 years"	"74"	"Unspecified diabetes mellitus, with renal complications"	"E14.2"	14	85014	Unreliable
+	"Oregon"	"41"	"74 years"	"74"	"Unspecified diabetes mellitus, without complications"	"E14.9"	11	85014	Unreliable
+	"Oregon"	"41"	"74 years"	"74"	"Vascular dementia, unspecified"	"F01.9"	13	85014	Unreliable
+	"Oregon"	"41"	"74 years"	"74"	"Unspecified dementia"	"F03"	50	85014	58.8
+	"Oregon"	"41"	"74 years"	"74"	"Parkinson disease"	"G20"	29	85014	34.1
+	"Oregon"	"41"	"74 years"	"74"	"Alzheimer disease, unspecified"	"G30.9"	70	85014	82.3
+	"Oregon"	"41"	"74 years"	"74"	"Essential (primary) hypertension"	"I10"	17	85014	Unreliable
+	"Oregon"	"41"	"74 years"	"74"	"Hypertensive heart disease with (congestive) heart failure"	"I11.0"	11	85014	Unreliable
+	"Oregon"	"41"	"74 years"	"74"	"Acute myocardial infarction, unspecified"	"I21.9"	51	85014	60.0
+	"Oregon"	"41"	"74 years"	"74"	"Atherosclerotic heart disease"	"I25.1"	46	85014	54.1
+	"Oregon"	"41"	"74 years"	"74"	"Aortic (valve) stenosis"	"I35.0"	13	85014	Unreliable
+	"Oregon"	"41"	"74 years"	"74"	"Atrial fibrillation and flutter"	"I48"	19	85014	Unreliable
+	"Oregon"	"41"	"74 years"	"74"	"Congestive heart failure"	"I50.0"	21	85014	24.7
+	"Oregon"	"41"	"74 years"	"74"	"Heart failure, unspecified"	"I50.9"	11	85014	Unreliable
+	"Oregon"	"41"	"74 years"	"74"	"Intracerebral haemorrhage, unspecified"	"I61.9"	10	85014	Unreliable
+	"Oregon"	"41"	"74 years"	"74"	"Cerebral infarction, unspecified"	"I63.9"	10	85014	Unreliable
+	"Oregon"	"41"	"74 years"	"74"	"Stroke, not specified as haemorrhage or infarction"	"I64"	38	85014	44.7
+	"Oregon"	"41"	"74 years"	"74"	"Emphysema, unspecified"	"J43.9"	12	85014	Unreliable
+	"Oregon"	"41"	"74 years"	"74"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	17	85014	Unreliable
+	"Oregon"	"41"	"74 years"	"74"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	133	85014	156.4
+	"Oregon"	"41"	"74 years"	"74"	"Other interstitial pulmonary diseases with fibrosis"	"J84.1"	11	85014	Unreliable
+	"Oregon"	"41"	"74 years"	"74"	"Fatty (change of) liver, not elsewhere classified"	"K76.0"	11	85014	Unreliable
+	"Oregon"	"41"	"74 years"	"74"	"Chronic kidney disease, stage 5"	"N18.5"	16	85014	Unreliable
+	"Oregon"	"41"	"74 years"	"74"	"Urinary tract infection, site not specified"	"N39.0"	11	85014	Unreliable
+	"Oregon"	"41"	"74 years"	"74"	"Other ill-defined and unspecified causes of mortality"	"R99"	11	85014	Unreliable
+	"Oregon"	"41"	"74 years"	"74"	"COVID-19"	"U07.1"	12	85014	Unreliable
+	"Oregon"	"41"	"74 years"	"74"	"Other fall on same level"	"W18"	24	85014	28.2
+	"Oregon"	"41"	"75 years"	"75"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	28	80002	35.0
+	"Oregon"	"41"	"75 years"	"75"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	47	80002	58.7
+	"Oregon"	"41"	"75 years"	"75"	"Upper lobe, bronchus or lung - Malignant neoplasms"	"C34.1"	10	80002	Unreliable
+	"Oregon"	"41"	"75 years"	"75"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	148	80002	185.0
+	"Oregon"	"41"	"75 years"	"75"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	62	80002	77.5
+	"Oregon"	"41"	"75 years"	"75"	"Endometrium - Malignant neoplasms"	"C54.1"	10	80002	Unreliable
+	"Oregon"	"41"	"75 years"	"75"	"Malignant neoplasm of ovary"	"C56"	21	80002	26.2
+	"Oregon"	"41"	"75 years"	"75"	"Bladder, unspecified - Malignant neoplasms"	"C67.9"	12	80002	Unreliable
+	"Oregon"	"41"	"75 years"	"75"	"Brain, unspecified - Malignant neoplasms"	"C71.9"	10	80002	Unreliable
+	"Oregon"	"41"	"75 years"	"75"	"Malignant neoplasm without specification of site"	"C80"	18	80002	Unreliable
+	"Oregon"	"41"	"75 years"	"75"	"Acute myeloid leukaemia - Malignant neoplasms"	"C92.0"	11	80002	Unreliable
+	"Oregon"	"41"	"75 years"	"75"	"Non-insulin-dependent diabetes mellitus, with renal complications"	"E11.2"	14	80002	Unreliable
+	"Oregon"	"41"	"75 years"	"75"	"Non-insulin-dependent diabetes mellitus, without complications"	"E11.9"	10	80002	Unreliable
+	"Oregon"	"41"	"75 years"	"75"	"Unspecified diabetes mellitus, with renal complications"	"E14.2"	11	80002	Unreliable
+	"Oregon"	"41"	"75 years"	"75"	"Unspecified diabetes mellitus, without complications"	"E14.9"	16	80002	Unreliable
+	"Oregon"	"41"	"75 years"	"75"	"Vascular dementia, unspecified"	"F01.9"	15	80002	Unreliable
+	"Oregon"	"41"	"75 years"	"75"	"Unspecified dementia"	"F03"	46	80002	57.5
+	"Oregon"	"41"	"75 years"	"75"	"Motor neuron disease"	"G12.2"	12	80002	Unreliable
+	"Oregon"	"41"	"75 years"	"75"	"Parkinson disease"	"G20"	28	80002	35.0
+	"Oregon"	"41"	"75 years"	"75"	"Alzheimer disease, unspecified"	"G30.9"	79	80002	98.7
+	"Oregon"	"41"	"75 years"	"75"	"Essential (primary) hypertension"	"I10"	13	80002	Unreliable
+	"Oregon"	"41"	"75 years"	"75"	"Hypertensive heart disease with (congestive) heart failure"	"I11.0"	13	80002	Unreliable
+	"Oregon"	"41"	"75 years"	"75"	"Hypertensive renal disease with renal failure"	"I12.0"	10	80002	Unreliable
+	"Oregon"	"41"	"75 years"	"75"	"Acute myocardial infarction, unspecified"	"I21.9"	30	80002	37.5
+	"Oregon"	"41"	"75 years"	"75"	"Atherosclerotic heart disease"	"I25.1"	65	80002	81.2
+	"Oregon"	"41"	"75 years"	"75"	"Other secondary pulmonary hypertension"	"I27.2"	11	80002	Unreliable
+	"Oregon"	"41"	"75 years"	"75"	"Aortic (valve) stenosis"	"I35.0"	10	80002	Unreliable
+	"Oregon"	"41"	"75 years"	"75"	"Atrial fibrillation and flutter"	"I48"	27	80002	33.7
+	"Oregon"	"41"	"75 years"	"75"	"Congestive heart failure"	"I50.0"	24	80002	30.0
+	"Oregon"	"41"	"75 years"	"75"	"Heart failure, unspecified"	"I50.9"	13	80002	Unreliable
+	"Oregon"	"41"	"75 years"	"75"	"Intracerebral haemorrhage, unspecified"	"I61.9"	12	80002	Unreliable
+	"Oregon"	"41"	"75 years"	"75"	"Cerebral infarction, unspecified"	"I63.9"	11	80002	Unreliable
+	"Oregon"	"41"	"75 years"	"75"	"Stroke, not specified as haemorrhage or infarction"	"I64"	38	80002	47.5
+	"Oregon"	"41"	"75 years"	"75"	"Pneumonia, unspecified"	"J18.9"	14	80002	Unreliable
+	"Oregon"	"41"	"75 years"	"75"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	24	80002	30.0
+	"Oregon"	"41"	"75 years"	"75"	"Chronic obstructive pulmonary disease with acute exacerbation, unspecified"	"J44.1"	15	80002	Unreliable
+	"Oregon"	"41"	"75 years"	"75"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	150	80002	187.5
+	"Oregon"	"41"	"75 years"	"75"	"Other interstitial pulmonary diseases with fibrosis"	"J84.1"	11	80002	Unreliable
+	"Oregon"	"41"	"75 years"	"75"	"Interstitial pulmonary disease, unspecified"	"J84.9"	10	80002	Unreliable
+	"Oregon"	"41"	"75 years"	"75"	"Urinary tract infection, site not specified"	"N39.0"	10	80002	Unreliable
+	"Oregon"	"41"	"75 years"	"75"	"Other ill-defined and unspecified causes of mortality"	"R99"	16	80002	Unreliable
+	"Oregon"	"41"	"75 years"	"75"	"COVID-19"	"U07.1"	16	80002	Unreliable
+	"Oregon"	"41"	"75 years"	"75"	"Other fall on same level"	"W18"	23	80002	28.7
+	"Oregon"	"41"	"76 years"	"76"	"Septicaemia, unspecified"	"A41.9"	16	74100	Unreliable
+	"Oregon"	"41"	"76 years"	"76"	"Oesophagus, unspecified - Malignant neoplasms"	"C15.9"	10	74100	Unreliable
+	"Oregon"	"41"	"76 years"	"76"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	25	74100	33.7
+	"Oregon"	"41"	"76 years"	"76"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	56	74100	75.6
+	"Oregon"	"41"	"76 years"	"76"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	147	74100	198.4
+	"Oregon"	"41"	"76 years"	"76"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	60	74100	81.0
+	"Oregon"	"41"	"76 years"	"76"	"Endometrium - Malignant neoplasms"	"C54.1"	14	74100	Unreliable
+	"Oregon"	"41"	"76 years"	"76"	"Malignant neoplasm of ovary"	"C56"	23	74100	31.0
+	"Oregon"	"41"	"76 years"	"76"	"Malignant neoplasm without specification of site"	"C80"	19	74100	Unreliable
+	"Oregon"	"41"	"76 years"	"76"	"Multiple myeloma - Malignant neoplasms"	"C90.0"	17	74100	Unreliable
+	"Oregon"	"41"	"76 years"	"76"	"Acute myeloid leukaemia - Malignant neoplasms"	"C92.0"	11	74100	Unreliable
+	"Oregon"	"41"	"76 years"	"76"	"Non-insulin-dependent diabetes mellitus, with renal complications"	"E11.2"	13	74100	Unreliable
+	"Oregon"	"41"	"76 years"	"76"	"Non-insulin-dependent diabetes mellitus, without complications"	"E11.9"	15	74100	Unreliable
+	"Oregon"	"41"	"76 years"	"76"	"Unspecified diabetes mellitus, with renal complications"	"E14.2"	14	74100	Unreliable
+	"Oregon"	"41"	"76 years"	"76"	"Unspecified diabetes mellitus, without complications"	"E14.9"	17	74100	Unreliable
+	"Oregon"	"41"	"76 years"	"76"	"Vascular dementia, unspecified"	"F01.9"	23	74100	31.0
+	"Oregon"	"41"	"76 years"	"76"	"Unspecified dementia"	"F03"	78	74100	105.3
+	"Oregon"	"41"	"76 years"	"76"	"Parkinson disease"	"G20"	30	74100	40.5
+	"Oregon"	"41"	"76 years"	"76"	"Alzheimer disease, unspecified"	"G30.9"	84	74100	113.4
+	"Oregon"	"41"	"76 years"	"76"	"Other specified degenerative diseases of nervous system"	"G31.8"	11	74100	Unreliable
+	"Oregon"	"41"	"76 years"	"76"	"Multiple sclerosis"	"G35"	11	74100	Unreliable
+	"Oregon"	"41"	"76 years"	"76"	"Essential (primary) hypertension"	"I10"	16	74100	Unreliable
+	"Oregon"	"41"	"76 years"	"76"	"Hypertensive renal disease with renal failure"	"I12.0"	12	74100	Unreliable
+	"Oregon"	"41"	"76 years"	"76"	"Acute myocardial infarction, unspecified"	"I21.9"	36	74100	48.6
+	"Oregon"	"41"	"76 years"	"76"	"Atherosclerotic heart disease"	"I25.1"	70	74100	94.5
+	"Oregon"	"41"	"76 years"	"76"	"Aortic (valve) stenosis"	"I35.0"	20	74100	27.0
+	"Oregon"	"41"	"76 years"	"76"	"Atrial fibrillation and flutter"	"I48"	23	74100	31.0
+	"Oregon"	"41"	"76 years"	"76"	"Congestive heart failure"	"I50.0"	23	74100	31.0
+	"Oregon"	"41"	"76 years"	"76"	"Intracerebral haemorrhage, unspecified"	"I61.9"	12	74100	Unreliable
+	"Oregon"	"41"	"76 years"	"76"	"Stroke, not specified as haemorrhage or infarction"	"I64"	52	74100	70.2
+	"Oregon"	"41"	"76 years"	"76"	"Sequelae of stroke, not specified as haemorrhage or infarction"	"I69.4"	10	74100	Unreliable
+	"Oregon"	"41"	"76 years"	"76"	"Emphysema, unspecified"	"J43.9"	16	74100	Unreliable
+	"Oregon"	"41"	"76 years"	"76"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	16	74100	Unreliable
+	"Oregon"	"41"	"76 years"	"76"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	140	74100	188.9
+	"Oregon"	"41"	"76 years"	"76"	"Other interstitial pulmonary diseases with fibrosis"	"J84.1"	15	74100	Unreliable
+	"Oregon"	"41"	"76 years"	"76"	"Urinary tract infection, site not specified"	"N39.0"	10	74100	Unreliable
+	"Oregon"	"41"	"76 years"	"76"	"Other ill-defined and unspecified causes of mortality"	"R99"	17	74100	Unreliable
+	"Oregon"	"41"	"76 years"	"76"	"COVID-19"	"U07.1"	13	74100	Unreliable
+	"Oregon"	"41"	"76 years"	"76"	"Other fall on same level"	"W18"	16	74100	Unreliable
+	"Oregon"	"41"	"77 years"	"77"	"Septicaemia, unspecified"	"A41.9"	16	67977	Unreliable
+	"Oregon"	"41"	"77 years"	"77"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	30	67977	44.1
+	"Oregon"	"41"	"77 years"	"77"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	38	67977	55.9
+	"Oregon"	"41"	"77 years"	"77"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	122	67977	179.5
+	"Oregon"	"41"	"77 years"	"77"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	66	67977	97.1
+	"Oregon"	"41"	"77 years"	"77"	"Malignant neoplasm of ovary"	"C56"	37	67977	54.4
+	"Oregon"	"41"	"77 years"	"77"	"Malignant neoplasm of kidney, except renal pelvis"	"C64"	11	67977	Unreliable
+	"Oregon"	"41"	"77 years"	"77"	"Bladder, unspecified - Malignant neoplasms"	"C67.9"	12	67977	Unreliable
+	"Oregon"	"41"	"77 years"	"77"	"Malignant neoplasm without specification of site"	"C80"	25	67977	36.8
+	"Oregon"	"41"	"77 years"	"77"	"Multiple myeloma - Malignant neoplasms"	"C90.0"	17	67977	Unreliable
+	"Oregon"	"41"	"77 years"	"77"	"Non-insulin-dependent diabetes mellitus, with renal complications"	"E11.2"	16	67977	Unreliable
+	"Oregon"	"41"	"77 years"	"77"	"Non-insulin-dependent diabetes mellitus, without complications"	"E11.9"	15	67977	Unreliable
+	"Oregon"	"41"	"77 years"	"77"	"Unspecified diabetes mellitus, with renal complications"	"E14.2"	14	67977	Unreliable
+	"Oregon"	"41"	"77 years"	"77"	"Unspecified diabetes mellitus, without complications"	"E14.9"	18	67977	Unreliable
+	"Oregon"	"41"	"77 years"	"77"	"Hyperlipidaemia, unspecified"	"E78.5"	11	67977	Unreliable
+	"Oregon"	"41"	"77 years"	"77"	"Vascular dementia, unspecified"	"F01.9"	16	67977	Unreliable
+	"Oregon"	"41"	"77 years"	"77"	"Unspecified dementia"	"F03"	72	67977	105.9
+	"Oregon"	"41"	"77 years"	"77"	"Motor neuron disease"	"G12.2"	13	67977	Unreliable
+	"Oregon"	"41"	"77 years"	"77"	"Parkinson disease"	"G20"	27	67977	39.7
+	"Oregon"	"41"	"77 years"	"77"	"Alzheimer disease, unspecified"	"G30.9"	112	67977	164.8
+	"Oregon"	"41"	"77 years"	"77"	"Senile degeneration of brain, not elsewhere classified"	"G31.1"	15	67977	Unreliable
+	"Oregon"	"41"	"77 years"	"77"	"Essential (primary) hypertension"	"I10"	23	67977	33.8
+	"Oregon"	"41"	"77 years"	"77"	"Hypertensive heart disease with (congestive) heart failure"	"I11.0"	10	67977	Unreliable
+	"Oregon"	"41"	"77 years"	"77"	"Hypertensive renal disease with renal failure"	"I12.0"	10	67977	Unreliable
+	"Oregon"	"41"	"77 years"	"77"	"Acute myocardial infarction, unspecified"	"I21.9"	39	67977	57.4
+	"Oregon"	"41"	"77 years"	"77"	"Atherosclerotic heart disease"	"I25.1"	65	67977	95.6
+	"Oregon"	"41"	"77 years"	"77"	"Pulmonary embolism without mention of acute cor pulmonale"	"I26.9"	10	67977	Unreliable
+	"Oregon"	"41"	"77 years"	"77"	"Other secondary pulmonary hypertension"	"I27.2"	10	67977	Unreliable
+	"Oregon"	"41"	"77 years"	"77"	"Aortic (valve) stenosis"	"I35.0"	17	67977	Unreliable
+	"Oregon"	"41"	"77 years"	"77"	"Atrial fibrillation and flutter"	"I48"	21	67977	30.9
+	"Oregon"	"41"	"77 years"	"77"	"Congestive heart failure"	"I50.0"	26	67977	38.2
+	"Oregon"	"41"	"77 years"	"77"	"Heart failure, unspecified"	"I50.9"	20	67977	29.4
+	"Oregon"	"41"	"77 years"	"77"	"Intracerebral haemorrhage, unspecified"	"I61.9"	14	67977	Unreliable
+	"Oregon"	"41"	"77 years"	"77"	"Cerebral infarction, unspecified"	"I63.9"	11	67977	Unreliable
+	"Oregon"	"41"	"77 years"	"77"	"Stroke, not specified as haemorrhage or infarction"	"I64"	43	67977	63.3
+	"Oregon"	"41"	"77 years"	"77"	"Sequelae of stroke, not specified as haemorrhage or infarction"	"I69.4"	15	67977	Unreliable
+	"Oregon"	"41"	"77 years"	"77"	"Pneumonia, unspecified"	"J18.9"	10	67977	Unreliable
+	"Oregon"	"41"	"77 years"	"77"	"Emphysema, unspecified"	"J43.9"	10	67977	Unreliable
+	"Oregon"	"41"	"77 years"	"77"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	14	67977	Unreliable
+	"Oregon"	"41"	"77 years"	"77"	"Chronic obstructive pulmonary disease with acute exacerbation, unspecified"	"J44.1"	14	67977	Unreliable
+	"Oregon"	"41"	"77 years"	"77"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	126	67977	185.4
+	"Oregon"	"41"	"77 years"	"77"	"Pneumonitis due to food and vomit"	"J69.0"	13	67977	Unreliable
+	"Oregon"	"41"	"77 years"	"77"	"Interstitial pulmonary disease, unspecified"	"J84.9"	10	67977	Unreliable
+	"Oregon"	"41"	"77 years"	"77"	"Vascular disorder of intestine, unspecified"	"K55.9"	13	67977	Unreliable
+	"Oregon"	"41"	"77 years"	"77"	"Chronic kidney disease, stage 5"	"N18.5"	12	67977	Unreliable
+	"Oregon"	"41"	"77 years"	"77"	"Urinary tract infection, site not specified"	"N39.0"	12	67977	Unreliable
+	"Oregon"	"41"	"77 years"	"77"	"Other ill-defined and unspecified causes of mortality"	"R99"	16	67977	Unreliable
+	"Oregon"	"41"	"77 years"	"77"	"COVID-19"	"U07.1"	19	67977	Unreliable
+	"Oregon"	"41"	"77 years"	"77"	"Other fall on same level"	"W18"	26	67977	38.2
+	"Oregon"	"41"	"78 years"	"78"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	24	61606	39.0
+	"Oregon"	"41"	"78 years"	"78"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	51	61606	82.8
+	"Oregon"	"41"	"78 years"	"78"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	134	61606	217.5
+	"Oregon"	"41"	"78 years"	"78"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	53	61606	86.0
+	"Oregon"	"41"	"78 years"	"78"	"Endometrium - Malignant neoplasms"	"C54.1"	10	61606	Unreliable
+	"Oregon"	"41"	"78 years"	"78"	"Malignant neoplasm of ovary"	"C56"	21	61606	34.1
+	"Oregon"	"41"	"78 years"	"78"	"Malignant neoplasm of kidney, except renal pelvis"	"C64"	17	61606	Unreliable
+	"Oregon"	"41"	"78 years"	"78"	"Bladder, unspecified - Malignant neoplasms"	"C67.9"	13	61606	Unreliable
+	"Oregon"	"41"	"78 years"	"78"	"Brain, unspecified - Malignant neoplasms"	"C71.9"	13	61606	Unreliable
+	"Oregon"	"41"	"78 years"	"78"	"Malignant neoplasm without specification of site"	"C80"	34	61606	55.2
+	"Oregon"	"41"	"78 years"	"78"	"Non-insulin-dependent diabetes mellitus, with renal complications"	"E11.2"	17	61606	Unreliable
+	"Oregon"	"41"	"78 years"	"78"	"Non-insulin-dependent diabetes mellitus, without complications"	"E11.9"	15	61606	Unreliable
+	"Oregon"	"41"	"78 years"	"78"	"Unspecified diabetes mellitus, with renal complications"	"E14.2"	10	61606	Unreliable
+	"Oregon"	"41"	"78 years"	"78"	"Unspecified diabetes mellitus, without complications"	"E14.9"	13	61606	Unreliable
+	"Oregon"	"41"	"78 years"	"78"	"Vascular dementia, unspecified"	"F01.9"	18	61606	Unreliable
+	"Oregon"	"41"	"78 years"	"78"	"Unspecified dementia"	"F03"	79	61606	128.2
+	"Oregon"	"41"	"78 years"	"78"	"Parkinson disease"	"G20"	33	61606	53.6
+	"Oregon"	"41"	"78 years"	"78"	"Alzheimer disease, unspecified"	"G30.9"	120	61606	194.8
+	"Oregon"	"41"	"78 years"	"78"	"Essential (primary) hypertension"	"I10"	16	61606	Unreliable
+	"Oregon"	"41"	"78 years"	"78"	"Hypertensive heart disease with (congestive) heart failure"	"I11.0"	13	61606	Unreliable
+	"Oregon"	"41"	"78 years"	"78"	"Acute subendocardial myocardial infarction"	"I21.4"	10	61606	Unreliable
+	"Oregon"	"41"	"78 years"	"78"	"Acute myocardial infarction, unspecified"	"I21.9"	41	61606	66.6
+	"Oregon"	"41"	"78 years"	"78"	"Atherosclerotic heart disease"	"I25.1"	74	61606	120.1
+	"Oregon"	"41"	"78 years"	"78"	"Other secondary pulmonary hypertension"	"I27.2"	14	61606	Unreliable
+	"Oregon"	"41"	"78 years"	"78"	"Aortic (valve) stenosis"	"I35.0"	20	61606	32.5
+	"Oregon"	"41"	"78 years"	"78"	"Cardiomyopathy, unspecified"	"I42.9"	13	61606	Unreliable
+	"Oregon"	"41"	"78 years"	"78"	"Atrial fibrillation and flutter"	"I48"	29	61606	47.1
+	"Oregon"	"41"	"78 years"	"78"	"Congestive heart failure"	"I50.0"	30	61606	48.7
+	"Oregon"	"41"	"78 years"	"78"	"Intracerebral haemorrhage, unspecified"	"I61.9"	15	61606	Unreliable
+	"Oregon"	"41"	"78 years"	"78"	"Cerebral infarction, unspecified"	"I63.9"	12	61606	Unreliable
+	"Oregon"	"41"	"78 years"	"78"	"Stroke, not specified as haemorrhage or infarction"	"I64"	51	61606	82.8
+	"Oregon"	"41"	"78 years"	"78"	"Sequelae of stroke, not specified as haemorrhage or infarction"	"I69.4"	16	61606	Unreliable
+	"Oregon"	"41"	"78 years"	"78"	"Sequelae of other and unspecified cerebrovascular diseases"	"I69.8"	12	61606	Unreliable
+	"Oregon"	"41"	"78 years"	"78"	"Pneumonia, unspecified"	"J18.9"	13	61606	Unreliable
+	"Oregon"	"41"	"78 years"	"78"	"Emphysema, unspecified"	"J43.9"	14	61606	Unreliable
+	"Oregon"	"41"	"78 years"	"78"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	14	61606	Unreliable
+	"Oregon"	"41"	"78 years"	"78"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	142	61606	230.5
+	"Oregon"	"41"	"78 years"	"78"	"Other interstitial pulmonary diseases with fibrosis"	"J84.1"	12	61606	Unreliable
+	"Oregon"	"41"	"78 years"	"78"	"Urinary tract infection, site not specified"	"N39.0"	14	61606	Unreliable
+	"Oregon"	"41"	"78 years"	"78"	"Other ill-defined and unspecified causes of mortality"	"R99"	15	61606	Unreliable
+	"Oregon"	"41"	"78 years"	"78"	"COVID-19"	"U07.1"	16	61606	Unreliable
+	"Oregon"	"41"	"78 years"	"78"	"Other fall on same level"	"W18"	28	61606	45.5
+	"Oregon"	"41"	"79 years"	"79"	"Septicaemia, unspecified"	"A41.9"	11	56583	Unreliable
+	"Oregon"	"41"	"79 years"	"79"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	35	56583	61.9
+	"Oregon"	"41"	"79 years"	"79"	"Intrahepatic bile duct carcinoma - Malignant neoplasms"	"C22.1"	10	56583	Unreliable
+	"Oregon"	"41"	"79 years"	"79"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	57	56583	100.7
+	"Oregon"	"41"	"79 years"	"79"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	170	56583	300.4
+	"Oregon"	"41"	"79 years"	"79"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	63	56583	111.3
+	"Oregon"	"41"	"79 years"	"79"	"Malignant neoplasm of ovary"	"C56"	31	56583	54.8
+	"Oregon"	"41"	"79 years"	"79"	"Bladder, unspecified - Malignant neoplasms"	"C67.9"	13	56583	Unreliable
+	"Oregon"	"41"	"79 years"	"79"	"Malignant neoplasm without specification of site"	"C80"	31	56583	54.8
+	"Oregon"	"41"	"79 years"	"79"	"Multiple myeloma - Malignant neoplasms"	"C90.0"	11	56583	Unreliable
+	"Oregon"	"41"	"79 years"	"79"	"Acute myeloid leukaemia - Malignant neoplasms"	"C92.0"	13	56583	Unreliable
+	"Oregon"	"41"	"79 years"	"79"	"Non-insulin-dependent diabetes mellitus, without complications"	"E11.9"	13	56583	Unreliable
+	"Oregon"	"41"	"79 years"	"79"	"Unspecified diabetes mellitus, with renal complications"	"E14.2"	12	56583	Unreliable
+	"Oregon"	"41"	"79 years"	"79"	"Unspecified diabetes mellitus, without complications"	"E14.9"	16	56583	Unreliable
+	"Oregon"	"41"	"79 years"	"79"	"Vascular dementia, unspecified"	"F01.9"	22	56583	38.9
+	"Oregon"	"41"	"79 years"	"79"	"Unspecified dementia"	"F03"	79	56583	139.6
+	"Oregon"	"41"	"79 years"	"79"	"Motor neuron disease"	"G12.2"	12	56583	Unreliable
+	"Oregon"	"41"	"79 years"	"79"	"Parkinson disease"	"G20"	34	56583	60.1
+	"Oregon"	"41"	"79 years"	"79"	"Alzheimer disease, unspecified"	"G30.9"	138	56583	243.9
+	"Oregon"	"41"	"79 years"	"79"	"Essential (primary) hypertension"	"I10"	26	56583	46.0
+	"Oregon"	"41"	"79 years"	"79"	"Hypertensive heart disease with (congestive) heart failure"	"I11.0"	17	56583	Unreliable
+	"Oregon"	"41"	"79 years"	"79"	"Acute subendocardial myocardial infarction"	"I21.4"	10	56583	Unreliable
+	"Oregon"	"41"	"79 years"	"79"	"Acute myocardial infarction, unspecified"	"I21.9"	45	56583	79.5
+	"Oregon"	"41"	"79 years"	"79"	"Atherosclerotic heart disease"	"I25.1"	74	56583	130.8
+	"Oregon"	"41"	"79 years"	"79"	"Other secondary pulmonary hypertension"	"I27.2"	12	56583	Unreliable
+	"Oregon"	"41"	"79 years"	"79"	"Aortic (valve) stenosis"	"I35.0"	23	56583	40.6
+	"Oregon"	"41"	"79 years"	"79"	"Atrial fibrillation and flutter"	"I48"	24	56583	42.4
+	"Oregon"	"41"	"79 years"	"79"	"Congestive heart failure"	"I50.0"	42	56583	74.2
+	"Oregon"	"41"	"79 years"	"79"	"Heart failure, unspecified"	"I50.9"	12	56583	Unreliable
+	"Oregon"	"41"	"79 years"	"79"	"Intracerebral haemorrhage, unspecified"	"I61.9"	14	56583	Unreliable
+	"Oregon"	"41"	"79 years"	"79"	"Cerebral infarction, unspecified"	"I63.9"	10	56583	Unreliable
+	"Oregon"	"41"	"79 years"	"79"	"Stroke, not specified as haemorrhage or infarction"	"I64"	43	56583	76.0
+	"Oregon"	"41"	"79 years"	"79"	"Sequelae of stroke, not specified as haemorrhage or infarction"	"I69.4"	23	56583	40.6
+	"Oregon"	"41"	"79 years"	"79"	"Peripheral vascular disease, unspecified"	"I73.9"	11	56583	Unreliable
+	"Oregon"	"41"	"79 years"	"79"	"Emphysema, unspecified"	"J43.9"	11	56583	Unreliable
+	"Oregon"	"41"	"79 years"	"79"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	28	56583	49.5
+	"Oregon"	"41"	"79 years"	"79"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	138	56583	243.9
+	"Oregon"	"41"	"79 years"	"79"	"Other interstitial pulmonary diseases with fibrosis"	"J84.1"	21	56583	37.1
+	"Oregon"	"41"	"79 years"	"79"	"Chronic kidney disease, stage 5"	"N18.5"	10	56583	Unreliable
+	"Oregon"	"41"	"79 years"	"79"	"Urinary tract infection, site not specified"	"N39.0"	13	56583	Unreliable
+	"Oregon"	"41"	"79 years"	"79"	"Other ill-defined and unspecified causes of mortality"	"R99"	18	56583	Unreliable
+	"Oregon"	"41"	"79 years"	"79"	"COVID-19"	"U07.1"	18	56583	Unreliable
+	"Oregon"	"41"	"79 years"	"79"	"Other fall on same level"	"W18"	29	56583	51.3
+	"Oregon"	"41"	"80 years"	"80"	"Enterocolitis due to Clostridium difficile"	"A04.7"	10	51759	Unreliable
+	"Oregon"	"41"	"80 years"	"80"	"Septicaemia, unspecified"	"A41.9"	11	51759	Unreliable
+	"Oregon"	"41"	"80 years"	"80"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	31	51759	59.9
+	"Oregon"	"41"	"80 years"	"80"	"Malignant neoplasm of rectum"	"C20"	11	51759	Unreliable
+	"Oregon"	"41"	"80 years"	"80"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	39	51759	75.3
+	"Oregon"	"41"	"80 years"	"80"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	136	51759	262.8
+	"Oregon"	"41"	"80 years"	"80"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	57	51759	110.1
+	"Oregon"	"41"	"80 years"	"80"	"Endometrium - Malignant neoplasms"	"C54.1"	14	51759	Unreliable
+	"Oregon"	"41"	"80 years"	"80"	"Malignant neoplasm of ovary"	"C56"	26	51759	50.2
+	"Oregon"	"41"	"80 years"	"80"	"Bladder, unspecified - Malignant neoplasms"	"C67.9"	17	51759	Unreliable
+	"Oregon"	"41"	"80 years"	"80"	"Malignant neoplasm without specification of site"	"C80"	29	51759	56.0
+	"Oregon"	"41"	"80 years"	"80"	"Multiple myeloma - Malignant neoplasms"	"C90.0"	14	51759	Unreliable
+	"Oregon"	"41"	"80 years"	"80"	"Acute myeloid leukaemia - Malignant neoplasms"	"C92.0"	10	51759	Unreliable
+	"Oregon"	"41"	"80 years"	"80"	"Non-insulin-dependent diabetes mellitus, with renal complications"	"E11.2"	13	51759	Unreliable
+	"Oregon"	"41"	"80 years"	"80"	"Non-insulin-dependent diabetes mellitus, without complications"	"E11.9"	11	51759	Unreliable
+	"Oregon"	"41"	"80 years"	"80"	"Unspecified diabetes mellitus, with renal complications"	"E14.2"	16	51759	Unreliable
+	"Oregon"	"41"	"80 years"	"80"	"Unspecified diabetes mellitus, without complications"	"E14.9"	18	51759	Unreliable
+	"Oregon"	"41"	"80 years"	"80"	"Vascular dementia, unspecified"	"F01.9"	28	51759	54.1
+	"Oregon"	"41"	"80 years"	"80"	"Unspecified dementia"	"F03"	129	51759	249.2
+	"Oregon"	"41"	"80 years"	"80"	"Parkinson disease"	"G20"	40	51759	77.3
+	"Oregon"	"41"	"80 years"	"80"	"Alzheimer disease, unspecified"	"G30.9"	145	51759	280.1
+	"Oregon"	"41"	"80 years"	"80"	"Senile degeneration of brain, not elsewhere classified"	"G31.1"	10	51759	Unreliable
+	"Oregon"	"41"	"80 years"	"80"	"Other specified degenerative diseases of nervous system"	"G31.8"	21	51759	40.6
+	"Oregon"	"41"	"80 years"	"80"	"Essential (primary) hypertension"	"I10"	23	51759	44.4
+	"Oregon"	"41"	"80 years"	"80"	"Hypertensive heart disease with (congestive) heart failure"	"I11.0"	14	51759	Unreliable
+	"Oregon"	"41"	"80 years"	"80"	"Hypertensive renal disease with renal failure"	"I12.0"	11	51759	Unreliable
+	"Oregon"	"41"	"80 years"	"80"	"Acute myocardial infarction, unspecified"	"I21.9"	35	51759	67.6
+	"Oregon"	"41"	"80 years"	"80"	"Atherosclerotic heart disease"	"I25.1"	78	51759	150.7
+	"Oregon"	"41"	"80 years"	"80"	"Other secondary pulmonary hypertension"	"I27.2"	12	51759	Unreliable
+	"Oregon"	"41"	"80 years"	"80"	"Aortic (valve) stenosis"	"I35.0"	19	51759	Unreliable
+	"Oregon"	"41"	"80 years"	"80"	"Atrial fibrillation and flutter"	"I48"	50	51759	96.6
+	"Oregon"	"41"	"80 years"	"80"	"Congestive heart failure"	"I50.0"	35	51759	67.6
+	"Oregon"	"41"	"80 years"	"80"	"Heart failure, unspecified"	"I50.9"	12	51759	Unreliable
+	"Oregon"	"41"	"80 years"	"80"	"Intracerebral haemorrhage, unspecified"	"I61.9"	18	51759	Unreliable
+	"Oregon"	"41"	"80 years"	"80"	"Stroke, not specified as haemorrhage or infarction"	"I64"	52	51759	100.5
+	"Oregon"	"41"	"80 years"	"80"	"Sequelae of stroke, not specified as haemorrhage or infarction"	"I69.4"	18	51759	Unreliable
+	"Oregon"	"41"	"80 years"	"80"	"Sequelae of other and unspecified cerebrovascular diseases"	"I69.8"	13	51759	Unreliable
+	"Oregon"	"41"	"80 years"	"80"	"Pneumonia, unspecified"	"J18.9"	10	51759	Unreliable
+	"Oregon"	"41"	"80 years"	"80"	"Emphysema, unspecified"	"J43.9"	13	51759	Unreliable
+	"Oregon"	"41"	"80 years"	"80"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	16	51759	Unreliable
+	"Oregon"	"41"	"80 years"	"80"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	132	51759	255.0
+	"Oregon"	"41"	"80 years"	"80"	"Other interstitial pulmonary diseases with fibrosis"	"J84.1"	12	51759	Unreliable
+	"Oregon"	"41"	"80 years"	"80"	"Other and unspecified cirrhosis of liver"	"K74.6"	10	51759	Unreliable
+	"Oregon"	"41"	"80 years"	"80"	"Chronic kidney disease, stage 5"	"N18.5"	10	51759	Unreliable
+	"Oregon"	"41"	"80 years"	"80"	"Urinary tract infection, site not specified"	"N39.0"	17	51759	Unreliable
+	"Oregon"	"41"	"80 years"	"80"	"COVID-19"	"U07.1"	19	51759	Unreliable
+	"Oregon"	"41"	"80 years"	"80"	"Other fall on same level"	"W18"	37	51759	71.5
+	"Oregon"	"41"	"81 years"	"81"	"Septicaemia, unspecified"	"A41.9"	12	47456	Unreliable
+	"Oregon"	"41"	"81 years"	"81"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	25	47456	52.7
+	"Oregon"	"41"	"81 years"	"81"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	39	47456	82.2
+	"Oregon"	"41"	"81 years"	"81"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	115	47456	242.3
+	"Oregon"	"41"	"81 years"	"81"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	60	47456	126.4
+	"Oregon"	"41"	"81 years"	"81"	"Endometrium - Malignant neoplasms"	"C54.1"	11	47456	Unreliable
+	"Oregon"	"41"	"81 years"	"81"	"Malignant neoplasm of ovary"	"C56"	24	47456	50.6
+	"Oregon"	"41"	"81 years"	"81"	"Bladder, unspecified - Malignant neoplasms"	"C67.9"	10	47456	Unreliable
+	"Oregon"	"41"	"81 years"	"81"	"Malignant neoplasm without specification of site"	"C80"	23	47456	48.5
+	"Oregon"	"41"	"81 years"	"81"	"Non-Hodgkin lymphoma, unspecified type"	"C85.9"	10	47456	Unreliable
+	"Oregon"	"41"	"81 years"	"81"	"Acute myeloid leukaemia - Malignant neoplasms"	"C92.0"	11	47456	Unreliable
+	"Oregon"	"41"	"81 years"	"81"	"Non-insulin-dependent diabetes mellitus, without complications"	"E11.9"	19	47456	Unreliable
+	"Oregon"	"41"	"81 years"	"81"	"Unspecified diabetes mellitus, without complications"	"E14.9"	12	47456	Unreliable
+	"Oregon"	"41"	"81 years"	"81"	"Vascular dementia, unspecified"	"F01.9"	34	47456	71.6
+	"Oregon"	"41"	"81 years"	"81"	"Unspecified dementia"	"F03"	108	47456	227.6
+	"Oregon"	"41"	"81 years"	"81"	"Parkinson disease"	"G20"	36	47456	75.9
+	"Oregon"	"41"	"81 years"	"81"	"Alzheimer disease with late onset"	"G30.1"	10	47456	Unreliable
+	"Oregon"	"41"	"81 years"	"81"	"Alzheimer disease, unspecified"	"G30.9"	162	47456	341.4
+	"Oregon"	"41"	"81 years"	"81"	"Other specified degenerative diseases of nervous system"	"G31.8"	13	47456	Unreliable
+	"Oregon"	"41"	"81 years"	"81"	"Essential (primary) hypertension"	"I10"	18	47456	Unreliable
+	"Oregon"	"41"	"81 years"	"81"	"Hypertensive heart disease with (congestive) heart failure"	"I11.0"	16	47456	Unreliable
+	"Oregon"	"41"	"81 years"	"81"	"Hypertensive renal disease with renal failure"	"I12.0"	16	47456	Unreliable
+	"Oregon"	"41"	"81 years"	"81"	"Acute subendocardial myocardial infarction"	"I21.4"	17	47456	Unreliable
+	"Oregon"	"41"	"81 years"	"81"	"Acute myocardial infarction, unspecified"	"I21.9"	40	47456	84.3
+	"Oregon"	"41"	"81 years"	"81"	"Atherosclerotic heart disease"	"I25.1"	90	47456	189.6
+	"Oregon"	"41"	"81 years"	"81"	"Other secondary pulmonary hypertension"	"I27.2"	12	47456	Unreliable
+	"Oregon"	"41"	"81 years"	"81"	"Aortic (valve) stenosis"	"I35.0"	28	47456	59.0
+	"Oregon"	"41"	"81 years"	"81"	"Cardiomyopathy, unspecified"	"I42.9"	10	47456	Unreliable
+	"Oregon"	"41"	"81 years"	"81"	"Atrial fibrillation and flutter"	"I48"	41	47456	86.4
+	"Oregon"	"41"	"81 years"	"81"	"Congestive heart failure"	"I50.0"	57	47456	120.1
+	"Oregon"	"41"	"81 years"	"81"	"Heart failure, unspecified"	"I50.9"	11	47456	Unreliable
+	"Oregon"	"41"	"81 years"	"81"	"Intracerebral haemorrhage, unspecified"	"I61.9"	12	47456	Unreliable
+	"Oregon"	"41"	"81 years"	"81"	"Intracranial haemorrhage (nontraumatic), unspecified"	"I62.9"	10	47456	Unreliable
+	"Oregon"	"41"	"81 years"	"81"	"Cerebral infarction, unspecified"	"I63.9"	10	47456	Unreliable
+	"Oregon"	"41"	"81 years"	"81"	"Stroke, not specified as haemorrhage or infarction"	"I64"	47	47456	99.0
+	"Oregon"	"41"	"81 years"	"81"	"Sequelae of stroke, not specified as haemorrhage or infarction"	"I69.4"	21	47456	44.3
+	"Oregon"	"41"	"81 years"	"81"	"Sequelae of other and unspecified cerebrovascular diseases"	"I69.8"	10	47456	Unreliable
+	"Oregon"	"41"	"81 years"	"81"	"Pneumonia, unspecified"	"J18.9"	12	47456	Unreliable
+	"Oregon"	"41"	"81 years"	"81"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	18	47456	Unreliable
+	"Oregon"	"41"	"81 years"	"81"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	128	47456	269.7
+	"Oregon"	"41"	"81 years"	"81"	"Other interstitial pulmonary diseases with fibrosis"	"J84.1"	11	47456	Unreliable
+	"Oregon"	"41"	"81 years"	"81"	"Other and unspecified cirrhosis of liver"	"K74.6"	11	47456	Unreliable
+	"Oregon"	"41"	"81 years"	"81"	"Other ill-defined and unspecified causes of mortality"	"R99"	18	47456	Unreliable
+	"Oregon"	"41"	"81 years"	"81"	"COVID-19"	"U07.1"	18	47456	Unreliable
+	"Oregon"	"41"	"81 years"	"81"	"Other fall on same level"	"W18"	40	47456	84.3
+	"Oregon"	"41"	"82 years"	"82"	"Septicaemia, unspecified"	"A41.9"	12	43714	Unreliable
+	"Oregon"	"41"	"82 years"	"82"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	28	43714	64.1
+	"Oregon"	"41"	"82 years"	"82"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	43	43714	98.4
+	"Oregon"	"41"	"82 years"	"82"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	124	43714	283.7
+	"Oregon"	"41"	"82 years"	"82"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	59	43714	135.0
+	"Oregon"	"41"	"82 years"	"82"	"Endometrium - Malignant neoplasms"	"C54.1"	10	43714	Unreliable
+	"Oregon"	"41"	"82 years"	"82"	"Malignant neoplasm of ovary"	"C56"	28	43714	64.1
+	"Oregon"	"41"	"82 years"	"82"	"Malignant neoplasm of kidney, except renal pelvis"	"C64"	18	43714	Unreliable
+	"Oregon"	"41"	"82 years"	"82"	"Malignant neoplasm without specification of site"	"C80"	19	43714	Unreliable
+	"Oregon"	"41"	"82 years"	"82"	"Multiple myeloma - Malignant neoplasms"	"C90.0"	12	43714	Unreliable
+	"Oregon"	"41"	"82 years"	"82"	"Non-insulin-dependent diabetes mellitus, with renal complications"	"E11.2"	14	43714	Unreliable
+	"Oregon"	"41"	"82 years"	"82"	"Unspecified diabetes mellitus, without complications"	"E14.9"	10	43714	Unreliable
+	"Oregon"	"41"	"82 years"	"82"	"Vascular dementia, unspecified"	"F01.9"	32	43714	73.2
+	"Oregon"	"41"	"82 years"	"82"	"Unspecified dementia"	"F03"	128	43714	292.8
+	"Oregon"	"41"	"82 years"	"82"	"Parkinson disease"	"G20"	44	43714	100.7
+	"Oregon"	"41"	"82 years"	"82"	"Alzheimer disease, unspecified"	"G30.9"	191	43714	436.9
+	"Oregon"	"41"	"82 years"	"82"	"Senile degeneration of brain, not elsewhere classified"	"G31.1"	13	43714	Unreliable
+	"Oregon"	"41"	"82 years"	"82"	"Other specified degenerative diseases of nervous system"	"G31.8"	15	43714	Unreliable
+	"Oregon"	"41"	"82 years"	"82"	"Essential (primary) hypertension"	"I10"	21	43714	48.0
+	"Oregon"	"41"	"82 years"	"82"	"Hypertensive heart disease with (congestive) heart failure"	"I11.0"	14	43714	Unreliable
+	"Oregon"	"41"	"82 years"	"82"	"Hypertensive renal disease with renal failure"	"I12.0"	13	43714	Unreliable
+	"Oregon"	"41"	"82 years"	"82"	"Acute subendocardial myocardial infarction"	"I21.4"	10	43714	Unreliable
+	"Oregon"	"41"	"82 years"	"82"	"Acute myocardial infarction, unspecified"	"I21.9"	43	43714	98.4
+	"Oregon"	"41"	"82 years"	"82"	"Atherosclerotic heart disease"	"I25.1"	86	43714	196.7
+	"Oregon"	"41"	"82 years"	"82"	"Aortic (valve) stenosis"	"I35.0"	39	43714	89.2
+	"Oregon"	"41"	"82 years"	"82"	"Cardiomyopathy, unspecified"	"I42.9"	12	43714	Unreliable
+	"Oregon"	"41"	"82 years"	"82"	"Atrial fibrillation and flutter"	"I48"	54	43714	123.5
+	"Oregon"	"41"	"82 years"	"82"	"Congestive heart failure"	"I50.0"	47	43714	107.5
+	"Oregon"	"41"	"82 years"	"82"	"Heart failure, unspecified"	"I50.9"	15	43714	Unreliable
+	"Oregon"	"41"	"82 years"	"82"	"Intracerebral haemorrhage, unspecified"	"I61.9"	18	43714	Unreliable
+	"Oregon"	"41"	"82 years"	"82"	"Cerebral infarction, unspecified"	"I63.9"	11	43714	Unreliable
+	"Oregon"	"41"	"82 years"	"82"	"Stroke, not specified as haemorrhage or infarction"	"I64"	60	43714	137.3
+	"Oregon"	"41"	"82 years"	"82"	"Sequelae of stroke, not specified as haemorrhage or infarction"	"I69.4"	15	43714	Unreliable
+	"Oregon"	"41"	"82 years"	"82"	"Sequelae of other and unspecified cerebrovascular diseases"	"I69.8"	12	43714	Unreliable
+	"Oregon"	"41"	"82 years"	"82"	"Peripheral vascular disease, unspecified"	"I73.9"	10	43714	Unreliable
+	"Oregon"	"41"	"82 years"	"82"	"Pneumonia, unspecified"	"J18.9"	17	43714	Unreliable
+	"Oregon"	"41"	"82 years"	"82"	"Emphysema, unspecified"	"J43.9"	13	43714	Unreliable
+	"Oregon"	"41"	"82 years"	"82"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	11	43714	Unreliable
+	"Oregon"	"41"	"82 years"	"82"	"Chronic obstructive pulmonary disease with acute exacerbation, unspecified"	"J44.1"	13	43714	Unreliable
+	"Oregon"	"41"	"82 years"	"82"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	120	43714	274.5
+	"Oregon"	"41"	"82 years"	"82"	"Interstitial pulmonary disease, unspecified"	"J84.9"	12	43714	Unreliable
+	"Oregon"	"41"	"82 years"	"82"	"Vascular disorder of intestine, unspecified"	"K55.9"	10	43714	Unreliable
+	"Oregon"	"41"	"82 years"	"82"	"Urinary tract infection, site not specified"	"N39.0"	21	43714	48.0
+	"Oregon"	"41"	"82 years"	"82"	"Other ill-defined and unspecified causes of mortality"	"R99"	13	43714	Unreliable
+	"Oregon"	"41"	"82 years"	"82"	"COVID-19"	"U07.1"	22	43714	50.3
+	"Oregon"	"41"	"82 years"	"82"	"Other fall on same level"	"W18"	38	43714	86.9
+	"Oregon"	"41"	"83 years"	"83"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	43	40033	107.4
+	"Oregon"	"41"	"83 years"	"83"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	30	40033	74.9
+	"Oregon"	"41"	"83 years"	"83"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	122	40033	304.7
+	"Oregon"	"41"	"83 years"	"83"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	46	40033	114.9
+	"Oregon"	"41"	"83 years"	"83"	"Malignant neoplasm of ovary"	"C56"	19	40033	Unreliable
+	"Oregon"	"41"	"83 years"	"83"	"Malignant neoplasm without specification of site"	"C80"	20	40033	50.0
+	"Oregon"	"41"	"83 years"	"83"	"Multiple myeloma - Malignant neoplasms"	"C90.0"	12	40033	Unreliable
+	"Oregon"	"41"	"83 years"	"83"	"Non-insulin-dependent diabetes mellitus, with renal complications"	"E11.2"	12	40033	Unreliable
+	"Oregon"	"41"	"83 years"	"83"	"Unspecified diabetes mellitus, without complications"	"E14.9"	17	40033	Unreliable
+	"Oregon"	"41"	"83 years"	"83"	"Hyperlipidaemia, unspecified"	"E78.5"	10	40033	Unreliable
+	"Oregon"	"41"	"83 years"	"83"	"Vascular dementia, unspecified"	"F01.9"	40	40033	99.9
+	"Oregon"	"41"	"83 years"	"83"	"Unspecified dementia"	"F03"	147	40033	367.2
+	"Oregon"	"41"	"83 years"	"83"	"Parkinson disease"	"G20"	36	40033	89.9
+	"Oregon"	"41"	"83 years"	"83"	"Alzheimer disease with late onset"	"G30.1"	13	40033	Unreliable
+	"Oregon"	"41"	"83 years"	"83"	"Alzheimer disease, unspecified"	"G30.9"	206	40033	514.6
+	"Oregon"	"41"	"83 years"	"83"	"Senile degeneration of brain, not elsewhere classified"	"G31.1"	14	40033	Unreliable
+	"Oregon"	"41"	"83 years"	"83"	"Other specified degenerative diseases of nervous system"	"G31.8"	11	40033	Unreliable
+	"Oregon"	"41"	"83 years"	"83"	"Essential (primary) hypertension"	"I10"	21	40033	52.5
+	"Oregon"	"41"	"83 years"	"83"	"Hypertensive heart disease with (congestive) heart failure"	"I11.0"	21	40033	52.5
+	"Oregon"	"41"	"83 years"	"83"	"Hypertensive renal disease with renal failure"	"I12.0"	14	40033	Unreliable
+	"Oregon"	"41"	"83 years"	"83"	"Acute subendocardial myocardial infarction"	"I21.4"	10	40033	Unreliable
+	"Oregon"	"41"	"83 years"	"83"	"Acute myocardial infarction, unspecified"	"I21.9"	45	40033	112.4
+	"Oregon"	"41"	"83 years"	"83"	"Atherosclerotic heart disease"	"I25.1"	87	40033	217.3
+	"Oregon"	"41"	"83 years"	"83"	"Other secondary pulmonary hypertension"	"I27.2"	18	40033	Unreliable
+	"Oregon"	"41"	"83 years"	"83"	"Aortic (valve) stenosis"	"I35.0"	32	40033	79.9
+	"Oregon"	"41"	"83 years"	"83"	"Atrial fibrillation and flutter"	"I48"	60	40033	149.9
+	"Oregon"	"41"	"83 years"	"83"	"Congestive heart failure"	"I50.0"	47	40033	117.4
+	"Oregon"	"41"	"83 years"	"83"	"Heart failure, unspecified"	"I50.9"	24	40033	60.0
+	"Oregon"	"41"	"83 years"	"83"	"Intracerebral haemorrhage, unspecified"	"I61.9"	19	40033	Unreliable
+	"Oregon"	"41"	"83 years"	"83"	"Intracranial haemorrhage (nontraumatic), unspecified"	"I62.9"	15	40033	Unreliable
+	"Oregon"	"41"	"83 years"	"83"	"Stroke, not specified as haemorrhage or infarction"	"I64"	74	40033	184.8
+	"Oregon"	"41"	"83 years"	"83"	"Cerebrovascular disease, unspecified"	"I67.9"	10	40033	Unreliable
+	"Oregon"	"41"	"83 years"	"83"	"Sequelae of stroke, not specified as haemorrhage or infarction"	"I69.4"	20	40033	50.0
+	"Oregon"	"41"	"83 years"	"83"	"Peripheral vascular disease, unspecified"	"I73.9"	20	40033	50.0
+	"Oregon"	"41"	"83 years"	"83"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	27	40033	67.4
+	"Oregon"	"41"	"83 years"	"83"	"Chronic obstructive pulmonary disease with acute exacerbation, unspecified"	"J44.1"	10	40033	Unreliable
+	"Oregon"	"41"	"83 years"	"83"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	125	40033	312.2
+	"Oregon"	"41"	"83 years"	"83"	"Other interstitial pulmonary diseases with fibrosis"	"J84.1"	22	40033	55.0
+	"Oregon"	"41"	"83 years"	"83"	"Chronic kidney disease, stage 5"	"N18.5"	12	40033	Unreliable
+	"Oregon"	"41"	"83 years"	"83"	"Urinary tract infection, site not specified"	"N39.0"	12	40033	Unreliable
+	"Oregon"	"41"	"83 years"	"83"	"Other ill-defined and unspecified causes of mortality"	"R99"	15	40033	Unreliable
+	"Oregon"	"41"	"83 years"	"83"	"COVID-19"	"U07.1"	16	40033	Unreliable
+	"Oregon"	"41"	"83 years"	"83"	"Other fall on same level"	"W18"	43	40033	107.4
+	"Oregon"	"41"	"84 years"	"84"	"Septicaemia, unspecified"	"A41.9"	26	37194	69.9
+	"Oregon"	"41"	"84 years"	"84"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	30	37194	80.7
+	"Oregon"	"41"	"84 years"	"84"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	43	37194	115.6
+	"Oregon"	"41"	"84 years"	"84"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	102	37194	274.2
+	"Oregon"	"41"	"84 years"	"84"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	51	37194	137.1
+	"Oregon"	"41"	"84 years"	"84"	"Malignant neoplasm of ovary"	"C56"	27	37194	72.6
+	"Oregon"	"41"	"84 years"	"84"	"Malignant neoplasm of kidney, except renal pelvis"	"C64"	13	37194	Unreliable
+	"Oregon"	"41"	"84 years"	"84"	"Bladder, unspecified - Malignant neoplasms"	"C67.9"	12	37194	Unreliable
+	"Oregon"	"41"	"84 years"	"84"	"Malignant neoplasm without specification of site"	"C80"	25	37194	67.2
+	"Oregon"	"41"	"84 years"	"84"	"Non-insulin-dependent diabetes mellitus, with renal complications"	"E11.2"	17	37194	Unreliable
+	"Oregon"	"41"	"84 years"	"84"	"Non-insulin-dependent diabetes mellitus, without complications"	"E11.9"	13	37194	Unreliable
+	"Oregon"	"41"	"84 years"	"84"	"Unspecified diabetes mellitus, with renal complications"	"E14.2"	15	37194	Unreliable
+	"Oregon"	"41"	"84 years"	"84"	"Unspecified diabetes mellitus, without complications"	"E14.9"	15	37194	Unreliable
+	"Oregon"	"41"	"84 years"	"84"	"Hyperlipidaemia, unspecified"	"E78.5"	15	37194	Unreliable
+	"Oregon"	"41"	"84 years"	"84"	"Vascular dementia, unspecified"	"F01.9"	46	37194	123.7
+	"Oregon"	"41"	"84 years"	"84"	"Unspecified dementia"	"F03"	158	37194	424.8
+	"Oregon"	"41"	"84 years"	"84"	"Parkinson disease"	"G20"	32	37194	86.0
+	"Oregon"	"41"	"84 years"	"84"	"Alzheimer disease with late onset"	"G30.1"	16	37194	Unreliable
+	"Oregon"	"41"	"84 years"	"84"	"Alzheimer disease, unspecified"	"G30.9"	204	37194	548.5
+	"Oregon"	"41"	"84 years"	"84"	"Senile degeneration of brain, not elsewhere classified"	"G31.1"	11	37194	Unreliable
+	"Oregon"	"41"	"84 years"	"84"	"Other specified degenerative diseases of nervous system"	"G31.8"	12	37194	Unreliable
+	"Oregon"	"41"	"84 years"	"84"	"Essential (primary) hypertension"	"I10"	22	37194	59.1
+	"Oregon"	"41"	"84 years"	"84"	"Hypertensive heart disease with (congestive) heart failure"	"I11.0"	13	37194	Unreliable
+	"Oregon"	"41"	"84 years"	"84"	"Hypertensive renal disease with renal failure"	"I12.0"	20	37194	53.8
+	"Oregon"	"41"	"84 years"	"84"	"Acute myocardial infarction, unspecified"	"I21.9"	47	37194	126.4
+	"Oregon"	"41"	"84 years"	"84"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	13	37194	Unreliable
+	"Oregon"	"41"	"84 years"	"84"	"Atherosclerotic heart disease"	"I25.1"	93	37194	250.0
+	"Oregon"	"41"	"84 years"	"84"	"Other secondary pulmonary hypertension"	"I27.2"	12	37194	Unreliable
+	"Oregon"	"41"	"84 years"	"84"	"Aortic (valve) stenosis"	"I35.0"	43	37194	115.6
+	"Oregon"	"41"	"84 years"	"84"	"Atrial fibrillation and flutter"	"I48"	57	37194	153.3
+	"Oregon"	"41"	"84 years"	"84"	"Congestive heart failure"	"I50.0"	61	37194	164.0
+	"Oregon"	"41"	"84 years"	"84"	"Heart failure, unspecified"	"I50.9"	14	37194	Unreliable
+	"Oregon"	"41"	"84 years"	"84"	"Intracerebral haemorrhage, unspecified"	"I61.9"	19	37194	Unreliable
+	"Oregon"	"41"	"84 years"	"84"	"Cerebral infarction, unspecified"	"I63.9"	17	37194	Unreliable
+	"Oregon"	"41"	"84 years"	"84"	"Stroke, not specified as haemorrhage or infarction"	"I64"	61	37194	164.0
+	"Oregon"	"41"	"84 years"	"84"	"Cerebrovascular disease, unspecified"	"I67.9"	10	37194	Unreliable
+	"Oregon"	"41"	"84 years"	"84"	"Sequelae of stroke, not specified as haemorrhage or infarction"	"I69.4"	27	37194	72.6
+	"Oregon"	"41"	"84 years"	"84"	"Sequelae of other and unspecified cerebrovascular diseases"	"I69.8"	16	37194	Unreliable
+	"Oregon"	"41"	"84 years"	"84"	"Pneumonia, unspecified"	"J18.9"	12	37194	Unreliable
+	"Oregon"	"41"	"84 years"	"84"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	20	37194	53.8
+	"Oregon"	"41"	"84 years"	"84"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	108	37194	290.4
+	"Oregon"	"41"	"84 years"	"84"	"Pneumonitis due to food and vomit"	"J69.0"	10	37194	Unreliable
+	"Oregon"	"41"	"84 years"	"84"	"Other interstitial pulmonary diseases with fibrosis"	"J84.1"	25	37194	67.2
+	"Oregon"	"41"	"84 years"	"84"	"Gastrointestinal haemorrhage, unspecified"	"K92.2"	10	37194	Unreliable
+	"Oregon"	"41"	"84 years"	"84"	"Chronic kidney disease, stage 5"	"N18.5"	10	37194	Unreliable
+	"Oregon"	"41"	"84 years"	"84"	"Urinary tract infection, site not specified"	"N39.0"	17	37194	Unreliable
+	"Oregon"	"41"	"84 years"	"84"	"COVID-19"	"U07.1"	25	37194	67.2
+	"Oregon"	"41"	"84 years"	"84"	"Other fall on same level"	"W18"	55	37194	147.9
+	"Oregon"	"41"	"85 years"	"85"	"Septicaemia, unspecified"	"A41.9"	11	Not Applicable	Not Applicable
+	"Oregon"	"41"	"85 years"	"85"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	29	Not Applicable	Not Applicable
+	"Oregon"	"41"	"85 years"	"85"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	30	Not Applicable	Not Applicable
+	"Oregon"	"41"	"85 years"	"85"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	93	Not Applicable	Not Applicable
+	"Oregon"	"41"	"85 years"	"85"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	58	Not Applicable	Not Applicable
+	"Oregon"	"41"	"85 years"	"85"	"Malignant neoplasm of ovary"	"C56"	21	Not Applicable	Not Applicable
+	"Oregon"	"41"	"85 years"	"85"	"Bladder, unspecified - Malignant neoplasms"	"C67.9"	12	Not Applicable	Not Applicable
+	"Oregon"	"41"	"85 years"	"85"	"Malignant neoplasm without specification of site"	"C80"	18	Not Applicable	Not Applicable
+	"Oregon"	"41"	"85 years"	"85"	"Non-Hodgkin lymphoma, unspecified type"	"C85.9"	10	Not Applicable	Not Applicable
+	"Oregon"	"41"	"85 years"	"85"	"Multiple myeloma - Malignant neoplasms"	"C90.0"	11	Not Applicable	Not Applicable
+	"Oregon"	"41"	"85 years"	"85"	"Non-insulin-dependent diabetes mellitus, with renal complications"	"E11.2"	16	Not Applicable	Not Applicable
+	"Oregon"	"41"	"85 years"	"85"	"Non-insulin-dependent diabetes mellitus, without complications"	"E11.9"	17	Not Applicable	Not Applicable
+	"Oregon"	"41"	"85 years"	"85"	"Unspecified diabetes mellitus, without complications"	"E14.9"	15	Not Applicable	Not Applicable
+	"Oregon"	"41"	"85 years"	"85"	"Hyperlipidaemia, unspecified"	"E78.5"	10	Not Applicable	Not Applicable
+	"Oregon"	"41"	"85 years"	"85"	"Vascular dementia, unspecified"	"F01.9"	68	Not Applicable	Not Applicable
+	"Oregon"	"41"	"85 years"	"85"	"Unspecified dementia"	"F03"	176	Not Applicable	Not Applicable
+	"Oregon"	"41"	"85 years"	"85"	"Parkinson disease"	"G20"	52	Not Applicable	Not Applicable
+	"Oregon"	"41"	"85 years"	"85"	"Alzheimer disease with late onset"	"G30.1"	11	Not Applicable	Not Applicable
+	"Oregon"	"41"	"85 years"	"85"	"Alzheimer disease, unspecified"	"G30.9"	217	Not Applicable	Not Applicable
+	"Oregon"	"41"	"85 years"	"85"	"Senile degeneration of brain, not elsewhere classified"	"G31.1"	27	Not Applicable	Not Applicable
+	"Oregon"	"41"	"85 years"	"85"	"Essential (primary) hypertension"	"I10"	28	Not Applicable	Not Applicable
+	"Oregon"	"41"	"85 years"	"85"	"Hypertensive heart disease with (congestive) heart failure"	"I11.0"	17	Not Applicable	Not Applicable
+	"Oregon"	"41"	"85 years"	"85"	"Hypertensive renal disease with renal failure"	"I12.0"	19	Not Applicable	Not Applicable
+	"Oregon"	"41"	"85 years"	"85"	"Acute subendocardial myocardial infarction"	"I21.4"	10	Not Applicable	Not Applicable
+	"Oregon"	"41"	"85 years"	"85"	"Acute myocardial infarction, unspecified"	"I21.9"	48	Not Applicable	Not Applicable
+	"Oregon"	"41"	"85 years"	"85"	"Atherosclerotic heart disease"	"I25.1"	86	Not Applicable	Not Applicable
+	"Oregon"	"41"	"85 years"	"85"	"Other secondary pulmonary hypertension"	"I27.2"	14	Not Applicable	Not Applicable
+	"Oregon"	"41"	"85 years"	"85"	"Mitral (valve) insufficiency"	"I34.0"	12	Not Applicable	Not Applicable
+	"Oregon"	"41"	"85 years"	"85"	"Aortic (valve) stenosis"	"I35.0"	40	Not Applicable	Not Applicable
+	"Oregon"	"41"	"85 years"	"85"	"Atrial fibrillation and flutter"	"I48"	72	Not Applicable	Not Applicable
+	"Oregon"	"41"	"85 years"	"85"	"Congestive heart failure"	"I50.0"	67	Not Applicable	Not Applicable
+	"Oregon"	"41"	"85 years"	"85"	"Heart failure, unspecified"	"I50.9"	23	Not Applicable	Not Applicable
+	"Oregon"	"41"	"85 years"	"85"	"Intracerebral haemorrhage, unspecified"	"I61.9"	19	Not Applicable	Not Applicable
+	"Oregon"	"41"	"85 years"	"85"	"Intracranial haemorrhage (nontraumatic), unspecified"	"I62.9"	13	Not Applicable	Not Applicable
+	"Oregon"	"41"	"85 years"	"85"	"Cerebral infarction, unspecified"	"I63.9"	12	Not Applicable	Not Applicable
+	"Oregon"	"41"	"85 years"	"85"	"Stroke, not specified as haemorrhage or infarction"	"I64"	72	Not Applicable	Not Applicable
+	"Oregon"	"41"	"85 years"	"85"	"Cerebral atherosclerosis"	"I67.2"	10	Not Applicable	Not Applicable
+	"Oregon"	"41"	"85 years"	"85"	"Cerebrovascular disease, unspecified"	"I67.9"	11	Not Applicable	Not Applicable
+	"Oregon"	"41"	"85 years"	"85"	"Sequelae of stroke, not specified as haemorrhage or infarction"	"I69.4"	23	Not Applicable	Not Applicable
+	"Oregon"	"41"	"85 years"	"85"	"Sequelae of other and unspecified cerebrovascular diseases"	"I69.8"	19	Not Applicable	Not Applicable
+	"Oregon"	"41"	"85 years"	"85"	"Peripheral vascular disease, unspecified"	"I73.9"	10	Not Applicable	Not Applicable
+	"Oregon"	"41"	"85 years"	"85"	"Pneumonia, unspecified"	"J18.9"	13	Not Applicable	Not Applicable
+	"Oregon"	"41"	"85 years"	"85"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	19	Not Applicable	Not Applicable
+	"Oregon"	"41"	"85 years"	"85"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	132	Not Applicable	Not Applicable
+	"Oregon"	"41"	"85 years"	"85"	"Other interstitial pulmonary diseases with fibrosis"	"J84.1"	20	Not Applicable	Not Applicable
+	"Oregon"	"41"	"85 years"	"85"	"Interstitial pulmonary disease, unspecified"	"J84.9"	10	Not Applicable	Not Applicable
+	"Oregon"	"41"	"85 years"	"85"	"Urinary tract infection, site not specified"	"N39.0"	22	Not Applicable	Not Applicable
+	"Oregon"	"41"	"85 years"	"85"	"Other ill-defined and unspecified causes of mortality"	"R99"	15	Not Applicable	Not Applicable
+	"Oregon"	"41"	"85 years"	"85"	"COVID-19"	"U07.1"	21	Not Applicable	Not Applicable
+	"Oregon"	"41"	"85 years"	"85"	"Other fall on same level"	"W18"	53	Not Applicable	Not Applicable
+	"Oregon"	"41"	"86 years"	"86"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	30	Not Applicable	Not Applicable
+	"Oregon"	"41"	"86 years"	"86"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	20	Not Applicable	Not Applicable
+	"Oregon"	"41"	"86 years"	"86"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	92	Not Applicable	Not Applicable
+	"Oregon"	"41"	"86 years"	"86"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	52	Not Applicable	Not Applicable
+	"Oregon"	"41"	"86 years"	"86"	"Endometrium - Malignant neoplasms"	"C54.1"	11	Not Applicable	Not Applicable
+	"Oregon"	"41"	"86 years"	"86"	"Malignant neoplasm of ovary"	"C56"	20	Not Applicable	Not Applicable
+	"Oregon"	"41"	"86 years"	"86"	"Bladder, unspecified - Malignant neoplasms"	"C67.9"	12	Not Applicable	Not Applicable
+	"Oregon"	"41"	"86 years"	"86"	"Malignant neoplasm without specification of site"	"C80"	13	Not Applicable	Not Applicable
+	"Oregon"	"41"	"86 years"	"86"	"Multiple myeloma - Malignant neoplasms"	"C90.0"	15	Not Applicable	Not Applicable
+	"Oregon"	"41"	"86 years"	"86"	"Non-insulin-dependent diabetes mellitus, with renal complications"	"E11.2"	14	Not Applicable	Not Applicable
+	"Oregon"	"41"	"86 years"	"86"	"Non-insulin-dependent diabetes mellitus, without complications"	"E11.9"	15	Not Applicable	Not Applicable
+	"Oregon"	"41"	"86 years"	"86"	"Unspecified diabetes mellitus, without complications"	"E14.9"	17	Not Applicable	Not Applicable
+	"Oregon"	"41"	"86 years"	"86"	"Hyperlipidaemia, unspecified"	"E78.5"	16	Not Applicable	Not Applicable
+	"Oregon"	"41"	"86 years"	"86"	"Vascular dementia, unspecified"	"F01.9"	55	Not Applicable	Not Applicable
+	"Oregon"	"41"	"86 years"	"86"	"Unspecified dementia"	"F03"	219	Not Applicable	Not Applicable
+	"Oregon"	"41"	"86 years"	"86"	"Parkinson disease"	"G20"	46	Not Applicable	Not Applicable
+	"Oregon"	"41"	"86 years"	"86"	"Alzheimer disease with late onset"	"G30.1"	22	Not Applicable	Not Applicable
+	"Oregon"	"41"	"86 years"	"86"	"Alzheimer disease, unspecified"	"G30.9"	289	Not Applicable	Not Applicable
+	"Oregon"	"41"	"86 years"	"86"	"Senile degeneration of brain, not elsewhere classified"	"G31.1"	22	Not Applicable	Not Applicable
+	"Oregon"	"41"	"86 years"	"86"	"Other specified degenerative diseases of nervous system"	"G31.8"	16	Not Applicable	Not Applicable
+	"Oregon"	"41"	"86 years"	"86"	"Essential (primary) hypertension"	"I10"	41	Not Applicable	Not Applicable
+	"Oregon"	"41"	"86 years"	"86"	"Hypertensive heart disease with (congestive) heart failure"	"I11.0"	23	Not Applicable	Not Applicable
+	"Oregon"	"41"	"86 years"	"86"	"Hypertensive renal disease with renal failure"	"I12.0"	21	Not Applicable	Not Applicable
+	"Oregon"	"41"	"86 years"	"86"	"Hypertensive heart and renal disease with both (congestive) heart failure and renal failure"	"I13.2"	11	Not Applicable	Not Applicable
+	"Oregon"	"41"	"86 years"	"86"	"Acute subendocardial myocardial infarction"	"I21.4"	10	Not Applicable	Not Applicable
+	"Oregon"	"41"	"86 years"	"86"	"Acute myocardial infarction, unspecified"	"I21.9"	54	Not Applicable	Not Applicable
+	"Oregon"	"41"	"86 years"	"86"	"Atherosclerotic heart disease"	"I25.1"	95	Not Applicable	Not Applicable
+	"Oregon"	"41"	"86 years"	"86"	"Other secondary pulmonary hypertension"	"I27.2"	17	Not Applicable	Not Applicable
+	"Oregon"	"41"	"86 years"	"86"	"Aortic (valve) stenosis"	"I35.0"	54	Not Applicable	Not Applicable
+	"Oregon"	"41"	"86 years"	"86"	"Cardiomyopathy, unspecified"	"I42.9"	12	Not Applicable	Not Applicable
+	"Oregon"	"41"	"86 years"	"86"	"Atrial fibrillation and flutter"	"I48"	73	Not Applicable	Not Applicable
+	"Oregon"	"41"	"86 years"	"86"	"Congestive heart failure"	"I50.0"	82	Not Applicable	Not Applicable
+	"Oregon"	"41"	"86 years"	"86"	"Heart failure, unspecified"	"I50.9"	22	Not Applicable	Not Applicable
+	"Oregon"	"41"	"86 years"	"86"	"Intracerebral haemorrhage, unspecified"	"I61.9"	20	Not Applicable	Not Applicable
+	"Oregon"	"41"	"86 years"	"86"	"Cerebral infarction, unspecified"	"I63.9"	17	Not Applicable	Not Applicable
+	"Oregon"	"41"	"86 years"	"86"	"Stroke, not specified as haemorrhage or infarction"	"I64"	75	Not Applicable	Not Applicable
+	"Oregon"	"41"	"86 years"	"86"	"Cerebral atherosclerosis"	"I67.2"	13	Not Applicable	Not Applicable
+	"Oregon"	"41"	"86 years"	"86"	"Cerebrovascular disease, unspecified"	"I67.9"	12	Not Applicable	Not Applicable
+	"Oregon"	"41"	"86 years"	"86"	"Sequelae of stroke, not specified as haemorrhage or infarction"	"I69.4"	23	Not Applicable	Not Applicable
+	"Oregon"	"41"	"86 years"	"86"	"Sequelae of other and unspecified cerebrovascular diseases"	"I69.8"	17	Not Applicable	Not Applicable
+	"Oregon"	"41"	"86 years"	"86"	"Bacterial pneumonia, unspecified"	"J15.9"	14	Not Applicable	Not Applicable
+	"Oregon"	"41"	"86 years"	"86"	"Pneumonia, unspecified"	"J18.9"	19	Not Applicable	Not Applicable
+	"Oregon"	"41"	"86 years"	"86"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	19	Not Applicable	Not Applicable
+	"Oregon"	"41"	"86 years"	"86"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	113	Not Applicable	Not Applicable
+	"Oregon"	"41"	"86 years"	"86"	"Other interstitial pulmonary diseases with fibrosis"	"J84.1"	11	Not Applicable	Not Applicable
+	"Oregon"	"41"	"86 years"	"86"	"Other and unspecified intestinal obstruction"	"K56.6"	10	Not Applicable	Not Applicable
+	"Oregon"	"41"	"86 years"	"86"	"Gastrointestinal haemorrhage, unspecified"	"K92.2"	11	Not Applicable	Not Applicable
+	"Oregon"	"41"	"86 years"	"86"	"Urinary tract infection, site not specified"	"N39.0"	18	Not Applicable	Not Applicable
+	"Oregon"	"41"	"86 years"	"86"	"Other ill-defined and unspecified causes of mortality"	"R99"	21	Not Applicable	Not Applicable
+	"Oregon"	"41"	"86 years"	"86"	"COVID-19"	"U07.1"	16	Not Applicable	Not Applicable
+	"Oregon"	"41"	"86 years"	"86"	"Other fall on same level"	"W18"	68	Not Applicable	Not Applicable
+	"Oregon"	"41"	"86 years"	"86"	"Unspecified fall"	"W19"	10	Not Applicable	Not Applicable
+	"Oregon"	"41"	"87 years"	"87"	"Septicaemia, unspecified"	"A41.9"	11	Not Applicable	Not Applicable
+	"Oregon"	"41"	"87 years"	"87"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	25	Not Applicable	Not Applicable
+	"Oregon"	"41"	"87 years"	"87"	"Malignant neoplasm of rectum"	"C20"	11	Not Applicable	Not Applicable
+	"Oregon"	"41"	"87 years"	"87"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	32	Not Applicable	Not Applicable
+	"Oregon"	"41"	"87 years"	"87"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	89	Not Applicable	Not Applicable
+	"Oregon"	"41"	"87 years"	"87"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	47	Not Applicable	Not Applicable
+	"Oregon"	"41"	"87 years"	"87"	"Malignant neoplasm of ovary"	"C56"	15	Not Applicable	Not Applicable
+	"Oregon"	"41"	"87 years"	"87"	"Malignant neoplasm without specification of site"	"C80"	34	Not Applicable	Not Applicable
+	"Oregon"	"41"	"87 years"	"87"	"Multiple myeloma - Malignant neoplasms"	"C90.0"	11	Not Applicable	Not Applicable
+	"Oregon"	"41"	"87 years"	"87"	"Non-insulin-dependent diabetes mellitus, with renal complications"	"E11.2"	17	Not Applicable	Not Applicable
+	"Oregon"	"41"	"87 years"	"87"	"Non-insulin-dependent diabetes mellitus, without complications"	"E11.9"	19	Not Applicable	Not Applicable
+	"Oregon"	"41"	"87 years"	"87"	"Unspecified diabetes mellitus, with renal complications"	"E14.2"	11	Not Applicable	Not Applicable
+	"Oregon"	"41"	"87 years"	"87"	"Unspecified diabetes mellitus, without complications"	"E14.9"	19	Not Applicable	Not Applicable
+	"Oregon"	"41"	"87 years"	"87"	"Unspecified severe protein-energy malnutrition"	"E43"	13	Not Applicable	Not Applicable
+	"Oregon"	"41"	"87 years"	"87"	"Hyperlipidaemia, unspecified"	"E78.5"	11	Not Applicable	Not Applicable
+	"Oregon"	"41"	"87 years"	"87"	"Vascular dementia, unspecified"	"F01.9"	65	Not Applicable	Not Applicable
+	"Oregon"	"41"	"87 years"	"87"	"Unspecified dementia"	"F03"	221	Not Applicable	Not Applicable
+	"Oregon"	"41"	"87 years"	"87"	"Parkinson disease"	"G20"	42	Not Applicable	Not Applicable
+	"Oregon"	"41"	"87 years"	"87"	"Alzheimer disease with late onset"	"G30.1"	26	Not Applicable	Not Applicable
+	"Oregon"	"41"	"87 years"	"87"	"Alzheimer disease, unspecified"	"G30.9"	303	Not Applicable	Not Applicable
+	"Oregon"	"41"	"87 years"	"87"	"Senile degeneration of brain, not elsewhere classified"	"G31.1"	25	Not Applicable	Not Applicable
+	"Oregon"	"41"	"87 years"	"87"	"Other specified degenerative diseases of nervous system"	"G31.8"	17	Not Applicable	Not Applicable
+	"Oregon"	"41"	"87 years"	"87"	"Essential (primary) hypertension"	"I10"	33	Not Applicable	Not Applicable
+	"Oregon"	"41"	"87 years"	"87"	"Hypertensive heart disease with (congestive) heart failure"	"I11.0"	28	Not Applicable	Not Applicable
+	"Oregon"	"41"	"87 years"	"87"	"Hypertensive renal disease with renal failure"	"I12.0"	15	Not Applicable	Not Applicable
+	"Oregon"	"41"	"87 years"	"87"	"Hypertensive heart and renal disease with both (congestive) heart failure and renal failure"	"I13.2"	11	Not Applicable	Not Applicable
+	"Oregon"	"41"	"87 years"	"87"	"Acute subendocardial myocardial infarction"	"I21.4"	13	Not Applicable	Not Applicable
+	"Oregon"	"41"	"87 years"	"87"	"Acute myocardial infarction, unspecified"	"I21.9"	55	Not Applicable	Not Applicable
+	"Oregon"	"41"	"87 years"	"87"	"Atherosclerotic heart disease"	"I25.1"	114	Not Applicable	Not Applicable
+	"Oregon"	"41"	"87 years"	"87"	"Other secondary pulmonary hypertension"	"I27.2"	19	Not Applicable	Not Applicable
+	"Oregon"	"41"	"87 years"	"87"	"Aortic (valve) stenosis"	"I35.0"	57	Not Applicable	Not Applicable
+	"Oregon"	"41"	"87 years"	"87"	"Endocarditis, valve unspecified"	"I38"	14	Not Applicable	Not Applicable
+	"Oregon"	"41"	"87 years"	"87"	"Atrial fibrillation and flutter"	"I48"	90	Not Applicable	Not Applicable
+	"Oregon"	"41"	"87 years"	"87"	"Congestive heart failure"	"I50.0"	85	Not Applicable	Not Applicable
+	"Oregon"	"41"	"87 years"	"87"	"Heart failure, unspecified"	"I50.9"	28	Not Applicable	Not Applicable
+	"Oregon"	"41"	"87 years"	"87"	"Intracerebral haemorrhage, unspecified"	"I61.9"	18	Not Applicable	Not Applicable
+	"Oregon"	"41"	"87 years"	"87"	"Cerebral infarction, unspecified"	"I63.9"	16	Not Applicable	Not Applicable
+	"Oregon"	"41"	"87 years"	"87"	"Stroke, not specified as haemorrhage or infarction"	"I64"	93	Not Applicable	Not Applicable
+	"Oregon"	"41"	"87 years"	"87"	"Cerebral atherosclerosis"	"I67.2"	13	Not Applicable	Not Applicable
+	"Oregon"	"41"	"87 years"	"87"	"Sequelae of stroke, not specified as haemorrhage or infarction"	"I69.4"	21	Not Applicable	Not Applicable
+	"Oregon"	"41"	"87 years"	"87"	"Sequelae of other and unspecified cerebrovascular diseases"	"I69.8"	22	Not Applicable	Not Applicable
+	"Oregon"	"41"	"87 years"	"87"	"Pneumonia, unspecified"	"J18.9"	16	Not Applicable	Not Applicable
+	"Oregon"	"41"	"87 years"	"87"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	22	Not Applicable	Not Applicable
+	"Oregon"	"41"	"87 years"	"87"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	91	Not Applicable	Not Applicable
+	"Oregon"	"41"	"87 years"	"87"	"Other interstitial pulmonary diseases with fibrosis"	"J84.1"	16	Not Applicable	Not Applicable
+	"Oregon"	"41"	"87 years"	"87"	"Urinary tract infection, site not specified"	"N39.0"	17	Not Applicable	Not Applicable
+	"Oregon"	"41"	"87 years"	"87"	"Other ill-defined and unspecified causes of mortality"	"R99"	21	Not Applicable	Not Applicable
+	"Oregon"	"41"	"87 years"	"87"	"COVID-19"	"U07.1"	27	Not Applicable	Not Applicable
+	"Oregon"	"41"	"87 years"	"87"	"Other fall on same level"	"W18"	69	Not Applicable	Not Applicable
+	"Oregon"	"41"	"88 years"	"88"	"Septicaemia, unspecified"	"A41.9"	14	Not Applicable	Not Applicable
+	"Oregon"	"41"	"88 years"	"88"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	40	Not Applicable	Not Applicable
+	"Oregon"	"41"	"88 years"	"88"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	18	Not Applicable	Not Applicable
+	"Oregon"	"41"	"88 years"	"88"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	86	Not Applicable	Not Applicable
+	"Oregon"	"41"	"88 years"	"88"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	57	Not Applicable	Not Applicable
+	"Oregon"	"41"	"88 years"	"88"	"Malignant neoplasm of ovary"	"C56"	21	Not Applicable	Not Applicable
+	"Oregon"	"41"	"88 years"	"88"	"Malignant neoplasm of kidney, except renal pelvis"	"C64"	12	Not Applicable	Not Applicable
+	"Oregon"	"41"	"88 years"	"88"	"Bladder, unspecified - Malignant neoplasms"	"C67.9"	14	Not Applicable	Not Applicable
+	"Oregon"	"41"	"88 years"	"88"	"Malignant neoplasm without specification of site"	"C80"	26	Not Applicable	Not Applicable
+	"Oregon"	"41"	"88 years"	"88"	"Chronic lymphocytic leukaemia - Malignant neoplasms"	"C91.1"	10	Not Applicable	Not Applicable
+	"Oregon"	"41"	"88 years"	"88"	"Non-insulin-dependent diabetes mellitus, with renal complications"	"E11.2"	16	Not Applicable	Not Applicable
+	"Oregon"	"41"	"88 years"	"88"	"Non-insulin-dependent diabetes mellitus, without complications"	"E11.9"	20	Not Applicable	Not Applicable
+	"Oregon"	"41"	"88 years"	"88"	"Unspecified diabetes mellitus, without complications"	"E14.9"	13	Not Applicable	Not Applicable
+	"Oregon"	"41"	"88 years"	"88"	"Unspecified severe protein-energy malnutrition"	"E43"	10	Not Applicable	Not Applicable
+	"Oregon"	"41"	"88 years"	"88"	"Vascular dementia, unspecified"	"F01.9"	66	Not Applicable	Not Applicable
+	"Oregon"	"41"	"88 years"	"88"	"Unspecified dementia"	"F03"	229	Not Applicable	Not Applicable
+	"Oregon"	"41"	"88 years"	"88"	"Parkinson disease"	"G20"	40	Not Applicable	Not Applicable
+	"Oregon"	"41"	"88 years"	"88"	"Alzheimer disease with late onset"	"G30.1"	18	Not Applicable	Not Applicable
+	"Oregon"	"41"	"88 years"	"88"	"Alzheimer disease, unspecified"	"G30.9"	324	Not Applicable	Not Applicable
+	"Oregon"	"41"	"88 years"	"88"	"Senile degeneration of brain, not elsewhere classified"	"G31.1"	33	Not Applicable	Not Applicable
+	"Oregon"	"41"	"88 years"	"88"	"Other specified degenerative diseases of nervous system"	"G31.8"	11	Not Applicable	Not Applicable
+	"Oregon"	"41"	"88 years"	"88"	"Essential (primary) hypertension"	"I10"	31	Not Applicable	Not Applicable
+	"Oregon"	"41"	"88 years"	"88"	"Hypertensive heart disease with (congestive) heart failure"	"I11.0"	33	Not Applicable	Not Applicable
+	"Oregon"	"41"	"88 years"	"88"	"Hypertensive renal disease with renal failure"	"I12.0"	18	Not Applicable	Not Applicable
+	"Oregon"	"41"	"88 years"	"88"	"Acute myocardial infarction, unspecified"	"I21.9"	50	Not Applicable	Not Applicable
+	"Oregon"	"41"	"88 years"	"88"	"Atherosclerotic heart disease"	"I25.1"	124	Not Applicable	Not Applicable
+	"Oregon"	"41"	"88 years"	"88"	"Chronic ischaemic heart disease, unspecified"	"I25.9"	12	Not Applicable	Not Applicable
+	"Oregon"	"41"	"88 years"	"88"	"Other secondary pulmonary hypertension"	"I27.2"	30	Not Applicable	Not Applicable
+	"Oregon"	"41"	"88 years"	"88"	"Aortic (valve) stenosis"	"I35.0"	63	Not Applicable	Not Applicable
+	"Oregon"	"41"	"88 years"	"88"	"Endocarditis, valve unspecified"	"I38"	11	Not Applicable	Not Applicable
+	"Oregon"	"41"	"88 years"	"88"	"Atrial fibrillation and flutter"	"I48"	101	Not Applicable	Not Applicable
+	"Oregon"	"41"	"88 years"	"88"	"Congestive heart failure"	"I50.0"	77	Not Applicable	Not Applicable
+	"Oregon"	"41"	"88 years"	"88"	"Heart failure, unspecified"	"I50.9"	23	Not Applicable	Not Applicable
+	"Oregon"	"41"	"88 years"	"88"	"Intracerebral haemorrhage, unspecified"	"I61.9"	24	Not Applicable	Not Applicable
+	"Oregon"	"41"	"88 years"	"88"	"Intracranial haemorrhage (nontraumatic), unspecified"	"I62.9"	10	Not Applicable	Not Applicable
+	"Oregon"	"41"	"88 years"	"88"	"Cerebral infarction, unspecified"	"I63.9"	29	Not Applicable	Not Applicable
+	"Oregon"	"41"	"88 years"	"88"	"Stroke, not specified as haemorrhage or infarction"	"I64"	108	Not Applicable	Not Applicable
+	"Oregon"	"41"	"88 years"	"88"	"Cerebral atherosclerosis"	"I67.2"	11	Not Applicable	Not Applicable
+	"Oregon"	"41"	"88 years"	"88"	"Cerebrovascular disease, unspecified"	"I67.9"	11	Not Applicable	Not Applicable
+	"Oregon"	"41"	"88 years"	"88"	"Sequelae of stroke, not specified as haemorrhage or infarction"	"I69.4"	33	Not Applicable	Not Applicable
+	"Oregon"	"41"	"88 years"	"88"	"Sequelae of other and unspecified cerebrovascular diseases"	"I69.8"	25	Not Applicable	Not Applicable
+	"Oregon"	"41"	"88 years"	"88"	"Peripheral vascular disease, unspecified"	"I73.9"	13	Not Applicable	Not Applicable
+	"Oregon"	"41"	"88 years"	"88"	"Pneumonia, unspecified"	"J18.9"	16	Not Applicable	Not Applicable
+	"Oregon"	"41"	"88 years"	"88"	"Emphysema, unspecified"	"J43.9"	15	Not Applicable	Not Applicable
+	"Oregon"	"41"	"88 years"	"88"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	14	Not Applicable	Not Applicable
+	"Oregon"	"41"	"88 years"	"88"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	98	Not Applicable	Not Applicable
+	"Oregon"	"41"	"88 years"	"88"	"Interstitial pulmonary disease, unspecified"	"J84.9"	10	Not Applicable	Not Applicable
+	"Oregon"	"41"	"88 years"	"88"	"Gastrointestinal haemorrhage, unspecified"	"K92.2"	18	Not Applicable	Not Applicable
+	"Oregon"	"41"	"88 years"	"88"	"Urinary tract infection, site not specified"	"N39.0"	15	Not Applicable	Not Applicable
+	"Oregon"	"41"	"88 years"	"88"	"Other ill-defined and unspecified causes of mortality"	"R99"	22	Not Applicable	Not Applicable
+	"Oregon"	"41"	"88 years"	"88"	"COVID-19"	"U07.1"	28	Not Applicable	Not Applicable
+	"Oregon"	"41"	"88 years"	"88"	"Other fall on same level"	"W18"	67	Not Applicable	Not Applicable
+	"Oregon"	"41"	"88 years"	"88"	"Unspecified fall"	"W19"	12	Not Applicable	Not Applicable
+	"Oregon"	"41"	"89 years"	"89"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	26	Not Applicable	Not Applicable
+	"Oregon"	"41"	"89 years"	"89"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	23	Not Applicable	Not Applicable
+	"Oregon"	"41"	"89 years"	"89"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	64	Not Applicable	Not Applicable
+	"Oregon"	"41"	"89 years"	"89"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	41	Not Applicable	Not Applicable
+	"Oregon"	"41"	"89 years"	"89"	"Malignant neoplasm of ovary"	"C56"	12	Not Applicable	Not Applicable
+	"Oregon"	"41"	"89 years"	"89"	"Bladder, unspecified - Malignant neoplasms"	"C67.9"	13	Not Applicable	Not Applicable
+	"Oregon"	"41"	"89 years"	"89"	"Malignant neoplasm without specification of site"	"C80"	19	Not Applicable	Not Applicable
+	"Oregon"	"41"	"89 years"	"89"	"Non-insulin-dependent diabetes mellitus, with renal complications"	"E11.2"	12	Not Applicable	Not Applicable
+	"Oregon"	"41"	"89 years"	"89"	"Unspecified diabetes mellitus, with renal complications"	"E14.2"	11	Not Applicable	Not Applicable
+	"Oregon"	"41"	"89 years"	"89"	"Unspecified diabetes mellitus, without complications"	"E14.9"	13	Not Applicable	Not Applicable
+	"Oregon"	"41"	"89 years"	"89"	"Hyperlipidaemia, unspecified"	"E78.5"	11	Not Applicable	Not Applicable
+	"Oregon"	"41"	"89 years"	"89"	"Vascular dementia, unspecified"	"F01.9"	85	Not Applicable	Not Applicable
+	"Oregon"	"41"	"89 years"	"89"	"Unspecified dementia"	"F03"	285	Not Applicable	Not Applicable
+	"Oregon"	"41"	"89 years"	"89"	"Parkinson disease"	"G20"	34	Not Applicable	Not Applicable
+	"Oregon"	"41"	"89 years"	"89"	"Alzheimer disease with late onset"	"G30.1"	25	Not Applicable	Not Applicable
+	"Oregon"	"41"	"89 years"	"89"	"Alzheimer disease, unspecified"	"G30.9"	342	Not Applicable	Not Applicable
+	"Oregon"	"41"	"89 years"	"89"	"Senile degeneration of brain, not elsewhere classified"	"G31.1"	19	Not Applicable	Not Applicable
+	"Oregon"	"41"	"89 years"	"89"	"Other specified degenerative diseases of nervous system"	"G31.8"	16	Not Applicable	Not Applicable
+	"Oregon"	"41"	"89 years"	"89"	"Essential (primary) hypertension"	"I10"	49	Not Applicable	Not Applicable
+	"Oregon"	"41"	"89 years"	"89"	"Hypertensive heart disease with (congestive) heart failure"	"I11.0"	19	Not Applicable	Not Applicable
+	"Oregon"	"41"	"89 years"	"89"	"Hypertensive renal disease with renal failure"	"I12.0"	15	Not Applicable	Not Applicable
+	"Oregon"	"41"	"89 years"	"89"	"Hypertensive heart and renal disease with both (congestive) heart failure and renal failure"	"I13.2"	12	Not Applicable	Not Applicable
+	"Oregon"	"41"	"89 years"	"89"	"Acute subendocardial myocardial infarction"	"I21.4"	11	Not Applicable	Not Applicable
+	"Oregon"	"41"	"89 years"	"89"	"Acute myocardial infarction, unspecified"	"I21.9"	68	Not Applicable	Not Applicable
+	"Oregon"	"41"	"89 years"	"89"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	13	Not Applicable	Not Applicable
+	"Oregon"	"41"	"89 years"	"89"	"Atherosclerotic heart disease"	"I25.1"	133	Not Applicable	Not Applicable
+	"Oregon"	"41"	"89 years"	"89"	"Other secondary pulmonary hypertension"	"I27.2"	29	Not Applicable	Not Applicable
+	"Oregon"	"41"	"89 years"	"89"	"Mitral (valve) insufficiency"	"I34.0"	12	Not Applicable	Not Applicable
+	"Oregon"	"41"	"89 years"	"89"	"Aortic (valve) stenosis"	"I35.0"	70	Not Applicable	Not Applicable
+	"Oregon"	"41"	"89 years"	"89"	"Atrial fibrillation and flutter"	"I48"	97	Not Applicable	Not Applicable
+	"Oregon"	"41"	"89 years"	"89"	"Congestive heart failure"	"I50.0"	83	Not Applicable	Not Applicable
+	"Oregon"	"41"	"89 years"	"89"	"Heart failure, unspecified"	"I50.9"	28	Not Applicable	Not Applicable
+	"Oregon"	"41"	"89 years"	"89"	"Intracerebral haemorrhage, unspecified"	"I61.9"	11	Not Applicable	Not Applicable
+	"Oregon"	"41"	"89 years"	"89"	"Intracranial haemorrhage (nontraumatic), unspecified"	"I62.9"	10	Not Applicable	Not Applicable
+	"Oregon"	"41"	"89 years"	"89"	"Cerebral infarction, unspecified"	"I63.9"	21	Not Applicable	Not Applicable
+	"Oregon"	"41"	"89 years"	"89"	"Stroke, not specified as haemorrhage or infarction"	"I64"	103	Not Applicable	Not Applicable
+	"Oregon"	"41"	"89 years"	"89"	"Cerebral atherosclerosis"	"I67.2"	15	Not Applicable	Not Applicable
+	"Oregon"	"41"	"89 years"	"89"	"Cerebrovascular disease, unspecified"	"I67.9"	18	Not Applicable	Not Applicable
+	"Oregon"	"41"	"89 years"	"89"	"Sequelae of stroke, not specified as haemorrhage or infarction"	"I69.4"	33	Not Applicable	Not Applicable
+	"Oregon"	"41"	"89 years"	"89"	"Sequelae of other and unspecified cerebrovascular diseases"	"I69.8"	23	Not Applicable	Not Applicable
+	"Oregon"	"41"	"89 years"	"89"	"Pneumonia, unspecified"	"J18.9"	16	Not Applicable	Not Applicable
+	"Oregon"	"41"	"89 years"	"89"	"Emphysema, unspecified"	"J43.9"	12	Not Applicable	Not Applicable
+	"Oregon"	"41"	"89 years"	"89"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	17	Not Applicable	Not Applicable
+	"Oregon"	"41"	"89 years"	"89"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	117	Not Applicable	Not Applicable
+	"Oregon"	"41"	"89 years"	"89"	"Pneumonitis due to food and vomit"	"J69.0"	10	Not Applicable	Not Applicable
+	"Oregon"	"41"	"89 years"	"89"	"Other and unspecified intestinal obstruction"	"K56.6"	13	Not Applicable	Not Applicable
+	"Oregon"	"41"	"89 years"	"89"	"Gastrointestinal haemorrhage, unspecified"	"K92.2"	14	Not Applicable	Not Applicable
+	"Oregon"	"41"	"89 years"	"89"	"Urinary tract infection, site not specified"	"N39.0"	14	Not Applicable	Not Applicable
+	"Oregon"	"41"	"89 years"	"89"	"Other ill-defined and unspecified causes of mortality"	"R99"	23	Not Applicable	Not Applicable
+	"Oregon"	"41"	"89 years"	"89"	"COVID-19"	"U07.1"	23	Not Applicable	Not Applicable
+	"Oregon"	"41"	"89 years"	"89"	"Other fall on same level"	"W18"	62	Not Applicable	Not Applicable
+	"Oregon"	"41"	"90 years"	"90"	"Enterocolitis due to Clostridium difficile"	"A04.7"	13	Not Applicable	Not Applicable
+	"Oregon"	"41"	"90 years"	"90"	"Septicaemia, unspecified"	"A41.9"	12	Not Applicable	Not Applicable
+	"Oregon"	"41"	"90 years"	"90"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	27	Not Applicable	Not Applicable
+	"Oregon"	"41"	"90 years"	"90"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	19	Not Applicable	Not Applicable
+	"Oregon"	"41"	"90 years"	"90"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	39	Not Applicable	Not Applicable
+	"Oregon"	"41"	"90 years"	"90"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	37	Not Applicable	Not Applicable
+	"Oregon"	"41"	"90 years"	"90"	"Malignant neoplasm of ovary"	"C56"	12	Not Applicable	Not Applicable
+	"Oregon"	"41"	"90 years"	"90"	"Malignant neoplasm without specification of site"	"C80"	21	Not Applicable	Not Applicable
+	"Oregon"	"41"	"90 years"	"90"	"Chronic lymphocytic leukaemia - Malignant neoplasms"	"C91.1"	11	Not Applicable	Not Applicable
+	"Oregon"	"41"	"90 years"	"90"	"Non-insulin-dependent diabetes mellitus, with renal complications"	"E11.2"	10	Not Applicable	Not Applicable
+	"Oregon"	"41"	"90 years"	"90"	"Non-insulin-dependent diabetes mellitus, without complications"	"E11.9"	19	Not Applicable	Not Applicable
+	"Oregon"	"41"	"90 years"	"90"	"Unspecified diabetes mellitus, without complications"	"E14.9"	10	Not Applicable	Not Applicable
+	"Oregon"	"41"	"90 years"	"90"	"Vascular dementia, unspecified"	"F01.9"	76	Not Applicable	Not Applicable
+	"Oregon"	"41"	"90 years"	"90"	"Unspecified dementia"	"F03"	261	Not Applicable	Not Applicable
+	"Oregon"	"41"	"90 years"	"90"	"Parkinson disease"	"G20"	27	Not Applicable	Not Applicable
+	"Oregon"	"41"	"90 years"	"90"	"Alzheimer disease with late onset"	"G30.1"	41	Not Applicable	Not Applicable
+	"Oregon"	"41"	"90 years"	"90"	"Alzheimer disease, unspecified"	"G30.9"	359	Not Applicable	Not Applicable
+	"Oregon"	"41"	"90 years"	"90"	"Senile degeneration of brain, not elsewhere classified"	"G31.1"	29	Not Applicable	Not Applicable
+	"Oregon"	"41"	"90 years"	"90"	"Other specified degenerative diseases of nervous system"	"G31.8"	12	Not Applicable	Not Applicable
+	"Oregon"	"41"	"90 years"	"90"	"Essential (primary) hypertension"	"I10"	42	Not Applicable	Not Applicable
+	"Oregon"	"41"	"90 years"	"90"	"Hypertensive heart disease with (congestive) heart failure"	"I11.0"	37	Not Applicable	Not Applicable
+	"Oregon"	"41"	"90 years"	"90"	"Hypertensive renal disease with renal failure"	"I12.0"	19	Not Applicable	Not Applicable
+	"Oregon"	"41"	"90 years"	"90"	"Hypertensive heart and renal disease with both (congestive) heart failure and renal failure"	"I13.2"	12	Not Applicable	Not Applicable
+	"Oregon"	"41"	"90 years"	"90"	"Acute subendocardial myocardial infarction"	"I21.4"	10	Not Applicable	Not Applicable
+	"Oregon"	"41"	"90 years"	"90"	"Acute myocardial infarction, unspecified"	"I21.9"	48	Not Applicable	Not Applicable
+	"Oregon"	"41"	"90 years"	"90"	"Atherosclerotic heart disease"	"I25.1"	119	Not Applicable	Not Applicable
+	"Oregon"	"41"	"90 years"	"90"	"Other secondary pulmonary hypertension"	"I27.2"	24	Not Applicable	Not Applicable
+	"Oregon"	"41"	"90 years"	"90"	"Mitral (valve) insufficiency"	"I34.0"	14	Not Applicable	Not Applicable
+	"Oregon"	"41"	"90 years"	"90"	"Aortic (valve) stenosis"	"I35.0"	60	Not Applicable	Not Applicable
+	"Oregon"	"41"	"90 years"	"90"	"Endocarditis, valve unspecified"	"I38"	10	Not Applicable	Not Applicable
+	"Oregon"	"41"	"90 years"	"90"	"Atrial fibrillation and flutter"	"I48"	100	Not Applicable	Not Applicable
+	"Oregon"	"41"	"90 years"	"90"	"Congestive heart failure"	"I50.0"	86	Not Applicable	Not Applicable
+	"Oregon"	"41"	"90 years"	"90"	"Heart failure, unspecified"	"I50.9"	24	Not Applicable	Not Applicable
+	"Oregon"	"41"	"90 years"	"90"	"Intracerebral haemorrhage, unspecified"	"I61.9"	11	Not Applicable	Not Applicable
+	"Oregon"	"41"	"90 years"	"90"	"Cerebral infarction, unspecified"	"I63.9"	24	Not Applicable	Not Applicable
+	"Oregon"	"41"	"90 years"	"90"	"Stroke, not specified as haemorrhage or infarction"	"I64"	120	Not Applicable	Not Applicable
+	"Oregon"	"41"	"90 years"	"90"	"Cerebral atherosclerosis"	"I67.2"	10	Not Applicable	Not Applicable
+	"Oregon"	"41"	"90 years"	"90"	"Cerebrovascular disease, unspecified"	"I67.9"	20	Not Applicable	Not Applicable
+	"Oregon"	"41"	"90 years"	"90"	"Sequelae of stroke, not specified as haemorrhage or infarction"	"I69.4"	27	Not Applicable	Not Applicable
+	"Oregon"	"41"	"90 years"	"90"	"Sequelae of other and unspecified cerebrovascular diseases"	"I69.8"	28	Not Applicable	Not Applicable
+	"Oregon"	"41"	"90 years"	"90"	"Pneumonia, unspecified"	"J18.9"	22	Not Applicable	Not Applicable
+	"Oregon"	"41"	"90 years"	"90"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	14	Not Applicable	Not Applicable
+	"Oregon"	"41"	"90 years"	"90"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	92	Not Applicable	Not Applicable
+	"Oregon"	"41"	"90 years"	"90"	"Other interstitial pulmonary diseases with fibrosis"	"J84.1"	15	Not Applicable	Not Applicable
+	"Oregon"	"41"	"90 years"	"90"	"Vascular disorder of intestine, unspecified"	"K55.9"	13	Not Applicable	Not Applicable
+	"Oregon"	"41"	"90 years"	"90"	"Other and unspecified intestinal obstruction"	"K56.6"	12	Not Applicable	Not Applicable
+	"Oregon"	"41"	"90 years"	"90"	"Gastrointestinal haemorrhage, unspecified"	"K92.2"	14	Not Applicable	Not Applicable
+	"Oregon"	"41"	"90 years"	"90"	"Urinary tract infection, site not specified"	"N39.0"	23	Not Applicable	Not Applicable
+	"Oregon"	"41"	"90 years"	"90"	"Other ill-defined and unspecified causes of mortality"	"R99"	20	Not Applicable	Not Applicable
+	"Oregon"	"41"	"90 years"	"90"	"COVID-19"	"U07.1"	17	Not Applicable	Not Applicable
+	"Oregon"	"41"	"90 years"	"90"	"Other fall on same level"	"W18"	84	Not Applicable	Not Applicable
+	"Oregon"	"41"	"90 years"	"90"	"Unspecified fall"	"W19"	12	Not Applicable	Not Applicable
+	"Oregon"	"41"	"91 years"	"91"	"Septicaemia, unspecified"	"A41.9"	15	Not Applicable	Not Applicable
+	"Oregon"	"41"	"91 years"	"91"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	27	Not Applicable	Not Applicable
+	"Oregon"	"41"	"91 years"	"91"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	17	Not Applicable	Not Applicable
+	"Oregon"	"41"	"91 years"	"91"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	43	Not Applicable	Not Applicable
+	"Oregon"	"41"	"91 years"	"91"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	41	Not Applicable	Not Applicable
+	"Oregon"	"41"	"91 years"	"91"	"Malignant neoplasm of ovary"	"C56"	11	Not Applicable	Not Applicable
+	"Oregon"	"41"	"91 years"	"91"	"Bladder, unspecified - Malignant neoplasms"	"C67.9"	11	Not Applicable	Not Applicable
+	"Oregon"	"41"	"91 years"	"91"	"Malignant neoplasm without specification of site"	"C80"	22	Not Applicable	Not Applicable
+	"Oregon"	"41"	"91 years"	"91"	"Non-Hodgkin lymphoma, unspecified type"	"C85.9"	10	Not Applicable	Not Applicable
+	"Oregon"	"41"	"91 years"	"91"	"Non-insulin-dependent diabetes mellitus, without complications"	"E11.9"	18	Not Applicable	Not Applicable
+	"Oregon"	"41"	"91 years"	"91"	"Unspecified diabetes mellitus, without complications"	"E14.9"	10	Not Applicable	Not Applicable
+	"Oregon"	"41"	"91 years"	"91"	"Unspecified severe protein-energy malnutrition"	"E43"	12	Not Applicable	Not Applicable
+	"Oregon"	"41"	"91 years"	"91"	"Hyperlipidaemia, unspecified"	"E78.5"	13	Not Applicable	Not Applicable
+	"Oregon"	"41"	"91 years"	"91"	"Vascular dementia, unspecified"	"F01.9"	94	Not Applicable	Not Applicable
+	"Oregon"	"41"	"91 years"	"91"	"Unspecified dementia"	"F03"	296	Not Applicable	Not Applicable
+	"Oregon"	"41"	"91 years"	"91"	"Parkinson disease"	"G20"	22	Not Applicable	Not Applicable
+	"Oregon"	"41"	"91 years"	"91"	"Alzheimer disease with late onset"	"G30.1"	31	Not Applicable	Not Applicable
+	"Oregon"	"41"	"91 years"	"91"	"Alzheimer disease, unspecified"	"G30.9"	321	Not Applicable	Not Applicable
+	"Oregon"	"41"	"91 years"	"91"	"Senile degeneration of brain, not elsewhere classified"	"G31.1"	23	Not Applicable	Not Applicable
+	"Oregon"	"41"	"91 years"	"91"	"Other specified degenerative diseases of nervous system"	"G31.8"	14	Not Applicable	Not Applicable
+	"Oregon"	"41"	"91 years"	"91"	"Essential (primary) hypertension"	"I10"	39	Not Applicable	Not Applicable
+	"Oregon"	"41"	"91 years"	"91"	"Hypertensive heart disease with (congestive) heart failure"	"I11.0"	58	Not Applicable	Not Applicable
+	"Oregon"	"41"	"91 years"	"91"	"Hypertensive renal disease with renal failure"	"I12.0"	19	Not Applicable	Not Applicable
+	"Oregon"	"41"	"91 years"	"91"	"Hypertensive heart and renal disease with both (congestive) heart failure and renal failure"	"I13.2"	15	Not Applicable	Not Applicable
+	"Oregon"	"41"	"91 years"	"91"	"Acute subendocardial myocardial infarction"	"I21.4"	15	Not Applicable	Not Applicable
+	"Oregon"	"41"	"91 years"	"91"	"Acute myocardial infarction, unspecified"	"I21.9"	56	Not Applicable	Not Applicable
+	"Oregon"	"41"	"91 years"	"91"	"Atherosclerotic heart disease"	"I25.1"	131	Not Applicable	Not Applicable
+	"Oregon"	"41"	"91 years"	"91"	"Other secondary pulmonary hypertension"	"I27.2"	28	Not Applicable	Not Applicable
+	"Oregon"	"41"	"91 years"	"91"	"Mitral (valve) insufficiency"	"I34.0"	13	Not Applicable	Not Applicable
+	"Oregon"	"41"	"91 years"	"91"	"Aortic (valve) stenosis"	"I35.0"	67	Not Applicable	Not Applicable
+	"Oregon"	"41"	"91 years"	"91"	"Atrial fibrillation and flutter"	"I48"	98	Not Applicable	Not Applicable
+	"Oregon"	"41"	"91 years"	"91"	"Congestive heart failure"	"I50.0"	105	Not Applicable	Not Applicable
+	"Oregon"	"41"	"91 years"	"91"	"Heart failure, unspecified"	"I50.9"	39	Not Applicable	Not Applicable
+	"Oregon"	"41"	"91 years"	"91"	"Intracerebral haemorrhage, unspecified"	"I61.9"	14	Not Applicable	Not Applicable
+	"Oregon"	"41"	"91 years"	"91"	"Intracranial haemorrhage (nontraumatic), unspecified"	"I62.9"	12	Not Applicable	Not Applicable
+	"Oregon"	"41"	"91 years"	"91"	"Cerebral infarction, unspecified"	"I63.9"	16	Not Applicable	Not Applicable
+	"Oregon"	"41"	"91 years"	"91"	"Stroke, not specified as haemorrhage or infarction"	"I64"	111	Not Applicable	Not Applicable
+	"Oregon"	"41"	"91 years"	"91"	"Cerebrovascular disease, unspecified"	"I67.9"	20	Not Applicable	Not Applicable
+	"Oregon"	"41"	"91 years"	"91"	"Sequelae of stroke, not specified as haemorrhage or infarction"	"I69.4"	36	Not Applicable	Not Applicable
+	"Oregon"	"41"	"91 years"	"91"	"Sequelae of other and unspecified cerebrovascular diseases"	"I69.8"	32	Not Applicable	Not Applicable
+	"Oregon"	"41"	"91 years"	"91"	"Pneumonia, unspecified"	"J18.9"	18	Not Applicable	Not Applicable
+	"Oregon"	"41"	"91 years"	"91"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	65	Not Applicable	Not Applicable
+	"Oregon"	"41"	"91 years"	"91"	"Pneumonitis due to food and vomit"	"J69.0"	10	Not Applicable	Not Applicable
+	"Oregon"	"41"	"91 years"	"91"	"Other interstitial pulmonary diseases with fibrosis"	"J84.1"	16	Not Applicable	Not Applicable
+	"Oregon"	"41"	"91 years"	"91"	"Vascular disorder of intestine, unspecified"	"K55.9"	10	Not Applicable	Not Applicable
+	"Oregon"	"41"	"91 years"	"91"	"Gastrointestinal haemorrhage, unspecified"	"K92.2"	15	Not Applicable	Not Applicable
+	"Oregon"	"41"	"91 years"	"91"	"Chronic renal failure, unspecified"	"N18.9"	12	Not Applicable	Not Applicable
+	"Oregon"	"41"	"91 years"	"91"	"Urinary tract infection, site not specified"	"N39.0"	20	Not Applicable	Not Applicable
+	"Oregon"	"41"	"91 years"	"91"	"Other ill-defined and unspecified causes of mortality"	"R99"	33	Not Applicable	Not Applicable
+	"Oregon"	"41"	"91 years"	"91"	"COVID-19"	"U07.1"	23	Not Applicable	Not Applicable
+	"Oregon"	"41"	"91 years"	"91"	"Other fall on same level"	"W18"	93	Not Applicable	Not Applicable
+	"Oregon"	"41"	"91 years"	"91"	"Unspecified fall"	"W19"	12	Not Applicable	Not Applicable
+	"Oregon"	"41"	"92 years"	"92"	"Septicaemia, unspecified"	"A41.9"	16	Not Applicable	Not Applicable
+	"Oregon"	"41"	"92 years"	"92"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	31	Not Applicable	Not Applicable
+	"Oregon"	"41"	"92 years"	"92"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	20	Not Applicable	Not Applicable
+	"Oregon"	"41"	"92 years"	"92"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	38	Not Applicable	Not Applicable
+	"Oregon"	"41"	"92 years"	"92"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	27	Not Applicable	Not Applicable
+	"Oregon"	"41"	"92 years"	"92"	"Bladder, unspecified - Malignant neoplasms"	"C67.9"	10	Not Applicable	Not Applicable
+	"Oregon"	"41"	"92 years"	"92"	"Multiple myeloma - Malignant neoplasms"	"C90.0"	12	Not Applicable	Not Applicable
+	"Oregon"	"41"	"92 years"	"92"	"Myelodysplastic syndrome, unspecified - Uncertain neoplasms"	"D46.9"	10	Not Applicable	Not Applicable
+	"Oregon"	"41"	"92 years"	"92"	"Non-insulin-dependent diabetes mellitus, without complications"	"E11.9"	10	Not Applicable	Not Applicable
+	"Oregon"	"41"	"92 years"	"92"	"Unspecified diabetes mellitus, without complications"	"E14.9"	10	Not Applicable	Not Applicable
+	"Oregon"	"41"	"92 years"	"92"	"Unspecified severe protein-energy malnutrition"	"E43"	11	Not Applicable	Not Applicable
+	"Oregon"	"41"	"92 years"	"92"	"Hyperlipidaemia, unspecified"	"E78.5"	15	Not Applicable	Not Applicable
+	"Oregon"	"41"	"92 years"	"92"	"Vascular dementia, unspecified"	"F01.9"	73	Not Applicable	Not Applicable
+	"Oregon"	"41"	"92 years"	"92"	"Unspecified dementia"	"F03"	314	Not Applicable	Not Applicable
+	"Oregon"	"41"	"92 years"	"92"	"Parkinson disease"	"G20"	27	Not Applicable	Not Applicable
+	"Oregon"	"41"	"92 years"	"92"	"Alzheimer disease with late onset"	"G30.1"	33	Not Applicable	Not Applicable
+	"Oregon"	"41"	"92 years"	"92"	"Alzheimer disease, unspecified"	"G30.9"	360	Not Applicable	Not Applicable
+	"Oregon"	"41"	"92 years"	"92"	"Senile degeneration of brain, not elsewhere classified"	"G31.1"	24	Not Applicable	Not Applicable
+	"Oregon"	"41"	"92 years"	"92"	"Other specified degenerative diseases of nervous system"	"G31.8"	10	Not Applicable	Not Applicable
+	"Oregon"	"41"	"92 years"	"92"	"Essential (primary) hypertension"	"I10"	43	Not Applicable	Not Applicable
+	"Oregon"	"41"	"92 years"	"92"	"Hypertensive heart disease with (congestive) heart failure"	"I11.0"	50	Not Applicable	Not Applicable
+	"Oregon"	"41"	"92 years"	"92"	"Hypertensive renal disease with renal failure"	"I12.0"	20	Not Applicable	Not Applicable
+	"Oregon"	"41"	"92 years"	"92"	"Hypertensive heart and renal disease with both (congestive) heart failure and renal failure"	"I13.2"	17	Not Applicable	Not Applicable
+	"Oregon"	"41"	"92 years"	"92"	"Acute subendocardial myocardial infarction"	"I21.4"	18	Not Applicable	Not Applicable
+	"Oregon"	"41"	"92 years"	"92"	"Acute myocardial infarction, unspecified"	"I21.9"	63	Not Applicable	Not Applicable
+	"Oregon"	"41"	"92 years"	"92"	"Atherosclerotic heart disease"	"I25.1"	127	Not Applicable	Not Applicable
+	"Oregon"	"41"	"92 years"	"92"	"Other secondary pulmonary hypertension"	"I27.2"	20	Not Applicable	Not Applicable
+	"Oregon"	"41"	"92 years"	"92"	"Aortic (valve) stenosis"	"I35.0"	91	Not Applicable	Not Applicable
+	"Oregon"	"41"	"92 years"	"92"	"Endocarditis, valve unspecified"	"I38"	10	Not Applicable	Not Applicable
+	"Oregon"	"41"	"92 years"	"92"	"Cardiomyopathy, unspecified"	"I42.9"	13	Not Applicable	Not Applicable
+	"Oregon"	"41"	"92 years"	"92"	"Atrial fibrillation and flutter"	"I48"	111	Not Applicable	Not Applicable
+	"Oregon"	"41"	"92 years"	"92"	"Congestive heart failure"	"I50.0"	103	Not Applicable	Not Applicable
+	"Oregon"	"41"	"92 years"	"92"	"Heart failure, unspecified"	"I50.9"	37	Not Applicable	Not Applicable
+	"Oregon"	"41"	"92 years"	"92"	"Intracerebral haemorrhage, unspecified"	"I61.9"	15	Not Applicable	Not Applicable
+	"Oregon"	"41"	"92 years"	"92"	"Cerebral infarction, unspecified"	"I63.9"	22	Not Applicable	Not Applicable
+	"Oregon"	"41"	"92 years"	"92"	"Stroke, not specified as haemorrhage or infarction"	"I64"	106	Not Applicable	Not Applicable
+	"Oregon"	"41"	"92 years"	"92"	"Cerebral atherosclerosis"	"I67.2"	15	Not Applicable	Not Applicable
+	"Oregon"	"41"	"92 years"	"92"	"Cerebrovascular disease, unspecified"	"I67.9"	18	Not Applicable	Not Applicable
+	"Oregon"	"41"	"92 years"	"92"	"Sequelae of stroke, not specified as haemorrhage or infarction"	"I69.4"	33	Not Applicable	Not Applicable
+	"Oregon"	"41"	"92 years"	"92"	"Sequelae of other and unspecified cerebrovascular diseases"	"I69.8"	29	Not Applicable	Not Applicable
+	"Oregon"	"41"	"92 years"	"92"	"Generalized and unspecified atherosclerosis"	"I70.9"	11	Not Applicable	Not Applicable
+	"Oregon"	"41"	"92 years"	"92"	"Pneumonia, unspecified"	"J18.9"	24	Not Applicable	Not Applicable
+	"Oregon"	"41"	"92 years"	"92"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	16	Not Applicable	Not Applicable
+	"Oregon"	"41"	"92 years"	"92"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	67	Not Applicable	Not Applicable
+	"Oregon"	"41"	"92 years"	"92"	"Other interstitial pulmonary diseases with fibrosis"	"J84.1"	16	Not Applicable	Not Applicable
+	"Oregon"	"41"	"92 years"	"92"	"Gastrointestinal haemorrhage, unspecified"	"K92.2"	13	Not Applicable	Not Applicable
+	"Oregon"	"41"	"92 years"	"92"	"Urinary tract infection, site not specified"	"N39.0"	27	Not Applicable	Not Applicable
+	"Oregon"	"41"	"92 years"	"92"	"Other ill-defined and unspecified causes of mortality"	"R99"	26	Not Applicable	Not Applicable
+	"Oregon"	"41"	"92 years"	"92"	"COVID-19"	"U07.1"	17	Not Applicable	Not Applicable
+	"Oregon"	"41"	"92 years"	"92"	"Other fall on same level"	"W18"	70	Not Applicable	Not Applicable
+	"Oregon"	"41"	"92 years"	"92"	"Unspecified fall"	"W19"	16	Not Applicable	Not Applicable
+	"Oregon"	"41"	"93 years"	"93"	"Septicaemia, unspecified"	"A41.9"	11	Not Applicable	Not Applicable
+	"Oregon"	"41"	"93 years"	"93"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	17	Not Applicable	Not Applicable
+	"Oregon"	"41"	"93 years"	"93"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	24	Not Applicable	Not Applicable
+	"Oregon"	"41"	"93 years"	"93"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	28	Not Applicable	Not Applicable
+	"Oregon"	"41"	"93 years"	"93"	"Malignant neoplasm without specification of site"	"C80"	13	Not Applicable	Not Applicable
+	"Oregon"	"41"	"93 years"	"93"	"Non-insulin-dependent diabetes mellitus, without complications"	"E11.9"	19	Not Applicable	Not Applicable
+	"Oregon"	"41"	"93 years"	"93"	"Unspecified diabetes mellitus, without complications"	"E14.9"	11	Not Applicable	Not Applicable
+	"Oregon"	"41"	"93 years"	"93"	"Unspecified severe protein-energy malnutrition"	"E43"	10	Not Applicable	Not Applicable
+	"Oregon"	"41"	"93 years"	"93"	"Hyperlipidaemia, unspecified"	"E78.5"	12	Not Applicable	Not Applicable
+	"Oregon"	"41"	"93 years"	"93"	"Vascular dementia, unspecified"	"F01.9"	71	Not Applicable	Not Applicable
+	"Oregon"	"41"	"93 years"	"93"	"Unspecified dementia"	"F03"	268	Not Applicable	Not Applicable
+	"Oregon"	"41"	"93 years"	"93"	"Parkinson disease"	"G20"	26	Not Applicable	Not Applicable
+	"Oregon"	"41"	"93 years"	"93"	"Alzheimer disease with late onset"	"G30.1"	32	Not Applicable	Not Applicable
+	"Oregon"	"41"	"93 years"	"93"	"Alzheimer disease, unspecified"	"G30.9"	324	Not Applicable	Not Applicable
+	"Oregon"	"41"	"93 years"	"93"	"Senile degeneration of brain, not elsewhere classified"	"G31.1"	26	Not Applicable	Not Applicable
+	"Oregon"	"41"	"93 years"	"93"	"Other specified degenerative diseases of nervous system"	"G31.8"	13	Not Applicable	Not Applicable
+	"Oregon"	"41"	"93 years"	"93"	"Essential (primary) hypertension"	"I10"	44	Not Applicable	Not Applicable
+	"Oregon"	"41"	"93 years"	"93"	"Hypertensive heart disease with (congestive) heart failure"	"I11.0"	48	Not Applicable	Not Applicable
+	"Oregon"	"41"	"93 years"	"93"	"Hypertensive renal disease with renal failure"	"I12.0"	21	Not Applicable	Not Applicable
+	"Oregon"	"41"	"93 years"	"93"	"Acute subendocardial myocardial infarction"	"I21.4"	10	Not Applicable	Not Applicable
+	"Oregon"	"41"	"93 years"	"93"	"Acute myocardial infarction, unspecified"	"I21.9"	42	Not Applicable	Not Applicable
+	"Oregon"	"41"	"93 years"	"93"	"Atherosclerotic heart disease"	"I25.1"	123	Not Applicable	Not Applicable
+	"Oregon"	"41"	"93 years"	"93"	"Chronic ischaemic heart disease, unspecified"	"I25.9"	13	Not Applicable	Not Applicable
+	"Oregon"	"41"	"93 years"	"93"	"Other secondary pulmonary hypertension"	"I27.2"	26	Not Applicable	Not Applicable
+	"Oregon"	"41"	"93 years"	"93"	"Aortic (valve) stenosis"	"I35.0"	75	Not Applicable	Not Applicable
+	"Oregon"	"41"	"93 years"	"93"	"Atrial fibrillation and flutter"	"I48"	80	Not Applicable	Not Applicable
+	"Oregon"	"41"	"93 years"	"93"	"Congestive heart failure"	"I50.0"	95	Not Applicable	Not Applicable
+	"Oregon"	"41"	"93 years"	"93"	"Heart failure, unspecified"	"I50.9"	29	Not Applicable	Not Applicable
+	"Oregon"	"41"	"93 years"	"93"	"Intracerebral haemorrhage, unspecified"	"I61.9"	12	Not Applicable	Not Applicable
+	"Oregon"	"41"	"93 years"	"93"	"Cerebral infarction, unspecified"	"I63.9"	13	Not Applicable	Not Applicable
+	"Oregon"	"41"	"93 years"	"93"	"Stroke, not specified as haemorrhage or infarction"	"I64"	103	Not Applicable	Not Applicable
+	"Oregon"	"41"	"93 years"	"93"	"Cerebral atherosclerosis"	"I67.2"	13	Not Applicable	Not Applicable
+	"Oregon"	"41"	"93 years"	"93"	"Cerebrovascular disease, unspecified"	"I67.9"	17	Not Applicable	Not Applicable
+	"Oregon"	"41"	"93 years"	"93"	"Sequelae of stroke, not specified as haemorrhage or infarction"	"I69.4"	26	Not Applicable	Not Applicable
+	"Oregon"	"41"	"93 years"	"93"	"Sequelae of other and unspecified cerebrovascular diseases"	"I69.8"	20	Not Applicable	Not Applicable
+	"Oregon"	"41"	"93 years"	"93"	"Pneumonia, unspecified"	"J18.9"	15	Not Applicable	Not Applicable
+	"Oregon"	"41"	"93 years"	"93"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	11	Not Applicable	Not Applicable
+	"Oregon"	"41"	"93 years"	"93"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	48	Not Applicable	Not Applicable
+	"Oregon"	"41"	"93 years"	"93"	"Pneumonitis due to food and vomit"	"J69.0"	15	Not Applicable	Not Applicable
+	"Oregon"	"41"	"93 years"	"93"	"Gastrointestinal haemorrhage, unspecified"	"K92.2"	13	Not Applicable	Not Applicable
+	"Oregon"	"41"	"93 years"	"93"	"Chronic renal failure, unspecified"	"N18.9"	10	Not Applicable	Not Applicable
+	"Oregon"	"41"	"93 years"	"93"	"Urinary tract infection, site not specified"	"N39.0"	18	Not Applicable	Not Applicable
+	"Oregon"	"41"	"93 years"	"93"	"Other ill-defined and unspecified causes of mortality"	"R99"	24	Not Applicable	Not Applicable
+	"Oregon"	"41"	"93 years"	"93"	"COVID-19"	"U07.1"	28	Not Applicable	Not Applicable
+	"Oregon"	"41"	"93 years"	"93"	"Other fall on same level"	"W18"	75	Not Applicable	Not Applicable
+	"Oregon"	"41"	"93 years"	"93"	"Unspecified fall"	"W19"	12	Not Applicable	Not Applicable
+	"Oregon"	"41"	"94 years"	"94"	"Septicaemia, unspecified"	"A41.9"	13	Not Applicable	Not Applicable
+	"Oregon"	"41"	"94 years"	"94"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	18	Not Applicable	Not Applicable
+	"Oregon"	"41"	"94 years"	"94"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	32	Not Applicable	Not Applicable
+	"Oregon"	"41"	"94 years"	"94"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	29	Not Applicable	Not Applicable
+	"Oregon"	"41"	"94 years"	"94"	"Unspecified diabetes mellitus, without complications"	"E14.9"	11	Not Applicable	Not Applicable
+	"Oregon"	"41"	"94 years"	"94"	"Unspecified severe protein-energy malnutrition"	"E43"	11	Not Applicable	Not Applicable
+	"Oregon"	"41"	"94 years"	"94"	"Hyperlipidaemia, unspecified"	"E78.5"	13	Not Applicable	Not Applicable
+	"Oregon"	"41"	"94 years"	"94"	"Vascular dementia, unspecified"	"F01.9"	65	Not Applicable	Not Applicable
+	"Oregon"	"41"	"94 years"	"94"	"Unspecified dementia"	"F03"	254	Not Applicable	Not Applicable
+	"Oregon"	"41"	"94 years"	"94"	"Parkinson disease"	"G20"	15	Not Applicable	Not Applicable
+	"Oregon"	"41"	"94 years"	"94"	"Alzheimer disease with late onset"	"G30.1"	24	Not Applicable	Not Applicable
+	"Oregon"	"41"	"94 years"	"94"	"Alzheimer disease, unspecified"	"G30.9"	285	Not Applicable	Not Applicable
+	"Oregon"	"41"	"94 years"	"94"	"Senile degeneration of brain, not elsewhere classified"	"G31.1"	33	Not Applicable	Not Applicable
+	"Oregon"	"41"	"94 years"	"94"	"Essential (primary) hypertension"	"I10"	27	Not Applicable	Not Applicable
+	"Oregon"	"41"	"94 years"	"94"	"Hypertensive heart disease with (congestive) heart failure"	"I11.0"	39	Not Applicable	Not Applicable
+	"Oregon"	"41"	"94 years"	"94"	"Hypertensive renal disease with renal failure"	"I12.0"	21	Not Applicable	Not Applicable
+	"Oregon"	"41"	"94 years"	"94"	"Hypertensive heart and renal disease with both (congestive) heart failure and renal failure"	"I13.2"	13	Not Applicable	Not Applicable
+	"Oregon"	"41"	"94 years"	"94"	"Acute myocardial infarction, unspecified"	"I21.9"	42	Not Applicable	Not Applicable
+	"Oregon"	"41"	"94 years"	"94"	"Atherosclerotic heart disease"	"I25.1"	127	Not Applicable	Not Applicable
+	"Oregon"	"41"	"94 years"	"94"	"Other secondary pulmonary hypertension"	"I27.2"	21	Not Applicable	Not Applicable
+	"Oregon"	"41"	"94 years"	"94"	"Mitral (valve) insufficiency"	"I34.0"	10	Not Applicable	Not Applicable
+	"Oregon"	"41"	"94 years"	"94"	"Aortic (valve) stenosis"	"I35.0"	74	Not Applicable	Not Applicable
+	"Oregon"	"41"	"94 years"	"94"	"Atrial fibrillation and flutter"	"I48"	79	Not Applicable	Not Applicable
+	"Oregon"	"41"	"94 years"	"94"	"Congestive heart failure"	"I50.0"	78	Not Applicable	Not Applicable
+	"Oregon"	"41"	"94 years"	"94"	"Heart failure, unspecified"	"I50.9"	32	Not Applicable	Not Applicable
+	"Oregon"	"41"	"94 years"	"94"	"Intracerebral haemorrhage, unspecified"	"I61.9"	12	Not Applicable	Not Applicable
+	"Oregon"	"41"	"94 years"	"94"	"Cerebral infarction, unspecified"	"I63.9"	17	Not Applicable	Not Applicable
+	"Oregon"	"41"	"94 years"	"94"	"Stroke, not specified as haemorrhage or infarction"	"I64"	99	Not Applicable	Not Applicable
+	"Oregon"	"41"	"94 years"	"94"	"Cerebral atherosclerosis"	"I67.2"	15	Not Applicable	Not Applicable
+	"Oregon"	"41"	"94 years"	"94"	"Cerebrovascular disease, unspecified"	"I67.9"	19	Not Applicable	Not Applicable
+	"Oregon"	"41"	"94 years"	"94"	"Sequelae of stroke, not specified as haemorrhage or infarction"	"I69.4"	29	Not Applicable	Not Applicable
+	"Oregon"	"41"	"94 years"	"94"	"Sequelae of other and unspecified cerebrovascular diseases"	"I69.8"	21	Not Applicable	Not Applicable
+	"Oregon"	"41"	"94 years"	"94"	"Peripheral vascular disease, unspecified"	"I73.9"	11	Not Applicable	Not Applicable
+	"Oregon"	"41"	"94 years"	"94"	"Pneumonia, unspecified"	"J18.9"	22	Not Applicable	Not Applicable
+	"Oregon"	"41"	"94 years"	"94"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	36	Not Applicable	Not Applicable
+	"Oregon"	"41"	"94 years"	"94"	"Pneumonitis due to food and vomit"	"J69.0"	11	Not Applicable	Not Applicable
+	"Oregon"	"41"	"94 years"	"94"	"Gastrointestinal haemorrhage, unspecified"	"K92.2"	12	Not Applicable	Not Applicable
+	"Oregon"	"41"	"94 years"	"94"	"Chronic renal failure, unspecified"	"N18.9"	10	Not Applicable	Not Applicable
+	"Oregon"	"41"	"94 years"	"94"	"Urinary tract infection, site not specified"	"N39.0"	13	Not Applicable	Not Applicable
+	"Oregon"	"41"	"94 years"	"94"	"Other ill-defined and unspecified causes of mortality"	"R99"	24	Not Applicable	Not Applicable
+	"Oregon"	"41"	"94 years"	"94"	"COVID-19"	"U07.1"	25	Not Applicable	Not Applicable
+	"Oregon"	"41"	"94 years"	"94"	"Other fall on same level"	"W18"	73	Not Applicable	Not Applicable
+	"Oregon"	"41"	"94 years"	"94"	"Unspecified fall"	"W19"	15	Not Applicable	Not Applicable
+	"Oregon"	"41"	"95 years"	"95"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	15	Not Applicable	Not Applicable
+	"Oregon"	"41"	"95 years"	"95"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	18	Not Applicable	Not Applicable
+	"Oregon"	"41"	"95 years"	"95"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	19	Not Applicable	Not Applicable
+	"Oregon"	"41"	"95 years"	"95"	"Malignant neoplasm without specification of site"	"C80"	10	Not Applicable	Not Applicable
+	"Oregon"	"41"	"95 years"	"95"	"Vascular dementia, unspecified"	"F01.9"	55	Not Applicable	Not Applicable
+	"Oregon"	"41"	"95 years"	"95"	"Unspecified dementia"	"F03"	211	Not Applicable	Not Applicable
+	"Oregon"	"41"	"95 years"	"95"	"Parkinson disease"	"G20"	12	Not Applicable	Not Applicable
+	"Oregon"	"41"	"95 years"	"95"	"Alzheimer disease with late onset"	"G30.1"	19	Not Applicable	Not Applicable
+	"Oregon"	"41"	"95 years"	"95"	"Alzheimer disease, unspecified"	"G30.9"	257	Not Applicable	Not Applicable
+	"Oregon"	"41"	"95 years"	"95"	"Senile degeneration of brain, not elsewhere classified"	"G31.1"	30	Not Applicable	Not Applicable
+	"Oregon"	"41"	"95 years"	"95"	"Essential (primary) hypertension"	"I10"	38	Not Applicable	Not Applicable
+	"Oregon"	"41"	"95 years"	"95"	"Hypertensive heart disease with (congestive) heart failure"	"I11.0"	37	Not Applicable	Not Applicable
+	"Oregon"	"41"	"95 years"	"95"	"Hypertensive renal disease with renal failure"	"I12.0"	23	Not Applicable	Not Applicable
+	"Oregon"	"41"	"95 years"	"95"	"Acute subendocardial myocardial infarction"	"I21.4"	13	Not Applicable	Not Applicable
+	"Oregon"	"41"	"95 years"	"95"	"Acute myocardial infarction, unspecified"	"I21.9"	29	Not Applicable	Not Applicable
+	"Oregon"	"41"	"95 years"	"95"	"Atherosclerotic heart disease"	"I25.1"	101	Not Applicable	Not Applicable
+	"Oregon"	"41"	"95 years"	"95"	"Other secondary pulmonary hypertension"	"I27.2"	17	Not Applicable	Not Applicable
+	"Oregon"	"41"	"95 years"	"95"	"Aortic (valve) stenosis"	"I35.0"	59	Not Applicable	Not Applicable
+	"Oregon"	"41"	"95 years"	"95"	"Atrial fibrillation and flutter"	"I48"	71	Not Applicable	Not Applicable
+	"Oregon"	"41"	"95 years"	"95"	"Congestive heart failure"	"I50.0"	96	Not Applicable	Not Applicable
+	"Oregon"	"41"	"95 years"	"95"	"Heart failure, unspecified"	"I50.9"	33	Not Applicable	Not Applicable
+	"Oregon"	"41"	"95 years"	"95"	"Cerebral infarction, unspecified"	"I63.9"	13	Not Applicable	Not Applicable
+	"Oregon"	"41"	"95 years"	"95"	"Stroke, not specified as haemorrhage or infarction"	"I64"	81	Not Applicable	Not Applicable
+	"Oregon"	"41"	"95 years"	"95"	"Cerebral atherosclerosis"	"I67.2"	17	Not Applicable	Not Applicable
+	"Oregon"	"41"	"95 years"	"95"	"Cerebrovascular disease, unspecified"	"I67.9"	20	Not Applicable	Not Applicable
+	"Oregon"	"41"	"95 years"	"95"	"Sequelae of stroke, not specified as haemorrhage or infarction"	"I69.4"	23	Not Applicable	Not Applicable
+	"Oregon"	"41"	"95 years"	"95"	"Sequelae of other and unspecified cerebrovascular diseases"	"I69.8"	24	Not Applicable	Not Applicable
+	"Oregon"	"41"	"95 years"	"95"	"Pneumonia, unspecified"	"J18.9"	15	Not Applicable	Not Applicable
+	"Oregon"	"41"	"95 years"	"95"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	41	Not Applicable	Not Applicable
+	"Oregon"	"41"	"95 years"	"95"	"Pneumonitis due to food and vomit"	"J69.0"	12	Not Applicable	Not Applicable
+	"Oregon"	"41"	"95 years"	"95"	"Urinary tract infection, site not specified"	"N39.0"	17	Not Applicable	Not Applicable
+	"Oregon"	"41"	"95 years"	"95"	"Other ill-defined and unspecified causes of mortality"	"R99"	29	Not Applicable	Not Applicable
+	"Oregon"	"41"	"95 years"	"95"	"COVID-19"	"U07.1"	19	Not Applicable	Not Applicable
+	"Oregon"	"41"	"95 years"	"95"	"Other fall on same level"	"W18"	72	Not Applicable	Not Applicable
+	"Oregon"	"41"	"95 years"	"95"	"Unspecified fall"	"W19"	10	Not Applicable	Not Applicable
+	"Oregon"	"41"	"96 years"	"96"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	13	Not Applicable	Not Applicable
+	"Oregon"	"41"	"96 years"	"96"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	14	Not Applicable	Not Applicable
+	"Oregon"	"41"	"96 years"	"96"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	16	Not Applicable	Not Applicable
+	"Oregon"	"41"	"96 years"	"96"	"Unspecified diabetes mellitus, without complications"	"E14.9"	11	Not Applicable	Not Applicable
+	"Oregon"	"41"	"96 years"	"96"	"Vascular dementia, unspecified"	"F01.9"	40	Not Applicable	Not Applicable
+	"Oregon"	"41"	"96 years"	"96"	"Unspecified dementia"	"F03"	184	Not Applicable	Not Applicable
+	"Oregon"	"41"	"96 years"	"96"	"Parkinson disease"	"G20"	10	Not Applicable	Not Applicable
+	"Oregon"	"41"	"96 years"	"96"	"Alzheimer disease with late onset"	"G30.1"	11	Not Applicable	Not Applicable
+	"Oregon"	"41"	"96 years"	"96"	"Alzheimer disease, unspecified"	"G30.9"	245	Not Applicable	Not Applicable
+	"Oregon"	"41"	"96 years"	"96"	"Senile degeneration of brain, not elsewhere classified"	"G31.1"	26	Not Applicable	Not Applicable
+	"Oregon"	"41"	"96 years"	"96"	"Other specified degenerative diseases of nervous system"	"G31.8"	10	Not Applicable	Not Applicable
+	"Oregon"	"41"	"96 years"	"96"	"Essential (primary) hypertension"	"I10"	42	Not Applicable	Not Applicable
+	"Oregon"	"41"	"96 years"	"96"	"Hypertensive heart disease with (congestive) heart failure"	"I11.0"	48	Not Applicable	Not Applicable
+	"Oregon"	"41"	"96 years"	"96"	"Hypertensive renal disease with renal failure"	"I12.0"	21	Not Applicable	Not Applicable
+	"Oregon"	"41"	"96 years"	"96"	"Acute myocardial infarction, unspecified"	"I21.9"	23	Not Applicable	Not Applicable
+	"Oregon"	"41"	"96 years"	"96"	"Atherosclerotic heart disease"	"I25.1"	69	Not Applicable	Not Applicable
+	"Oregon"	"41"	"96 years"	"96"	"Other secondary pulmonary hypertension"	"I27.2"	11	Not Applicable	Not Applicable
+	"Oregon"	"41"	"96 years"	"96"	"Aortic (valve) stenosis"	"I35.0"	64	Not Applicable	Not Applicable
+	"Oregon"	"41"	"96 years"	"96"	"Atrial fibrillation and flutter"	"I48"	69	Not Applicable	Not Applicable
+	"Oregon"	"41"	"96 years"	"96"	"Congestive heart failure"	"I50.0"	80	Not Applicable	Not Applicable
+	"Oregon"	"41"	"96 years"	"96"	"Heart failure, unspecified"	"I50.9"	30	Not Applicable	Not Applicable
+	"Oregon"	"41"	"96 years"	"96"	"Stroke, not specified as haemorrhage or infarction"	"I64"	66	Not Applicable	Not Applicable
+	"Oregon"	"41"	"96 years"	"96"	"Cerebrovascular disease, unspecified"	"I67.9"	12	Not Applicable	Not Applicable
+	"Oregon"	"41"	"96 years"	"96"	"Sequelae of stroke, not specified as haemorrhage or infarction"	"I69.4"	21	Not Applicable	Not Applicable
+	"Oregon"	"41"	"96 years"	"96"	"Sequelae of other and unspecified cerebrovascular diseases"	"I69.8"	20	Not Applicable	Not Applicable
+	"Oregon"	"41"	"96 years"	"96"	"Pneumonia, unspecified"	"J18.9"	17	Not Applicable	Not Applicable
+	"Oregon"	"41"	"96 years"	"96"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	29	Not Applicable	Not Applicable
+	"Oregon"	"41"	"96 years"	"96"	"Gastrointestinal haemorrhage, unspecified"	"K92.2"	16	Not Applicable	Not Applicable
+	"Oregon"	"41"	"96 years"	"96"	"Other ill-defined and unspecified causes of mortality"	"R99"	25	Not Applicable	Not Applicable
+	"Oregon"	"41"	"96 years"	"96"	"COVID-19"	"U07.1"	24	Not Applicable	Not Applicable
+	"Oregon"	"41"	"96 years"	"96"	"Other fall on same level"	"W18"	38	Not Applicable	Not Applicable
+	"Oregon"	"41"	"97 years"	"97"	"Vascular dementia, unspecified"	"F01.9"	31	Not Applicable	Not Applicable
+	"Oregon"	"41"	"97 years"	"97"	"Unspecified dementia"	"F03"	161	Not Applicable	Not Applicable
+	"Oregon"	"41"	"97 years"	"97"	"Alzheimer disease with late onset"	"G30.1"	18	Not Applicable	Not Applicable
+	"Oregon"	"41"	"97 years"	"97"	"Alzheimer disease, unspecified"	"G30.9"	198	Not Applicable	Not Applicable
+	"Oregon"	"41"	"97 years"	"97"	"Senile degeneration of brain, not elsewhere classified"	"G31.1"	16	Not Applicable	Not Applicable
+	"Oregon"	"41"	"97 years"	"97"	"Essential (primary) hypertension"	"I10"	29	Not Applicable	Not Applicable
+	"Oregon"	"41"	"97 years"	"97"	"Hypertensive heart disease with (congestive) heart failure"	"I11.0"	34	Not Applicable	Not Applicable
+	"Oregon"	"41"	"97 years"	"97"	"Hypertensive renal disease with renal failure"	"I12.0"	10	Not Applicable	Not Applicable
+	"Oregon"	"41"	"97 years"	"97"	"Acute myocardial infarction, unspecified"	"I21.9"	25	Not Applicable	Not Applicable
+	"Oregon"	"41"	"97 years"	"97"	"Atherosclerotic heart disease"	"I25.1"	97	Not Applicable	Not Applicable
+	"Oregon"	"41"	"97 years"	"97"	"Other secondary pulmonary hypertension"	"I27.2"	11	Not Applicable	Not Applicable
+	"Oregon"	"41"	"97 years"	"97"	"Aortic (valve) stenosis"	"I35.0"	47	Not Applicable	Not Applicable
+	"Oregon"	"41"	"97 years"	"97"	"Atrial fibrillation and flutter"	"I48"	56	Not Applicable	Not Applicable
+	"Oregon"	"41"	"97 years"	"97"	"Congestive heart failure"	"I50.0"	69	Not Applicable	Not Applicable
+	"Oregon"	"41"	"97 years"	"97"	"Heart failure, unspecified"	"I50.9"	33	Not Applicable	Not Applicable
+	"Oregon"	"41"	"97 years"	"97"	"Stroke, not specified as haemorrhage or infarction"	"I64"	54	Not Applicable	Not Applicable
+	"Oregon"	"41"	"97 years"	"97"	"Cerebrovascular disease, unspecified"	"I67.9"	15	Not Applicable	Not Applicable
+	"Oregon"	"41"	"97 years"	"97"	"Sequelae of stroke, not specified as haemorrhage or infarction"	"I69.4"	17	Not Applicable	Not Applicable
+	"Oregon"	"41"	"97 years"	"97"	"Sequelae of other and unspecified cerebrovascular diseases"	"I69.8"	11	Not Applicable	Not Applicable
+	"Oregon"	"41"	"97 years"	"97"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	29	Not Applicable	Not Applicable
+	"Oregon"	"41"	"97 years"	"97"	"Chronic renal failure, unspecified"	"N18.9"	10	Not Applicable	Not Applicable
+	"Oregon"	"41"	"97 years"	"97"	"Other ill-defined and unspecified causes of mortality"	"R99"	10	Not Applicable	Not Applicable
+	"Oregon"	"41"	"97 years"	"97"	"COVID-19"	"U07.1"	12	Not Applicable	Not Applicable
+	"Oregon"	"41"	"97 years"	"97"	"Other fall on same level"	"W18"	49	Not Applicable	Not Applicable
+	"Oregon"	"41"	"98 years"	"98"	"Vascular dementia, unspecified"	"F01.9"	33	Not Applicable	Not Applicable
+	"Oregon"	"41"	"98 years"	"98"	"Unspecified dementia"	"F03"	162	Not Applicable	Not Applicable
+	"Oregon"	"41"	"98 years"	"98"	"Alzheimer disease with late onset"	"G30.1"	13	Not Applicable	Not Applicable
+	"Oregon"	"41"	"98 years"	"98"	"Alzheimer disease, unspecified"	"G30.9"	137	Not Applicable	Not Applicable
+	"Oregon"	"41"	"98 years"	"98"	"Senile degeneration of brain, not elsewhere classified"	"G31.1"	22	Not Applicable	Not Applicable
+	"Oregon"	"41"	"98 years"	"98"	"Essential (primary) hypertension"	"I10"	24	Not Applicable	Not Applicable
+	"Oregon"	"41"	"98 years"	"98"	"Hypertensive heart disease with (congestive) heart failure"	"I11.0"	16	Not Applicable	Not Applicable
+	"Oregon"	"41"	"98 years"	"98"	"Acute myocardial infarction, unspecified"	"I21.9"	21	Not Applicable	Not Applicable
+	"Oregon"	"41"	"98 years"	"98"	"Atherosclerotic heart disease"	"I25.1"	56	Not Applicable	Not Applicable
+	"Oregon"	"41"	"98 years"	"98"	"Other secondary pulmonary hypertension"	"I27.2"	11	Not Applicable	Not Applicable
+	"Oregon"	"41"	"98 years"	"98"	"Aortic (valve) stenosis"	"I35.0"	34	Not Applicable	Not Applicable
+	"Oregon"	"41"	"98 years"	"98"	"Atrial fibrillation and flutter"	"I48"	45	Not Applicable	Not Applicable
+	"Oregon"	"41"	"98 years"	"98"	"Congestive heart failure"	"I50.0"	70	Not Applicable	Not Applicable
+	"Oregon"	"41"	"98 years"	"98"	"Heart failure, unspecified"	"I50.9"	17	Not Applicable	Not Applicable
+	"Oregon"	"41"	"98 years"	"98"	"Stroke, not specified as haemorrhage or infarction"	"I64"	47	Not Applicable	Not Applicable
+	"Oregon"	"41"	"98 years"	"98"	"Cerebral atherosclerosis"	"I67.2"	13	Not Applicable	Not Applicable
+	"Oregon"	"41"	"98 years"	"98"	"Sequelae of stroke, not specified as haemorrhage or infarction"	"I69.4"	18	Not Applicable	Not Applicable
+	"Oregon"	"41"	"98 years"	"98"	"Sequelae of other and unspecified cerebrovascular diseases"	"I69.8"	11	Not Applicable	Not Applicable
+	"Oregon"	"41"	"98 years"	"98"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	21	Not Applicable	Not Applicable
+	"Oregon"	"41"	"98 years"	"98"	"Other ill-defined and unspecified causes of mortality"	"R99"	12	Not Applicable	Not Applicable
+	"Oregon"	"41"	"98 years"	"98"	"Other fall on same level"	"W18"	27	Not Applicable	Not Applicable
+	"Oregon"	"41"	"99 years"	"99"	"Vascular dementia, unspecified"	"F01.9"	25	Not Applicable	Not Applicable
+	"Oregon"	"41"	"99 years"	"99"	"Unspecified dementia"	"F03"	99	Not Applicable	Not Applicable
+	"Oregon"	"41"	"99 years"	"99"	"Alzheimer disease, unspecified"	"G30.9"	99	Not Applicable	Not Applicable
+	"Oregon"	"41"	"99 years"	"99"	"Senile degeneration of brain, not elsewhere classified"	"G31.1"	18	Not Applicable	Not Applicable
+	"Oregon"	"41"	"99 years"	"99"	"Essential (primary) hypertension"	"I10"	18	Not Applicable	Not Applicable
+	"Oregon"	"41"	"99 years"	"99"	"Hypertensive heart disease with (congestive) heart failure"	"I11.0"	12	Not Applicable	Not Applicable
+	"Oregon"	"41"	"99 years"	"99"	"Acute myocardial infarction, unspecified"	"I21.9"	21	Not Applicable	Not Applicable
+	"Oregon"	"41"	"99 years"	"99"	"Atherosclerotic heart disease"	"I25.1"	48	Not Applicable	Not Applicable
+	"Oregon"	"41"	"99 years"	"99"	"Aortic (valve) stenosis"	"I35.0"	25	Not Applicable	Not Applicable
+	"Oregon"	"41"	"99 years"	"99"	"Atrial fibrillation and flutter"	"I48"	25	Not Applicable	Not Applicable
+	"Oregon"	"41"	"99 years"	"99"	"Congestive heart failure"	"I50.0"	35	Not Applicable	Not Applicable
+	"Oregon"	"41"	"99 years"	"99"	"Stroke, not specified as haemorrhage or infarction"	"I64"	33	Not Applicable	Not Applicable
+	"Oregon"	"41"	"99 years"	"99"	"Sequelae of other and unspecified cerebrovascular diseases"	"I69.8"	13	Not Applicable	Not Applicable
+	"Oregon"	"41"	"99 years"	"99"	"Pneumonia, unspecified"	"J18.9"	10	Not Applicable	Not Applicable
+	"Oregon"	"41"	"99 years"	"99"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	10	Not Applicable	Not Applicable
+	"Oregon"	"41"	"99 years"	"99"	"Other ill-defined and unspecified causes of mortality"	"R99"	11	Not Applicable	Not Applicable
+	"Oregon"	"41"	"99 years"	"99"	"Other fall on same level"	"W18"	20	Not Applicable	Not Applicable
+	"Oregon"	"41"	"100+ years"	"100"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	14	Not Applicable	Not Applicable
+	"Oregon"	"41"	"100+ years"	"100"	"Unspecified diabetes mellitus, without complications"	"E14.9"	12	Not Applicable	Not Applicable
+	"Oregon"	"41"	"100+ years"	"100"	"Unspecified severe protein-energy malnutrition"	"E43"	12	Not Applicable	Not Applicable
+	"Oregon"	"41"	"100+ years"	"100"	"Unspecified protein-energy malnutrition"	"E46"	12	Not Applicable	Not Applicable
+	"Oregon"	"41"	"100+ years"	"100"	"Vascular dementia, unspecified"	"F01.9"	40	Not Applicable	Not Applicable
+	"Oregon"	"41"	"100+ years"	"100"	"Unspecified dementia"	"F03"	229	Not Applicable	Not Applicable
+	"Oregon"	"41"	"100+ years"	"100"	"Parkinson disease"	"G20"	10	Not Applicable	Not Applicable
+	"Oregon"	"41"	"100+ years"	"100"	"Alzheimer disease with late onset"	"G30.1"	20	Not Applicable	Not Applicable
+	"Oregon"	"41"	"100+ years"	"100"	"Alzheimer disease, unspecified"	"G30.9"	202	Not Applicable	Not Applicable
+	"Oregon"	"41"	"100+ years"	"100"	"Senile degeneration of brain, not elsewhere classified"	"G31.1"	31	Not Applicable	Not Applicable
+	"Oregon"	"41"	"100+ years"	"100"	"Essential (primary) hypertension"	"I10"	55	Not Applicable	Not Applicable
+	"Oregon"	"41"	"100+ years"	"100"	"Hypertensive heart disease with (congestive) heart failure"	"I11.0"	41	Not Applicable	Not Applicable
+	"Oregon"	"41"	"100+ years"	"100"	"Hypertensive renal disease with renal failure"	"I12.0"	19	Not Applicable	Not Applicable
+	"Oregon"	"41"	"100+ years"	"100"	"Acute myocardial infarction, unspecified"	"I21.9"	29	Not Applicable	Not Applicable
+	"Oregon"	"41"	"100+ years"	"100"	"Atherosclerotic heart disease"	"I25.1"	85	Not Applicable	Not Applicable
+	"Oregon"	"41"	"100+ years"	"100"	"Other secondary pulmonary hypertension"	"I27.2"	12	Not Applicable	Not Applicable
+	"Oregon"	"41"	"100+ years"	"100"	"Aortic (valve) stenosis"	"I35.0"	64	Not Applicable	Not Applicable
+	"Oregon"	"41"	"100+ years"	"100"	"Atrial fibrillation and flutter"	"I48"	61	Not Applicable	Not Applicable
+	"Oregon"	"41"	"100+ years"	"100"	"Congestive heart failure"	"I50.0"	91	Not Applicable	Not Applicable
+	"Oregon"	"41"	"100+ years"	"100"	"Heart failure, unspecified"	"I50.9"	37	Not Applicable	Not Applicable
+	"Oregon"	"41"	"100+ years"	"100"	"Cerebral infarction, unspecified"	"I63.9"	11	Not Applicable	Not Applicable
+	"Oregon"	"41"	"100+ years"	"100"	"Stroke, not specified as haemorrhage or infarction"	"I64"	63	Not Applicable	Not Applicable
+	"Oregon"	"41"	"100+ years"	"100"	"Cerebral atherosclerosis"	"I67.2"	18	Not Applicable	Not Applicable
+	"Oregon"	"41"	"100+ years"	"100"	"Cerebrovascular disease, unspecified"	"I67.9"	16	Not Applicable	Not Applicable
+	"Oregon"	"41"	"100+ years"	"100"	"Sequelae of stroke, not specified as haemorrhage or infarction"	"I69.4"	24	Not Applicable	Not Applicable
+	"Oregon"	"41"	"100+ years"	"100"	"Sequelae of other and unspecified cerebrovascular diseases"	"I69.8"	23	Not Applicable	Not Applicable
+	"Oregon"	"41"	"100+ years"	"100"	"Pneumonia, unspecified"	"J18.9"	13	Not Applicable	Not Applicable
+	"Oregon"	"41"	"100+ years"	"100"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	22	Not Applicable	Not Applicable
+	"Oregon"	"41"	"100+ years"	"100"	"Pneumonitis due to food and vomit"	"J69.0"	12	Not Applicable	Not Applicable
+	"Oregon"	"41"	"100+ years"	"100"	"Urinary tract infection, site not specified"	"N39.0"	14	Not Applicable	Not Applicable
+	"Oregon"	"41"	"100+ years"	"100"	"Senility"	"R54"	15	Not Applicable	Not Applicable
+	"Oregon"	"41"	"100+ years"	"100"	"Other ill-defined and unspecified causes of mortality"	"R99"	44	Not Applicable	Not Applicable
+	"Oregon"	"41"	"100+ years"	"100"	"Other fall on same level"	"W18"	50	Not Applicable	Not Applicable
+"---"
+"Dataset: Underlying Cause of Death, 1999-2020"
+"Query Parameters:"
+"Title: Oregon CoD F"
+"Gender: Female"
+"States: Oregon (41)"
+"Year/Month: 2016; 2017; 2018; 2019; 2020"
+"Group By: State; Single-Year Ages; Cause of death"
+"Show Totals: Disabled"
+"Show Zero Values: Disabled"
+"Show Suppressed: False"
+"Calculate Rates Per: 100,000"
+"Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/ucd.html for more information."
+"---"
+"Query Date: Apr 11, 2022 2:44:59 AM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. Underlying Cause of Death"
+"1999-2020 on CDC WONDER Online Database, released in 2021. Data are from the Multiple Cause of Death Files, 1999-2020, as"
+"compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative Program. Accessed"
+"at http://wonder.cdc.gov/ucd-icd10.html on Apr 11, 2022 2:44:59 AM"
+"---"
+Messages:
+"1. The full results are too long to be displayed. Due to suppression constraints rows that are zero, suppressed or a total will"
+"not be available."
+"---"
+Caveats:
+"1. Population and rates are labeled 'Not Applicable' when they include a subset of ages 85-100+ because populations are not"
+"available for those ages. More information: http://wonder.cdc.gov/wonder/help/ucd.html#Ages 85-100."
+"2. Death rates are flagged as Unreliable when the rate is calculated with a numerator of 20 or less. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Unreliable."
+"3. Deaths of persons with Age ""Not Stated"" are included in ""All"" counts and rates, but are not distributed among age groups,"
+"so are not included in age-specific counts, age-specific rates or in any age-adjusted rates. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Not Stated."
+"4. The population figures for year 2020 are bridged-race estimates of the July 1 resident population, from the Vintage 2020"
+"postcensal series released by NCHS on September 22, 2021. The population figures for year 2019 are bridged-race estimates of the"
+"July 1 resident population, from the Vintage 2019 postcensal series released by NCHS on July 9, 2020. The population figures for"
+"year 2018 are bridged-race estimates of the July 1 resident population, from the Vintage 2018 postcensal series released by NCHS"
+"on June 25, 2019. The population figures for year 2017 are bridged-race estimates of the July 1 resident population, from the"
+"Vintage 2017 postcensal series released by NCHS on June 27, 2018. The population figures for year 2016 are bridged-race"
+"estimates of the July 1 resident population, from the Vintage 2016 postcensal series released by NCHS on June 26, 2017. The"
+"population figures for year 2015 are bridged-race estimates of the July 1 resident population, from the Vintage 2015 postcensal"
+"series released by NCHS on June 28, 2016. The population figures for year 2014 are bridged-race estimates of the July 1 resident"
+"population, from the Vintage 2014 postcensal series released by NCHS on June 30, 2015. The population figures for year 2013 are"
+"bridged-race estimates of the July 1 resident population, from the Vintage 2013 postcensal series released by NCHS on June 26,"
+"2014. The population figures for year 2012 are bridged-race estimates of the July 1 resident population, from the Vintage 2012"
+"postcensal series released by NCHS on June 13, 2013. The population figures for year 2011 are bridged-race estimates of the July"
+"1 resident population, from the Vintage 2011 postcensal series released by NCHS on July 18, 2012. Population figures for 2010"
+"are April 1 Census counts. The population figures for years 2001 - 2009 are bridged-race estimates of the July 1 resident"
+"population, from the revised intercensal county-level 2000 - 2009 series released by NCHS on October 26, 2012. Population"
+"figures for 2000 are April 1 Census counts. Population figures for 1999 are from the 1990-1999 intercensal series of July 1"
+"estimates. Population figures for the infant age groups are the number of live births. <br/><b>Note:</b> Rates and population"
+"figures for years 2001 - 2009 differ slightly from previously published reports, due to use of the population estimates which"
+"were available at the time of release."
+"5. The population figures used in the calculation of death rates for the age group 'under 1 year' are the estimates of the"
+"resident population that is under one year of age. More information: http://wonder.cdc.gov/wonder/help/ucd.html#Age Group."
+"6. Beginning with the 2018 data, changes have been implemented that affect the counts for ICD-10 cause of death codes O00-O99"
+"compared to previous practice. In addition, data for the cause of death codes O00-O99 for 2003 through 2017 reflect differences"
+"in information available to individual states and probable errors. Caution should be used in interpreting these data. More"
+"information can be found at: https://www.cdc.gov/nchs/maternal-mortality/."
+"7. On March 11, 2021, the 2019 mortality data on CDC WONDER was updated with the 2019 mortality data updated by NCHS on March 4,"
+"2021 to include corrected information for residents of Texas affecting 5 records previously coded to cause code *U01.4,"
+"Terrorism involving firearms (homicide). The underlying and multiple cause of death codes for 5 records were corrected in the"
+"2019 data. Underlying and multiple cause of death codes for those 5 records were recoded to Assault (homicide) by other and"
+"unspecified firearm discharge, ICD-10 code X95. The corrected final death records replaces the data released on December 22,"
+"2020."
+"8. Changes to cause of death classification affect reporting trends. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#ICD-10 Changes."

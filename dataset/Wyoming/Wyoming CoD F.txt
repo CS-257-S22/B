@@ -1,0 +1,250 @@
+"Notes"	"State"	"State Code"	"Single-Year Ages"	"Single-Year Ages Code"	"Cause of death"	"Cause of death Code"	Deaths	Population	Crude Rate
+	"Wyoming"	"56"	"< 1 year"	"0"	"Accidental suffocation and strangulation in bed"	"W75"	12	16894	Unreliable
+	"Wyoming"	"56"	"55 years"	"55"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	11	18533	Unreliable
+	"Wyoming"	"56"	"59 years"	"59"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	10	20512	Unreliable
+	"Wyoming"	"56"	"61 years"	"61"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	13	20425	Unreliable
+	"Wyoming"	"56"	"62 years"	"62"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	11	20132	Unreliable
+	"Wyoming"	"56"	"63 years"	"63"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	19	19874	Unreliable
+	"Wyoming"	"56"	"63 years"	"63"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	17	19874	Unreliable
+	"Wyoming"	"56"	"64 years"	"64"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	11	19089	Unreliable
+	"Wyoming"	"56"	"64 years"	"64"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	11	19089	Unreliable
+	"Wyoming"	"56"	"64 years"	"64"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	19	19089	Unreliable
+	"Wyoming"	"56"	"65 years"	"65"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	15	18359	Unreliable
+	"Wyoming"	"56"	"65 years"	"65"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	11	18359	Unreliable
+	"Wyoming"	"56"	"66 years"	"66"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	13	17407	Unreliable
+	"Wyoming"	"56"	"67 years"	"67"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	12	16643	Unreliable
+	"Wyoming"	"56"	"67 years"	"67"	"Acute myocardial infarction, unspecified"	"I21.9"	10	16643	Unreliable
+	"Wyoming"	"56"	"67 years"	"67"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	15	16643	Unreliable
+	"Wyoming"	"56"	"68 years"	"68"	"Acute myocardial infarction, unspecified"	"I21.9"	11	15660	Unreliable
+	"Wyoming"	"56"	"68 years"	"68"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	15	15660	Unreliable
+	"Wyoming"	"56"	"69 years"	"69"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	18	15494	Unreliable
+	"Wyoming"	"56"	"69 years"	"69"	"Acute myocardial infarction, unspecified"	"I21.9"	17	15494	Unreliable
+	"Wyoming"	"56"	"69 years"	"69"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	17	15494	Unreliable
+	"Wyoming"	"56"	"70 years"	"70"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	13	14122	Unreliable
+	"Wyoming"	"56"	"70 years"	"70"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	11	14122	Unreliable
+	"Wyoming"	"56"	"70 years"	"70"	"Acute myocardial infarction, unspecified"	"I21.9"	11	14122	Unreliable
+	"Wyoming"	"56"	"70 years"	"70"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	26	14122	184.1
+	"Wyoming"	"56"	"71 years"	"71"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	24	13161	182.4
+	"Wyoming"	"56"	"71 years"	"71"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	19	13161	Unreliable
+	"Wyoming"	"56"	"72 years"	"72"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	14	12222	Unreliable
+	"Wyoming"	"56"	"72 years"	"72"	"Acute myocardial infarction, unspecified"	"I21.9"	13	12222	Unreliable
+	"Wyoming"	"56"	"72 years"	"72"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	16	12222	Unreliable
+	"Wyoming"	"56"	"73 years"	"73"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	20	11307	176.9
+	"Wyoming"	"56"	"73 years"	"73"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	11	11307	Unreliable
+	"Wyoming"	"56"	"73 years"	"73"	"Acute myocardial infarction, unspecified"	"I21.9"	15	11307	Unreliable
+	"Wyoming"	"56"	"73 years"	"73"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	24	11307	212.3
+	"Wyoming"	"56"	"74 years"	"74"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	10	10159	Unreliable
+	"Wyoming"	"56"	"74 years"	"74"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	21	10159	206.7
+	"Wyoming"	"56"	"75 years"	"75"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	12	9719	Unreliable
+	"Wyoming"	"56"	"75 years"	"75"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	11	9719	Unreliable
+	"Wyoming"	"56"	"75 years"	"75"	"Alzheimer disease, unspecified"	"G30.9"	11	9719	Unreliable
+	"Wyoming"	"56"	"75 years"	"75"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	23	9719	236.6
+	"Wyoming"	"56"	"76 years"	"76"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	25	9152	273.2
+	"Wyoming"	"56"	"76 years"	"76"	"Alzheimer disease, unspecified"	"G30.9"	12	9152	Unreliable
+	"Wyoming"	"56"	"76 years"	"76"	"Atherosclerotic heart disease"	"I25.1"	10	9152	Unreliable
+	"Wyoming"	"56"	"76 years"	"76"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	23	9152	251.3
+	"Wyoming"	"56"	"77 years"	"77"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	21	8362	251.1
+	"Wyoming"	"56"	"77 years"	"77"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	14	8362	Unreliable
+	"Wyoming"	"56"	"77 years"	"77"	"Acute myocardial infarction, unspecified"	"I21.9"	15	8362	Unreliable
+	"Wyoming"	"56"	"77 years"	"77"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	20	8362	239.2
+	"Wyoming"	"56"	"77 years"	"77"	"COVID-19"	"U07.1"	10	8362	Unreliable
+	"Wyoming"	"56"	"78 years"	"78"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	15	7708	Unreliable
+	"Wyoming"	"56"	"78 years"	"78"	"Unspecified dementia"	"F03"	17	7708	Unreliable
+	"Wyoming"	"56"	"78 years"	"78"	"Alzheimer disease, unspecified"	"G30.9"	13	7708	Unreliable
+	"Wyoming"	"56"	"78 years"	"78"	"Atherosclerotic heart disease"	"I25.1"	12	7708	Unreliable
+	"Wyoming"	"56"	"78 years"	"78"	"Stroke, not specified as haemorrhage or infarction"	"I64"	12	7708	Unreliable
+	"Wyoming"	"56"	"78 years"	"78"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	27	7708	350.3
+	"Wyoming"	"56"	"79 years"	"79"	"Alzheimer disease, unspecified"	"G30.9"	13	7032	Unreliable
+	"Wyoming"	"56"	"79 years"	"79"	"Acute myocardial infarction, unspecified"	"I21.9"	10	7032	Unreliable
+	"Wyoming"	"56"	"79 years"	"79"	"Stroke, not specified as haemorrhage or infarction"	"I64"	10	7032	Unreliable
+	"Wyoming"	"56"	"79 years"	"79"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	18	7032	Unreliable
+	"Wyoming"	"56"	"80 years"	"80"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	16	6472	Unreliable
+	"Wyoming"	"56"	"80 years"	"80"	"Alzheimer disease, unspecified"	"G30.9"	24	6472	370.8
+	"Wyoming"	"56"	"80 years"	"80"	"Acute myocardial infarction, unspecified"	"I21.9"	18	6472	Unreliable
+	"Wyoming"	"56"	"80 years"	"80"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	21	6472	324.5
+	"Wyoming"	"56"	"80 years"	"80"	"COVID-19"	"U07.1"	11	6472	Unreliable
+	"Wyoming"	"56"	"81 years"	"81"	"Unspecified dementia"	"F03"	12	6096	Unreliable
+	"Wyoming"	"56"	"81 years"	"81"	"Alzheimer disease, unspecified"	"G30.9"	18	6096	Unreliable
+	"Wyoming"	"56"	"81 years"	"81"	"Acute myocardial infarction, unspecified"	"I21.9"	14	6096	Unreliable
+	"Wyoming"	"56"	"81 years"	"81"	"Atherosclerotic heart disease"	"I25.1"	12	6096	Unreliable
+	"Wyoming"	"56"	"81 years"	"81"	"Stroke, not specified as haemorrhage or infarction"	"I64"	10	6096	Unreliable
+	"Wyoming"	"56"	"81 years"	"81"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	21	6096	344.5
+	"Wyoming"	"56"	"82 years"	"82"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	14	5699	Unreliable
+	"Wyoming"	"56"	"82 years"	"82"	"Unspecified dementia"	"F03"	16	5699	Unreliable
+	"Wyoming"	"56"	"82 years"	"82"	"Alzheimer disease, unspecified"	"G30.9"	16	5699	Unreliable
+	"Wyoming"	"56"	"82 years"	"82"	"Acute myocardial infarction, unspecified"	"I21.9"	14	5699	Unreliable
+	"Wyoming"	"56"	"82 years"	"82"	"Atherosclerotic heart disease"	"I25.1"	10	5699	Unreliable
+	"Wyoming"	"56"	"82 years"	"82"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	28	5699	491.3
+	"Wyoming"	"56"	"83 years"	"83"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	13	5220	Unreliable
+	"Wyoming"	"56"	"83 years"	"83"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	16	5220	Unreliable
+	"Wyoming"	"56"	"83 years"	"83"	"Unspecified dementia"	"F03"	20	5220	383.1
+	"Wyoming"	"56"	"83 years"	"83"	"Alzheimer disease, unspecified"	"G30.9"	26	5220	498.1
+	"Wyoming"	"56"	"83 years"	"83"	"Atherosclerotic heart disease"	"I25.1"	12	5220	Unreliable
+	"Wyoming"	"56"	"83 years"	"83"	"Stroke, not specified as haemorrhage or infarction"	"I64"	18	5220	Unreliable
+	"Wyoming"	"56"	"83 years"	"83"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	22	5220	421.5
+	"Wyoming"	"56"	"84 years"	"84"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	10	4830	Unreliable
+	"Wyoming"	"56"	"84 years"	"84"	"Unspecified dementia"	"F03"	11	4830	Unreliable
+	"Wyoming"	"56"	"84 years"	"84"	"Alzheimer disease, unspecified"	"G30.9"	29	4830	600.4
+	"Wyoming"	"56"	"84 years"	"84"	"Congestive heart failure"	"I50.0"	15	4830	Unreliable
+	"Wyoming"	"56"	"84 years"	"84"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	22	4830	455.5
+	"Wyoming"	"56"	"85 years"	"85"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	11	Not Applicable	Not Applicable
+	"Wyoming"	"56"	"85 years"	"85"	"Unspecified dementia"	"F03"	15	Not Applicable	Not Applicable
+	"Wyoming"	"56"	"85 years"	"85"	"Alzheimer disease, unspecified"	"G30.9"	35	Not Applicable	Not Applicable
+	"Wyoming"	"56"	"85 years"	"85"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	11	Not Applicable	Not Applicable
+	"Wyoming"	"56"	"85 years"	"85"	"Atherosclerotic heart disease"	"I25.1"	11	Not Applicable	Not Applicable
+	"Wyoming"	"56"	"85 years"	"85"	"Stroke, not specified as haemorrhage or infarction"	"I64"	16	Not Applicable	Not Applicable
+	"Wyoming"	"56"	"85 years"	"85"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	18	Not Applicable	Not Applicable
+	"Wyoming"	"56"	"86 years"	"86"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	11	Not Applicable	Not Applicable
+	"Wyoming"	"56"	"86 years"	"86"	"Unspecified dementia"	"F03"	19	Not Applicable	Not Applicable
+	"Wyoming"	"56"	"86 years"	"86"	"Alzheimer disease, unspecified"	"G30.9"	31	Not Applicable	Not Applicable
+	"Wyoming"	"56"	"86 years"	"86"	"Acute myocardial infarction, unspecified"	"I21.9"	14	Not Applicable	Not Applicable
+	"Wyoming"	"56"	"86 years"	"86"	"Atherosclerotic heart disease"	"I25.1"	11	Not Applicable	Not Applicable
+	"Wyoming"	"56"	"86 years"	"86"	"Congestive heart failure"	"I50.0"	18	Not Applicable	Not Applicable
+	"Wyoming"	"56"	"86 years"	"86"	"Stroke, not specified as haemorrhage or infarction"	"I64"	12	Not Applicable	Not Applicable
+	"Wyoming"	"56"	"86 years"	"86"	"Pneumonia, unspecified"	"J18.9"	12	Not Applicable	Not Applicable
+	"Wyoming"	"56"	"86 years"	"86"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	15	Not Applicable	Not Applicable
+	"Wyoming"	"56"	"87 years"	"87"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	13	Not Applicable	Not Applicable
+	"Wyoming"	"56"	"87 years"	"87"	"Unspecified dementia"	"F03"	15	Not Applicable	Not Applicable
+	"Wyoming"	"56"	"87 years"	"87"	"Alzheimer disease, unspecified"	"G30.9"	33	Not Applicable	Not Applicable
+	"Wyoming"	"56"	"87 years"	"87"	"Acute myocardial infarction, unspecified"	"I21.9"	14	Not Applicable	Not Applicable
+	"Wyoming"	"56"	"87 years"	"87"	"Atherosclerotic heart disease"	"I25.1"	13	Not Applicable	Not Applicable
+	"Wyoming"	"56"	"87 years"	"87"	"Atrial fibrillation and flutter"	"I48"	13	Not Applicable	Not Applicable
+	"Wyoming"	"56"	"87 years"	"87"	"Congestive heart failure"	"I50.0"	17	Not Applicable	Not Applicable
+	"Wyoming"	"56"	"87 years"	"87"	"Stroke, not specified as haemorrhage or infarction"	"I64"	20	Not Applicable	Not Applicable
+	"Wyoming"	"56"	"87 years"	"87"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	14	Not Applicable	Not Applicable
+	"Wyoming"	"56"	"88 years"	"88"	"Unspecified dementia"	"F03"	18	Not Applicable	Not Applicable
+	"Wyoming"	"56"	"88 years"	"88"	"Alzheimer disease, unspecified"	"G30.9"	29	Not Applicable	Not Applicable
+	"Wyoming"	"56"	"88 years"	"88"	"Acute myocardial infarction, unspecified"	"I21.9"	10	Not Applicable	Not Applicable
+	"Wyoming"	"56"	"88 years"	"88"	"Congestive heart failure"	"I50.0"	13	Not Applicable	Not Applicable
+	"Wyoming"	"56"	"88 years"	"88"	"Stroke, not specified as haemorrhage or infarction"	"I64"	15	Not Applicable	Not Applicable
+	"Wyoming"	"56"	"88 years"	"88"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	22	Not Applicable	Not Applicable
+	"Wyoming"	"56"	"89 years"	"89"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	10	Not Applicable	Not Applicable
+	"Wyoming"	"56"	"89 years"	"89"	"Unspecified dementia"	"F03"	30	Not Applicable	Not Applicable
+	"Wyoming"	"56"	"89 years"	"89"	"Alzheimer disease, unspecified"	"G30.9"	33	Not Applicable	Not Applicable
+	"Wyoming"	"56"	"89 years"	"89"	"Acute myocardial infarction, unspecified"	"I21.9"	10	Not Applicable	Not Applicable
+	"Wyoming"	"56"	"89 years"	"89"	"Atherosclerotic heart disease"	"I25.1"	10	Not Applicable	Not Applicable
+	"Wyoming"	"56"	"89 years"	"89"	"Stroke, not specified as haemorrhage or infarction"	"I64"	12	Not Applicable	Not Applicable
+	"Wyoming"	"56"	"89 years"	"89"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	18	Not Applicable	Not Applicable
+	"Wyoming"	"56"	"90 years"	"90"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	10	Not Applicable	Not Applicable
+	"Wyoming"	"56"	"90 years"	"90"	"Unspecified dementia"	"F03"	27	Not Applicable	Not Applicable
+	"Wyoming"	"56"	"90 years"	"90"	"Alzheimer disease, unspecified"	"G30.9"	44	Not Applicable	Not Applicable
+	"Wyoming"	"56"	"90 years"	"90"	"Acute myocardial infarction, unspecified"	"I21.9"	18	Not Applicable	Not Applicable
+	"Wyoming"	"56"	"90 years"	"90"	"Atherosclerotic heart disease"	"I25.1"	11	Not Applicable	Not Applicable
+	"Wyoming"	"56"	"90 years"	"90"	"Atrial fibrillation and flutter"	"I48"	15	Not Applicable	Not Applicable
+	"Wyoming"	"56"	"90 years"	"90"	"Congestive heart failure"	"I50.0"	21	Not Applicable	Not Applicable
+	"Wyoming"	"56"	"90 years"	"90"	"Stroke, not specified as haemorrhage or infarction"	"I64"	14	Not Applicable	Not Applicable
+	"Wyoming"	"56"	"90 years"	"90"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	16	Not Applicable	Not Applicable
+	"Wyoming"	"56"	"90 years"	"90"	"Pneumonitis due to food and vomit"	"J69.0"	10	Not Applicable	Not Applicable
+	"Wyoming"	"56"	"91 years"	"91"	"Unspecified dementia"	"F03"	31	Not Applicable	Not Applicable
+	"Wyoming"	"56"	"91 years"	"91"	"Alzheimer disease, unspecified"	"G30.9"	33	Not Applicable	Not Applicable
+	"Wyoming"	"56"	"91 years"	"91"	"Acute myocardial infarction, unspecified"	"I21.9"	15	Not Applicable	Not Applicable
+	"Wyoming"	"56"	"91 years"	"91"	"Atherosclerotic heart disease"	"I25.1"	12	Not Applicable	Not Applicable
+	"Wyoming"	"56"	"91 years"	"91"	"Atrial fibrillation and flutter"	"I48"	12	Not Applicable	Not Applicable
+	"Wyoming"	"56"	"91 years"	"91"	"Congestive heart failure"	"I50.0"	15	Not Applicable	Not Applicable
+	"Wyoming"	"56"	"91 years"	"91"	"Stroke, not specified as haemorrhage or infarction"	"I64"	14	Not Applicable	Not Applicable
+	"Wyoming"	"56"	"91 years"	"91"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	14	Not Applicable	Not Applicable
+	"Wyoming"	"56"	"92 years"	"92"	"Unspecified dementia"	"F03"	24	Not Applicable	Not Applicable
+	"Wyoming"	"56"	"92 years"	"92"	"Alzheimer disease, unspecified"	"G30.9"	33	Not Applicable	Not Applicable
+	"Wyoming"	"56"	"92 years"	"92"	"Acute myocardial infarction, unspecified"	"I21.9"	17	Not Applicable	Not Applicable
+	"Wyoming"	"56"	"92 years"	"92"	"Atherosclerotic heart disease"	"I25.1"	15	Not Applicable	Not Applicable
+	"Wyoming"	"56"	"92 years"	"92"	"Congestive heart failure"	"I50.0"	16	Not Applicable	Not Applicable
+	"Wyoming"	"56"	"92 years"	"92"	"Stroke, not specified as haemorrhage or infarction"	"I64"	18	Not Applicable	Not Applicable
+	"Wyoming"	"56"	"92 years"	"92"	"Pneumonia, unspecified"	"J18.9"	10	Not Applicable	Not Applicable
+	"Wyoming"	"56"	"92 years"	"92"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	11	Not Applicable	Not Applicable
+	"Wyoming"	"56"	"93 years"	"93"	"Unspecified dementia"	"F03"	22	Not Applicable	Not Applicable
+	"Wyoming"	"56"	"93 years"	"93"	"Alzheimer disease, unspecified"	"G30.9"	41	Not Applicable	Not Applicable
+	"Wyoming"	"56"	"93 years"	"93"	"Congestive heart failure"	"I50.0"	10	Not Applicable	Not Applicable
+	"Wyoming"	"56"	"93 years"	"93"	"Stroke, not specified as haemorrhage or infarction"	"I64"	12	Not Applicable	Not Applicable
+	"Wyoming"	"56"	"93 years"	"93"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	10	Not Applicable	Not Applicable
+	"Wyoming"	"56"	"94 years"	"94"	"Unspecified dementia"	"F03"	17	Not Applicable	Not Applicable
+	"Wyoming"	"56"	"94 years"	"94"	"Alzheimer disease, unspecified"	"G30.9"	25	Not Applicable	Not Applicable
+	"Wyoming"	"56"	"94 years"	"94"	"Atherosclerotic heart disease"	"I25.1"	18	Not Applicable	Not Applicable
+	"Wyoming"	"56"	"94 years"	"94"	"Stroke, not specified as haemorrhage or infarction"	"I64"	15	Not Applicable	Not Applicable
+	"Wyoming"	"56"	"94 years"	"94"	"Pneumonia, unspecified"	"J18.9"	11	Not Applicable	Not Applicable
+	"Wyoming"	"56"	"94 years"	"94"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	12	Not Applicable	Not Applicable
+	"Wyoming"	"56"	"95 years"	"95"	"Unspecified dementia"	"F03"	18	Not Applicable	Not Applicable
+	"Wyoming"	"56"	"95 years"	"95"	"Alzheimer disease, unspecified"	"G30.9"	20	Not Applicable	Not Applicable
+	"Wyoming"	"56"	"95 years"	"95"	"Atherosclerotic heart disease"	"I25.1"	10	Not Applicable	Not Applicable
+	"Wyoming"	"56"	"95 years"	"95"	"Congestive heart failure"	"I50.0"	11	Not Applicable	Not Applicable
+	"Wyoming"	"56"	"95 years"	"95"	"Stroke, not specified as haemorrhage or infarction"	"I64"	11	Not Applicable	Not Applicable
+	"Wyoming"	"56"	"95 years"	"95"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	10	Not Applicable	Not Applicable
+	"Wyoming"	"56"	"96 years"	"96"	"Unspecified dementia"	"F03"	13	Not Applicable	Not Applicable
+	"Wyoming"	"56"	"96 years"	"96"	"Alzheimer disease, unspecified"	"G30.9"	13	Not Applicable	Not Applicable
+	"Wyoming"	"56"	"96 years"	"96"	"Congestive heart failure"	"I50.0"	11	Not Applicable	Not Applicable
+	"Wyoming"	"56"	"97 years"	"97"	"Unspecified dementia"	"F03"	20	Not Applicable	Not Applicable
+	"Wyoming"	"56"	"97 years"	"97"	"Alzheimer disease, unspecified"	"G30.9"	23	Not Applicable	Not Applicable
+	"Wyoming"	"56"	"98 years"	"98"	"Alzheimer disease, unspecified"	"G30.9"	13	Not Applicable	Not Applicable
+	"Wyoming"	"56"	"98 years"	"98"	"Congestive heart failure"	"I50.0"	10	Not Applicable	Not Applicable
+	"Wyoming"	"56"	"99 years"	"99"	"Unspecified dementia"	"F03"	14	Not Applicable	Not Applicable
+	"Wyoming"	"56"	"100+ years"	"100"	"Unspecified dementia"	"F03"	14	Not Applicable	Not Applicable
+	"Wyoming"	"56"	"100+ years"	"100"	"Alzheimer disease, unspecified"	"G30.9"	23	Not Applicable	Not Applicable
+	"Wyoming"	"56"	"100+ years"	"100"	"Stroke, not specified as haemorrhage or infarction"	"I64"	11	Not Applicable	Not Applicable
+"---"
+"Dataset: Underlying Cause of Death, 1999-2020"
+"Query Parameters:"
+"Title: Wyoming CoD F"
+"Gender: Female"
+"States: Wyoming (56)"
+"Year/Month: 2016; 2017; 2018; 2019; 2020"
+"Group By: State; Single-Year Ages; Cause of death"
+"Show Totals: Disabled"
+"Show Zero Values: Disabled"
+"Show Suppressed: False"
+"Calculate Rates Per: 100,000"
+"Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/ucd.html for more information."
+"---"
+"Query Date: Apr 11, 2022 3:24:32 AM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. Underlying Cause of Death"
+"1999-2020 on CDC WONDER Online Database, released in 2021. Data are from the Multiple Cause of Death Files, 1999-2020, as"
+"compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative Program. Accessed"
+"at http://wonder.cdc.gov/ucd-icd10.html on Apr 11, 2022 3:24:32 AM"
+"---"
+Messages:
+"1. The full results are too long to be displayed. Due to suppression constraints rows that are zero, suppressed or a total will"
+"not be available."
+"---"
+Caveats:
+"1. Population and rates are labeled 'Not Applicable' when they include a subset of ages 85-100+ because populations are not"
+"available for those ages. More information: http://wonder.cdc.gov/wonder/help/ucd.html#Ages 85-100."
+"2. Death rates are flagged as Unreliable when the rate is calculated with a numerator of 20 or less. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Unreliable."
+"3. Deaths of persons with Age ""Not Stated"" are included in ""All"" counts and rates, but are not distributed among age groups,"
+"so are not included in age-specific counts, age-specific rates or in any age-adjusted rates. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Not Stated."
+"4. The population figures for year 2020 are bridged-race estimates of the July 1 resident population, from the Vintage 2020"
+"postcensal series released by NCHS on September 22, 2021. The population figures for year 2019 are bridged-race estimates of the"
+"July 1 resident population, from the Vintage 2019 postcensal series released by NCHS on July 9, 2020. The population figures for"
+"year 2018 are bridged-race estimates of the July 1 resident population, from the Vintage 2018 postcensal series released by NCHS"
+"on June 25, 2019. The population figures for year 2017 are bridged-race estimates of the July 1 resident population, from the"
+"Vintage 2017 postcensal series released by NCHS on June 27, 2018. The population figures for year 2016 are bridged-race"
+"estimates of the July 1 resident population, from the Vintage 2016 postcensal series released by NCHS on June 26, 2017. The"
+"population figures for year 2015 are bridged-race estimates of the July 1 resident population, from the Vintage 2015 postcensal"
+"series released by NCHS on June 28, 2016. The population figures for year 2014 are bridged-race estimates of the July 1 resident"
+"population, from the Vintage 2014 postcensal series released by NCHS on June 30, 2015. The population figures for year 2013 are"
+"bridged-race estimates of the July 1 resident population, from the Vintage 2013 postcensal series released by NCHS on June 26,"
+"2014. The population figures for year 2012 are bridged-race estimates of the July 1 resident population, from the Vintage 2012"
+"postcensal series released by NCHS on June 13, 2013. The population figures for year 2011 are bridged-race estimates of the July"
+"1 resident population, from the Vintage 2011 postcensal series released by NCHS on July 18, 2012. Population figures for 2010"
+"are April 1 Census counts. The population figures for years 2001 - 2009 are bridged-race estimates of the July 1 resident"
+"population, from the revised intercensal county-level 2000 - 2009 series released by NCHS on October 26, 2012. Population"
+"figures for 2000 are April 1 Census counts. Population figures for 1999 are from the 1990-1999 intercensal series of July 1"
+"estimates. Population figures for the infant age groups are the number of live births. <br/><b>Note:</b> Rates and population"
+"figures for years 2001 - 2009 differ slightly from previously published reports, due to use of the population estimates which"
+"were available at the time of release."
+"5. The population figures used in the calculation of death rates for the age group 'under 1 year' are the estimates of the"
+"resident population that is under one year of age. More information: http://wonder.cdc.gov/wonder/help/ucd.html#Age Group."
+"6. Beginning with the 2018 data, changes have been implemented that affect the counts for ICD-10 cause of death codes O00-O99"
+"compared to previous practice. In addition, data for the cause of death codes O00-O99 for 2003 through 2017 reflect differences"
+"in information available to individual states and probable errors. Caution should be used in interpreting these data. More"
+"information can be found at: https://www.cdc.gov/nchs/maternal-mortality/."
+"7. On March 11, 2021, the 2019 mortality data on CDC WONDER was updated with the 2019 mortality data updated by NCHS on March 4,"
+"2021 to include corrected information for residents of Texas affecting 5 records previously coded to cause code *U01.4,"
+"Terrorism involving firearms (homicide). The underlying and multiple cause of death codes for 5 records were corrected in the"
+"2019 data. Underlying and multiple cause of death codes for those 5 records were recoded to Assault (homicide) by other and"
+"unspecified firearm discharge, ICD-10 code X95. The corrected final death records replaces the data released on December 22,"
+"2020."
+"8. Changes to cause of death classification affect reporting trends. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#ICD-10 Changes."

@@ -1,0 +1,568 @@
+"Notes"	"State"	"State Code"	"Single-Year Ages"	"Single-Year Ages Code"	"Cause of death"	"Cause of death Code"	Deaths	Population	Crude Rate
+	"Montana"	"30"	"< 1 year"	"0"	"Extreme immaturity"	"P07.2"	13	30966	Unreliable
+	"Montana"	"30"	"< 1 year"	"0"	"Other ill-defined and unspecified causes of mortality"	"R99"	38	30966	122.7
+	"Montana"	"30"	"19 years"	"19"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	10	35926	Unreliable
+	"Montana"	"30"	"21 years"	"21"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	11	37795	Unreliable
+	"Montana"	"30"	"22 years"	"22"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	12	39097	Unreliable
+	"Montana"	"30"	"23 years"	"23"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	11	39668	Unreliable
+	"Montana"	"30"	"27 years"	"27"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	12	36632	Unreliable
+	"Montana"	"30"	"28 years"	"28"	"Intentional self-harm by hanging, strangulation and suffocation"	"X70"	11	35888	Unreliable
+	"Montana"	"30"	"31 years"	"31"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	10	33925	Unreliable
+	"Montana"	"30"	"32 years"	"32"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	10	33957	Unreliable
+	"Montana"	"30"	"33 years"	"33"	"Intentional self-harm by hanging, strangulation and suffocation"	"X70"	11	34144	Unreliable
+	"Montana"	"30"	"40 years"	"40"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	12	32181	Unreliable
+	"Montana"	"30"	"47 years"	"47"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	11	29907	Unreliable
+	"Montana"	"30"	"48 years"	"48"	"Alcoholic cirrhosis of liver"	"K70.3"	11	29733	Unreliable
+	"Montana"	"30"	"49 years"	"49"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	18	29961	Unreliable
+	"Montana"	"30"	"50 years"	"50"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	14	29807	Unreliable
+	"Montana"	"30"	"52 years"	"52"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	13	30725	Unreliable
+	"Montana"	"30"	"53 years"	"53"	"Acute myocardial infarction, unspecified"	"I21.9"	10	31638	Unreliable
+	"Montana"	"30"	"53 years"	"53"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	25	31638	79.0
+	"Montana"	"30"	"53 years"	"53"	"Alcoholic cirrhosis of liver"	"K70.3"	11	31638	Unreliable
+	"Montana"	"30"	"53 years"	"53"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	10	31638	Unreliable
+	"Montana"	"30"	"54 years"	"54"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	11	32971	Unreliable
+	"Montana"	"30"	"54 years"	"54"	"Acute myocardial infarction, unspecified"	"I21.9"	13	32971	Unreliable
+	"Montana"	"30"	"54 years"	"54"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	26	32971	78.9
+	"Montana"	"30"	"55 years"	"55"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	28	34609	80.9
+	"Montana"	"30"	"56 years"	"56"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	12	35775	Unreliable
+	"Montana"	"30"	"56 years"	"56"	"Mental and behavioural disorders due to use of alcohol, dependence syndrome"	"F10.2"	15	35775	Unreliable
+	"Montana"	"30"	"56 years"	"56"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	36	35775	100.6
+	"Montana"	"30"	"56 years"	"56"	"Alcoholic cirrhosis of liver"	"K70.3"	11	35775	Unreliable
+	"Montana"	"30"	"57 years"	"57"	"Acute myocardial infarction, unspecified"	"I21.9"	10	36591	Unreliable
+	"Montana"	"30"	"57 years"	"57"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	32	36591	87.5
+	"Montana"	"30"	"57 years"	"57"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	10	36591	Unreliable
+	"Montana"	"30"	"57 years"	"57"	"Alcoholic cirrhosis of liver"	"K70.3"	10	36591	Unreliable
+	"Montana"	"30"	"58 years"	"58"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	18	37150	Unreliable
+	"Montana"	"30"	"58 years"	"58"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	51	37150	137.3
+	"Montana"	"30"	"58 years"	"58"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	11	37150	Unreliable
+	"Montana"	"30"	"58 years"	"58"	"Alcoholic cirrhosis of liver"	"K70.3"	11	37150	Unreliable
+	"Montana"	"30"	"59 years"	"59"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	14	37460	Unreliable
+	"Montana"	"30"	"59 years"	"59"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	17	37460	Unreliable
+	"Montana"	"30"	"59 years"	"59"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	47	37460	125.5
+	"Montana"	"30"	"59 years"	"59"	"Atherosclerotic heart disease"	"I25.1"	11	37460	Unreliable
+	"Montana"	"30"	"59 years"	"59"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	13	37460	Unreliable
+	"Montana"	"30"	"60 years"	"60"	"Liver cell carcinoma - Malignant neoplasms"	"C22.0"	15	37745	Unreliable
+	"Montana"	"30"	"60 years"	"60"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	19	37745	Unreliable
+	"Montana"	"30"	"60 years"	"60"	"Mental and behavioural disorders due to use of alcohol, dependence syndrome"	"F10.2"	12	37745	Unreliable
+	"Montana"	"30"	"60 years"	"60"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	14	37745	Unreliable
+	"Montana"	"30"	"60 years"	"60"	"Acute myocardial infarction, unspecified"	"I21.9"	19	37745	Unreliable
+	"Montana"	"30"	"60 years"	"60"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	51	37745	135.1
+	"Montana"	"30"	"60 years"	"60"	"Atherosclerotic heart disease"	"I25.1"	12	37745	Unreliable
+	"Montana"	"30"	"60 years"	"60"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	23	37745	60.9
+	"Montana"	"30"	"60 years"	"60"	"Alcoholic cirrhosis of liver"	"K70.3"	10	37745	Unreliable
+	"Montana"	"30"	"60 years"	"60"	"COVID-19"	"U07.1"	11	37745	Unreliable
+	"Montana"	"30"	"61 years"	"61"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	11	37470	Unreliable
+	"Montana"	"30"	"61 years"	"61"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	26	37470	69.4
+	"Montana"	"30"	"61 years"	"61"	"Malignant neoplasm of prostate"	"C61"	12	37470	Unreliable
+	"Montana"	"30"	"61 years"	"61"	"Brain, unspecified - Malignant neoplasms"	"C71.9"	10	37470	Unreliable
+	"Montana"	"30"	"61 years"	"61"	"Acute myocardial infarction, unspecified"	"I21.9"	19	37470	Unreliable
+	"Montana"	"30"	"61 years"	"61"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	59	37470	157.5
+	"Montana"	"30"	"61 years"	"61"	"Atherosclerotic heart disease"	"I25.1"	22	37470	58.7
+	"Montana"	"30"	"61 years"	"61"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	21	37470	56.0
+	"Montana"	"30"	"62 years"	"62"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	10	37328	Unreliable
+	"Montana"	"30"	"62 years"	"62"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	27	37328	72.3
+	"Montana"	"30"	"62 years"	"62"	"Acute myocardial infarction, unspecified"	"I21.9"	20	37328	53.6
+	"Montana"	"30"	"62 years"	"62"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	65	37328	174.1
+	"Montana"	"30"	"62 years"	"62"	"Atherosclerotic heart disease"	"I25.1"	13	37328	Unreliable
+	"Montana"	"30"	"62 years"	"62"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	20	37328	53.6
+	"Montana"	"30"	"62 years"	"62"	"Alcoholic cirrhosis of liver"	"K70.3"	10	37328	Unreliable
+	"Montana"	"30"	"62 years"	"62"	"COVID-19"	"U07.1"	11	37328	Unreliable
+	"Montana"	"30"	"63 years"	"63"	"Oesophagus, unspecified - Malignant neoplasms"	"C15.9"	11	37118	Unreliable
+	"Montana"	"30"	"63 years"	"63"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	14	37118	Unreliable
+	"Montana"	"30"	"63 years"	"63"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	19	37118	Unreliable
+	"Montana"	"30"	"63 years"	"63"	"Mental and behavioural disorders due to use of alcohol, dependence syndrome"	"F10.2"	12	37118	Unreliable
+	"Montana"	"30"	"63 years"	"63"	"Acute myocardial infarction, unspecified"	"I21.9"	17	37118	Unreliable
+	"Montana"	"30"	"63 years"	"63"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	54	37118	145.5
+	"Montana"	"30"	"63 years"	"63"	"Atherosclerotic heart disease"	"I25.1"	10	37118	Unreliable
+	"Montana"	"30"	"63 years"	"63"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	26	37118	70.0
+	"Montana"	"30"	"64 years"	"64"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	13	36672	Unreliable
+	"Montana"	"30"	"64 years"	"64"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	14	36672	Unreliable
+	"Montana"	"30"	"64 years"	"64"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	30	36672	81.8
+	"Montana"	"30"	"64 years"	"64"	"Mental and behavioural disorders due to use of alcohol, dependence syndrome"	"F10.2"	10	36672	Unreliable
+	"Montana"	"30"	"64 years"	"64"	"Acute myocardial infarction, unspecified"	"I21.9"	18	36672	Unreliable
+	"Montana"	"30"	"64 years"	"64"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	52	36672	141.8
+	"Montana"	"30"	"64 years"	"64"	"Atherosclerotic heart disease"	"I25.1"	26	36672	70.9
+	"Montana"	"30"	"64 years"	"64"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	31	36672	84.5
+	"Montana"	"30"	"64 years"	"64"	"Other and unspecified cirrhosis of liver"	"K74.6"	10	36672	Unreliable
+	"Montana"	"30"	"64 years"	"64"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	14	36672	Unreliable
+	"Montana"	"30"	"65 years"	"65"	"Liver cell carcinoma - Malignant neoplasms"	"C22.0"	11	36118	Unreliable
+	"Montana"	"30"	"65 years"	"65"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	16	36118	Unreliable
+	"Montana"	"30"	"65 years"	"65"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	32	36118	88.6
+	"Montana"	"30"	"65 years"	"65"	"Malignant neoplasm without specification of site"	"C80"	11	36118	Unreliable
+	"Montana"	"30"	"65 years"	"65"	"Acute myocardial infarction, unspecified"	"I21.9"	10	36118	Unreliable
+	"Montana"	"30"	"65 years"	"65"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	52	36118	144.0
+	"Montana"	"30"	"65 years"	"65"	"Atherosclerotic heart disease"	"I25.1"	18	36118	Unreliable
+	"Montana"	"30"	"65 years"	"65"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	26	36118	72.0
+	"Montana"	"30"	"66 years"	"66"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	13	35311	Unreliable
+	"Montana"	"30"	"66 years"	"66"	"Liver cell carcinoma - Malignant neoplasms"	"C22.0"	12	35311	Unreliable
+	"Montana"	"30"	"66 years"	"66"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	12	35311	Unreliable
+	"Montana"	"30"	"66 years"	"66"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	28	35311	79.3
+	"Montana"	"30"	"66 years"	"66"	"Malignant neoplasm of prostate"	"C61"	11	35311	Unreliable
+	"Montana"	"30"	"66 years"	"66"	"Unspecified diabetes mellitus, without complications"	"E14.9"	20	35311	56.6
+	"Montana"	"30"	"66 years"	"66"	"Acute myocardial infarction, unspecified"	"I21.9"	31	35311	87.8
+	"Montana"	"30"	"66 years"	"66"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	60	35311	169.9
+	"Montana"	"30"	"66 years"	"66"	"Atherosclerotic heart disease"	"I25.1"	15	35311	Unreliable
+	"Montana"	"30"	"66 years"	"66"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	28	35311	79.3
+	"Montana"	"30"	"67 years"	"67"	"Septicaemia, unspecified"	"A41.9"	10	34357	Unreliable
+	"Montana"	"30"	"67 years"	"67"	"Oesophagus, unspecified - Malignant neoplasms"	"C15.9"	14	34357	Unreliable
+	"Montana"	"30"	"67 years"	"67"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	20	34357	58.2
+	"Montana"	"30"	"67 years"	"67"	"Liver cell carcinoma - Malignant neoplasms"	"C22.0"	10	34357	Unreliable
+	"Montana"	"30"	"67 years"	"67"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	28	34357	81.5
+	"Montana"	"30"	"67 years"	"67"	"Malignant neoplasm of prostate"	"C61"	14	34357	Unreliable
+	"Montana"	"30"	"67 years"	"67"	"Unspecified diabetes mellitus, without complications"	"E14.9"	13	34357	Unreliable
+	"Montana"	"30"	"67 years"	"67"	"Acute myocardial infarction, unspecified"	"I21.9"	20	34357	58.2
+	"Montana"	"30"	"67 years"	"67"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	58	34357	168.8
+	"Montana"	"30"	"67 years"	"67"	"Atherosclerotic heart disease"	"I25.1"	17	34357	Unreliable
+	"Montana"	"30"	"67 years"	"67"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	35	34357	101.9
+	"Montana"	"30"	"67 years"	"67"	"COVID-19"	"U07.1"	10	34357	Unreliable
+	"Montana"	"30"	"67 years"	"67"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	13	34357	Unreliable
+	"Montana"	"30"	"68 years"	"68"	"Oesophagus, unspecified - Malignant neoplasms"	"C15.9"	15	33016	Unreliable
+	"Montana"	"30"	"68 years"	"68"	"Liver cell carcinoma - Malignant neoplasms"	"C22.0"	11	33016	Unreliable
+	"Montana"	"30"	"68 years"	"68"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	14	33016	Unreliable
+	"Montana"	"30"	"68 years"	"68"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	38	33016	115.1
+	"Montana"	"30"	"68 years"	"68"	"Malignant neoplasm of prostate"	"C61"	12	33016	Unreliable
+	"Montana"	"30"	"68 years"	"68"	"Malignant neoplasm without specification of site"	"C80"	12	33016	Unreliable
+	"Montana"	"30"	"68 years"	"68"	"Unspecified diabetes mellitus, without complications"	"E14.9"	10	33016	Unreliable
+	"Montana"	"30"	"68 years"	"68"	"Acute myocardial infarction, unspecified"	"I21.9"	21	33016	63.6
+	"Montana"	"30"	"68 years"	"68"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	67	33016	202.9
+	"Montana"	"30"	"68 years"	"68"	"Atherosclerotic heart disease"	"I25.1"	22	33016	66.6
+	"Montana"	"30"	"68 years"	"68"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	28	33016	84.8
+	"Montana"	"30"	"68 years"	"68"	"COVID-19"	"U07.1"	14	33016	Unreliable
+	"Montana"	"30"	"69 years"	"69"	"Oesophagus, unspecified - Malignant neoplasms"	"C15.9"	12	32208	Unreliable
+	"Montana"	"30"	"69 years"	"69"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	10	32208	Unreliable
+	"Montana"	"30"	"69 years"	"69"	"Liver cell carcinoma - Malignant neoplasms"	"C22.0"	12	32208	Unreliable
+	"Montana"	"30"	"69 years"	"69"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	12	32208	Unreliable
+	"Montana"	"30"	"69 years"	"69"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	42	32208	130.4
+	"Montana"	"30"	"69 years"	"69"	"Malignant neoplasm of prostate"	"C61"	13	32208	Unreliable
+	"Montana"	"30"	"69 years"	"69"	"Malignant neoplasm without specification of site"	"C80"	10	32208	Unreliable
+	"Montana"	"30"	"69 years"	"69"	"Acute myocardial infarction, unspecified"	"I21.9"	13	32208	Unreliable
+	"Montana"	"30"	"69 years"	"69"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	56	32208	173.9
+	"Montana"	"30"	"69 years"	"69"	"Atherosclerotic heart disease"	"I25.1"	33	32208	102.5
+	"Montana"	"30"	"69 years"	"69"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	38	32208	118.0
+	"Montana"	"30"	"69 years"	"69"	"Alcoholic cirrhosis of liver"	"K70.3"	11	32208	Unreliable
+	"Montana"	"30"	"69 years"	"69"	"COVID-19"	"U07.1"	17	32208	Unreliable
+	"Montana"	"30"	"70 years"	"70"	"Septicaemia, unspecified"	"A41.9"	10	29741	Unreliable
+	"Montana"	"30"	"70 years"	"70"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	11	29741	Unreliable
+	"Montana"	"30"	"70 years"	"70"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	32	29741	107.6
+	"Montana"	"30"	"70 years"	"70"	"Malignant neoplasm of prostate"	"C61"	16	29741	Unreliable
+	"Montana"	"30"	"70 years"	"70"	"Acute myocardial infarction, unspecified"	"I21.9"	16	29741	Unreliable
+	"Montana"	"30"	"70 years"	"70"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	56	29741	188.3
+	"Montana"	"30"	"70 years"	"70"	"Atherosclerotic heart disease"	"I25.1"	26	29741	87.4
+	"Montana"	"30"	"70 years"	"70"	"Pneumonia, unspecified"	"J18.9"	10	29741	Unreliable
+	"Montana"	"30"	"70 years"	"70"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	39	29741	131.1
+	"Montana"	"30"	"70 years"	"70"	"COVID-19"	"U07.1"	14	29741	Unreliable
+	"Montana"	"30"	"71 years"	"71"	"Oesophagus, unspecified - Malignant neoplasms"	"C15.9"	13	27601	Unreliable
+	"Montana"	"30"	"71 years"	"71"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	13	27601	Unreliable
+	"Montana"	"30"	"71 years"	"71"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	16	27601	Unreliable
+	"Montana"	"30"	"71 years"	"71"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	41	27601	148.5
+	"Montana"	"30"	"71 years"	"71"	"Malignant neoplasm of prostate"	"C61"	16	27601	Unreliable
+	"Montana"	"30"	"71 years"	"71"	"Malignant neoplasm without specification of site"	"C80"	12	27601	Unreliable
+	"Montana"	"30"	"71 years"	"71"	"Acute myocardial infarction, unspecified"	"I21.9"	31	27601	112.3
+	"Montana"	"30"	"71 years"	"71"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	54	27601	195.6
+	"Montana"	"30"	"71 years"	"71"	"Atherosclerotic heart disease"	"I25.1"	34	27601	123.2
+	"Montana"	"30"	"71 years"	"71"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	35	27601	126.8
+	"Montana"	"30"	"71 years"	"71"	"COVID-19"	"U07.1"	25	27601	90.6
+	"Montana"	"30"	"72 years"	"72"	"Oesophagus, unspecified - Malignant neoplasms"	"C15.9"	13	25549	Unreliable
+	"Montana"	"30"	"72 years"	"72"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	14	25549	Unreliable
+	"Montana"	"30"	"72 years"	"72"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	41	25549	160.5
+	"Montana"	"30"	"72 years"	"72"	"Malignant neoplasm of prostate"	"C61"	11	25549	Unreliable
+	"Montana"	"30"	"72 years"	"72"	"Malignant neoplasm without specification of site"	"C80"	13	25549	Unreliable
+	"Montana"	"30"	"72 years"	"72"	"Unspecified dementia"	"F03"	12	25549	Unreliable
+	"Montana"	"30"	"72 years"	"72"	"Acute myocardial infarction, unspecified"	"I21.9"	16	25549	Unreliable
+	"Montana"	"30"	"72 years"	"72"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	66	25549	258.3
+	"Montana"	"30"	"72 years"	"72"	"Atherosclerotic heart disease"	"I25.1"	36	25549	140.9
+	"Montana"	"30"	"72 years"	"72"	"Congestive heart failure"	"I50.0"	12	25549	Unreliable
+	"Montana"	"30"	"72 years"	"72"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	35	25549	137.0
+	"Montana"	"30"	"72 years"	"72"	"COVID-19"	"U07.1"	22	25549	86.1
+	"Montana"	"30"	"73 years"	"73"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	14	23683	Unreliable
+	"Montana"	"30"	"73 years"	"73"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	50	23683	211.1
+	"Montana"	"30"	"73 years"	"73"	"Malignant neoplasm of prostate"	"C61"	22	23683	92.9
+	"Montana"	"30"	"73 years"	"73"	"Malignant neoplasm without specification of site"	"C80"	13	23683	Unreliable
+	"Montana"	"30"	"73 years"	"73"	"Unspecified dementia"	"F03"	16	23683	Unreliable
+	"Montana"	"30"	"73 years"	"73"	"Parkinson disease"	"G20"	10	23683	Unreliable
+	"Montana"	"30"	"73 years"	"73"	"Acute myocardial infarction, unspecified"	"I21.9"	20	23683	84.4
+	"Montana"	"30"	"73 years"	"73"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	49	23683	206.9
+	"Montana"	"30"	"73 years"	"73"	"Atherosclerotic heart disease"	"I25.1"	27	23683	114.0
+	"Montana"	"30"	"73 years"	"73"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	40	23683	168.9
+	"Montana"	"30"	"73 years"	"73"	"COVID-19"	"U07.1"	27	23683	114.0
+	"Montana"	"30"	"74 years"	"74"	"Oesophagus, unspecified - Malignant neoplasms"	"C15.9"	14	21107	Unreliable
+	"Montana"	"30"	"74 years"	"74"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	11	21107	Unreliable
+	"Montana"	"30"	"74 years"	"74"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	13	21107	Unreliable
+	"Montana"	"30"	"74 years"	"74"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	40	21107	189.5
+	"Montana"	"30"	"74 years"	"74"	"Malignant neoplasm of prostate"	"C61"	24	21107	113.7
+	"Montana"	"30"	"74 years"	"74"	"Malignant neoplasm without specification of site"	"C80"	15	21107	Unreliable
+	"Montana"	"30"	"74 years"	"74"	"Unspecified dementia"	"F03"	14	21107	Unreliable
+	"Montana"	"30"	"74 years"	"74"	"Parkinson disease"	"G20"	12	21107	Unreliable
+	"Montana"	"30"	"74 years"	"74"	"Acute myocardial infarction, unspecified"	"I21.9"	19	21107	Unreliable
+	"Montana"	"30"	"74 years"	"74"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	56	21107	265.3
+	"Montana"	"30"	"74 years"	"74"	"Atherosclerotic heart disease"	"I25.1"	24	21107	113.7
+	"Montana"	"30"	"74 years"	"74"	"Congestive heart failure"	"I50.0"	10	21107	Unreliable
+	"Montana"	"30"	"74 years"	"74"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	38	21107	180.0
+	"Montana"	"30"	"74 years"	"74"	"COVID-19"	"U07.1"	19	21107	Unreliable
+	"Montana"	"30"	"75 years"	"75"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	15	19829	Unreliable
+	"Montana"	"30"	"75 years"	"75"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	43	19829	216.9
+	"Montana"	"30"	"75 years"	"75"	"Malignant neoplasm of prostate"	"C61"	20	19829	100.9
+	"Montana"	"30"	"75 years"	"75"	"Malignant neoplasm without specification of site"	"C80"	13	19829	Unreliable
+	"Montana"	"30"	"75 years"	"75"	"Unspecified dementia"	"F03"	18	19829	Unreliable
+	"Montana"	"30"	"75 years"	"75"	"Parkinson disease"	"G20"	11	19829	Unreliable
+	"Montana"	"30"	"75 years"	"75"	"Acute myocardial infarction, unspecified"	"I21.9"	20	19829	100.9
+	"Montana"	"30"	"75 years"	"75"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	53	19829	267.3
+	"Montana"	"30"	"75 years"	"75"	"Atherosclerotic heart disease"	"I25.1"	33	19829	166.4
+	"Montana"	"30"	"75 years"	"75"	"Stroke, not specified as haemorrhage or infarction"	"I64"	11	19829	Unreliable
+	"Montana"	"30"	"75 years"	"75"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	12	19829	Unreliable
+	"Montana"	"30"	"75 years"	"75"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	43	19829	216.9
+	"Montana"	"30"	"75 years"	"75"	"COVID-19"	"U07.1"	18	19829	Unreliable
+	"Montana"	"30"	"76 years"	"76"	"Septicaemia, unspecified"	"A41.9"	10	18278	Unreliable
+	"Montana"	"30"	"76 years"	"76"	"Oesophagus, unspecified - Malignant neoplasms"	"C15.9"	10	18278	Unreliable
+	"Montana"	"30"	"76 years"	"76"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	12	18278	Unreliable
+	"Montana"	"30"	"76 years"	"76"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	17	18278	Unreliable
+	"Montana"	"30"	"76 years"	"76"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	42	18278	229.8
+	"Montana"	"30"	"76 years"	"76"	"Malignant neoplasm of prostate"	"C61"	29	18278	158.7
+	"Montana"	"30"	"76 years"	"76"	"Malignant neoplasm without specification of site"	"C80"	16	18278	Unreliable
+	"Montana"	"30"	"76 years"	"76"	"Unspecified diabetes mellitus, without complications"	"E14.9"	11	18278	Unreliable
+	"Montana"	"30"	"76 years"	"76"	"Unspecified dementia"	"F03"	18	18278	Unreliable
+	"Montana"	"30"	"76 years"	"76"	"Parkinson disease"	"G20"	11	18278	Unreliable
+	"Montana"	"30"	"76 years"	"76"	"Alzheimer disease, unspecified"	"G30.9"	10	18278	Unreliable
+	"Montana"	"30"	"76 years"	"76"	"Acute myocardial infarction, unspecified"	"I21.9"	21	18278	114.9
+	"Montana"	"30"	"76 years"	"76"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	54	18278	295.4
+	"Montana"	"30"	"76 years"	"76"	"Atherosclerotic heart disease"	"I25.1"	46	18278	251.7
+	"Montana"	"30"	"76 years"	"76"	"Congestive heart failure"	"I50.0"	16	18278	Unreliable
+	"Montana"	"30"	"76 years"	"76"	"Heart failure, unspecified"	"I50.9"	10	18278	Unreliable
+	"Montana"	"30"	"76 years"	"76"	"Stroke, not specified as haemorrhage or infarction"	"I64"	11	18278	Unreliable
+	"Montana"	"30"	"76 years"	"76"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	50	18278	273.6
+	"Montana"	"30"	"76 years"	"76"	"Other interstitial pulmonary diseases with fibrosis"	"J84.1"	10	18278	Unreliable
+	"Montana"	"30"	"76 years"	"76"	"COVID-19"	"U07.1"	12	18278	Unreliable
+	"Montana"	"30"	"77 years"	"77"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	10	16866	Unreliable
+	"Montana"	"30"	"77 years"	"77"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	48	16866	284.6
+	"Montana"	"30"	"77 years"	"77"	"Malignant neoplasm of prostate"	"C61"	32	16866	189.7
+	"Montana"	"30"	"77 years"	"77"	"Malignant neoplasm without specification of site"	"C80"	20	16866	118.6
+	"Montana"	"30"	"77 years"	"77"	"Unspecified dementia"	"F03"	24	16866	142.3
+	"Montana"	"30"	"77 years"	"77"	"Parkinson disease"	"G20"	20	16866	118.6
+	"Montana"	"30"	"77 years"	"77"	"Alzheimer disease, unspecified"	"G30.9"	12	16866	Unreliable
+	"Montana"	"30"	"77 years"	"77"	"Acute myocardial infarction, unspecified"	"I21.9"	25	16866	148.2
+	"Montana"	"30"	"77 years"	"77"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	48	16866	284.6
+	"Montana"	"30"	"77 years"	"77"	"Atherosclerotic heart disease"	"I25.1"	27	16866	160.1
+	"Montana"	"30"	"77 years"	"77"	"Congestive heart failure"	"I50.0"	16	16866	Unreliable
+	"Montana"	"30"	"77 years"	"77"	"Stroke, not specified as haemorrhage or infarction"	"I64"	13	16866	Unreliable
+	"Montana"	"30"	"77 years"	"77"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	41	16866	243.1
+	"Montana"	"30"	"77 years"	"77"	"COVID-19"	"U07.1"	21	16866	124.5
+	"Montana"	"30"	"78 years"	"78"	"Oesophagus, unspecified - Malignant neoplasms"	"C15.9"	12	15070	Unreliable
+	"Montana"	"30"	"78 years"	"78"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	12	15070	Unreliable
+	"Montana"	"30"	"78 years"	"78"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	11	15070	Unreliable
+	"Montana"	"30"	"78 years"	"78"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	35	15070	232.2
+	"Montana"	"30"	"78 years"	"78"	"Malignant neoplasm of prostate"	"C61"	27	15070	179.2
+	"Montana"	"30"	"78 years"	"78"	"Unspecified dementia"	"F03"	18	15070	Unreliable
+	"Montana"	"30"	"78 years"	"78"	"Parkinson disease"	"G20"	13	15070	Unreliable
+	"Montana"	"30"	"78 years"	"78"	"Alzheimer disease, unspecified"	"G30.9"	14	15070	Unreliable
+	"Montana"	"30"	"78 years"	"78"	"Acute myocardial infarction, unspecified"	"I21.9"	18	15070	Unreliable
+	"Montana"	"30"	"78 years"	"78"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	60	15070	398.1
+	"Montana"	"30"	"78 years"	"78"	"Atherosclerotic heart disease"	"I25.1"	32	15070	212.3
+	"Montana"	"30"	"78 years"	"78"	"Congestive heart failure"	"I50.0"	12	15070	Unreliable
+	"Montana"	"30"	"78 years"	"78"	"Stroke, not specified as haemorrhage or infarction"	"I64"	19	15070	Unreliable
+	"Montana"	"30"	"78 years"	"78"	"Emphysema, unspecified"	"J43.9"	10	15070	Unreliable
+	"Montana"	"30"	"78 years"	"78"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	53	15070	351.7
+	"Montana"	"30"	"78 years"	"78"	"COVID-19"	"U07.1"	20	15070	132.7
+	"Montana"	"30"	"79 years"	"79"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	13	13728	Unreliable
+	"Montana"	"30"	"79 years"	"79"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	30	13728	218.5
+	"Montana"	"30"	"79 years"	"79"	"Malignant neoplasm of prostate"	"C61"	28	13728	204.0
+	"Montana"	"30"	"79 years"	"79"	"Multiple myeloma - Malignant neoplasms"	"C90.0"	10	13728	Unreliable
+	"Montana"	"30"	"79 years"	"79"	"Unspecified dementia"	"F03"	24	13728	174.8
+	"Montana"	"30"	"79 years"	"79"	"Parkinson disease"	"G20"	12	13728	Unreliable
+	"Montana"	"30"	"79 years"	"79"	"Alzheimer disease, unspecified"	"G30.9"	15	13728	Unreliable
+	"Montana"	"30"	"79 years"	"79"	"Acute myocardial infarction, unspecified"	"I21.9"	14	13728	Unreliable
+	"Montana"	"30"	"79 years"	"79"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	38	13728	276.8
+	"Montana"	"30"	"79 years"	"79"	"Atherosclerotic heart disease"	"I25.1"	34	13728	247.7
+	"Montana"	"30"	"79 years"	"79"	"Congestive heart failure"	"I50.0"	13	13728	Unreliable
+	"Montana"	"30"	"79 years"	"79"	"Stroke, not specified as haemorrhage or infarction"	"I64"	12	13728	Unreliable
+	"Montana"	"30"	"79 years"	"79"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	43	13728	313.2
+	"Montana"	"30"	"79 years"	"79"	"COVID-19"	"U07.1"	25	13728	182.1
+	"Montana"	"30"	"80 years"	"80"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	14	12377	Unreliable
+	"Montana"	"30"	"80 years"	"80"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	10	12377	Unreliable
+	"Montana"	"30"	"80 years"	"80"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	42	12377	339.3
+	"Montana"	"30"	"80 years"	"80"	"Malignant neoplasm of prostate"	"C61"	25	12377	202.0
+	"Montana"	"30"	"80 years"	"80"	"Malignant neoplasm without specification of site"	"C80"	14	12377	Unreliable
+	"Montana"	"30"	"80 years"	"80"	"Unspecified dementia"	"F03"	29	12377	234.3
+	"Montana"	"30"	"80 years"	"80"	"Parkinson disease"	"G20"	16	12377	Unreliable
+	"Montana"	"30"	"80 years"	"80"	"Alzheimer disease, unspecified"	"G30.9"	26	12377	210.1
+	"Montana"	"30"	"80 years"	"80"	"Acute myocardial infarction, unspecified"	"I21.9"	15	12377	Unreliable
+	"Montana"	"30"	"80 years"	"80"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	46	12377	371.7
+	"Montana"	"30"	"80 years"	"80"	"Atherosclerotic heart disease"	"I25.1"	52	12377	420.1
+	"Montana"	"30"	"80 years"	"80"	"Congestive heart failure"	"I50.0"	22	12377	177.7
+	"Montana"	"30"	"80 years"	"80"	"Stroke, not specified as haemorrhage or infarction"	"I64"	13	12377	Unreliable
+	"Montana"	"30"	"80 years"	"80"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	31	12377	250.5
+	"Montana"	"30"	"80 years"	"80"	"COVID-19"	"U07.1"	32	12377	258.5
+	"Montana"	"30"	"81 years"	"81"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	33	11232	293.8
+	"Montana"	"30"	"81 years"	"81"	"Malignant neoplasm of prostate"	"C61"	31	11232	276.0
+	"Montana"	"30"	"81 years"	"81"	"Unspecified dementia"	"F03"	33	11232	293.8
+	"Montana"	"30"	"81 years"	"81"	"Parkinson disease"	"G20"	26	11232	231.5
+	"Montana"	"30"	"81 years"	"81"	"Alzheimer disease, unspecified"	"G30.9"	20	11232	178.1
+	"Montana"	"30"	"81 years"	"81"	"Acute myocardial infarction, unspecified"	"I21.9"	14	11232	Unreliable
+	"Montana"	"30"	"81 years"	"81"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	46	11232	409.5
+	"Montana"	"30"	"81 years"	"81"	"Atherosclerotic heart disease"	"I25.1"	39	11232	347.2
+	"Montana"	"30"	"81 years"	"81"	"Congestive heart failure"	"I50.0"	14	11232	Unreliable
+	"Montana"	"30"	"81 years"	"81"	"Stroke, not specified as haemorrhage or infarction"	"I64"	16	11232	Unreliable
+	"Montana"	"30"	"81 years"	"81"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	43	11232	382.8
+	"Montana"	"30"	"81 years"	"81"	"COVID-19"	"U07.1"	17	11232	Unreliable
+	"Montana"	"30"	"82 years"	"82"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	12	10062	Unreliable
+	"Montana"	"30"	"82 years"	"82"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	34	10062	337.9
+	"Montana"	"30"	"82 years"	"82"	"Malignant neoplasm of prostate"	"C61"	27	10062	268.3
+	"Montana"	"30"	"82 years"	"82"	"Bladder, unspecified - Malignant neoplasms"	"C67.9"	12	10062	Unreliable
+	"Montana"	"30"	"82 years"	"82"	"Unspecified dementia"	"F03"	31	10062	308.1
+	"Montana"	"30"	"82 years"	"82"	"Parkinson disease"	"G20"	19	10062	Unreliable
+	"Montana"	"30"	"82 years"	"82"	"Alzheimer disease, unspecified"	"G30.9"	28	10062	278.3
+	"Montana"	"30"	"82 years"	"82"	"Acute myocardial infarction, unspecified"	"I21.9"	13	10062	Unreliable
+	"Montana"	"30"	"82 years"	"82"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	33	10062	328.0
+	"Montana"	"30"	"82 years"	"82"	"Atherosclerotic heart disease"	"I25.1"	37	10062	367.7
+	"Montana"	"30"	"82 years"	"82"	"Congestive heart failure"	"I50.0"	20	10062	198.8
+	"Montana"	"30"	"82 years"	"82"	"Stroke, not specified as haemorrhage or infarction"	"I64"	11	10062	Unreliable
+	"Montana"	"30"	"82 years"	"82"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	42	10062	417.4
+	"Montana"	"30"	"82 years"	"82"	"COVID-19"	"U07.1"	12	10062	Unreliable
+	"Montana"	"30"	"83 years"	"83"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	11	9018	Unreliable
+	"Montana"	"30"	"83 years"	"83"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	21	9018	232.9
+	"Montana"	"30"	"83 years"	"83"	"Malignant neoplasm of prostate"	"C61"	29	9018	321.6
+	"Montana"	"30"	"83 years"	"83"	"Bladder, unspecified - Malignant neoplasms"	"C67.9"	13	9018	Unreliable
+	"Montana"	"30"	"83 years"	"83"	"Malignant neoplasm without specification of site"	"C80"	13	9018	Unreliable
+	"Montana"	"30"	"83 years"	"83"	"Unspecified dementia"	"F03"	29	9018	321.6
+	"Montana"	"30"	"83 years"	"83"	"Parkinson disease"	"G20"	23	9018	255.0
+	"Montana"	"30"	"83 years"	"83"	"Alzheimer disease, unspecified"	"G30.9"	26	9018	288.3
+	"Montana"	"30"	"83 years"	"83"	"Acute myocardial infarction, unspecified"	"I21.9"	13	9018	Unreliable
+	"Montana"	"30"	"83 years"	"83"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	37	9018	410.3
+	"Montana"	"30"	"83 years"	"83"	"Atherosclerotic heart disease"	"I25.1"	47	9018	521.2
+	"Montana"	"30"	"83 years"	"83"	"Congestive heart failure"	"I50.0"	25	9018	277.2
+	"Montana"	"30"	"83 years"	"83"	"Heart failure, unspecified"	"I50.9"	11	9018	Unreliable
+	"Montana"	"30"	"83 years"	"83"	"Stroke, not specified as haemorrhage or infarction"	"I64"	15	9018	Unreliable
+	"Montana"	"30"	"83 years"	"83"	"Pneumonia, unspecified"	"J18.9"	10	9018	Unreliable
+	"Montana"	"30"	"83 years"	"83"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	46	9018	510.1
+	"Montana"	"30"	"83 years"	"83"	"COVID-19"	"U07.1"	22	9018	244.0
+	"Montana"	"30"	"84 years"	"84"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	29	8004	362.3
+	"Montana"	"30"	"84 years"	"84"	"Malignant neoplasm of prostate"	"C61"	21	8004	262.4
+	"Montana"	"30"	"84 years"	"84"	"Unspecified diabetes mellitus, without complications"	"E14.9"	10	8004	Unreliable
+	"Montana"	"30"	"84 years"	"84"	"Unspecified dementia"	"F03"	37	8004	462.3
+	"Montana"	"30"	"84 years"	"84"	"Parkinson disease"	"G20"	29	8004	362.3
+	"Montana"	"30"	"84 years"	"84"	"Alzheimer disease, unspecified"	"G30.9"	19	8004	Unreliable
+	"Montana"	"30"	"84 years"	"84"	"Acute myocardial infarction, unspecified"	"I21.9"	16	8004	Unreliable
+	"Montana"	"30"	"84 years"	"84"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	29	8004	362.3
+	"Montana"	"30"	"84 years"	"84"	"Atherosclerotic heart disease"	"I25.1"	37	8004	462.3
+	"Montana"	"30"	"84 years"	"84"	"Congestive heart failure"	"I50.0"	17	8004	Unreliable
+	"Montana"	"30"	"84 years"	"84"	"Stroke, not specified as haemorrhage or infarction"	"I64"	13	8004	Unreliable
+	"Montana"	"30"	"84 years"	"84"	"Emphysema, unspecified"	"J43.9"	12	8004	Unreliable
+	"Montana"	"30"	"84 years"	"84"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	32	8004	399.8
+	"Montana"	"30"	"84 years"	"84"	"COVID-19"	"U07.1"	19	8004	Unreliable
+	"Montana"	"30"	"85 years"	"85"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	24	Not Applicable	Not Applicable
+	"Montana"	"30"	"85 years"	"85"	"Malignant neoplasm of prostate"	"C61"	20	Not Applicable	Not Applicable
+	"Montana"	"30"	"85 years"	"85"	"Malignant neoplasm without specification of site"	"C80"	11	Not Applicable	Not Applicable
+	"Montana"	"30"	"85 years"	"85"	"Unspecified dementia"	"F03"	45	Not Applicable	Not Applicable
+	"Montana"	"30"	"85 years"	"85"	"Parkinson disease"	"G20"	19	Not Applicable	Not Applicable
+	"Montana"	"30"	"85 years"	"85"	"Alzheimer disease, unspecified"	"G30.9"	26	Not Applicable	Not Applicable
+	"Montana"	"30"	"85 years"	"85"	"Acute myocardial infarction, unspecified"	"I21.9"	14	Not Applicable	Not Applicable
+	"Montana"	"30"	"85 years"	"85"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	38	Not Applicable	Not Applicable
+	"Montana"	"30"	"85 years"	"85"	"Atherosclerotic heart disease"	"I25.1"	44	Not Applicable	Not Applicable
+	"Montana"	"30"	"85 years"	"85"	"Congestive heart failure"	"I50.0"	18	Not Applicable	Not Applicable
+	"Montana"	"30"	"85 years"	"85"	"Stroke, not specified as haemorrhage or infarction"	"I64"	13	Not Applicable	Not Applicable
+	"Montana"	"30"	"85 years"	"85"	"Pneumonia, unspecified"	"J18.9"	11	Not Applicable	Not Applicable
+	"Montana"	"30"	"85 years"	"85"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	32	Not Applicable	Not Applicable
+	"Montana"	"30"	"85 years"	"85"	"COVID-19"	"U07.1"	19	Not Applicable	Not Applicable
+	"Montana"	"30"	"86 years"	"86"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	24	Not Applicable	Not Applicable
+	"Montana"	"30"	"86 years"	"86"	"Malignant neoplasm of prostate"	"C61"	22	Not Applicable	Not Applicable
+	"Montana"	"30"	"86 years"	"86"	"Multiple myeloma - Malignant neoplasms"	"C90.0"	10	Not Applicable	Not Applicable
+	"Montana"	"30"	"86 years"	"86"	"Unspecified dementia"	"F03"	47	Not Applicable	Not Applicable
+	"Montana"	"30"	"86 years"	"86"	"Parkinson disease"	"G20"	20	Not Applicable	Not Applicable
+	"Montana"	"30"	"86 years"	"86"	"Alzheimer disease, unspecified"	"G30.9"	29	Not Applicable	Not Applicable
+	"Montana"	"30"	"86 years"	"86"	"Acute myocardial infarction, unspecified"	"I21.9"	21	Not Applicable	Not Applicable
+	"Montana"	"30"	"86 years"	"86"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	30	Not Applicable	Not Applicable
+	"Montana"	"30"	"86 years"	"86"	"Atherosclerotic heart disease"	"I25.1"	38	Not Applicable	Not Applicable
+	"Montana"	"30"	"86 years"	"86"	"Congestive heart failure"	"I50.0"	30	Not Applicable	Not Applicable
+	"Montana"	"30"	"86 years"	"86"	"Heart failure, unspecified"	"I50.9"	10	Not Applicable	Not Applicable
+	"Montana"	"30"	"86 years"	"86"	"Stroke, not specified as haemorrhage or infarction"	"I64"	18	Not Applicable	Not Applicable
+	"Montana"	"30"	"86 years"	"86"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	42	Not Applicable	Not Applicable
+	"Montana"	"30"	"86 years"	"86"	"COVID-19"	"U07.1"	21	Not Applicable	Not Applicable
+	"Montana"	"30"	"87 years"	"87"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	15	Not Applicable	Not Applicable
+	"Montana"	"30"	"87 years"	"87"	"Malignant neoplasm of prostate"	"C61"	28	Not Applicable	Not Applicable
+	"Montana"	"30"	"87 years"	"87"	"Unspecified dementia"	"F03"	64	Not Applicable	Not Applicable
+	"Montana"	"30"	"87 years"	"87"	"Parkinson disease"	"G20"	18	Not Applicable	Not Applicable
+	"Montana"	"30"	"87 years"	"87"	"Alzheimer disease, unspecified"	"G30.9"	28	Not Applicable	Not Applicable
+	"Montana"	"30"	"87 years"	"87"	"Acute myocardial infarction, unspecified"	"I21.9"	15	Not Applicable	Not Applicable
+	"Montana"	"30"	"87 years"	"87"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	29	Not Applicable	Not Applicable
+	"Montana"	"30"	"87 years"	"87"	"Atherosclerotic heart disease"	"I25.1"	54	Not Applicable	Not Applicable
+	"Montana"	"30"	"87 years"	"87"	"Congestive heart failure"	"I50.0"	36	Not Applicable	Not Applicable
+	"Montana"	"30"	"87 years"	"87"	"Stroke, not specified as haemorrhage or infarction"	"I64"	17	Not Applicable	Not Applicable
+	"Montana"	"30"	"87 years"	"87"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	46	Not Applicable	Not Applicable
+	"Montana"	"30"	"87 years"	"87"	"COVID-19"	"U07.1"	13	Not Applicable	Not Applicable
+	"Montana"	"30"	"87 years"	"87"	"Unspecified fall"	"W19"	13	Not Applicable	Not Applicable
+	"Montana"	"30"	"88 years"	"88"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	18	Not Applicable	Not Applicable
+	"Montana"	"30"	"88 years"	"88"	"Malignant neoplasm of prostate"	"C61"	28	Not Applicable	Not Applicable
+	"Montana"	"30"	"88 years"	"88"	"Bladder, unspecified - Malignant neoplasms"	"C67.9"	11	Not Applicable	Not Applicable
+	"Montana"	"30"	"88 years"	"88"	"Unspecified dementia"	"F03"	67	Not Applicable	Not Applicable
+	"Montana"	"30"	"88 years"	"88"	"Parkinson disease"	"G20"	19	Not Applicable	Not Applicable
+	"Montana"	"30"	"88 years"	"88"	"Alzheimer disease, unspecified"	"G30.9"	36	Not Applicable	Not Applicable
+	"Montana"	"30"	"88 years"	"88"	"Acute myocardial infarction, unspecified"	"I21.9"	16	Not Applicable	Not Applicable
+	"Montana"	"30"	"88 years"	"88"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	36	Not Applicable	Not Applicable
+	"Montana"	"30"	"88 years"	"88"	"Atherosclerotic heart disease"	"I25.1"	45	Not Applicable	Not Applicable
+	"Montana"	"30"	"88 years"	"88"	"Atrial fibrillation and flutter"	"I48"	12	Not Applicable	Not Applicable
+	"Montana"	"30"	"88 years"	"88"	"Congestive heart failure"	"I50.0"	32	Not Applicable	Not Applicable
+	"Montana"	"30"	"88 years"	"88"	"Stroke, not specified as haemorrhage or infarction"	"I64"	16	Not Applicable	Not Applicable
+	"Montana"	"30"	"88 years"	"88"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	10	Not Applicable	Not Applicable
+	"Montana"	"30"	"88 years"	"88"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	37	Not Applicable	Not Applicable
+	"Montana"	"30"	"88 years"	"88"	"COVID-19"	"U07.1"	10	Not Applicable	Not Applicable
+	"Montana"	"30"	"89 years"	"89"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	24	Not Applicable	Not Applicable
+	"Montana"	"30"	"89 years"	"89"	"Malignant neoplasm of prostate"	"C61"	27	Not Applicable	Not Applicable
+	"Montana"	"30"	"89 years"	"89"	"Unspecified dementia"	"F03"	74	Not Applicable	Not Applicable
+	"Montana"	"30"	"89 years"	"89"	"Parkinson disease"	"G20"	15	Not Applicable	Not Applicable
+	"Montana"	"30"	"89 years"	"89"	"Alzheimer disease, unspecified"	"G30.9"	41	Not Applicable	Not Applicable
+	"Montana"	"30"	"89 years"	"89"	"Acute myocardial infarction, unspecified"	"I21.9"	14	Not Applicable	Not Applicable
+	"Montana"	"30"	"89 years"	"89"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	31	Not Applicable	Not Applicable
+	"Montana"	"30"	"89 years"	"89"	"Atherosclerotic heart disease"	"I25.1"	31	Not Applicable	Not Applicable
+	"Montana"	"30"	"89 years"	"89"	"Aortic (valve) stenosis"	"I35.0"	11	Not Applicable	Not Applicable
+	"Montana"	"30"	"89 years"	"89"	"Atrial fibrillation and flutter"	"I48"	14	Not Applicable	Not Applicable
+	"Montana"	"30"	"89 years"	"89"	"Congestive heart failure"	"I50.0"	32	Not Applicable	Not Applicable
+	"Montana"	"30"	"89 years"	"89"	"Stroke, not specified as haemorrhage or infarction"	"I64"	18	Not Applicable	Not Applicable
+	"Montana"	"30"	"89 years"	"89"	"Pneumonia, unspecified"	"J18.9"	13	Not Applicable	Not Applicable
+	"Montana"	"30"	"89 years"	"89"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	35	Not Applicable	Not Applicable
+	"Montana"	"30"	"89 years"	"89"	"COVID-19"	"U07.1"	14	Not Applicable	Not Applicable
+	"Montana"	"30"	"90 years"	"90"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	23	Not Applicable	Not Applicable
+	"Montana"	"30"	"90 years"	"90"	"Malignant neoplasm of prostate"	"C61"	14	Not Applicable	Not Applicable
+	"Montana"	"30"	"90 years"	"90"	"Unspecified dementia"	"F03"	61	Not Applicable	Not Applicable
+	"Montana"	"30"	"90 years"	"90"	"Parkinson disease"	"G20"	11	Not Applicable	Not Applicable
+	"Montana"	"30"	"90 years"	"90"	"Alzheimer disease, unspecified"	"G30.9"	34	Not Applicable	Not Applicable
+	"Montana"	"30"	"90 years"	"90"	"Hypertensive heart disease with (congestive) heart failure"	"I11.0"	11	Not Applicable	Not Applicable
+	"Montana"	"30"	"90 years"	"90"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	31	Not Applicable	Not Applicable
+	"Montana"	"30"	"90 years"	"90"	"Atherosclerotic heart disease"	"I25.1"	28	Not Applicable	Not Applicable
+	"Montana"	"30"	"90 years"	"90"	"Aortic (valve) stenosis"	"I35.0"	11	Not Applicable	Not Applicable
+	"Montana"	"30"	"90 years"	"90"	"Congestive heart failure"	"I50.0"	27	Not Applicable	Not Applicable
+	"Montana"	"30"	"90 years"	"90"	"Heart failure, unspecified"	"I50.9"	10	Not Applicable	Not Applicable
+	"Montana"	"30"	"90 years"	"90"	"Stroke, not specified as haemorrhage or infarction"	"I64"	20	Not Applicable	Not Applicable
+	"Montana"	"30"	"90 years"	"90"	"Pneumonia, unspecified"	"J18.9"	15	Not Applicable	Not Applicable
+	"Montana"	"30"	"90 years"	"90"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	29	Not Applicable	Not Applicable
+	"Montana"	"30"	"90 years"	"90"	"COVID-19"	"U07.1"	12	Not Applicable	Not Applicable
+	"Montana"	"30"	"90 years"	"90"	"Other fall on same level"	"W18"	16	Not Applicable	Not Applicable
+	"Montana"	"30"	"91 years"	"91"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	12	Not Applicable	Not Applicable
+	"Montana"	"30"	"91 years"	"91"	"Malignant neoplasm of prostate"	"C61"	15	Not Applicable	Not Applicable
+	"Montana"	"30"	"91 years"	"91"	"Unspecified dementia"	"F03"	61	Not Applicable	Not Applicable
+	"Montana"	"30"	"91 years"	"91"	"Alzheimer disease, unspecified"	"G30.9"	23	Not Applicable	Not Applicable
+	"Montana"	"30"	"91 years"	"91"	"Acute myocardial infarction, unspecified"	"I21.9"	12	Not Applicable	Not Applicable
+	"Montana"	"30"	"91 years"	"91"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	23	Not Applicable	Not Applicable
+	"Montana"	"30"	"91 years"	"91"	"Atherosclerotic heart disease"	"I25.1"	39	Not Applicable	Not Applicable
+	"Montana"	"30"	"91 years"	"91"	"Congestive heart failure"	"I50.0"	25	Not Applicable	Not Applicable
+	"Montana"	"30"	"91 years"	"91"	"Heart failure, unspecified"	"I50.9"	12	Not Applicable	Not Applicable
+	"Montana"	"30"	"91 years"	"91"	"Stroke, not specified as haemorrhage or infarction"	"I64"	22	Not Applicable	Not Applicable
+	"Montana"	"30"	"91 years"	"91"	"Pneumonia, unspecified"	"J18.9"	10	Not Applicable	Not Applicable
+	"Montana"	"30"	"91 years"	"91"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	31	Not Applicable	Not Applicable
+	"Montana"	"30"	"91 years"	"91"	"Pneumonitis due to food and vomit"	"J69.0"	11	Not Applicable	Not Applicable
+	"Montana"	"30"	"91 years"	"91"	"COVID-19"	"U07.1"	18	Not Applicable	Not Applicable
+	"Montana"	"30"	"92 years"	"92"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	10	Not Applicable	Not Applicable
+	"Montana"	"30"	"92 years"	"92"	"Malignant neoplasm of prostate"	"C61"	14	Not Applicable	Not Applicable
+	"Montana"	"30"	"92 years"	"92"	"Unspecified dementia"	"F03"	49	Not Applicable	Not Applicable
+	"Montana"	"30"	"92 years"	"92"	"Parkinson disease"	"G20"	10	Not Applicable	Not Applicable
+	"Montana"	"30"	"92 years"	"92"	"Alzheimer disease, unspecified"	"G30.9"	26	Not Applicable	Not Applicable
+	"Montana"	"30"	"92 years"	"92"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	11	Not Applicable	Not Applicable
+	"Montana"	"30"	"92 years"	"92"	"Atherosclerotic heart disease"	"I25.1"	36	Not Applicable	Not Applicable
+	"Montana"	"30"	"92 years"	"92"	"Atrial fibrillation and flutter"	"I48"	13	Not Applicable	Not Applicable
+	"Montana"	"30"	"92 years"	"92"	"Congestive heart failure"	"I50.0"	28	Not Applicable	Not Applicable
+	"Montana"	"30"	"92 years"	"92"	"Stroke, not specified as haemorrhage or infarction"	"I64"	11	Not Applicable	Not Applicable
+	"Montana"	"30"	"92 years"	"92"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	12	Not Applicable	Not Applicable
+	"Montana"	"30"	"92 years"	"92"	"COVID-19"	"U07.1"	10	Not Applicable	Not Applicable
+	"Montana"	"30"	"93 years"	"93"	"Malignant neoplasm of prostate"	"C61"	16	Not Applicable	Not Applicable
+	"Montana"	"30"	"93 years"	"93"	"Unspecified dementia"	"F03"	49	Not Applicable	Not Applicable
+	"Montana"	"30"	"93 years"	"93"	"Alzheimer disease, unspecified"	"G30.9"	25	Not Applicable	Not Applicable
+	"Montana"	"30"	"93 years"	"93"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	12	Not Applicable	Not Applicable
+	"Montana"	"30"	"93 years"	"93"	"Atherosclerotic heart disease"	"I25.1"	33	Not Applicable	Not Applicable
+	"Montana"	"30"	"93 years"	"93"	"Congestive heart failure"	"I50.0"	24	Not Applicable	Not Applicable
+	"Montana"	"30"	"93 years"	"93"	"Stroke, not specified as haemorrhage or infarction"	"I64"	11	Not Applicable	Not Applicable
+	"Montana"	"30"	"93 years"	"93"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	21	Not Applicable	Not Applicable
+	"Montana"	"30"	"93 years"	"93"	"COVID-19"	"U07.1"	11	Not Applicable	Not Applicable
+	"Montana"	"30"	"94 years"	"94"	"Malignant neoplasm of prostate"	"C61"	13	Not Applicable	Not Applicable
+	"Montana"	"30"	"94 years"	"94"	"Unspecified dementia"	"F03"	30	Not Applicable	Not Applicable
+	"Montana"	"30"	"94 years"	"94"	"Alzheimer disease, unspecified"	"G30.9"	21	Not Applicable	Not Applicable
+	"Montana"	"30"	"94 years"	"94"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	10	Not Applicable	Not Applicable
+	"Montana"	"30"	"94 years"	"94"	"Atherosclerotic heart disease"	"I25.1"	18	Not Applicable	Not Applicable
+	"Montana"	"30"	"94 years"	"94"	"Congestive heart failure"	"I50.0"	18	Not Applicable	Not Applicable
+	"Montana"	"30"	"95 years"	"95"	"Malignant neoplasm of prostate"	"C61"	17	Not Applicable	Not Applicable
+	"Montana"	"30"	"95 years"	"95"	"Unspecified dementia"	"F03"	31	Not Applicable	Not Applicable
+	"Montana"	"30"	"95 years"	"95"	"Alzheimer disease, unspecified"	"G30.9"	14	Not Applicable	Not Applicable
+	"Montana"	"30"	"95 years"	"95"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	14	Not Applicable	Not Applicable
+	"Montana"	"30"	"95 years"	"95"	"Atherosclerotic heart disease"	"I25.1"	21	Not Applicable	Not Applicable
+	"Montana"	"30"	"95 years"	"95"	"Congestive heart failure"	"I50.0"	17	Not Applicable	Not Applicable
+	"Montana"	"30"	"95 years"	"95"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	13	Not Applicable	Not Applicable
+	"Montana"	"30"	"96 years"	"96"	"Unspecified dementia"	"F03"	19	Not Applicable	Not Applicable
+	"Montana"	"30"	"96 years"	"96"	"Alzheimer disease, unspecified"	"G30.9"	11	Not Applicable	Not Applicable
+	"Montana"	"30"	"96 years"	"96"	"Atherosclerotic heart disease"	"I25.1"	19	Not Applicable	Not Applicable
+	"Montana"	"30"	"96 years"	"96"	"Congestive heart failure"	"I50.0"	13	Not Applicable	Not Applicable
+	"Montana"	"30"	"96 years"	"96"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	10	Not Applicable	Not Applicable
+	"Montana"	"30"	"97 years"	"97"	"Unspecified dementia"	"F03"	12	Not Applicable	Not Applicable
+	"Montana"	"30"	"97 years"	"97"	"Congestive heart failure"	"I50.0"	13	Not Applicable	Not Applicable
+	"Montana"	"30"	"98 years"	"98"	"Unspecified dementia"	"F03"	15	Not Applicable	Not Applicable
+	"Montana"	"30"	"98 years"	"98"	"Atherosclerotic heart disease"	"I25.1"	13	Not Applicable	Not Applicable
+	"Montana"	"30"	"98 years"	"98"	"Congestive heart failure"	"I50.0"	10	Not Applicable	Not Applicable
+	"Montana"	"30"	"99 years"	"99"	"Unspecified dementia"	"F03"	11	Not Applicable	Not Applicable
+	"Montana"	"30"	"100+ years"	"100"	"Unspecified dementia"	"F03"	13	Not Applicable	Not Applicable
+	"Montana"	"30"	"100+ years"	"100"	"Atherosclerotic heart disease"	"I25.1"	14	Not Applicable	Not Applicable
+	"Montana"	"30"	"100+ years"	"100"	"Congestive heart failure"	"I50.0"	10	Not Applicable	Not Applicable
+"---"
+"Dataset: Underlying Cause of Death, 1999-2020"
+"Query Parameters:"
+"Title: Montana CoD M"
+"Gender: Male"
+"States: Montana (30)"
+"Year/Month: 2016; 2017; 2018; 2019; 2020"
+"Group By: State; Single-Year Ages; Cause of death"
+"Show Totals: Disabled"
+"Show Zero Values: Disabled"
+"Show Suppressed: False"
+"Calculate Rates Per: 100,000"
+"Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/ucd.html for more information."
+"---"
+"Query Date: Apr 10, 2022 9:13:45 PM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. Underlying Cause of Death"
+"1999-2020 on CDC WONDER Online Database, released in 2021. Data are from the Multiple Cause of Death Files, 1999-2020, as"
+"compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative Program. Accessed"
+"at http://wonder.cdc.gov/ucd-icd10.html on Apr 10, 2022 9:13:45 PM"
+"---"
+Messages:
+"1. The full results are too long to be displayed. Due to suppression constraints rows that are zero, suppressed or a total will"
+"not be available."
+"---"
+Caveats:
+"1. Population and rates are labeled 'Not Applicable' when they include a subset of ages 85-100+ because populations are not"
+"available for those ages. More information: http://wonder.cdc.gov/wonder/help/ucd.html#Ages 85-100."
+"2. Death rates are flagged as Unreliable when the rate is calculated with a numerator of 20 or less. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Unreliable."
+"3. Deaths of persons with Age ""Not Stated"" are included in ""All"" counts and rates, but are not distributed among age groups,"
+"so are not included in age-specific counts, age-specific rates or in any age-adjusted rates. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Not Stated."
+"4. The population figures for year 2020 are bridged-race estimates of the July 1 resident population, from the Vintage 2020"
+"postcensal series released by NCHS on September 22, 2021. The population figures for year 2019 are bridged-race estimates of the"
+"July 1 resident population, from the Vintage 2019 postcensal series released by NCHS on July 9, 2020. The population figures for"
+"year 2018 are bridged-race estimates of the July 1 resident population, from the Vintage 2018 postcensal series released by NCHS"
+"on June 25, 2019. The population figures for year 2017 are bridged-race estimates of the July 1 resident population, from the"
+"Vintage 2017 postcensal series released by NCHS on June 27, 2018. The population figures for year 2016 are bridged-race"
+"estimates of the July 1 resident population, from the Vintage 2016 postcensal series released by NCHS on June 26, 2017. The"
+"population figures for year 2015 are bridged-race estimates of the July 1 resident population, from the Vintage 2015 postcensal"
+"series released by NCHS on June 28, 2016. The population figures for year 2014 are bridged-race estimates of the July 1 resident"
+"population, from the Vintage 2014 postcensal series released by NCHS on June 30, 2015. The population figures for year 2013 are"
+"bridged-race estimates of the July 1 resident population, from the Vintage 2013 postcensal series released by NCHS on June 26,"
+"2014. The population figures for year 2012 are bridged-race estimates of the July 1 resident population, from the Vintage 2012"
+"postcensal series released by NCHS on June 13, 2013. The population figures for year 2011 are bridged-race estimates of the July"
+"1 resident population, from the Vintage 2011 postcensal series released by NCHS on July 18, 2012. Population figures for 2010"
+"are April 1 Census counts. The population figures for years 2001 - 2009 are bridged-race estimates of the July 1 resident"
+"population, from the revised intercensal county-level 2000 - 2009 series released by NCHS on October 26, 2012. Population"
+"figures for 2000 are April 1 Census counts. Population figures for 1999 are from the 1990-1999 intercensal series of July 1"
+"estimates. Population figures for the infant age groups are the number of live births. <br/><b>Note:</b> Rates and population"
+"figures for years 2001 - 2009 differ slightly from previously published reports, due to use of the population estimates which"
+"were available at the time of release."
+"5. The population figures used in the calculation of death rates for the age group 'under 1 year' are the estimates of the"
+"resident population that is under one year of age. More information: http://wonder.cdc.gov/wonder/help/ucd.html#Age Group."
+"6. Beginning with the 2018 data, changes have been implemented that affect the counts for ICD-10 cause of death codes O00-O99"
+"compared to previous practice. In addition, data for the cause of death codes O00-O99 for 2003 through 2017 reflect differences"
+"in information available to individual states and probable errors. Caution should be used in interpreting these data. More"
+"information can be found at: https://www.cdc.gov/nchs/maternal-mortality/."
+"7. On March 11, 2021, the 2019 mortality data on CDC WONDER was updated with the 2019 mortality data updated by NCHS on March 4,"
+"2021 to include corrected information for residents of Texas affecting 5 records previously coded to cause code *U01.4,"
+"Terrorism involving firearms (homicide). The underlying and multiple cause of death codes for 5 records were corrected in the"
+"2019 data. Underlying and multiple cause of death codes for those 5 records were recoded to Assault (homicide) by other and"
+"unspecified firearm discharge, ICD-10 code X95. The corrected final death records replaces the data released on December 22,"
+"2020."
+"8. Changes to cause of death classification affect reporting trends. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#ICD-10 Changes."

@@ -1,0 +1,159 @@
+"Notes"	"State"	"State Code"	"Single-Year Ages"	"Single-Year Ages Code"	Deaths	Population	Crude Rate
+	"Iowa"	"19"	"< 1 year"	"0"	415	93435	444.2
+	"Iowa"	"19"	"1 year"	"1"	26	95073	27.3
+	"Iowa"	"19"	"2 years"	"2"	27	97037	27.8
+	"Iowa"	"19"	"4 years"	"4"	13	98099	Unreliable
+	"Iowa"	"19"	"5 years"	"5"	11	97306	Unreliable
+	"Iowa"	"19"	"6 years"	"6"	10	97922	Unreliable
+	"Iowa"	"19"	"8 years"	"8"	10	98768	Unreliable
+	"Iowa"	"19"	"11 years"	"11"	10	101581	Unreliable
+	"Iowa"	"19"	"12 years"	"12"	14	101796	Unreliable
+	"Iowa"	"19"	"13 years"	"13"	18	101098	Unreliable
+	"Iowa"	"19"	"14 years"	"14"	19	100259	Unreliable
+	"Iowa"	"19"	"15 years"	"15"	21	99977	21.0
+	"Iowa"	"19"	"16 years"	"16"	26	100436	25.9
+	"Iowa"	"19"	"17 years"	"17"	31	100682	30.8
+	"Iowa"	"19"	"18 years"	"18"	34	103807	32.8
+	"Iowa"	"19"	"19 years"	"19"	37	116708	31.7
+	"Iowa"	"19"	"20 years"	"20"	26	116249	22.4
+	"Iowa"	"19"	"21 years"	"21"	36	116033	31.0
+	"Iowa"	"19"	"22 years"	"22"	44	111995	39.3
+	"Iowa"	"19"	"23 years"	"23"	48	104069	46.1
+	"Iowa"	"19"	"24 years"	"24"	52	101586	51.2
+	"Iowa"	"19"	"25 years"	"25"	40	100282	39.9
+	"Iowa"	"19"	"26 years"	"26"	54	99617	54.2
+	"Iowa"	"19"	"27 years"	"27"	61	97877	62.3
+	"Iowa"	"19"	"28 years"	"28"	58	96582	60.1
+	"Iowa"	"19"	"29 years"	"29"	72	94592	76.1
+	"Iowa"	"19"	"30 years"	"30"	60	93717	64.0
+	"Iowa"	"19"	"31 years"	"31"	65	93976	69.2
+	"Iowa"	"19"	"32 years"	"32"	68	94512	71.9
+	"Iowa"	"19"	"33 years"	"33"	87	96387	90.3
+	"Iowa"	"19"	"34 years"	"34"	77	97685	78.8
+	"Iowa"	"19"	"35 years"	"35"	72	98795	72.9
+	"Iowa"	"19"	"36 years"	"36"	115	99530	115.5
+	"Iowa"	"19"	"37 years"	"37"	97	98993	98.0
+	"Iowa"	"19"	"38 years"	"38"	104	97672	106.5
+	"Iowa"	"19"	"39 years"	"39"	105	95584	109.9
+	"Iowa"	"19"	"40 years"	"40"	119	92964	128.0
+	"Iowa"	"19"	"41 years"	"41"	151	89766	168.2
+	"Iowa"	"19"	"42 years"	"42"	123	87420	140.7
+	"Iowa"	"19"	"43 years"	"43"	136	85785	158.5
+	"Iowa"	"19"	"44 years"	"44"	158	85390	185.0
+	"Iowa"	"19"	"45 years"	"45"	157	87205	180.0
+	"Iowa"	"19"	"46 years"	"46"	186	88517	210.1
+	"Iowa"	"19"	"47 years"	"47"	195	90322	215.9
+	"Iowa"	"19"	"48 years"	"48"	225	91334	246.3
+	"Iowa"	"19"	"49 years"	"49"	245	91652	267.3
+	"Iowa"	"19"	"50 years"	"50"	285	91211	312.5
+	"Iowa"	"19"	"51 years"	"51"	299	92051	324.8
+	"Iowa"	"19"	"52 years"	"52"	368	94105	391.1
+	"Iowa"	"19"	"53 years"	"53"	366	97622	374.9
+	"Iowa"	"19"	"54 years"	"54"	412	101117	407.4
+	"Iowa"	"19"	"55 years"	"55"	425	104847	405.4
+	"Iowa"	"19"	"56 years"	"56"	538	107246	501.7
+	"Iowa"	"19"	"57 years"	"57"	596	108289	550.4
+	"Iowa"	"19"	"58 years"	"58"	620	108682	570.5
+	"Iowa"	"19"	"59 years"	"59"	668	108336	616.6
+	"Iowa"	"19"	"60 years"	"60"	750	106811	702.2
+	"Iowa"	"19"	"61 years"	"61"	753	104970	717.3
+	"Iowa"	"19"	"62 years"	"62"	741	103097	718.7
+	"Iowa"	"19"	"63 years"	"63"	819	100586	814.2
+	"Iowa"	"19"	"64 years"	"64"	877	97930	895.5
+	"Iowa"	"19"	"65 years"	"65"	979	95223	1028.1
+	"Iowa"	"19"	"66 years"	"66"	968	91456	1058.4
+	"Iowa"	"19"	"67 years"	"67"	988	88234	1119.7
+	"Iowa"	"19"	"68 years"	"68"	1104	85357	1293.4
+	"Iowa"	"19"	"69 years"	"69"	1185	83288	1422.8
+	"Iowa"	"19"	"70 years"	"70"	1174	77114	1522.4
+	"Iowa"	"19"	"71 years"	"71"	1224	71937	1701.5
+	"Iowa"	"19"	"72 years"	"72"	1330	67482	1970.9
+	"Iowa"	"19"	"73 years"	"73"	1296	63526	2040.1
+	"Iowa"	"19"	"74 years"	"74"	1356	57639	2352.6
+	"Iowa"	"19"	"75 years"	"75"	1352	55574	2432.8
+	"Iowa"	"19"	"76 years"	"76"	1499	53267	2814.1
+	"Iowa"	"19"	"77 years"	"77"	1552	50837	3052.9
+	"Iowa"	"19"	"78 years"	"78"	1672	47573	3514.6
+	"Iowa"	"19"	"79 years"	"79"	1667	45344	3676.3
+	"Iowa"	"19"	"80 years"	"80"	1788	43515	4108.9
+	"Iowa"	"19"	"81 years"	"81"	2029	41434	4896.9
+	"Iowa"	"19"	"82 years"	"82"	2086	38764	5381.3
+	"Iowa"	"19"	"83 years"	"83"	2167	36686	5906.9
+	"Iowa"	"19"	"84 years"	"84"	2334	35053	6658.5
+	"Iowa"	"19"	"85 years"	"85"	2412	Not Applicable	Not Applicable
+	"Iowa"	"19"	"86 years"	"86"	2524	Not Applicable	Not Applicable
+	"Iowa"	"19"	"87 years"	"87"	2709	Not Applicable	Not Applicable
+	"Iowa"	"19"	"88 years"	"88"	2768	Not Applicable	Not Applicable
+	"Iowa"	"19"	"89 years"	"89"	2879	Not Applicable	Not Applicable
+	"Iowa"	"19"	"90 years"	"90"	2912	Not Applicable	Not Applicable
+	"Iowa"	"19"	"91 years"	"91"	2843	Not Applicable	Not Applicable
+	"Iowa"	"19"	"92 years"	"92"	2748	Not Applicable	Not Applicable
+	"Iowa"	"19"	"93 years"	"93"	2500	Not Applicable	Not Applicable
+	"Iowa"	"19"	"94 years"	"94"	2353	Not Applicable	Not Applicable
+	"Iowa"	"19"	"95 years"	"95"	2111	Not Applicable	Not Applicable
+	"Iowa"	"19"	"96 years"	"96"	1850	Not Applicable	Not Applicable
+	"Iowa"	"19"	"97 years"	"97"	1503	Not Applicable	Not Applicable
+	"Iowa"	"19"	"98 years"	"98"	1131	Not Applicable	Not Applicable
+	"Iowa"	"19"	"99 years"	"99"	926	Not Applicable	Not Applicable
+	"Iowa"	"19"	"100+ years"	"100"	1960	Not Applicable	Not Applicable
+"Total"	"Iowa"	"19"			78181	7913751	987.9
+"Total"					78181	7913751	987.9
+"---"
+"Dataset: Underlying Cause of Death, 1999-2020"
+"Query Parameters:"
+"Title: Iowa General F"
+"Gender: Female"
+"States: Iowa (19)"
+"Year/Month: 2016; 2017; 2018; 2019; 2020"
+"Group By: State; Single-Year Ages"
+"Show Totals: True"
+"Show Zero Values: False"
+"Show Suppressed: False"
+"Calculate Rates Per: 100,000"
+"Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/ucd.html for more information."
+"---"
+"Query Date: Apr 8, 2022 2:24:07 AM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. Underlying Cause of Death"
+"1999-2020 on CDC WONDER Online Database, released in 2021. Data are from the Multiple Cause of Death Files, 1999-2020, as"
+"compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative Program. Accessed"
+"at http://wonder.cdc.gov/ucd-icd10.html on Apr 8, 2022 2:24:07 AM"
+"---"
+Messages:
+"1. Rows with suppressed Deaths are hidden, but the Deaths and Population values in those rows are included in the totals. Use"
+"Quick Options above to show suppressed rows."
+"---"
+Caveats:
+"1. Population and rates are labeled 'Not Applicable' when they include a subset of ages 85-100+ because populations are not"
+"available for those ages. More information: http://wonder.cdc.gov/wonder/help/ucd.html#Ages 85-100."
+"2. Data are Suppressed when the data meet the criteria for confidentiality constraints. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Assurance of Confidentiality."
+"3. Death rates are flagged as Unreliable when the rate is calculated with a numerator of 20 or less. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Unreliable."
+"4. Deaths of persons with Age ""Not Stated"" are included in ""All"" counts and rates, but are not distributed among age groups,"
+"so are not included in age-specific counts, age-specific rates or in any age-adjusted rates. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Not Stated."
+"5. The population figures for year 2020 are bridged-race estimates of the July 1 resident population, from the Vintage 2020"
+"postcensal series released by NCHS on September 22, 2021. The population figures for year 2019 are bridged-race estimates of the"
+"July 1 resident population, from the Vintage 2019 postcensal series released by NCHS on July 9, 2020. The population figures for"
+"year 2018 are bridged-race estimates of the July 1 resident population, from the Vintage 2018 postcensal series released by NCHS"
+"on June 25, 2019. The population figures for year 2017 are bridged-race estimates of the July 1 resident population, from the"
+"Vintage 2017 postcensal series released by NCHS on June 27, 2018. The population figures for year 2016 are bridged-race"
+"estimates of the July 1 resident population, from the Vintage 2016 postcensal series released by NCHS on June 26, 2017. The"
+"population figures for year 2015 are bridged-race estimates of the July 1 resident population, from the Vintage 2015 postcensal"
+"series released by NCHS on June 28, 2016. The population figures for year 2014 are bridged-race estimates of the July 1 resident"
+"population, from the Vintage 2014 postcensal series released by NCHS on June 30, 2015. The population figures for year 2013 are"
+"bridged-race estimates of the July 1 resident population, from the Vintage 2013 postcensal series released by NCHS on June 26,"
+"2014. The population figures for year 2012 are bridged-race estimates of the July 1 resident population, from the Vintage 2012"
+"postcensal series released by NCHS on June 13, 2013. The population figures for year 2011 are bridged-race estimates of the July"
+"1 resident population, from the Vintage 2011 postcensal series released by NCHS on July 18, 2012. Population figures for 2010"
+"are April 1 Census counts. The population figures for years 2001 - 2009 are bridged-race estimates of the July 1 resident"
+"population, from the revised intercensal county-level 2000 - 2009 series released by NCHS on October 26, 2012. Population"
+"figures for 2000 are April 1 Census counts. Population figures for 1999 are from the 1990-1999 intercensal series of July 1"
+"estimates. Population figures for the infant age groups are the number of live births. <br/><b>Note:</b> Rates and population"
+"figures for years 2001 - 2009 differ slightly from previously published reports, due to use of the population estimates which"
+"were available at the time of release."
+"6. The population figures used in the calculation of death rates for the age group 'under 1 year' are the estimates of the"
+"resident population that is under one year of age. More information: http://wonder.cdc.gov/wonder/help/ucd.html#Age Group."

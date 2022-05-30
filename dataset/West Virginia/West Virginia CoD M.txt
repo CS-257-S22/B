@@ -1,0 +1,1384 @@
+"Notes"	"State"	"State Code"	"Single-Year Ages"	"Single-Year Ages Code"	"Cause of death"	"Cause of death Code"	Deaths	Population	Crude Rate
+	"West Virginia"	"54"	"< 1 year"	"0"	"Newborn affected by premature rupture of membranes"	"P01.1"	10	46965	Unreliable
+	"West Virginia"	"54"	"< 1 year"	"0"	"Extreme immaturity"	"P07.2"	37	46965	78.8
+	"West Virginia"	"54"	"< 1 year"	"0"	"Sudden infant death syndrome - SIDS"	"R95"	25	46965	53.2
+	"West Virginia"	"54"	"< 1 year"	"0"	"Other ill-defined and unspecified causes of mortality"	"R99"	51	46965	108.6
+	"West Virginia"	"54"	"< 1 year"	"0"	"Accidental suffocation and strangulation in bed"	"W75"	14	46965	Unreliable
+	"West Virginia"	"54"	"18 years"	"18"	"Person injured in unspecified motor-vehicle accident, traffic"	"V89.2"	11	56124	Unreliable
+	"West Virginia"	"54"	"20 years"	"20"	"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X42"	10	57967	Unreliable
+	"West Virginia"	"54"	"20 years"	"20"	"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X44"	10	57967	Unreliable
+	"West Virginia"	"54"	"20 years"	"20"	"Assault by other and unspecified firearm discharge"	"X95"	10	57967	Unreliable
+	"West Virginia"	"54"	"22 years"	"22"	"Person injured in unspecified motor-vehicle accident, traffic"	"V89.2"	14	59942	Unreliable
+	"West Virginia"	"54"	"22 years"	"22"	"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X42"	12	59942	Unreliable
+	"West Virginia"	"54"	"22 years"	"22"	"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X44"	18	59942	Unreliable
+	"West Virginia"	"54"	"22 years"	"22"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	12	59942	Unreliable
+	"West Virginia"	"54"	"23 years"	"23"	"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X42"	17	58414	Unreliable
+	"West Virginia"	"54"	"23 years"	"23"	"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X44"	15	58414	Unreliable
+	"West Virginia"	"54"	"24 years"	"24"	"Person injured in unspecified motor-vehicle accident, traffic"	"V89.2"	11	58136	Unreliable
+	"West Virginia"	"54"	"24 years"	"24"	"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X42"	28	58136	48.2
+	"West Virginia"	"54"	"24 years"	"24"	"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X44"	17	58136	Unreliable
+	"West Virginia"	"54"	"25 years"	"25"	"Person injured in unspecified motor-vehicle accident, traffic"	"V89.2"	10	58609	Unreliable
+	"West Virginia"	"54"	"25 years"	"25"	"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X42"	27	58609	46.1
+	"West Virginia"	"54"	"25 years"	"25"	"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X44"	17	58609	Unreliable
+	"West Virginia"	"54"	"26 years"	"26"	"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X42"	28	58383	48.0
+	"West Virginia"	"54"	"26 years"	"26"	"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X44"	16	58383	Unreliable
+	"West Virginia"	"54"	"26 years"	"26"	"Assault by other and unspecified firearm discharge"	"X95"	12	58383	Unreliable
+	"West Virginia"	"54"	"27 years"	"27"	"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X42"	41	58794	69.7
+	"West Virginia"	"54"	"27 years"	"27"	"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X44"	37	58794	62.9
+	"West Virginia"	"54"	"27 years"	"27"	"Intentional self-harm by hanging, strangulation and suffocation"	"X70"	16	58794	Unreliable
+	"West Virginia"	"54"	"28 years"	"28"	"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X42"	31	57393	54.0
+	"West Virginia"	"54"	"28 years"	"28"	"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X44"	27	57393	47.0
+	"West Virginia"	"54"	"29 years"	"29"	"Person injured in unspecified motor-vehicle accident, traffic"	"V89.2"	13	56321	Unreliable
+	"West Virginia"	"54"	"29 years"	"29"	"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X42"	34	56321	60.4
+	"West Virginia"	"54"	"29 years"	"29"	"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X44"	27	56321	47.9
+	"West Virginia"	"54"	"30 years"	"30"	"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X42"	38	54317	70.0
+	"West Virginia"	"54"	"30 years"	"30"	"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X44"	47	54317	86.5
+	"West Virginia"	"54"	"30 years"	"30"	"Intentional self-harm by hanging, strangulation and suffocation"	"X70"	16	54317	Unreliable
+	"West Virginia"	"54"	"30 years"	"30"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	10	54317	Unreliable
+	"West Virginia"	"54"	"31 years"	"31"	"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X42"	42	52938	79.3
+	"West Virginia"	"54"	"31 years"	"31"	"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X44"	51	52938	96.3
+	"West Virginia"	"54"	"31 years"	"31"	"Intentional self-harm by hanging, strangulation and suffocation"	"X70"	12	52938	Unreliable
+	"West Virginia"	"54"	"32 years"	"32"	"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X42"	41	52465	78.1
+	"West Virginia"	"54"	"32 years"	"32"	"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X44"	51	52465	97.2
+	"West Virginia"	"54"	"33 years"	"33"	"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X42"	44	52081	84.5
+	"West Virginia"	"54"	"33 years"	"33"	"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X44"	46	52081	88.3
+	"West Virginia"	"54"	"33 years"	"33"	"Intentional self-harm by hanging, strangulation and suffocation"	"X70"	11	52081	Unreliable
+	"West Virginia"	"54"	"33 years"	"33"	"Assault by other and unspecified firearm discharge"	"X95"	10	52081	Unreliable
+	"West Virginia"	"54"	"34 years"	"34"	"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X42"	28	52991	52.8
+	"West Virginia"	"54"	"34 years"	"34"	"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X44"	57	52991	107.6
+	"West Virginia"	"54"	"34 years"	"34"	"Intentional self-harm by hanging, strangulation and suffocation"	"X70"	12	52991	Unreliable
+	"West Virginia"	"54"	"34 years"	"34"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	12	52991	Unreliable
+	"West Virginia"	"54"	"35 years"	"35"	"Accidental poisoning by and exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic drugs, not elsewhere classified"	"X41"	10	52846	Unreliable
+	"West Virginia"	"54"	"35 years"	"35"	"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X42"	35	52846	66.2
+	"West Virginia"	"54"	"35 years"	"35"	"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X44"	64	52846	121.1
+	"West Virginia"	"54"	"35 years"	"35"	"Intentional self-harm by hanging, strangulation and suffocation"	"X70"	18	52846	Unreliable
+	"West Virginia"	"54"	"36 years"	"36"	"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X42"	33	54297	60.8
+	"West Virginia"	"54"	"36 years"	"36"	"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X44"	32	54297	58.9
+	"West Virginia"	"54"	"36 years"	"36"	"Intentional self-harm by hanging, strangulation and suffocation"	"X70"	10	54297	Unreliable
+	"West Virginia"	"54"	"37 years"	"37"	"Accidental poisoning by and exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic drugs, not elsewhere classified"	"X41"	14	54957	Unreliable
+	"West Virginia"	"54"	"37 years"	"37"	"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X42"	26	54957	47.3
+	"West Virginia"	"54"	"37 years"	"37"	"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X44"	60	54957	109.2
+	"West Virginia"	"54"	"37 years"	"37"	"Intentional self-harm by hanging, strangulation and suffocation"	"X70"	11	54957	Unreliable
+	"West Virginia"	"54"	"38 years"	"38"	"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X42"	45	55282	81.4
+	"West Virginia"	"54"	"38 years"	"38"	"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X44"	37	55282	66.9
+	"West Virginia"	"54"	"38 years"	"38"	"Intentional self-harm by hanging, strangulation and suffocation"	"X70"	15	55282	Unreliable
+	"West Virginia"	"54"	"38 years"	"38"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	13	55282	Unreliable
+	"West Virginia"	"54"	"39 years"	"39"	"Accidental poisoning by and exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic drugs, not elsewhere classified"	"X41"	11	55045	Unreliable
+	"West Virginia"	"54"	"39 years"	"39"	"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X42"	32	55045	58.1
+	"West Virginia"	"54"	"39 years"	"39"	"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X44"	58	55045	105.4
+	"West Virginia"	"54"	"39 years"	"39"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	12	55045	Unreliable
+	"West Virginia"	"54"	"40 years"	"40"	"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X42"	27	54765	49.3
+	"West Virginia"	"54"	"40 years"	"40"	"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X44"	54	54765	98.6
+	"West Virginia"	"54"	"41 years"	"41"	"Accidental poisoning by and exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic drugs, not elsewhere classified"	"X41"	12	54575	Unreliable
+	"West Virginia"	"54"	"41 years"	"41"	"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X42"	39	54575	71.5
+	"West Virginia"	"54"	"41 years"	"41"	"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X44"	59	54575	108.1
+	"West Virginia"	"54"	"42 years"	"42"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	12	54128	Unreliable
+	"West Virginia"	"54"	"42 years"	"42"	"Atherosclerotic heart disease"	"I25.1"	11	54128	Unreliable
+	"West Virginia"	"54"	"42 years"	"42"	"Accidental poisoning by and exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic drugs, not elsewhere classified"	"X41"	15	54128	Unreliable
+	"West Virginia"	"54"	"42 years"	"42"	"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X42"	39	54128	72.1
+	"West Virginia"	"54"	"42 years"	"42"	"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X44"	60	54128	110.8
+	"West Virginia"	"54"	"43 years"	"43"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	10	54003	Unreliable
+	"West Virginia"	"54"	"43 years"	"43"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	14	54003	Unreliable
+	"West Virginia"	"54"	"43 years"	"43"	"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X42"	32	54003	59.3
+	"West Virginia"	"54"	"43 years"	"43"	"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X44"	43	54003	79.6
+	"West Virginia"	"54"	"44 years"	"44"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	10	55297	Unreliable
+	"West Virginia"	"54"	"44 years"	"44"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	13	55297	Unreliable
+	"West Virginia"	"54"	"44 years"	"44"	"Accidental poisoning by and exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic drugs, not elsewhere classified"	"X41"	14	55297	Unreliable
+	"West Virginia"	"54"	"44 years"	"44"	"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X42"	31	55297	56.1
+	"West Virginia"	"54"	"44 years"	"44"	"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X44"	34	55297	61.5
+	"West Virginia"	"54"	"44 years"	"44"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	12	55297	Unreliable
+	"West Virginia"	"54"	"45 years"	"45"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	10	56767	Unreliable
+	"West Virginia"	"54"	"45 years"	"45"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	13	56767	Unreliable
+	"West Virginia"	"54"	"45 years"	"45"	"Accidental poisoning by and exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic drugs, not elsewhere classified"	"X41"	13	56767	Unreliable
+	"West Virginia"	"54"	"45 years"	"45"	"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X42"	35	56767	61.7
+	"West Virginia"	"54"	"45 years"	"45"	"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X44"	48	56767	84.6
+	"West Virginia"	"54"	"45 years"	"45"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	10	56767	Unreliable
+	"West Virginia"	"54"	"46 years"	"46"	"Acute myocardial infarction, unspecified"	"I21.9"	11	57938	Unreliable
+	"West Virginia"	"54"	"46 years"	"46"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	11	57938	Unreliable
+	"West Virginia"	"54"	"46 years"	"46"	"Atherosclerotic heart disease"	"I25.1"	10	57938	Unreliable
+	"West Virginia"	"54"	"46 years"	"46"	"Alcoholic cirrhosis of liver"	"K70.3"	12	57938	Unreliable
+	"West Virginia"	"54"	"46 years"	"46"	"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X42"	22	57938	38.0
+	"West Virginia"	"54"	"46 years"	"46"	"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X44"	30	57938	51.8
+	"West Virginia"	"54"	"46 years"	"46"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	10	57938	Unreliable
+	"West Virginia"	"54"	"47 years"	"47"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	12	58542	Unreliable
+	"West Virginia"	"54"	"47 years"	"47"	"Acute myocardial infarction, unspecified"	"I21.9"	12	58542	Unreliable
+	"West Virginia"	"54"	"47 years"	"47"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	15	58542	Unreliable
+	"West Virginia"	"54"	"47 years"	"47"	"Atherosclerotic heart disease"	"I25.1"	16	58542	Unreliable
+	"West Virginia"	"54"	"47 years"	"47"	"Accidental poisoning by and exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic drugs, not elsewhere classified"	"X41"	12	58542	Unreliable
+	"West Virginia"	"54"	"47 years"	"47"	"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X42"	26	58542	44.4
+	"West Virginia"	"54"	"47 years"	"47"	"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X44"	39	58542	66.6
+	"West Virginia"	"54"	"48 years"	"48"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	11	58911	Unreliable
+	"West Virginia"	"54"	"48 years"	"48"	"Acute myocardial infarction, unspecified"	"I21.9"	14	58911	Unreliable
+	"West Virginia"	"54"	"48 years"	"48"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	13	58911	Unreliable
+	"West Virginia"	"54"	"48 years"	"48"	"Atherosclerotic heart disease"	"I25.1"	16	58911	Unreliable
+	"West Virginia"	"54"	"48 years"	"48"	"Other ill-defined and unspecified causes of mortality"	"R99"	13	58911	Unreliable
+	"West Virginia"	"54"	"48 years"	"48"	"Accidental poisoning by and exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic drugs, not elsewhere classified"	"X41"	13	58911	Unreliable
+	"West Virginia"	"54"	"48 years"	"48"	"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X42"	31	58911	52.6
+	"West Virginia"	"54"	"48 years"	"48"	"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X44"	37	58911	62.8
+	"West Virginia"	"54"	"49 years"	"49"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	18	58414	Unreliable
+	"West Virginia"	"54"	"49 years"	"49"	"Unspecified diabetes mellitus, without complications"	"E14.9"	11	58414	Unreliable
+	"West Virginia"	"54"	"49 years"	"49"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	12	58414	Unreliable
+	"West Virginia"	"54"	"49 years"	"49"	"Acute myocardial infarction, unspecified"	"I21.9"	14	58414	Unreliable
+	"West Virginia"	"54"	"49 years"	"49"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	18	58414	Unreliable
+	"West Virginia"	"54"	"49 years"	"49"	"Atherosclerotic heart disease"	"I25.1"	12	58414	Unreliable
+	"West Virginia"	"54"	"49 years"	"49"	"Alcoholic cirrhosis of liver"	"K70.3"	11	58414	Unreliable
+	"West Virginia"	"54"	"49 years"	"49"	"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X42"	22	58414	37.7
+	"West Virginia"	"54"	"49 years"	"49"	"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X44"	46	58414	78.7
+	"West Virginia"	"54"	"50 years"	"50"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	12	57748	Unreliable
+	"West Virginia"	"54"	"50 years"	"50"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	12	57748	Unreliable
+	"West Virginia"	"54"	"50 years"	"50"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	10	57748	Unreliable
+	"West Virginia"	"54"	"50 years"	"50"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	12	57748	Unreliable
+	"West Virginia"	"54"	"50 years"	"50"	"Acute myocardial infarction, unspecified"	"I21.9"	18	57748	Unreliable
+	"West Virginia"	"54"	"50 years"	"50"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	27	57748	46.8
+	"West Virginia"	"54"	"50 years"	"50"	"Atherosclerotic heart disease"	"I25.1"	17	57748	Unreliable
+	"West Virginia"	"54"	"50 years"	"50"	"Alcoholic cirrhosis of liver"	"K70.3"	14	57748	Unreliable
+	"West Virginia"	"54"	"50 years"	"50"	"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X42"	27	57748	46.8
+	"West Virginia"	"54"	"50 years"	"50"	"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X44"	59	57748	102.2
+	"West Virginia"	"54"	"51 years"	"51"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	13	58277	Unreliable
+	"West Virginia"	"54"	"51 years"	"51"	"Unspecified diabetes mellitus, without complications"	"E14.9"	15	58277	Unreliable
+	"West Virginia"	"54"	"51 years"	"51"	"Essential (primary) hypertension"	"I10"	10	58277	Unreliable
+	"West Virginia"	"54"	"51 years"	"51"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	12	58277	Unreliable
+	"West Virginia"	"54"	"51 years"	"51"	"Acute myocardial infarction, unspecified"	"I21.9"	23	58277	39.5
+	"West Virginia"	"54"	"51 years"	"51"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	30	58277	51.5
+	"West Virginia"	"54"	"51 years"	"51"	"Atherosclerotic heart disease"	"I25.1"	22	58277	37.8
+	"West Virginia"	"54"	"51 years"	"51"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	10	58277	Unreliable
+	"West Virginia"	"54"	"51 years"	"51"	"Accidental poisoning by and exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic drugs, not elsewhere classified"	"X41"	13	58277	Unreliable
+	"West Virginia"	"54"	"51 years"	"51"	"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X42"	21	58277	36.0
+	"West Virginia"	"54"	"51 years"	"51"	"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X44"	42	58277	72.1
+	"West Virginia"	"54"	"52 years"	"52"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	16	59466	Unreliable
+	"West Virginia"	"54"	"52 years"	"52"	"Unspecified diabetes mellitus, without complications"	"E14.9"	14	59466	Unreliable
+	"West Virginia"	"54"	"52 years"	"52"	"Essential (primary) hypertension"	"I10"	11	59466	Unreliable
+	"West Virginia"	"54"	"52 years"	"52"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	20	59466	33.6
+	"West Virginia"	"54"	"52 years"	"52"	"Acute myocardial infarction, unspecified"	"I21.9"	16	59466	Unreliable
+	"West Virginia"	"54"	"52 years"	"52"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	19	59466	Unreliable
+	"West Virginia"	"54"	"52 years"	"52"	"Atherosclerotic heart disease"	"I25.1"	31	59466	52.1
+	"West Virginia"	"54"	"52 years"	"52"	"Pneumonia, unspecified"	"J18.9"	10	59466	Unreliable
+	"West Virginia"	"54"	"52 years"	"52"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	13	59466	Unreliable
+	"West Virginia"	"54"	"52 years"	"52"	"Other and unspecified cirrhosis of liver"	"K74.6"	14	59466	Unreliable
+	"West Virginia"	"54"	"52 years"	"52"	"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X42"	20	59466	33.6
+	"West Virginia"	"54"	"52 years"	"52"	"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X44"	38	59466	63.9
+	"West Virginia"	"54"	"52 years"	"52"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	11	59466	Unreliable
+	"West Virginia"	"54"	"53 years"	"53"	"Septicaemia, unspecified"	"A41.9"	11	59565	Unreliable
+	"West Virginia"	"54"	"53 years"	"53"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	30	59565	50.4
+	"West Virginia"	"54"	"53 years"	"53"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	11	59565	Unreliable
+	"West Virginia"	"54"	"53 years"	"53"	"Acute myocardial infarction, unspecified"	"I21.9"	18	59565	Unreliable
+	"West Virginia"	"54"	"53 years"	"53"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	35	59565	58.8
+	"West Virginia"	"54"	"53 years"	"53"	"Atherosclerotic heart disease"	"I25.1"	25	59565	42.0
+	"West Virginia"	"54"	"53 years"	"53"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	16	59565	Unreliable
+	"West Virginia"	"54"	"53 years"	"53"	"Other and unspecified cirrhosis of liver"	"K74.6"	14	59565	Unreliable
+	"West Virginia"	"54"	"53 years"	"53"	"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X42"	23	59565	38.6
+	"West Virginia"	"54"	"53 years"	"53"	"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X44"	30	59565	50.4
+	"West Virginia"	"54"	"53 years"	"53"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	12	59565	Unreliable
+	"West Virginia"	"54"	"54 years"	"54"	"Septicaemia, unspecified"	"A41.9"	11	60545	Unreliable
+	"West Virginia"	"54"	"54 years"	"54"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	17	60545	Unreliable
+	"West Virginia"	"54"	"54 years"	"54"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	39	60545	64.4
+	"West Virginia"	"54"	"54 years"	"54"	"Unspecified diabetes mellitus, without complications"	"E14.9"	12	60545	Unreliable
+	"West Virginia"	"54"	"54 years"	"54"	"Mental and behavioural disorders due to use of alcohol, harmful use"	"F10.1"	13	60545	Unreliable
+	"West Virginia"	"54"	"54 years"	"54"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	11	60545	Unreliable
+	"West Virginia"	"54"	"54 years"	"54"	"Acute myocardial infarction, unspecified"	"I21.9"	28	60545	46.2
+	"West Virginia"	"54"	"54 years"	"54"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	21	60545	34.7
+	"West Virginia"	"54"	"54 years"	"54"	"Atherosclerotic heart disease"	"I25.1"	32	60545	52.9
+	"West Virginia"	"54"	"54 years"	"54"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	24	60545	39.6
+	"West Virginia"	"54"	"54 years"	"54"	"Alcoholic cirrhosis of liver"	"K70.3"	13	60545	Unreliable
+	"West Virginia"	"54"	"54 years"	"54"	"Other and unspecified cirrhosis of liver"	"K74.6"	13	60545	Unreliable
+	"West Virginia"	"54"	"54 years"	"54"	"Other ill-defined and unspecified causes of mortality"	"R99"	14	60545	Unreliable
+	"West Virginia"	"54"	"54 years"	"54"	"COVID-19"	"U07.1"	10	60545	Unreliable
+	"West Virginia"	"54"	"54 years"	"54"	"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X42"	25	60545	41.3
+	"West Virginia"	"54"	"54 years"	"54"	"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X44"	29	60545	47.9
+	"West Virginia"	"54"	"54 years"	"54"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	12	60545	Unreliable
+	"West Virginia"	"54"	"55 years"	"55"	"Oesophagus, unspecified - Malignant neoplasms"	"C15.9"	14	61390	Unreliable
+	"West Virginia"	"54"	"55 years"	"55"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	15	61390	Unreliable
+	"West Virginia"	"54"	"55 years"	"55"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	52	61390	84.7
+	"West Virginia"	"54"	"55 years"	"55"	"Non-insulin-dependent diabetes mellitus, without complications"	"E11.9"	14	61390	Unreliable
+	"West Virginia"	"54"	"55 years"	"55"	"Unspecified diabetes mellitus, without complications"	"E14.9"	10	61390	Unreliable
+	"West Virginia"	"54"	"55 years"	"55"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	24	61390	39.1
+	"West Virginia"	"54"	"55 years"	"55"	"Acute myocardial infarction, unspecified"	"I21.9"	32	61390	52.1
+	"West Virginia"	"54"	"55 years"	"55"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	35	61390	57.0
+	"West Virginia"	"54"	"55 years"	"55"	"Atherosclerotic heart disease"	"I25.1"	27	61390	44.0
+	"West Virginia"	"54"	"55 years"	"55"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	36	61390	58.6
+	"West Virginia"	"54"	"55 years"	"55"	"Alcoholic cirrhosis of liver"	"K70.3"	20	61390	32.6
+	"West Virginia"	"54"	"55 years"	"55"	"Other and unspecified cirrhosis of liver"	"K74.6"	12	61390	Unreliable
+	"West Virginia"	"54"	"55 years"	"55"	"Other ill-defined and unspecified causes of mortality"	"R99"	13	61390	Unreliable
+	"West Virginia"	"54"	"55 years"	"55"	"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X42"	21	61390	34.2
+	"West Virginia"	"54"	"55 years"	"55"	"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X44"	27	61390	44.0
+	"West Virginia"	"54"	"55 years"	"55"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	10	61390	Unreliable
+	"West Virginia"	"54"	"56 years"	"56"	"Septicaemia, unspecified"	"A41.9"	12	61715	Unreliable
+	"West Virginia"	"54"	"56 years"	"56"	"Oesophagus, unspecified - Malignant neoplasms"	"C15.9"	12	61715	Unreliable
+	"West Virginia"	"54"	"56 years"	"56"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	15	61715	Unreliable
+	"West Virginia"	"54"	"56 years"	"56"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	14	61715	Unreliable
+	"West Virginia"	"54"	"56 years"	"56"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	52	61715	84.3
+	"West Virginia"	"54"	"56 years"	"56"	"Unspecified diabetes mellitus, without complications"	"E14.9"	14	61715	Unreliable
+	"West Virginia"	"54"	"56 years"	"56"	"Essential (primary) hypertension"	"I10"	15	61715	Unreliable
+	"West Virginia"	"54"	"56 years"	"56"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	12	61715	Unreliable
+	"West Virginia"	"54"	"56 years"	"56"	"Acute myocardial infarction, unspecified"	"I21.9"	27	61715	43.7
+	"West Virginia"	"54"	"56 years"	"56"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	34	61715	55.1
+	"West Virginia"	"54"	"56 years"	"56"	"Atherosclerotic heart disease"	"I25.1"	44	61715	71.3
+	"West Virginia"	"54"	"56 years"	"56"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	25	61715	40.5
+	"West Virginia"	"54"	"56 years"	"56"	"Alcoholic cirrhosis of liver"	"K70.3"	18	61715	Unreliable
+	"West Virginia"	"54"	"56 years"	"56"	"Other and unspecified cirrhosis of liver"	"K74.6"	13	61715	Unreliable
+	"West Virginia"	"54"	"56 years"	"56"	"Other ill-defined and unspecified causes of mortality"	"R99"	14	61715	Unreliable
+	"West Virginia"	"54"	"56 years"	"56"	"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X42"	23	61715	37.3
+	"West Virginia"	"54"	"56 years"	"56"	"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X44"	37	61715	60.0
+	"West Virginia"	"54"	"57 years"	"57"	"Septicaemia, unspecified"	"A41.9"	11	62166	Unreliable
+	"West Virginia"	"54"	"57 years"	"57"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	17	62166	Unreliable
+	"West Virginia"	"54"	"57 years"	"57"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	70	62166	112.6
+	"West Virginia"	"54"	"57 years"	"57"	"Malignant neoplasm without specification of site"	"C80"	13	62166	Unreliable
+	"West Virginia"	"54"	"57 years"	"57"	"Non-insulin-dependent diabetes mellitus, without complications"	"E11.9"	12	62166	Unreliable
+	"West Virginia"	"54"	"57 years"	"57"	"Unspecified diabetes mellitus, without complications"	"E14.9"	16	62166	Unreliable
+	"West Virginia"	"54"	"57 years"	"57"	"Essential (primary) hypertension"	"I10"	10	62166	Unreliable
+	"West Virginia"	"54"	"57 years"	"57"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	15	62166	Unreliable
+	"West Virginia"	"54"	"57 years"	"57"	"Acute myocardial infarction, unspecified"	"I21.9"	22	62166	35.4
+	"West Virginia"	"54"	"57 years"	"57"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	31	62166	49.9
+	"West Virginia"	"54"	"57 years"	"57"	"Atherosclerotic heart disease"	"I25.1"	52	62166	83.6
+	"West Virginia"	"54"	"57 years"	"57"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	31	62166	49.9
+	"West Virginia"	"54"	"57 years"	"57"	"Alcoholic cirrhosis of liver"	"K70.3"	24	62166	38.6
+	"West Virginia"	"54"	"57 years"	"57"	"Other and unspecified cirrhosis of liver"	"K74.6"	24	62166	38.6
+	"West Virginia"	"54"	"57 years"	"57"	"Other ill-defined and unspecified causes of mortality"	"R99"	19	62166	Unreliable
+	"West Virginia"	"54"	"57 years"	"57"	"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X42"	19	62166	Unreliable
+	"West Virginia"	"54"	"57 years"	"57"	"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X44"	32	62166	51.5
+	"West Virginia"	"54"	"57 years"	"57"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	12	62166	Unreliable
+	"West Virginia"	"54"	"58 years"	"58"	"Oesophagus, unspecified - Malignant neoplasms"	"C15.9"	10	63301	Unreliable
+	"West Virginia"	"54"	"58 years"	"58"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	23	63301	36.3
+	"West Virginia"	"54"	"58 years"	"58"	"Liver cell carcinoma - Malignant neoplasms"	"C22.0"	12	63301	Unreliable
+	"West Virginia"	"54"	"58 years"	"58"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	13	63301	Unreliable
+	"West Virginia"	"54"	"58 years"	"58"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	69	63301	109.0
+	"West Virginia"	"54"	"58 years"	"58"	"Malignant neoplasm without specification of site"	"C80"	11	63301	Unreliable
+	"West Virginia"	"54"	"58 years"	"58"	"Non-insulin-dependent diabetes mellitus, without complications"	"E11.9"	10	63301	Unreliable
+	"West Virginia"	"54"	"58 years"	"58"	"Unspecified diabetes mellitus, without complications"	"E14.9"	17	63301	Unreliable
+	"West Virginia"	"54"	"58 years"	"58"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	19	63301	Unreliable
+	"West Virginia"	"54"	"58 years"	"58"	"Acute myocardial infarction, unspecified"	"I21.9"	39	63301	61.6
+	"West Virginia"	"54"	"58 years"	"58"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	38	63301	60.0
+	"West Virginia"	"54"	"58 years"	"58"	"Atherosclerotic heart disease"	"I25.1"	58	63301	91.6
+	"West Virginia"	"54"	"58 years"	"58"	"Stroke, not specified as haemorrhage or infarction"	"I64"	14	63301	Unreliable
+	"West Virginia"	"54"	"58 years"	"58"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	43	63301	67.9
+	"West Virginia"	"54"	"58 years"	"58"	"Alcoholic cirrhosis of liver"	"K70.3"	17	63301	Unreliable
+	"West Virginia"	"54"	"58 years"	"58"	"Other and unspecified cirrhosis of liver"	"K74.6"	22	63301	34.8
+	"West Virginia"	"54"	"58 years"	"58"	"Other ill-defined and unspecified causes of mortality"	"R99"	20	63301	31.6
+	"West Virginia"	"54"	"58 years"	"58"	"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X42"	22	63301	34.8
+	"West Virginia"	"54"	"58 years"	"58"	"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X44"	30	63301	47.4
+	"West Virginia"	"54"	"58 years"	"58"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	13	63301	Unreliable
+	"West Virginia"	"54"	"59 years"	"59"	"Oesophagus, unspecified - Malignant neoplasms"	"C15.9"	17	64274	Unreliable
+	"West Virginia"	"54"	"59 years"	"59"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	17	64274	Unreliable
+	"West Virginia"	"54"	"59 years"	"59"	"Liver, unspecified - Malignant neoplasms"	"C22.9"	10	64274	Unreliable
+	"West Virginia"	"54"	"59 years"	"59"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	13	64274	Unreliable
+	"West Virginia"	"54"	"59 years"	"59"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	91	64274	141.6
+	"West Virginia"	"54"	"59 years"	"59"	"Brain, unspecified - Malignant neoplasms"	"C71.9"	12	64274	Unreliable
+	"West Virginia"	"54"	"59 years"	"59"	"Unspecified diabetes mellitus, without complications"	"E14.9"	19	64274	Unreliable
+	"West Virginia"	"54"	"59 years"	"59"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	18	64274	Unreliable
+	"West Virginia"	"54"	"59 years"	"59"	"Acute myocardial infarction, unspecified"	"I21.9"	56	64274	87.1
+	"West Virginia"	"54"	"59 years"	"59"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	44	64274	68.5
+	"West Virginia"	"54"	"59 years"	"59"	"Atherosclerotic heart disease"	"I25.1"	57	64274	88.7
+	"West Virginia"	"54"	"59 years"	"59"	"Stroke, not specified as haemorrhage or infarction"	"I64"	13	64274	Unreliable
+	"West Virginia"	"54"	"59 years"	"59"	"Pneumonia, unspecified"	"J18.9"	11	64274	Unreliable
+	"West Virginia"	"54"	"59 years"	"59"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	43	64274	66.9
+	"West Virginia"	"54"	"59 years"	"59"	"Alcoholic cirrhosis of liver"	"K70.3"	16	64274	Unreliable
+	"West Virginia"	"54"	"59 years"	"59"	"Other and unspecified cirrhosis of liver"	"K74.6"	22	64274	34.2
+	"West Virginia"	"54"	"59 years"	"59"	"Other ill-defined and unspecified causes of mortality"	"R99"	18	64274	Unreliable
+	"West Virginia"	"54"	"59 years"	"59"	"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X42"	18	64274	Unreliable
+	"West Virginia"	"54"	"59 years"	"59"	"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X44"	21	64274	32.7
+	"West Virginia"	"54"	"59 years"	"59"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	14	64274	Unreliable
+	"West Virginia"	"54"	"60 years"	"60"	"Septicaemia, unspecified"	"A41.9"	12	64258	Unreliable
+	"West Virginia"	"54"	"60 years"	"60"	"Oesophagus, unspecified - Malignant neoplasms"	"C15.9"	13	64258	Unreliable
+	"West Virginia"	"54"	"60 years"	"60"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	17	64258	Unreliable
+	"West Virginia"	"54"	"60 years"	"60"	"Liver, unspecified - Malignant neoplasms"	"C22.9"	11	64258	Unreliable
+	"West Virginia"	"54"	"60 years"	"60"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	20	64258	31.1
+	"West Virginia"	"54"	"60 years"	"60"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	107	64258	166.5
+	"West Virginia"	"54"	"60 years"	"60"	"Malignant neoplasm of prostate"	"C61"	14	64258	Unreliable
+	"West Virginia"	"54"	"60 years"	"60"	"Malignant neoplasm of kidney, except renal pelvis"	"C64"	10	64258	Unreliable
+	"West Virginia"	"54"	"60 years"	"60"	"Non-insulin-dependent diabetes mellitus, without complications"	"E11.9"	17	64258	Unreliable
+	"West Virginia"	"54"	"60 years"	"60"	"Unspecified diabetes mellitus, with renal complications"	"E14.2"	16	64258	Unreliable
+	"West Virginia"	"54"	"60 years"	"60"	"Unspecified diabetes mellitus, without complications"	"E14.9"	27	64258	42.0
+	"West Virginia"	"54"	"60 years"	"60"	"Mental and behavioural disorders due to use of alcohol, harmful use"	"F10.1"	11	64258	Unreliable
+	"West Virginia"	"54"	"60 years"	"60"	"Essential (primary) hypertension"	"I10"	15	64258	Unreliable
+	"West Virginia"	"54"	"60 years"	"60"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	15	64258	Unreliable
+	"West Virginia"	"54"	"60 years"	"60"	"Acute myocardial infarction, unspecified"	"I21.9"	32	64258	49.8
+	"West Virginia"	"54"	"60 years"	"60"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	38	64258	59.1
+	"West Virginia"	"54"	"60 years"	"60"	"Atherosclerotic heart disease"	"I25.1"	63	64258	98.0
+	"West Virginia"	"54"	"60 years"	"60"	"Congestive heart failure"	"I50.0"	14	64258	Unreliable
+	"West Virginia"	"54"	"60 years"	"60"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	13	64258	Unreliable
+	"West Virginia"	"54"	"60 years"	"60"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	54	64258	84.0
+	"West Virginia"	"54"	"60 years"	"60"	"Alcoholic cirrhosis of liver"	"K70.3"	17	64258	Unreliable
+	"West Virginia"	"54"	"60 years"	"60"	"Other and unspecified cirrhosis of liver"	"K74.6"	14	64258	Unreliable
+	"West Virginia"	"54"	"60 years"	"60"	"Other ill-defined and unspecified causes of mortality"	"R99"	20	64258	31.1
+	"West Virginia"	"54"	"60 years"	"60"	"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X42"	13	64258	Unreliable
+	"West Virginia"	"54"	"60 years"	"60"	"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X44"	15	64258	Unreliable
+	"West Virginia"	"54"	"61 years"	"61"	"Septicaemia, unspecified"	"A41.9"	24	64231	37.4
+	"West Virginia"	"54"	"61 years"	"61"	"Oesophagus, unspecified - Malignant neoplasms"	"C15.9"	12	64231	Unreliable
+	"West Virginia"	"54"	"61 years"	"61"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	29	64231	45.1
+	"West Virginia"	"54"	"61 years"	"61"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	17	64231	Unreliable
+	"West Virginia"	"54"	"61 years"	"61"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	100	64231	155.7
+	"West Virginia"	"54"	"61 years"	"61"	"Malignant neoplasm without specification of site"	"C80"	20	64231	31.1
+	"West Virginia"	"54"	"61 years"	"61"	"Non-insulin-dependent diabetes mellitus, without complications"	"E11.9"	18	64231	Unreliable
+	"West Virginia"	"54"	"61 years"	"61"	"Unspecified diabetes mellitus, without complications"	"E14.9"	14	64231	Unreliable
+	"West Virginia"	"54"	"61 years"	"61"	"Essential (primary) hypertension"	"I10"	10	64231	Unreliable
+	"West Virginia"	"54"	"61 years"	"61"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	16	64231	Unreliable
+	"West Virginia"	"54"	"61 years"	"61"	"Acute myocardial infarction, unspecified"	"I21.9"	58	64231	90.3
+	"West Virginia"	"54"	"61 years"	"61"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	34	64231	52.9
+	"West Virginia"	"54"	"61 years"	"61"	"Atherosclerotic heart disease"	"I25.1"	54	64231	84.1
+	"West Virginia"	"54"	"61 years"	"61"	"Congestive heart failure"	"I50.0"	14	64231	Unreliable
+	"West Virginia"	"54"	"61 years"	"61"	"Stroke, not specified as haemorrhage or infarction"	"I64"	11	64231	Unreliable
+	"West Virginia"	"54"	"61 years"	"61"	"Pneumonia, unspecified"	"J18.9"	11	64231	Unreliable
+	"West Virginia"	"54"	"61 years"	"61"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	10	64231	Unreliable
+	"West Virginia"	"54"	"61 years"	"61"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	67	64231	104.3
+	"West Virginia"	"54"	"61 years"	"61"	"Alcoholic cirrhosis of liver"	"K70.3"	27	64231	42.0
+	"West Virginia"	"54"	"61 years"	"61"	"Other and unspecified cirrhosis of liver"	"K74.6"	16	64231	Unreliable
+	"West Virginia"	"54"	"61 years"	"61"	"Other ill-defined and unspecified causes of mortality"	"R99"	24	64231	37.4
+	"West Virginia"	"54"	"61 years"	"61"	"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X42"	12	64231	Unreliable
+	"West Virginia"	"54"	"61 years"	"61"	"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X44"	27	64231	42.0
+	"West Virginia"	"54"	"62 years"	"62"	"Septicaemia, unspecified"	"A41.9"	16	63492	Unreliable
+	"West Virginia"	"54"	"62 years"	"62"	"Oesophagus, unspecified - Malignant neoplasms"	"C15.9"	18	63492	Unreliable
+	"West Virginia"	"54"	"62 years"	"62"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	28	63492	44.1
+	"West Virginia"	"54"	"62 years"	"62"	"Liver cell carcinoma - Malignant neoplasms"	"C22.0"	12	63492	Unreliable
+	"West Virginia"	"54"	"62 years"	"62"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	24	63492	37.8
+	"West Virginia"	"54"	"62 years"	"62"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	108	63492	170.1
+	"West Virginia"	"54"	"62 years"	"62"	"Malignant neoplasm of prostate"	"C61"	10	63492	Unreliable
+	"West Virginia"	"54"	"62 years"	"62"	"Malignant neoplasm without specification of site"	"C80"	20	63492	31.5
+	"West Virginia"	"54"	"62 years"	"62"	"Non-insulin-dependent diabetes mellitus, without complications"	"E11.9"	13	63492	Unreliable
+	"West Virginia"	"54"	"62 years"	"62"	"Unspecified diabetes mellitus, with renal complications"	"E14.2"	14	63492	Unreliable
+	"West Virginia"	"54"	"62 years"	"62"	"Unspecified diabetes mellitus, without complications"	"E14.9"	24	63492	37.8
+	"West Virginia"	"54"	"62 years"	"62"	"Hyperlipidaemia, unspecified"	"E78.5"	11	63492	Unreliable
+	"West Virginia"	"54"	"62 years"	"62"	"Mental and behavioural disorders due to use of alcohol, dependence syndrome"	"F10.2"	10	63492	Unreliable
+	"West Virginia"	"54"	"62 years"	"62"	"Essential (primary) hypertension"	"I10"	17	63492	Unreliable
+	"West Virginia"	"54"	"62 years"	"62"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	15	63492	Unreliable
+	"West Virginia"	"54"	"62 years"	"62"	"Acute myocardial infarction, unspecified"	"I21.9"	66	63492	104.0
+	"West Virginia"	"54"	"62 years"	"62"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	42	63492	66.2
+	"West Virginia"	"54"	"62 years"	"62"	"Atherosclerotic heart disease"	"I25.1"	76	63492	119.7
+	"West Virginia"	"54"	"62 years"	"62"	"Congestive heart failure"	"I50.0"	12	63492	Unreliable
+	"West Virginia"	"54"	"62 years"	"62"	"Stroke, not specified as haemorrhage or infarction"	"I64"	14	63492	Unreliable
+	"West Virginia"	"54"	"62 years"	"62"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	14	63492	Unreliable
+	"West Virginia"	"54"	"62 years"	"62"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	53	63492	83.5
+	"West Virginia"	"54"	"62 years"	"62"	"Alcoholic cirrhosis of liver"	"K70.3"	17	63492	Unreliable
+	"West Virginia"	"54"	"62 years"	"62"	"Other and unspecified cirrhosis of liver"	"K74.6"	14	63492	Unreliable
+	"West Virginia"	"54"	"62 years"	"62"	"Chronic kidney disease, stage 5"	"N18.5"	10	63492	Unreliable
+	"West Virginia"	"54"	"62 years"	"62"	"Other ill-defined and unspecified causes of mortality"	"R99"	22	63492	34.7
+	"West Virginia"	"54"	"62 years"	"62"	"COVID-19"	"U07.1"	11	63492	Unreliable
+	"West Virginia"	"54"	"62 years"	"62"	"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X42"	12	63492	Unreliable
+	"West Virginia"	"54"	"62 years"	"62"	"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X44"	20	63492	31.5
+	"West Virginia"	"54"	"62 years"	"62"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	13	63492	Unreliable
+	"West Virginia"	"54"	"63 years"	"63"	"Septicaemia, unspecified"	"A41.9"	17	62260	Unreliable
+	"West Virginia"	"54"	"63 years"	"63"	"Oesophagus, unspecified - Malignant neoplasms"	"C15.9"	24	62260	38.5
+	"West Virginia"	"54"	"63 years"	"63"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	23	62260	36.9
+	"West Virginia"	"54"	"63 years"	"63"	"Liver cell carcinoma - Malignant neoplasms"	"C22.0"	11	62260	Unreliable
+	"West Virginia"	"54"	"63 years"	"63"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	12	62260	Unreliable
+	"West Virginia"	"54"	"63 years"	"63"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	116	62260	186.3
+	"West Virginia"	"54"	"63 years"	"63"	"Malignant neoplasm of prostate"	"C61"	14	62260	Unreliable
+	"West Virginia"	"54"	"63 years"	"63"	"Malignant neoplasm without specification of site"	"C80"	21	62260	33.7
+	"West Virginia"	"54"	"63 years"	"63"	"Non-insulin-dependent diabetes mellitus, without complications"	"E11.9"	12	62260	Unreliable
+	"West Virginia"	"54"	"63 years"	"63"	"Unspecified diabetes mellitus, without complications"	"E14.9"	27	62260	43.4
+	"West Virginia"	"54"	"63 years"	"63"	"Hyperlipidaemia, unspecified"	"E78.5"	12	62260	Unreliable
+	"West Virginia"	"54"	"63 years"	"63"	"Mental and behavioural disorders due to use of alcohol, harmful use"	"F10.1"	12	62260	Unreliable
+	"West Virginia"	"54"	"63 years"	"63"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	20	62260	32.1
+	"West Virginia"	"54"	"63 years"	"63"	"Acute myocardial infarction, unspecified"	"I21.9"	58	62260	93.2
+	"West Virginia"	"54"	"63 years"	"63"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	48	62260	77.1
+	"West Virginia"	"54"	"63 years"	"63"	"Atherosclerotic heart disease"	"I25.1"	84	62260	134.9
+	"West Virginia"	"54"	"63 years"	"63"	"Atrial fibrillation and flutter"	"I48"	10	62260	Unreliable
+	"West Virginia"	"54"	"63 years"	"63"	"Stroke, not specified as haemorrhage or infarction"	"I64"	17	62260	Unreliable
+	"West Virginia"	"54"	"63 years"	"63"	"Pneumonia, unspecified"	"J18.9"	14	62260	Unreliable
+	"West Virginia"	"54"	"63 years"	"63"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	10	62260	Unreliable
+	"West Virginia"	"54"	"63 years"	"63"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	74	62260	118.9
+	"West Virginia"	"54"	"63 years"	"63"	"Alcoholic cirrhosis of liver"	"K70.3"	10	62260	Unreliable
+	"West Virginia"	"54"	"63 years"	"63"	"Other and unspecified cirrhosis of liver"	"K74.6"	22	62260	35.3
+	"West Virginia"	"54"	"63 years"	"63"	"Chronic kidney disease, stage 5"	"N18.5"	13	62260	Unreliable
+	"West Virginia"	"54"	"63 years"	"63"	"Other ill-defined and unspecified causes of mortality"	"R99"	16	62260	Unreliable
+	"West Virginia"	"54"	"63 years"	"63"	"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X42"	13	62260	Unreliable
+	"West Virginia"	"54"	"63 years"	"63"	"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X44"	17	62260	Unreliable
+	"West Virginia"	"54"	"64 years"	"64"	"Septicaemia, unspecified"	"A41.9"	23	60815	37.8
+	"West Virginia"	"54"	"64 years"	"64"	"Oesophagus, unspecified - Malignant neoplasms"	"C15.9"	29	60815	47.7
+	"West Virginia"	"54"	"64 years"	"64"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	24	60815	39.5
+	"West Virginia"	"54"	"64 years"	"64"	"Liver cell carcinoma - Malignant neoplasms"	"C22.0"	10	60815	Unreliable
+	"West Virginia"	"54"	"64 years"	"64"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	32	60815	52.6
+	"West Virginia"	"54"	"64 years"	"64"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	107	60815	175.9
+	"West Virginia"	"54"	"64 years"	"64"	"Malignant neoplasm of prostate"	"C61"	13	60815	Unreliable
+	"West Virginia"	"54"	"64 years"	"64"	"Malignant neoplasm of kidney, except renal pelvis"	"C64"	12	60815	Unreliable
+	"West Virginia"	"54"	"64 years"	"64"	"Malignant neoplasm without specification of site"	"C80"	16	60815	Unreliable
+	"West Virginia"	"54"	"64 years"	"64"	"Non-insulin-dependent diabetes mellitus, without complications"	"E11.9"	11	60815	Unreliable
+	"West Virginia"	"54"	"64 years"	"64"	"Unspecified diabetes mellitus, with renal complications"	"E14.2"	11	60815	Unreliable
+	"West Virginia"	"54"	"64 years"	"64"	"Unspecified diabetes mellitus, without complications"	"E14.9"	19	60815	Unreliable
+	"West Virginia"	"54"	"64 years"	"64"	"Hyperlipidaemia, unspecified"	"E78.5"	10	60815	Unreliable
+	"West Virginia"	"54"	"64 years"	"64"	"Essential (primary) hypertension"	"I10"	10	60815	Unreliable
+	"West Virginia"	"54"	"64 years"	"64"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	23	60815	37.8
+	"West Virginia"	"54"	"64 years"	"64"	"Acute myocardial infarction, unspecified"	"I21.9"	56	60815	92.1
+	"West Virginia"	"54"	"64 years"	"64"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	46	60815	75.6
+	"West Virginia"	"54"	"64 years"	"64"	"Atherosclerotic heart disease"	"I25.1"	88	60815	144.7
+	"West Virginia"	"54"	"64 years"	"64"	"Stroke, not specified as haemorrhage or infarction"	"I64"	19	60815	Unreliable
+	"West Virginia"	"54"	"64 years"	"64"	"Pneumonia, unspecified"	"J18.9"	14	60815	Unreliable
+	"West Virginia"	"54"	"64 years"	"64"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	17	60815	Unreliable
+	"West Virginia"	"54"	"64 years"	"64"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	59	60815	97.0
+	"West Virginia"	"54"	"64 years"	"64"	"Other and unspecified cirrhosis of liver"	"K74.6"	13	60815	Unreliable
+	"West Virginia"	"54"	"64 years"	"64"	"Other ill-defined and unspecified causes of mortality"	"R99"	27	60815	44.4
+	"West Virginia"	"54"	"64 years"	"64"	"COVID-19"	"U07.1"	12	60815	Unreliable
+	"West Virginia"	"54"	"64 years"	"64"	"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X44"	12	60815	Unreliable
+	"West Virginia"	"54"	"65 years"	"65"	"Septicaemia, unspecified"	"A41.9"	18	59820	Unreliable
+	"West Virginia"	"54"	"65 years"	"65"	"Oesophagus, unspecified - Malignant neoplasms"	"C15.9"	25	59820	41.8
+	"West Virginia"	"54"	"65 years"	"65"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	27	59820	45.1
+	"West Virginia"	"54"	"65 years"	"65"	"Liver cell carcinoma - Malignant neoplasms"	"C22.0"	11	59820	Unreliable
+	"West Virginia"	"54"	"65 years"	"65"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	28	59820	46.8
+	"West Virginia"	"54"	"65 years"	"65"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	125	59820	209.0
+	"West Virginia"	"54"	"65 years"	"65"	"Malignant neoplasm of prostate"	"C61"	18	59820	Unreliable
+	"West Virginia"	"54"	"65 years"	"65"	"Brain, unspecified - Malignant neoplasms"	"C71.9"	13	59820	Unreliable
+	"West Virginia"	"54"	"65 years"	"65"	"Malignant neoplasm without specification of site"	"C80"	25	59820	41.8
+	"West Virginia"	"54"	"65 years"	"65"	"Non-insulin-dependent diabetes mellitus, with renal complications"	"E11.2"	10	59820	Unreliable
+	"West Virginia"	"54"	"65 years"	"65"	"Non-insulin-dependent diabetes mellitus, without complications"	"E11.9"	23	59820	38.4
+	"West Virginia"	"54"	"65 years"	"65"	"Unspecified diabetes mellitus, without complications"	"E14.9"	29	59820	48.5
+	"West Virginia"	"54"	"65 years"	"65"	"Hyperlipidaemia, unspecified"	"E78.5"	12	59820	Unreliable
+	"West Virginia"	"54"	"65 years"	"65"	"Essential (primary) hypertension"	"I10"	19	59820	Unreliable
+	"West Virginia"	"54"	"65 years"	"65"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	14	59820	Unreliable
+	"West Virginia"	"54"	"65 years"	"65"	"Acute myocardial infarction, unspecified"	"I21.9"	62	59820	103.6
+	"West Virginia"	"54"	"65 years"	"65"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	38	59820	63.5
+	"West Virginia"	"54"	"65 years"	"65"	"Atherosclerotic heart disease"	"I25.1"	84	59820	140.4
+	"West Virginia"	"54"	"65 years"	"65"	"Congestive heart failure"	"I50.0"	13	59820	Unreliable
+	"West Virginia"	"54"	"65 years"	"65"	"Stroke, not specified as haemorrhage or infarction"	"I64"	16	59820	Unreliable
+	"West Virginia"	"54"	"65 years"	"65"	"Pneumonia, unspecified"	"J18.9"	10	59820	Unreliable
+	"West Virginia"	"54"	"65 years"	"65"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	10	59820	Unreliable
+	"West Virginia"	"54"	"65 years"	"65"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	61	59820	102.0
+	"West Virginia"	"54"	"65 years"	"65"	"Alcoholic cirrhosis of liver"	"K70.3"	22	59820	36.8
+	"West Virginia"	"54"	"65 years"	"65"	"Other and unspecified cirrhosis of liver"	"K74.6"	23	59820	38.4
+	"West Virginia"	"54"	"65 years"	"65"	"Other ill-defined and unspecified causes of mortality"	"R99"	31	59820	51.8
+	"West Virginia"	"54"	"65 years"	"65"	"COVID-19"	"U07.1"	16	59820	Unreliable
+	"West Virginia"	"54"	"65 years"	"65"	"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X44"	14	59820	Unreliable
+	"West Virginia"	"54"	"65 years"	"65"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	10	59820	Unreliable
+	"West Virginia"	"54"	"66 years"	"66"	"Septicaemia, unspecified"	"A41.9"	16	58671	Unreliable
+	"West Virginia"	"54"	"66 years"	"66"	"Oesophagus, unspecified - Malignant neoplasms"	"C15.9"	20	58671	34.1
+	"West Virginia"	"54"	"66 years"	"66"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	30	58671	51.1
+	"West Virginia"	"54"	"66 years"	"66"	"Liver cell carcinoma - Malignant neoplasms"	"C22.0"	16	58671	Unreliable
+	"West Virginia"	"54"	"66 years"	"66"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	26	58671	44.3
+	"West Virginia"	"54"	"66 years"	"66"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	132	58671	225.0
+	"West Virginia"	"54"	"66 years"	"66"	"Malignant neoplasm of prostate"	"C61"	20	58671	34.1
+	"West Virginia"	"54"	"66 years"	"66"	"Bladder, unspecified - Malignant neoplasms"	"C67.9"	11	58671	Unreliable
+	"West Virginia"	"54"	"66 years"	"66"	"Brain, unspecified - Malignant neoplasms"	"C71.9"	11	58671	Unreliable
+	"West Virginia"	"54"	"66 years"	"66"	"Malignant neoplasm without specification of site"	"C80"	25	58671	42.6
+	"West Virginia"	"54"	"66 years"	"66"	"Non-insulin-dependent diabetes mellitus, without complications"	"E11.9"	18	58671	Unreliable
+	"West Virginia"	"54"	"66 years"	"66"	"Unspecified diabetes mellitus, with renal complications"	"E14.2"	10	58671	Unreliable
+	"West Virginia"	"54"	"66 years"	"66"	"Unspecified diabetes mellitus, without complications"	"E14.9"	27	58671	46.0
+	"West Virginia"	"54"	"66 years"	"66"	"Hyperlipidaemia, unspecified"	"E78.5"	14	58671	Unreliable
+	"West Virginia"	"54"	"66 years"	"66"	"Essential (primary) hypertension"	"I10"	14	58671	Unreliable
+	"West Virginia"	"54"	"66 years"	"66"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	14	58671	Unreliable
+	"West Virginia"	"54"	"66 years"	"66"	"Acute myocardial infarction, unspecified"	"I21.9"	53	58671	90.3
+	"West Virginia"	"54"	"66 years"	"66"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	47	58671	80.1
+	"West Virginia"	"54"	"66 years"	"66"	"Atherosclerotic heart disease"	"I25.1"	65	58671	110.8
+	"West Virginia"	"54"	"66 years"	"66"	"Congestive heart failure"	"I50.0"	16	58671	Unreliable
+	"West Virginia"	"54"	"66 years"	"66"	"Stroke, not specified as haemorrhage or infarction"	"I64"	17	58671	Unreliable
+	"West Virginia"	"54"	"66 years"	"66"	"Pneumonia, unspecified"	"J18.9"	23	58671	39.2
+	"West Virginia"	"54"	"66 years"	"66"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	86	58671	146.6
+	"West Virginia"	"54"	"66 years"	"66"	"Alcoholic cirrhosis of liver"	"K70.3"	11	58671	Unreliable
+	"West Virginia"	"54"	"66 years"	"66"	"Other and unspecified cirrhosis of liver"	"K74.6"	11	58671	Unreliable
+	"West Virginia"	"54"	"66 years"	"66"	"Other ill-defined and unspecified causes of mortality"	"R99"	21	58671	35.8
+	"West Virginia"	"54"	"66 years"	"66"	"COVID-19"	"U07.1"	12	58671	Unreliable
+	"West Virginia"	"54"	"67 years"	"67"	"Septicaemia, unspecified"	"A41.9"	20	57362	34.9
+	"West Virginia"	"54"	"67 years"	"67"	"Oesophagus, unspecified - Malignant neoplasms"	"C15.9"	18	57362	Unreliable
+	"West Virginia"	"54"	"67 years"	"67"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	22	57362	38.4
+	"West Virginia"	"54"	"67 years"	"67"	"Liver cell carcinoma - Malignant neoplasms"	"C22.0"	11	57362	Unreliable
+	"West Virginia"	"54"	"67 years"	"67"	"Liver, unspecified - Malignant neoplasms"	"C22.9"	10	57362	Unreliable
+	"West Virginia"	"54"	"67 years"	"67"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	26	57362	45.3
+	"West Virginia"	"54"	"67 years"	"67"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	144	57362	251.0
+	"West Virginia"	"54"	"67 years"	"67"	"Malignant neoplasm of prostate"	"C61"	24	57362	41.8
+	"West Virginia"	"54"	"67 years"	"67"	"Malignant neoplasm of kidney, except renal pelvis"	"C64"	12	57362	Unreliable
+	"West Virginia"	"54"	"67 years"	"67"	"Bladder, unspecified - Malignant neoplasms"	"C67.9"	11	57362	Unreliable
+	"West Virginia"	"54"	"67 years"	"67"	"Malignant neoplasm without specification of site"	"C80"	14	57362	Unreliable
+	"West Virginia"	"54"	"67 years"	"67"	"Non-insulin-dependent diabetes mellitus, without complications"	"E11.9"	25	57362	43.6
+	"West Virginia"	"54"	"67 years"	"67"	"Unspecified diabetes mellitus, without complications"	"E14.9"	27	57362	47.1
+	"West Virginia"	"54"	"67 years"	"67"	"Hyperlipidaemia, unspecified"	"E78.5"	10	57362	Unreliable
+	"West Virginia"	"54"	"67 years"	"67"	"Essential (primary) hypertension"	"I10"	20	57362	34.9
+	"West Virginia"	"54"	"67 years"	"67"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	14	57362	Unreliable
+	"West Virginia"	"54"	"67 years"	"67"	"Hypertensive renal disease with renal failure"	"I12.0"	10	57362	Unreliable
+	"West Virginia"	"54"	"67 years"	"67"	"Acute myocardial infarction, unspecified"	"I21.9"	66	57362	115.1
+	"West Virginia"	"54"	"67 years"	"67"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	39	57362	68.0
+	"West Virginia"	"54"	"67 years"	"67"	"Atherosclerotic heart disease"	"I25.1"	102	57362	177.8
+	"West Virginia"	"54"	"67 years"	"67"	"Cardiomyopathy, unspecified"	"I42.9"	12	57362	Unreliable
+	"West Virginia"	"54"	"67 years"	"67"	"Congestive heart failure"	"I50.0"	11	57362	Unreliable
+	"West Virginia"	"54"	"67 years"	"67"	"Stroke, not specified as haemorrhage or infarction"	"I64"	26	57362	45.3
+	"West Virginia"	"54"	"67 years"	"67"	"Pneumonia, unspecified"	"J18.9"	18	57362	Unreliable
+	"West Virginia"	"54"	"67 years"	"67"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	70	57362	122.0
+	"West Virginia"	"54"	"67 years"	"67"	"Other and unspecified cirrhosis of liver"	"K74.6"	23	57362	40.1
+	"West Virginia"	"54"	"67 years"	"67"	"Chronic kidney disease, stage 5"	"N18.5"	13	57362	Unreliable
+	"West Virginia"	"54"	"67 years"	"67"	"Other ill-defined and unspecified causes of mortality"	"R99"	27	57362	47.1
+	"West Virginia"	"54"	"67 years"	"67"	"COVID-19"	"U07.1"	13	57362	Unreliable
+	"West Virginia"	"54"	"68 years"	"68"	"Septicaemia, unspecified"	"A41.9"	25	56435	44.3
+	"West Virginia"	"54"	"68 years"	"68"	"Oesophagus, unspecified - Malignant neoplasms"	"C15.9"	27	56435	47.8
+	"West Virginia"	"54"	"68 years"	"68"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	31	56435	54.9
+	"West Virginia"	"54"	"68 years"	"68"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	18	56435	Unreliable
+	"West Virginia"	"54"	"68 years"	"68"	"Larynx, unspecified - Malignant neoplasms"	"C32.9"	10	56435	Unreliable
+	"West Virginia"	"54"	"68 years"	"68"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	141	56435	249.8
+	"West Virginia"	"54"	"68 years"	"68"	"Malignant neoplasm of prostate"	"C61"	22	56435	39.0
+	"West Virginia"	"54"	"68 years"	"68"	"Malignant neoplasm of kidney, except renal pelvis"	"C64"	12	56435	Unreliable
+	"West Virginia"	"54"	"68 years"	"68"	"Bladder, unspecified - Malignant neoplasms"	"C67.9"	18	56435	Unreliable
+	"West Virginia"	"54"	"68 years"	"68"	"Malignant neoplasm without specification of site"	"C80"	10	56435	Unreliable
+	"West Virginia"	"54"	"68 years"	"68"	"Multiple myeloma - Malignant neoplasms"	"C90.0"	10	56435	Unreliable
+	"West Virginia"	"54"	"68 years"	"68"	"Non-insulin-dependent diabetes mellitus, with renal complications"	"E11.2"	11	56435	Unreliable
+	"West Virginia"	"54"	"68 years"	"68"	"Non-insulin-dependent diabetes mellitus, without complications"	"E11.9"	15	56435	Unreliable
+	"West Virginia"	"54"	"68 years"	"68"	"Unspecified diabetes mellitus, without complications"	"E14.9"	31	56435	54.9
+	"West Virginia"	"54"	"68 years"	"68"	"Hyperlipidaemia, unspecified"	"E78.5"	17	56435	Unreliable
+	"West Virginia"	"54"	"68 years"	"68"	"Parkinson disease"	"G20"	10	56435	Unreliable
+	"West Virginia"	"54"	"68 years"	"68"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	13	56435	Unreliable
+	"West Virginia"	"54"	"68 years"	"68"	"Acute subendocardial myocardial infarction"	"I21.4"	11	56435	Unreliable
+	"West Virginia"	"54"	"68 years"	"68"	"Acute myocardial infarction, unspecified"	"I21.9"	66	56435	116.9
+	"West Virginia"	"54"	"68 years"	"68"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	35	56435	62.0
+	"West Virginia"	"54"	"68 years"	"68"	"Atherosclerotic heart disease"	"I25.1"	116	56435	205.5
+	"West Virginia"	"54"	"68 years"	"68"	"Ischaemic cardiomyopathy"	"I25.5"	10	56435	Unreliable
+	"West Virginia"	"54"	"68 years"	"68"	"Cardiomyopathy, unspecified"	"I42.9"	14	56435	Unreliable
+	"West Virginia"	"54"	"68 years"	"68"	"Atrial fibrillation and flutter"	"I48"	10	56435	Unreliable
+	"West Virginia"	"54"	"68 years"	"68"	"Congestive heart failure"	"I50.0"	19	56435	Unreliable
+	"West Virginia"	"54"	"68 years"	"68"	"Stroke, not specified as haemorrhage or infarction"	"I64"	19	56435	Unreliable
+	"West Virginia"	"54"	"68 years"	"68"	"Pneumonia, unspecified"	"J18.9"	12	56435	Unreliable
+	"West Virginia"	"54"	"68 years"	"68"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	11	56435	Unreliable
+	"West Virginia"	"54"	"68 years"	"68"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	76	56435	134.7
+	"West Virginia"	"54"	"68 years"	"68"	"Alcoholic cirrhosis of liver"	"K70.3"	11	56435	Unreliable
+	"West Virginia"	"54"	"68 years"	"68"	"Other and unspecified cirrhosis of liver"	"K74.6"	21	56435	37.2
+	"West Virginia"	"54"	"68 years"	"68"	"Chronic kidney disease, stage 5"	"N18.5"	10	56435	Unreliable
+	"West Virginia"	"54"	"68 years"	"68"	"Other ill-defined and unspecified causes of mortality"	"R99"	16	56435	Unreliable
+	"West Virginia"	"54"	"68 years"	"68"	"COVID-19"	"U07.1"	23	56435	40.8
+	"West Virginia"	"54"	"69 years"	"69"	"Septicaemia, unspecified"	"A41.9"	22	55913	39.3
+	"West Virginia"	"54"	"69 years"	"69"	"Oesophagus, unspecified - Malignant neoplasms"	"C15.9"	22	55913	39.3
+	"West Virginia"	"54"	"69 years"	"69"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	34	55913	60.8
+	"West Virginia"	"54"	"69 years"	"69"	"Malignant neoplasm of rectum"	"C20"	14	55913	Unreliable
+	"West Virginia"	"54"	"69 years"	"69"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	21	55913	37.6
+	"West Virginia"	"54"	"69 years"	"69"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	139	55913	248.6
+	"West Virginia"	"54"	"69 years"	"69"	"Malignant neoplasm of prostate"	"C61"	29	55913	51.9
+	"West Virginia"	"54"	"69 years"	"69"	"Malignant neoplasm of kidney, except renal pelvis"	"C64"	14	55913	Unreliable
+	"West Virginia"	"54"	"69 years"	"69"	"Malignant neoplasm without specification of site"	"C80"	19	55913	Unreliable
+	"West Virginia"	"54"	"69 years"	"69"	"Non-insulin-dependent diabetes mellitus, with renal complications"	"E11.2"	13	55913	Unreliable
+	"West Virginia"	"54"	"69 years"	"69"	"Non-insulin-dependent diabetes mellitus, without complications"	"E11.9"	24	55913	42.9
+	"West Virginia"	"54"	"69 years"	"69"	"Unspecified diabetes mellitus, with renal complications"	"E14.2"	12	55913	Unreliable
+	"West Virginia"	"54"	"69 years"	"69"	"Unspecified diabetes mellitus, without complications"	"E14.9"	26	55913	46.5
+	"West Virginia"	"54"	"69 years"	"69"	"Unspecified dementia"	"F03"	13	55913	Unreliable
+	"West Virginia"	"54"	"69 years"	"69"	"Essential (primary) hypertension"	"I10"	13	55913	Unreliable
+	"West Virginia"	"54"	"69 years"	"69"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	10	55913	Unreliable
+	"West Virginia"	"54"	"69 years"	"69"	"Acute subendocardial myocardial infarction"	"I21.4"	11	55913	Unreliable
+	"West Virginia"	"54"	"69 years"	"69"	"Acute myocardial infarction, unspecified"	"I21.9"	62	55913	110.9
+	"West Virginia"	"54"	"69 years"	"69"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	38	55913	68.0
+	"West Virginia"	"54"	"69 years"	"69"	"Atherosclerotic heart disease"	"I25.1"	113	55913	202.1
+	"West Virginia"	"54"	"69 years"	"69"	"Ischaemic cardiomyopathy"	"I25.5"	11	55913	Unreliable
+	"West Virginia"	"54"	"69 years"	"69"	"Cardiomyopathy, unspecified"	"I42.9"	13	55913	Unreliable
+	"West Virginia"	"54"	"69 years"	"69"	"Congestive heart failure"	"I50.0"	21	55913	37.6
+	"West Virginia"	"54"	"69 years"	"69"	"Stroke, not specified as haemorrhage or infarction"	"I64"	35	55913	62.6
+	"West Virginia"	"54"	"69 years"	"69"	"Pneumonia, unspecified"	"J18.9"	18	55913	Unreliable
+	"West Virginia"	"54"	"69 years"	"69"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	17	55913	Unreliable
+	"West Virginia"	"54"	"69 years"	"69"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	89	55913	159.2
+	"West Virginia"	"54"	"69 years"	"69"	"Other and unspecified cirrhosis of liver"	"K74.6"	17	55913	Unreliable
+	"West Virginia"	"54"	"69 years"	"69"	"Chronic kidney disease, stage 5"	"N18.5"	17	55913	Unreliable
+	"West Virginia"	"54"	"69 years"	"69"	"Unspecified renal failure"	"N19"	12	55913	Unreliable
+	"West Virginia"	"54"	"69 years"	"69"	"Other ill-defined and unspecified causes of mortality"	"R99"	19	55913	Unreliable
+	"West Virginia"	"54"	"69 years"	"69"	"COVID-19"	"U07.1"	16	55913	Unreliable
+	"West Virginia"	"54"	"69 years"	"69"	"Other fall on same level"	"W18"	11	55913	Unreliable
+	"West Virginia"	"54"	"70 years"	"70"	"Septicaemia, unspecified"	"A41.9"	35	51934	67.4
+	"West Virginia"	"54"	"70 years"	"70"	"Oesophagus, unspecified - Malignant neoplasms"	"C15.9"	32	51934	61.6
+	"West Virginia"	"54"	"70 years"	"70"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	21	51934	40.4
+	"West Virginia"	"54"	"70 years"	"70"	"Liver cell carcinoma - Malignant neoplasms"	"C22.0"	11	51934	Unreliable
+	"West Virginia"	"54"	"70 years"	"70"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	30	51934	57.8
+	"West Virginia"	"54"	"70 years"	"70"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	121	51934	233.0
+	"West Virginia"	"54"	"70 years"	"70"	"Malignant neoplasm of prostate"	"C61"	32	51934	61.6
+	"West Virginia"	"54"	"70 years"	"70"	"Bladder, unspecified - Malignant neoplasms"	"C67.9"	13	51934	Unreliable
+	"West Virginia"	"54"	"70 years"	"70"	"Brain, unspecified - Malignant neoplasms"	"C71.9"	20	51934	38.5
+	"West Virginia"	"54"	"70 years"	"70"	"Malignant neoplasm without specification of site"	"C80"	26	51934	50.1
+	"West Virginia"	"54"	"70 years"	"70"	"Acute myeloid leukaemia - Malignant neoplasms"	"C92.0"	10	51934	Unreliable
+	"West Virginia"	"54"	"70 years"	"70"	"Non-insulin-dependent diabetes mellitus, with renal complications"	"E11.2"	10	51934	Unreliable
+	"West Virginia"	"54"	"70 years"	"70"	"Non-insulin-dependent diabetes mellitus, without complications"	"E11.9"	21	51934	40.4
+	"West Virginia"	"54"	"70 years"	"70"	"Unspecified diabetes mellitus, with renal complications"	"E14.2"	13	51934	Unreliable
+	"West Virginia"	"54"	"70 years"	"70"	"Unspecified diabetes mellitus, without complications"	"E14.9"	26	51934	50.1
+	"West Virginia"	"54"	"70 years"	"70"	"Hyperlipidaemia, unspecified"	"E78.5"	11	51934	Unreliable
+	"West Virginia"	"54"	"70 years"	"70"	"Unspecified dementia"	"F03"	14	51934	Unreliable
+	"West Virginia"	"54"	"70 years"	"70"	"Parkinson disease"	"G20"	12	51934	Unreliable
+	"West Virginia"	"54"	"70 years"	"70"	"Alzheimer disease, unspecified"	"G30.9"	19	51934	Unreliable
+	"West Virginia"	"54"	"70 years"	"70"	"Essential (primary) hypertension"	"I10"	12	51934	Unreliable
+	"West Virginia"	"54"	"70 years"	"70"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	18	51934	Unreliable
+	"West Virginia"	"54"	"70 years"	"70"	"Acute myocardial infarction, unspecified"	"I21.9"	47	51934	90.5
+	"West Virginia"	"54"	"70 years"	"70"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	44	51934	84.7
+	"West Virginia"	"54"	"70 years"	"70"	"Atherosclerotic heart disease"	"I25.1"	124	51934	238.8
+	"West Virginia"	"54"	"70 years"	"70"	"Ischaemic cardiomyopathy"	"I25.5"	15	51934	Unreliable
+	"West Virginia"	"54"	"70 years"	"70"	"Cardiomyopathy, unspecified"	"I42.9"	11	51934	Unreliable
+	"West Virginia"	"54"	"70 years"	"70"	"Atrial fibrillation and flutter"	"I48"	11	51934	Unreliable
+	"West Virginia"	"54"	"70 years"	"70"	"Congestive heart failure"	"I50.0"	19	51934	Unreliable
+	"West Virginia"	"54"	"70 years"	"70"	"Intracerebral haemorrhage, unspecified"	"I61.9"	10	51934	Unreliable
+	"West Virginia"	"54"	"70 years"	"70"	"Stroke, not specified as haemorrhage or infarction"	"I64"	26	51934	50.1
+	"West Virginia"	"54"	"70 years"	"70"	"Pneumonia, unspecified"	"J18.9"	21	51934	40.4
+	"West Virginia"	"54"	"70 years"	"70"	"Emphysema, unspecified"	"J43.9"	11	51934	Unreliable
+	"West Virginia"	"54"	"70 years"	"70"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	19	51934	Unreliable
+	"West Virginia"	"54"	"70 years"	"70"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	108	51934	208.0
+	"West Virginia"	"54"	"70 years"	"70"	"Other and unspecified cirrhosis of liver"	"K74.6"	11	51934	Unreliable
+	"West Virginia"	"54"	"70 years"	"70"	"Chronic kidney disease, stage 5"	"N18.5"	18	51934	Unreliable
+	"West Virginia"	"54"	"70 years"	"70"	"Other ill-defined and unspecified causes of mortality"	"R99"	19	51934	Unreliable
+	"West Virginia"	"54"	"70 years"	"70"	"COVID-19"	"U07.1"	21	51934	40.4
+	"West Virginia"	"54"	"70 years"	"70"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	11	51934	Unreliable
+	"West Virginia"	"54"	"71 years"	"71"	"Septicaemia, unspecified"	"A41.9"	28	48368	57.9
+	"West Virginia"	"54"	"71 years"	"71"	"Oesophagus, unspecified - Malignant neoplasms"	"C15.9"	18	48368	Unreliable
+	"West Virginia"	"54"	"71 years"	"71"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	25	48368	51.7
+	"West Virginia"	"54"	"71 years"	"71"	"Malignant neoplasm of rectum"	"C20"	10	48368	Unreliable
+	"West Virginia"	"54"	"71 years"	"71"	"Liver cell carcinoma - Malignant neoplasms"	"C22.0"	10	48368	Unreliable
+	"West Virginia"	"54"	"71 years"	"71"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	23	48368	47.6
+	"West Virginia"	"54"	"71 years"	"71"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	154	48368	318.4
+	"West Virginia"	"54"	"71 years"	"71"	"Malignant neoplasm of prostate"	"C61"	26	48368	53.8
+	"West Virginia"	"54"	"71 years"	"71"	"Malignant neoplasm of kidney, except renal pelvis"	"C64"	10	48368	Unreliable
+	"West Virginia"	"54"	"71 years"	"71"	"Bladder, unspecified - Malignant neoplasms"	"C67.9"	14	48368	Unreliable
+	"West Virginia"	"54"	"71 years"	"71"	"Malignant neoplasm without specification of site"	"C80"	24	48368	49.6
+	"West Virginia"	"54"	"71 years"	"71"	"Non-insulin-dependent diabetes mellitus, with renal complications"	"E11.2"	13	48368	Unreliable
+	"West Virginia"	"54"	"71 years"	"71"	"Non-insulin-dependent diabetes mellitus, without complications"	"E11.9"	17	48368	Unreliable
+	"West Virginia"	"54"	"71 years"	"71"	"Unspecified diabetes mellitus, with renal complications"	"E14.2"	11	48368	Unreliable
+	"West Virginia"	"54"	"71 years"	"71"	"Unspecified diabetes mellitus, without complications"	"E14.9"	25	48368	51.7
+	"West Virginia"	"54"	"71 years"	"71"	"Hyperlipidaemia, unspecified"	"E78.5"	10	48368	Unreliable
+	"West Virginia"	"54"	"71 years"	"71"	"Unspecified dementia"	"F03"	14	48368	Unreliable
+	"West Virginia"	"54"	"71 years"	"71"	"Parkinson disease"	"G20"	12	48368	Unreliable
+	"West Virginia"	"54"	"71 years"	"71"	"Essential (primary) hypertension"	"I10"	12	48368	Unreliable
+	"West Virginia"	"54"	"71 years"	"71"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	10	48368	Unreliable
+	"West Virginia"	"54"	"71 years"	"71"	"Acute subendocardial myocardial infarction"	"I21.4"	10	48368	Unreliable
+	"West Virginia"	"54"	"71 years"	"71"	"Acute myocardial infarction, unspecified"	"I21.9"	62	48368	128.2
+	"West Virginia"	"54"	"71 years"	"71"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	28	48368	57.9
+	"West Virginia"	"54"	"71 years"	"71"	"Atherosclerotic heart disease"	"I25.1"	129	48368	266.7
+	"West Virginia"	"54"	"71 years"	"71"	"Ischaemic cardiomyopathy"	"I25.5"	11	48368	Unreliable
+	"West Virginia"	"54"	"71 years"	"71"	"Cardiomyopathy, unspecified"	"I42.9"	12	48368	Unreliable
+	"West Virginia"	"54"	"71 years"	"71"	"Congestive heart failure"	"I50.0"	10	48368	Unreliable
+	"West Virginia"	"54"	"71 years"	"71"	"Heart disease, unspecified"	"I51.9"	10	48368	Unreliable
+	"West Virginia"	"54"	"71 years"	"71"	"Stroke, not specified as haemorrhage or infarction"	"I64"	25	48368	51.7
+	"West Virginia"	"54"	"71 years"	"71"	"Pneumonia, unspecified"	"J18.9"	25	48368	51.7
+	"West Virginia"	"54"	"71 years"	"71"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	18	48368	Unreliable
+	"West Virginia"	"54"	"71 years"	"71"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	98	48368	202.6
+	"West Virginia"	"54"	"71 years"	"71"	"Alcoholic cirrhosis of liver"	"K70.3"	10	48368	Unreliable
+	"West Virginia"	"54"	"71 years"	"71"	"Other and unspecified cirrhosis of liver"	"K74.6"	13	48368	Unreliable
+	"West Virginia"	"54"	"71 years"	"71"	"Chronic kidney disease, stage 5"	"N18.5"	11	48368	Unreliable
+	"West Virginia"	"54"	"71 years"	"71"	"Other ill-defined and unspecified causes of mortality"	"R99"	17	48368	Unreliable
+	"West Virginia"	"54"	"71 years"	"71"	"COVID-19"	"U07.1"	17	48368	Unreliable
+	"West Virginia"	"54"	"72 years"	"72"	"Septicaemia, unspecified"	"A41.9"	29	44215	65.6
+	"West Virginia"	"54"	"72 years"	"72"	"Oesophagus, unspecified - Malignant neoplasms"	"C15.9"	19	44215	Unreliable
+	"West Virginia"	"54"	"72 years"	"72"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	16	44215	Unreliable
+	"West Virginia"	"54"	"72 years"	"72"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	26	44215	58.8
+	"West Virginia"	"54"	"72 years"	"72"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	142	44215	321.2
+	"West Virginia"	"54"	"72 years"	"72"	"Malignant neoplasm of prostate"	"C61"	25	44215	56.5
+	"West Virginia"	"54"	"72 years"	"72"	"Bladder, unspecified - Malignant neoplasms"	"C67.9"	13	44215	Unreliable
+	"West Virginia"	"54"	"72 years"	"72"	"Malignant neoplasm without specification of site"	"C80"	25	44215	56.5
+	"West Virginia"	"54"	"72 years"	"72"	"Non-insulin-dependent diabetes mellitus, without complications"	"E11.9"	29	44215	65.6
+	"West Virginia"	"54"	"72 years"	"72"	"Unspecified diabetes mellitus, without complications"	"E14.9"	26	44215	58.8
+	"West Virginia"	"54"	"72 years"	"72"	"Hyperlipidaemia, unspecified"	"E78.5"	12	44215	Unreliable
+	"West Virginia"	"54"	"72 years"	"72"	"Unspecified dementia"	"F03"	23	44215	52.0
+	"West Virginia"	"54"	"72 years"	"72"	"Parkinson disease"	"G20"	14	44215	Unreliable
+	"West Virginia"	"54"	"72 years"	"72"	"Alzheimer disease, unspecified"	"G30.9"	16	44215	Unreliable
+	"West Virginia"	"54"	"72 years"	"72"	"Acute myocardial infarction, unspecified"	"I21.9"	64	44215	144.7
+	"West Virginia"	"54"	"72 years"	"72"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	37	44215	83.7
+	"West Virginia"	"54"	"72 years"	"72"	"Atherosclerotic heart disease"	"I25.1"	101	44215	228.4
+	"West Virginia"	"54"	"72 years"	"72"	"Cardiomyopathy, unspecified"	"I42.9"	12	44215	Unreliable
+	"West Virginia"	"54"	"72 years"	"72"	"Atrial fibrillation and flutter"	"I48"	12	44215	Unreliable
+	"West Virginia"	"54"	"72 years"	"72"	"Congestive heart failure"	"I50.0"	24	44215	54.3
+	"West Virginia"	"54"	"72 years"	"72"	"Stroke, not specified as haemorrhage or infarction"	"I64"	26	44215	58.8
+	"West Virginia"	"54"	"72 years"	"72"	"Pneumonia, unspecified"	"J18.9"	20	44215	45.2
+	"West Virginia"	"54"	"72 years"	"72"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	15	44215	Unreliable
+	"West Virginia"	"54"	"72 years"	"72"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	113	44215	255.6
+	"West Virginia"	"54"	"72 years"	"72"	"Other interstitial pulmonary diseases with fibrosis"	"J84.1"	14	44215	Unreliable
+	"West Virginia"	"54"	"72 years"	"72"	"Other and unspecified cirrhosis of liver"	"K74.6"	15	44215	Unreliable
+	"West Virginia"	"54"	"72 years"	"72"	"Chronic kidney disease, stage 5"	"N18.5"	16	44215	Unreliable
+	"West Virginia"	"54"	"72 years"	"72"	"Other ill-defined and unspecified causes of mortality"	"R99"	21	44215	47.5
+	"West Virginia"	"54"	"72 years"	"72"	"COVID-19"	"U07.1"	24	44215	54.3
+	"West Virginia"	"54"	"72 years"	"72"	"Other fall on same level"	"W18"	15	44215	Unreliable
+	"West Virginia"	"54"	"72 years"	"72"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	10	44215	Unreliable
+	"West Virginia"	"54"	"73 years"	"73"	"Septicaemia, unspecified"	"A41.9"	22	41138	53.5
+	"West Virginia"	"54"	"73 years"	"73"	"Oesophagus, unspecified - Malignant neoplasms"	"C15.9"	23	41138	55.9
+	"West Virginia"	"54"	"73 years"	"73"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	30	41138	72.9
+	"West Virginia"	"54"	"73 years"	"73"	"Liver cell carcinoma - Malignant neoplasms"	"C22.0"	10	41138	Unreliable
+	"West Virginia"	"54"	"73 years"	"73"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	19	41138	Unreliable
+	"West Virginia"	"54"	"73 years"	"73"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	135	41138	328.2
+	"West Virginia"	"54"	"73 years"	"73"	"Malignant neoplasm of prostate"	"C61"	29	41138	70.5
+	"West Virginia"	"54"	"73 years"	"73"	"Malignant neoplasm of kidney, except renal pelvis"	"C64"	12	41138	Unreliable
+	"West Virginia"	"54"	"73 years"	"73"	"Bladder, unspecified - Malignant neoplasms"	"C67.9"	13	41138	Unreliable
+	"West Virginia"	"54"	"73 years"	"73"	"Malignant neoplasm without specification of site"	"C80"	18	41138	Unreliable
+	"West Virginia"	"54"	"73 years"	"73"	"Non-insulin-dependent diabetes mellitus, without complications"	"E11.9"	12	41138	Unreliable
+	"West Virginia"	"54"	"73 years"	"73"	"Unspecified diabetes mellitus, with renal complications"	"E14.2"	10	41138	Unreliable
+	"West Virginia"	"54"	"73 years"	"73"	"Unspecified diabetes mellitus, without complications"	"E14.9"	25	41138	60.8
+	"West Virginia"	"54"	"73 years"	"73"	"Unspecified dementia"	"F03"	22	41138	53.5
+	"West Virginia"	"54"	"73 years"	"73"	"Parkinson disease"	"G20"	15	41138	Unreliable
+	"West Virginia"	"54"	"73 years"	"73"	"Alzheimer disease, unspecified"	"G30.9"	23	41138	55.9
+	"West Virginia"	"54"	"73 years"	"73"	"Essential (primary) hypertension"	"I10"	21	41138	51.0
+	"West Virginia"	"54"	"73 years"	"73"	"Acute myocardial infarction, unspecified"	"I21.9"	68	41138	165.3
+	"West Virginia"	"54"	"73 years"	"73"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	34	41138	82.6
+	"West Virginia"	"54"	"73 years"	"73"	"Atherosclerotic heart disease"	"I25.1"	130	41138	316.0
+	"West Virginia"	"54"	"73 years"	"73"	"Ischaemic cardiomyopathy"	"I25.5"	13	41138	Unreliable
+	"West Virginia"	"54"	"73 years"	"73"	"Cardiomyopathy, unspecified"	"I42.9"	12	41138	Unreliable
+	"West Virginia"	"54"	"73 years"	"73"	"Congestive heart failure"	"I50.0"	25	41138	60.8
+	"West Virginia"	"54"	"73 years"	"73"	"Stroke, not specified as haemorrhage or infarction"	"I64"	33	41138	80.2
+	"West Virginia"	"54"	"73 years"	"73"	"Pneumonia, unspecified"	"J18.9"	17	41138	Unreliable
+	"West Virginia"	"54"	"73 years"	"73"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	24	41138	58.3
+	"West Virginia"	"54"	"73 years"	"73"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	105	41138	255.2
+	"West Virginia"	"54"	"73 years"	"73"	"Other interstitial pulmonary diseases with fibrosis"	"J84.1"	15	41138	Unreliable
+	"West Virginia"	"54"	"73 years"	"73"	"Other and unspecified cirrhosis of liver"	"K74.6"	18	41138	Unreliable
+	"West Virginia"	"54"	"73 years"	"73"	"Chronic kidney disease, stage 5"	"N18.5"	12	41138	Unreliable
+	"West Virginia"	"54"	"73 years"	"73"	"Other ill-defined and unspecified causes of mortality"	"R99"	13	41138	Unreliable
+	"West Virginia"	"54"	"73 years"	"73"	"COVID-19"	"U07.1"	36	41138	87.5
+	"West Virginia"	"54"	"73 years"	"73"	"Other fall on same level"	"W18"	12	41138	Unreliable
+	"West Virginia"	"54"	"74 years"	"74"	"Septicaemia, unspecified"	"A41.9"	19	36201	Unreliable
+	"West Virginia"	"54"	"74 years"	"74"	"Oesophagus, unspecified - Malignant neoplasms"	"C15.9"	19	36201	Unreliable
+	"West Virginia"	"54"	"74 years"	"74"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	17	36201	Unreliable
+	"West Virginia"	"54"	"74 years"	"74"	"Liver, unspecified - Malignant neoplasms"	"C22.9"	10	36201	Unreliable
+	"West Virginia"	"54"	"74 years"	"74"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	23	36201	63.5
+	"West Virginia"	"54"	"74 years"	"74"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	135	36201	372.9
+	"West Virginia"	"54"	"74 years"	"74"	"Malignant neoplasm of prostate"	"C61"	31	36201	85.6
+	"West Virginia"	"54"	"74 years"	"74"	"Malignant neoplasm of kidney, except renal pelvis"	"C64"	10	36201	Unreliable
+	"West Virginia"	"54"	"74 years"	"74"	"Bladder, unspecified - Malignant neoplasms"	"C67.9"	20	36201	55.2
+	"West Virginia"	"54"	"74 years"	"74"	"Malignant neoplasm without specification of site"	"C80"	18	36201	Unreliable
+	"West Virginia"	"54"	"74 years"	"74"	"Multiple myeloma - Malignant neoplasms"	"C90.0"	13	36201	Unreliable
+	"West Virginia"	"54"	"74 years"	"74"	"Non-insulin-dependent diabetes mellitus, with renal complications"	"E11.2"	12	36201	Unreliable
+	"West Virginia"	"54"	"74 years"	"74"	"Non-insulin-dependent diabetes mellitus, without complications"	"E11.9"	30	36201	82.9
+	"West Virginia"	"54"	"74 years"	"74"	"Unspecified diabetes mellitus, without complications"	"E14.9"	32	36201	88.4
+	"West Virginia"	"54"	"74 years"	"74"	"Hyperlipidaemia, unspecified"	"E78.5"	10	36201	Unreliable
+	"West Virginia"	"54"	"74 years"	"74"	"Unspecified dementia"	"F03"	28	36201	77.3
+	"West Virginia"	"54"	"74 years"	"74"	"Parkinson disease"	"G20"	19	36201	Unreliable
+	"West Virginia"	"54"	"74 years"	"74"	"Alzheimer disease, unspecified"	"G30.9"	18	36201	Unreliable
+	"West Virginia"	"54"	"74 years"	"74"	"Essential (primary) hypertension"	"I10"	10	36201	Unreliable
+	"West Virginia"	"54"	"74 years"	"74"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	11	36201	Unreliable
+	"West Virginia"	"54"	"74 years"	"74"	"Acute subendocardial myocardial infarction"	"I21.4"	10	36201	Unreliable
+	"West Virginia"	"54"	"74 years"	"74"	"Acute myocardial infarction, unspecified"	"I21.9"	57	36201	157.5
+	"West Virginia"	"54"	"74 years"	"74"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	32	36201	88.4
+	"West Virginia"	"54"	"74 years"	"74"	"Atherosclerotic heart disease"	"I25.1"	138	36201	381.2
+	"West Virginia"	"54"	"74 years"	"74"	"Atrial fibrillation and flutter"	"I48"	14	36201	Unreliable
+	"West Virginia"	"54"	"74 years"	"74"	"Congestive heart failure"	"I50.0"	28	36201	77.3
+	"West Virginia"	"54"	"74 years"	"74"	"Stroke, not specified as haemorrhage or infarction"	"I64"	41	36201	113.3
+	"West Virginia"	"54"	"74 years"	"74"	"Pneumonia, unspecified"	"J18.9"	18	36201	Unreliable
+	"West Virginia"	"54"	"74 years"	"74"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	19	36201	Unreliable
+	"West Virginia"	"54"	"74 years"	"74"	"Chronic obstructive pulmonary disease with acute exacerbation, unspecified"	"J44.1"	10	36201	Unreliable
+	"West Virginia"	"54"	"74 years"	"74"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	113	36201	312.1
+	"West Virginia"	"54"	"74 years"	"74"	"Pneumonitis due to food and vomit"	"J69.0"	12	36201	Unreliable
+	"West Virginia"	"54"	"74 years"	"74"	"Other and unspecified cirrhosis of liver"	"K74.6"	16	36201	Unreliable
+	"West Virginia"	"54"	"74 years"	"74"	"Other ill-defined and unspecified causes of mortality"	"R99"	25	36201	69.1
+	"West Virginia"	"54"	"74 years"	"74"	"COVID-19"	"U07.1"	18	36201	Unreliable
+	"West Virginia"	"54"	"74 years"	"74"	"Other fall on same level"	"W18"	13	36201	Unreliable
+	"West Virginia"	"54"	"75 years"	"75"	"Septicaemia, unspecified"	"A41.9"	23	34242	67.2
+	"West Virginia"	"54"	"75 years"	"75"	"Oesophagus, unspecified - Malignant neoplasms"	"C15.9"	21	34242	61.3
+	"West Virginia"	"54"	"75 years"	"75"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	24	34242	70.1
+	"West Virginia"	"54"	"75 years"	"75"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	25	34242	73.0
+	"West Virginia"	"54"	"75 years"	"75"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	138	34242	403.0
+	"West Virginia"	"54"	"75 years"	"75"	"Malignant neoplasm of prostate"	"C61"	29	34242	84.7
+	"West Virginia"	"54"	"75 years"	"75"	"Malignant neoplasm of kidney, except renal pelvis"	"C64"	10	34242	Unreliable
+	"West Virginia"	"54"	"75 years"	"75"	"Bladder, unspecified - Malignant neoplasms"	"C67.9"	20	34242	58.4
+	"West Virginia"	"54"	"75 years"	"75"	"Malignant neoplasm without specification of site"	"C80"	17	34242	Unreliable
+	"West Virginia"	"54"	"75 years"	"75"	"Non-Hodgkin lymphoma, unspecified type"	"C85.9"	10	34242	Unreliable
+	"West Virginia"	"54"	"75 years"	"75"	"Non-insulin-dependent diabetes mellitus, without complications"	"E11.9"	10	34242	Unreliable
+	"West Virginia"	"54"	"75 years"	"75"	"Unspecified diabetes mellitus, with renal complications"	"E14.2"	13	34242	Unreliable
+	"West Virginia"	"54"	"75 years"	"75"	"Unspecified diabetes mellitus, without complications"	"E14.9"	27	34242	78.9
+	"West Virginia"	"54"	"75 years"	"75"	"Unspecified dementia"	"F03"	22	34242	64.2
+	"West Virginia"	"54"	"75 years"	"75"	"Parkinson disease"	"G20"	23	34242	67.2
+	"West Virginia"	"54"	"75 years"	"75"	"Alzheimer disease, unspecified"	"G30.9"	40	34242	116.8
+	"West Virginia"	"54"	"75 years"	"75"	"Essential (primary) hypertension"	"I10"	11	34242	Unreliable
+	"West Virginia"	"54"	"75 years"	"75"	"Acute subendocardial myocardial infarction"	"I21.4"	12	34242	Unreliable
+	"West Virginia"	"54"	"75 years"	"75"	"Acute myocardial infarction, unspecified"	"I21.9"	63	34242	184.0
+	"West Virginia"	"54"	"75 years"	"75"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	36	34242	105.1
+	"West Virginia"	"54"	"75 years"	"75"	"Atherosclerotic heart disease"	"I25.1"	107	34242	312.5
+	"West Virginia"	"54"	"75 years"	"75"	"Atrial fibrillation and flutter"	"I48"	15	34242	Unreliable
+	"West Virginia"	"54"	"75 years"	"75"	"Congestive heart failure"	"I50.0"	27	34242	78.9
+	"West Virginia"	"54"	"75 years"	"75"	"Stroke, not specified as haemorrhage or infarction"	"I64"	33	34242	96.4
+	"West Virginia"	"54"	"75 years"	"75"	"Pneumonia, unspecified"	"J18.9"	14	34242	Unreliable
+	"West Virginia"	"54"	"75 years"	"75"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	25	34242	73.0
+	"West Virginia"	"54"	"75 years"	"75"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	101	34242	295.0
+	"West Virginia"	"54"	"75 years"	"75"	"Pneumonitis due to food and vomit"	"J69.0"	12	34242	Unreliable
+	"West Virginia"	"54"	"75 years"	"75"	"Other and unspecified cirrhosis of liver"	"K74.6"	12	34242	Unreliable
+	"West Virginia"	"54"	"75 years"	"75"	"Chronic kidney disease, stage 5"	"N18.5"	15	34242	Unreliable
+	"West Virginia"	"54"	"75 years"	"75"	"Other ill-defined and unspecified causes of mortality"	"R99"	15	34242	Unreliable
+	"West Virginia"	"54"	"75 years"	"75"	"COVID-19"	"U07.1"	19	34242	Unreliable
+	"West Virginia"	"54"	"76 years"	"76"	"Septicaemia, unspecified"	"A41.9"	20	31646	63.2
+	"West Virginia"	"54"	"76 years"	"76"	"Oesophagus, unspecified - Malignant neoplasms"	"C15.9"	10	31646	Unreliable
+	"West Virginia"	"54"	"76 years"	"76"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	26	31646	82.2
+	"West Virginia"	"54"	"76 years"	"76"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	32	31646	101.1
+	"West Virginia"	"54"	"76 years"	"76"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	125	31646	395.0
+	"West Virginia"	"54"	"76 years"	"76"	"Malignant neoplasm of prostate"	"C61"	29	31646	91.6
+	"West Virginia"	"54"	"76 years"	"76"	"Malignant neoplasm of kidney, except renal pelvis"	"C64"	11	31646	Unreliable
+	"West Virginia"	"54"	"76 years"	"76"	"Bladder, unspecified - Malignant neoplasms"	"C67.9"	17	31646	Unreliable
+	"West Virginia"	"54"	"76 years"	"76"	"Malignant neoplasm without specification of site"	"C80"	25	31646	79.0
+	"West Virginia"	"54"	"76 years"	"76"	"Non-Hodgkin lymphoma, unspecified type"	"C85.9"	14	31646	Unreliable
+	"West Virginia"	"54"	"76 years"	"76"	"Non-insulin-dependent diabetes mellitus, without complications"	"E11.9"	25	31646	79.0
+	"West Virginia"	"54"	"76 years"	"76"	"Unspecified diabetes mellitus, with renal complications"	"E14.2"	10	31646	Unreliable
+	"West Virginia"	"54"	"76 years"	"76"	"Unspecified diabetes mellitus, without complications"	"E14.9"	23	31646	72.7
+	"West Virginia"	"54"	"76 years"	"76"	"Hyperlipidaemia, unspecified"	"E78.5"	15	31646	Unreliable
+	"West Virginia"	"54"	"76 years"	"76"	"Unspecified dementia"	"F03"	34	31646	107.4
+	"West Virginia"	"54"	"76 years"	"76"	"Parkinson disease"	"G20"	20	31646	63.2
+	"West Virginia"	"54"	"76 years"	"76"	"Alzheimer disease, unspecified"	"G30.9"	38	31646	120.1
+	"West Virginia"	"54"	"76 years"	"76"	"Essential (primary) hypertension"	"I10"	14	31646	Unreliable
+	"West Virginia"	"54"	"76 years"	"76"	"Hypertensive renal disease with renal failure"	"I12.0"	11	31646	Unreliable
+	"West Virginia"	"54"	"76 years"	"76"	"Acute subendocardial myocardial infarction"	"I21.4"	10	31646	Unreliable
+	"West Virginia"	"54"	"76 years"	"76"	"Acute myocardial infarction, unspecified"	"I21.9"	62	31646	195.9
+	"West Virginia"	"54"	"76 years"	"76"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	26	31646	82.2
+	"West Virginia"	"54"	"76 years"	"76"	"Atherosclerotic heart disease"	"I25.1"	119	31646	376.0
+	"West Virginia"	"54"	"76 years"	"76"	"Ischaemic cardiomyopathy"	"I25.5"	11	31646	Unreliable
+	"West Virginia"	"54"	"76 years"	"76"	"Cardiomyopathy, unspecified"	"I42.9"	11	31646	Unreliable
+	"West Virginia"	"54"	"76 years"	"76"	"Atrial fibrillation and flutter"	"I48"	16	31646	Unreliable
+	"West Virginia"	"54"	"76 years"	"76"	"Congestive heart failure"	"I50.0"	25	31646	79.0
+	"West Virginia"	"54"	"76 years"	"76"	"Intracerebral haemorrhage, unspecified"	"I61.9"	11	31646	Unreliable
+	"West Virginia"	"54"	"76 years"	"76"	"Stroke, not specified as haemorrhage or infarction"	"I64"	34	31646	107.4
+	"West Virginia"	"54"	"76 years"	"76"	"Pneumonia, unspecified"	"J18.9"	34	31646	107.4
+	"West Virginia"	"54"	"76 years"	"76"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	23	31646	72.7
+	"West Virginia"	"54"	"76 years"	"76"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	107	31646	338.1
+	"West Virginia"	"54"	"76 years"	"76"	"Pneumonitis due to food and vomit"	"J69.0"	14	31646	Unreliable
+	"West Virginia"	"54"	"76 years"	"76"	"Other interstitial pulmonary diseases with fibrosis"	"J84.1"	19	31646	Unreliable
+	"West Virginia"	"54"	"76 years"	"76"	"Other and unspecified cirrhosis of liver"	"K74.6"	17	31646	Unreliable
+	"West Virginia"	"54"	"76 years"	"76"	"Acute renal failure, unspecified"	"N17.9"	11	31646	Unreliable
+	"West Virginia"	"54"	"76 years"	"76"	"Chronic kidney disease, stage 5"	"N18.5"	19	31646	Unreliable
+	"West Virginia"	"54"	"76 years"	"76"	"Other ill-defined and unspecified causes of mortality"	"R99"	17	31646	Unreliable
+	"West Virginia"	"54"	"76 years"	"76"	"COVID-19"	"U07.1"	25	31646	79.0
+	"West Virginia"	"54"	"76 years"	"76"	"Other fall on same level"	"W18"	23	31646	72.7
+	"West Virginia"	"54"	"77 years"	"77"	"Septicaemia, unspecified"	"A41.9"	17	29269	Unreliable
+	"West Virginia"	"54"	"77 years"	"77"	"Oesophagus, unspecified - Malignant neoplasms"	"C15.9"	13	29269	Unreliable
+	"West Virginia"	"54"	"77 years"	"77"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	14	29269	Unreliable
+	"West Virginia"	"54"	"77 years"	"77"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	25	29269	85.4
+	"West Virginia"	"54"	"77 years"	"77"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	120	29269	410.0
+	"West Virginia"	"54"	"77 years"	"77"	"Malignant neoplasm of prostate"	"C61"	40	29269	136.7
+	"West Virginia"	"54"	"77 years"	"77"	"Bladder, unspecified - Malignant neoplasms"	"C67.9"	20	29269	68.3
+	"West Virginia"	"54"	"77 years"	"77"	"Malignant neoplasm without specification of site"	"C80"	24	29269	82.0
+	"West Virginia"	"54"	"77 years"	"77"	"Multiple myeloma - Malignant neoplasms"	"C90.0"	10	29269	Unreliable
+	"West Virginia"	"54"	"77 years"	"77"	"Acute myeloid leukaemia - Malignant neoplasms"	"C92.0"	11	29269	Unreliable
+	"West Virginia"	"54"	"77 years"	"77"	"Non-insulin-dependent diabetes mellitus, without complications"	"E11.9"	15	29269	Unreliable
+	"West Virginia"	"54"	"77 years"	"77"	"Unspecified diabetes mellitus, with renal complications"	"E14.2"	12	29269	Unreliable
+	"West Virginia"	"54"	"77 years"	"77"	"Unspecified diabetes mellitus, without complications"	"E14.9"	27	29269	92.2
+	"West Virginia"	"54"	"77 years"	"77"	"Hyperlipidaemia, unspecified"	"E78.5"	10	29269	Unreliable
+	"West Virginia"	"54"	"77 years"	"77"	"Unspecified dementia"	"F03"	40	29269	136.7
+	"West Virginia"	"54"	"77 years"	"77"	"Parkinson disease"	"G20"	29	29269	99.1
+	"West Virginia"	"54"	"77 years"	"77"	"Alzheimer disease, unspecified"	"G30.9"	34	29269	116.2
+	"West Virginia"	"54"	"77 years"	"77"	"Acute myocardial infarction, unspecified"	"I21.9"	57	29269	194.7
+	"West Virginia"	"54"	"77 years"	"77"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	37	29269	126.4
+	"West Virginia"	"54"	"77 years"	"77"	"Atherosclerotic heart disease"	"I25.1"	132	29269	451.0
+	"West Virginia"	"54"	"77 years"	"77"	"Congestive heart failure"	"I50.0"	30	29269	102.5
+	"West Virginia"	"54"	"77 years"	"77"	"Stroke, not specified as haemorrhage or infarction"	"I64"	29	29269	99.1
+	"West Virginia"	"54"	"77 years"	"77"	"Pneumonia, unspecified"	"J18.9"	27	29269	92.2
+	"West Virginia"	"54"	"77 years"	"77"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	20	29269	68.3
+	"West Virginia"	"54"	"77 years"	"77"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	115	29269	392.9
+	"West Virginia"	"54"	"77 years"	"77"	"Pneumonitis due to food and vomit"	"J69.0"	10	29269	Unreliable
+	"West Virginia"	"54"	"77 years"	"77"	"Other interstitial pulmonary diseases with fibrosis"	"J84.1"	15	29269	Unreliable
+	"West Virginia"	"54"	"77 years"	"77"	"Other and unspecified cirrhosis of liver"	"K74.6"	14	29269	Unreliable
+	"West Virginia"	"54"	"77 years"	"77"	"Chronic kidney disease, stage 5"	"N18.5"	13	29269	Unreliable
+	"West Virginia"	"54"	"77 years"	"77"	"Urinary tract infection, site not specified"	"N39.0"	12	29269	Unreliable
+	"West Virginia"	"54"	"77 years"	"77"	"Other ill-defined and unspecified causes of mortality"	"R99"	16	29269	Unreliable
+	"West Virginia"	"54"	"77 years"	"77"	"COVID-19"	"U07.1"	26	29269	88.8
+	"West Virginia"	"54"	"77 years"	"77"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	10	29269	Unreliable
+	"West Virginia"	"54"	"78 years"	"78"	"Septicaemia, unspecified"	"A41.9"	18	26456	Unreliable
+	"West Virginia"	"54"	"78 years"	"78"	"Oesophagus, unspecified - Malignant neoplasms"	"C15.9"	21	26456	79.4
+	"West Virginia"	"54"	"78 years"	"78"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	22	26456	83.2
+	"West Virginia"	"54"	"78 years"	"78"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	21	26456	79.4
+	"West Virginia"	"54"	"78 years"	"78"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	103	26456	389.3
+	"West Virginia"	"54"	"78 years"	"78"	"Malignant neoplasm of prostate"	"C61"	30	26456	113.4
+	"West Virginia"	"54"	"78 years"	"78"	"Malignant neoplasm of kidney, except renal pelvis"	"C64"	11	26456	Unreliable
+	"West Virginia"	"54"	"78 years"	"78"	"Bladder, unspecified - Malignant neoplasms"	"C67.9"	19	26456	Unreliable
+	"West Virginia"	"54"	"78 years"	"78"	"Malignant neoplasm without specification of site"	"C80"	13	26456	Unreliable
+	"West Virginia"	"54"	"78 years"	"78"	"Non-Hodgkin lymphoma, unspecified type"	"C85.9"	13	26456	Unreliable
+	"West Virginia"	"54"	"78 years"	"78"	"Multiple myeloma - Malignant neoplasms"	"C90.0"	14	26456	Unreliable
+	"West Virginia"	"54"	"78 years"	"78"	"Non-insulin-dependent diabetes mellitus, with renal complications"	"E11.2"	10	26456	Unreliable
+	"West Virginia"	"54"	"78 years"	"78"	"Non-insulin-dependent diabetes mellitus, without complications"	"E11.9"	14	26456	Unreliable
+	"West Virginia"	"54"	"78 years"	"78"	"Unspecified diabetes mellitus, without complications"	"E14.9"	21	26456	79.4
+	"West Virginia"	"54"	"78 years"	"78"	"Unspecified dementia"	"F03"	33	26456	124.7
+	"West Virginia"	"54"	"78 years"	"78"	"Parkinson disease"	"G20"	31	26456	117.2
+	"West Virginia"	"54"	"78 years"	"78"	"Alzheimer disease, unspecified"	"G30.9"	27	26456	102.1
+	"West Virginia"	"54"	"78 years"	"78"	"Acute subendocardial myocardial infarction"	"I21.4"	10	26456	Unreliable
+	"West Virginia"	"54"	"78 years"	"78"	"Acute myocardial infarction, unspecified"	"I21.9"	56	26456	211.7
+	"West Virginia"	"54"	"78 years"	"78"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	27	26456	102.1
+	"West Virginia"	"54"	"78 years"	"78"	"Atherosclerotic heart disease"	"I25.1"	131	26456	495.2
+	"West Virginia"	"54"	"78 years"	"78"	"Cardiomyopathy, unspecified"	"I42.9"	12	26456	Unreliable
+	"West Virginia"	"54"	"78 years"	"78"	"Atrial fibrillation and flutter"	"I48"	11	26456	Unreliable
+	"West Virginia"	"54"	"78 years"	"78"	"Congestive heart failure"	"I50.0"	29	26456	109.6
+	"West Virginia"	"54"	"78 years"	"78"	"Intracerebral haemorrhage, unspecified"	"I61.9"	11	26456	Unreliable
+	"West Virginia"	"54"	"78 years"	"78"	"Stroke, not specified as haemorrhage or infarction"	"I64"	28	26456	105.8
+	"West Virginia"	"54"	"78 years"	"78"	"Pneumonia, unspecified"	"J18.9"	19	26456	Unreliable
+	"West Virginia"	"54"	"78 years"	"78"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	12	26456	Unreliable
+	"West Virginia"	"54"	"78 years"	"78"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	100	26456	378.0
+	"West Virginia"	"54"	"78 years"	"78"	"Other interstitial pulmonary diseases with fibrosis"	"J84.1"	16	26456	Unreliable
+	"West Virginia"	"54"	"78 years"	"78"	"Other and unspecified cirrhosis of liver"	"K74.6"	14	26456	Unreliable
+	"West Virginia"	"54"	"78 years"	"78"	"Chronic kidney disease, stage 5"	"N18.5"	17	26456	Unreliable
+	"West Virginia"	"54"	"78 years"	"78"	"Urinary tract infection, site not specified"	"N39.0"	10	26456	Unreliable
+	"West Virginia"	"54"	"78 years"	"78"	"Other ill-defined and unspecified causes of mortality"	"R99"	16	26456	Unreliable
+	"West Virginia"	"54"	"78 years"	"78"	"COVID-19"	"U07.1"	31	26456	117.2
+	"West Virginia"	"54"	"78 years"	"78"	"Other fall on same level"	"W18"	16	26456	Unreliable
+	"West Virginia"	"54"	"79 years"	"79"	"Septicaemia, unspecified"	"A41.9"	26	24270	107.1
+	"West Virginia"	"54"	"79 years"	"79"	"Oesophagus, unspecified - Malignant neoplasms"	"C15.9"	15	24270	Unreliable
+	"West Virginia"	"54"	"79 years"	"79"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	22	24270	90.6
+	"West Virginia"	"54"	"79 years"	"79"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	21	24270	86.5
+	"West Virginia"	"54"	"79 years"	"79"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	107	24270	440.9
+	"West Virginia"	"54"	"79 years"	"79"	"Malignant neoplasm of prostate"	"C61"	41	24270	168.9
+	"West Virginia"	"54"	"79 years"	"79"	"Bladder, unspecified - Malignant neoplasms"	"C67.9"	13	24270	Unreliable
+	"West Virginia"	"54"	"79 years"	"79"	"Malignant neoplasm without specification of site"	"C80"	20	24270	82.4
+	"West Virginia"	"54"	"79 years"	"79"	"Non-Hodgkin lymphoma, unspecified type"	"C85.9"	10	24270	Unreliable
+	"West Virginia"	"54"	"79 years"	"79"	"Non-insulin-dependent diabetes mellitus, with renal complications"	"E11.2"	11	24270	Unreliable
+	"West Virginia"	"54"	"79 years"	"79"	"Non-insulin-dependent diabetes mellitus, without complications"	"E11.9"	16	24270	Unreliable
+	"West Virginia"	"54"	"79 years"	"79"	"Unspecified diabetes mellitus, with renal complications"	"E14.2"	10	24270	Unreliable
+	"West Virginia"	"54"	"79 years"	"79"	"Unspecified diabetes mellitus, without complications"	"E14.9"	25	24270	103.0
+	"West Virginia"	"54"	"79 years"	"79"	"Unspecified dementia"	"F03"	55	24270	226.6
+	"West Virginia"	"54"	"79 years"	"79"	"Parkinson disease"	"G20"	35	24270	144.2
+	"West Virginia"	"54"	"79 years"	"79"	"Alzheimer disease, unspecified"	"G30.9"	42	24270	173.1
+	"West Virginia"	"54"	"79 years"	"79"	"Essential (primary) hypertension"	"I10"	14	24270	Unreliable
+	"West Virginia"	"54"	"79 years"	"79"	"Acute myocardial infarction, unspecified"	"I21.9"	63	24270	259.6
+	"West Virginia"	"54"	"79 years"	"79"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	23	24270	94.8
+	"West Virginia"	"54"	"79 years"	"79"	"Atherosclerotic heart disease"	"I25.1"	135	24270	556.2
+	"West Virginia"	"54"	"79 years"	"79"	"Ischaemic cardiomyopathy"	"I25.5"	10	24270	Unreliable
+	"West Virginia"	"54"	"79 years"	"79"	"Congestive heart failure"	"I50.0"	30	24270	123.6
+	"West Virginia"	"54"	"79 years"	"79"	"Intracerebral haemorrhage, unspecified"	"I61.9"	11	24270	Unreliable
+	"West Virginia"	"54"	"79 years"	"79"	"Stroke, not specified as haemorrhage or infarction"	"I64"	37	24270	152.5
+	"West Virginia"	"54"	"79 years"	"79"	"Pneumonia, unspecified"	"J18.9"	22	24270	90.6
+	"West Virginia"	"54"	"79 years"	"79"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	20	24270	82.4
+	"West Virginia"	"54"	"79 years"	"79"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	108	24270	445.0
+	"West Virginia"	"54"	"79 years"	"79"	"Pneumonitis due to food and vomit"	"J69.0"	11	24270	Unreliable
+	"West Virginia"	"54"	"79 years"	"79"	"Other interstitial pulmonary diseases with fibrosis"	"J84.1"	15	24270	Unreliable
+	"West Virginia"	"54"	"79 years"	"79"	"Chronic kidney disease, stage 5"	"N18.5"	16	24270	Unreliable
+	"West Virginia"	"54"	"79 years"	"79"	"Other ill-defined and unspecified causes of mortality"	"R99"	15	24270	Unreliable
+	"West Virginia"	"54"	"79 years"	"79"	"COVID-19"	"U07.1"	36	24270	148.3
+	"West Virginia"	"54"	"79 years"	"79"	"Other fall on same level"	"W18"	17	24270	Unreliable
+	"West Virginia"	"54"	"80 years"	"80"	"Septicaemia, unspecified"	"A41.9"	13	22057	Unreliable
+	"West Virginia"	"54"	"80 years"	"80"	"Oesophagus, unspecified - Malignant neoplasms"	"C15.9"	10	22057	Unreliable
+	"West Virginia"	"54"	"80 years"	"80"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	31	22057	140.5
+	"West Virginia"	"54"	"80 years"	"80"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	20	22057	90.7
+	"West Virginia"	"54"	"80 years"	"80"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	92	22057	417.1
+	"West Virginia"	"54"	"80 years"	"80"	"Malignant neoplasm of prostate"	"C61"	27	22057	122.4
+	"West Virginia"	"54"	"80 years"	"80"	"Bladder, unspecified - Malignant neoplasms"	"C67.9"	15	22057	Unreliable
+	"West Virginia"	"54"	"80 years"	"80"	"Malignant neoplasm without specification of site"	"C80"	19	22057	Unreliable
+	"West Virginia"	"54"	"80 years"	"80"	"Non-Hodgkin lymphoma, unspecified type"	"C85.9"	10	22057	Unreliable
+	"West Virginia"	"54"	"80 years"	"80"	"Acute myeloid leukaemia - Malignant neoplasms"	"C92.0"	10	22057	Unreliable
+	"West Virginia"	"54"	"80 years"	"80"	"Non-insulin-dependent diabetes mellitus, without complications"	"E11.9"	16	22057	Unreliable
+	"West Virginia"	"54"	"80 years"	"80"	"Unspecified diabetes mellitus, with renal complications"	"E14.2"	16	22057	Unreliable
+	"West Virginia"	"54"	"80 years"	"80"	"Unspecified diabetes mellitus, without complications"	"E14.9"	23	22057	104.3
+	"West Virginia"	"54"	"80 years"	"80"	"Hyperlipidaemia, unspecified"	"E78.5"	14	22057	Unreliable
+	"West Virginia"	"54"	"80 years"	"80"	"Unspecified dementia"	"F03"	40	22057	181.3
+	"West Virginia"	"54"	"80 years"	"80"	"Parkinson disease"	"G20"	36	22057	163.2
+	"West Virginia"	"54"	"80 years"	"80"	"Alzheimer disease, unspecified"	"G30.9"	62	22057	281.1
+	"West Virginia"	"54"	"80 years"	"80"	"Essential (primary) hypertension"	"I10"	10	22057	Unreliable
+	"West Virginia"	"54"	"80 years"	"80"	"Hypertensive renal disease with renal failure"	"I12.0"	12	22057	Unreliable
+	"West Virginia"	"54"	"80 years"	"80"	"Acute subendocardial myocardial infarction"	"I21.4"	11	22057	Unreliable
+	"West Virginia"	"54"	"80 years"	"80"	"Acute myocardial infarction, unspecified"	"I21.9"	37	22057	167.7
+	"West Virginia"	"54"	"80 years"	"80"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	33	22057	149.6
+	"West Virginia"	"54"	"80 years"	"80"	"Atherosclerotic heart disease"	"I25.1"	145	22057	657.4
+	"West Virginia"	"54"	"80 years"	"80"	"Atrial fibrillation and flutter"	"I48"	13	22057	Unreliable
+	"West Virginia"	"54"	"80 years"	"80"	"Congestive heart failure"	"I50.0"	39	22057	176.8
+	"West Virginia"	"54"	"80 years"	"80"	"Intracerebral haemorrhage, unspecified"	"I61.9"	13	22057	Unreliable
+	"West Virginia"	"54"	"80 years"	"80"	"Stroke, not specified as haemorrhage or infarction"	"I64"	39	22057	176.8
+	"West Virginia"	"54"	"80 years"	"80"	"Pneumonia, unspecified"	"J18.9"	27	22057	122.4
+	"West Virginia"	"54"	"80 years"	"80"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	17	22057	Unreliable
+	"West Virginia"	"54"	"80 years"	"80"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	104	22057	471.5
+	"West Virginia"	"54"	"80 years"	"80"	"Pneumonitis due to food and vomit"	"J69.0"	13	22057	Unreliable
+	"West Virginia"	"54"	"80 years"	"80"	"Other interstitial pulmonary diseases with fibrosis"	"J84.1"	17	22057	Unreliable
+	"West Virginia"	"54"	"80 years"	"80"	"Chronic kidney disease, stage 5"	"N18.5"	15	22057	Unreliable
+	"West Virginia"	"54"	"80 years"	"80"	"Unspecified renal failure"	"N19"	13	22057	Unreliable
+	"West Virginia"	"54"	"80 years"	"80"	"Urinary tract infection, site not specified"	"N39.0"	10	22057	Unreliable
+	"West Virginia"	"54"	"80 years"	"80"	"Other ill-defined and unspecified causes of mortality"	"R99"	20	22057	90.7
+	"West Virginia"	"54"	"80 years"	"80"	"COVID-19"	"U07.1"	29	22057	131.5
+	"West Virginia"	"54"	"80 years"	"80"	"Other fall on same level"	"W18"	17	22057	Unreliable
+	"West Virginia"	"54"	"81 years"	"81"	"Septicaemia, unspecified"	"A41.9"	18	20366	Unreliable
+	"West Virginia"	"54"	"81 years"	"81"	"Oesophagus, unspecified - Malignant neoplasms"	"C15.9"	12	20366	Unreliable
+	"West Virginia"	"54"	"81 years"	"81"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	30	20366	147.3
+	"West Virginia"	"54"	"81 years"	"81"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	15	20366	Unreliable
+	"West Virginia"	"54"	"81 years"	"81"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	102	20366	500.8
+	"West Virginia"	"54"	"81 years"	"81"	"Malignant neoplasm of prostate"	"C61"	40	20366	196.4
+	"West Virginia"	"54"	"81 years"	"81"	"Bladder, unspecified - Malignant neoplasms"	"C67.9"	11	20366	Unreliable
+	"West Virginia"	"54"	"81 years"	"81"	"Malignant neoplasm without specification of site"	"C80"	16	20366	Unreliable
+	"West Virginia"	"54"	"81 years"	"81"	"Non-Hodgkin lymphoma, unspecified type"	"C85.9"	14	20366	Unreliable
+	"West Virginia"	"54"	"81 years"	"81"	"Non-insulin-dependent diabetes mellitus, with renal complications"	"E11.2"	13	20366	Unreliable
+	"West Virginia"	"54"	"81 years"	"81"	"Non-insulin-dependent diabetes mellitus, without complications"	"E11.9"	12	20366	Unreliable
+	"West Virginia"	"54"	"81 years"	"81"	"Unspecified dementia"	"F03"	47	20366	230.8
+	"West Virginia"	"54"	"81 years"	"81"	"Parkinson disease"	"G20"	38	20366	186.6
+	"West Virginia"	"54"	"81 years"	"81"	"Alzheimer disease, unspecified"	"G30.9"	50	20366	245.5
+	"West Virginia"	"54"	"81 years"	"81"	"Acute myocardial infarction, unspecified"	"I21.9"	47	20366	230.8
+	"West Virginia"	"54"	"81 years"	"81"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	37	20366	181.7
+	"West Virginia"	"54"	"81 years"	"81"	"Atherosclerotic heart disease"	"I25.1"	130	20366	638.3
+	"West Virginia"	"54"	"81 years"	"81"	"Atrial fibrillation and flutter"	"I48"	20	20366	98.2
+	"West Virginia"	"54"	"81 years"	"81"	"Congestive heart failure"	"I50.0"	48	20366	235.7
+	"West Virginia"	"54"	"81 years"	"81"	"Stroke, not specified as haemorrhage or infarction"	"I64"	41	20366	201.3
+	"West Virginia"	"54"	"81 years"	"81"	"Pneumonia, unspecified"	"J18.9"	21	20366	103.1
+	"West Virginia"	"54"	"81 years"	"81"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	23	20366	112.9
+	"West Virginia"	"54"	"81 years"	"81"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	87	20366	427.2
+	"West Virginia"	"54"	"81 years"	"81"	"Pneumonitis due to food and vomit"	"J69.0"	11	20366	Unreliable
+	"West Virginia"	"54"	"81 years"	"81"	"Other interstitial pulmonary diseases with fibrosis"	"J84.1"	14	20366	Unreliable
+	"West Virginia"	"54"	"81 years"	"81"	"Other and unspecified cirrhosis of liver"	"K74.6"	14	20366	Unreliable
+	"West Virginia"	"54"	"81 years"	"81"	"Chronic kidney disease, stage 5"	"N18.5"	18	20366	Unreliable
+	"West Virginia"	"54"	"81 years"	"81"	"Chronic renal failure, unspecified"	"N18.9"	10	20366	Unreliable
+	"West Virginia"	"54"	"81 years"	"81"	"Urinary tract infection, site not specified"	"N39.0"	10	20366	Unreliable
+	"West Virginia"	"54"	"81 years"	"81"	"Other ill-defined and unspecified causes of mortality"	"R99"	23	20366	112.9
+	"West Virginia"	"54"	"81 years"	"81"	"COVID-19"	"U07.1"	24	20366	117.8
+	"West Virginia"	"54"	"81 years"	"81"	"Other fall on same level"	"W18"	15	20366	Unreliable
+	"West Virginia"	"54"	"82 years"	"82"	"Septicaemia, unspecified"	"A41.9"	24	18147	132.3
+	"West Virginia"	"54"	"82 years"	"82"	"Oesophagus, unspecified - Malignant neoplasms"	"C15.9"	11	18147	Unreliable
+	"West Virginia"	"54"	"82 years"	"82"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	22	18147	121.2
+	"West Virginia"	"54"	"82 years"	"82"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	18	18147	Unreliable
+	"West Virginia"	"54"	"82 years"	"82"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	70	18147	385.7
+	"West Virginia"	"54"	"82 years"	"82"	"Malignant neoplasm of prostate"	"C61"	25	18147	137.8
+	"West Virginia"	"54"	"82 years"	"82"	"Bladder, unspecified - Malignant neoplasms"	"C67.9"	21	18147	115.7
+	"West Virginia"	"54"	"82 years"	"82"	"Malignant neoplasm without specification of site"	"C80"	16	18147	Unreliable
+	"West Virginia"	"54"	"82 years"	"82"	"Non-Hodgkin lymphoma, unspecified type"	"C85.9"	10	18147	Unreliable
+	"West Virginia"	"54"	"82 years"	"82"	"Non-insulin-dependent diabetes mellitus, without complications"	"E11.9"	12	18147	Unreliable
+	"West Virginia"	"54"	"82 years"	"82"	"Unspecified diabetes mellitus, without complications"	"E14.9"	21	18147	115.7
+	"West Virginia"	"54"	"82 years"	"82"	"Unspecified dementia"	"F03"	68	18147	374.7
+	"West Virginia"	"54"	"82 years"	"82"	"Parkinson disease"	"G20"	32	18147	176.3
+	"West Virginia"	"54"	"82 years"	"82"	"Alzheimer disease, unspecified"	"G30.9"	50	18147	275.5
+	"West Virginia"	"54"	"82 years"	"82"	"Acute subendocardial myocardial infarction"	"I21.4"	13	18147	Unreliable
+	"West Virginia"	"54"	"82 years"	"82"	"Acute myocardial infarction, unspecified"	"I21.9"	42	18147	231.4
+	"West Virginia"	"54"	"82 years"	"82"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	32	18147	176.3
+	"West Virginia"	"54"	"82 years"	"82"	"Atherosclerotic heart disease"	"I25.1"	140	18147	771.5
+	"West Virginia"	"54"	"82 years"	"82"	"Cardiomyopathy, unspecified"	"I42.9"	12	18147	Unreliable
+	"West Virginia"	"54"	"82 years"	"82"	"Atrial fibrillation and flutter"	"I48"	15	18147	Unreliable
+	"West Virginia"	"54"	"82 years"	"82"	"Congestive heart failure"	"I50.0"	34	18147	187.4
+	"West Virginia"	"54"	"82 years"	"82"	"Stroke, not specified as haemorrhage or infarction"	"I64"	42	18147	231.4
+	"West Virginia"	"54"	"82 years"	"82"	"Pneumonia, unspecified"	"J18.9"	23	18147	126.7
+	"West Virginia"	"54"	"82 years"	"82"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	17	18147	Unreliable
+	"West Virginia"	"54"	"82 years"	"82"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	92	18147	507.0
+	"West Virginia"	"54"	"82 years"	"82"	"Pneumonitis due to food and vomit"	"J69.0"	13	18147	Unreliable
+	"West Virginia"	"54"	"82 years"	"82"	"Chronic kidney disease, stage 5"	"N18.5"	19	18147	Unreliable
+	"West Virginia"	"54"	"82 years"	"82"	"Other ill-defined and unspecified causes of mortality"	"R99"	22	18147	121.2
+	"West Virginia"	"54"	"82 years"	"82"	"COVID-19"	"U07.1"	25	18147	137.8
+	"West Virginia"	"54"	"82 years"	"82"	"Other fall on same level"	"W18"	24	18147	132.3
+	"West Virginia"	"54"	"83 years"	"83"	"Septicaemia, unspecified"	"A41.9"	18	15753	Unreliable
+	"West Virginia"	"54"	"83 years"	"83"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	17	15753	Unreliable
+	"West Virginia"	"54"	"83 years"	"83"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	14	15753	Unreliable
+	"West Virginia"	"54"	"83 years"	"83"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	91	15753	577.7
+	"West Virginia"	"54"	"83 years"	"83"	"Malignant neoplasm of prostate"	"C61"	27	15753	171.4
+	"West Virginia"	"54"	"83 years"	"83"	"Malignant neoplasm of kidney, except renal pelvis"	"C64"	13	15753	Unreliable
+	"West Virginia"	"54"	"83 years"	"83"	"Bladder, unspecified - Malignant neoplasms"	"C67.9"	18	15753	Unreliable
+	"West Virginia"	"54"	"83 years"	"83"	"Malignant neoplasm without specification of site"	"C80"	13	15753	Unreliable
+	"West Virginia"	"54"	"83 years"	"83"	"Non-insulin-dependent diabetes mellitus, without complications"	"E11.9"	22	15753	139.7
+	"West Virginia"	"54"	"83 years"	"83"	"Unspecified diabetes mellitus, with renal complications"	"E14.2"	12	15753	Unreliable
+	"West Virginia"	"54"	"83 years"	"83"	"Unspecified diabetes mellitus, without complications"	"E14.9"	12	15753	Unreliable
+	"West Virginia"	"54"	"83 years"	"83"	"Unspecified dementia"	"F03"	49	15753	311.1
+	"West Virginia"	"54"	"83 years"	"83"	"Parkinson disease"	"G20"	31	15753	196.8
+	"West Virginia"	"54"	"83 years"	"83"	"Alzheimer disease, unspecified"	"G30.9"	43	15753	273.0
+	"West Virginia"	"54"	"83 years"	"83"	"Acute myocardial infarction, unspecified"	"I21.9"	41	15753	260.3
+	"West Virginia"	"54"	"83 years"	"83"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	29	15753	184.1
+	"West Virginia"	"54"	"83 years"	"83"	"Atherosclerotic heart disease"	"I25.1"	148	15753	939.5
+	"West Virginia"	"54"	"83 years"	"83"	"Cardiomyopathy, unspecified"	"I42.9"	15	15753	Unreliable
+	"West Virginia"	"54"	"83 years"	"83"	"Atrial fibrillation and flutter"	"I48"	18	15753	Unreliable
+	"West Virginia"	"54"	"83 years"	"83"	"Congestive heart failure"	"I50.0"	35	15753	222.2
+	"West Virginia"	"54"	"83 years"	"83"	"Stroke, not specified as haemorrhage or infarction"	"I64"	41	15753	260.3
+	"West Virginia"	"54"	"83 years"	"83"	"Pneumonia, unspecified"	"J18.9"	23	15753	146.0
+	"West Virginia"	"54"	"83 years"	"83"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	16	15753	Unreliable
+	"West Virginia"	"54"	"83 years"	"83"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	97	15753	615.8
+	"West Virginia"	"54"	"83 years"	"83"	"Chronic kidney disease, stage 5"	"N18.5"	18	15753	Unreliable
+	"West Virginia"	"54"	"83 years"	"83"	"Other ill-defined and unspecified causes of mortality"	"R99"	18	15753	Unreliable
+	"West Virginia"	"54"	"83 years"	"83"	"COVID-19"	"U07.1"	22	15753	139.7
+	"West Virginia"	"54"	"83 years"	"83"	"Other fall on same level"	"W18"	26	15753	165.0
+	"West Virginia"	"54"	"84 years"	"84"	"Septicaemia, unspecified"	"A41.9"	22	13864	158.7
+	"West Virginia"	"54"	"84 years"	"84"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	19	13864	Unreliable
+	"West Virginia"	"54"	"84 years"	"84"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	12	13864	Unreliable
+	"West Virginia"	"54"	"84 years"	"84"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	68	13864	490.5
+	"West Virginia"	"54"	"84 years"	"84"	"Malignant neoplasm of prostate"	"C61"	47	13864	339.0
+	"West Virginia"	"54"	"84 years"	"84"	"Non-insulin-dependent diabetes mellitus, without complications"	"E11.9"	13	13864	Unreliable
+	"West Virginia"	"54"	"84 years"	"84"	"Unspecified diabetes mellitus, with renal complications"	"E14.2"	12	13864	Unreliable
+	"West Virginia"	"54"	"84 years"	"84"	"Hyperlipidaemia, unspecified"	"E78.5"	15	13864	Unreliable
+	"West Virginia"	"54"	"84 years"	"84"	"Vascular dementia, unspecified"	"F01.9"	13	13864	Unreliable
+	"West Virginia"	"54"	"84 years"	"84"	"Unspecified dementia"	"F03"	67	13864	483.3
+	"West Virginia"	"54"	"84 years"	"84"	"Parkinson disease"	"G20"	40	13864	288.5
+	"West Virginia"	"54"	"84 years"	"84"	"Alzheimer disease, unspecified"	"G30.9"	43	13864	310.2
+	"West Virginia"	"54"	"84 years"	"84"	"Acute myocardial infarction, unspecified"	"I21.9"	42	13864	302.9
+	"West Virginia"	"54"	"84 years"	"84"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	21	13864	151.5
+	"West Virginia"	"54"	"84 years"	"84"	"Atherosclerotic heart disease"	"I25.1"	126	13864	908.8
+	"West Virginia"	"54"	"84 years"	"84"	"Ischaemic cardiomyopathy"	"I25.5"	13	13864	Unreliable
+	"West Virginia"	"54"	"84 years"	"84"	"Atrial fibrillation and flutter"	"I48"	19	13864	Unreliable
+	"West Virginia"	"54"	"84 years"	"84"	"Congestive heart failure"	"I50.0"	30	13864	216.4
+	"West Virginia"	"54"	"84 years"	"84"	"Stroke, not specified as haemorrhage or infarction"	"I64"	41	13864	295.7
+	"West Virginia"	"54"	"84 years"	"84"	"Pneumonia, unspecified"	"J18.9"	24	13864	173.1
+	"West Virginia"	"54"	"84 years"	"84"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	13	13864	Unreliable
+	"West Virginia"	"54"	"84 years"	"84"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	86	13864	620.3
+	"West Virginia"	"54"	"84 years"	"84"	"Pneumonitis due to food and vomit"	"J69.0"	11	13864	Unreliable
+	"West Virginia"	"54"	"84 years"	"84"	"Other and unspecified cirrhosis of liver"	"K74.6"	10	13864	Unreliable
+	"West Virginia"	"54"	"84 years"	"84"	"Chronic kidney disease, stage 5"	"N18.5"	14	13864	Unreliable
+	"West Virginia"	"54"	"84 years"	"84"	"Chronic renal failure, unspecified"	"N18.9"	11	13864	Unreliable
+	"West Virginia"	"54"	"84 years"	"84"	"Unspecified renal failure"	"N19"	11	13864	Unreliable
+	"West Virginia"	"54"	"84 years"	"84"	"Other ill-defined and unspecified causes of mortality"	"R99"	16	13864	Unreliable
+	"West Virginia"	"54"	"84 years"	"84"	"COVID-19"	"U07.1"	25	13864	180.3
+	"West Virginia"	"54"	"84 years"	"84"	"Other fall on same level"	"W18"	16	13864	Unreliable
+	"West Virginia"	"54"	"85 years"	"85"	"Septicaemia, unspecified"	"A41.9"	13	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"85 years"	"85"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	13	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"85 years"	"85"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	51	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"85 years"	"85"	"Malignant neoplasm of prostate"	"C61"	34	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"85 years"	"85"	"Bladder, unspecified - Malignant neoplasms"	"C67.9"	15	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"85 years"	"85"	"Malignant neoplasm without specification of site"	"C80"	13	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"85 years"	"85"	"Non-insulin-dependent diabetes mellitus, with renal complications"	"E11.2"	10	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"85 years"	"85"	"Unspecified diabetes mellitus, without complications"	"E14.9"	12	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"85 years"	"85"	"Unspecified dementia"	"F03"	83	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"85 years"	"85"	"Parkinson disease"	"G20"	22	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"85 years"	"85"	"Alzheimer disease, unspecified"	"G30.9"	66	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"85 years"	"85"	"Acute myocardial infarction, unspecified"	"I21.9"	53	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"85 years"	"85"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	27	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"85 years"	"85"	"Atherosclerotic heart disease"	"I25.1"	136	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"85 years"	"85"	"Ischaemic cardiomyopathy"	"I25.5"	11	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"85 years"	"85"	"Chronic ischaemic heart disease, unspecified"	"I25.9"	12	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"85 years"	"85"	"Atrial fibrillation and flutter"	"I48"	16	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"85 years"	"85"	"Congestive heart failure"	"I50.0"	33	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"85 years"	"85"	"Stroke, not specified as haemorrhage or infarction"	"I64"	35	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"85 years"	"85"	"Pneumonia, unspecified"	"J18.9"	25	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"85 years"	"85"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	13	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"85 years"	"85"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	71	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"85 years"	"85"	"Pneumonitis due to food and vomit"	"J69.0"	15	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"85 years"	"85"	"Other and unspecified cirrhosis of liver"	"K74.6"	12	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"85 years"	"85"	"Chronic kidney disease, stage 5"	"N18.5"	14	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"85 years"	"85"	"Other ill-defined and unspecified causes of mortality"	"R99"	17	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"85 years"	"85"	"COVID-19"	"U07.1"	18	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"85 years"	"85"	"Other fall on same level"	"W18"	21	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"86 years"	"86"	"Septicaemia, unspecified"	"A41.9"	19	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"86 years"	"86"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	19	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"86 years"	"86"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	44	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"86 years"	"86"	"Malignant neoplasm of prostate"	"C61"	33	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"86 years"	"86"	"Malignant neoplasm without specification of site"	"C80"	14	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"86 years"	"86"	"Non-insulin-dependent diabetes mellitus, without complications"	"E11.9"	13	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"86 years"	"86"	"Unspecified diabetes mellitus, with renal complications"	"E14.2"	10	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"86 years"	"86"	"Unspecified diabetes mellitus, without complications"	"E14.9"	11	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"86 years"	"86"	"Hyperlipidaemia, unspecified"	"E78.5"	11	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"86 years"	"86"	"Unspecified dementia"	"F03"	59	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"86 years"	"86"	"Parkinson disease"	"G20"	29	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"86 years"	"86"	"Alzheimer disease, unspecified"	"G30.9"	60	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"86 years"	"86"	"Acute myocardial infarction, unspecified"	"I21.9"	30	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"86 years"	"86"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	22	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"86 years"	"86"	"Atherosclerotic heart disease"	"I25.1"	133	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"86 years"	"86"	"Ischaemic cardiomyopathy"	"I25.5"	10	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"86 years"	"86"	"Atrial fibrillation and flutter"	"I48"	27	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"86 years"	"86"	"Congestive heart failure"	"I50.0"	40	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"86 years"	"86"	"Stroke, not specified as haemorrhage or infarction"	"I64"	45	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"86 years"	"86"	"Pneumonia, unspecified"	"J18.9"	37	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"86 years"	"86"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	13	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"86 years"	"86"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	70	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"86 years"	"86"	"Pneumonitis due to food and vomit"	"J69.0"	15	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"86 years"	"86"	"Chronic kidney disease, stage 5"	"N18.5"	12	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"86 years"	"86"	"Urinary tract infection, site not specified"	"N39.0"	10	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"86 years"	"86"	"Other ill-defined and unspecified causes of mortality"	"R99"	13	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"86 years"	"86"	"COVID-19"	"U07.1"	25	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"86 years"	"86"	"Other fall on same level"	"W18"	18	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"87 years"	"87"	"Septicaemia, unspecified"	"A41.9"	17	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"87 years"	"87"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	14	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"87 years"	"87"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	47	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"87 years"	"87"	"Malignant neoplasm of prostate"	"C61"	25	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"87 years"	"87"	"Bladder, unspecified - Malignant neoplasms"	"C67.9"	11	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"87 years"	"87"	"Malignant neoplasm without specification of site"	"C80"	10	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"87 years"	"87"	"Non-insulin-dependent diabetes mellitus, without complications"	"E11.9"	15	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"87 years"	"87"	"Unspecified diabetes mellitus, without complications"	"E14.9"	22	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"87 years"	"87"	"Hyperlipidaemia, unspecified"	"E78.5"	13	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"87 years"	"87"	"Vascular dementia, unspecified"	"F01.9"	10	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"87 years"	"87"	"Unspecified dementia"	"F03"	60	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"87 years"	"87"	"Parkinson disease"	"G20"	34	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"87 years"	"87"	"Alzheimer disease, unspecified"	"G30.9"	67	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"87 years"	"87"	"Acute subendocardial myocardial infarction"	"I21.4"	14	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"87 years"	"87"	"Acute myocardial infarction, unspecified"	"I21.9"	39	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"87 years"	"87"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	22	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"87 years"	"87"	"Atherosclerotic heart disease"	"I25.1"	150	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"87 years"	"87"	"Aortic (valve) stenosis"	"I35.0"	12	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"87 years"	"87"	"Atrial fibrillation and flutter"	"I48"	12	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"87 years"	"87"	"Congestive heart failure"	"I50.0"	35	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"87 years"	"87"	"Stroke, not specified as haemorrhage or infarction"	"I64"	33	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"87 years"	"87"	"Sequelae of stroke, not specified as haemorrhage or infarction"	"I69.4"	10	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"87 years"	"87"	"Pneumonia, unspecified"	"J18.9"	28	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"87 years"	"87"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	15	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"87 years"	"87"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	54	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"87 years"	"87"	"Pneumonitis due to food and vomit"	"J69.0"	14	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"87 years"	"87"	"Other ill-defined and unspecified causes of mortality"	"R99"	13	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"87 years"	"87"	"COVID-19"	"U07.1"	15	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"87 years"	"87"	"Other fall on same level"	"W18"	18	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"88 years"	"88"	"Septicaemia, unspecified"	"A41.9"	21	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"88 years"	"88"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	13	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"88 years"	"88"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	11	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"88 years"	"88"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	41	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"88 years"	"88"	"Malignant neoplasm of prostate"	"C61"	27	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"88 years"	"88"	"Bladder, unspecified - Malignant neoplasms"	"C67.9"	19	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"88 years"	"88"	"Unspecified diabetes mellitus, without complications"	"E14.9"	14	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"88 years"	"88"	"Unspecified dementia"	"F03"	67	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"88 years"	"88"	"Parkinson disease"	"G20"	23	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"88 years"	"88"	"Alzheimer disease, unspecified"	"G30.9"	57	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"88 years"	"88"	"Hypertensive renal disease with renal failure"	"I12.0"	10	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"88 years"	"88"	"Acute myocardial infarction, unspecified"	"I21.9"	41	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"88 years"	"88"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	21	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"88 years"	"88"	"Atherosclerotic heart disease"	"I25.1"	156	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"88 years"	"88"	"Atrial fibrillation and flutter"	"I48"	22	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"88 years"	"88"	"Congestive heart failure"	"I50.0"	29	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"88 years"	"88"	"Stroke, not specified as haemorrhage or infarction"	"I64"	38	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"88 years"	"88"	"Pneumonia, unspecified"	"J18.9"	30	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"88 years"	"88"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	81	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"88 years"	"88"	"Pneumonitis due to food and vomit"	"J69.0"	14	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"88 years"	"88"	"Other ill-defined and unspecified causes of mortality"	"R99"	19	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"88 years"	"88"	"COVID-19"	"U07.1"	14	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"88 years"	"88"	"Other fall on same level"	"W18"	12	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"89 years"	"89"	"Septicaemia, unspecified"	"A41.9"	11	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"89 years"	"89"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	32	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"89 years"	"89"	"Malignant neoplasm of prostate"	"C61"	26	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"89 years"	"89"	"Bladder, unspecified - Malignant neoplasms"	"C67.9"	13	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"89 years"	"89"	"Hyperlipidaemia, unspecified"	"E78.5"	11	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"89 years"	"89"	"Unspecified dementia"	"F03"	77	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"89 years"	"89"	"Parkinson disease"	"G20"	24	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"89 years"	"89"	"Alzheimer disease, unspecified"	"G30.9"	59	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"89 years"	"89"	"Acute myocardial infarction, unspecified"	"I21.9"	33	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"89 years"	"89"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	31	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"89 years"	"89"	"Atherosclerotic heart disease"	"I25.1"	116	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"89 years"	"89"	"Atrial fibrillation and flutter"	"I48"	15	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"89 years"	"89"	"Congestive heart failure"	"I50.0"	33	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"89 years"	"89"	"Stroke, not specified as haemorrhage or infarction"	"I64"	36	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"89 years"	"89"	"Pneumonia, unspecified"	"J18.9"	22	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"89 years"	"89"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	17	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"89 years"	"89"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	49	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"89 years"	"89"	"Pneumonitis due to food and vomit"	"J69.0"	12	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"89 years"	"89"	"Chronic kidney disease, stage 5"	"N18.5"	12	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"89 years"	"89"	"Other ill-defined and unspecified causes of mortality"	"R99"	15	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"89 years"	"89"	"COVID-19"	"U07.1"	21	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"89 years"	"89"	"Other fall on same level"	"W18"	28	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"90 years"	"90"	"Septicaemia, unspecified"	"A41.9"	21	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"90 years"	"90"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	19	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"90 years"	"90"	"Malignant neoplasm of prostate"	"C61"	27	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"90 years"	"90"	"Unspecified diabetes mellitus, without complications"	"E14.9"	10	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"90 years"	"90"	"Unspecified dementia"	"F03"	72	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"90 years"	"90"	"Parkinson disease"	"G20"	17	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"90 years"	"90"	"Alzheimer disease, unspecified"	"G30.9"	55	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"90 years"	"90"	"Acute subendocardial myocardial infarction"	"I21.4"	10	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"90 years"	"90"	"Acute myocardial infarction, unspecified"	"I21.9"	38	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"90 years"	"90"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	19	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"90 years"	"90"	"Atherosclerotic heart disease"	"I25.1"	116	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"90 years"	"90"	"Atrial fibrillation and flutter"	"I48"	13	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"90 years"	"90"	"Congestive heart failure"	"I50.0"	32	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"90 years"	"90"	"Stroke, not specified as haemorrhage or infarction"	"I64"	26	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"90 years"	"90"	"Pneumonia, unspecified"	"J18.9"	31	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"90 years"	"90"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	63	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"90 years"	"90"	"Pneumonitis due to food and vomit"	"J69.0"	16	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"90 years"	"90"	"Unspecified renal failure"	"N19"	11	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"90 years"	"90"	"Other ill-defined and unspecified causes of mortality"	"R99"	11	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"90 years"	"90"	"COVID-19"	"U07.1"	14	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"90 years"	"90"	"Other fall on same level"	"W18"	16	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"91 years"	"91"	"Septicaemia, unspecified"	"A41.9"	15	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"91 years"	"91"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	10	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"91 years"	"91"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	21	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"91 years"	"91"	"Malignant neoplasm of prostate"	"C61"	27	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"91 years"	"91"	"Unspecified dementia"	"F03"	75	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"91 years"	"91"	"Parkinson disease"	"G20"	10	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"91 years"	"91"	"Alzheimer disease, unspecified"	"G30.9"	57	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"91 years"	"91"	"Acute myocardial infarction, unspecified"	"I21.9"	17	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"91 years"	"91"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	20	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"91 years"	"91"	"Atherosclerotic heart disease"	"I25.1"	115	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"91 years"	"91"	"Atrial fibrillation and flutter"	"I48"	13	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"91 years"	"91"	"Congestive heart failure"	"I50.0"	41	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"91 years"	"91"	"Heart failure, unspecified"	"I50.9"	14	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"91 years"	"91"	"Stroke, not specified as haemorrhage or infarction"	"I64"	21	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"91 years"	"91"	"Pneumonia, unspecified"	"J18.9"	15	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"91 years"	"91"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	30	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"91 years"	"91"	"Pneumonitis due to food and vomit"	"J69.0"	13	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"91 years"	"91"	"Other interstitial pulmonary diseases with fibrosis"	"J84.1"	13	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"91 years"	"91"	"Chronic renal failure, unspecified"	"N18.9"	10	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"91 years"	"91"	"Other ill-defined and unspecified causes of mortality"	"R99"	13	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"91 years"	"91"	"COVID-19"	"U07.1"	12	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"91 years"	"91"	"Other fall on same level"	"W18"	21	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"92 years"	"92"	"Septicaemia, unspecified"	"A41.9"	10	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"92 years"	"92"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	10	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"92 years"	"92"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	15	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"92 years"	"92"	"Malignant neoplasm of prostate"	"C61"	19	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"92 years"	"92"	"Non-insulin-dependent diabetes mellitus, without complications"	"E11.9"	10	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"92 years"	"92"	"Unspecified dementia"	"F03"	66	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"92 years"	"92"	"Alzheimer disease, unspecified"	"G30.9"	51	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"92 years"	"92"	"Acute myocardial infarction, unspecified"	"I21.9"	27	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"92 years"	"92"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	15	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"92 years"	"92"	"Atherosclerotic heart disease"	"I25.1"	112	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"92 years"	"92"	"Atrial fibrillation and flutter"	"I48"	14	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"92 years"	"92"	"Congestive heart failure"	"I50.0"	31	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"92 years"	"92"	"Stroke, not specified as haemorrhage or infarction"	"I64"	22	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"92 years"	"92"	"Pneumonia, unspecified"	"J18.9"	18	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"92 years"	"92"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	45	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"92 years"	"92"	"Pneumonitis due to food and vomit"	"J69.0"	11	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"92 years"	"92"	"Other ill-defined and unspecified causes of mortality"	"R99"	10	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"92 years"	"92"	"COVID-19"	"U07.1"	12	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"92 years"	"92"	"Other fall on same level"	"W18"	19	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"93 years"	"93"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	16	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"93 years"	"93"	"Malignant neoplasm of prostate"	"C61"	18	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"93 years"	"93"	"Unspecified dementia"	"F03"	63	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"93 years"	"93"	"Alzheimer disease, unspecified"	"G30.9"	29	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"93 years"	"93"	"Acute myocardial infarction, unspecified"	"I21.9"	12	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"93 years"	"93"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	21	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"93 years"	"93"	"Atherosclerotic heart disease"	"I25.1"	73	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"93 years"	"93"	"Atrial fibrillation and flutter"	"I48"	10	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"93 years"	"93"	"Congestive heart failure"	"I50.0"	27	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"93 years"	"93"	"Stroke, not specified as haemorrhage or infarction"	"I64"	14	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"93 years"	"93"	"Pneumonia, unspecified"	"J18.9"	16	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"93 years"	"93"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	32	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"93 years"	"93"	"Pneumonitis due to food and vomit"	"J69.0"	11	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"93 years"	"93"	"Other ill-defined and unspecified causes of mortality"	"R99"	11	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"93 years"	"93"	"COVID-19"	"U07.1"	10	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"93 years"	"93"	"Other fall on same level"	"W18"	13	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"94 years"	"94"	"Malignant neoplasm of prostate"	"C61"	16	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"94 years"	"94"	"Unspecified dementia"	"F03"	40	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"94 years"	"94"	"Alzheimer disease, unspecified"	"G30.9"	41	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"94 years"	"94"	"Acute myocardial infarction, unspecified"	"I21.9"	11	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"94 years"	"94"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	11	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"94 years"	"94"	"Atherosclerotic heart disease"	"I25.1"	42	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"94 years"	"94"	"Congestive heart failure"	"I50.0"	25	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"94 years"	"94"	"Stroke, not specified as haemorrhage or infarction"	"I64"	16	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"94 years"	"94"	"Pneumonia, unspecified"	"J18.9"	16	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"94 years"	"94"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	18	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"94 years"	"94"	"Other ill-defined and unspecified causes of mortality"	"R99"	16	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"94 years"	"94"	"COVID-19"	"U07.1"	11	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"94 years"	"94"	"Other fall on same level"	"W18"	15	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"95 years"	"95"	"Unspecified dementia"	"F03"	41	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"95 years"	"95"	"Alzheimer disease, unspecified"	"G30.9"	19	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"95 years"	"95"	"Acute myocardial infarction, unspecified"	"I21.9"	12	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"95 years"	"95"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	13	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"95 years"	"95"	"Atherosclerotic heart disease"	"I25.1"	47	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"95 years"	"95"	"Atrial fibrillation and flutter"	"I48"	12	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"95 years"	"95"	"Congestive heart failure"	"I50.0"	24	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"95 years"	"95"	"Pneumonia, unspecified"	"J18.9"	12	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"95 years"	"95"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	13	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"95 years"	"95"	"COVID-19"	"U07.1"	13	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"96 years"	"96"	"Unspecified dementia"	"F03"	26	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"96 years"	"96"	"Alzheimer disease, unspecified"	"G30.9"	16	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"96 years"	"96"	"Atherosclerotic heart disease"	"I25.1"	33	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"96 years"	"96"	"Congestive heart failure"	"I50.0"	13	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"96 years"	"96"	"Pneumonia, unspecified"	"J18.9"	11	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"96 years"	"96"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	15	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"97 years"	"97"	"Unspecified dementia"	"F03"	16	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"97 years"	"97"	"Alzheimer disease, unspecified"	"G30.9"	12	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"97 years"	"97"	"Atherosclerotic heart disease"	"I25.1"	24	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"97 years"	"97"	"Congestive heart failure"	"I50.0"	12	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"97 years"	"97"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	11	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"98 years"	"98"	"Atherosclerotic heart disease"	"I25.1"	23	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"99 years"	"99"	"Atherosclerotic heart disease"	"I25.1"	12	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"100+ years"	"100"	"Atherosclerotic heart disease"	"I25.1"	13	Not Applicable	Not Applicable
+"---"
+"Dataset: Underlying Cause of Death, 1999-2020"
+"Query Parameters:"
+"Title: West Virginia CoD M"
+"Gender: Male"
+"States: West Virginia (54)"
+"Year/Month: 2016; 2017; 2018; 2019; 2020"
+"Group By: State; Single-Year Ages; Cause of death"
+"Show Totals: Disabled"
+"Show Zero Values: Disabled"
+"Show Suppressed: False"
+"Calculate Rates Per: 100,000"
+"Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/ucd.html for more information."
+"---"
+"Query Date: Apr 11, 2022 3:17:57 AM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. Underlying Cause of Death"
+"1999-2020 on CDC WONDER Online Database, released in 2021. Data are from the Multiple Cause of Death Files, 1999-2020, as"
+"compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative Program. Accessed"
+"at http://wonder.cdc.gov/ucd-icd10.html on Apr 11, 2022 3:17:57 AM"
+"---"
+Messages:
+"1. The full results are too long to be displayed. Due to suppression constraints rows that are zero, suppressed or a total will"
+"not be available."
+"---"
+Caveats:
+"1. Population and rates are labeled 'Not Applicable' when they include a subset of ages 85-100+ because populations are not"
+"available for those ages. More information: http://wonder.cdc.gov/wonder/help/ucd.html#Ages 85-100."
+"2. Death rates are flagged as Unreliable when the rate is calculated with a numerator of 20 or less. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Unreliable."
+"3. Deaths of persons with Age ""Not Stated"" are included in ""All"" counts and rates, but are not distributed among age groups,"
+"so are not included in age-specific counts, age-specific rates or in any age-adjusted rates. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Not Stated."
+"4. The population figures for year 2020 are bridged-race estimates of the July 1 resident population, from the Vintage 2020"
+"postcensal series released by NCHS on September 22, 2021. The population figures for year 2019 are bridged-race estimates of the"
+"July 1 resident population, from the Vintage 2019 postcensal series released by NCHS on July 9, 2020. The population figures for"
+"year 2018 are bridged-race estimates of the July 1 resident population, from the Vintage 2018 postcensal series released by NCHS"
+"on June 25, 2019. The population figures for year 2017 are bridged-race estimates of the July 1 resident population, from the"
+"Vintage 2017 postcensal series released by NCHS on June 27, 2018. The population figures for year 2016 are bridged-race"
+"estimates of the July 1 resident population, from the Vintage 2016 postcensal series released by NCHS on June 26, 2017. The"
+"population figures for year 2015 are bridged-race estimates of the July 1 resident population, from the Vintage 2015 postcensal"
+"series released by NCHS on June 28, 2016. The population figures for year 2014 are bridged-race estimates of the July 1 resident"
+"population, from the Vintage 2014 postcensal series released by NCHS on June 30, 2015. The population figures for year 2013 are"
+"bridged-race estimates of the July 1 resident population, from the Vintage 2013 postcensal series released by NCHS on June 26,"
+"2014. The population figures for year 2012 are bridged-race estimates of the July 1 resident population, from the Vintage 2012"
+"postcensal series released by NCHS on June 13, 2013. The population figures for year 2011 are bridged-race estimates of the July"
+"1 resident population, from the Vintage 2011 postcensal series released by NCHS on July 18, 2012. Population figures for 2010"
+"are April 1 Census counts. The population figures for years 2001 - 2009 are bridged-race estimates of the July 1 resident"
+"population, from the revised intercensal county-level 2000 - 2009 series released by NCHS on October 26, 2012. Population"
+"figures for 2000 are April 1 Census counts. Population figures for 1999 are from the 1990-1999 intercensal series of July 1"
+"estimates. Population figures for the infant age groups are the number of live births. <br/><b>Note:</b> Rates and population"
+"figures for years 2001 - 2009 differ slightly from previously published reports, due to use of the population estimates which"
+"were available at the time of release."
+"5. The population figures used in the calculation of death rates for the age group 'under 1 year' are the estimates of the"
+"resident population that is under one year of age. More information: http://wonder.cdc.gov/wonder/help/ucd.html#Age Group."
+"6. Beginning with the 2018 data, changes have been implemented that affect the counts for ICD-10 cause of death codes O00-O99"
+"compared to previous practice. In addition, data for the cause of death codes O00-O99 for 2003 through 2017 reflect differences"
+"in information available to individual states and probable errors. Caution should be used in interpreting these data. More"
+"information can be found at: https://www.cdc.gov/nchs/maternal-mortality/."
+"7. On March 11, 2021, the 2019 mortality data on CDC WONDER was updated with the 2019 mortality data updated by NCHS on March 4,"
+"2021 to include corrected information for residents of Texas affecting 5 records previously coded to cause code *U01.4,"
+"Terrorism involving firearms (homicide). The underlying and multiple cause of death codes for 5 records were corrected in the"
+"2019 data. Underlying and multiple cause of death codes for those 5 records were recoded to Assault (homicide) by other and"
+"unspecified firearm discharge, ICD-10 code X95. The corrected final death records replaces the data released on December 22,"
+"2020."
+"8. Changes to cause of death classification affect reporting trends. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#ICD-10 Changes."

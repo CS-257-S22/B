@@ -1,0 +1,149 @@
+"Notes"	"State"	"State Code"	"Single-Year Ages"	"Single-Year Ages Code"	Deaths	Population	Crude Rate
+	"Alaska"	"02"	"< 1 year"	"0"	120	25651	467.8
+	"Alaska"	"02"	"1 year"	"1"	12	25146	Unreliable
+	"Alaska"	"02"	"2 years"	"2"	11	25576	Unreliable
+	"Alaska"	"02"	"17 years"	"17"	11	23441	Unreliable
+	"Alaska"	"02"	"18 years"	"18"	12	20591	Unreliable
+	"Alaska"	"02"	"19 years"	"19"	19	18499	Unreliable
+	"Alaska"	"02"	"20 years"	"20"	16	20263	Unreliable
+	"Alaska"	"02"	"21 years"	"21"	20	21347	93.7
+	"Alaska"	"02"	"22 years"	"22"	33	22641	145.8
+	"Alaska"	"02"	"23 years"	"23"	23	24232	94.9
+	"Alaska"	"02"	"24 years"	"24"	15	25339	Unreliable
+	"Alaska"	"02"	"25 years"	"25"	38	27136	140.0
+	"Alaska"	"02"	"26 years"	"26"	37	28260	130.9
+	"Alaska"	"02"	"27 years"	"27"	27	28750	93.9
+	"Alaska"	"02"	"28 years"	"28"	37	28755	128.7
+	"Alaska"	"02"	"29 years"	"29"	43	28564	150.5
+	"Alaska"	"02"	"30 years"	"30"	46	27925	164.7
+	"Alaska"	"02"	"31 years"	"31"	59	27477	214.7
+	"Alaska"	"02"	"32 years"	"32"	38	27218	139.6
+	"Alaska"	"02"	"33 years"	"33"	33	26979	122.3
+	"Alaska"	"02"	"34 years"	"34"	44	26636	165.2
+	"Alaska"	"02"	"35 years"	"35"	40	26090	153.3
+	"Alaska"	"02"	"36 years"	"36"	48	25475	188.4
+	"Alaska"	"02"	"37 years"	"37"	43	24704	174.1
+	"Alaska"	"02"	"38 years"	"38"	40	23735	168.5
+	"Alaska"	"02"	"39 years"	"39"	40	23035	173.6
+	"Alaska"	"02"	"40 years"	"40"	42	21893	191.8
+	"Alaska"	"02"	"41 years"	"41"	47	21049	223.3
+	"Alaska"	"02"	"42 years"	"42"	35	20545	170.4
+	"Alaska"	"02"	"43 years"	"43"	49	19983	245.2
+	"Alaska"	"02"	"44 years"	"44"	44	19802	222.2
+	"Alaska"	"02"	"45 years"	"45"	62	20213	306.7
+	"Alaska"	"02"	"46 years"	"46"	55	20552	267.6
+	"Alaska"	"02"	"47 years"	"47"	67	20793	322.2
+	"Alaska"	"02"	"48 years"	"48"	69	20782	332.0
+	"Alaska"	"02"	"49 years"	"49"	75	20963	357.8
+	"Alaska"	"02"	"50 years"	"50"	79	20668	382.2
+	"Alaska"	"02"	"51 years"	"51"	69	20782	332.0
+	"Alaska"	"02"	"52 years"	"52"	85	21273	399.6
+	"Alaska"	"02"	"53 years"	"53"	90	22218	405.1
+	"Alaska"	"02"	"54 years"	"54"	132	22722	580.9
+	"Alaska"	"02"	"55 years"	"55"	136	23218	585.8
+	"Alaska"	"02"	"56 years"	"56"	130	23696	548.6
+	"Alaska"	"02"	"57 years"	"57"	119	23766	500.7
+	"Alaska"	"02"	"58 years"	"58"	140	23594	593.4
+	"Alaska"	"02"	"59 years"	"59"	162	23507	689.2
+	"Alaska"	"02"	"60 years"	"60"	142	23184	612.5
+	"Alaska"	"02"	"61 years"	"61"	153	22796	671.2
+	"Alaska"	"02"	"62 years"	"62"	172	22277	772.1
+	"Alaska"	"02"	"63 years"	"63"	165	21403	770.9
+	"Alaska"	"02"	"64 years"	"64"	157	20444	768.0
+	"Alaska"	"02"	"65 years"	"65"	183	19335	946.5
+	"Alaska"	"02"	"66 years"	"66"	169	18093	934.1
+	"Alaska"	"02"	"67 years"	"67"	190	16882	1125.5
+	"Alaska"	"02"	"68 years"	"68"	195	15694	1242.5
+	"Alaska"	"02"	"69 years"	"69"	201	14919	1347.3
+	"Alaska"	"02"	"70 years"	"70"	214	13586	1575.2
+	"Alaska"	"02"	"71 years"	"71"	209	12396	1686.0
+	"Alaska"	"02"	"72 years"	"72"	159	11233	1415.5
+	"Alaska"	"02"	"73 years"	"73"	223	10311	2162.7
+	"Alaska"	"02"	"74 years"	"74"	190	9171	2071.7
+	"Alaska"	"02"	"75 years"	"75"	215	8380	2565.6
+	"Alaska"	"02"	"76 years"	"76"	186	7783	2389.8
+	"Alaska"	"02"	"77 years"	"77"	202	6887	2933.1
+	"Alaska"	"02"	"78 years"	"78"	177	6193	2858.1
+	"Alaska"	"02"	"79 years"	"79"	219	5557	3941.0
+	"Alaska"	"02"	"80 years"	"80"	226	4998	4521.8
+	"Alaska"	"02"	"81 years"	"81"	188	4405	4267.9
+	"Alaska"	"02"	"82 years"	"82"	217	4188	5181.5
+	"Alaska"	"02"	"83 years"	"83"	228	3826	5959.2
+	"Alaska"	"02"	"84 years"	"84"	223	3446	6471.3
+	"Alaska"	"02"	"85 years"	"85"	201	Not Applicable	Not Applicable
+	"Alaska"	"02"	"86 years"	"86"	242	Not Applicable	Not Applicable
+	"Alaska"	"02"	"87 years"	"87"	221	Not Applicable	Not Applicable
+	"Alaska"	"02"	"88 years"	"88"	199	Not Applicable	Not Applicable
+	"Alaska"	"02"	"89 years"	"89"	218	Not Applicable	Not Applicable
+	"Alaska"	"02"	"90 years"	"90"	192	Not Applicable	Not Applicable
+	"Alaska"	"02"	"91 years"	"91"	201	Not Applicable	Not Applicable
+	"Alaska"	"02"	"92 years"	"92"	179	Not Applicable	Not Applicable
+	"Alaska"	"02"	"93 years"	"93"	152	Not Applicable	Not Applicable
+	"Alaska"	"02"	"94 years"	"94"	136	Not Applicable	Not Applicable
+	"Alaska"	"02"	"95 years"	"95"	114	Not Applicable	Not Applicable
+	"Alaska"	"02"	"96 years"	"96"	98	Not Applicable	Not Applicable
+	"Alaska"	"02"	"97 years"	"97"	73	Not Applicable	Not Applicable
+	"Alaska"	"02"	"98 years"	"98"	64	Not Applicable	Not Applicable
+	"Alaska"	"02"	"99 years"	"99"	35	Not Applicable	Not Applicable
+	"Alaska"	"02"	"100+ years"	"100"	91	Not Applicable	Not Applicable
+"Total"	"Alaska"	"02"			9883	1759378	561.7
+"Total"					9883	1759378	561.7
+"---"
+"Dataset: Underlying Cause of Death, 1999-2020"
+"Query Parameters:"
+"Title: Alaska General F"
+"Gender: Female"
+"States: Alaska (02)"
+"Year/Month: 2016; 2017; 2018; 2019; 2020"
+"Group By: State; Single-Year Ages"
+"Show Totals: True"
+"Show Zero Values: False"
+"Show Suppressed: False"
+"Calculate Rates Per: 100,000"
+"Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/ucd.html for more information."
+"---"
+"Query Date: Apr 8, 2022 12:07:14 AM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. Underlying Cause of Death"
+"1999-2020 on CDC WONDER Online Database, released in 2021. Data are from the Multiple Cause of Death Files, 1999-2020, as"
+"compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative Program. Accessed"
+"at http://wonder.cdc.gov/ucd-icd10.html on Apr 8, 2022 12:07:14 AM"
+"---"
+Messages:
+"1. Rows with suppressed Deaths are hidden, but the Deaths and Population values in those rows are included in the totals. Use"
+"Quick Options above to show suppressed rows."
+"---"
+Caveats:
+"1. Population and rates are labeled 'Not Applicable' when they include a subset of ages 85-100+ because populations are not"
+"available for those ages. More information: http://wonder.cdc.gov/wonder/help/ucd.html#Ages 85-100."
+"2. Data are Suppressed when the data meet the criteria for confidentiality constraints. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Assurance of Confidentiality."
+"3. Death rates are flagged as Unreliable when the rate is calculated with a numerator of 20 or less. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Unreliable."
+"4. Deaths of persons with Age ""Not Stated"" are included in ""All"" counts and rates, but are not distributed among age groups,"
+"so are not included in age-specific counts, age-specific rates or in any age-adjusted rates. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Not Stated."
+"5. The population figures for year 2020 are bridged-race estimates of the July 1 resident population, from the Vintage 2020"
+"postcensal series released by NCHS on September 22, 2021. The population figures for year 2019 are bridged-race estimates of the"
+"July 1 resident population, from the Vintage 2019 postcensal series released by NCHS on July 9, 2020. The population figures for"
+"year 2018 are bridged-race estimates of the July 1 resident population, from the Vintage 2018 postcensal series released by NCHS"
+"on June 25, 2019. The population figures for year 2017 are bridged-race estimates of the July 1 resident population, from the"
+"Vintage 2017 postcensal series released by NCHS on June 27, 2018. The population figures for year 2016 are bridged-race"
+"estimates of the July 1 resident population, from the Vintage 2016 postcensal series released by NCHS on June 26, 2017. The"
+"population figures for year 2015 are bridged-race estimates of the July 1 resident population, from the Vintage 2015 postcensal"
+"series released by NCHS on June 28, 2016. The population figures for year 2014 are bridged-race estimates of the July 1 resident"
+"population, from the Vintage 2014 postcensal series released by NCHS on June 30, 2015. The population figures for year 2013 are"
+"bridged-race estimates of the July 1 resident population, from the Vintage 2013 postcensal series released by NCHS on June 26,"
+"2014. The population figures for year 2012 are bridged-race estimates of the July 1 resident population, from the Vintage 2012"
+"postcensal series released by NCHS on June 13, 2013. The population figures for year 2011 are bridged-race estimates of the July"
+"1 resident population, from the Vintage 2011 postcensal series released by NCHS on July 18, 2012. Population figures for 2010"
+"are April 1 Census counts. The population figures for years 2001 - 2009 are bridged-race estimates of the July 1 resident"
+"population, from the revised intercensal county-level 2000 - 2009 series released by NCHS on October 26, 2012. Population"
+"figures for 2000 are April 1 Census counts. Population figures for 1999 are from the 1990-1999 intercensal series of July 1"
+"estimates. Population figures for the infant age groups are the number of live births. <br/><b>Note:</b> Rates and population"
+"figures for years 2001 - 2009 differ slightly from previously published reports, due to use of the population estimates which"
+"were available at the time of release."
+"6. The population figures used in the calculation of death rates for the age group 'under 1 year' are the estimates of the"
+"resident population that is under one year of age. More information: http://wonder.cdc.gov/wonder/help/ucd.html#Age Group."

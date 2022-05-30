@@ -1,0 +1,162 @@
+"Notes"	"State"	"State Code"	"Single-Year Ages"	"Single-Year Ages Code"	Deaths	Population	Crude Rate
+	"Washington"	"53"	"< 1 year"	"0"	1033	228887	451.3
+	"Washington"	"53"	"1 year"	"1"	65	230932	28.1
+	"Washington"	"53"	"2 years"	"2"	42	234693	17.9
+	"Washington"	"53"	"3 years"	"3"	43	236943	18.1
+	"Washington"	"53"	"4 years"	"4"	27	238790	11.3
+	"Washington"	"53"	"5 years"	"5"	12	237617	Unreliable
+	"Washington"	"53"	"6 years"	"6"	23	238166	9.7
+	"Washington"	"53"	"7 years"	"7"	23	237477	9.7
+	"Washington"	"53"	"8 years"	"8"	22	238420	9.2
+	"Washington"	"53"	"9 years"	"9"	19	239229	Unreliable
+	"Washington"	"53"	"10 years"	"10"	28	238455	11.7
+	"Washington"	"53"	"11 years"	"11"	29	237466	12.2
+	"Washington"	"53"	"12 years"	"12"	29	235968	12.3
+	"Washington"	"53"	"13 years"	"13"	35	232550	15.1
+	"Washington"	"53"	"14 years"	"14"	62	230286	26.9
+	"Washington"	"53"	"15 years"	"15"	78	229135	34.0
+	"Washington"	"53"	"16 years"	"16"	120	230343	52.1
+	"Washington"	"53"	"17 years"	"17"	137	232642	58.9
+	"Washington"	"53"	"18 years"	"18"	221	226797	97.4
+	"Washington"	"53"	"19 years"	"19"	242	223398	108.3
+	"Washington"	"53"	"20 years"	"20"	241	233909	103.0
+	"Washington"	"53"	"21 years"	"21"	323	238730	135.3
+	"Washington"	"53"	"22 years"	"22"	303	248704	121.8
+	"Washington"	"53"	"23 years"	"23"	300	262956	114.1
+	"Washington"	"53"	"24 years"	"24"	306	276786	110.6
+	"Washington"	"53"	"25 years"	"25"	355	290880	122.0
+	"Washington"	"53"	"26 years"	"26"	327	300217	108.9
+	"Washington"	"53"	"27 years"	"27"	421	306109	137.5
+	"Washington"	"53"	"28 years"	"28"	412	307575	134.0
+	"Washington"	"53"	"29 years"	"29"	364	304147	119.7
+	"Washington"	"53"	"30 years"	"30"	407	298885	136.2
+	"Washington"	"53"	"31 years"	"31"	406	292592	138.8
+	"Washington"	"53"	"32 years"	"32"	357	288049	123.9
+	"Washington"	"53"	"33 years"	"33"	396	285799	138.6
+	"Washington"	"53"	"34 years"	"34"	445	284642	156.3
+	"Washington"	"53"	"35 years"	"35"	453	281724	160.8
+	"Washington"	"53"	"36 years"	"36"	472	278539	169.5
+	"Washington"	"53"	"37 years"	"37"	441	272838	161.6
+	"Washington"	"53"	"38 years"	"38"	469	265982	176.3
+	"Washington"	"53"	"39 years"	"39"	444	257812	172.2
+	"Washington"	"53"	"40 years"	"40"	519	249796	207.8
+	"Washington"	"53"	"41 years"	"41"	479	241365	198.5
+	"Washington"	"53"	"42 years"	"42"	531	235031	225.9
+	"Washington"	"53"	"43 years"	"43"	512	230954	221.7
+	"Washington"	"53"	"44 years"	"44"	575	228741	251.4
+	"Washington"	"53"	"45 years"	"45"	590	232853	253.4
+	"Washington"	"53"	"46 years"	"46"	682	236278	288.6
+	"Washington"	"53"	"47 years"	"47"	766	239445	319.9
+	"Washington"	"53"	"48 years"	"48"	796	240416	331.1
+	"Washington"	"53"	"49 years"	"49"	887	238300	372.2
+	"Washington"	"53"	"50 years"	"50"	1004	233294	430.4
+	"Washington"	"53"	"51 years"	"51"	1026	229576	446.9
+	"Washington"	"53"	"52 years"	"52"	1128	229711	491.1
+	"Washington"	"53"	"53 years"	"53"	1239	232400	533.1
+	"Washington"	"53"	"54 years"	"54"	1451	236126	614.5
+	"Washington"	"53"	"55 years"	"55"	1564	240550	650.2
+	"Washington"	"53"	"56 years"	"56"	1690	242589	696.7
+	"Washington"	"53"	"57 years"	"57"	1827	242705	752.8
+	"Washington"	"53"	"58 years"	"58"	1918	240755	796.7
+	"Washington"	"53"	"59 years"	"59"	2145	239136	897.0
+	"Washington"	"53"	"60 years"	"60"	2299	235896	974.6
+	"Washington"	"53"	"61 years"	"61"	2468	231240	1067.3
+	"Washington"	"53"	"62 years"	"62"	2633	226929	1160.3
+	"Washington"	"53"	"63 years"	"63"	2848	221744	1284.4
+	"Washington"	"53"	"64 years"	"64"	2920	214055	1364.1
+	"Washington"	"53"	"65 years"	"65"	3009	206848	1454.7
+	"Washington"	"53"	"66 years"	"66"	3158	198733	1589.1
+	"Washington"	"53"	"67 years"	"67"	3061	190765	1604.6
+	"Washington"	"53"	"68 years"	"68"	3094	183855	1682.8
+	"Washington"	"53"	"69 years"	"69"	3486	179892	1937.8
+	"Washington"	"53"	"70 years"	"70"	3394	167865	2021.9
+	"Washington"	"53"	"71 years"	"71"	3440	155752	2208.6
+	"Washington"	"53"	"72 years"	"72"	3413	144366	2364.1
+	"Washington"	"53"	"73 years"	"73"	3553	133835	2654.8
+	"Washington"	"53"	"74 years"	"74"	3495	118542	2948.3
+	"Washington"	"53"	"75 years"	"75"	3506	110585	3170.4
+	"Washington"	"53"	"76 years"	"76"	3552	101370	3504.0
+	"Washington"	"53"	"77 years"	"77"	3621	91667	3950.2
+	"Washington"	"53"	"78 years"	"78"	3526	81847	4308.0
+	"Washington"	"53"	"79 years"	"79"	3650	73758	4948.6
+	"Washington"	"53"	"80 years"	"80"	3691	66758	5528.9
+	"Washington"	"53"	"81 years"	"81"	3646	59962	6080.5
+	"Washington"	"53"	"82 years"	"82"	3547	54050	6562.4
+	"Washington"	"53"	"83 years"	"83"	3593	48388	7425.4
+	"Washington"	"53"	"84 years"	"84"	3659	43302	8450.0
+	"Washington"	"53"	"85 years"	"85"	3622	Not Applicable	Not Applicable
+	"Washington"	"53"	"86 years"	"86"	3759	Not Applicable	Not Applicable
+	"Washington"	"53"	"87 years"	"87"	3545	Not Applicable	Not Applicable
+	"Washington"	"53"	"88 years"	"88"	3598	Not Applicable	Not Applicable
+	"Washington"	"53"	"89 years"	"89"	3400	Not Applicable	Not Applicable
+	"Washington"	"53"	"90 years"	"90"	3214	Not Applicable	Not Applicable
+	"Washington"	"53"	"91 years"	"91"	2923	Not Applicable	Not Applicable
+	"Washington"	"53"	"92 years"	"92"	2623	Not Applicable	Not Applicable
+	"Washington"	"53"	"93 years"	"93"	2424	Not Applicable	Not Applicable
+	"Washington"	"53"	"94 years"	"94"	2018	Not Applicable	Not Applicable
+	"Washington"	"53"	"95 years"	"95"	1654	Not Applicable	Not Applicable
+	"Washington"	"53"	"96 years"	"96"	1313	Not Applicable	Not Applicable
+	"Washington"	"53"	"97 years"	"97"	925	Not Applicable	Not Applicable
+	"Washington"	"53"	"98 years"	"98"	711	Not Applicable	Not Applicable
+	"Washington"	"53"	"99 years"	"99"	477	Not Applicable	Not Applicable
+	"Washington"	"53"	"100+ years"	"100"	755	Not Applicable	Not Applicable
+"---"
+"Dataset: Underlying Cause of Death, 1999-2020"
+"Query Parameters:"
+"Title: Washington General M"
+"Gender: Male"
+"States: Washington (53)"
+"Year/Month: 2016; 2017; 2018; 2019; 2020"
+"Group By: State; Single-Year Ages"
+"Show Totals: Disabled"
+"Show Zero Values: False"
+"Show Suppressed: False"
+"Calculate Rates Per: 100,000"
+"Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/ucd.html for more information."
+"---"
+"Query Date: Apr 11, 2022 3:15:30 AM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. Underlying Cause of Death"
+"1999-2020 on CDC WONDER Online Database, released in 2021. Data are from the Multiple Cause of Death Files, 1999-2020, as"
+"compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative Program. Accessed"
+"at http://wonder.cdc.gov/ucd-icd10.html on Apr 11, 2022 3:15:30 AM"
+"---"
+Messages:
+"1. Totals are not available for these results due to suppression constraints. More Information:"
+"http://wonder.cdc.gov/wonder/help/faq.html#Privacy."
+"2. Rows with suppressed Deaths are hidden. Use Quick Options above to show suppressed rows."
+"---"
+Caveats:
+"1. Population and rates are labeled 'Not Applicable' when they include a subset of ages 85-100+ because populations are not"
+"available for those ages. More information: http://wonder.cdc.gov/wonder/help/ucd.html#Ages 85-100."
+"2. Data are Suppressed when the data meet the criteria for confidentiality constraints. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Assurance of Confidentiality."
+"3. Death rates are flagged as Unreliable when the rate is calculated with a numerator of 20 or less. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Unreliable."
+"4. Deaths of persons with Age ""Not Stated"" are included in ""All"" counts and rates, but are not distributed among age groups,"
+"so are not included in age-specific counts, age-specific rates or in any age-adjusted rates. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Not Stated."
+"5. The population figures for year 2020 are bridged-race estimates of the July 1 resident population, from the Vintage 2020"
+"postcensal series released by NCHS on September 22, 2021. The population figures for year 2019 are bridged-race estimates of the"
+"July 1 resident population, from the Vintage 2019 postcensal series released by NCHS on July 9, 2020. The population figures for"
+"year 2018 are bridged-race estimates of the July 1 resident population, from the Vintage 2018 postcensal series released by NCHS"
+"on June 25, 2019. The population figures for year 2017 are bridged-race estimates of the July 1 resident population, from the"
+"Vintage 2017 postcensal series released by NCHS on June 27, 2018. The population figures for year 2016 are bridged-race"
+"estimates of the July 1 resident population, from the Vintage 2016 postcensal series released by NCHS on June 26, 2017. The"
+"population figures for year 2015 are bridged-race estimates of the July 1 resident population, from the Vintage 2015 postcensal"
+"series released by NCHS on June 28, 2016. The population figures for year 2014 are bridged-race estimates of the July 1 resident"
+"population, from the Vintage 2014 postcensal series released by NCHS on June 30, 2015. The population figures for year 2013 are"
+"bridged-race estimates of the July 1 resident population, from the Vintage 2013 postcensal series released by NCHS on June 26,"
+"2014. The population figures for year 2012 are bridged-race estimates of the July 1 resident population, from the Vintage 2012"
+"postcensal series released by NCHS on June 13, 2013. The population figures for year 2011 are bridged-race estimates of the July"
+"1 resident population, from the Vintage 2011 postcensal series released by NCHS on July 18, 2012. Population figures for 2010"
+"are April 1 Census counts. The population figures for years 2001 - 2009 are bridged-race estimates of the July 1 resident"
+"population, from the revised intercensal county-level 2000 - 2009 series released by NCHS on October 26, 2012. Population"
+"figures for 2000 are April 1 Census counts. Population figures for 1999 are from the 1990-1999 intercensal series of July 1"
+"estimates. Population figures for the infant age groups are the number of live births. <br/><b>Note:</b> Rates and population"
+"figures for years 2001 - 2009 differ slightly from previously published reports, due to use of the population estimates which"
+"were available at the time of release."
+"6. The population figures used in the calculation of death rates for the age group 'under 1 year' are the estimates of the"
+"resident population that is under one year of age. More information: http://wonder.cdc.gov/wonder/help/ucd.html#Age Group."

@@ -1,0 +1,148 @@
+"Notes"	"State"	"State Code"	"Single-Year Ages"	"Single-Year Ages Code"	Deaths	Population	Crude Rate
+	"Wyoming"	"56"	"< 1 year"	"0"	101	17709	570.3
+	"Wyoming"	"56"	"16 years"	"16"	17	18972	Unreliable
+	"Wyoming"	"56"	"17 years"	"17"	18	19033	Unreliable
+	"Wyoming"	"56"	"18 years"	"18"	21	18371	114.3
+	"Wyoming"	"56"	"19 years"	"19"	24	19656	122.1
+	"Wyoming"	"56"	"20 years"	"20"	29	19854	146.1
+	"Wyoming"	"56"	"21 years"	"21"	33	20740	159.1
+	"Wyoming"	"56"	"22 years"	"22"	34	21329	159.4
+	"Wyoming"	"56"	"23 years"	"23"	26	20588	126.3
+	"Wyoming"	"56"	"24 years"	"24"	36	19962	180.3
+	"Wyoming"	"56"	"25 years"	"25"	26	19983	130.1
+	"Wyoming"	"56"	"26 years"	"26"	39	20448	190.7
+	"Wyoming"	"56"	"27 years"	"27"	38	20391	186.4
+	"Wyoming"	"56"	"28 years"	"28"	43	20211	212.8
+	"Wyoming"	"56"	"29 years"	"29"	40	20214	197.9
+	"Wyoming"	"56"	"30 years"	"30"	44	20100	218.9
+	"Wyoming"	"56"	"31 years"	"31"	52	20506	253.6
+	"Wyoming"	"56"	"32 years"	"32"	40	20498	195.1
+	"Wyoming"	"56"	"33 years"	"33"	42	20721	202.7
+	"Wyoming"	"56"	"34 years"	"34"	45	20684	217.6
+	"Wyoming"	"56"	"35 years"	"35"	51	20684	246.6
+	"Wyoming"	"56"	"36 years"	"36"	56	20681	270.8
+	"Wyoming"	"56"	"37 years"	"37"	55	20584	267.2
+	"Wyoming"	"56"	"38 years"	"38"	45	19887	226.3
+	"Wyoming"	"56"	"39 years"	"39"	62	19448	318.8
+	"Wyoming"	"56"	"40 years"	"40"	64	18718	341.9
+	"Wyoming"	"56"	"41 years"	"41"	50	18266	273.7
+	"Wyoming"	"56"	"42 years"	"42"	57	17606	323.8
+	"Wyoming"	"56"	"43 years"	"43"	59	17136	344.3
+	"Wyoming"	"56"	"44 years"	"44"	56	16813	333.1
+	"Wyoming"	"56"	"45 years"	"45"	66	17193	383.9
+	"Wyoming"	"56"	"46 years"	"46"	76	16955	448.2
+	"Wyoming"	"56"	"47 years"	"47"	65	16909	384.4
+	"Wyoming"	"56"	"48 years"	"48"	90	16849	534.2
+	"Wyoming"	"56"	"49 years"	"49"	75	16579	452.4
+	"Wyoming"	"56"	"50 years"	"50"	76	16427	462.7
+	"Wyoming"	"56"	"51 years"	"51"	87	16091	540.7
+	"Wyoming"	"56"	"52 years"	"52"	117	16537	707.5
+	"Wyoming"	"56"	"53 years"	"53"	122	17104	713.3
+	"Wyoming"	"56"	"54 years"	"54"	125	18005	694.3
+	"Wyoming"	"56"	"55 years"	"55"	162	18485	876.4
+	"Wyoming"	"56"	"56 years"	"56"	152	19307	787.3
+	"Wyoming"	"56"	"57 years"	"57"	165	19719	836.8
+	"Wyoming"	"56"	"58 years"	"58"	173	20418	847.3
+	"Wyoming"	"56"	"59 years"	"59"	201	20672	972.3
+	"Wyoming"	"56"	"60 years"	"60"	223	20634	1080.7
+	"Wyoming"	"56"	"61 years"	"61"	228	20603	1106.6
+	"Wyoming"	"56"	"62 years"	"62"	252	20320	1240.2
+	"Wyoming"	"56"	"63 years"	"63"	279	19966	1397.4
+	"Wyoming"	"56"	"64 years"	"64"	251	19614	1279.7
+	"Wyoming"	"56"	"65 years"	"65"	313	18768	1667.7
+	"Wyoming"	"56"	"66 years"	"66"	287	17927	1600.9
+	"Wyoming"	"56"	"67 years"	"67"	273	17230	1584.4
+	"Wyoming"	"56"	"68 years"	"68"	308	16321	1887.1
+	"Wyoming"	"56"	"69 years"	"69"	314	15687	2001.7
+	"Wyoming"	"56"	"70 years"	"70"	339	14594	2322.9
+	"Wyoming"	"56"	"71 years"	"71"	314	13394	2344.3
+	"Wyoming"	"56"	"72 years"	"72"	295	12047	2448.7
+	"Wyoming"	"56"	"73 years"	"73"	333	11281	2951.9
+	"Wyoming"	"56"	"74 years"	"74"	340	9973	3409.2
+	"Wyoming"	"56"	"75 years"	"75"	318	9192	3459.5
+	"Wyoming"	"56"	"76 years"	"76"	332	8523	3895.3
+	"Wyoming"	"56"	"77 years"	"77"	333	7779	4280.8
+	"Wyoming"	"56"	"78 years"	"78"	331	6917	4785.3
+	"Wyoming"	"56"	"79 years"	"79"	316	6247	5058.4
+	"Wyoming"	"56"	"80 years"	"80"	359	5750	6243.5
+	"Wyoming"	"56"	"81 years"	"81"	308	5156	5973.6
+	"Wyoming"	"56"	"82 years"	"82"	303	4614	6567.0
+	"Wyoming"	"56"	"83 years"	"83"	314	4100	7658.5
+	"Wyoming"	"56"	"84 years"	"84"	332	3695	8985.1
+	"Wyoming"	"56"	"85 years"	"85"	322	Not Applicable	Not Applicable
+	"Wyoming"	"56"	"86 years"	"86"	326	Not Applicable	Not Applicable
+	"Wyoming"	"56"	"87 years"	"87"	317	Not Applicable	Not Applicable
+	"Wyoming"	"56"	"88 years"	"88"	329	Not Applicable	Not Applicable
+	"Wyoming"	"56"	"89 years"	"89"	302	Not Applicable	Not Applicable
+	"Wyoming"	"56"	"90 years"	"90"	287	Not Applicable	Not Applicable
+	"Wyoming"	"56"	"91 years"	"91"	246	Not Applicable	Not Applicable
+	"Wyoming"	"56"	"92 years"	"92"	239	Not Applicable	Not Applicable
+	"Wyoming"	"56"	"93 years"	"93"	200	Not Applicable	Not Applicable
+	"Wyoming"	"56"	"94 years"	"94"	157	Not Applicable	Not Applicable
+	"Wyoming"	"56"	"95 years"	"95"	112	Not Applicable	Not Applicable
+	"Wyoming"	"56"	"96 years"	"96"	84	Not Applicable	Not Applicable
+	"Wyoming"	"56"	"97 years"	"97"	55	Not Applicable	Not Applicable
+	"Wyoming"	"56"	"98 years"	"98"	36	Not Applicable	Not Applicable
+	"Wyoming"	"56"	"99 years"	"99"	22	Not Applicable	Not Applicable
+	"Wyoming"	"56"	"100+ years"	"100"	46	Not Applicable	Not Applicable
+"Total"	"Wyoming"	"56"			13785	1480535	931.1
+"Total"					13785	1480535	931.1
+"---"
+"Dataset: Underlying Cause of Death, 1999-2020"
+"Query Parameters:"
+"Title: Wyoming General M"
+"Gender: Male"
+"States: Wyoming (56)"
+"Year/Month: 2016; 2017; 2018; 2019; 2020"
+"Group By: State; Single-Year Ages"
+"Show Totals: True"
+"Show Zero Values: False"
+"Show Suppressed: False"
+"Calculate Rates Per: 100,000"
+"Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/ucd.html for more information."
+"---"
+"Query Date: Apr 11, 2022 3:24:00 AM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. Underlying Cause of Death"
+"1999-2020 on CDC WONDER Online Database, released in 2021. Data are from the Multiple Cause of Death Files, 1999-2020, as"
+"compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative Program. Accessed"
+"at http://wonder.cdc.gov/ucd-icd10.html on Apr 11, 2022 3:24:00 AM"
+"---"
+Messages:
+"1. Rows with suppressed Deaths are hidden, but the Deaths and Population values in those rows are included in the totals. Use"
+"Quick Options above to show suppressed rows."
+"---"
+Caveats:
+"1. Population and rates are labeled 'Not Applicable' when they include a subset of ages 85-100+ because populations are not"
+"available for those ages. More information: http://wonder.cdc.gov/wonder/help/ucd.html#Ages 85-100."
+"2. Data are Suppressed when the data meet the criteria for confidentiality constraints. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Assurance of Confidentiality."
+"3. Death rates are flagged as Unreliable when the rate is calculated with a numerator of 20 or less. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Unreliable."
+"4. Deaths of persons with Age ""Not Stated"" are included in ""All"" counts and rates, but are not distributed among age groups,"
+"so are not included in age-specific counts, age-specific rates or in any age-adjusted rates. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Not Stated."
+"5. The population figures for year 2020 are bridged-race estimates of the July 1 resident population, from the Vintage 2020"
+"postcensal series released by NCHS on September 22, 2021. The population figures for year 2019 are bridged-race estimates of the"
+"July 1 resident population, from the Vintage 2019 postcensal series released by NCHS on July 9, 2020. The population figures for"
+"year 2018 are bridged-race estimates of the July 1 resident population, from the Vintage 2018 postcensal series released by NCHS"
+"on June 25, 2019. The population figures for year 2017 are bridged-race estimates of the July 1 resident population, from the"
+"Vintage 2017 postcensal series released by NCHS on June 27, 2018. The population figures for year 2016 are bridged-race"
+"estimates of the July 1 resident population, from the Vintage 2016 postcensal series released by NCHS on June 26, 2017. The"
+"population figures for year 2015 are bridged-race estimates of the July 1 resident population, from the Vintage 2015 postcensal"
+"series released by NCHS on June 28, 2016. The population figures for year 2014 are bridged-race estimates of the July 1 resident"
+"population, from the Vintage 2014 postcensal series released by NCHS on June 30, 2015. The population figures for year 2013 are"
+"bridged-race estimates of the July 1 resident population, from the Vintage 2013 postcensal series released by NCHS on June 26,"
+"2014. The population figures for year 2012 are bridged-race estimates of the July 1 resident population, from the Vintage 2012"
+"postcensal series released by NCHS on June 13, 2013. The population figures for year 2011 are bridged-race estimates of the July"
+"1 resident population, from the Vintage 2011 postcensal series released by NCHS on July 18, 2012. Population figures for 2010"
+"are April 1 Census counts. The population figures for years 2001 - 2009 are bridged-race estimates of the July 1 resident"
+"population, from the revised intercensal county-level 2000 - 2009 series released by NCHS on October 26, 2012. Population"
+"figures for 2000 are April 1 Census counts. Population figures for 1999 are from the 1990-1999 intercensal series of July 1"
+"estimates. Population figures for the infant age groups are the number of live births. <br/><b>Note:</b> Rates and population"
+"figures for years 2001 - 2009 differ slightly from previously published reports, due to use of the population estimates which"
+"were available at the time of release."
+"6. The population figures used in the calculation of death rates for the age group 'under 1 year' are the estimates of the"
+"resident population that is under one year of age. More information: http://wonder.cdc.gov/wonder/help/ucd.html#Age Group."

@@ -1,0 +1,151 @@
+"Notes"	"State"	"State Code"	"Single-Year Ages"	"Single-Year Ages Code"	Deaths	Population	Crude Rate
+	"Hawaii"	"15"	"< 1 year"	"0"	271	44240	612.6
+	"Hawaii"	"15"	"1 year"	"1"	26	44174	58.9
+	"Hawaii"	"15"	"11 years"	"11"	10	41891	Unreliable
+	"Hawaii"	"15"	"15 years"	"15"	13	40185	Unreliable
+	"Hawaii"	"15"	"16 years"	"16"	21	40076	52.4
+	"Hawaii"	"15"	"17 years"	"17"	11	39551	Unreliable
+	"Hawaii"	"15"	"18 years"	"18"	33	38706	85.3
+	"Hawaii"	"15"	"19 years"	"19"	30	40662	73.8
+	"Hawaii"	"15"	"20 years"	"20"	39	46452	84.0
+	"Hawaii"	"15"	"21 years"	"21"	43	50024	86.0
+	"Hawaii"	"15"	"22 years"	"22"	38	51771	73.4
+	"Hawaii"	"15"	"23 years"	"23"	50	51571	97.0
+	"Hawaii"	"15"	"24 years"	"24"	56	53878	103.9
+	"Hawaii"	"15"	"25 years"	"25"	46	55193	83.3
+	"Hawaii"	"15"	"26 years"	"26"	63	55575	113.4
+	"Hawaii"	"15"	"27 years"	"27"	55	54791	100.4
+	"Hawaii"	"15"	"28 years"	"28"	69	53966	127.9
+	"Hawaii"	"15"	"29 years"	"29"	57	53476	106.6
+	"Hawaii"	"15"	"30 years"	"30"	74	52923	139.8
+	"Hawaii"	"15"	"31 years"	"31"	73	51521	141.7
+	"Hawaii"	"15"	"32 years"	"32"	72	50808	141.7
+	"Hawaii"	"15"	"33 years"	"33"	69	51231	134.7
+	"Hawaii"	"15"	"34 years"	"34"	71	50081	141.8
+	"Hawaii"	"15"	"35 years"	"35"	85	50154	169.5
+	"Hawaii"	"15"	"36 years"	"36"	93	49754	186.9
+	"Hawaii"	"15"	"37 years"	"37"	100	48760	205.1
+	"Hawaii"	"15"	"38 years"	"38"	98	47927	204.5
+	"Hawaii"	"15"	"39 years"	"39"	106	46554	227.7
+	"Hawaii"	"15"	"40 years"	"40"	90	45655	197.1
+	"Hawaii"	"15"	"41 years"	"41"	109	43395	251.2
+	"Hawaii"	"15"	"42 years"	"42"	124	42206	293.8
+	"Hawaii"	"15"	"43 years"	"43"	124	41207	300.9
+	"Hawaii"	"15"	"44 years"	"44"	106	41178	257.4
+	"Hawaii"	"15"	"45 years"	"45"	127	42015	302.3
+	"Hawaii"	"15"	"46 years"	"46"	132	42710	309.1
+	"Hawaii"	"15"	"47 years"	"47"	165	43289	381.2
+	"Hawaii"	"15"	"48 years"	"48"	183	43019	425.4
+	"Hawaii"	"15"	"49 years"	"49"	184	42826	429.6
+	"Hawaii"	"15"	"50 years"	"50"	199	42558	467.6
+	"Hawaii"	"15"	"51 years"	"51"	217	42134	515.0
+	"Hawaii"	"15"	"52 years"	"52"	245	42262	579.7
+	"Hawaii"	"15"	"53 years"	"53"	251	43154	581.6
+	"Hawaii"	"15"	"54 years"	"54"	292	43887	665.3
+	"Hawaii"	"15"	"55 years"	"55"	311	44651	696.5
+	"Hawaii"	"15"	"56 years"	"56"	328	45099	727.3
+	"Hawaii"	"15"	"57 years"	"57"	380	45281	839.2
+	"Hawaii"	"15"	"58 years"	"58"	390	45176	863.3
+	"Hawaii"	"15"	"59 years"	"59"	443	44873	987.2
+	"Hawaii"	"15"	"60 years"	"60"	464	45105	1028.7
+	"Hawaii"	"15"	"61 years"	"61"	493	44205	1115.3
+	"Hawaii"	"15"	"62 years"	"62"	542	43758	1238.6
+	"Hawaii"	"15"	"63 years"	"63"	543	43064	1260.9
+	"Hawaii"	"15"	"64 years"	"64"	574	42380	1354.4
+	"Hawaii"	"15"	"65 years"	"65"	561	41561	1349.8
+	"Hawaii"	"15"	"66 years"	"66"	629	40811	1541.3
+	"Hawaii"	"15"	"67 years"	"67"	634	40045	1583.2
+	"Hawaii"	"15"	"68 years"	"68"	620	38834	1596.5
+	"Hawaii"	"15"	"69 years"	"69"	638	38030	1677.6
+	"Hawaii"	"15"	"70 years"	"70"	697	36252	1922.7
+	"Hawaii"	"15"	"71 years"	"71"	667	33829	1971.7
+	"Hawaii"	"15"	"72 years"	"72"	735	31830	2309.1
+	"Hawaii"	"15"	"73 years"	"73"	693	29185	2374.5
+	"Hawaii"	"15"	"74 years"	"74"	682	26191	2603.9
+	"Hawaii"	"15"	"75 years"	"75"	666	24058	2768.3
+	"Hawaii"	"15"	"76 years"	"76"	693	21850	3171.6
+	"Hawaii"	"15"	"77 years"	"77"	683	19487	3504.9
+	"Hawaii"	"15"	"78 years"	"78"	649	17493	3710.1
+	"Hawaii"	"15"	"79 years"	"79"	652	15779	4132.1
+	"Hawaii"	"15"	"80 years"	"80"	630	14300	4405.6
+	"Hawaii"	"15"	"81 years"	"81"	639	13077	4886.4
+	"Hawaii"	"15"	"82 years"	"82"	681	11956	5695.9
+	"Hawaii"	"15"	"83 years"	"83"	668	11150	5991.0
+	"Hawaii"	"15"	"84 years"	"84"	705	10322	6830.1
+	"Hawaii"	"15"	"85 years"	"85"	718	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"86 years"	"86"	732	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"87 years"	"87"	727	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"88 years"	"88"	724	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"89 years"	"89"	771	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"90 years"	"90"	790	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"91 years"	"91"	660	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"92 years"	"92"	623	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"93 years"	"93"	612	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"94 years"	"94"	522	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"95 years"	"95"	426	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"96 years"	"96"	385	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"97 years"	"97"	253	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"98 years"	"98"	208	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"99 years"	"99"	146	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"100+ years"	"100"	272	Not Applicable	Not Applicable
+"Total"	"Hawaii"	"15"			30661	3557110	862.0
+"Total"					30661	3557110	862.0
+"---"
+"Dataset: Underlying Cause of Death, 1999-2020"
+"Query Parameters:"
+"Title: Hawaii General M"
+"Gender: Male"
+"States: Hawaii (15)"
+"Year/Month: 2016; 2017; 2018; 2019; 2020"
+"Group By: State; Single-Year Ages"
+"Show Totals: True"
+"Show Zero Values: False"
+"Show Suppressed: False"
+"Calculate Rates Per: 100,000"
+"Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/ucd.html for more information."
+"---"
+"Query Date: Apr 8, 2022 1:21:54 AM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. Underlying Cause of Death"
+"1999-2020 on CDC WONDER Online Database, released in 2021. Data are from the Multiple Cause of Death Files, 1999-2020, as"
+"compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative Program. Accessed"
+"at http://wonder.cdc.gov/ucd-icd10.html on Apr 8, 2022 1:21:54 AM"
+"---"
+Messages:
+"1. Rows with suppressed Deaths are hidden, but the Deaths and Population values in those rows are included in the totals. Use"
+"Quick Options above to show suppressed rows."
+"---"
+Caveats:
+"1. Population and rates are labeled 'Not Applicable' when they include a subset of ages 85-100+ because populations are not"
+"available for those ages. More information: http://wonder.cdc.gov/wonder/help/ucd.html#Ages 85-100."
+"2. Data are Suppressed when the data meet the criteria for confidentiality constraints. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Assurance of Confidentiality."
+"3. Death rates are flagged as Unreliable when the rate is calculated with a numerator of 20 or less. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Unreliable."
+"4. Deaths of persons with Age ""Not Stated"" are included in ""All"" counts and rates, but are not distributed among age groups,"
+"so are not included in age-specific counts, age-specific rates or in any age-adjusted rates. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Not Stated."
+"5. The population figures for year 2020 are bridged-race estimates of the July 1 resident population, from the Vintage 2020"
+"postcensal series released by NCHS on September 22, 2021. The population figures for year 2019 are bridged-race estimates of the"
+"July 1 resident population, from the Vintage 2019 postcensal series released by NCHS on July 9, 2020. The population figures for"
+"year 2018 are bridged-race estimates of the July 1 resident population, from the Vintage 2018 postcensal series released by NCHS"
+"on June 25, 2019. The population figures for year 2017 are bridged-race estimates of the July 1 resident population, from the"
+"Vintage 2017 postcensal series released by NCHS on June 27, 2018. The population figures for year 2016 are bridged-race"
+"estimates of the July 1 resident population, from the Vintage 2016 postcensal series released by NCHS on June 26, 2017. The"
+"population figures for year 2015 are bridged-race estimates of the July 1 resident population, from the Vintage 2015 postcensal"
+"series released by NCHS on June 28, 2016. The population figures for year 2014 are bridged-race estimates of the July 1 resident"
+"population, from the Vintage 2014 postcensal series released by NCHS on June 30, 2015. The population figures for year 2013 are"
+"bridged-race estimates of the July 1 resident population, from the Vintage 2013 postcensal series released by NCHS on June 26,"
+"2014. The population figures for year 2012 are bridged-race estimates of the July 1 resident population, from the Vintage 2012"
+"postcensal series released by NCHS on June 13, 2013. The population figures for year 2011 are bridged-race estimates of the July"
+"1 resident population, from the Vintage 2011 postcensal series released by NCHS on July 18, 2012. Population figures for 2010"
+"are April 1 Census counts. The population figures for years 2001 - 2009 are bridged-race estimates of the July 1 resident"
+"population, from the revised intercensal county-level 2000 - 2009 series released by NCHS on October 26, 2012. Population"
+"figures for 2000 are April 1 Census counts. Population figures for 1999 are from the 1990-1999 intercensal series of July 1"
+"estimates. Population figures for the infant age groups are the number of live births. <br/><b>Note:</b> Rates and population"
+"figures for years 2001 - 2009 differ slightly from previously published reports, due to use of the population estimates which"
+"were available at the time of release."
+"6. The population figures used in the calculation of death rates for the age group 'under 1 year' are the estimates of the"
+"resident population that is under one year of age. More information: http://wonder.cdc.gov/wonder/help/ucd.html#Age Group."

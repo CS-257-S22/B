@@ -1,0 +1,886 @@
+"Notes"	"State"	"State Code"	"Single-Year Ages"	"Single-Year Ages Code"	"Cause of death"	"Cause of death Code"	Deaths	Population	Crude Rate
+	"Nebraska"	"31"	"< 1 year"	"0"	"Extreme immaturity"	"P07.2"	13	62886	Unreliable
+	"Nebraska"	"31"	"< 1 year"	"0"	"Other preterm infants"	"P07.3"	10	62886	Unreliable
+	"Nebraska"	"31"	"< 1 year"	"0"	"Respiratory distress syndrome of newborn"	"P22.0"	10	62886	Unreliable
+	"Nebraska"	"31"	"< 1 year"	"0"	"Edwards syndrome, unspecified"	"Q91.3"	11	62886	Unreliable
+	"Nebraska"	"31"	"< 1 year"	"0"	"Sudden infant death syndrome - SIDS"	"R95"	34	62886	54.1
+	"Nebraska"	"31"	"< 1 year"	"0"	"Accidental suffocation and strangulation in bed"	"W75"	10	62886	Unreliable
+	"Nebraska"	"31"	"43 years"	"43"	"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X44"	12	53534	Unreliable
+	"Nebraska"	"31"	"45 years"	"45"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	11	53734	Unreliable
+	"Nebraska"	"31"	"48 years"	"48"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	11	54229	Unreliable
+	"Nebraska"	"31"	"49 years"	"49"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	11	53510	Unreliable
+	"Nebraska"	"31"	"50 years"	"50"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	13	53033	Unreliable
+	"Nebraska"	"31"	"51 years"	"51"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	10	53391	Unreliable
+	"Nebraska"	"31"	"51 years"	"51"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	19	53391	Unreliable
+	"Nebraska"	"31"	"52 years"	"52"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	13	54696	Unreliable
+	"Nebraska"	"31"	"52 years"	"52"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	13	54696	Unreliable
+	"Nebraska"	"31"	"53 years"	"53"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	14	56958	Unreliable
+	"Nebraska"	"31"	"53 years"	"53"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	16	56958	Unreliable
+	"Nebraska"	"31"	"54 years"	"54"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	23	59209	38.8
+	"Nebraska"	"31"	"54 years"	"54"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	18	59209	Unreliable
+	"Nebraska"	"31"	"55 years"	"55"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	18	61373	Unreliable
+	"Nebraska"	"31"	"55 years"	"55"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	19	61373	Unreliable
+	"Nebraska"	"31"	"55 years"	"55"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	12	61373	Unreliable
+	"Nebraska"	"31"	"56 years"	"56"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	11	63023	Unreliable
+	"Nebraska"	"31"	"56 years"	"56"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	35	63023	55.5
+	"Nebraska"	"31"	"56 years"	"56"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	17	63023	Unreliable
+	"Nebraska"	"31"	"56 years"	"56"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	14	63023	Unreliable
+	"Nebraska"	"31"	"57 years"	"57"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	12	63235	Unreliable
+	"Nebraska"	"31"	"57 years"	"57"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	26	63235	41.1
+	"Nebraska"	"31"	"57 years"	"57"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	23	63235	36.4
+	"Nebraska"	"31"	"57 years"	"57"	"Acute myocardial infarction, unspecified"	"I21.9"	10	63235	Unreliable
+	"Nebraska"	"31"	"57 years"	"57"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	16	63235	Unreliable
+	"Nebraska"	"31"	"58 years"	"58"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	12	63403	Unreliable
+	"Nebraska"	"31"	"58 years"	"58"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	32	63403	50.5
+	"Nebraska"	"31"	"58 years"	"58"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	22	63403	34.7
+	"Nebraska"	"31"	"58 years"	"58"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	19	63403	Unreliable
+	"Nebraska"	"31"	"59 years"	"59"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	17	62858	Unreliable
+	"Nebraska"	"31"	"59 years"	"59"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	35	62858	55.7
+	"Nebraska"	"31"	"59 years"	"59"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	18	62858	Unreliable
+	"Nebraska"	"31"	"59 years"	"59"	"Acute myocardial infarction, unspecified"	"I21.9"	11	62858	Unreliable
+	"Nebraska"	"31"	"59 years"	"59"	"Atherosclerotic heart disease"	"I25.1"	15	62858	Unreliable
+	"Nebraska"	"31"	"59 years"	"59"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	23	62858	36.6
+	"Nebraska"	"31"	"60 years"	"60"	"Septicaemia, unspecified"	"A41.9"	11	61900	Unreliable
+	"Nebraska"	"31"	"60 years"	"60"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	11	61900	Unreliable
+	"Nebraska"	"31"	"60 years"	"60"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	39	61900	63.0
+	"Nebraska"	"31"	"60 years"	"60"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	28	61900	45.2
+	"Nebraska"	"31"	"60 years"	"60"	"Unspecified diabetes mellitus, without complications"	"E14.9"	17	61900	Unreliable
+	"Nebraska"	"31"	"60 years"	"60"	"Acute myocardial infarction, unspecified"	"I21.9"	13	61900	Unreliable
+	"Nebraska"	"31"	"60 years"	"60"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	25	61900	40.4
+	"Nebraska"	"31"	"60 years"	"60"	"Alcoholic cirrhosis of liver"	"K70.3"	11	61900	Unreliable
+	"Nebraska"	"31"	"61 years"	"61"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	37	60873	60.8
+	"Nebraska"	"31"	"61 years"	"61"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	27	60873	44.4
+	"Nebraska"	"31"	"61 years"	"61"	"Acute myocardial infarction, unspecified"	"I21.9"	14	60873	Unreliable
+	"Nebraska"	"31"	"61 years"	"61"	"Atherosclerotic heart disease"	"I25.1"	12	60873	Unreliable
+	"Nebraska"	"31"	"61 years"	"61"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	25	60873	41.1
+	"Nebraska"	"31"	"61 years"	"61"	"COVID-19"	"U07.1"	11	60873	Unreliable
+	"Nebraska"	"31"	"62 years"	"62"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	10	59707	Unreliable
+	"Nebraska"	"31"	"62 years"	"62"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	13	59707	Unreliable
+	"Nebraska"	"31"	"62 years"	"62"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	37	59707	62.0
+	"Nebraska"	"31"	"62 years"	"62"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	16	59707	Unreliable
+	"Nebraska"	"31"	"62 years"	"62"	"Unspecified diabetes mellitus, without complications"	"E14.9"	10	59707	Unreliable
+	"Nebraska"	"31"	"62 years"	"62"	"Acute myocardial infarction, unspecified"	"I21.9"	11	59707	Unreliable
+	"Nebraska"	"31"	"62 years"	"62"	"Atherosclerotic heart disease"	"I25.1"	10	59707	Unreliable
+	"Nebraska"	"31"	"62 years"	"62"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	24	59707	40.2
+	"Nebraska"	"31"	"62 years"	"62"	"Alcoholic cirrhosis of liver"	"K70.3"	12	59707	Unreliable
+	"Nebraska"	"31"	"63 years"	"63"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	12	58284	Unreliable
+	"Nebraska"	"31"	"63 years"	"63"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	14	58284	Unreliable
+	"Nebraska"	"31"	"63 years"	"63"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	32	58284	54.9
+	"Nebraska"	"31"	"63 years"	"63"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	22	58284	37.7
+	"Nebraska"	"31"	"63 years"	"63"	"Atherosclerotic heart disease"	"I25.1"	11	58284	Unreliable
+	"Nebraska"	"31"	"63 years"	"63"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	36	58284	61.8
+	"Nebraska"	"31"	"63 years"	"63"	"COVID-19"	"U07.1"	11	58284	Unreliable
+	"Nebraska"	"31"	"64 years"	"64"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	10	56876	Unreliable
+	"Nebraska"	"31"	"64 years"	"64"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	14	56876	Unreliable
+	"Nebraska"	"31"	"64 years"	"64"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	49	56876	86.2
+	"Nebraska"	"31"	"64 years"	"64"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	28	56876	49.2
+	"Nebraska"	"31"	"64 years"	"64"	"Acute myocardial infarction, unspecified"	"I21.9"	16	56876	Unreliable
+	"Nebraska"	"31"	"64 years"	"64"	"Atherosclerotic heart disease"	"I25.1"	15	56876	Unreliable
+	"Nebraska"	"31"	"64 years"	"64"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	34	56876	59.8
+	"Nebraska"	"31"	"64 years"	"64"	"COVID-19"	"U07.1"	12	56876	Unreliable
+	"Nebraska"	"31"	"65 years"	"65"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	19	55282	Unreliable
+	"Nebraska"	"31"	"65 years"	"65"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	48	55282	86.8
+	"Nebraska"	"31"	"65 years"	"65"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	22	55282	39.8
+	"Nebraska"	"31"	"65 years"	"65"	"Malignant neoplasm of ovary"	"C56"	11	55282	Unreliable
+	"Nebraska"	"31"	"65 years"	"65"	"Malignant neoplasm without specification of site"	"C80"	10	55282	Unreliable
+	"Nebraska"	"31"	"65 years"	"65"	"Acute myocardial infarction, unspecified"	"I21.9"	14	55282	Unreliable
+	"Nebraska"	"31"	"65 years"	"65"	"Atherosclerotic heart disease"	"I25.1"	12	55282	Unreliable
+	"Nebraska"	"31"	"65 years"	"65"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	29	55282	52.5
+	"Nebraska"	"31"	"65 years"	"65"	"COVID-19"	"U07.1"	11	55282	Unreliable
+	"Nebraska"	"31"	"66 years"	"66"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	13	53380	Unreliable
+	"Nebraska"	"31"	"66 years"	"66"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	14	53380	Unreliable
+	"Nebraska"	"31"	"66 years"	"66"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	59	53380	110.5
+	"Nebraska"	"31"	"66 years"	"66"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	21	53380	39.3
+	"Nebraska"	"31"	"66 years"	"66"	"Malignant neoplasm of ovary"	"C56"	14	53380	Unreliable
+	"Nebraska"	"31"	"66 years"	"66"	"Malignant neoplasm without specification of site"	"C80"	12	53380	Unreliable
+	"Nebraska"	"31"	"66 years"	"66"	"Acute myocardial infarction, unspecified"	"I21.9"	16	53380	Unreliable
+	"Nebraska"	"31"	"66 years"	"66"	"Atherosclerotic heart disease"	"I25.1"	15	53380	Unreliable
+	"Nebraska"	"31"	"66 years"	"66"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	35	53380	65.6
+	"Nebraska"	"31"	"67 years"	"67"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	11	51148	Unreliable
+	"Nebraska"	"31"	"67 years"	"67"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	10	51148	Unreliable
+	"Nebraska"	"31"	"67 years"	"67"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	45	51148	88.0
+	"Nebraska"	"31"	"67 years"	"67"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	32	51148	62.6
+	"Nebraska"	"31"	"67 years"	"67"	"Malignant neoplasm of ovary"	"C56"	10	51148	Unreliable
+	"Nebraska"	"31"	"67 years"	"67"	"Malignant neoplasm without specification of site"	"C80"	10	51148	Unreliable
+	"Nebraska"	"31"	"67 years"	"67"	"Unspecified diabetes mellitus, without complications"	"E14.9"	14	51148	Unreliable
+	"Nebraska"	"31"	"67 years"	"67"	"Acute myocardial infarction, unspecified"	"I21.9"	16	51148	Unreliable
+	"Nebraska"	"31"	"67 years"	"67"	"Atherosclerotic heart disease"	"I25.1"	18	51148	Unreliable
+	"Nebraska"	"31"	"67 years"	"67"	"Stroke, not specified as haemorrhage or infarction"	"I64"	12	51148	Unreliable
+	"Nebraska"	"31"	"67 years"	"67"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	29	51148	56.7
+	"Nebraska"	"31"	"67 years"	"67"	"COVID-19"	"U07.1"	12	51148	Unreliable
+	"Nebraska"	"31"	"68 years"	"68"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	16	49496	Unreliable
+	"Nebraska"	"31"	"68 years"	"68"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	60	49496	121.2
+	"Nebraska"	"31"	"68 years"	"68"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	31	49496	62.6
+	"Nebraska"	"31"	"68 years"	"68"	"Malignant neoplasm of ovary"	"C56"	10	49496	Unreliable
+	"Nebraska"	"31"	"68 years"	"68"	"Unspecified diabetes mellitus, without complications"	"E14.9"	11	49496	Unreliable
+	"Nebraska"	"31"	"68 years"	"68"	"Unspecified dementia"	"F03"	13	49496	Unreliable
+	"Nebraska"	"31"	"68 years"	"68"	"Acute myocardial infarction, unspecified"	"I21.9"	13	49496	Unreliable
+	"Nebraska"	"31"	"68 years"	"68"	"Atherosclerotic heart disease"	"I25.1"	18	49496	Unreliable
+	"Nebraska"	"31"	"68 years"	"68"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	47	49496	95.0
+	"Nebraska"	"31"	"68 years"	"68"	"COVID-19"	"U07.1"	10	49496	Unreliable
+	"Nebraska"	"31"	"69 years"	"69"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	14	48095	Unreliable
+	"Nebraska"	"31"	"69 years"	"69"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	16	48095	Unreliable
+	"Nebraska"	"31"	"69 years"	"69"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	52	48095	108.1
+	"Nebraska"	"31"	"69 years"	"69"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	32	48095	66.5
+	"Nebraska"	"31"	"69 years"	"69"	"Malignant neoplasm of ovary"	"C56"	11	48095	Unreliable
+	"Nebraska"	"31"	"69 years"	"69"	"Malignant neoplasm without specification of site"	"C80"	11	48095	Unreliable
+	"Nebraska"	"31"	"69 years"	"69"	"Unspecified diabetes mellitus, without complications"	"E14.9"	13	48095	Unreliable
+	"Nebraska"	"31"	"69 years"	"69"	"Unspecified dementia"	"F03"	11	48095	Unreliable
+	"Nebraska"	"31"	"69 years"	"69"	"Alzheimer disease, unspecified"	"G30.9"	10	48095	Unreliable
+	"Nebraska"	"31"	"69 years"	"69"	"Essential (primary) hypertension"	"I10"	10	48095	Unreliable
+	"Nebraska"	"31"	"69 years"	"69"	"Acute myocardial infarction, unspecified"	"I21.9"	21	48095	43.7
+	"Nebraska"	"31"	"69 years"	"69"	"Atherosclerotic heart disease"	"I25.1"	16	48095	Unreliable
+	"Nebraska"	"31"	"69 years"	"69"	"Pneumonia, unspecified"	"J18.9"	13	48095	Unreliable
+	"Nebraska"	"31"	"69 years"	"69"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	42	48095	87.3
+	"Nebraska"	"31"	"69 years"	"69"	"COVID-19"	"U07.1"	18	48095	Unreliable
+	"Nebraska"	"31"	"70 years"	"70"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	18	44356	Unreliable
+	"Nebraska"	"31"	"70 years"	"70"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	54	44356	121.7
+	"Nebraska"	"31"	"70 years"	"70"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	35	44356	78.9
+	"Nebraska"	"31"	"70 years"	"70"	"Endometrium - Malignant neoplasms"	"C54.1"	10	44356	Unreliable
+	"Nebraska"	"31"	"70 years"	"70"	"Malignant neoplasm of ovary"	"C56"	10	44356	Unreliable
+	"Nebraska"	"31"	"70 years"	"70"	"Unspecified diabetes mellitus, without complications"	"E14.9"	11	44356	Unreliable
+	"Nebraska"	"31"	"70 years"	"70"	"Unspecified dementia"	"F03"	11	44356	Unreliable
+	"Nebraska"	"31"	"70 years"	"70"	"Essential (primary) hypertension"	"I10"	18	44356	Unreliable
+	"Nebraska"	"31"	"70 years"	"70"	"Acute myocardial infarction, unspecified"	"I21.9"	23	44356	51.9
+	"Nebraska"	"31"	"70 years"	"70"	"Atherosclerotic heart disease"	"I25.1"	12	44356	Unreliable
+	"Nebraska"	"31"	"70 years"	"70"	"Congestive heart failure"	"I50.0"	12	44356	Unreliable
+	"Nebraska"	"31"	"70 years"	"70"	"Stroke, not specified as haemorrhage or infarction"	"I64"	10	44356	Unreliable
+	"Nebraska"	"31"	"70 years"	"70"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	46	44356	103.7
+	"Nebraska"	"31"	"71 years"	"71"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	14	41398	Unreliable
+	"Nebraska"	"31"	"71 years"	"71"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	21	41398	50.7
+	"Nebraska"	"31"	"71 years"	"71"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	58	41398	140.1
+	"Nebraska"	"31"	"71 years"	"71"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	32	41398	77.3
+	"Nebraska"	"31"	"71 years"	"71"	"Endometrium - Malignant neoplasms"	"C54.1"	10	41398	Unreliable
+	"Nebraska"	"31"	"71 years"	"71"	"Malignant neoplasm without specification of site"	"C80"	10	41398	Unreliable
+	"Nebraska"	"31"	"71 years"	"71"	"Unspecified diabetes mellitus, with renal complications"	"E14.2"	13	41398	Unreliable
+	"Nebraska"	"31"	"71 years"	"71"	"Unspecified diabetes mellitus, without complications"	"E14.9"	17	41398	Unreliable
+	"Nebraska"	"31"	"71 years"	"71"	"Unspecified dementia"	"F03"	17	41398	Unreliable
+	"Nebraska"	"31"	"71 years"	"71"	"Alzheimer disease, unspecified"	"G30.9"	13	41398	Unreliable
+	"Nebraska"	"31"	"71 years"	"71"	"Acute myocardial infarction, unspecified"	"I21.9"	18	41398	Unreliable
+	"Nebraska"	"31"	"71 years"	"71"	"Atherosclerotic heart disease"	"I25.1"	31	41398	74.9
+	"Nebraska"	"31"	"71 years"	"71"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	10	41398	Unreliable
+	"Nebraska"	"31"	"71 years"	"71"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	68	41398	164.3
+	"Nebraska"	"31"	"71 years"	"71"	"COVID-19"	"U07.1"	17	41398	Unreliable
+	"Nebraska"	"31"	"72 years"	"72"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	15	38252	Unreliable
+	"Nebraska"	"31"	"72 years"	"72"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	55	38252	143.8
+	"Nebraska"	"31"	"72 years"	"72"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	24	38252	62.7
+	"Nebraska"	"31"	"72 years"	"72"	"Malignant neoplasm without specification of site"	"C80"	12	38252	Unreliable
+	"Nebraska"	"31"	"72 years"	"72"	"Unspecified diabetes mellitus, with renal complications"	"E14.2"	11	38252	Unreliable
+	"Nebraska"	"31"	"72 years"	"72"	"Unspecified diabetes mellitus, without complications"	"E14.9"	12	38252	Unreliable
+	"Nebraska"	"31"	"72 years"	"72"	"Unspecified dementia"	"F03"	17	38252	Unreliable
+	"Nebraska"	"31"	"72 years"	"72"	"Alzheimer disease, unspecified"	"G30.9"	16	38252	Unreliable
+	"Nebraska"	"31"	"72 years"	"72"	"Acute myocardial infarction, unspecified"	"I21.9"	12	38252	Unreliable
+	"Nebraska"	"31"	"72 years"	"72"	"Atherosclerotic heart disease"	"I25.1"	21	38252	54.9
+	"Nebraska"	"31"	"72 years"	"72"	"Congestive heart failure"	"I50.0"	11	38252	Unreliable
+	"Nebraska"	"31"	"72 years"	"72"	"Stroke, not specified as haemorrhage or infarction"	"I64"	18	38252	Unreliable
+	"Nebraska"	"31"	"72 years"	"72"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	11	38252	Unreliable
+	"Nebraska"	"31"	"72 years"	"72"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	70	38252	183.0
+	"Nebraska"	"31"	"72 years"	"72"	"COVID-19"	"U07.1"	14	38252	Unreliable
+	"Nebraska"	"31"	"73 years"	"73"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	15	36080	Unreliable
+	"Nebraska"	"31"	"73 years"	"73"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	60	36080	166.3
+	"Nebraska"	"31"	"73 years"	"73"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	24	36080	66.5
+	"Nebraska"	"31"	"73 years"	"73"	"Malignant neoplasm of ovary"	"C56"	13	36080	Unreliable
+	"Nebraska"	"31"	"73 years"	"73"	"Malignant neoplasm without specification of site"	"C80"	17	36080	Unreliable
+	"Nebraska"	"31"	"73 years"	"73"	"Unspecified diabetes mellitus, with renal complications"	"E14.2"	11	36080	Unreliable
+	"Nebraska"	"31"	"73 years"	"73"	"Unspecified dementia"	"F03"	14	36080	Unreliable
+	"Nebraska"	"31"	"73 years"	"73"	"Alzheimer disease, unspecified"	"G30.9"	21	36080	58.2
+	"Nebraska"	"31"	"73 years"	"73"	"Acute myocardial infarction, unspecified"	"I21.9"	17	36080	Unreliable
+	"Nebraska"	"31"	"73 years"	"73"	"Atherosclerotic heart disease"	"I25.1"	11	36080	Unreliable
+	"Nebraska"	"31"	"73 years"	"73"	"Congestive heart failure"	"I50.0"	11	36080	Unreliable
+	"Nebraska"	"31"	"73 years"	"73"	"Stroke, not specified as haemorrhage or infarction"	"I64"	11	36080	Unreliable
+	"Nebraska"	"31"	"73 years"	"73"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	10	36080	Unreliable
+	"Nebraska"	"31"	"73 years"	"73"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	58	36080	160.8
+	"Nebraska"	"31"	"73 years"	"73"	"COVID-19"	"U07.1"	13	36080	Unreliable
+	"Nebraska"	"31"	"74 years"	"74"	"Septicaemia, unspecified"	"A41.9"	11	32621	Unreliable
+	"Nebraska"	"31"	"74 years"	"74"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	14	32621	Unreliable
+	"Nebraska"	"31"	"74 years"	"74"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	16	32621	Unreliable
+	"Nebraska"	"31"	"74 years"	"74"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	63	32621	193.1
+	"Nebraska"	"31"	"74 years"	"74"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	40	32621	122.6
+	"Nebraska"	"31"	"74 years"	"74"	"Malignant neoplasm of ovary"	"C56"	10	32621	Unreliable
+	"Nebraska"	"31"	"74 years"	"74"	"Unspecified diabetes mellitus, without complications"	"E14.9"	18	32621	Unreliable
+	"Nebraska"	"31"	"74 years"	"74"	"Unspecified dementia"	"F03"	18	32621	Unreliable
+	"Nebraska"	"31"	"74 years"	"74"	"Parkinson disease"	"G20"	10	32621	Unreliable
+	"Nebraska"	"31"	"74 years"	"74"	"Alzheimer disease, unspecified"	"G30.9"	15	32621	Unreliable
+	"Nebraska"	"31"	"74 years"	"74"	"Essential (primary) hypertension"	"I10"	14	32621	Unreliable
+	"Nebraska"	"31"	"74 years"	"74"	"Acute myocardial infarction, unspecified"	"I21.9"	21	32621	64.4
+	"Nebraska"	"31"	"74 years"	"74"	"Atherosclerotic heart disease"	"I25.1"	28	32621	85.8
+	"Nebraska"	"31"	"74 years"	"74"	"Congestive heart failure"	"I50.0"	12	32621	Unreliable
+	"Nebraska"	"31"	"74 years"	"74"	"Stroke, not specified as haemorrhage or infarction"	"I64"	15	32621	Unreliable
+	"Nebraska"	"31"	"74 years"	"74"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	66	32621	202.3
+	"Nebraska"	"31"	"74 years"	"74"	"COVID-19"	"U07.1"	15	32621	Unreliable
+	"Nebraska"	"31"	"75 years"	"75"	"Septicaemia, unspecified"	"A41.9"	10	31491	Unreliable
+	"Nebraska"	"31"	"75 years"	"75"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	13	31491	Unreliable
+	"Nebraska"	"31"	"75 years"	"75"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	18	31491	Unreliable
+	"Nebraska"	"31"	"75 years"	"75"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	78	31491	247.7
+	"Nebraska"	"31"	"75 years"	"75"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	31	31491	98.4
+	"Nebraska"	"31"	"75 years"	"75"	"Malignant neoplasm of ovary"	"C56"	10	31491	Unreliable
+	"Nebraska"	"31"	"75 years"	"75"	"Unspecified diabetes mellitus, with renal complications"	"E14.2"	12	31491	Unreliable
+	"Nebraska"	"31"	"75 years"	"75"	"Unspecified dementia"	"F03"	21	31491	66.7
+	"Nebraska"	"31"	"75 years"	"75"	"Alzheimer disease, unspecified"	"G30.9"	27	31491	85.7
+	"Nebraska"	"31"	"75 years"	"75"	"Acute myocardial infarction, unspecified"	"I21.9"	19	31491	Unreliable
+	"Nebraska"	"31"	"75 years"	"75"	"Atherosclerotic heart disease"	"I25.1"	25	31491	79.4
+	"Nebraska"	"31"	"75 years"	"75"	"Congestive heart failure"	"I50.0"	11	31491	Unreliable
+	"Nebraska"	"31"	"75 years"	"75"	"Stroke, not specified as haemorrhage or infarction"	"I64"	15	31491	Unreliable
+	"Nebraska"	"31"	"75 years"	"75"	"Pneumonia, unspecified"	"J18.9"	14	31491	Unreliable
+	"Nebraska"	"31"	"75 years"	"75"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	13	31491	Unreliable
+	"Nebraska"	"31"	"75 years"	"75"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	60	31491	190.5
+	"Nebraska"	"31"	"75 years"	"75"	"COVID-19"	"U07.1"	21	31491	66.7
+	"Nebraska"	"31"	"76 years"	"76"	"Septicaemia, unspecified"	"A41.9"	10	29825	Unreliable
+	"Nebraska"	"31"	"76 years"	"76"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	15	29825	Unreliable
+	"Nebraska"	"31"	"76 years"	"76"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	16	29825	Unreliable
+	"Nebraska"	"31"	"76 years"	"76"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	74	29825	248.1
+	"Nebraska"	"31"	"76 years"	"76"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	33	29825	110.6
+	"Nebraska"	"31"	"76 years"	"76"	"Endometrium - Malignant neoplasms"	"C54.1"	11	29825	Unreliable
+	"Nebraska"	"31"	"76 years"	"76"	"Malignant neoplasm of ovary"	"C56"	10	29825	Unreliable
+	"Nebraska"	"31"	"76 years"	"76"	"Malignant neoplasm without specification of site"	"C80"	10	29825	Unreliable
+	"Nebraska"	"31"	"76 years"	"76"	"Unspecified diabetes mellitus, without complications"	"E14.9"	13	29825	Unreliable
+	"Nebraska"	"31"	"76 years"	"76"	"Unspecified dementia"	"F03"	24	29825	80.5
+	"Nebraska"	"31"	"76 years"	"76"	"Parkinson disease"	"G20"	16	29825	Unreliable
+	"Nebraska"	"31"	"76 years"	"76"	"Alzheimer disease, unspecified"	"G30.9"	29	29825	97.2
+	"Nebraska"	"31"	"76 years"	"76"	"Acute myocardial infarction, unspecified"	"I21.9"	33	29825	110.6
+	"Nebraska"	"31"	"76 years"	"76"	"Atherosclerotic heart disease"	"I25.1"	27	29825	90.5
+	"Nebraska"	"31"	"76 years"	"76"	"Pneumonia, unspecified"	"J18.9"	10	29825	Unreliable
+	"Nebraska"	"31"	"76 years"	"76"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	73	29825	244.8
+	"Nebraska"	"31"	"76 years"	"76"	"COVID-19"	"U07.1"	24	29825	80.5
+	"Nebraska"	"31"	"77 years"	"77"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	15	28101	Unreliable
+	"Nebraska"	"31"	"77 years"	"77"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	17	28101	Unreliable
+	"Nebraska"	"31"	"77 years"	"77"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	68	28101	242.0
+	"Nebraska"	"31"	"77 years"	"77"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	32	28101	113.9
+	"Nebraska"	"31"	"77 years"	"77"	"Malignant neoplasm of ovary"	"C56"	10	28101	Unreliable
+	"Nebraska"	"31"	"77 years"	"77"	"Malignant neoplasm without specification of site"	"C80"	11	28101	Unreliable
+	"Nebraska"	"31"	"77 years"	"77"	"Unspecified diabetes mellitus, without complications"	"E14.9"	10	28101	Unreliable
+	"Nebraska"	"31"	"77 years"	"77"	"Unspecified dementia"	"F03"	37	28101	131.7
+	"Nebraska"	"31"	"77 years"	"77"	"Parkinson disease"	"G20"	17	28101	Unreliable
+	"Nebraska"	"31"	"77 years"	"77"	"Alzheimer disease, unspecified"	"G30.9"	47	28101	167.3
+	"Nebraska"	"31"	"77 years"	"77"	"Acute myocardial infarction, unspecified"	"I21.9"	15	28101	Unreliable
+	"Nebraska"	"31"	"77 years"	"77"	"Atherosclerotic heart disease"	"I25.1"	28	28101	99.6
+	"Nebraska"	"31"	"77 years"	"77"	"Congestive heart failure"	"I50.0"	13	28101	Unreliable
+	"Nebraska"	"31"	"77 years"	"77"	"Stroke, not specified as haemorrhage or infarction"	"I64"	16	28101	Unreliable
+	"Nebraska"	"31"	"77 years"	"77"	"Pneumonia, unspecified"	"J18.9"	14	28101	Unreliable
+	"Nebraska"	"31"	"77 years"	"77"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	57	28101	202.8
+	"Nebraska"	"31"	"77 years"	"77"	"Other interstitial pulmonary diseases with fibrosis"	"J84.1"	11	28101	Unreliable
+	"Nebraska"	"31"	"77 years"	"77"	"Urinary tract infection, site not specified"	"N39.0"	11	28101	Unreliable
+	"Nebraska"	"31"	"77 years"	"77"	"COVID-19"	"U07.1"	16	28101	Unreliable
+	"Nebraska"	"31"	"78 years"	"78"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	20	26035	76.8
+	"Nebraska"	"31"	"78 years"	"78"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	19	26035	Unreliable
+	"Nebraska"	"31"	"78 years"	"78"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	50	26035	192.0
+	"Nebraska"	"31"	"78 years"	"78"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	29	26035	111.4
+	"Nebraska"	"31"	"78 years"	"78"	"Malignant neoplasm of ovary"	"C56"	10	26035	Unreliable
+	"Nebraska"	"31"	"78 years"	"78"	"Malignant neoplasm without specification of site"	"C80"	16	26035	Unreliable
+	"Nebraska"	"31"	"78 years"	"78"	"Unspecified dementia"	"F03"	34	26035	130.6
+	"Nebraska"	"31"	"78 years"	"78"	"Parkinson disease"	"G20"	16	26035	Unreliable
+	"Nebraska"	"31"	"78 years"	"78"	"Alzheimer disease, unspecified"	"G30.9"	41	26035	157.5
+	"Nebraska"	"31"	"78 years"	"78"	"Acute myocardial infarction, unspecified"	"I21.9"	24	26035	92.2
+	"Nebraska"	"31"	"78 years"	"78"	"Atherosclerotic heart disease"	"I25.1"	39	26035	149.8
+	"Nebraska"	"31"	"78 years"	"78"	"Other secondary pulmonary hypertension"	"I27.2"	10	26035	Unreliable
+	"Nebraska"	"31"	"78 years"	"78"	"Atrial fibrillation and flutter"	"I48"	11	26035	Unreliable
+	"Nebraska"	"31"	"78 years"	"78"	"Congestive heart failure"	"I50.0"	13	26035	Unreliable
+	"Nebraska"	"31"	"78 years"	"78"	"Heart failure, unspecified"	"I50.9"	10	26035	Unreliable
+	"Nebraska"	"31"	"78 years"	"78"	"Stroke, not specified as haemorrhage or infarction"	"I64"	25	26035	96.0
+	"Nebraska"	"31"	"78 years"	"78"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	68	26035	261.2
+	"Nebraska"	"31"	"78 years"	"78"	"COVID-19"	"U07.1"	19	26035	Unreliable
+	"Nebraska"	"31"	"79 years"	"79"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	19	24752	Unreliable
+	"Nebraska"	"31"	"79 years"	"79"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	29	24752	117.2
+	"Nebraska"	"31"	"79 years"	"79"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	50	24752	202.0
+	"Nebraska"	"31"	"79 years"	"79"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	17	24752	Unreliable
+	"Nebraska"	"31"	"79 years"	"79"	"Non-insulin-dependent diabetes mellitus, with renal complications"	"E11.2"	10	24752	Unreliable
+	"Nebraska"	"31"	"79 years"	"79"	"Unspecified diabetes mellitus, without complications"	"E14.9"	18	24752	Unreliable
+	"Nebraska"	"31"	"79 years"	"79"	"Vascular dementia, unspecified"	"F01.9"	10	24752	Unreliable
+	"Nebraska"	"31"	"79 years"	"79"	"Unspecified dementia"	"F03"	53	24752	214.1
+	"Nebraska"	"31"	"79 years"	"79"	"Parkinson disease"	"G20"	18	24752	Unreliable
+	"Nebraska"	"31"	"79 years"	"79"	"Alzheimer disease, unspecified"	"G30.9"	56	24752	226.2
+	"Nebraska"	"31"	"79 years"	"79"	"Essential (primary) hypertension"	"I10"	19	24752	Unreliable
+	"Nebraska"	"31"	"79 years"	"79"	"Hypertensive renal disease with renal failure"	"I12.0"	12	24752	Unreliable
+	"Nebraska"	"31"	"79 years"	"79"	"Acute myocardial infarction, unspecified"	"I21.9"	29	24752	117.2
+	"Nebraska"	"31"	"79 years"	"79"	"Atherosclerotic heart disease"	"I25.1"	37	24752	149.5
+	"Nebraska"	"31"	"79 years"	"79"	"Congestive heart failure"	"I50.0"	16	24752	Unreliable
+	"Nebraska"	"31"	"79 years"	"79"	"Heart failure, unspecified"	"I50.9"	16	24752	Unreliable
+	"Nebraska"	"31"	"79 years"	"79"	"Intracerebral haemorrhage, unspecified"	"I61.9"	10	24752	Unreliable
+	"Nebraska"	"31"	"79 years"	"79"	"Stroke, not specified as haemorrhage or infarction"	"I64"	23	24752	92.9
+	"Nebraska"	"31"	"79 years"	"79"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	78	24752	315.1
+	"Nebraska"	"31"	"79 years"	"79"	"Urinary tract infection, site not specified"	"N39.0"	11	24752	Unreliable
+	"Nebraska"	"31"	"79 years"	"79"	"COVID-19"	"U07.1"	21	24752	84.8
+	"Nebraska"	"31"	"80 years"	"80"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	14	23569	Unreliable
+	"Nebraska"	"31"	"80 years"	"80"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	19	23569	Unreliable
+	"Nebraska"	"31"	"80 years"	"80"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	53	23569	224.9
+	"Nebraska"	"31"	"80 years"	"80"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	19	23569	Unreliable
+	"Nebraska"	"31"	"80 years"	"80"	"Malignant neoplasm of ovary"	"C56"	11	23569	Unreliable
+	"Nebraska"	"31"	"80 years"	"80"	"Unspecified dementia"	"F03"	64	23569	271.5
+	"Nebraska"	"31"	"80 years"	"80"	"Parkinson disease"	"G20"	23	23569	97.6
+	"Nebraska"	"31"	"80 years"	"80"	"Alzheimer disease, unspecified"	"G30.9"	78	23569	330.9
+	"Nebraska"	"31"	"80 years"	"80"	"Essential (primary) hypertension"	"I10"	11	23569	Unreliable
+	"Nebraska"	"31"	"80 years"	"80"	"Acute myocardial infarction, unspecified"	"I21.9"	21	23569	89.1
+	"Nebraska"	"31"	"80 years"	"80"	"Atherosclerotic heart disease"	"I25.1"	46	23569	195.2
+	"Nebraska"	"31"	"80 years"	"80"	"Congestive heart failure"	"I50.0"	17	23569	Unreliable
+	"Nebraska"	"31"	"80 years"	"80"	"Stroke, not specified as haemorrhage or infarction"	"I64"	15	23569	Unreliable
+	"Nebraska"	"31"	"80 years"	"80"	"Pneumonia, unspecified"	"J18.9"	12	23569	Unreliable
+	"Nebraska"	"31"	"80 years"	"80"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	80	23569	339.4
+	"Nebraska"	"31"	"80 years"	"80"	"Other interstitial pulmonary diseases with fibrosis"	"J84.1"	10	23569	Unreliable
+	"Nebraska"	"31"	"80 years"	"80"	"COVID-19"	"U07.1"	28	23569	118.8
+	"Nebraska"	"31"	"81 years"	"81"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	15	22597	Unreliable
+	"Nebraska"	"31"	"81 years"	"81"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	58	22597	256.7
+	"Nebraska"	"31"	"81 years"	"81"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	32	22597	141.6
+	"Nebraska"	"31"	"81 years"	"81"	"Malignant neoplasm without specification of site"	"C80"	13	22597	Unreliable
+	"Nebraska"	"31"	"81 years"	"81"	"Unspecified diabetes mellitus, without complications"	"E14.9"	12	22597	Unreliable
+	"Nebraska"	"31"	"81 years"	"81"	"Hyperlipidaemia, unspecified"	"E78.5"	11	22597	Unreliable
+	"Nebraska"	"31"	"81 years"	"81"	"Vascular dementia, unspecified"	"F01.9"	11	22597	Unreliable
+	"Nebraska"	"31"	"81 years"	"81"	"Unspecified dementia"	"F03"	58	22597	256.7
+	"Nebraska"	"31"	"81 years"	"81"	"Parkinson disease"	"G20"	23	22597	101.8
+	"Nebraska"	"31"	"81 years"	"81"	"Alzheimer disease, unspecified"	"G30.9"	59	22597	261.1
+	"Nebraska"	"31"	"81 years"	"81"	"Senile degeneration of brain, not elsewhere classified"	"G31.1"	11	22597	Unreliable
+	"Nebraska"	"31"	"81 years"	"81"	"Essential (primary) hypertension"	"I10"	11	22597	Unreliable
+	"Nebraska"	"31"	"81 years"	"81"	"Acute myocardial infarction, unspecified"	"I21.9"	23	22597	101.8
+	"Nebraska"	"31"	"81 years"	"81"	"Atherosclerotic heart disease"	"I25.1"	36	22597	159.3
+	"Nebraska"	"31"	"81 years"	"81"	"Atrial fibrillation and flutter"	"I48"	17	22597	Unreliable
+	"Nebraska"	"31"	"81 years"	"81"	"Congestive heart failure"	"I50.0"	19	22597	Unreliable
+	"Nebraska"	"31"	"81 years"	"81"	"Stroke, not specified as haemorrhage or infarction"	"I64"	24	22597	106.2
+	"Nebraska"	"31"	"81 years"	"81"	"Pneumonia, unspecified"	"J18.9"	19	22597	Unreliable
+	"Nebraska"	"31"	"81 years"	"81"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	16	22597	Unreliable
+	"Nebraska"	"31"	"81 years"	"81"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	55	22597	243.4
+	"Nebraska"	"31"	"81 years"	"81"	"Urinary tract infection, site not specified"	"N39.0"	12	22597	Unreliable
+	"Nebraska"	"31"	"81 years"	"81"	"COVID-19"	"U07.1"	22	22597	97.4
+	"Nebraska"	"31"	"82 years"	"82"	"Septicaemia, unspecified"	"A41.9"	10	21258	Unreliable
+	"Nebraska"	"31"	"82 years"	"82"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	21	21258	98.8
+	"Nebraska"	"31"	"82 years"	"82"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	12	21258	Unreliable
+	"Nebraska"	"31"	"82 years"	"82"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	57	21258	268.1
+	"Nebraska"	"31"	"82 years"	"82"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	22	21258	103.5
+	"Nebraska"	"31"	"82 years"	"82"	"Malignant neoplasm of ovary"	"C56"	13	21258	Unreliable
+	"Nebraska"	"31"	"82 years"	"82"	"Malignant neoplasm without specification of site"	"C80"	10	21258	Unreliable
+	"Nebraska"	"31"	"82 years"	"82"	"Unspecified diabetes mellitus, with renal complications"	"E14.2"	11	21258	Unreliable
+	"Nebraska"	"31"	"82 years"	"82"	"Unspecified diabetes mellitus, without complications"	"E14.9"	13	21258	Unreliable
+	"Nebraska"	"31"	"82 years"	"82"	"Unspecified dementia"	"F03"	76	21258	357.5
+	"Nebraska"	"31"	"82 years"	"82"	"Parkinson disease"	"G20"	18	21258	Unreliable
+	"Nebraska"	"31"	"82 years"	"82"	"Alzheimer disease, unspecified"	"G30.9"	84	21258	395.1
+	"Nebraska"	"31"	"82 years"	"82"	"Senile degeneration of brain, not elsewhere classified"	"G31.1"	14	21258	Unreliable
+	"Nebraska"	"31"	"82 years"	"82"	"Essential (primary) hypertension"	"I10"	12	21258	Unreliable
+	"Nebraska"	"31"	"82 years"	"82"	"Acute myocardial infarction, unspecified"	"I21.9"	24	21258	112.9
+	"Nebraska"	"31"	"82 years"	"82"	"Atherosclerotic heart disease"	"I25.1"	48	21258	225.8
+	"Nebraska"	"31"	"82 years"	"82"	"Cardiomyopathy, unspecified"	"I42.9"	11	21258	Unreliable
+	"Nebraska"	"31"	"82 years"	"82"	"Atrial fibrillation and flutter"	"I48"	22	21258	103.5
+	"Nebraska"	"31"	"82 years"	"82"	"Congestive heart failure"	"I50.0"	25	21258	117.6
+	"Nebraska"	"31"	"82 years"	"82"	"Stroke, not specified as haemorrhage or infarction"	"I64"	25	21258	117.6
+	"Nebraska"	"31"	"82 years"	"82"	"Pneumonia, unspecified"	"J18.9"	11	21258	Unreliable
+	"Nebraska"	"31"	"82 years"	"82"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	13	21258	Unreliable
+	"Nebraska"	"31"	"82 years"	"82"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	78	21258	366.9
+	"Nebraska"	"31"	"82 years"	"82"	"COVID-19"	"U07.1"	20	21258	94.1
+	"Nebraska"	"31"	"83 years"	"83"	"Septicaemia, unspecified"	"A41.9"	18	20178	Unreliable
+	"Nebraska"	"31"	"83 years"	"83"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	15	20178	Unreliable
+	"Nebraska"	"31"	"83 years"	"83"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	29	20178	143.7
+	"Nebraska"	"31"	"83 years"	"83"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	38	20178	188.3
+	"Nebraska"	"31"	"83 years"	"83"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	30	20178	148.7
+	"Nebraska"	"31"	"83 years"	"83"	"Malignant neoplasm without specification of site"	"C80"	11	20178	Unreliable
+	"Nebraska"	"31"	"83 years"	"83"	"Multiple myeloma - Malignant neoplasms"	"C90.0"	10	20178	Unreliable
+	"Nebraska"	"31"	"83 years"	"83"	"Non-insulin-dependent diabetes mellitus, with renal complications"	"E11.2"	10	20178	Unreliable
+	"Nebraska"	"31"	"83 years"	"83"	"Unspecified diabetes mellitus, without complications"	"E14.9"	12	20178	Unreliable
+	"Nebraska"	"31"	"83 years"	"83"	"Vascular dementia, unspecified"	"F01.9"	16	20178	Unreliable
+	"Nebraska"	"31"	"83 years"	"83"	"Unspecified dementia"	"F03"	86	20178	426.2
+	"Nebraska"	"31"	"83 years"	"83"	"Parkinson disease"	"G20"	21	20178	104.1
+	"Nebraska"	"31"	"83 years"	"83"	"Alzheimer disease, unspecified"	"G30.9"	76	20178	376.6
+	"Nebraska"	"31"	"83 years"	"83"	"Senile degeneration of brain, not elsewhere classified"	"G31.1"	12	20178	Unreliable
+	"Nebraska"	"31"	"83 years"	"83"	"Essential (primary) hypertension"	"I10"	13	20178	Unreliable
+	"Nebraska"	"31"	"83 years"	"83"	"Hypertensive heart disease with (congestive) heart failure"	"I11.0"	10	20178	Unreliable
+	"Nebraska"	"31"	"83 years"	"83"	"Hypertensive renal disease with renal failure"	"I12.0"	13	20178	Unreliable
+	"Nebraska"	"31"	"83 years"	"83"	"Acute myocardial infarction, unspecified"	"I21.9"	28	20178	138.8
+	"Nebraska"	"31"	"83 years"	"83"	"Atherosclerotic heart disease"	"I25.1"	52	20178	257.7
+	"Nebraska"	"31"	"83 years"	"83"	"Cardiomyopathy, unspecified"	"I42.9"	10	20178	Unreliable
+	"Nebraska"	"31"	"83 years"	"83"	"Atrial fibrillation and flutter"	"I48"	29	20178	143.7
+	"Nebraska"	"31"	"83 years"	"83"	"Congestive heart failure"	"I50.0"	27	20178	133.8
+	"Nebraska"	"31"	"83 years"	"83"	"Heart failure, unspecified"	"I50.9"	10	20178	Unreliable
+	"Nebraska"	"31"	"83 years"	"83"	"Stroke, not specified as haemorrhage or infarction"	"I64"	32	20178	158.6
+	"Nebraska"	"31"	"83 years"	"83"	"Pneumonia, unspecified"	"J18.9"	19	20178	Unreliable
+	"Nebraska"	"31"	"83 years"	"83"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	13	20178	Unreliable
+	"Nebraska"	"31"	"83 years"	"83"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	69	20178	342.0
+	"Nebraska"	"31"	"83 years"	"83"	"Pneumonitis due to food and vomit"	"J69.0"	11	20178	Unreliable
+	"Nebraska"	"31"	"83 years"	"83"	"COVID-19"	"U07.1"	32	20178	158.6
+	"Nebraska"	"31"	"84 years"	"84"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	24	19297	124.4
+	"Nebraska"	"31"	"84 years"	"84"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	22	19297	114.0
+	"Nebraska"	"31"	"84 years"	"84"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	35	19297	181.4
+	"Nebraska"	"31"	"84 years"	"84"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	28	19297	145.1
+	"Nebraska"	"31"	"84 years"	"84"	"Malignant neoplasm of ovary"	"C56"	10	19297	Unreliable
+	"Nebraska"	"31"	"84 years"	"84"	"Unspecified diabetes mellitus, with renal complications"	"E14.2"	10	19297	Unreliable
+	"Nebraska"	"31"	"84 years"	"84"	"Unspecified diabetes mellitus, without complications"	"E14.9"	15	19297	Unreliable
+	"Nebraska"	"31"	"84 years"	"84"	"Vascular dementia, unspecified"	"F01.9"	17	19297	Unreliable
+	"Nebraska"	"31"	"84 years"	"84"	"Unspecified dementia"	"F03"	91	19297	471.6
+	"Nebraska"	"31"	"84 years"	"84"	"Parkinson disease"	"G20"	31	19297	160.6
+	"Nebraska"	"31"	"84 years"	"84"	"Alzheimer disease, unspecified"	"G30.9"	98	19297	507.9
+	"Nebraska"	"31"	"84 years"	"84"	"Senile degeneration of brain, not elsewhere classified"	"G31.1"	19	19297	Unreliable
+	"Nebraska"	"31"	"84 years"	"84"	"Essential (primary) hypertension"	"I10"	12	19297	Unreliable
+	"Nebraska"	"31"	"84 years"	"84"	"Hypertensive heart disease with (congestive) heart failure"	"I11.0"	10	19297	Unreliable
+	"Nebraska"	"31"	"84 years"	"84"	"Acute myocardial infarction, unspecified"	"I21.9"	34	19297	176.2
+	"Nebraska"	"31"	"84 years"	"84"	"Atherosclerotic heart disease"	"I25.1"	55	19297	285.0
+	"Nebraska"	"31"	"84 years"	"84"	"Atrial fibrillation and flutter"	"I48"	23	19297	119.2
+	"Nebraska"	"31"	"84 years"	"84"	"Congestive heart failure"	"I50.0"	23	19297	119.2
+	"Nebraska"	"31"	"84 years"	"84"	"Stroke, not specified as haemorrhage or infarction"	"I64"	31	19297	160.6
+	"Nebraska"	"31"	"84 years"	"84"	"Sequelae of stroke, not specified as haemorrhage or infarction"	"I69.4"	11	19297	Unreliable
+	"Nebraska"	"31"	"84 years"	"84"	"Pneumonia, unspecified"	"J18.9"	20	19297	103.6
+	"Nebraska"	"31"	"84 years"	"84"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	11	19297	Unreliable
+	"Nebraska"	"31"	"84 years"	"84"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	64	19297	331.7
+	"Nebraska"	"31"	"84 years"	"84"	"Other interstitial pulmonary diseases with fibrosis"	"J84.1"	10	19297	Unreliable
+	"Nebraska"	"31"	"84 years"	"84"	"Urinary tract infection, site not specified"	"N39.0"	14	19297	Unreliable
+	"Nebraska"	"31"	"84 years"	"84"	"COVID-19"	"U07.1"	28	19297	145.1
+	"Nebraska"	"31"	"85 years"	"85"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	22	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"85 years"	"85"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	22	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"85 years"	"85"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	41	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"85 years"	"85"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	23	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"85 years"	"85"	"Malignant neoplasm without specification of site"	"C80"	16	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"85 years"	"85"	"Vascular dementia, unspecified"	"F01.9"	10	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"85 years"	"85"	"Unspecified dementia"	"F03"	108	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"85 years"	"85"	"Parkinson disease"	"G20"	21	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"85 years"	"85"	"Alzheimer disease, unspecified"	"G30.9"	104	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"85 years"	"85"	"Senile degeneration of brain, not elsewhere classified"	"G31.1"	23	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"85 years"	"85"	"Hypertensive heart disease with (congestive) heart failure"	"I11.0"	14	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"85 years"	"85"	"Hypertensive renal disease with renal failure"	"I12.0"	16	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"85 years"	"85"	"Acute myocardial infarction, unspecified"	"I21.9"	27	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"85 years"	"85"	"Atherosclerotic heart disease"	"I25.1"	83	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"85 years"	"85"	"Atrial fibrillation and flutter"	"I48"	26	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"85 years"	"85"	"Congestive heart failure"	"I50.0"	45	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"85 years"	"85"	"Heart failure, unspecified"	"I50.9"	10	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"85 years"	"85"	"Intracerebral haemorrhage, unspecified"	"I61.9"	13	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"85 years"	"85"	"Stroke, not specified as haemorrhage or infarction"	"I64"	47	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"85 years"	"85"	"Sequelae of stroke, not specified as haemorrhage or infarction"	"I69.4"	11	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"85 years"	"85"	"Peripheral vascular disease, unspecified"	"I73.9"	12	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"85 years"	"85"	"Pneumonia, unspecified"	"J18.9"	29	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"85 years"	"85"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	72	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"85 years"	"85"	"Urinary tract infection, site not specified"	"N39.0"	13	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"85 years"	"85"	"COVID-19"	"U07.1"	33	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"86 years"	"86"	"Septicaemia, unspecified"	"A41.9"	14	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"86 years"	"86"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	21	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"86 years"	"86"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	14	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"86 years"	"86"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	48	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"86 years"	"86"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	29	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"86 years"	"86"	"Malignant neoplasm without specification of site"	"C80"	10	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"86 years"	"86"	"Unspecified diabetes mellitus, without complications"	"E14.9"	10	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"86 years"	"86"	"Vascular dementia, unspecified"	"F01.9"	21	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"86 years"	"86"	"Unspecified dementia"	"F03"	123	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"86 years"	"86"	"Parkinson disease"	"G20"	27	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"86 years"	"86"	"Alzheimer disease, unspecified"	"G30.9"	111	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"86 years"	"86"	"Senile degeneration of brain, not elsewhere classified"	"G31.1"	13	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"86 years"	"86"	"Essential (primary) hypertension"	"I10"	10	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"86 years"	"86"	"Hypertensive heart disease with (congestive) heart failure"	"I11.0"	10	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"86 years"	"86"	"Hypertensive renal disease with renal failure"	"I12.0"	19	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"86 years"	"86"	"Acute myocardial infarction, unspecified"	"I21.9"	40	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"86 years"	"86"	"Atherosclerotic heart disease"	"I25.1"	73	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"86 years"	"86"	"Aortic (valve) stenosis"	"I35.0"	11	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"86 years"	"86"	"Atrial fibrillation and flutter"	"I48"	20	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"86 years"	"86"	"Congestive heart failure"	"I50.0"	41	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"86 years"	"86"	"Heart failure, unspecified"	"I50.9"	12	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"86 years"	"86"	"Intracerebral haemorrhage, unspecified"	"I61.9"	13	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"86 years"	"86"	"Stroke, not specified as haemorrhage or infarction"	"I64"	44	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"86 years"	"86"	"Pneumonia, unspecified"	"J18.9"	23	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"86 years"	"86"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	10	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"86 years"	"86"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	65	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"86 years"	"86"	"Pneumonitis due to food and vomit"	"J69.0"	11	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"86 years"	"86"	"Urinary tract infection, site not specified"	"N39.0"	10	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"86 years"	"86"	"Other ill-defined and unspecified causes of mortality"	"R99"	12	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"86 years"	"86"	"COVID-19"	"U07.1"	34	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"87 years"	"87"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	20	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"87 years"	"87"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	21	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"87 years"	"87"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	29	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"87 years"	"87"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	32	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"87 years"	"87"	"Malignant neoplasm of ovary"	"C56"	11	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"87 years"	"87"	"Malignant neoplasm without specification of site"	"C80"	15	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"87 years"	"87"	"Unspecified diabetes mellitus, without complications"	"E14.9"	10	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"87 years"	"87"	"Hyperlipidaemia, unspecified"	"E78.5"	16	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"87 years"	"87"	"Vascular dementia, unspecified"	"F01.9"	15	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"87 years"	"87"	"Unspecified dementia"	"F03"	153	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"87 years"	"87"	"Parkinson disease"	"G20"	25	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"87 years"	"87"	"Alzheimer disease, unspecified"	"G30.9"	95	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"87 years"	"87"	"Senile degeneration of brain, not elsewhere classified"	"G31.1"	23	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"87 years"	"87"	"Essential (primary) hypertension"	"I10"	15	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"87 years"	"87"	"Hypertensive heart disease with (congestive) heart failure"	"I11.0"	13	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"87 years"	"87"	"Hypertensive renal disease with renal failure"	"I12.0"	10	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"87 years"	"87"	"Acute myocardial infarction, unspecified"	"I21.9"	34	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"87 years"	"87"	"Atherosclerotic heart disease"	"I25.1"	75	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"87 years"	"87"	"Aortic (valve) stenosis"	"I35.0"	19	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"87 years"	"87"	"Atrial fibrillation and flutter"	"I48"	23	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"87 years"	"87"	"Congestive heart failure"	"I50.0"	40	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"87 years"	"87"	"Heart failure, unspecified"	"I50.9"	15	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"87 years"	"87"	"Cerebral infarction, unspecified"	"I63.9"	12	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"87 years"	"87"	"Stroke, not specified as haemorrhage or infarction"	"I64"	44	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"87 years"	"87"	"Sequelae of stroke, not specified as haemorrhage or infarction"	"I69.4"	16	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"87 years"	"87"	"Sequelae of other and unspecified cerebrovascular diseases"	"I69.8"	13	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"87 years"	"87"	"Pneumonia, unspecified"	"J18.9"	32	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"87 years"	"87"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	11	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"87 years"	"87"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	64	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"87 years"	"87"	"Pneumonitis due to food and vomit"	"J69.0"	15	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"87 years"	"87"	"Urinary tract infection, site not specified"	"N39.0"	16	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"87 years"	"87"	"COVID-19"	"U07.1"	28	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"87 years"	"87"	"Unspecified fall"	"W19"	14	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"88 years"	"88"	"Septicaemia, unspecified"	"A41.9"	14	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"88 years"	"88"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	31	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"88 years"	"88"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	14	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"88 years"	"88"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	26	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"88 years"	"88"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	29	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"88 years"	"88"	"Malignant neoplasm without specification of site"	"C80"	20	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"88 years"	"88"	"Unspecified diabetes mellitus, without complications"	"E14.9"	10	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"88 years"	"88"	"Hyperlipidaemia, unspecified"	"E78.5"	10	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"88 years"	"88"	"Vascular dementia, unspecified"	"F01.9"	20	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"88 years"	"88"	"Unspecified dementia"	"F03"	148	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"88 years"	"88"	"Parkinson disease"	"G20"	28	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"88 years"	"88"	"Alzheimer disease, unspecified"	"G30.9"	147	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"88 years"	"88"	"Senile degeneration of brain, not elsewhere classified"	"G31.1"	20	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"88 years"	"88"	"Essential (primary) hypertension"	"I10"	21	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"88 years"	"88"	"Hypertensive heart disease with (congestive) heart failure"	"I11.0"	18	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"88 years"	"88"	"Hypertensive renal disease with renal failure"	"I12.0"	13	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"88 years"	"88"	"Acute myocardial infarction, unspecified"	"I21.9"	34	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"88 years"	"88"	"Atherosclerotic heart disease"	"I25.1"	82	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"88 years"	"88"	"Aortic (valve) stenosis"	"I35.0"	22	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"88 years"	"88"	"Atrial fibrillation and flutter"	"I48"	36	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"88 years"	"88"	"Congestive heart failure"	"I50.0"	61	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"88 years"	"88"	"Heart failure, unspecified"	"I50.9"	12	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"88 years"	"88"	"Stroke, not specified as haemorrhage or infarction"	"I64"	61	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"88 years"	"88"	"Pneumonia, unspecified"	"J18.9"	34	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"88 years"	"88"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	12	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"88 years"	"88"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	65	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"88 years"	"88"	"Pneumonitis due to food and vomit"	"J69.0"	23	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"88 years"	"88"	"Urinary tract infection, site not specified"	"N39.0"	12	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"88 years"	"88"	"COVID-19"	"U07.1"	36	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"88 years"	"88"	"Other fall on same level"	"W18"	12	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"88 years"	"88"	"Unspecified fall"	"W19"	11	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"89 years"	"89"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	22	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"89 years"	"89"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	13	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"89 years"	"89"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	28	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"89 years"	"89"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	24	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"89 years"	"89"	"Non-insulin-dependent diabetes mellitus, with renal complications"	"E11.2"	10	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"89 years"	"89"	"Hyperlipidaemia, unspecified"	"E78.5"	12	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"89 years"	"89"	"Vascular dementia, unspecified"	"F01.9"	14	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"89 years"	"89"	"Unspecified dementia"	"F03"	162	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"89 years"	"89"	"Parkinson disease"	"G20"	26	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"89 years"	"89"	"Alzheimer disease, unspecified"	"G30.9"	118	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"89 years"	"89"	"Senile degeneration of brain, not elsewhere classified"	"G31.1"	26	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"89 years"	"89"	"Essential (primary) hypertension"	"I10"	21	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"89 years"	"89"	"Hypertensive heart disease with (congestive) heart failure"	"I11.0"	20	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"89 years"	"89"	"Hypertensive renal disease with renal failure"	"I12.0"	22	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"89 years"	"89"	"Acute myocardial infarction, unspecified"	"I21.9"	32	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"89 years"	"89"	"Atherosclerotic heart disease"	"I25.1"	87	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"89 years"	"89"	"Other secondary pulmonary hypertension"	"I27.2"	10	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"89 years"	"89"	"Aortic (valve) stenosis"	"I35.0"	21	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"89 years"	"89"	"Atrial fibrillation and flutter"	"I48"	33	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"89 years"	"89"	"Congestive heart failure"	"I50.0"	51	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"89 years"	"89"	"Heart failure, unspecified"	"I50.9"	19	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"89 years"	"89"	"Intracerebral haemorrhage, unspecified"	"I61.9"	14	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"89 years"	"89"	"Stroke, not specified as haemorrhage or infarction"	"I64"	45	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"89 years"	"89"	"Sequelae of stroke, not specified as haemorrhage or infarction"	"I69.4"	10	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"89 years"	"89"	"Pneumonia, unspecified"	"J18.9"	41	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"89 years"	"89"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	66	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"89 years"	"89"	"Pneumonitis due to food and vomit"	"J69.0"	10	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"89 years"	"89"	"Other interstitial pulmonary diseases with fibrosis"	"J84.1"	16	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"89 years"	"89"	"Chronic renal failure, unspecified"	"N18.9"	15	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"89 years"	"89"	"Urinary tract infection, site not specified"	"N39.0"	20	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"89 years"	"89"	"Other ill-defined and unspecified causes of mortality"	"R99"	12	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"89 years"	"89"	"COVID-19"	"U07.1"	34	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"89 years"	"89"	"Unspecified fall"	"W19"	13	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"90 years"	"90"	"Septicaemia, unspecified"	"A41.9"	12	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"90 years"	"90"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	17	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"90 years"	"90"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	20	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"90 years"	"90"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	26	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"90 years"	"90"	"Malignant neoplasm without specification of site"	"C80"	14	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"90 years"	"90"	"Unspecified diabetes mellitus, without complications"	"E14.9"	10	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"90 years"	"90"	"Vascular dementia, unspecified"	"F01.9"	22	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"90 years"	"90"	"Unspecified dementia"	"F03"	165	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"90 years"	"90"	"Parkinson disease"	"G20"	29	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"90 years"	"90"	"Alzheimer disease, unspecified"	"G30.9"	149	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"90 years"	"90"	"Senile degeneration of brain, not elsewhere classified"	"G31.1"	23	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"90 years"	"90"	"Essential (primary) hypertension"	"I10"	20	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"90 years"	"90"	"Hypertensive heart disease with (congestive) heart failure"	"I11.0"	16	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"90 years"	"90"	"Hypertensive renal disease with renal failure"	"I12.0"	16	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"90 years"	"90"	"Acute myocardial infarction, unspecified"	"I21.9"	35	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"90 years"	"90"	"Atherosclerotic heart disease"	"I25.1"	93	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"90 years"	"90"	"Ischaemic cardiomyopathy"	"I25.5"	10	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"90 years"	"90"	"Aortic (valve) stenosis"	"I35.0"	23	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"90 years"	"90"	"Atrial fibrillation and flutter"	"I48"	44	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"90 years"	"90"	"Congestive heart failure"	"I50.0"	61	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"90 years"	"90"	"Heart failure, unspecified"	"I50.9"	23	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"90 years"	"90"	"Intracerebral haemorrhage, unspecified"	"I61.9"	10	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"90 years"	"90"	"Stroke, not specified as haemorrhage or infarction"	"I64"	41	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"90 years"	"90"	"Sequelae of stroke, not specified as haemorrhage or infarction"	"I69.4"	12	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"90 years"	"90"	"Pneumonia, unspecified"	"J18.9"	26	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"90 years"	"90"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	57	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"90 years"	"90"	"Pneumonitis due to food and vomit"	"J69.0"	20	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"90 years"	"90"	"Other interstitial pulmonary diseases with fibrosis"	"J84.1"	11	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"90 years"	"90"	"Urinary tract infection, site not specified"	"N39.0"	12	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"90 years"	"90"	"COVID-19"	"U07.1"	38	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"90 years"	"90"	"Other fall on same level"	"W18"	13	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"90 years"	"90"	"Unspecified fall"	"W19"	11	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"91 years"	"91"	"Septicaemia, unspecified"	"A41.9"	11	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"91 years"	"91"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	18	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"91 years"	"91"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	14	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"91 years"	"91"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	19	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"91 years"	"91"	"Hyperlipidaemia, unspecified"	"E78.5"	14	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"91 years"	"91"	"Vascular dementia, unspecified"	"F01.9"	21	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"91 years"	"91"	"Unspecified dementia"	"F03"	161	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"91 years"	"91"	"Parkinson disease"	"G20"	21	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"91 years"	"91"	"Alzheimer disease, unspecified"	"G30.9"	144	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"91 years"	"91"	"Senile degeneration of brain, not elsewhere classified"	"G31.1"	34	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"91 years"	"91"	"Essential (primary) hypertension"	"I10"	21	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"91 years"	"91"	"Hypertensive heart disease with (congestive) heart failure"	"I11.0"	21	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"91 years"	"91"	"Hypertensive renal disease with renal failure"	"I12.0"	17	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"91 years"	"91"	"Acute myocardial infarction, unspecified"	"I21.9"	37	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"91 years"	"91"	"Atherosclerotic heart disease"	"I25.1"	111	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"91 years"	"91"	"Other secondary pulmonary hypertension"	"I27.2"	11	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"91 years"	"91"	"Aortic (valve) stenosis"	"I35.0"	19	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"91 years"	"91"	"Atrial fibrillation and flutter"	"I48"	32	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"91 years"	"91"	"Congestive heart failure"	"I50.0"	53	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"91 years"	"91"	"Heart failure, unspecified"	"I50.9"	18	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"91 years"	"91"	"Intracerebral haemorrhage, unspecified"	"I61.9"	10	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"91 years"	"91"	"Stroke, not specified as haemorrhage or infarction"	"I64"	37	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"91 years"	"91"	"Peripheral vascular disease, unspecified"	"I73.9"	12	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"91 years"	"91"	"Pneumonia, unspecified"	"J18.9"	36	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"91 years"	"91"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	54	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"91 years"	"91"	"Pneumonitis due to food and vomit"	"J69.0"	13	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"91 years"	"91"	"Urinary tract infection, site not specified"	"N39.0"	10	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"91 years"	"91"	"COVID-19"	"U07.1"	31	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"91 years"	"91"	"Other fall on same level"	"W18"	10	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"91 years"	"91"	"Unspecified fall"	"W19"	12	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"92 years"	"92"	"Septicaemia, unspecified"	"A41.9"	17	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"92 years"	"92"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	15	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"92 years"	"92"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	15	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"92 years"	"92"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	29	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"92 years"	"92"	"Malignant neoplasm without specification of site"	"C80"	10	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"92 years"	"92"	"Non-insulin-dependent diabetes mellitus, without complications"	"E11.9"	10	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"92 years"	"92"	"Hyperlipidaemia, unspecified"	"E78.5"	10	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"92 years"	"92"	"Vascular dementia, unspecified"	"F01.9"	16	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"92 years"	"92"	"Unspecified dementia"	"F03"	188	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"92 years"	"92"	"Parkinson disease"	"G20"	16	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"92 years"	"92"	"Alzheimer disease, unspecified"	"G30.9"	107	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"92 years"	"92"	"Senile degeneration of brain, not elsewhere classified"	"G31.1"	27	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"92 years"	"92"	"Essential (primary) hypertension"	"I10"	18	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"92 years"	"92"	"Hypertensive heart disease with (congestive) heart failure"	"I11.0"	25	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"92 years"	"92"	"Hypertensive renal disease with renal failure"	"I12.0"	12	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"92 years"	"92"	"Acute myocardial infarction, unspecified"	"I21.9"	36	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"92 years"	"92"	"Atherosclerotic heart disease"	"I25.1"	95	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"92 years"	"92"	"Other secondary pulmonary hypertension"	"I27.2"	15	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"92 years"	"92"	"Aortic (valve) stenosis"	"I35.0"	25	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"92 years"	"92"	"Atrial fibrillation and flutter"	"I48"	33	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"92 years"	"92"	"Congestive heart failure"	"I50.0"	64	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"92 years"	"92"	"Heart failure, unspecified"	"I50.9"	19	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"92 years"	"92"	"Stroke, not specified as haemorrhage or infarction"	"I64"	49	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"92 years"	"92"	"Sequelae of stroke, not specified as haemorrhage or infarction"	"I69.4"	16	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"92 years"	"92"	"Sequelae of other and unspecified cerebrovascular diseases"	"I69.8"	10	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"92 years"	"92"	"Pneumonia, unspecified"	"J18.9"	22	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"92 years"	"92"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	57	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"92 years"	"92"	"Pneumonitis due to food and vomit"	"J69.0"	12	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"92 years"	"92"	"COVID-19"	"U07.1"	37	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"92 years"	"92"	"Unspecified fall"	"W19"	13	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"93 years"	"93"	"Septicaemia, unspecified"	"A41.9"	13	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"93 years"	"93"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	13	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"93 years"	"93"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	11	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"93 years"	"93"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	15	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"93 years"	"93"	"Vascular dementia, unspecified"	"F01.9"	21	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"93 years"	"93"	"Unspecified dementia"	"F03"	147	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"93 years"	"93"	"Parkinson disease"	"G20"	13	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"93 years"	"93"	"Alzheimer disease, unspecified"	"G30.9"	110	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"93 years"	"93"	"Senile degeneration of brain, not elsewhere classified"	"G31.1"	29	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"93 years"	"93"	"Essential (primary) hypertension"	"I10"	22	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"93 years"	"93"	"Hypertensive heart disease with (congestive) heart failure"	"I11.0"	21	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"93 years"	"93"	"Hypertensive renal disease with renal failure"	"I12.0"	13	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"93 years"	"93"	"Acute myocardial infarction, unspecified"	"I21.9"	36	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"93 years"	"93"	"Atherosclerotic heart disease"	"I25.1"	95	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"93 years"	"93"	"Aortic (valve) stenosis"	"I35.0"	14	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"93 years"	"93"	"Atrial fibrillation and flutter"	"I48"	34	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"93 years"	"93"	"Congestive heart failure"	"I50.0"	51	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"93 years"	"93"	"Heart failure, unspecified"	"I50.9"	22	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"93 years"	"93"	"Stroke, not specified as haemorrhage or infarction"	"I64"	31	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"93 years"	"93"	"Pneumonia, unspecified"	"J18.9"	27	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"93 years"	"93"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	39	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"93 years"	"93"	"Pneumonitis due to food and vomit"	"J69.0"	19	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"93 years"	"93"	"Gastrointestinal haemorrhage, unspecified"	"K92.2"	12	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"93 years"	"93"	"Urinary tract infection, site not specified"	"N39.0"	12	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"93 years"	"93"	"COVID-19"	"U07.1"	23	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"93 years"	"93"	"Other fall on same level"	"W18"	10	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"93 years"	"93"	"Unspecified fall"	"W19"	12	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"94 years"	"94"	"Septicaemia, unspecified"	"A41.9"	11	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"94 years"	"94"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	11	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"94 years"	"94"	"Malignant neoplasm without specification of site"	"C80"	10	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"94 years"	"94"	"Vascular dementia, unspecified"	"F01.9"	26	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"94 years"	"94"	"Unspecified dementia"	"F03"	158	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"94 years"	"94"	"Parkinson disease"	"G20"	17	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"94 years"	"94"	"Alzheimer disease, unspecified"	"G30.9"	95	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"94 years"	"94"	"Senile degeneration of brain, not elsewhere classified"	"G31.1"	30	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"94 years"	"94"	"Essential (primary) hypertension"	"I10"	11	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"94 years"	"94"	"Hypertensive heart disease with (congestive) heart failure"	"I11.0"	20	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"94 years"	"94"	"Hypertensive renal disease with renal failure"	"I12.0"	18	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"94 years"	"94"	"Hypertensive heart and renal disease with both (congestive) heart failure and renal failure"	"I13.2"	10	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"94 years"	"94"	"Acute myocardial infarction, unspecified"	"I21.9"	18	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"94 years"	"94"	"Atherosclerotic heart disease"	"I25.1"	75	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"94 years"	"94"	"Aortic (valve) stenosis"	"I35.0"	18	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"94 years"	"94"	"Atrial fibrillation and flutter"	"I48"	29	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"94 years"	"94"	"Congestive heart failure"	"I50.0"	62	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"94 years"	"94"	"Heart failure, unspecified"	"I50.9"	12	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"94 years"	"94"	"Intracerebral haemorrhage, unspecified"	"I61.9"	11	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"94 years"	"94"	"Stroke, not specified as haemorrhage or infarction"	"I64"	38	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"94 years"	"94"	"Pneumonia, unspecified"	"J18.9"	33	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"94 years"	"94"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	36	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"94 years"	"94"	"Chronic renal failure, unspecified"	"N18.9"	12	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"94 years"	"94"	"Urinary tract infection, site not specified"	"N39.0"	13	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"94 years"	"94"	"COVID-19"	"U07.1"	21	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"94 years"	"94"	"Unspecified fall"	"W19"	10	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"95 years"	"95"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	13	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"95 years"	"95"	"Vascular dementia, unspecified"	"F01.9"	13	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"95 years"	"95"	"Unspecified dementia"	"F03"	131	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"95 years"	"95"	"Alzheimer disease, unspecified"	"G30.9"	99	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"95 years"	"95"	"Senile degeneration of brain, not elsewhere classified"	"G31.1"	15	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"95 years"	"95"	"Essential (primary) hypertension"	"I10"	17	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"95 years"	"95"	"Hypertensive heart disease with (congestive) heart failure"	"I11.0"	18	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"95 years"	"95"	"Hypertensive renal disease with renal failure"	"I12.0"	10	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"95 years"	"95"	"Acute myocardial infarction, unspecified"	"I21.9"	24	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"95 years"	"95"	"Atherosclerotic heart disease"	"I25.1"	59	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"95 years"	"95"	"Aortic (valve) stenosis"	"I35.0"	21	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"95 years"	"95"	"Atrial fibrillation and flutter"	"I48"	31	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"95 years"	"95"	"Congestive heart failure"	"I50.0"	51	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"95 years"	"95"	"Heart failure, unspecified"	"I50.9"	21	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"95 years"	"95"	"Cerebral infarction, unspecified"	"I63.9"	10	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"95 years"	"95"	"Stroke, not specified as haemorrhage or infarction"	"I64"	32	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"95 years"	"95"	"Pneumonia, unspecified"	"J18.9"	18	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"95 years"	"95"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	33	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"95 years"	"95"	"Urinary tract infection, site not specified"	"N39.0"	17	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"95 years"	"95"	"COVID-19"	"U07.1"	22	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"95 years"	"95"	"Other fall on same level"	"W18"	12	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"95 years"	"95"	"Unspecified fall"	"W19"	11	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"96 years"	"96"	"Unspecified diabetes mellitus, without complications"	"E14.9"	11	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"96 years"	"96"	"Unspecified dementia"	"F03"	125	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"96 years"	"96"	"Alzheimer disease, unspecified"	"G30.9"	84	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"96 years"	"96"	"Senile degeneration of brain, not elsewhere classified"	"G31.1"	13	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"96 years"	"96"	"Essential (primary) hypertension"	"I10"	18	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"96 years"	"96"	"Hypertensive heart disease with (congestive) heart failure"	"I11.0"	19	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"96 years"	"96"	"Acute myocardial infarction, unspecified"	"I21.9"	25	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"96 years"	"96"	"Atherosclerotic heart disease"	"I25.1"	69	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"96 years"	"96"	"Aortic (valve) stenosis"	"I35.0"	19	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"96 years"	"96"	"Atrial fibrillation and flutter"	"I48"	31	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"96 years"	"96"	"Congestive heart failure"	"I50.0"	41	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"96 years"	"96"	"Heart failure, unspecified"	"I50.9"	14	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"96 years"	"96"	"Stroke, not specified as haemorrhage or infarction"	"I64"	40	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"96 years"	"96"	"Pneumonia, unspecified"	"J18.9"	24	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"96 years"	"96"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	17	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"96 years"	"96"	"COVID-19"	"U07.1"	21	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"96 years"	"96"	"Unspecified fall"	"W19"	12	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"97 years"	"97"	"Vascular dementia, unspecified"	"F01.9"	12	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"97 years"	"97"	"Unspecified dementia"	"F03"	100	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"97 years"	"97"	"Parkinson disease"	"G20"	12	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"97 years"	"97"	"Alzheimer disease, unspecified"	"G30.9"	73	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"97 years"	"97"	"Senile degeneration of brain, not elsewhere classified"	"G31.1"	21	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"97 years"	"97"	"Essential (primary) hypertension"	"I10"	16	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"97 years"	"97"	"Hypertensive heart disease with (congestive) heart failure"	"I11.0"	15	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"97 years"	"97"	"Acute myocardial infarction, unspecified"	"I21.9"	18	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"97 years"	"97"	"Atherosclerotic heart disease"	"I25.1"	52	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"97 years"	"97"	"Aortic (valve) stenosis"	"I35.0"	15	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"97 years"	"97"	"Atrial fibrillation and flutter"	"I48"	20	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"97 years"	"97"	"Congestive heart failure"	"I50.0"	36	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"97 years"	"97"	"Stroke, not specified as haemorrhage or infarction"	"I64"	20	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"97 years"	"97"	"Pneumonia, unspecified"	"J18.9"	24	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"97 years"	"97"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	13	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"97 years"	"97"	"Pneumonitis due to food and vomit"	"J69.0"	11	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"97 years"	"97"	"COVID-19"	"U07.1"	15	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"98 years"	"98"	"Vascular dementia, unspecified"	"F01.9"	10	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"98 years"	"98"	"Unspecified dementia"	"F03"	74	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"98 years"	"98"	"Alzheimer disease, unspecified"	"G30.9"	54	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"98 years"	"98"	"Senile degeneration of brain, not elsewhere classified"	"G31.1"	14	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"98 years"	"98"	"Essential (primary) hypertension"	"I10"	16	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"98 years"	"98"	"Hypertensive heart disease with (congestive) heart failure"	"I11.0"	15	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"98 years"	"98"	"Acute myocardial infarction, unspecified"	"I21.9"	16	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"98 years"	"98"	"Atherosclerotic heart disease"	"I25.1"	52	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"98 years"	"98"	"Atrial fibrillation and flutter"	"I48"	16	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"98 years"	"98"	"Congestive heart failure"	"I50.0"	28	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"98 years"	"98"	"Heart failure, unspecified"	"I50.9"	13	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"98 years"	"98"	"Pneumonia, unspecified"	"J18.9"	20	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"98 years"	"98"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	16	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"98 years"	"98"	"COVID-19"	"U07.1"	15	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"99 years"	"99"	"Unspecified dementia"	"F03"	61	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"99 years"	"99"	"Alzheimer disease, unspecified"	"G30.9"	48	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"99 years"	"99"	"Essential (primary) hypertension"	"I10"	15	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"99 years"	"99"	"Acute myocardial infarction, unspecified"	"I21.9"	13	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"99 years"	"99"	"Atherosclerotic heart disease"	"I25.1"	31	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"99 years"	"99"	"Atrial fibrillation and flutter"	"I48"	16	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"99 years"	"99"	"Congestive heart failure"	"I50.0"	25	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"99 years"	"99"	"Heart failure, unspecified"	"I50.9"	10	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"99 years"	"99"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	11	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"99 years"	"99"	"COVID-19"	"U07.1"	12	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"100+ years"	"100"	"Vascular dementia, unspecified"	"F01.9"	11	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"100+ years"	"100"	"Unspecified dementia"	"F03"	133	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"100+ years"	"100"	"Alzheimer disease with late onset"	"G30.1"	12	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"100+ years"	"100"	"Alzheimer disease, unspecified"	"G30.9"	57	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"100+ years"	"100"	"Senile degeneration of brain, not elsewhere classified"	"G31.1"	23	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"100+ years"	"100"	"Essential (primary) hypertension"	"I10"	30	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"100+ years"	"100"	"Hypertensive heart disease with (congestive) heart failure"	"I11.0"	19	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"100+ years"	"100"	"Hypertensive renal disease with renal failure"	"I12.0"	11	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"100+ years"	"100"	"Acute myocardial infarction, unspecified"	"I21.9"	20	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"100+ years"	"100"	"Atherosclerotic heart disease"	"I25.1"	63	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"100+ years"	"100"	"Atrial fibrillation and flutter"	"I48"	20	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"100+ years"	"100"	"Congestive heart failure"	"I50.0"	56	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"100+ years"	"100"	"Heart failure, unspecified"	"I50.9"	21	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"100+ years"	"100"	"Stroke, not specified as haemorrhage or infarction"	"I64"	27	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"100+ years"	"100"	"Pneumonia, unspecified"	"J18.9"	28	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"100+ years"	"100"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	14	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"100+ years"	"100"	"Gastrointestinal haemorrhage, unspecified"	"K92.2"	11	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"100+ years"	"100"	"Senility"	"R54"	28	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"100+ years"	"100"	"COVID-19"	"U07.1"	25	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"100+ years"	"100"	"Unspecified fall"	"W19"	11	Not Applicable	Not Applicable
+"---"
+"Dataset: Underlying Cause of Death, 1999-2020"
+"Query Parameters:"
+"Title: Nevada CoD F"
+"Gender: Female"
+"States: Nebraska (31)"
+"Year/Month: 2016; 2017; 2018; 2019; 2020"
+"Group By: State; Single-Year Ages; Cause of death"
+"Show Totals: Disabled"
+"Show Zero Values: Disabled"
+"Show Suppressed: False"
+"Calculate Rates Per: 100,000"
+"Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/ucd.html for more information."
+"---"
+"Query Date: Apr 11, 2022 2:06:50 AM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. Underlying Cause of Death"
+"1999-2020 on CDC WONDER Online Database, released in 2021. Data are from the Multiple Cause of Death Files, 1999-2020, as"
+"compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative Program. Accessed"
+"at http://wonder.cdc.gov/ucd-icd10.html on Apr 11, 2022 2:06:50 AM"
+"---"
+Messages:
+"1. The full results are too long to be displayed. Due to suppression constraints rows that are zero, suppressed or a total will"
+"not be available."
+"---"
+Caveats:
+"1. Population and rates are labeled 'Not Applicable' when they include a subset of ages 85-100+ because populations are not"
+"available for those ages. More information: http://wonder.cdc.gov/wonder/help/ucd.html#Ages 85-100."
+"2. Death rates are flagged as Unreliable when the rate is calculated with a numerator of 20 or less. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Unreliable."
+"3. Deaths of persons with Age ""Not Stated"" are included in ""All"" counts and rates, but are not distributed among age groups,"
+"so are not included in age-specific counts, age-specific rates or in any age-adjusted rates. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Not Stated."
+"4. The population figures for year 2020 are bridged-race estimates of the July 1 resident population, from the Vintage 2020"
+"postcensal series released by NCHS on September 22, 2021. The population figures for year 2019 are bridged-race estimates of the"
+"July 1 resident population, from the Vintage 2019 postcensal series released by NCHS on July 9, 2020. The population figures for"
+"year 2018 are bridged-race estimates of the July 1 resident population, from the Vintage 2018 postcensal series released by NCHS"
+"on June 25, 2019. The population figures for year 2017 are bridged-race estimates of the July 1 resident population, from the"
+"Vintage 2017 postcensal series released by NCHS on June 27, 2018. The population figures for year 2016 are bridged-race"
+"estimates of the July 1 resident population, from the Vintage 2016 postcensal series released by NCHS on June 26, 2017. The"
+"population figures for year 2015 are bridged-race estimates of the July 1 resident population, from the Vintage 2015 postcensal"
+"series released by NCHS on June 28, 2016. The population figures for year 2014 are bridged-race estimates of the July 1 resident"
+"population, from the Vintage 2014 postcensal series released by NCHS on June 30, 2015. The population figures for year 2013 are"
+"bridged-race estimates of the July 1 resident population, from the Vintage 2013 postcensal series released by NCHS on June 26,"
+"2014. The population figures for year 2012 are bridged-race estimates of the July 1 resident population, from the Vintage 2012"
+"postcensal series released by NCHS on June 13, 2013. The population figures for year 2011 are bridged-race estimates of the July"
+"1 resident population, from the Vintage 2011 postcensal series released by NCHS on July 18, 2012. Population figures for 2010"
+"are April 1 Census counts. The population figures for years 2001 - 2009 are bridged-race estimates of the July 1 resident"
+"population, from the revised intercensal county-level 2000 - 2009 series released by NCHS on October 26, 2012. Population"
+"figures for 2000 are April 1 Census counts. Population figures for 1999 are from the 1990-1999 intercensal series of July 1"
+"estimates. Population figures for the infant age groups are the number of live births. <br/><b>Note:</b> Rates and population"
+"figures for years 2001 - 2009 differ slightly from previously published reports, due to use of the population estimates which"
+"were available at the time of release."
+"5. The population figures used in the calculation of death rates for the age group 'under 1 year' are the estimates of the"
+"resident population that is under one year of age. More information: http://wonder.cdc.gov/wonder/help/ucd.html#Age Group."
+"6. Beginning with the 2018 data, changes have been implemented that affect the counts for ICD-10 cause of death codes O00-O99"
+"compared to previous practice. In addition, data for the cause of death codes O00-O99 for 2003 through 2017 reflect differences"
+"in information available to individual states and probable errors. Caution should be used in interpreting these data. More"
+"information can be found at: https://www.cdc.gov/nchs/maternal-mortality/."
+"7. On March 11, 2021, the 2019 mortality data on CDC WONDER was updated with the 2019 mortality data updated by NCHS on March 4,"
+"2021 to include corrected information for residents of Texas affecting 5 records previously coded to cause code *U01.4,"
+"Terrorism involving firearms (homicide). The underlying and multiple cause of death codes for 5 records were corrected in the"
+"2019 data. Underlying and multiple cause of death codes for those 5 records were recoded to Assault (homicide) by other and"
+"unspecified firearm discharge, ICD-10 code X95. The corrected final death records replaces the data released on December 22,"
+"2020."
+"8. Changes to cause of death classification affect reporting trends. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#ICD-10 Changes."
